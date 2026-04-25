@@ -2,6 +2,7 @@ import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 
 const DEFAULT_STUDENT_ID = "local-default-student";
+const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
 export async function GET(request: Request) {
   const url = new URL(request.url);
@@ -60,9 +61,28 @@ export async function GET(request: Request) {
       select: {
         seenCount: true,
         correctCount: true,
+        word: {
+          select: {
+            alphabetLetter: true,
+          },
+        },
       },
     }),
   ]);
+
+  const wordsByLetterRows = await prisma.word.groupBy({
+    by: ["alphabetLetter"],
+    _count: {
+      _all: true,
+    },
+    where: {
+      alphabetLetter: {
+        in: LETTERS,
+      },
+    },
+  });
+
+  const wordsByLetter = new Map(wordsByLetterRows.map((row) => [row.alphabetLetter, row._count._all]));
 
   const wordIds =
     sessionIds.length > 0
@@ -109,6 +129,51 @@ export async function GET(request: Request) {
       masteredWords: 0,
     },
   );
+
+  const masteryByLetterSeed = LETTERS.map((letter) => {
+    const totalWords = wordsByLetter.get(letter) ?? 0;
+    return {
+      letter,
+      totalWords,
+      wordsSeen: 0,
+      masteredWords: 0,
+      coveragePercent: 0,
+      masteryPercent: 0,
+    };
+  });
+
+  const masteryByLetterMap = new Map(masteryByLetterSeed.map((row) => [row.letter, row]));
+
+  for (const row of allProgressRows) {
+    const letter = row.word.alphabetLetter;
+    if (!/^[A-Z]$/.test(letter)) {
+      continue;
+    }
+
+    const letterRow = masteryByLetterMap.get(letter);
+    if (!letterRow) {
+      continue;
+    }
+
+    const seenCount = row.seenCount;
+    const accuracy = seenCount > 0 ? row.correctCount / seenCount : 0;
+
+    if (seenCount > 0) {
+      letterRow.wordsSeen += 1;
+    }
+
+    if (seenCount >= 2 && accuracy >= 0.8) {
+      letterRow.masteredWords += 1;
+    }
+  }
+
+  const masteryByLetter = masteryByLetterSeed
+    .map((row) => ({
+      ...row,
+      coveragePercent: row.totalWords > 0 ? row.wordsSeen / row.totalWords : 0,
+      masteryPercent: row.totalWords > 0 ? row.masteredWords / row.totalWords : 0,
+    }))
+    .filter((row) => row.totalWords > 0);
 
   const summary = sessions.reduce(
     (acc, session) => {
@@ -200,6 +265,7 @@ export async function GET(request: Request) {
         allWordsMastery.wordsSeen > 0 ? allWordsMastery.masteredWords / allWordsMastery.wordsSeen : 0,
       masteryRule: "Mastered = seen at least 2 times and accuracy at least 80%",
     },
+    masteryByLetter,
     filters: {
       quizType: quizTypeFilter ?? "all",
       letter: letterFilter ?? "all",

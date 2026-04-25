@@ -3,9 +3,32 @@
 import { useEffect, useMemo, useState } from "react";
 import { useStudent } from "@/lib/student-context";
 
+function escapeRegExp(value: string) {
+  return value.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function renderSentenceWithPrimaryWordBold(sentence: string, primaryWord: string) {
+  if (!sentence || !primaryWord) {
+    return sentence;
+  }
+
+  const pattern = new RegExp(`\\b(${escapeRegExp(primaryWord)})\\b`, "gi");
+  const parts = sentence.split(pattern);
+
+  if (parts.length <= 1) {
+    return sentence;
+  }
+
+  return parts.map((part, index) => {
+    const isMatch = part.toLowerCase() === primaryWord.toLowerCase();
+    return isMatch ? <strong key={`${part}-${index}`}>{part}</strong> : part;
+  });
+}
+
 type BlankQuizQuestion = {
   wordId: number;
   word: string;
+  meaning: string;
   blankSentence: string;
   sentence: string;
   sentenceCount: number;
@@ -27,11 +50,13 @@ type QuizSession = {
 
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 const batchOptions = [10, 20, 30, 40, 50, "all"] as const;
+const randomBatchOptions = [10, 20, 50] as const;
 
 export function BlankPracticeClient() {
   const { student } = useStudent();
   const [selectedLetters, setSelectedLetters] = useState<string[]>(["A"]);
   const [batch, setBatch] = useState<number | "all">(20);
+  const [mode, setMode] = useState<"first" | "random" | "weak">("first");
   const [quiz, setQuiz] = useState<BlankQuizQuestion[]>([]);
   const [quizIndex, setQuizIndex] = useState(0);
   const [feedback, setFeedback] = useState<string>("");
@@ -43,6 +68,7 @@ export function BlankPracticeClient() {
   const [completed, setCompleted] = useState(false);
   const [selectedChoice, setSelectedChoice] = useState<string | null>(null);
   const [lastAnswerCorrect, setLastAnswerCorrect] = useState<boolean | null>(null);
+  const [letterCounts, setLetterCounts] = useState<Record<string, number>>({});
 
   useEffect(() => {
     if (setupVisible) {
@@ -50,7 +76,38 @@ export function BlankPracticeClient() {
     }
   }, [setupVisible]);
 
+  useEffect(() => {
+    let active = true;
+
+    async function loadLetterCounts() {
+      try {
+        const response = await fetch("/api/quiz/letter-counts?quizType=blank");
+        if (!response.ok) {
+          return;
+        }
+
+        const payload = (await response.json()) as { counts?: Record<string, number> };
+        if (active && payload.counts) {
+          setLetterCounts(payload.counts);
+        }
+      } catch {
+        // Keep setup usable even if count loading fails.
+      }
+    }
+
+    void loadLetterCounts();
+
+    return () => {
+      active = false;
+    };
+  }, []);
+
   const currentQuiz = useMemo(() => quiz[quizIndex], [quiz, quizIndex]);
+  const currentMeaning = currentQuiz?.meaning?.trim() || "Meaning unavailable";
+  const totalLetterCount = useMemo(
+    () => letters.reduce((sum, letter) => sum + (letterCounts[letter] ?? 0), 0),
+    [letterCounts],
+  );
 
   function isAllLettersSelected() {
     return selectedLetters.length === letters.length;
@@ -85,8 +142,19 @@ export function BlankPracticeClient() {
     setCompleted(false);
 
     const lettersQuery = isAllLettersSelected() ? "all" : selectedLetters.join(",");
-    const countQuery = batch === "all" ? "all" : String(batch);
-    const quizResponse = await fetch(`/api/quiz/blanks?letters=${lettersQuery}&count=${countQuery}`);
+    const countQuery = mode === "weak" ? "all" : batch === "all" ? "all" : String(batch);
+    const params = new URLSearchParams({
+      letters: lettersQuery,
+      count: countQuery,
+      mode: mode === "random" ? "random" : "first",
+    });
+
+    if (mode === "weak") {
+      params.set("weakOnly", "true");
+      params.set("studentId", student?.id ?? "local-default-student");
+    }
+
+    const quizResponse = await fetch(`/api/quiz/blanks?${params.toString()}`);
     const quizPayload = (await quizResponse.json()) as { questions: BlankQuizQuestion[] };
     const questions = quizPayload.questions ?? [];
 
@@ -204,7 +272,7 @@ export function BlankPracticeClient() {
                 : "border-slate-300 bg-white text-slate-700"
             }`}
           >
-            All Alphabets
+            All Alphabets ({totalLetterCount})
           </button>
 
           {letters.map((value) => (
@@ -218,7 +286,7 @@ export function BlankPracticeClient() {
                   : "border-slate-300 bg-white text-slate-700"
               }`}
             >
-              {value}
+              {value} ({letterCounts[value] ?? 0})
             </button>
           ))}
         </div>
@@ -228,11 +296,14 @@ export function BlankPracticeClient() {
             <button
               key={String(value)}
               type="button"
-              onClick={() => setBatch(value)}
+              onClick={() => {
+                setMode("first");
+                setBatch(value);
+              }}
               className={`rounded-md border px-3 py-1 text-sm ${
-                value === batch
-                  ? "border-emerald-700 bg-emerald-700 text-white"
-                  : "border-slate-300 bg-white text-slate-700"
+                mode === "first" && value === batch
+                  ? "border-blue-700 bg-blue-700 text-white"
+                  : "border-blue-200 bg-blue-50 text-blue-800 hover:bg-blue-100"
               }`}
             >
               {value === "all" ? "All Words" : `First ${value}`}
@@ -240,12 +311,44 @@ export function BlankPracticeClient() {
           ))}
         </div>
 
+        <div className="mt-3 flex flex-wrap gap-2">
+          {randomBatchOptions.map((value) => (
+            <button
+              key={`random-${value}`}
+              type="button"
+              onClick={() => {
+                setMode("random");
+                setBatch(value);
+              }}
+              className={`rounded-md border px-3 py-1 text-sm ${
+                mode === "random" && value === batch
+                  ? "border-amber-700 bg-amber-600 text-white"
+                  : "border-amber-200 bg-amber-50 text-amber-900 hover:bg-amber-100"
+              }`}
+            >
+              Random {value}
+            </button>
+          ))}
+
+          <button
+            type="button"
+            onClick={() => setMode("weak")}
+            className={`rounded-md border px-3 py-1 text-sm ${
+              mode === "weak"
+                ? "border-rose-700 bg-rose-700 text-white"
+                : "border-rose-200 bg-rose-50 text-rose-800 hover:bg-rose-100"
+            }`}
+          >
+            Weak Words Quiz
+          </button>
+        </div>
+
         <button
           type="button"
           onClick={() => void startQuiz()}
           className="mt-4 rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white"
         >
-          Start Quiz
+          {mode === "weak" ? "Start Weak Words Quiz" : "Start Quiz"}
         </button>
       </section>
       ) : null}
@@ -311,9 +414,9 @@ export function BlankPracticeClient() {
               {showSentence ? (
                 <>
                   <p className="font-medium text-slate-900">
-                    Sentence usage ({currentQuiz.sentenceIndex}/{Math.max(currentQuiz.sentenceCount, 1)})
+                    {currentQuiz.word} : {currentMeaning}
                   </p>
-                  <p className="mt-1">{currentQuiz.sentence}</p>
+                  <p className="mt-1 text-slate-700">{renderSentenceWithPrimaryWordBold(currentQuiz.sentence, currentQuiz.word)}</p>
                 </>
               ) : <p className="text-transparent select-none">{"\u00A0"}</p>}
             </div>

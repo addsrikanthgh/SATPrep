@@ -47,6 +47,14 @@ type ProgressPayload = {
     masteryPercentOfSeenWords: number;
     masteryRule: string;
   };
+  masteryByLetter: Array<{
+    letter: string;
+    totalWords: number;
+    wordsSeen: number;
+    masteredWords: number;
+    coveragePercent: number;
+    masteryPercent: number;
+  }>;
   filters: {
     quizType: string;
     letter: string;
@@ -330,6 +338,44 @@ export function ProgressClient() {
           </div>
         ) : null}
       </section>
+
+      {!loading && data ? (
+        <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
+          <h2 className="text-lg font-semibold text-slate-900">Mastery By Letter</h2>
+          <p className="mt-1 text-sm text-slate-600">
+            Track mastery progress for each alphabet letter using the same mastery rule.
+          </p>
+
+          <div className="mt-4 overflow-x-auto">
+            <table className="min-w-full border-collapse text-sm">
+              <thead>
+                <tr className="border-b border-slate-200 text-left text-slate-600">
+                  <th className="px-2 py-2">Letter</th>
+                  <th className="px-2 py-2">Mastered</th>
+                  <th className="px-2 py-2">Seen</th>
+                  <th className="px-2 py-2">Coverage</th>
+                  <th className="px-2 py-2">Mastery %</th>
+                </tr>
+              </thead>
+              <tbody>
+                {data.masteryByLetter.map((row) => (
+                  <tr key={row.letter} className="border-b border-slate-100 align-top text-slate-800">
+                    <td className="px-2 py-2 font-semibold text-slate-900">{row.letter}</td>
+                    <td className="px-2 py-2">
+                      {row.masteredWords} / {row.totalWords}
+                    </td>
+                    <td className="px-2 py-2">
+                      {row.wordsSeen} / {row.totalWords}
+                    </td>
+                    <td className="px-2 py-2">{toPercent(row.coveragePercent)}</td>
+                    <td className="px-2 py-2">{toPercent(row.masteryPercent)}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </section>
+      ) : null}
     </div>
   );
 }

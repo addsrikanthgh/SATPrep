@@ -1,11 +1,12 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { pickSentence } from "@/lib/sentences";
+import { getConfiguredSentences, pickSentence } from "@/lib/sentences";
 
 type QuizQuestion = {
   wordId: number;
   word: string;
   sentence: string;
+  allSentences: string[];
   sentenceCount: number;
   sentenceIndex: number;
   choices: string[];
@@ -41,9 +42,25 @@ function parseLetters(rawValue: string | null) {
   return letters;
 }
 
+function parseMode(rawValue: string | null) {
+  return rawValue?.toLowerCase() === "random" ? "random" : "first";
+}
+
+function parseWeakOnly(rawValue: string | null) {
+  if (!rawValue) {
+    return false;
+  }
+
+  const value = rawValue.trim().toLowerCase();
+  return value === "1" || value === "true" || value === "yes";
+}
+
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
   const letterSelection = parseLetters(searchParams.get("letters") ?? searchParams.get("letter"));
+  const mode = parseMode(searchParams.get("mode"));
+  const weakOnly = parseWeakOnly(searchParams.get("weakOnly"));
+  const studentId = searchParams.get("studentId") ?? "local-default-student";
   const countRaw = (searchParams.get("count") ?? "10").toLowerCase();
   const countParsed = Number(countRaw);
   const isAllWords = countRaw === "all";
@@ -57,10 +74,43 @@ export async function GET(request: NextRequest) {
   const letterWhere =
     letterSelection === "all" ? {} : { alphabetLetter: { in: letterSelection } };
 
+  let weakWordIds: number[] | null = null;
+
+  if (weakOnly) {
+    const weakProgressRows = await prisma.studentProgress.findMany({
+      where: {
+        studentId,
+        seenCount: { gt: 0 },
+      },
+      select: {
+        wordId: true,
+        seenCount: true,
+        correctCount: true,
+      },
+    });
+
+    weakWordIds = weakProgressRows
+      .filter((row) => row.seenCount - row.correctCount > 0)
+      .map((row) => row.wordId);
+
+    if (weakWordIds.length === 0) {
+      return NextResponse.json({
+        letters: letterSelection === "all" ? "ALL" : letterSelection,
+        count: 0,
+        allWords: false,
+        questions: [],
+      });
+    }
+  }
+
+  const whereClause = {
+    ...letterWhere,
+    ...(weakWordIds ? { id: { in: weakWordIds } } : {}),
+  };
+
   const words = await prisma.word.findMany({
-    where: letterWhere,
+    where: whereClause,
     orderBy: [{ alphabetLetter: "asc" }, { alphabetOrder: "asc" }],
-    ...(take ? { take } : {}),
     select: {
       id: true,
       word: true,
@@ -81,8 +131,12 @@ export async function GET(request: NextRequest) {
 
   const distractors = [...new Set(distractorPool.map((entry) => entry.synonym))];
 
-  const questions: QuizQuestion[] = words.map((word) => {
+  const candidateWords = mode === "random" ? shuffle(words) : words;
+  const selectedWords = take ? candidateWords.slice(0, take) : candidateWords;
+
+  const questions: QuizQuestion[] = selectedWords.map((word) => {
     const selectedSentence = pickSentence(word);
+    const allSentences = getConfiguredSentences(word);
     const wrongChoices = shuffle(distractors.filter((value) => value !== word.synonym)).slice(0, 3);
     const choices = shuffle([word.synonym, ...wrongChoices]);
 
@@ -90,6 +144,7 @@ export async function GET(request: NextRequest) {
       wordId: word.id,
       word: word.word,
       sentence: selectedSentence.sentence,
+      allSentences,
       sentenceCount: selectedSentence.sentenceCount,
       sentenceIndex: selectedSentence.sentenceIndex,
       choices,
@@ -99,7 +154,7 @@ export async function GET(request: NextRequest) {
 
   return NextResponse.json({
     letters: letterSelection === "all" ? "ALL" : letterSelection,
-    count: take ?? questions.length,
+    count: selectedWords.length,
     allWords: isAllWords,
     questions: shuffle(questions),
   });
