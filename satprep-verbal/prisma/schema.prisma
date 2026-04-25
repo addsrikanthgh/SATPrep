@@ -1,0 +1,118 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Get a free hosted Postgres database in seconds: `npx create-db`
+
+generator client {
+  provider = "prisma-client-js"
+  engineType = "binary"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Word {
+  id             Int                 @id @default(autoincrement())
+  word           String              @unique
+  partOfSpeech   String
+  synonym        String
+  sentence_1     String              @map("sentence")
+  sentence_2     String?
+  sentence_3     String?
+  sentence_4     String?
+  sentence_5     String?
+  alphabetLetter String
+  alphabetOrder  Int
+  createdAt      DateTime            @default(now())
+  updatedAt      DateTime            @updatedAt
+  blankQuestions BlankSentenceQuestion[]
+  progress       StudentProgress[]
+  quizAnswers    QuizAnswer[]
+}
+
+model BlankSentenceQuestion {
+  id           Int      @id @default(autoincrement())
+  wordId       Int
+  sentence     String
+  blankSentence String
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  word         Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([wordId])
+}
+
+model PassageSet {
+  id          String           @id
+  title       String?
+  sourceWords String
+  passage     String
+  version     Int              @default(1)
+  createdAt   DateTime         @default(now())
+  updatedAt   DateTime         @updatedAt
+  questions   PassageQuestion[]
+}
+
+model PassageQuestion {
+  id            Int        @id @default(autoincrement())
+  passageSetId  String
+  questionId    String
+  questionType  String
+  questionText  String
+  choiceA       String
+  choiceB       String
+  choiceC       String
+  choiceD       String
+  correctAnswer String
+  explanation   String
+  createdAt     DateTime   @default(now())
+  updatedAt     DateTime   @updatedAt
+  passageSet    PassageSet @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
+
+  @@unique([passageSetId, questionId])
+}
+
+model StudentProgress {
+  id          Int      @id @default(autoincrement())
+  studentId   String   @default("local-default-student")
+  wordId      Int
+  seenCount   Int      @default(0)
+  correctCount Int     @default(0)
+  lastResult  Boolean?
+  updatedAt   DateTime @updatedAt
+  word        Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, wordId])
+}
+
+model QuizSession {
+  id            Int         @id @default(autoincrement())
+  studentId     String      @default("local-default-student")
+  quizType      String
+  quizNumber    Int
+  quizName      String
+  alphabetLetter String
+  questionCount Int
+  answeredCount Int         @default(0)
+  correctCount  Int         @default(0)
+  status        String      @default("in_progress")
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
+  answers       QuizAnswer[]
+
+  @@index([studentId, quizType, quizNumber])
+}
+
+model QuizAnswer {
+  id            Int         @id @default(autoincrement())
+  quizSessionId Int
+  wordId        Int
+  isCorrect     Boolean
+  createdAt     DateTime    @default(now())
+  quizSession   QuizSession @relation(fields: [quizSessionId], references: [id], onDelete: Cascade)
+  word          Word        @relation(fields: [wordId], references: [id], onDelete: Cascade)
+
+  @@unique([quizSessionId, wordId])
+}
