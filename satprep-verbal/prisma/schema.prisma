@@ -33,13 +33,21 @@ model Word {
 }
 
 model BlankSentenceQuestion {
-  id           Int      @id @default(autoincrement())
-  wordId       Int
-  sentence     String
-  blankSentence String
-  createdAt    DateTime @default(now())
-  updatedAt    DateTime @updatedAt
-  word         Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  id              Int      @id @default(autoincrement())
+  wordId          Int
+  sentence        String
+  blankSentence   String
+  sentence_2      String?
+  blankSentence_2 String?
+  sentence_3      String?
+  blankSentence_3 String?
+  sentence_4      String?
+  blankSentence_4 String?
+  sentence_5      String?
+  blankSentence_5 String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  word            Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
 
   @@unique([wordId])
 }

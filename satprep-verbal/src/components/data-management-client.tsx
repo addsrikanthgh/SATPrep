@@ -13,16 +13,19 @@ export function DataManagementClient() {
   const [clearStatus, setClearStatus] = useState<Status>(null);
   const [restoreStatus, setRestoreStatus] = useState<Status>(null);
   const [wordsImportStatus, setWordsImportStatus] = useState<Status>(null);
+  const [blanksImportStatus, setBlanksImportStatus] = useState<Status>(null);
   const [passcodeStatus, setPasscodeStatus] = useState<Status>(null);
   const [importPasscode, setImportPasscode] = useState("");
   const [passcodeVerified, setPasscodeVerified] = useState(false);
   const [clearing, setClearing] = useState(false);
   const [restoring, setRestoring] = useState(false);
   const [importingWords, setImportingWords] = useState(false);
+  const [importingBlanks, setImportingBlanks] = useState(false);
   const [verifyingPasscode, setVerifyingPasscode] = useState(false);
   const [showClearConfirm, setShowClearConfirm] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
   const wordsFileInputRef = useRef<HTMLInputElement>(null);
+  const blanksFileInputRef = useRef<HTMLInputElement>(null);
 
   async function handleBackup() {
     setBackupStatus(null);
@@ -154,6 +157,7 @@ export function DataManagementClient() {
       const result = (await response.json()) as {
         success?: boolean;
         importedCount?: number;
+        skippedMissingWordCount?: number;
         sourceFileUpdated?: boolean;
         error?: string;
       };
@@ -179,6 +183,79 @@ export function DataManagementClient() {
       setImportingWords(false);
       if (wordsFileInputRef.current) {
         wordsFileInputRef.current.value = "";
+      }
+    }
+  }
+
+  async function handleImportBlanks(e: React.ChangeEvent<HTMLInputElement>) {
+    const file = e.target.files?.[0];
+    if (!file) return;
+
+    setBlanksImportStatus(null);
+    setImportingBlanks(true);
+
+    try {
+      const text = await file.text();
+      let json: unknown;
+
+      try {
+        json = JSON.parse(text);
+      } catch {
+        setBlanksImportStatus({ type: "error", message: "Invalid JSON file." });
+        return;
+      }
+
+      const questions = Array.isArray(json) ? json : null;
+      if (!questions) {
+        setBlanksImportStatus({
+          type: "error",
+          message: "Question_word_blanks.json must be a JSON array.",
+        });
+        return;
+      }
+
+      const response = await fetch("/api/quiz/blanks/import", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({
+          questions,
+          adminPasscode: importPasscode,
+          saveToSourceFile: true,
+        }),
+      });
+
+      const result = (await response.json()) as {
+        success?: boolean;
+        importedCount?: number;
+        sourceFileUpdated?: boolean;
+        error?: string;
+      };
+
+      if (!response.ok || !result.success) {
+        setBlanksImportStatus({
+          type: "error",
+          message: result.error || "Failed to import Question_word_blanks.json data.",
+        });
+        return;
+      }
+
+      setBlanksImportStatus({
+        type: "success",
+        message: `Imported ${result.importedCount ?? 0} blank-question rows and updated Question_word_blanks.json.${
+          (result.skippedMissingWordCount ?? 0) > 0
+            ? ` Skipped ${result.skippedMissingWordCount} rows because matching words were not found in the Word table.`
+            : ""
+        }`,
+      });
+      setImportPasscode("");
+      setPasscodeVerified(false);
+      setPasscodeStatus(null);
+    } catch {
+      setBlanksImportStatus({ type: "error", message: "An error occurred while importing Question_word_blanks.json." });
+    } finally {
+      setImportingBlanks(false);
+      if (blanksFileInputRef.current) {
+        blanksFileInputRef.current.value = "";
       }
     }
   }
@@ -308,6 +385,32 @@ export function DataManagementClient() {
         {wordsImportStatus ? (
           <p className={`mt-2 text-sm ${wordsImportStatus.type === "success" ? "text-emerald-700" : "text-red-600"}`}>
             {wordsImportStatus.message}
+          </p>
+        ) : null}
+      </section>
+
+      {/* Admin Blank Question Import */}
+      <section className="rounded-xl border border-amber-300 bg-white p-5 shadow-sm">
+        <h2 className="text-base font-semibold text-slate-900">Admin: Import Question_word_blanks.json</h2>
+        <p className="mt-1 text-sm text-slate-500">
+          Upload blank-question JSON data to refresh blank quiz prompts. Each row must include either
+          sentence and blankSentence or sentence_1 and blankSentence_1, and can optionally include up to
+          sentence_5 and blankSentence_5.
+        </p>
+        <label className="mt-4 inline-block cursor-pointer rounded-md border border-amber-300 bg-amber-50 px-4 py-2 text-sm font-medium text-amber-900 hover:bg-amber-100">
+          {importingBlanks ? "Importing…" : "Choose Question_word_blanks.json"}
+          <input
+            ref={blanksFileInputRef}
+            type="file"
+            accept=".json,application/json"
+            onChange={handleImportBlanks}
+            disabled={importingBlanks || !passcodeVerified}
+            className="sr-only"
+          />
+        </label>
+        {blanksImportStatus ? (
+          <p className={`mt-2 text-sm ${blanksImportStatus.type === "success" ? "text-emerald-700" : "text-red-600"}`}>
+            {blanksImportStatus.message}
           </p>
         ) : null}
       </section>

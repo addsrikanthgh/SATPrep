@@ -25,3 +25,35 @@ export function pickSentence(slots: WordSentenceSlots) {
     sentenceIndex: sentenceIndex + 1,
   };
 }
+
+export type BlankSentenceSlots = {
+  blankSentence: string | null;
+  blankSentence_2: string | null;
+  blankSentence_3: string | null;
+  blankSentence_4: string | null;
+  blankSentence_5: string | null;
+};
+
+export function getConfiguredBlankSentences(slots: BlankSentenceSlots) {
+  return [
+    slots.blankSentence,
+    slots.blankSentence_2,
+    slots.blankSentence_3,
+    slots.blankSentence_4,
+    slots.blankSentence_5,
+  ].filter((value): value is string => typeof value === "string" && value.trim().length > 0);
+}
+
+export function pickBlankSentence(slots: BlankSentenceSlots) {
+  const configured = getConfiguredBlankSentences(slots);
+  if (configured.length === 0) {
+    return { blankSentence: "", sentenceCount: 0, sentenceIndex: 0 };
+  }
+
+  const sentenceIndex = Math.floor(Math.random() * configured.length);
+  return {
+    blankSentence: configured[sentenceIndex],
+    sentenceCount: configured.length,
+    sentenceIndex: sentenceIndex + 1,
+  };
+}

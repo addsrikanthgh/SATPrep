@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
-import { pickSentence } from "@/lib/sentences";
+import { pickBlankSentence, pickSentence } from "@/lib/sentences";
 
 type BlankQuizQuestion = {
   wordId: number;
@@ -92,7 +92,13 @@ export async function GET(request: NextRequest) {
       sentence_4: true,
       sentence_5: true,
       blankQuestions: {
-        select: { blankSentence: true },
+        select: {
+          blankSentence: true,
+          blankSentence_2: true,
+          blankSentence_3: true,
+          blankSentence_4: true,
+          blankSentence_5: true,
+        },
       },
     },
   });
@@ -117,7 +123,7 @@ export async function GET(request: NextRequest) {
       sentence: selectedSentence.sentence,
       sentenceCount: selectedSentence.sentenceCount,
       sentenceIndex: selectedSentence.sentenceIndex,
-      blankSentence: entry.blankQuestions[0].blankSentence,
+      blankSentence: pickBlankSentence(entry.blankQuestions[0]).blankSentence,
       choices,
       answer: entry.word,
     };
