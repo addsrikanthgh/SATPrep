@@ -1,19 +1,13 @@
 import { NextResponse } from "next/server";
-import { z } from "zod";
 import { prisma } from "@/lib/prisma";
+import { auth } from "@/auth";
 
-const schema = z.object({
-  studentId: z.string().min(1),
-});
-
-export async function DELETE(request: Request) {
-  const payload = schema.safeParse(await request.json());
-
-  if (!payload.success) {
-    return NextResponse.json({ error: payload.error.flatten() }, { status: 400 });
+export async function DELETE() {
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
   }
-
-  const { studentId } = payload.data;
+  const studentId = session.user.id;
 
   // Delete in dependency order: QuizAnswer -> QuizSession -> StudentProgress
   const sessions = await prisma.quizSession.findMany({

@@ -1,6 +1,7 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { prisma } from "@/lib/prisma";
+import { auth } from "@/auth";
 
 const answerSchema = z.object({
   wordId: z.number().int().positive(),
@@ -31,12 +32,18 @@ const progressSchema = z.object({
 
 const backupSchema = z.object({
   version: z.literal(1),
-  studentId: z.string().min(1),
+  studentId: z.string().min(1).optional(), // kept for backward-compat with existing backup files; ignored server-side
   studentProgress: z.array(progressSchema),
   quizSessions: z.array(sessionSchema),
 });
 
 export async function POST(request: Request) {
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const studentId = session.user.id;
+
   let body: unknown;
   try {
     body = await request.json();
@@ -50,7 +57,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: parsed.error.flatten() }, { status: 400 });
   }
 
-  const { studentId, studentProgress, quizSessions } = parsed.data;
+  const { studentProgress, quizSessions } = parsed.data;
 
   // Verify all referenced wordIds exist to prevent orphaned records
   const allWordIds = [

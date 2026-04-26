@@ -26,7 +26,7 @@ export function WeakWordsClient() {
   useEffect(() => {
     async function loadWeakWords() {
       setLoading(true);
-      const response = await fetch(`/api/progress/weak-words?studentId=${encodeURIComponent(student?.id ?? "local-default-student")}`);
+      const response = await fetch(`/api/progress/weak-words`);
       const payload = (await response.json()) as { weakWords: WeakWord[] };
       setWeakWords(payload.weakWords ?? []);
       setLoading(false);

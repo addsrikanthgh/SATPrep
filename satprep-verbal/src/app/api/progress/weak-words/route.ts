@@ -1,10 +1,14 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
 import { getConfiguredSentences } from "@/lib/sentences";
+import { auth } from "@/auth";
 
 export async function GET(request: NextRequest) {
-  const { searchParams } = new URL(request.url);
-  const studentId = searchParams.get("studentId") ?? "local-default-student";
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const studentId = session.user.id;
 
   const rows = await prisma.studentProgress.findMany({
     where: {

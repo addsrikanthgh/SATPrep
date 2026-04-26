@@ -97,7 +97,6 @@ export function ProgressClient() {
       const params = new URLSearchParams();
       params.set("quizType", quizType);
       params.set("letter", letter);
-      params.set("studentId", student?.id ?? "local-default-student");
 
       if (fromDate) {
         params.set("from", fromDate);

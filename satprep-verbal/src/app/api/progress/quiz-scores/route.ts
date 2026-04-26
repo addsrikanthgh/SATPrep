@@ -1,12 +1,17 @@
 import { NextResponse } from "next/server";
 import { prisma } from "@/lib/prisma";
+import { auth } from "@/auth";
 
-const DEFAULT_STUDENT_ID = "local-default-student";
 const LETTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
 
 export async function GET(request: Request) {
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const studentId = session.user.id;
+
   const url = new URL(request.url);
-  const studentId = url.searchParams.get("studentId") || DEFAULT_STUDENT_ID;
 
   const quizTypeParam = (url.searchParams.get("quizType") ?? "all").toLowerCase();
   const quizTypeFilter = quizTypeParam === "meaning" || quizTypeParam === "blank" ? quizTypeParam : undefined;

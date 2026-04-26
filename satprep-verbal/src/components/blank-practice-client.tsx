@@ -189,7 +189,6 @@ export function BlankPracticeClient() {
 
     if (mode === "weak") {
       params.set("weakOnly", "true");
-      params.set("studentId", student?.id ?? "local-default-student");
     }
 
     const quizResponse = await fetch(`/api/quiz/blanks?${params.toString()}`);
@@ -206,7 +205,6 @@ export function BlankPracticeClient() {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        studentId: student?.id ?? "local-default-student",
         quizType: "blank",
         alphabetLetter: isAllLettersSelected() ? "ALL" : selectedLetters.join(","),
         questionCount: questions.length,
@@ -233,7 +231,6 @@ export function BlankPracticeClient() {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({
-        studentId: student?.id ?? "local-default-student",
         wordId: currentQuiz.wordId,
         isCorrect,
         quizSessionId: session.id,

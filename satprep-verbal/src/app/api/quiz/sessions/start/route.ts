@@ -1,9 +1,9 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { prisma } from "@/lib/prisma";
+import { auth } from "@/auth";
 
 const startSchema = z.object({
-  studentId: z.string().min(1).optional(),
   quizType: z.enum(["meaning", "blank"]),
   quizName: z.string().min(1).optional(),
   alphabetLetter: z.string().min(1).max(120),
@@ -37,13 +37,18 @@ function compactAlphabetSelection(selection: string) {
 }
 
 export async function POST(request: Request) {
+  const authSession = await auth();
+  if (!authSession?.user?.id) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const studentId = authSession.user.id;
+
   const payload = startSchema.safeParse(await request.json());
 
   if (!payload.success) {
     return NextResponse.json({ error: payload.error.flatten() }, { status: 400 });
   }
 
-  const studentId = payload.data.studentId ?? "local-default-student";
   const quizType = payload.data.quizType;
 
   const latest = await prisma.quizSession.findFirst({
@@ -58,7 +63,7 @@ export async function POST(request: Request) {
   const generatedName = `${typeCode}-Q${quizNumber}-${alphabetCode}-W${payload.data.questionCount}`;
   const quizName = payload.data.quizName?.trim() || generatedName;
 
-  const session = await prisma.quizSession.create({
+  const quizSession = await prisma.quizSession.create({
     data: {
       studentId,
       quizType,
@@ -70,5 +75,5 @@ export async function POST(request: Request) {
     },
   });
 
-  return NextResponse.json(session);
+  return NextResponse.json(quizSession);
 }

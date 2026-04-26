@@ -3,11 +3,11 @@
 import { useRef, useState } from "react";
 import { useStudent } from "@/lib/student-context";
 
+
 type Status = { type: "success" | "error"; message: string } | null;
 
 export function DataManagementClient() {
   const { student } = useStudent();
-  const studentId = student?.id ?? "local-default-student";
 
   const [backupStatus, setBackupStatus] = useState<Status>(null);
   const [clearStatus, setClearStatus] = useState<Status>(null);
@@ -30,7 +30,7 @@ export function DataManagementClient() {
   async function handleBackup() {
     setBackupStatus(null);
     try {
-      const response = await fetch(`/api/progress/backup?studentId=${encodeURIComponent(studentId)}`);
+      const response = await fetch(`/api/progress/backup`);
       if (!response.ok) {
         setBackupStatus({ type: "error", message: "Failed to fetch backup data." });
         return;
@@ -40,7 +40,7 @@ export function DataManagementClient() {
       const url = URL.createObjectURL(blob);
       const a = document.createElement("a");
       a.href = url;
-      a.download = `satprep-backup-${studentId}-${new Date().toISOString().slice(0, 10)}.json`;
+      a.download = `satprep-backup-${new Date().toISOString().slice(0, 10)}.json`;
       a.click();
       URL.revokeObjectURL(url);
       setBackupStatus({ type: "success", message: "Backup downloaded successfully." });
@@ -56,7 +56,7 @@ export function DataManagementClient() {
       const response = await fetch("/api/progress/clear", {
         method: "DELETE",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ studentId }),
+        body: JSON.stringify({}),
       });
       if (!response.ok) {
         setClearStatus({ type: "error", message: "Failed to clear progress." });
@@ -92,7 +92,7 @@ export function DataManagementClient() {
       const response = await fetch("/api/progress/restore", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ ...(json as object), studentId }),
+        body: JSON.stringify({ ...(json as object) }),
       });
 
       const result = (await response.json()) as {

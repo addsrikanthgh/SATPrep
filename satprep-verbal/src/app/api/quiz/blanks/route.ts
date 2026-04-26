@@ -3,6 +3,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { prisma } from "@/lib/prisma";
 import { pickBlankSentencePair } from "@/lib/sentences";
+import { auth } from "@/auth";
 
 export const runtime = "nodejs";
 
@@ -119,11 +120,16 @@ async function getSatWordMeanings() {
 }
 
 export async function GET(request: NextRequest) {
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const studentId = session.user.id;
+
   const { searchParams } = new URL(request.url);
   const letterSelection = parseLetters(searchParams.get("letters") ?? searchParams.get("letter"));
   const mode = parseMode(searchParams.get("mode"));
   const weakOnly = parseWeakOnly(searchParams.get("weakOnly"));
-  const studentId = searchParams.get("studentId") ?? "local-default-student";
   const countRaw = (searchParams.get("count") ?? "20").toLowerCase();
   const countParsed = Number(countRaw);
   const isAllWords = countRaw === "all";

@@ -1,22 +1,26 @@
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { prisma } from "@/lib/prisma";
+import { auth } from "@/auth";
 
 const submitSchema = z.object({
-  studentId: z.string().min(1).optional(),
   wordId: z.number().int().positive(),
   isCorrect: z.boolean(),
   quizSessionId: z.number().int().positive().optional(),
 });
 
 export async function POST(request: Request) {
+  const session = await auth();
+  if (!session?.user?.id) {
+    return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+  }
+  const studentId = session.user.id;
+
   const payload = submitSchema.safeParse(await request.json());
 
   if (!payload.success) {
     return NextResponse.json({ error: payload.error.flatten() }, { status: 400 });
   }
-
-  const studentId = payload.data.studentId ?? "local-default-student";
 
   const result = await prisma.$transaction(async (tx) => {
     const progress = await tx.studentProgress.upsert({
