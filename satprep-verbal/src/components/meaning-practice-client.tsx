@@ -12,7 +12,9 @@ function renderSentenceWithPrimaryWordBold(sentence: string, primaryWord: string
     return sentence;
   }
 
-  const pattern = new RegExp(`\\b(${escapeRegExp(primaryWord)})\\b`, "gi");
+  // Match the word stem followed by any additional word characters to cover
+  // inflected forms: abased, abases, abasing, abasement, etc.
+  const pattern = new RegExp(`\\b(${escapeRegExp(primaryWord)}\\w*)`, "gi");
   const parts = sentence.split(pattern);
 
   if (parts.length <= 1) {
@@ -20,7 +22,7 @@ function renderSentenceWithPrimaryWordBold(sentence: string, primaryWord: string
   }
 
   return parts.map((part, index) => {
-    const isMatch = part.toLowerCase() === primaryWord.toLowerCase();
+    const isMatch = part.toLowerCase().startsWith(primaryWord.toLowerCase());
     return isMatch ? <strong key={`${part}-${index}`}>{part}</strong> : part;
   });
 }
@@ -48,13 +50,15 @@ type QuizSession = {
 };
 
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-const batchOptions = [10, 20, 30, 40, 50, "all"] as const;
+const rangeSizeOptions = [20, 40, 60, 80, 100] as const;
 const randomBatchOptions = [10, 20, 50] as const;
 
 export function MeaningPracticeClient() {
   const { student } = useStudent();
   const [selectedLetters, setSelectedLetters] = useState<string[]>(["A"]);
-  const [batch, setBatch] = useState<number | "all">(20);
+  const [rangeSize, setRangeSize] = useState<number>(20);
+  const [selectedRanges, setSelectedRanges] = useState<number[]>([0]);
+  const [randomBatch, setRandomBatch] = useState<number>(10);
   const [mode, setMode] = useState<"first" | "random" | "weak">("first");
   const [quiz, setQuiz] = useState<QuizQuestion[]>([]);
   const [quizIndex, setQuizIndex] = useState(0);
@@ -113,6 +117,28 @@ export function MeaningPracticeClient() {
     [letterCounts],
   );
 
+  const totalSelectedCount = useMemo(() => {
+    if (selectedLetters.length === letters.length) return totalLetterCount;
+    return selectedLetters.reduce((sum, l) => sum + (letterCounts[l] ?? 0), 0);
+  }, [selectedLetters, letterCounts, totalLetterCount]);
+
+  const availableRangeOffsets = useMemo(() => {
+    const offsets: number[] = [];
+    if (totalSelectedCount <= 0 || rangeSize <= 0) return offsets;
+    for (let i = 0; i < totalSelectedCount; i += rangeSize) {
+      offsets.push(i);
+    }
+    return offsets;
+  }, [totalSelectedCount, rangeSize]);
+
+  useEffect(() => {
+    if (availableRangeOffsets.length === 0) return;
+    setSelectedRanges((prev) => {
+      const valid = prev.filter((o) => availableRangeOffsets.includes(o));
+      return valid.length > 0 ? valid : [availableRangeOffsets[0]];
+    });
+  }, [availableRangeOffsets]);
+
   function isAllLettersSelected() {
     return selectedLetters.length === letters.length;
   }
@@ -147,12 +173,24 @@ export function MeaningPracticeClient() {
     setSentenceViewIndex(0);
 
     const lettersQuery = isAllLettersSelected() ? "all" : selectedLetters.join(",");
-    const countQuery = mode === "weak" ? "all" : batch === "all" ? "all" : String(batch);
-    const params = new URLSearchParams({
-      letters: lettersQuery,
-      count: countQuery,
-      mode: mode === "random" ? "random" : "first",
-    });
+    const params = new URLSearchParams({ letters: lettersQuery });
+    if (mode === "weak") {
+      params.set("count", "all");
+      params.set("mode", "first");
+    } else if (mode === "random") {
+      params.set("count", String(randomBatch));
+      params.set("mode", "random");
+    } else {
+      const rangesToUse = selectedRanges.filter((o) => availableRangeOffsets.includes(o));
+      const activeRanges = rangesToUse.length > 0 ? rangesToUse : availableRangeOffsets.slice(0, 1);
+      params.set("mode", "first");
+      if (activeRanges.length > 0) {
+        params.set("ranges", activeRanges.join(","));
+        params.set("rangeSize", String(rangeSize));
+      } else {
+        params.set("count", String(rangeSize));
+      }
+    }
 
     if (mode === "weak") {
       params.set("weakOnly", "true");
@@ -301,25 +339,100 @@ export function MeaningPracticeClient() {
           ))}
         </div>
 
-        <div className="mt-4 flex flex-wrap gap-2">
-          {batchOptions.map((value) => (
-            <button
-              key={String(value)}
-              type="button"
-              onClick={() => {
-                setMode("first");
-                setBatch(value);
-              }}
-              className={`rounded-md border px-3 py-1 text-sm ${
-                mode === "first" && value === batch
-                  ? "border-blue-700 bg-blue-700 text-white"
-                  : "border-blue-200 bg-blue-50 text-blue-800 hover:bg-blue-100"
-              }`}
-            >
-              {value === "all" ? "All Words" : `First ${value}`}
-            </button>
-          ))}
+        <div className="mt-4">
+          <p className="text-sm font-medium text-slate-700">Quiz size</p>
+          <div className="mt-2 flex flex-wrap gap-2">
+            {rangeSizeOptions.map((size) => (
+              <button
+                key={size}
+                type="button"
+                onClick={() => { setMode("first"); setRangeSize(size); }}
+                className={`rounded-md border px-3 py-1 text-sm ${
+                  mode === "first" && size === rangeSize
+                    ? "border-blue-700 bg-blue-700 text-white"
+                    : "border-blue-200 bg-blue-50 text-blue-800 hover:bg-blue-100"
+                }`}
+              >
+                {size}
+              </button>
+            ))}
+          </div>
         </div>
+
+        {mode === "first" ? (
+          <div className="mt-3">
+            <p className="text-sm font-medium text-slate-700">Word ranges</p>
+            <div className="mt-2 flex gap-2">
+              <div className="flex min-w-0 flex-1 flex-col overflow-hidden rounded-md border border-slate-200 bg-white">
+                <div className="border-b border-slate-200 bg-slate-50 px-3 py-1.5">
+                  <p className="text-xs font-semibold text-slate-600">Available</p>
+                </div>
+                <div className="max-h-36 overflow-y-auto p-1">
+                  {availableRangeOffsets.filter((o) => !selectedRanges.includes(o)).length === 0 ? (
+                    <p className="px-2 py-2 text-xs italic text-slate-400">All ranges selected</p>
+                  ) : (
+                    availableRangeOffsets
+                      .filter((o) => !selectedRanges.includes(o))
+                      .map((offset) => (
+                        <button
+                          key={offset}
+                          type="button"
+                          onClick={() => setSelectedRanges((prev) => [...prev, offset].sort((a, b) => a - b))}
+                          className="w-full rounded px-2 py-1 text-left text-sm text-slate-700 hover:bg-slate-100"
+                        >
+                          {offset + 1}–{Math.min(offset + rangeSize, totalSelectedCount)}
+                        </button>
+                      ))
+                  )}
+                </div>
+              </div>
+              <div className="flex flex-col justify-center gap-2">
+                <button
+                  type="button"
+                  title="Add all"
+                  onClick={() => setSelectedRanges([...availableRangeOffsets])}
+                  className="rounded border border-slate-300 px-1.5 py-0.5 text-xs text-slate-600 hover:bg-slate-50"
+                >
+                  »
+                </button>
+                <button
+                  type="button"
+                  title="Remove all"
+                  onClick={() => setSelectedRanges([])}
+                  className="rounded border border-slate-300 px-1.5 py-0.5 text-xs text-slate-600 hover:bg-slate-50"
+                >
+                  «
+                </button>
+              </div>
+              <div className="flex min-w-0 flex-1 flex-col overflow-hidden rounded-md border border-blue-200 bg-white">
+                <div className="border-b border-blue-200 bg-blue-50 px-3 py-1.5">
+                  <p className="text-xs font-semibold text-blue-700">
+                    Selected ({selectedRanges.filter((o) => availableRangeOffsets.includes(o)).length})
+                  </p>
+                </div>
+                <div className="max-h-36 overflow-y-auto p-1">
+                  {selectedRanges.filter((o) => availableRangeOffsets.includes(o)).length === 0 ? (
+                    <p className="px-2 py-2 text-xs italic text-slate-400">Click ranges to add</p>
+                  ) : (
+                    selectedRanges
+                      .filter((o) => availableRangeOffsets.includes(o))
+                      .sort((a, b) => a - b)
+                      .map((offset) => (
+                        <button
+                          key={offset}
+                          type="button"
+                          onClick={() => setSelectedRanges((prev) => prev.filter((o) => o !== offset))}
+                          className="w-full rounded px-2 py-1 text-left text-sm text-blue-800 hover:bg-blue-50"
+                        >
+                          {offset + 1}–{Math.min(offset + rangeSize, totalSelectedCount)}
+                        </button>
+                      ))
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        ) : null}
 
         <div className="mt-3 flex flex-wrap gap-2">
           {randomBatchOptions.map((value) => (
@@ -328,10 +441,10 @@ export function MeaningPracticeClient() {
               type="button"
               onClick={() => {
                 setMode("random");
-                setBatch(value);
+                setRandomBatch(value);
               }}
               className={`rounded-md border px-3 py-1 text-sm ${
-                mode === "random" && value === batch
+                mode === "random" && value === randomBatch
                   ? "border-amber-700 bg-amber-600 text-white"
                   : "border-amber-200 bg-amber-50 text-amber-900 hover:bg-amber-100"
               }`}

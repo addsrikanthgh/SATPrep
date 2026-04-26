@@ -134,6 +134,18 @@ export async function GET(request: NextRequest) {
       ? Math.min(countParsed, 1000)
       : 20;
 
+  const rangeSizeRaw = Number(searchParams.get("rangeSize"));
+  const rangeSize =
+    Number.isFinite(rangeSizeRaw) && rangeSizeRaw > 0 ? Math.min(rangeSizeRaw, 1000) : null;
+  const rangesRaw = searchParams.get("ranges");
+  const ranges = rangesRaw
+    ? rangesRaw
+        .split(",")
+        .map(Number)
+        .filter((n) => Number.isFinite(n) && n >= 0)
+    : null;
+  const useRanges = ranges !== null && ranges.length > 0 && rangeSize !== null;
+
   const letterWhere =
     letterSelection === "all" ? {} : { alphabetLetter: { in: letterSelection } };
 
@@ -196,8 +208,16 @@ export async function GET(request: NextRequest) {
   });
 
   const wordsWithBlankQuestions = allLetterWords.filter((entry) => entry.blankQuestions.length > 0);
-  const candidateWords = mode === "random" ? shuffle(wordsWithBlankQuestions) : wordsWithBlankQuestions;
-  const selectedWords = take ? candidateWords.slice(0, take) : candidateWords;
+  let selectedWords: typeof wordsWithBlankQuestions;
+  if (useRanges && rangeSize !== null && ranges !== null) {
+    const wordsFromRanges = ranges.flatMap((offset) =>
+      wordsWithBlankQuestions.slice(offset, offset + rangeSize),
+    );
+    selectedWords = mode === "random" ? shuffle(wordsFromRanges) : wordsFromRanges;
+  } else {
+    const candidateWords = mode === "random" ? shuffle(wordsWithBlankQuestions) : wordsWithBlankQuestions;
+    selectedWords = take ? candidateWords.slice(0, take) : candidateWords;
+  }
   const allWordsOnly = allLetterWords.map((entry) => entry.word);
   const satWordMeanings = await getSatWordMeanings();
 
