@@ -17,7 +17,12 @@ type WordRecord = {
 };
 
 type BlankRecord = WordRecord & {
-  blankSentence: string;
+  blankSentence?: string;
+  blankSentence_1?: string;
+  blankSentence_2?: string;
+  blankSentence_3?: string;
+  blankSentence_4?: string;
+  blankSentence_5?: string;
 };
 
 const prisma = new PrismaClient();
@@ -46,7 +51,7 @@ async function seedWordsAndBlanks(projectRoot: string) {
     "Verbal",
     "questions",
     "work_blanks",
-    "Question_work_blanks.json",
+    "Question_word_blanks.json",
   );
 
   const words = await readJsonFile<WordRecord[]>(wordsPath);
@@ -99,11 +104,22 @@ async function seedWordsAndBlanks(projectRoot: string) {
 
       return {
         wordId,
-        sentence: entry.sentence_1 ?? entry.sentence ?? "",
-        blankSentence: entry.blankSentence,
+        sentence: (entry.sentence_1 ?? entry.sentence ?? "").trim(),
+        blankSentence: (entry.blankSentence_1 ?? entry.blankSentence ?? "").trim(),
+        sentence_2: entry.sentence_2?.trim() || null,
+        blankSentence_2: entry.blankSentence_2?.trim() || null,
+        sentence_3: entry.sentence_3?.trim() || null,
+        blankSentence_3: entry.blankSentence_3?.trim() || null,
+        sentence_4: entry.sentence_4?.trim() || null,
+        blankSentence_4: entry.blankSentence_4?.trim() || null,
+        sentence_5: entry.sentence_5?.trim() || null,
+        blankSentence_5: entry.blankSentence_5?.trim() || null,
       };
     })
-    .filter((entry): entry is NonNullable<typeof entry> => entry !== null);
+    .filter(
+      (entry): entry is NonNullable<typeof entry> =>
+        entry !== null && entry.sentence.length > 0 && entry.blankSentence.length > 0,
+    );
 
   const uniqueBlankRows = [...new Map(blankRows.map((row) => [row.wordId, row])).values()];
 

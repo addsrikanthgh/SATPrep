@@ -134,7 +134,7 @@ curl -X POST http://localhost:3000/api/progress/restore \
 ## Data Sources Used by Seed Script
 
 - `../Verbal/words/SATWords.json`
-- `../Verbal/questions/work_blanks/Question_work_blanks.json`
+- `../Verbal/questions/work_blanks/Question_word_blanks.json`
 - `../Verbal/questions/Question_word_passages/*.json`
 
 ## API Endpoints

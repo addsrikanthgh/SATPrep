@@ -227,6 +227,7 @@ export function DataManagementClient() {
       const result = (await response.json()) as {
         success?: boolean;
         importedCount?: number;
+        skippedMissingWordCount?: number;
         sourceFileUpdated?: boolean;
         error?: string;
       };
