@@ -286,7 +286,7 @@ export function MeaningPracticeClient() {
   }
 
   return (
-    <div className="mx-auto flex w-full max-w-4xl flex-col gap-6 px-4 py-6 sm:px-6 lg:px-8">
+    <div className="mx-auto flex w-full max-w-5xl flex-col gap-4 px-4 py-3 sm:px-6 sm:py-4 lg:px-8">
       {setupVisible ? (
       <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
         <h2 className="text-lg font-semibold text-slate-900">Practice Setup</h2>
@@ -296,10 +296,10 @@ export function MeaningPracticeClient() {
           <button
             type="button"
             onClick={toggleAllLetters}
-            className={`rounded-md border px-3 py-1 text-sm ${
+            className={`rounded-md border px-3 py-1 text-sm transition-colors duration-150 ${
               isAllLettersSelected()
-                ? "border-slate-900 bg-slate-900 text-white"
-                : "border-slate-300 bg-white text-slate-700"
+                ? "border-blue-700 bg-blue-700 text-white"
+                : "border-slate-300 bg-white text-slate-700 hover:bg-slate-50"
             }`}
           >
             All Alphabets ({totalLetterCount})
@@ -310,10 +310,10 @@ export function MeaningPracticeClient() {
               key={value}
               type="button"
               onClick={() => toggleLetter(value)}
-              className={`rounded-md border px-3 py-1 text-sm ${
+              className={`rounded-md border px-3 py-1 text-sm transition-colors duration-150 ${
                 selectedLetters.includes(value)
-                  ? "border-slate-900 bg-slate-900 text-white"
-                  : "border-slate-300 bg-white text-slate-700"
+                  ? "border-blue-700 bg-blue-700 text-white"
+                  : "border-slate-300 bg-white text-slate-700 hover:bg-slate-50"
               }`}
             >
               {value} ({letterCounts[value] ?? 0})
@@ -450,13 +450,14 @@ export function MeaningPracticeClient() {
         <button
           type="button"
           onClick={() => void startQuiz()}
-          className="mt-4 rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white"
+          className="mt-4 inline-flex h-10 items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 px-5 text-sm font-semibold text-white shadow-sm transition-all duration-150 hover:shadow-md disabled:opacity-60"
         >
           {mode === "weak" ? "Start Weak Words Quiz" : "Start Quiz"}
         </button>
       </section>
       ) : null}
 
+      {!setupVisible ? (
       <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
         <h2 className="text-lg font-semibold text-slate-900">Multiple Choice Practice</h2>
 
@@ -507,7 +508,7 @@ export function MeaningPracticeClient() {
               type="button"
               onClick={nextQuestion}
               disabled={!questionAnswered}
-              className="mt-4 rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white"
+              className="mt-4 inline-flex h-10 items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 px-5 text-sm font-semibold text-white shadow-sm transition-all duration-150 hover:shadow-md disabled:opacity-60"
             >
               Next Question
             </button>
@@ -576,13 +577,14 @@ export function MeaningPracticeClient() {
             <button
               type="button"
               onClick={resetToSetup}
-              className="mt-3 rounded-md bg-slate-900 px-4 py-2 text-sm font-medium text-white"
+              className="mt-3 inline-flex h-10 items-center justify-center rounded-lg bg-gradient-to-r from-blue-600 to-indigo-600 px-5 text-sm font-semibold text-white shadow-sm transition-all duration-150 hover:shadow-md"
             >
               Configure New Quiz
             </button>
           </div>
         ) : null}
       </section>
+      ) : null}
     </div>
   );
 }

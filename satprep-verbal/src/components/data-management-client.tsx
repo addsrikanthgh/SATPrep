@@ -342,7 +342,7 @@ export function DataManagementClient() {
   }
 
   return (
-    <div className="mx-auto flex w-full max-w-3xl flex-col gap-6 px-4 py-6 sm:px-6 lg:px-8">
+    <div className="mx-auto flex w-full max-w-3xl flex-col gap-4 px-4 py-3 sm:px-6 sm:py-4 lg:px-8">
       {student ? (
         <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
           <p className="text-sm text-slate-500">

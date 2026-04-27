@@ -85,7 +85,7 @@ export function StudyClient() {
   }
 
   return (
-    <div className="mx-auto flex w-full max-w-6xl flex-col gap-6 px-4 py-6 sm:px-6 lg:px-8">
+    <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-3 sm:px-6 sm:py-4 lg:px-8">
       <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
         <h2 className="text-lg font-semibold text-slate-900">Word Selection</h2>
         <p className="mt-1 text-sm text-slate-600">
