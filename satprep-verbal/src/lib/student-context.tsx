@@ -1,6 +1,6 @@
 "use client";
 
-import { createContext, useContext, ReactNode } from "react";
+import { createContext, useContext, useState, ReactNode } from "react";
 import { useSession, signIn, signOut } from "next-auth/react";
 
 type Student = {
@@ -8,14 +8,39 @@ type Student = {
   name: string;
 };
 
+export type AdminStudentInfo = { id: string; name: string | null; email: string | null };
+
 type StudentContextValue = {
   student: Student | null;
   clearStudent: () => void;
+  // admin
+  adminUnlocked: boolean;
+  adminUnlocking: boolean;
+  adminPassword: string;
+  adminError: string;
+  adminStudents: AdminStudentInfo[];
+  viewingStudentId: string;
+  setAdminPassword: (p: string) => void;
+  setAdminError: (e: string) => void;
+  setViewingStudentId: (id: string) => void;
+  handleAdminUnlock: () => Promise<void>;
+  handleAdminLock: () => void;
 };
 
 const StudentContext = createContext<StudentContextValue>({
   student: null,
   clearStudent: () => {},
+  adminUnlocked: false,
+  adminUnlocking: false,
+  adminPassword: "",
+  adminError: "",
+  adminStudents: [],
+  viewingStudentId: "",
+  setAdminPassword: () => {},
+  setAdminError: () => {},
+  setViewingStudentId: () => {},
+  handleAdminUnlock: async () => {},
+  handleAdminLock: () => {},
 });
 
 export function useStudent() {
@@ -24,6 +49,46 @@ export function useStudent() {
 
 export function StudentProvider({ children }: { children: ReactNode }) {
   const { data: session, status } = useSession();
+
+  const [adminPassword, setAdminPassword] = useState("");
+  const [adminUnlocked, setAdminUnlocked] = useState(false);
+  const [adminError, setAdminError] = useState("");
+  const [adminUnlocking, setAdminUnlocking] = useState(false);
+  const [adminStudents, setAdminStudents] = useState<AdminStudentInfo[]>([]);
+  const [viewingStudentId, setViewingStudentId] = useState("");
+
+  async function handleAdminUnlock() {
+    setAdminUnlocking(true);
+    setAdminError("");
+    try {
+      const res = await fetch("/api/admin/students", {
+        headers: { "x-admin-passcode": adminPassword },
+      });
+      if (!res.ok) {
+        const body = (await res.json()) as { error?: string };
+        setAdminError(body.error ?? "Access denied.");
+        setAdminUnlocking(false);
+        return;
+      }
+      const body = (await res.json()) as { users: AdminStudentInfo[] };
+      setAdminStudents(body.users);
+      setAdminUnlocked(true);
+      if (body.users.length > 0) {
+        setViewingStudentId(body.users[0].id);
+      }
+    } catch {
+      setAdminError("Network error. Try again.");
+    }
+    setAdminUnlocking(false);
+  }
+
+  function handleAdminLock() {
+    setAdminUnlocked(false);
+    setAdminPassword("");
+    setAdminStudents([]);
+    setViewingStudentId("");
+    setAdminError("");
+  }
 
   if (status === "loading") {
     return null;
@@ -76,7 +141,13 @@ export function StudentProvider({ children }: { children: ReactNode }) {
   }
 
   return (
-    <StudentContext.Provider value={{ student, clearStudent }}>
+    <StudentContext.Provider value={{
+      student, clearStudent,
+      adminUnlocked, adminUnlocking, adminPassword, adminError,
+      adminStudents, viewingStudentId,
+      setAdminPassword, setAdminError, setViewingStudentId,
+      handleAdminUnlock, handleAdminLock,
+    }}>
       {children}
     </StudentContext.Provider>
   );

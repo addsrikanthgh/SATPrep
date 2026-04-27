@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import type { ReactNode } from "react";
+import { useState, type ReactNode } from "react";
 import { useStudent } from "@/lib/student-context";
 
 type MenuItem = {
@@ -88,7 +88,23 @@ type AppMenuProps = {
 
 export function AppMenu({ onNavigate }: AppMenuProps) {
   const pathname = usePathname();
-  const { student, clearStudent } = useStudent();
+  const {
+    student, clearStudent,
+    adminUnlocked, adminUnlocking, adminPassword, adminError,
+    adminStudents, viewingStudentId,
+    setAdminPassword, setAdminError, setViewingStudentId,
+    handleAdminUnlock, handleAdminLock,
+  } = useStudent();
+  const [adminModalOpen, setAdminModalOpen] = useState(false);
+
+  function openAdminModal() {
+    setAdminError("");
+    setAdminModalOpen(true);
+  }
+
+  function closeAdminModal() {
+    setAdminModalOpen(false);
+  }
 
   return (
     <div className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm">
@@ -105,15 +121,98 @@ export function AppMenu({ onNavigate }: AppMenuProps) {
 
       {student ? (
         <div className="mb-4 rounded-xl border border-slate-200 bg-slate-50 px-3 py-2.5">
-          <p className="truncate text-xs font-semibold text-slate-700">{student.name}</p>
-          <p className="truncate text-xs text-slate-500">{student.id}</p>
-          <button
-            type="button"
-            onClick={clearStudent}
-            className="mt-2 rounded-lg border border-slate-200 bg-white px-2.5 py-1 text-xs font-medium text-slate-600 transition-all duration-150 hover:bg-slate-100"
+          {adminUnlocked ? (
+            <>
+              <p className="truncate text-xs font-semibold text-amber-700">Admin Mode</p>
+              <select
+                className="mt-1 w-full rounded-md border border-amber-200 bg-white px-2 py-1 text-xs text-slate-800"
+                value={viewingStudentId}
+                onChange={(e) => setViewingStudentId(e.target.value)}
+              >
+                {adminStudents.map((s) => (
+                  <option key={s.id} value={s.id}>
+                    {s.name ?? s.email ?? s.id}
+                  </option>
+                ))}
+              </select>
+              <button
+                type="button"
+                onClick={handleAdminLock}
+                className="mt-2 rounded-lg border border-amber-200 bg-amber-50 px-2.5 py-1 text-xs font-medium text-amber-700 transition-all duration-150 hover:bg-amber-100"
+              >
+                Exit Admin
+              </button>
+            </>
+          ) : (
+            <>
+              <p className="truncate text-xs font-semibold text-slate-700">{student.name}</p>
+              <p className="truncate text-xs text-slate-500">{student.id}</p>
+              <div className="mt-2 flex gap-1.5">
+                <button
+                  type="button"
+                  onClick={clearStudent}
+                  className="rounded-lg border border-slate-200 bg-white px-2.5 py-1 text-xs font-medium text-slate-600 transition-all duration-150 hover:bg-slate-100"
+                >
+                  Switch Student
+                </button>
+                <button
+                  type="button"
+                  onClick={openAdminModal}
+                  className="rounded-lg border border-slate-200 bg-white px-2.5 py-1 text-xs font-medium text-slate-500 transition-all duration-150 hover:bg-slate-100"
+                  title="Admin view"
+                >
+                  Admin
+                </button>
+              </div>
+            </>
+          )}
+        </div>
+      ) : null}
+
+      {/* Admin password modal */}
+      {adminModalOpen && !adminUnlocked ? (
+        <div
+          className="fixed inset-0 z-50 flex items-center justify-center bg-black/40"
+          onClick={closeAdminModal}
+        >
+          <div
+            className="w-full max-w-xs rounded-xl border border-slate-200 bg-white p-5 shadow-xl"
+            onClick={(e) => e.stopPropagation()}
           >
-            Switch Student
-          </button>
+            <h2 className="text-sm font-semibold text-slate-800">Admin Access</h2>
+            <p className="mt-0.5 text-xs text-slate-500">Enter the admin passcode to view any student&apos;s performance.</p>
+            <input
+              type="password"
+              autoComplete="current-password"
+              placeholder="Passcode"
+              value={adminPassword}
+              onChange={(e) => setAdminPassword(e.target.value)}
+              onKeyDown={(e) => { if (e.key === "Enter") void handleAdminUnlock().then(closeAdminModal); }}
+              className="mt-3 block w-full rounded-md border border-slate-300 px-3 py-2 text-sm text-slate-900 placeholder-slate-400 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
+              // eslint-disable-next-line jsx-a11y/no-autofocus
+              autoFocus
+            />
+            {adminError ? (
+              <p className="mt-1.5 text-xs font-medium text-red-600">{adminError}</p>
+            ) : null}
+            <div className="mt-3 flex justify-end gap-2">
+              <button
+                type="button"
+                onClick={closeAdminModal}
+                className="rounded-md border border-slate-200 bg-white px-3 py-1.5 text-xs font-medium text-slate-600 hover:bg-slate-50"
+              >
+                Cancel
+              </button>
+              <button
+                type="button"
+                disabled={adminUnlocking || adminPassword.length === 0}
+                onClick={() => void handleAdminUnlock().then(() => { if (!adminError) closeAdminModal(); })}
+                className="rounded-md bg-blue-600 px-3 py-1.5 text-xs font-medium text-white hover:bg-blue-700 disabled:opacity-50"
+              >
+                {adminUnlocking ? "Checking…" : "Unlock"}
+              </button>
+            </div>
+          </div>
         </div>
       ) : null}
 

@@ -115,8 +115,12 @@ function ProgressBar({ value }: { value: number }) {
   );
 }
 
+type StudentInfo = { id: string; name: string | null; email: string | null };
 export function ProgressClient() {
-  const { student } = useStudent();
+  const {
+    student,
+    adminUnlocked, adminPassword, viewingStudentId, adminStudents,
+  } = useStudent();
   const [loading, setLoading] = useState(false);
   const [data, setData] = useState<ProgressPayload | null>(null);
   const [passageLoading, setPassageLoading] = useState(false);
@@ -132,28 +136,48 @@ export function ProgressClient() {
       const params = new URLSearchParams();
       params.set("quizType", quizType);
       params.set("letter", letter);
+      if (fromDate) params.set("from", fromDate);
+      if (toDate) params.set("to", toDate);
 
-      if (fromDate) {
-        params.set("from", fromDate);
+      let url: string;
+      const headers: HeadersInit = {};
+
+      if (adminUnlocked && viewingStudentId) {
+        params.set("studentId", viewingStudentId);
+        url = `/api/admin/progress/quiz-scores?${params.toString()}`;
+        headers["x-admin-passcode"] = adminPassword;
+      } else {
+        url = `/api/progress/quiz-scores?${params.toString()}`;
       }
 
-      if (toDate) {
-        params.set("to", toDate);
+      const response = await fetch(url, { headers });
+      if (response.ok) {
+        const payload = (await response.json()) as ProgressPayload;
+        setData(payload);
+      } else {
+        setData(null);
       }
-
-      const response = await fetch(`/api/progress/quiz-scores?${params.toString()}`);
-      const payload = (await response.json()) as ProgressPayload;
-      setData(payload);
       setLoading(false);
     }
 
     void loadProgress();
-  }, [quizType, letter, fromDate, toDate, student?.id]);
+  }, [quizType, letter, fromDate, toDate, student?.id, adminUnlocked, viewingStudentId, adminPassword]);
 
   useEffect(() => {
     async function loadPassageProgress() {
       setPassageLoading(true);
-      const response = await fetch("/api/progress/passage-scores");
+
+      let url: string;
+      const headers: HeadersInit = {};
+
+      if (adminUnlocked && viewingStudentId) {
+        url = `/api/admin/progress/passage-scores?studentId=${encodeURIComponent(viewingStudentId)}`;
+        headers["x-admin-passcode"] = adminPassword;
+      } else {
+        url = "/api/progress/passage-scores";
+      }
+
+      const response = await fetch(url, { headers });
       if (response.ok) {
         const payload = (await response.json()) as PassageProgressPayload;
         setPassageData(payload);
@@ -164,12 +188,26 @@ export function ProgressClient() {
     }
 
     void loadPassageProgress();
-  }, [student?.id]);
+  }, [student?.id, adminUnlocked, viewingStudentId, adminPassword]);
 
   const sessions = data?.sessions ?? [];
+  const viewingStudent = adminUnlocked && viewingStudentId
+    ? adminStudents.find((s) => s.id === viewingStudentId)
+    : null;
 
   return (
     <div className="mx-auto flex w-full max-w-6xl flex-col gap-4 px-4 py-3 sm:px-6 sm:py-4 lg:px-8">
+      {viewingStudent ? (
+        <div className="rounded-xl border border-amber-200 bg-amber-50 px-4 py-2.5">
+          <p className="text-sm font-medium text-amber-800">
+            Showing data for: <span className="font-semibold">{viewingStudent.name ?? viewingStudent.email ?? viewingStudent.id}</span>
+            {viewingStudent.email && viewingStudent.name ? (
+              <span className="ml-1 font-normal text-amber-700">({viewingStudent.email})</span>
+            ) : null}
+          </p>
+        </div>
+      ) : null}
+
       <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
         <h2 className="text-lg font-semibold text-slate-900">Filters</h2>
         <p className="mt-1 text-sm text-slate-600">Filter quiz analytics by quiz type, alphabet, and date range.</p>
