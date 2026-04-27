@@ -1,12 +1,18 @@
 import type { PrismaClient } from "@prisma/client";
-import type { PassageSetInput } from "@/lib/passage-schema";
+import type { PassageSetInput, QPassageFileInput } from "@/lib/passage-schema";
 
 export async function upsertPassageSet(prisma: PrismaClient, input: PassageSetInput) {
   await prisma.$transaction(async (tx) => {
+    const sequence = extractSequenceFromPassageId(input.id);
+
     await tx.passageSet.upsert({
       where: { id: input.id },
       update: {
         title: input.title,
+        domain: input.domain ?? "Unknown",
+        skill: input.skill ?? "Unknown",
+        difficulty: input.difficulty ?? "medium",
+        sequence,
         sourceWords: JSON.stringify(input.sourceWords),
         passage: input.passage,
         version: input.version ?? 1,
@@ -14,6 +20,10 @@ export async function upsertPassageSet(prisma: PrismaClient, input: PassageSetIn
       create: {
         id: input.id,
         title: input.title,
+        domain: input.domain ?? "Unknown",
+        skill: input.skill ?? "Unknown",
+        difficulty: input.difficulty ?? "medium",
+        sequence,
         sourceWords: JSON.stringify(input.sourceWords),
         passage: input.passage,
         version: input.version ?? 1,
@@ -37,4 +47,37 @@ export async function upsertPassageSet(prisma: PrismaClient, input: PassageSetIn
       })),
     });
   });
+}
+
+export function extractSequenceFromPassageId(id: string) {
+  const match = id.match(/q_(\d+)$/i);
+  if (!match) {
+    return null;
+  }
+
+  const parsed = Number.parseInt(match[1], 10);
+  return Number.isFinite(parsed) ? parsed : null;
+}
+
+export function normalizeQPassageFile(input: QPassageFileInput): PassageSetInput {
+  return {
+    id: input.id,
+    title: `${input.domain} · ${input.skill}`,
+    domain: input.domain,
+    skill: input.skill,
+    difficulty: input.difficulty,
+    sourceWords: [],
+    passage: input.passage,
+    version: 1,
+    questions: [
+      {
+        questionId: `${input.id}_q1`,
+        questionType: input.skill,
+        question: input.question,
+        choices: input.choices,
+        correctAnswer: input.correct_answer,
+        explanation: input.explanation,
+      },
+    ],
+  };
 }

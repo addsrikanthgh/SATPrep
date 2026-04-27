@@ -64,6 +64,39 @@ type ProgressPayload = {
   sessions: QuizSessionRow[];
 };
 
+type PassageProgressPayload = {
+  summary: {
+    totalQuizzes: number;
+    completedQuizzes: number;
+    answered: number;
+    correct: number;
+    overallAccuracy: number;
+  };
+  byDomain: Array<{
+    domain: string;
+    attempts: number;
+    correct: number;
+    accuracy: number;
+  }>;
+  bySkill: Array<{
+    domain: string;
+    skill: string;
+    attempts: number;
+    correct: number;
+    accuracy: number;
+  }>;
+  sessions: Array<{
+    id: number;
+    quizNumber: number;
+    quizName: string;
+    questionCount: number;
+    answeredCount: number;
+    correctCount: number;
+    status: string;
+    createdAt: string;
+  }>;
+};
+
 function toPercent(value: number) {
   return `${Math.round(value * 100)}%`;
 }
@@ -86,6 +119,8 @@ export function ProgressClient() {
   const { student } = useStudent();
   const [loading, setLoading] = useState(false);
   const [data, setData] = useState<ProgressPayload | null>(null);
+  const [passageLoading, setPassageLoading] = useState(false);
+  const [passageData, setPassageData] = useState<PassageProgressPayload | null>(null);
   const [quizType, setQuizType] = useState("all");
   const [letter, setLetter] = useState("all");
   const [fromDate, setFromDate] = useState("");
@@ -114,6 +149,22 @@ export function ProgressClient() {
 
     void loadProgress();
   }, [quizType, letter, fromDate, toDate, student?.id]);
+
+  useEffect(() => {
+    async function loadPassageProgress() {
+      setPassageLoading(true);
+      const response = await fetch("/api/progress/passage-scores");
+      if (response.ok) {
+        const payload = (await response.json()) as PassageProgressPayload;
+        setPassageData(payload);
+      } else {
+        setPassageData(null);
+      }
+      setPassageLoading(false);
+    }
+
+    void loadPassageProgress();
+  }, [student?.id]);
 
   const sessions = data?.sessions ?? [];
 
@@ -253,6 +304,94 @@ export function ProgressClient() {
               {cardValue(toPercent(data.summary.overallAccuracy))}
             </div>
           </div>
+        ) : null}
+      </section>
+
+      <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
+        <h2 className="text-lg font-semibold text-slate-900">Passage Quiz Summary</h2>
+        <p className="mt-1 text-sm text-slate-600">
+          Domain and skill tracking for the new passage quiz, including read-once attempts.
+        </p>
+
+        {passageLoading ? <p className="mt-4 text-sm text-slate-600">Loading passage progress...</p> : null}
+
+        {!passageLoading && passageData ? (
+          <>
+            <div className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
+              <div className="rounded-lg border border-slate-200 bg-slate-50 p-3">
+                <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Total Passage Quizzes</p>
+                {cardValue(passageData.summary.totalQuizzes)}
+              </div>
+              <div className="rounded-lg border border-slate-200 bg-slate-50 p-3">
+                <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Completed</p>
+                {cardValue(passageData.summary.completedQuizzes)}
+              </div>
+              <div className="rounded-lg border border-slate-200 bg-slate-50 p-3">
+                <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Total Score</p>
+                {cardValue(`${passageData.summary.correct} / ${passageData.summary.answered}`)}
+              </div>
+              <div className="rounded-lg border border-slate-200 bg-slate-50 p-3">
+                <p className="text-xs font-medium uppercase tracking-wide text-slate-500">Overall Accuracy</p>
+                {cardValue(toPercent(passageData.summary.overallAccuracy))}
+              </div>
+            </div>
+
+            <div className="mt-4 grid gap-3 lg:grid-cols-2">
+              <div className="rounded-lg border border-slate-200 p-3">
+                <p className="text-xs font-medium uppercase tracking-wide text-slate-500">By Domain</p>
+                <div className="mt-2 overflow-x-auto">
+                  <table className="min-w-full border-collapse text-sm">
+                    <thead>
+                      <tr className="border-b border-slate-200 text-left text-slate-600">
+                        <th className="px-2 py-1">Domain</th>
+                        <th className="px-2 py-1">Score</th>
+                        <th className="px-2 py-1">Accuracy</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {passageData.byDomain.map((row) => (
+                        <tr key={row.domain} className="border-b border-slate-100 text-slate-800">
+                          <td className="px-2 py-1">{row.domain}</td>
+                          <td className="px-2 py-1">
+                            {row.correct} / {row.attempts}
+                          </td>
+                          <td className="px-2 py-1">{toPercent(row.accuracy)}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+
+              <div className="rounded-lg border border-slate-200 p-3">
+                <p className="text-xs font-medium uppercase tracking-wide text-slate-500">By Skill</p>
+                <div className="mt-2 max-h-72 overflow-auto">
+                  <table className="min-w-full border-collapse text-sm">
+                    <thead>
+                      <tr className="border-b border-slate-200 text-left text-slate-600">
+                        <th className="px-2 py-1">Domain</th>
+                        <th className="px-2 py-1">Skill</th>
+                        <th className="px-2 py-1">Score</th>
+                        <th className="px-2 py-1">Accuracy</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      {passageData.bySkill.map((row) => (
+                        <tr key={`${row.domain}-${row.skill}`} className="border-b border-slate-100 text-slate-800">
+                          <td className="px-2 py-1">{row.domain}</td>
+                          <td className="px-2 py-1">{row.skill}</td>
+                          <td className="px-2 py-1">
+                            {row.correct} / {row.attempts}
+                          </td>
+                          <td className="px-2 py-1">{toPercent(row.accuracy)}</td>
+                        </tr>
+                      ))}
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+          </>
         ) : null}
       </section>
 

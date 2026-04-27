@@ -14,6 +14,7 @@ export function DataManagementClient() {
   const [restoreStatus, setRestoreStatus] = useState<Status>(null);
   const [wordsImportStatus, setWordsImportStatus] = useState<Status>(null);
   const [blanksImportStatus, setBlanksImportStatus] = useState<Status>(null);
+  const [passagesImportStatus, setPassagesImportStatus] = useState<Status>(null);
   const [passcodeStatus, setPasscodeStatus] = useState<Status>(null);
   const [importPasscode, setImportPasscode] = useState("");
   const [passcodeVerified, setPasscodeVerified] = useState(false);
@@ -21,6 +22,7 @@ export function DataManagementClient() {
   const [restoring, setRestoring] = useState(false);
   const [importingWords, setImportingWords] = useState(false);
   const [importingBlanks, setImportingBlanks] = useState(false);
+  const [importingPassages, setImportingPassages] = useState(false);
   const [verifyingPasscode, setVerifyingPasscode] = useState(false);
   const [showClearConfirm, setShowClearConfirm] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
@@ -300,6 +302,45 @@ export function DataManagementClient() {
     }
   }
 
+  async function handleImportPassagesFromFolder() {
+    setPassagesImportStatus(null);
+    setImportingPassages(true);
+
+    try {
+      const response = await fetch("/api/passage-sets/import", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ adminPasscode: importPasscode }),
+      });
+
+      const payload = (await response.json()) as {
+        success?: boolean;
+        imported?: number;
+        updated?: number;
+        skipped?: number;
+        failed?: number;
+        error?: string;
+      };
+
+      if (!response.ok || !payload.success) {
+        setPassagesImportStatus({
+          type: "error",
+          message: payload.error || "Failed to import passage files from folder.",
+        });
+        return;
+      }
+
+      setPassagesImportStatus({
+        type: "success",
+        message: `Passage import complete. Imported: ${payload.imported ?? 0}, Updated: ${payload.updated ?? 0}, Skipped: ${payload.skipped ?? 0}, Failed: ${payload.failed ?? 0}.`,
+      });
+    } catch {
+      setPassagesImportStatus({ type: "error", message: "An error occurred while importing passages." });
+    } finally {
+      setImportingPassages(false);
+    }
+  }
+
   return (
     <div className="mx-auto flex w-full max-w-3xl flex-col gap-6 px-4 py-6 sm:px-6 lg:px-8">
       {student ? (
@@ -412,6 +453,27 @@ export function DataManagementClient() {
         {blanksImportStatus ? (
           <p className={`mt-2 text-sm ${blanksImportStatus.type === "success" ? "text-emerald-700" : "text-red-600"}`}>
             {blanksImportStatus.message}
+          </p>
+        ) : null}
+      </section>
+
+      <section className="rounded-xl border border-amber-300 bg-white p-5 shadow-sm">
+        <h2 className="text-base font-semibold text-slate-900">Admin: Import Passage Folder (q_###.json)</h2>
+        <p className="mt-1 text-sm text-slate-500">
+          Import all passage files from Verbal/questions/Question_word_passages incrementally.
+          Unchanged files are skipped automatically.
+        </p>
+        <button
+          type="button"
+          onClick={handleImportPassagesFromFolder}
+          disabled={importingPassages || !passcodeVerified}
+          className="mt-4 rounded-md border border-amber-300 bg-amber-50 px-4 py-2 text-sm font-medium text-amber-900 hover:bg-amber-100 disabled:opacity-60"
+        >
+          {importingPassages ? "Importing…" : "Import Passage Folder"}
+        </button>
+        {passagesImportStatus ? (
+          <p className={`mt-2 text-sm ${passagesImportStatus.type === "success" ? "text-emerald-700" : "text-red-600"}`}>
+            {passagesImportStatus.message}
           </p>
         ) : null}
       </section>

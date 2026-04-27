@@ -8,6 +8,7 @@ const menuItems = [
   { href: "/", label: "Home" },
   { href: "/practice/meaning", label: "Meaning Quiz" },
   { href: "/practice/blanks", label: "Blank Quiz" },
+  { href: "/practice/passages", label: "Passage Quiz" },
   { href: "/practice/progress", label: "Progress" },
   { href: "/practice/weak-words", label: "Weak Words" },
   { href: "/practice/data-management", label: "Data" },

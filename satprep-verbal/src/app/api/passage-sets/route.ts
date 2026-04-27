@@ -15,6 +15,10 @@ export async function GET() {
     sets.map((entry) => ({
       id: entry.id,
       title: entry.title,
+      domain: entry.domain,
+      skill: entry.skill,
+      difficulty: entry.difficulty,
+      sequence: entry.sequence,
       version: entry.version,
       updatedAt: entry.updatedAt,
       questionCount: entry._count.questions,

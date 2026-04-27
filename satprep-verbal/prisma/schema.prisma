@@ -106,12 +106,21 @@ model BlankSentenceQuestion {
 model PassageSet {
   id          String           @id
   title       String?
+  domain      String           @default("Unknown")
+  skill       String           @default("Unknown")
+  difficulty  String           @default("medium")
+  sequence    Int?
   sourceWords String
   passage     String
   version     Int              @default(1)
   createdAt   DateTime         @default(now())
   updatedAt   DateTime         @updatedAt
   questions   PassageQuestion[]
+  quizAnswers PassageQuizAnswer[]
+  readStates  PassageReadState[]
+
+  @@index([sequence])
+  @@index([domain, skill])
 }
 
 model PassageQuestion {
@@ -131,6 +140,77 @@ model PassageQuestion {
   passageSet    PassageSet @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
 
   @@unique([passageSetId, questionId])
+}
+
+model PassageImportLog {
+  id        Int      @id @default(autoincrement())
+  filename  String   @unique
+  passageId String
+  checksum  String
+  importedAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([passageId])
+}
+
+model PassageReadState {
+  id           Int       @id @default(autoincrement())
+  studentId    String
+  passageSetId String
+  firstReadAt  DateTime  @default(now())
+
+  passageSet   PassageSet @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
+
+  @@unique([studentId, passageSetId])
+  @@index([studentId])
+}
+
+model PassageQuizSession {
+  id            Int                @id @default(autoincrement())
+  studentId     String             @default("local-default-student")
+  quizNumber    Int
+  quizName      String
+  questionCount Int
+  answeredCount Int                @default(0)
+  correctCount  Int                @default(0)
+  status        String             @default("in_progress")
+  createdAt     DateTime           @default(now())
+  updatedAt     DateTime           @updatedAt
+  answers       PassageQuizAnswer[]
+
+  @@index([studentId, quizNumber])
+}
+
+model PassageQuizAnswer {
+  id                   Int                @id @default(autoincrement())
+  passageQuizSessionId Int
+  passageSetId         String
+  questionId           String
+  domain               String
+  skill                String
+  selectedAnswer       String
+  correctAnswer        String
+  isCorrect            Boolean
+  createdAt            DateTime           @default(now())
+  session              PassageQuizSession @relation(fields: [passageQuizSessionId], references: [id], onDelete: Cascade)
+  passageSet           PassageSet         @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
+
+  @@unique([passageQuizSessionId, passageSetId])
+  @@index([passageSetId])
+  @@index([domain, skill])
+}
+
+model StudentPassageProgress {
+  id           Int      @id @default(autoincrement())
+  studentId    String
+  domain       String
+  skill        String
+  attemptCount Int      @default(0)
+  correctCount Int      @default(0)
+  updatedAt    DateTime @updatedAt
+
+  @@unique([studentId, domain, skill])
+  @@index([studentId])
 }
 
 model StudentProgress {

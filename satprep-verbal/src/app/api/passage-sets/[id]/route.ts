@@ -26,6 +26,10 @@ export async function GET(_: Request, context: RouteContext) {
   return NextResponse.json({
     id: passageSet.id,
     title: passageSet.title,
+    domain: passageSet.domain,
+    skill: passageSet.skill,
+    difficulty: passageSet.difficulty,
+    sequence: passageSet.sequence,
     sourceWords: JSON.parse(passageSet.sourceWords) as string[],
     passage: passageSet.passage,
     version: passageSet.version,

@@ -1,8 +1,9 @@
 import fs from "node:fs/promises";
 import path from "node:path";
+import { createHash } from "node:crypto";
 import { PrismaClient } from "@prisma/client";
-import { passageSetSchema } from "../src/lib/passage-schema";
-import { upsertPassageSet } from "../src/lib/passage-service";
+import { passageSetSchema, qPassageFileSchema } from "../src/lib/passage-schema";
+import { normalizeQPassageFile, upsertPassageSet } from "../src/lib/passage-service";
 
 type WordRecord = {
   word: string;
@@ -133,21 +134,53 @@ async function seedWordsAndBlanks(projectRoot: string) {
 async function seedPassages(projectRoot: string) {
   const passagesDir = path.join(projectRoot, "..", "Verbal", "questions", "Question_word_passages");
   const files = await fs.readdir(passagesDir);
-  const jsonFiles = files.filter((fileName) => fileName.toLowerCase().endsWith(".json"));
-
-  await prisma.passageQuestion.deleteMany();
-  await prisma.passageSet.deleteMany();
+  const jsonFiles = files
+    .filter((fileName) => /^q_\d+\.json$/i.test(fileName) || fileName.toLowerCase().endsWith(".json"))
+    .sort();
 
   let imported = 0;
+  let updated = 0;
+  let skipped = 0;
   for (const fileName of jsonFiles) {
     const fullPath = path.join(passagesDir, fileName);
-    const parsed = await readJsonFile<unknown>(fullPath);
-    const passageSet = passageSetSchema.parse(parsed);
-    await upsertPassageSet(prisma, passageSet);
-    imported += 1;
+    const raw = await fs.readFile(fullPath, "utf8");
+    const checksum = createHash("sha256").update(raw, "utf8").digest("hex");
+    const parsed = JSON.parse(raw) as unknown;
+
+    const asQ = qPassageFileSchema.safeParse(parsed);
+    const normalized = asQ.success ? normalizeQPassageFile(asQ.data) : passageSetSchema.parse(parsed);
+
+    const log = await prisma.passageImportLog.findUnique({ where: { filename: fileName } });
+    if (log?.checksum === checksum) {
+      skipped += 1;
+      continue;
+    }
+
+    const existed = await prisma.passageSet.findUnique({ where: { id: normalized.id }, select: { id: true } });
+    await upsertPassageSet(prisma, normalized);
+
+    await prisma.passageImportLog.upsert({
+      where: { filename: fileName },
+      update: {
+        passageId: normalized.id,
+        checksum,
+        importedAt: new Date(),
+      },
+      create: {
+        filename: fileName,
+        passageId: normalized.id,
+        checksum,
+      },
+    });
+
+    if (existed) {
+      updated += 1;
+    } else {
+      imported += 1;
+    }
   }
 
-  return { passageSets: imported };
+  return { passageSetsImported: imported, passageSetsUpdated: updated, passageSetsSkipped: skipped };
 }
 
 async function main() {
@@ -156,13 +189,11 @@ async function main() {
   const wordSummary = await seedWordsAndBlanks(projectRoot);
   const passageSummary = await seedPassages(projectRoot);
 
-  // eslint-disable-next-line no-console
   console.log({ ...wordSummary, ...passageSummary });
 }
 
 main()
   .catch((error) => {
-    // eslint-disable-next-line no-console
     console.error(error);
     process.exitCode = 1;
   })

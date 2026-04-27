@@ -19,10 +19,25 @@ const passageQuestionSchema = z.object({
 export const passageSetSchema = z.object({
   id: z.string().min(1),
   title: z.string().optional(),
-  sourceWords: z.array(z.string().min(1)).min(1),
+  domain: z.string().min(1).optional(),
+  skill: z.string().min(1).optional(),
+  difficulty: z.string().min(1).optional(),
+  sourceWords: z.array(z.string().min(1)).default([]),
   passage: z.string().min(1),
   version: z.number().int().positive().optional(),
   questions: z.array(passageQuestionSchema).min(1),
+});
+
+export const qPassageFileSchema = z.object({
+  id: z.string().regex(/^q_\d+$/i),
+  domain: z.string().min(1),
+  skill: z.string().min(1),
+  difficulty: z.string().min(1),
+  passage: z.string().min(1),
+  question: z.string().min(1),
+  choices: choicesSchema,
+  correct_answer: z.enum(["A", "B", "C", "D"]),
+  explanation: z.string().min(1),
 });
 
 export const uploadPayloadSchema = z.union([
@@ -31,3 +46,4 @@ export const uploadPayloadSchema = z.union([
 ]);
 
 export type PassageSetInput = z.infer<typeof passageSetSchema>;
+export type QPassageFileInput = z.infer<typeof qPassageFileSchema>;
