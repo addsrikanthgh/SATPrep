@@ -255,7 +255,6 @@ export function BlankPracticeClient() {
         return 0;
       }
       if (index + 1 >= quiz.length) {
-        setCompleted(true);
         return index;
       }
       return index + 1;
@@ -272,7 +271,6 @@ export function BlankPracticeClient() {
     setQuestionAnswered(false);
     setSelectedChoice(null);
     setLastAnswerCorrect(null);
-    setCompleted(false);
   }
 
   return (

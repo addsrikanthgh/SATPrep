@@ -264,7 +264,6 @@ export function MeaningPracticeClient() {
         return 0;
       }
       if (index + 1 >= quiz.length) {
-        setCompleted(true);
         return index;
       }
       return index + 1;
@@ -282,7 +281,6 @@ export function MeaningPracticeClient() {
     setSelectedChoice(null);
     setLastAnswerCorrect(null);
     setSentenceViewIndex(0);
-    setCompleted(false);
   }
 
   return (
