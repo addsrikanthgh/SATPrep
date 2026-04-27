@@ -1,0 +1,16 @@
+{
+  "id": "q_030",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Ancient Rome's extensive road network—over 400,000 kilometers at its peak—was primarily built for military logistics, enabling legions to move rapidly across the empire. _______, the roads became the arteries of an enormous commercial economy, carrying merchants, goods, postal couriers, and ideas from Britain to Mesopotamia and facilitating a degree of economic integration that would not be matched in Europe until the modern era.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Similarly",
+    "B": "In spite of this",
+    "C": "Over time, however",
+    "D": "As a direct result"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence states the roads were \"primarily built for military logistics.\" The second sentence describes a different, grander function they came to serve—commerce, communication, and economic integration. Two signals are needed: a time signal (the commercial function developed after the military one) and a slight contrast (the roads' most significant long-term function was not military). \"Over time, however\" provides both: \"over time\" marks a temporal development, and \"however\" flags the shift from military to commercial use. \"Similarly\" would suggest the commercial role is parallel to the military one with no contrast. \"In spite of this\" would imply the commercial role developed in opposition to military purpose. \"As a direct result\" would suggest commerce was the direct intended consequence of military road-building, which the passage does not imply."
+}

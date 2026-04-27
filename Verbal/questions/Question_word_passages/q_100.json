@@ -1,0 +1,16 @@
+{
+  "id": "q_100",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay arguing that space exploration produces technological and scientific benefits that justify its cost to taxpayers. The student has gathered the following information:\n\n• NASA's Technology Transfer Program has logged over 2,000 spinoff technologies since 1976, including memory foam, water filtration systems, scratch-resistant lenses, and insulin pumps.\n• The James Webb Space Telescope, launched in 2021 at a cost of approximately $10 billion, has provided data on the early universe, exoplanet atmospheres, and star formation that was previously unattainable.\n• A 2019 study found that for every dollar invested in NASA, approximately $3 in economic activity was generated in the broader U.S. economy.",
+  "question": "Which sentence best synthesizes the information above to support the student's argument?",
+  "choices": {
+    "A": "The James Webb Space Telescope has transformed our understanding of the early universe and exoplanet atmospheres, making it one of the most scientifically successful missions in NASA's history.",
+    "B": "Space exploration has generated tangible technological spinoffs, expanded scientific knowledge at the frontier of human understanding, and produced a positive economic return—providing concrete justification for public investment.",
+    "C": "NASA has produced more than 2,000 spinoff technologies, many of which have become ubiquitous in everyday life, demonstrating that space research has practical applications.",
+    "D": "Because space exploration is expensive, NASA must continue demonstrating its value through public outreach and education programs."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's thesis is that space exploration justifies its cost through multiple types of benefits. B synthesizes all three bullets: technological spinoffs (first), scientific knowledge (second), and economic return (third), weaving them into a unified justification for public investment. A draws only from the second bullet. C draws only from the first bullet. D introduces public outreach as a solution, which appears in none of the student's notes and redirects away from the thesis."
+}

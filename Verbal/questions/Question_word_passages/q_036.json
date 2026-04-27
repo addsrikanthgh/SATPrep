@@ -1,0 +1,16 @@
+{
+  "id": "q_036",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "European colonial powers justified their expansion into Africa, Asia, and the Americas through a variety of ideological frameworks, including religious mission, civilizational hierarchy, and economic necessity. Rudyard Kipling's 1899 poem 'The White Man's Burden,' which called on the United States to assume colonial stewardship of the Philippines, crystallized these ideologies in a phrase that became both a rallying cry and, for critics, a target of ridicule. Scholars such as Frantz Fanon and Aimé Césaire later demonstrated that beneath the humanitarian rhetoric of colonialism lay systematic exploitation, cultural erasure, and psychological damage to colonized peoples.",
+  "question": "What is the function of the second sentence in the context of the whole passage?",
+  "choices": {
+    "A": "It offers a specific cultural artifact that illustrates the ideological justifications described in the first sentence.",
+    "B": "It introduces a contrasting perspective that challenges the colonial ideologies mentioned earlier.",
+    "C": "It provides statistical evidence for the broad scope of European colonial expansion.",
+    "D": "It identifies the primary cause of European colonial ideology in the nineteenth century."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes ideological frameworks used to justify colonialism. The second sentence names Kipling's poem as a concrete example that 'crystallized these ideologies'—making it a specific cultural illustration of the abstract point made in sentence one. B is wrong because the sentence does not challenge colonial ideology (that happens in sentence three). C is wrong because no statistics appear. D is wrong because the sentence illustrates an ideology, not its cause."
+}

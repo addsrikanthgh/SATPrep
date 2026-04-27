@@ -1,0 +1,16 @@
+{
+  "id": "q_059",
+  "domain": "Standard English Conventions",
+  "skill": "sentence structure",
+  "difficulty": "medium",
+  "passage": "Sociologist Erving Goffman introduced the concept of stigma to describe how certain attributes—including physical disabilities, mental illness, and social identities deemed deviant—lead to an individual being reduced in the minds of others from a full person to a 'tainted, discounted one.' _______ Goffman distinguished among three types of stigma: abominations of the body, blemishes of individual character, and tribal stigma of race, nation, or religion.",
+  "question": "Which choice best completes the passage by maintaining grammatical and logical flow?",
+  "choices": {
+    "A": "In his 1963 book Stigma: Notes on the Management of Spoiled Identity,",
+    "B": "His 1963 book Stigma: Notes on the Management of Spoiled Identity,",
+    "C": "Writing in his 1963 book Stigma: Notes on the Management of Spoiled Identity,",
+    "D": "The 1963 book Stigma: Notes on the Management of Spoiled Identity,"
+  },
+  "correct_answer": "A",
+  "explanation": "The blank begins a sentence whose main clause is 'Goffman distinguished among three types of stigma.' An introductory prepositional phrase—'In his 1963 book Stigma...'—correctly sets the context and flows into the main clause with Goffman as subject. B creates a sentence where 'His 1963 book' is the subject, but the verb 'distinguished' requires a human subject (Goffman, not a book). C uses a participial phrase that also requires 'Goffman' as the immediate subject of the main clause—but 'Goffman' does appear as the subject here, so C is actually grammatically acceptable, but A is cleaner and more standard for this type of attribution. D makes 'The 1963 book' the subject, inconsistent with the verb 'distinguished.' Between A and C, A is standard for attribution ('In his book, Goffman argued...') and avoids the awkward participial construction."
+}

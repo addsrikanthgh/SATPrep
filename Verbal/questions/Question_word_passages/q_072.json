@@ -1,0 +1,16 @@
+{
+  "id": "q_072",
+  "domain": "Standard English Conventions",
+  "skill": "modifier placement",
+  "difficulty": "hard",
+  "passage": "_______, the sociologist identified three distinct patterns of neighborhood disinvestment in the dataset, each associated with different combinations of racial composition, median household income, and distance from the city center.",
+  "question": "Which choice correctly and logically completes the sentence?",
+  "choices": {
+    "A": "After analyzing census data from forty metropolitan areas over a twenty-year period",
+    "B": "Census data from forty metropolitan areas over a twenty-year period was analyzed",
+    "C": "Having been analyzed from forty metropolitan areas over a twenty-year period",
+    "D": "Analyzing census data that forty metropolitan areas had produced over twenty years, the dataset"
+  },
+  "correct_answer": "A",
+  "explanation": "The main clause's subject is 'the sociologist.' An introductory participial or adverbial phrase must logically modify the subject that immediately follows it. A uses an introductory adverbial phrase ('After analyzing census data...') that correctly describes what the sociologist did before identifying the patterns. B restructures the sentence so the analysis is the subject but leaves no logical agent for 'identified.' C uses a passive participial phrase ('Having been analyzed') which would mean the sociologist was analyzed—an illogical modifier. D creates a dangling modifier by making 'the dataset' the apparent agent of 'identifying,' which doesn't make sense."
+}

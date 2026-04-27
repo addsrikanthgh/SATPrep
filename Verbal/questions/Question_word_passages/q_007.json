@@ -1,0 +1,16 @@
+{
+  "id": "q_007",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay arguing that the long-term economic consequences of the Transatlantic Slave Trade extended well beyond the colonial period. The student wants to include a sentence that uses specific evidence to support this claim.\n\nWhich choice most effectively uses relevant details from the notes below to accomplish this goal?\n\nNotes:\n- The Transatlantic Slave Trade forcibly transported approximately 12.5 million Africans between the 16th and 19th centuries.\n- Historian Nathan Nunn's 2008 study found that African regions from which more enslaved people were taken show significantly lower economic development today.\n- Many formerly enslaved people in the U.S. were denied land and economic opportunity after emancipation.\n- The slave trade disrupted African political institutions, fragmenting states and undermining trust within communities.",
+  "question": "Which choice most effectively uses relevant details from the notes to support the student's claim about long-term economic consequences extending beyond the colonial period?",
+  "choices": {
+    "A": "Approximately 12.5 million Africans were forcibly transported across the Atlantic between the 16th and 19th centuries, making the Transatlantic Slave Trade one of the largest forced migrations in human history.",
+    "B": "Nathan Nunn's 2008 research found that African regions from which greater numbers of enslaved people were taken continue to exhibit significantly lower economic development today, suggesting the trade's economic damage persisted for centuries.",
+    "C": "The slave trade undermined African political institutions by fragmenting states and eroding community trust, creating instability that made economic development more difficult.",
+    "D": "After emancipation, many formerly enslaved people in the United States were systematically denied land and economic opportunity, preventing them from accumulating wealth."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's claim is that economic consequences extended \"beyond the colonial period.\" B directly addresses this by citing Nunn's research showing that economic damage persists to the present day—the clearest evidence of consequences extending far beyond the colonial era. A establishes scale but says nothing about long-term economic consequences. C addresses political and social disruption, not directly economic consequences extending to the present. D focuses on post-emancipation denial of opportunity in the U.S., which is relevant but narrower and less directly tied to the claim about consequences persisting beyond the colonial period into the present."
+}

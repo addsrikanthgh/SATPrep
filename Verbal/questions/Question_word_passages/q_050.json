@@ -1,0 +1,16 @@
+{
+  "id": "q_050",
+  "domain": "Standard English Conventions",
+  "skill": "pronoun-antecedent agreement",
+  "difficulty": "easy",
+  "passage": "When a scientist publishes research findings, _______ must disclose any financial relationships with companies that might benefit from the results, a requirement designed to ensure transparency and public trust in the scientific enterprise.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "they",
+    "B": "one",
+    "C": "the individual",
+    "D": "it"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent is 'a scientist'—a singular noun used in a generic sense to refer to any scientist. Modern Standard English accepts the singular 'they' to refer to an indefinite singular antecedent, and the SAT recognizes this convention. 'They' is the most natural and correct choice here. 'One' is grammatically possible but stylistically formal and inconsistent with the register of the sentence. 'The individual' adds a noun where a pronoun is needed and is redundant. 'It' is incorrect because 'a scientist' refers to a person."
+}

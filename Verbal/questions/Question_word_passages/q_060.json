@@ -1,0 +1,16 @@
+{
+  "id": "q_060",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Neuroplasticity—the brain's capacity to reorganize itself by forming new neural connections in response to learning, experience, or injury—has overturned a once-dominant view that the adult brain is fixed and unchangeable after early childhood. Research has demonstrated that even elderly adults can grow new neurons in certain brain regions and that intensive training can produce measurable changes in the size and connectivity of cortical areas. This plasticity, however, is not without limits: not all regions of the brain remain equally malleable throughout life, and some changes require considerable effort and repetition to produce and maintain.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The adult brain cannot change after early childhood, which is why early education is critically important.",
+    "B": "The brain's neuroplasticity is unlimited, enabling anyone to learn any skill at any age with sufficient effort.",
+    "C": "The brain retains the capacity to reorganize and adapt throughout life, though this capacity has limits.",
+    "D": "Intensive training is the only reliable method for producing lasting changes in brain structure."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage argues that neuroplasticity overturns the fixed-brain view (the brain can change) but also notes that plasticity 'is not without limits' (the capacity has constraints). C accurately captures both aspects of this central idea. A directly contradicts the passage's argument. B overstates—the passage explicitly says neuroplasticity 'is not without limits.' D introduces a value claim about training being 'the only reliable method,' which the passage does not make."
+}

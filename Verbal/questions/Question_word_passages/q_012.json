@@ -1,0 +1,16 @@
+{
+  "id": "q_012",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "For most of its history, the field of nutrition science relied on observational studies—asking participants to recall what they ate over months or years and then correlating dietary patterns with health outcomes. These studies are inexpensive and can track large populations over long periods. _______, they are notoriously prone to recall bias, confounding variables, and the difficulty of isolating the effect of any single dietary component from the overall eating pattern.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "As a result",
+    "B": "In other words",
+    "C": "Likewise",
+    "D": "Nevertheless"
+  },
+  "correct_answer": "D",
+  "explanation": "The first two sentences describe advantages of observational studies (inexpensive, large scale, longitudinal). The third sentence shifts to weaknesses (recall bias, confounders, isolation problems). A contrast transition is needed. \"Nevertheless\" correctly signals that despite the advantages just described, limitations exist. \"As a result\" would suggest the limitations follow causally from the advantages. \"In other words\" would suggest a restatement. \"Likewise\" would add a parallel point rather than introducing a contrast."
+}

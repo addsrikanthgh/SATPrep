@@ -1,0 +1,16 @@
+{
+  "id": "q_044",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "The human microbiome—the trillions of bacteria, viruses, fungi, and other microorganisms that inhabit the body—has emerged as a significant area of biomedical research over the past two decades. Scientists have discovered that the gut microbiome influences not only digestion and immune function but also, through the gut-brain axis, aspects of mood, cognition, and behavior. Disruptions to microbial communities, called dysbiosis, have been associated with conditions ranging from inflammatory bowel disease to depression and autism spectrum disorder. Researchers are now investigating whether microbiome-targeted interventions, such as fecal microbiota transplants and probiotic therapies, might treat conditions previously thought to be unrelated to microbial health.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Fecal microbiota transplants represent the most promising new treatment for inflammatory bowel disease.",
+    "B": "Research on the human microbiome has revealed its far-reaching influence on health, prompting investigation of microbiome-based treatments.",
+    "C": "The gut-brain axis is the most important recent discovery in biomedical research.",
+    "D": "Bacteria in the gut are responsible for most mood disorders, including depression."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers the microbiome's wide-ranging influence on digestion, immunity, mood, and cognition; its association with diverse health conditions; and ongoing research into microbiome-targeted treatments. B accurately synthesizes all of these threads into a coherent central idea. A focuses on one specific treatment and one disease, ignoring the passage's breadth. C makes a superlative claim ('most important') not supported by the passage. D overstates the passage, which says dysbiosis is 'associated with' depression—not that bacteria are 'responsible for most mood disorders.'"
+}

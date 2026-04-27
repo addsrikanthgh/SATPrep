@@ -1,0 +1,16 @@
+{
+  "id": "q_075",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report on the potential medical applications of psychedelic compounds and wants to highlight recent evidence that psilocybin may be effective in treating depression. The student has gathered the following information:\n\n• A 2021 randomized controlled trial published in the New England Journal of Medicine found that two doses of psilocybin combined with psychological support reduced depressive symptoms at six weeks as effectively as a standard selective serotonin reuptake inhibitor (SSRI).\n• Unlike SSRIs, which must be taken daily and often require weeks to produce effects, psilocybin's therapeutic effects in the trial appeared after just two doses administered weeks apart.\n• The trial enrolled 59 patients with moderate-to-severe depression who had not responded to prior treatments.",
+  "question": "Which sentence best uses the evidence above to support a claim about psilocybin's potential advantages over conventional antidepressants?",
+  "choices": {
+    "A": "Psilocybin is a naturally occurring psychedelic compound that has been used in indigenous ceremonial contexts for thousands of years.",
+    "B": "A recent rigorous clinical trial found that psilocybin produced results comparable to standard antidepressants in far fewer doses, suggesting it may offer a more efficient treatment pathway for patients with depression.",
+    "C": "Since only 59 patients participated in the trial, more research is needed before psilocybin can be considered a reliable treatment for depression.",
+    "D": "Psilocybin should replace SSRIs as the standard treatment for moderate-to-severe depression based on the New England Journal of Medicine trial."
+  },
+  "correct_answer": "B",
+  "explanation": "The student wants to highlight evidence of psilocybin's effectiveness and potential advantages. B draws on both the first bullet (comparable effectiveness to SSRIs) and the second bullet (fewer doses required), synthesizing them into a claim about efficiency. A introduces historical context not found in the notes. C uses the trial's small sample size to argue against the student's thesis, contradicting their intent. D overstates—the trial enrolled treatment-resistant patients only, and one trial does not establish psilocybin as a replacement standard of care."
+}

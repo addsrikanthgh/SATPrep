@@ -1,0 +1,16 @@
+{
+  "id": "q_082",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "Diplomatic historian Margaret MacMillan has argued that the Paris Peace Conference of 1919 was less a triumph of statesmanship than a cacophony of competing national interests, imperial ambitions, and unresolvable contradictions. The 'Big Four' leaders—Wilson, Lloyd George, Clemenceau, and Orlando—arrived with incompatible visions: Wilson's idealistic Fourteen Points clashed with French demands for punitive reparations, British calculations of imperial advantage, and Italian irredentist claims. The resulting treaty satisfied no one fully, and its internal contradictions, MacMillan argues, rendered it inherently fragile.",
+  "question": "As used in the passage, \"irredentist\" most nearly means:",
+  "choices": {
+    "A": "pacifist and committed to international cooperation",
+    "B": "relating to claims for the recovery of territory deemed to belong to one's nation",
+    "C": "focused on economic compensation for wartime losses",
+    "D": "supporting the dissolution of existing national borders"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage places 'Italian irredentist claims' alongside French demands for reparations and British 'imperial advantage'—all national interests at the peace conference. Irredentism is specifically the political position that territories inhabited by co-nationals or historically belonging to one's nation should be recovered and incorporated. Italy's irredentist claims at Paris focused on territories like Dalmatia and Fiume. B captures this definition. A ('pacifist') directly contradicts irredentism's typically assertive territorial character. C ('economic compensation') describes France's reparations demands, not Italy's territorial claims. D ('dissolution of borders') describes a different position from claiming specific territories."
+}

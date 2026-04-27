@@ -1,0 +1,16 @@
+{
+  "id": "q_045",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The concept of the poverty trap describes a self-reinforcing cycle in which poverty itself generates conditions that make escaping poverty more difficult. Families with inadequate income cannot invest in children's nutrition, healthcare, or education, and children who grow up in deprivation face significantly worse health and cognitive development outcomes. These outcomes, in turn, limit their future earnings capacity, reproducing poverty in the next generation. Development economists have proposed various interventions—conditional cash transfers, free school meals, subsidized healthcare—designed to break specific links in this cycle.",
+  "question": "What is the function of the final sentence in the context of the passage?",
+  "choices": {
+    "A": "It introduces a counterargument to the poverty trap concept described earlier in the passage.",
+    "B": "It indicates that practical solutions have been proposed to interrupt the cycle described in the preceding sentences.",
+    "C": "It provides the primary evidence that poverty traps exist in developing economies.",
+    "D": "It argues that government intervention is the only effective means of addressing poverty."
+  },
+  "correct_answer": "B",
+  "explanation": "The first three sentences describe how poverty perpetuates itself through a self-reinforcing cycle. The final sentence pivots to note that economists have proposed interventions 'designed to break specific links in this cycle.' Its function is to show that despite the cycle's self-reinforcing nature, targeted interventions can interrupt it—making B correct. A is wrong because no counterargument is introduced. C is wrong because the sentence is about solutions, not evidence for poverty traps. D goes beyond the passage, which presents interventions as options, not argues they are the 'only' means."
+}

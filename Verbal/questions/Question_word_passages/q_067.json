@@ -1,0 +1,16 @@
+{
+  "id": "q_067",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a paper arguing that restorative justice practices in schools are more effective than zero-tolerance disciplinary policies. The student has gathered the following information:\n\n• A RAND Corporation study found that schools using restorative practices saw a 44% reduction in suspension rates and a 26% improvement in school climate scores over three years.\n• Research by the American Psychological Association found that zero-tolerance policies, which mandate fixed punishments regardless of context, disproportionately affect Black and Latino students and have not been shown to improve school safety.\n• Restorative justice focuses on repairing harm through dialogue between those who caused harm and those affected, rather than through exclusionary punishment.",
+  "question": "Which sentence best uses the information above to advance the student's argument?",
+  "choices": {
+    "A": "Restorative justice is a practice rooted in indigenous and community-based traditions that has been adapted for use in American schools.",
+    "B": "Zero-tolerance policies create a 'school-to-prison pipeline' that systematically criminalizes normal adolescent behavior.",
+    "C": "Whereas zero-tolerance policies have failed to improve safety while producing racially disparate outcomes, restorative practices have demonstrably reduced suspensions and improved school climate.",
+    "D": "Schools should invest in counselors and mental health services rather than relying on punitive disciplinary systems of any kind."
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument is that restorative justice is more effective than zero-tolerance policies. C directly synthesizes the two most relevant findings: zero-tolerance failures (second bullet—not shown to improve safety, racially disparate) against restorative practices' measurable successes (first bullet—44% fewer suspensions, improved climate). A introduces historical origins not found in the student's notes. B uses language ('school-to-prison pipeline') that goes beyond what the notes support and introduces a claim not found in the provided data. D advocates for a third alternative not the student's thesis."
+}

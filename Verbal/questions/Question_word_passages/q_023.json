@@ -1,0 +1,16 @@
+{
+  "id": "q_023",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Toni Morrison has said that she wrote her novel Beloved (1987) in part to recover the stories of enslaved people that had been suppressed, distorted, or simply never told. The novel is based loosely on the true story of Margaret Garner, an enslaved woman who in 1856 killed her infant daughter rather than allow her to be returned to slavery. Morrison does not present this act as straightforwardly heroic or straightforwardly monstrous; instead, the novel inhabits the unbearable logic of the choice, forcing the reader to confront the conditions that made such a decision conceivable.",
+  "question": "Which inference about Morrison's approach in Beloved is most strongly supported by the passage?",
+  "choices": {
+    "A": "Morrison believed that historical accuracy required her to portray Margaret Garner's act exactly as contemporary newspapers had reported it.",
+    "B": "Morrison intended Beloved primarily as a political argument against the legal system that made slavery possible.",
+    "C": "Morrison sought to resist simplistic moral judgments about the story by exploring the conditions under which the act became thinkable.",
+    "D": "Morrison chose to fictionalize Garner's story because she believed that a novel could reach a wider audience than a historical account."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage states Morrison does not present the act as \"straightforwardly heroic or straightforwardly monstrous\" but instead \"inhabits the unbearable logic of the choice, forcing the reader to confront the conditions.\" This directly supports C—Morrison resists easy moral categorization by exploring the circumstances that made the choice conceivable. A is not supported; the passage says nothing about newspaper accounts. B is an overreach—the passage does not describe a political argument. D is speculation about audience reach that the passage never addresses."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_085",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Political scientist Robert Putnam's concept of social capital—the networks, norms of reciprocity, and trust that facilitate collective action—has become one of the most widely used frameworks in the social sciences. In Bowling Alone (2000), Putnam documented a long-term decline in associational life in the United States: participation in civic organizations, religious institutions, political parties, and even informal social gatherings had fallen sharply since the 1960s. He argued that this erosion of social capital had measurable consequences for public health, economic performance, educational achievement, and democratic governance, all of which depend on the cooperative relationships that social capital enables.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Americans have become less interested in politics and civic life because of the rise of television and digital entertainment.",
+    "B": "Putnam argues that the decline of social networks and civic participation in the United States has undermined the cooperative foundations of a healthy society.",
+    "C": "Social capital is most important for economic performance and is less relevant to political and social outcomes.",
+    "D": "The United States must increase immigration levels to replenish the social capital lost since the 1960s."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes Putnam's argument that declining social participation erodes social capital and that this erosion has measurable negative effects across health, economics, education, and democracy. B accurately captures this central argument. A attributes the decline to television/digital entertainment—a claim not made in the passage. C contradicts the passage, which lists multiple domains (health, economics, education, democracy) as equally affected. D introduces immigration as a solution—a claim not found in the passage."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_008",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "Psychologist Carol Dweck's research on mindset has had significant influence on education policy. Dweck distinguishes between a fixed mindset _______ the belief that intelligence and ability are static traits _______ and a growth mindset, the belief that abilities can be developed through effort and effective strategies.",
+  "question": "Which choice correctly punctuates the underlined portions of the sentence?",
+  "choices": {
+    "A": "fixed mindset, the belief that intelligence and ability are static traits, and",
+    "B": "fixed mindset—the belief that intelligence and ability are static traits—and",
+    "C": "fixed mindset: the belief that intelligence and ability are static traits; and",
+    "D": "fixed mindset (the belief that intelligence and ability are static traits,) and"
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase \"the belief that intelligence and ability are static traits\" is a parenthetical definition of \"fixed mindset\" that interrupts the main clause. Em dashes are the appropriate punctuation to set off a parenthetical clarification that appears mid-sentence, especially when the phrase contains no commas (which would create ambiguity with comma-based parenthetical punctuation). Choice A uses commas but the structure creates confusion with the comma before \"and.\" Choice C incorrectly uses a colon mid-clause followed by a semicolon. Choice D incorrectly places a comma inside the closing parenthesis."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_028",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "In his critical essay \"Tradition and the Individual Talent\" (1919), T.S. Eliot argued against the Romantic notion that poetry is primarily an expression of personal emotion. For Eliot, the great poet does not pour out feeling but rather possesses what he called an \"impersonal\" capacity—the ability to serve as a medium through which new combinations of feeling and experience are given form. The poet's personality, Eliot insisted, must be subordinated to the work; artistic maturity means the progressive extinction of personality rather than its cultivation.",
+  "question": "As used in the passage, \"subordinated\" most nearly means:",
+  "choices": {
+    "A": "disciplined and made more rigorous",
+    "B": "made secondary or subjected to the authority of something else",
+    "C": "eliminated and replaced by impersonal technical skill",
+    "D": "celebrated as the foundation of great artistic achievement"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage uses \"subordinated\" in the context of the poet's personality being placed beneath the work—the work takes precedence over the poet's self-expression. \"Subordinated\" means made secondary or subjected to something else's authority. The contrast with Romantic self-expression confirms this: Eliot wants personality placed below and in service of the artistic work. A introduces rigor, which the passage does not mention. C overstates—Eliot says personality is extinguished from the poem, not that it is replaced by technical skill. D is the opposite of the passage's meaning."
+}

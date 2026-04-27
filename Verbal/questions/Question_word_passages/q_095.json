@@ -1,0 +1,16 @@
+{
+  "id": "q_095",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Nuremberg Trials (1945–1946) established several principles that became foundational to international law. Most significantly, the Tribunal rejected the defense argument that the defendants had merely been following orders, ruling that individuals could be held criminally responsible for acts committed under state authority. The Tribunal also established that crimes against peace—the planning and waging of aggressive war—and crimes against humanity—atrocities committed against civilian populations—were prosecutable under international law even if they had not been previously codified in national statutes.",
+  "question": "What is the function of the second sentence in the context of the passage?",
+  "choices": {
+    "A": "It provides the historical context in which the Nuremberg Trials were organized.",
+    "B": "It identifies what the passage considers the most important legal precedent established at Nuremberg.",
+    "C": "It explains why the defendants at Nuremberg claimed they were following orders.",
+    "D": "It introduces a criticism of the Nuremberg Tribunal's procedures that later scholars have advanced."
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence states that the Nuremberg Trials established foundational principles. The second sentence begins 'Most significantly'—a phrase that explicitly signals the author is about to identify the most important precedent. The sentence then explains the rejection of the 'just following orders' defense. Its function is to identify and elaborate the paramount legal precedent among those established. A is wrong—historical context was not the function. C is wrong—the sentence explains what the Tribunal ruled, not why defendants made the claim. D is wrong—no criticism is introduced; the sentence presents the Tribunal's ruling affirmatively."
+}

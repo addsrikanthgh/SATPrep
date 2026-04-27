@@ -1,0 +1,16 @@
+{
+  "id": "q_046",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay arguing that wealthy nations bear a disproportionate moral responsibility for climate change mitigation. The student has gathered the following information:\n\n• Historically, the United States, the European Union, and other industrialized nations are responsible for roughly 70% of cumulative global CO₂ emissions since the Industrial Revolution.\n• A 2021 Oxfam study found that the wealthiest 1% of the global population produces more than twice the carbon emissions of the bottom 50%.\n• Many developing nations have argued in international climate negotiations that binding emissions limits would constrain their economic development and perpetuate existing global inequalities.",
+  "question": "Which sentence best uses the information above to advance the student's argument?",
+  "choices": {
+    "A": "Wealthy nations have the technical and financial capacity to develop and deploy clean energy technologies, which developing nations currently lack.",
+    "B": "Because industrialized nations have contributed the vast majority of historical emissions and their wealthiest citizens produce far more emissions per capita, they should bear primary responsibility for reducing global emissions.",
+    "C": "Developing nations are right to resist binding emissions limits, since such limits would prevent them from achieving the economic growth that wealthy nations have already enjoyed.",
+    "D": "International climate negotiations have repeatedly failed to produce enforceable agreements, suggesting that voluntary commitments are the most realistic path forward."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's argument is that wealthy nations bear disproportionate moral responsibility for climate mitigation. B draws directly on both the first bullet (historical emissions data—70% from industrialized nations) and the second bullet (high per capita emissions of the wealthy) to make a coherent argument for disproportionate responsibility. A introduces a capacity argument not found in the notes. C adopts the position of developing nations from the third bullet, which contradicts the student's argument. D shifts to negotiation effectiveness, which is not the student's thesis."
+}

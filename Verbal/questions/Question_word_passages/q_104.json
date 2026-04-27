@@ -1,0 +1,16 @@
+{
+  "id": "q_104",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "For most of the twentieth century, the dominant view in evolutionary biology held that major evolutionary changes occurred through the slow, gradual accumulation of small genetic mutations over millions of years—the model Charles Darwin proposed and that the Modern Synthesis of the 1940s formalized. _______, paleontologists Niles Eldredge and Stephen Jay Gould proposed in 1972 the theory of punctuated equilibrium, which argued that the fossil record showed long periods of morphological stability interrupted by relatively rapid bursts of evolutionary change concentrated in small, isolated populations.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Supporting this consensus",
+    "B": "Challenging this consensus",
+    "C": "As a result of this consensus",
+    "D": "Consistent with this framework"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence describes the dominant gradualist consensus. The second sentence introduces punctuated equilibrium theory, which proposed a different model (rapid bursts rather than slow accumulation)—explicitly challenging the consensus. 'Challenging this consensus' precisely captures the relationship: Eldredge and Gould proposed their theory in opposition to the established view. 'Supporting this consensus' would mean punctuated equilibrium agrees with gradualism, which it does not. 'As a result of this consensus' would imply punctuated equilibrium followed logically from gradualism. 'Consistent with this framework' would imply agreement."
+}

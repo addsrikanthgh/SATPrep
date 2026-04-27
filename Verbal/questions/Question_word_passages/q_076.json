@@ -1,0 +1,16 @@
+{
+  "id": "q_076",
+  "domain": "Standard English Conventions",
+  "skill": "sentence structure",
+  "difficulty": "medium",
+  "passage": "The grotesque in Southern Gothic fiction—a mode associated with writers such as Flannery O'Connor, William Faulkner, and Carson McCullers—uses physical and psychological deformity not as mere shock tactics _______ as a means of exposing the moral corruption, violence, and spiritual emptiness beneath the surface of Southern social life.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "but rather",
+    "B": "but also",
+    "C": "but instead",
+    "D": "so much as"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence uses a 'not X but Y' construction—'not as mere shock tactics [blank] as a means of exposing...' The standard correlative construction is 'not...but rather,' which signals a correction or clarification: the grotesque serves not one purpose but another. 'But rather' fits perfectly: 'not as mere shock tactics but rather as a means of exposing...' 'But also' would be used in 'not only...but also' constructions (additive, not corrective). 'But instead' is slightly redundant and less idiomatic after 'not...as.' 'So much as' changes the logical structure entirely—'not so much as' compares degrees, not contrasting purposes."
+}

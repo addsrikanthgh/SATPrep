@@ -1,0 +1,16 @@
+{
+  "id": "q_089",
+  "domain": "Information and Ideas",
+  "skill": "evidence",
+  "difficulty": "hard",
+  "passage": "Literary scholar Rita Felski argues in The Limits of Critique (2015) that the dominant mode of literary criticism—what she calls 'critique'—is limited by its reflexive suspicion of texts, its tendency to read literary works primarily as symptoms of ideological forces that authors and readers cannot perceive, and its assumption that exposing hidden meanings or ideological contradictions is the only legitimate form of engagement. Felski advocates instead for a 'postcritical' reading that takes seriously the affective, aesthetic, and ethical experiences that literature produces in readers.",
+  "question": "Which finding would most directly support Felski's critique of the dominant critical mode she describes?",
+  "choices": {
+    "A": "A survey finds that most academic literary critics describe themselves as working within a broadly Marxist or poststructuralist theoretical framework.",
+    "B": "A study of reader-response data finds that most readers experience literature primarily through emotional engagement, identification with characters, and aesthetic pleasure—experiences rarely addressed in academic criticism.",
+    "C": "Analysis of literary journals shows that the majority of published articles focus on texts from the Western canon rather than global or postcolonial literatures.",
+    "D": "A philosopher argues that ideological criticism is valid because readers are inevitably shaped by the social conditions in which they read."
+  },
+  "correct_answer": "B",
+  "explanation": "Felski's critique is that dominant literary criticism ignores the affective and aesthetic experiences that literature produces. B directly supports this by showing a gap between what readers actually experience (emotional engagement, identification, aesthetic pleasure) and what academic criticism addresses—exactly the mismatch Felski diagnoses. A describes the theoretical allegiances of critics but doesn't directly support Felski's argument about critical limitations. C raises a canonicity issue irrelevant to Felski's argument about mode of reading. D argues for ideological criticism's validity, which directly opposes Felski's position."
+}

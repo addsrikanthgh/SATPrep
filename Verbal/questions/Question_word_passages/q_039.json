@@ -1,0 +1,16 @@
+{
+  "id": "q_039",
+  "domain": "Information and Ideas",
+  "skill": "evidence",
+  "difficulty": "medium",
+  "passage": "Historian Ellen Carol DuBois argues in Suffrage: Women's Long Battle for the Vote (2020) that the American suffrage movement's most consequential strategic shift came when leaders began advocating for a constitutional amendment rather than state-by-state referendum campaigns. DuBois contends that the amendment strategy, pursued vigorously after 1910, was transformative because it forced suffragists to build a truly national coalition and to engage with federal political institutions in ways the piecemeal state approach had never required.",
+  "question": "Which finding, if true, would most directly support DuBois's argument about the significance of the amendment strategy?",
+  "choices": {
+    "A": "Several states in the Northeast had granted women the right to vote before the Nineteenth Amendment was ratified in 1920.",
+    "B": "The number of suffrage organizations with active chapters in all 48 states roughly tripled between 1910 and 1920.",
+    "C": "Many suffragists who favored the state-by-state approach believed a constitutional amendment was politically impossible.",
+    "D": "The Nineteenth Amendment was ratified by a margin of only one vote in the Tennessee legislature."
+  },
+  "correct_answer": "B",
+  "explanation": "DuBois argues that the amendment strategy was transformative because it forced suffragists to build a national coalition. B directly supports this claim: a tripling of organizations with chapters in all 48 states is concrete evidence that the movement became genuinely national after 1910. A confirms that state-level victories occurred but says nothing about the amendment strategy's significance. C describes opponents of the amendment approach but doesn't support the claim that the strategy was transformative. D is a historical detail about ratification that doesn't address whether the strategy built a national coalition."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_018",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "The concept of the unreliable narrator—a narrator whose account cannot be taken entirely at face value—is central to some of the most celebrated works of twentieth-century fiction. In Ford Madox Ford's The Good Soldier, the narrator John Dowell gradually reveals his own obtuseness and self-deception; in Vladimir Nabokov's Lolita, Humbert Humbert uses eloquent prose to rationalize monstrous behavior. In both cases, the reader must perform a kind of double reading: attending simultaneously to what the narrator says and to what the narrator's blind spots and distortions reveal about the narrator's character. The unreliable narrator thus requires the reader to become an active interpreter rather than a passive recipient of the story.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Unreliable narrators are a literary device primarily used by authors to conceal plot information until a dramatic climax.",
+    "B": "The unreliable narrator is a technique that compels active, interpretive reading by exposing a gap between what narrators say and what their self-deceptions reveal.",
+    "C": "Ford Madox Ford and Vladimir Nabokov are the most important writers to have used unreliable narrators in twentieth-century fiction.",
+    "D": "Readers should be skeptical of all first-person narrators in literary fiction because every narrator inevitably distorts events to favor their own perspective."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage uses two examples to illustrate that unreliable narrators force readers to read on two levels—what the narrator says and what their blind spots reveal—and concludes that this makes the reader an active interpreter. B captures this central argument. A misidentifies the function as concealing plot rather than revealing character. C incorrectly elevates the two examples into a comparative ranking claim the passage never makes. D overgeneralizes beyond what the passage argues—the passage is about unreliable narrators specifically, not all first-person narrators."
+}

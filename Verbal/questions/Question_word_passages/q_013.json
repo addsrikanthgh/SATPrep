@@ -1,0 +1,16 @@
+{
+  "id": "q_013",
+  "domain": "Standard English Conventions",
+  "skill": "pronoun-antecedent agreement",
+  "difficulty": "easy",
+  "passage": "Each of the poets included in the anthology brings _______ own distinct perspective to the theme of displacement, drawing on personal experience of migration, exile, or cultural dislocation.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "their",
+    "B": "its",
+    "C": "his or her",
+    "D": "our"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent is \"each of the poets,\" which refers to individual people. In contemporary Standard English, singular \"they/their\" is accepted as a gender-neutral singular pronoun when the referent is a person whose gender is unspecified or when referring to any individual in a group. \"Its\" is used for non-persons. \"His or her\" is grammatically acceptable but more cumbersome and is increasingly less preferred on the SAT. \"Our\" incorrectly includes the speaker. The SAT accepts singular \"their\" for indefinite human antecedents such as \"each.\""
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_088",
+  "domain": "Standard English Conventions",
+  "skill": "modifier placement",
+  "difficulty": "medium",
+  "passage": "_______, the historian concluded that the famine was not solely a natural disaster but was exacerbated by deliberate British policy decisions that prioritized export markets over emergency food relief.",
+  "question": "Which choice correctly and logically completes the sentence?",
+  "choices": {
+    "A": "After examining grain export records, contemporary newspaper accounts, and parliamentary debates from the period",
+    "B": "The grain export records, contemporary newspaper accounts, and parliamentary debates from the period having been examined",
+    "C": "Examining grain export records, contemporary newspaper accounts, and parliamentary debates by the historian",
+    "D": "The period's grain export records, newspaper accounts, and parliamentary debates examined"
+  },
+  "correct_answer": "A",
+  "explanation": "The main clause's subject is 'the historian.' An introductory participial or adverbial phrase must modify the immediate subject. A uses an adverbial phrase ('After examining...') that correctly modifies 'the historian'—the historian examined the sources and then drew a conclusion. B uses an absolute phrase construction that is grammatically unusual and creates ambiguity. C uses a participial phrase ('Examining...by the historian') with the agent 'by the historian' embedded awkwardly inside it rather than as the main clause's subject. D leaves the phrase as a subject without a main verb, creating a sentence fragment."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_068",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The Silk Road _______ a network of trade routes connecting East Asia, South Asia, the Middle East, and Europe _______ was not a single road but a shifting web of land and sea routes along which goods, people, ideas, and diseases moved for more than a millennium.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "The Silk Road, a network of trade routes connecting East Asia, South Asia, the Middle East, and Europe, was not",
+    "B": "The Silk Road a network of trade routes connecting East Asia, South Asia, the Middle East, and Europe, was not",
+    "C": "The Silk Road, a network of trade routes connecting East Asia, South Asia, the Middle East, and Europe was not",
+    "D": "The Silk Road—a network of trade routes connecting East Asia, South Asia, the Middle East, and Europe was not"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'a network of trade routes connecting East Asia, South Asia, the Middle East, and Europe' is an appositive—a non-restrictive noun phrase that renames 'The Silk Road.' Appositives are set off with matching punctuation on both sides. A uses commas on both sides, which is the standard way to punctuate a non-restrictive appositive. B lacks the opening comma. C has the opening comma but lacks the closing comma before 'was.' D opens with a dash but closes with no matching punctuation—dashes must be paired when used to set off a mid-sentence phrase."
+}

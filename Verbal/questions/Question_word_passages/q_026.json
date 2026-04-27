@@ -1,0 +1,16 @@
+{
+  "id": "q_026",
+  "domain": "Standard English Conventions",
+  "skill": "modifier placement",
+  "difficulty": "medium",
+  "passage": "Having catalogued over 400 species of birds during her decade-long fieldwork in the Amazon basin, _______ has earned Dr. Renata Souza international recognition among ornithologists.",
+  "question": "Which choice correctly completes the sentence so that the modifier is properly placed?",
+  "choices": {
+    "A": "the research of Dr. Renata Souza",
+    "B": "Dr. Renata Souza's contributions",
+    "C": "Dr. Renata Souza",
+    "D": "international recognition"
+  },
+  "correct_answer": "C",
+  "explanation": "The opening participial phrase \"Having catalogued over 400 species of birds\" describes the person who did the cataloguing. In Standard English, a participial phrase at the start of a sentence must be immediately followed by the noun it modifies—the grammatical subject. The only person who could have catalogued the birds is Dr. Renata Souza herself; therefore she must be the subject directly after the comma. Choices A and B place noun phrases that cannot logically have catalogued the birds (\"the research\" and \"contributions\" don't catalogue species). Choice D (\"international recognition\") creates a dangling modifier."
+}

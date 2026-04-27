@@ -1,0 +1,16 @@
+{
+  "id": "q_027",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Economists distinguish between GDP (Gross Domestic Product)—the total monetary value of goods and services produced within a country—and measures of human well-being such as the Human Development Index, which incorporates life expectancy, education, and income. Critics of GDP-centric policy argue that economic growth can coexist with widening inequality, environmental degradation, and stagnant or declining quality of life for significant portions of the population. Countries with similar GDPs can have dramatically different outcomes on measures of health, happiness, and social mobility, suggesting that the composition and distribution of growth matter as much as its magnitude.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The Human Development Index is a more reliable measure of national well-being than GDP because it incorporates a broader range of social indicators.",
+    "B": "GDP growth is an unreliable economic measure because it fails to account for environmental damage caused by industrial production.",
+    "C": "GDP alone is an insufficient indicator of human well-being, and how growth is distributed matters as much as its overall level.",
+    "D": "Wealthy countries consistently outperform developing nations on all meaningful measures of quality of life."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage argues that GDP can coexist with inequality and declining quality of life, and that countries with similar GDPs can have dramatically different well-being outcomes—suggesting distribution matters as much as magnitude. C captures this central argument. A makes a comparative claim between HDI and GDP that the passage suggests but does not state as its main point. B focuses narrowly on environmental damage, one example among several. D is directly contradicted by the passage's point that similar GDPs produce different outcomes."
+}

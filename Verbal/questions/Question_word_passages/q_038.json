@@ -1,0 +1,16 @@
+{
+  "id": "q_038",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Deep-sea hydrothermal vents, discovered in 1977 near the Galápagos Rift, host ecosystems unlike any previously known _______ rather than relying on photosynthesis, the organisms that thrive here derive energy from chemosynthesis, converting hydrogen sulfide released by the vents into organic compounds.",
+  "question": "Which choice correctly punctuates the underlined portion to form a complete and standard sentence?",
+  "choices": {
+    "A": "known, rather than relying",
+    "B": "known; rather than relying",
+    "C": "known: rather than relying",
+    "D": "known—rather than relying"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence contains two independent clauses: (1) 'Deep-sea hydrothermal vents... host ecosystems unlike any previously known' and (2) 'rather than relying on photosynthesis, the organisms... derive energy from chemosynthesis.' A semicolon correctly joins two independent clauses. A comma creates a comma splice. A colon could work if the second clause explained the first, but here the second clause contrasts and elaborates rather than directly defines—also, a colon is typically followed by a list or explanation of the first clause. A dash is used for emphasis or abrupt breaks but is non-standard here where a grammatically clear punctuation mark is needed between two complete clauses."
+}

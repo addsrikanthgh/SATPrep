@@ -1,0 +1,16 @@
+{
+  "id": "q_010",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The emergence of antibiotic-resistant bacteria has been described by public health officials as an insidious threat—one that, unlike an acute epidemic, does not announce itself with dramatic spikes in mortality but instead accumulates quietly as routine infections become progressively harder to treat. The World Health Organization has warned that without concerted global action, the world risks entering a post-antibiotic era in which minor injuries and common procedures carry life-threatening risk.",
+  "question": "As used in the passage, \"insidious\" most nearly means:",
+  "choices": {
+    "A": "widely recognized as dangerous",
+    "B": "proceeding gradually in a way that is not immediately apparent",
+    "C": "resistant to conventional methods of detection and treatment",
+    "D": "exceptionally severe in its ultimate consequences"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage contrasts an \"insidious threat\" with an \"acute epidemic\" that \"announces itself with dramatic spikes in mortality.\" The insidious threat \"accumulates quietly\"—it develops slowly and without obvious warning signs. \"Insidious\" means proceeding harmfully but gradually, in a way not immediately apparent. A is opposite in implication (the passage notes it does not announce itself). C confuses resistance (a property of the bacteria) with the character of the threat. D captures severity but not the gradual, hidden quality the passage emphasizes."
+}

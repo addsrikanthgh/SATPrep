@@ -1,0 +1,16 @@
+{
+  "id": "q_015",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Montgomery Bus Boycott of 1955–1956 is often narrated as a story that began on December 1, 1955, when Rosa Parks refused to give up her seat to a white passenger and was arrested. This framing, while not inaccurate, obscures the degree to which the boycott was the product of years of careful organizing by the Women's Political Council, led by Jo Ann Robinson, who had drafted plans for a city-wide boycott months before Parks's arrest. When news of Parks's arrest spread, Robinson printed and distributed over 50,000 flyers overnight, mobilizing the community before most media coverage had even begun.",
+  "question": "What is the primary function of the second sentence in the passage?",
+  "choices": {
+    "A": "It provides historical context about the legal segregation policies that made the boycott necessary.",
+    "B": "It introduces a detail that complicates the common narrative by highlighting prior organizing work that the standard account minimizes.",
+    "C": "It argues that Rosa Parks's role in the boycott has been exaggerated by historians seeking a simple story.",
+    "D": "It suggests that the Women's Political Council, rather than Rosa Parks, deserves sole credit for the success of the boycott."
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence begins \"This framing, while not inaccurate, obscures...\"—explicitly acknowledging the standard account while pointing to what it leaves out: prior organizing by the Women's Political Council. Its function is to complicate and nuance the common narrative, not to refute it entirely. A is wrong because no legal segregation policies are described. C overstates the passage's claim—it says the framing \"obscures\" organizing work, not that Parks's role is exaggerated. D is too strong; the passage adds the WPC to the picture rather than transferring sole credit away from Parks."
+}

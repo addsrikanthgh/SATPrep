@@ -1,0 +1,16 @@
+{
+  "id": "q_055",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "Oscar Wilde's The Importance of Being Earnest skewers Victorian social conventions through witty dialogue and elaborate mistaken-identity plots _______ its most enduring satirical target, however, is the upper class's obsession with the superficial markers of respectability.",
+  "question": "Which punctuation mark correctly joins the two parts of the sentence?",
+  "choices": {
+    "A": "plots,",
+    "B": "plots;",
+    "C": "plots:",
+    "D": "plots—"
+  },
+  "correct_answer": "B",
+  "explanation": "Both halves of the sentence are independent clauses: (1) 'Oscar Wilde's...elaborate mistaken-identity plots' and (2) 'its most enduring...markers of respectability.' A semicolon correctly joins two independent clauses. A comma alone creates a comma splice. A colon would work only if the second clause explained or listed what was introduced by the first, but here the second clause introduces a new, contrasting point (the 'most enduring' target). A dash could work stylistically but is less standard in this context than a semicolon when two independent clauses are being connected."
+}

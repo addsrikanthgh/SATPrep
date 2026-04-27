@@ -1,0 +1,16 @@
+{
+  "id": "q_025",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a paper arguing that the construction of the transcontinental railroad in the United States had significant negative consequences for Native American communities. The student wants to include a sentence that presents two distinct types of harm caused by the railroad's construction.\n\nNotes:\n- The transcontinental railroad was completed in 1869, connecting the East and West coasts.\n- Construction relied heavily on Chinese immigrant laborers, who faced dangerous conditions and racial discrimination.\n- The railroad cut through traditional hunting grounds of the Plains Indians and accelerated the destruction of bison herds.\n- Increased settler access to the West led to violent displacement of Native American communities from their lands.\n- The federal government used the railroad as a strategic tool to assert control over western territories.",
+  "question": "Which choice most effectively presents two distinct types of harm caused by the railroad's construction to Native American communities?",
+  "choices": {
+    "A": "The transcontinental railroad, completed in 1869, was built using Chinese immigrant laborers who endured dangerous working conditions and racial discrimination throughout the project.",
+    "B": "By cutting through traditional hunting grounds and accelerating bison herd destruction, while simultaneously enabling the violent displacement of Native communities by settlers, the railroad caused both ecological and territorial harm.",
+    "C": "The federal government used the railroad as a strategic tool, demonstrating that the expansion of American infrastructure was inseparable from the exercise of political power over western territories.",
+    "D": "The transcontinental railroad accelerated the destruction of bison herds, which were central to the economies and cultures of Plains Indian nations that depended on them for food, clothing, and shelter."
+  },
+  "correct_answer": "B",
+  "explanation": "The task asks for two distinct types of harm to Native American communities. B identifies two: ecological harm (destruction of hunting grounds and bison herds) and territorial/physical harm (violent displacement from lands). A describes harm to Chinese laborers, not Native Americans. C focuses on federal political power generally, without specifying distinct types of harm to Native communities. D focuses only on one harm—bison destruction—without adding a second distinct type."
+}

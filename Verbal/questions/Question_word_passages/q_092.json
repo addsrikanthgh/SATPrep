@@ -1,0 +1,16 @@
+{
+  "id": "q_092",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a paper arguing that the United States' entry into World War I was driven more by economic interests than by Woodrow Wilson's stated idealistic goals. The student has gathered the following:\n\n• By 1917, American banks had loaned approximately $2.3 billion to the Allied powers (Britain and France), compared to only $27 million to Germany. A German victory would potentially render those loans unrecoverable.\n• Historian Barbara Tuchman argued that Wilson genuinely believed American participation was necessary to establish a just and lasting international peace.\n• American munitions and agricultural exports to Britain had grown from $800 million in 1914 to $3.2 billion by 1916, creating powerful industrial and agricultural lobbies with financial stakes in Allied victory.",
+  "question": "Which sentence best uses the information to support the student's economic argument while acknowledging the counterevidence?",
+  "choices": {
+    "A": "Woodrow Wilson stated that America entered the war to make the world safe for democracy, but scholars like Barbara Tuchman have disputed this characterization.",
+    "B": "By 1917, American financial institutions and export industries had amassed billions of dollars in economic stakes in Allied victory, suggesting that economic entanglement may have been as powerful a driver as Wilson's stated idealism.",
+    "C": "American banks lent far more money to the Allies than to Germany, making a German victory financially catastrophic for U.S. creditors.",
+    "D": "Wilson's idealistic motivations, while genuine according to historians like Tuchman, were accompanied by overwhelming economic incentives that made American intervention in favor of the Allies virtually inevitable."
+  },
+  "correct_answer": "D",
+  "explanation": "The student's argument is economic motivation over idealism, but a strong rhetorical synthesis should acknowledge the counterevidence (Tuchman's defense of Wilson's idealism). D does both: it concedes Wilson's idealism was genuine (Tuchman's view) while asserting the economic incentives were overwhelming—directly serving the thesis while engaging with the counterargument. A misrepresents Tuchman, who is described as affirming Wilson's idealism, not disputing it. B makes the economic case but ignores Tuchman's counterpoint. C uses only one piece of economic evidence and doesn't address the thesis's need to engage the idealism counterargument."
+}

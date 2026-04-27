@@ -1,0 +1,16 @@
+{
+  "id": "q_031",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Ocean acidification—the ongoing decrease in seawater pH caused by the ocean's absorption of atmospheric carbon dioxide—threatens marine ecosystems in ways that are distinct from, and compounding, the effects of rising water temperatures. As CO₂ dissolves in seawater, it forms carbonic acid, reducing the concentration of carbonate ions that corals, mollusks, and many plankton species need to build their calcium carbonate shells and skeletons. Weakened skeletons make organisms more vulnerable to physical damage and disease. Because many of the affected plankton species sit at the base of marine food webs, disruption of their populations has cascading effects on fish, marine mammals, and seabirds.",
+  "question": "Which inference is most strongly supported by the passage?",
+  "choices": {
+    "A": "Ocean acidification is a more serious threat to marine biodiversity than rising water temperatures.",
+    "B": "The effects of ocean acidification are likely to extend far beyond shell-building organisms to the broader marine food web.",
+    "C": "Corals are the marine organisms most critically threatened by reduced carbonate ion concentrations.",
+    "D": "If atmospheric CO₂ concentrations stabilize, ocean pH will return to pre-industrial levels within a generation."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that many affected plankton sit at the base of marine food webs, and their disruption causes 'cascading effects on fish, marine mammals, and seabirds.' This directly supports B—the effects ripple outward to species that don't build shells. A makes a comparison between threats that the passage does not rank. C is unsupported; the passage lists corals among multiple threatened organisms but does not identify them as most at risk. D introduces a claim about recovery that the passage never makes."
+}

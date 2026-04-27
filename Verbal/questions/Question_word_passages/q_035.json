@@ -1,0 +1,16 @@
+{
+  "id": "q_035",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "Magical realism, associated most prominently with Latin American writers such as Gabriel García Márquez and Isabel Allende, blends realistic narrative with magical elements presented as unremarkable features of everyday life. Unlike fantasy or fairy tale, in which the supernatural exists in a world apart from the ordinary, magical realism insists that the magical and the real are continuous and mutually constitutive. Critics have argued that this mode reflects a distinctly Latin American worldview rooted in indigenous, African, and European traditions—a perspective in which the miraculous is not opposed to the mundane but is woven into it.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Magical realism is primarily a reaction against the European realist novel tradition.",
+    "B": "García Márquez and Allende are the two most important writers in the magical realist tradition.",
+    "C": "Magical realism is a literary mode in which the supernatural and the ordinary are presented as seamlessly intertwined.",
+    "D": "Latin American literature is superior to European literature because it acknowledges non-Western worldviews."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage focuses on the defining feature of magical realism: the coexistence and continuity of the magical and the real, contrasted with fantasy's separation of the two. C accurately captures this central idea. A is not discussed in the passage. B misrepresents the passage, which uses García Márquez and Allende only as examples, not as a comparative ranking. D makes a value judgment ('superior') not made in the passage."
+}

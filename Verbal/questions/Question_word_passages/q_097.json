@@ -1,0 +1,16 @@
+{
+  "id": "q_097",
+  "domain": "Standard English Conventions",
+  "skill": "pronoun-antecedent agreement",
+  "difficulty": "medium",
+  "passage": "When a community faces a public health crisis, _______ institutions—hospitals, public health departments, community organizations, and local government—must coordinate rapidly, sharing resources and information in ways that individual entities acting alone cannot.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "their",
+    "B": "its",
+    "C": "the community's",
+    "D": "one's"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent is 'a community'—a singular collective noun. When used as a singular unit (as it is here), 'community' takes a singular pronoun. 'Its' is the correct singular possessive. 'Their' is plural and would be appropriate if the antecedent were clearly plural or if the context were informal generic usage, but here 'a community' functions as a singular entity. 'The community's' is redundant—replacing a pronoun with the full noun phrase adds unnecessary wordiness. 'One's' changes the meaning by substituting a generic individual for the specific community."
+}

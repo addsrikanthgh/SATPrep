@@ -1,0 +1,16 @@
+{
+  "id": "q_002",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "Virginia Woolf's prose style is often described as luminous—not in the sense of physical brightness, but in the way her sentences illuminate the interior states of her characters with unusual precision. In Mrs. Dalloway, Woolf renders the ephemeral movements of consciousness—a sudden memory, a fleeting impression, an involuntary emotion—with such clarity that the normally invisible workings of the mind become palpable to the reader.",
+  "question": "As used in the passage, \"ephemeral\" most nearly means:",
+  "choices": {
+    "A": "significant and emotionally resonant",
+    "B": "recurring and predictable",
+    "C": "brief and transitory",
+    "D": "deeply felt but difficult to articulate"
+  },
+  "correct_answer": "C",
+  "explanation": "\"Ephemeral\" means lasting only a very short time. The passage uses \"ephemeral movements of consciousness\" to describe mental events—a sudden memory, a fleeting impression—that exist only momentarily before passing. The word \"fleeting\" in the same list of examples confirms that brevity and transience are the relevant qualities. A and D import emotional depth not indicated by the word; B is opposite in meaning, since ephemeral things are not recurring or predictable."
+}

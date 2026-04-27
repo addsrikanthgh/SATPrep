@@ -1,0 +1,16 @@
+{
+  "id": "q_063",
+  "domain": "Standard English Conventions",
+  "skill": "subject-verb agreement",
+  "difficulty": "hard",
+  "passage": "The collection of tissue samples, along with the patient records and the genomic data associated with each case, _______ currently stored in a secure biorepository accessible only to researchers who have obtained institutional review board approval.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The grammatical subject of the sentence is 'The collection'—a singular noun. The prepositional phrases 'of tissue samples,' 'along with the patient records,' and 'and the genomic data associated with each case' are all modifiers that do not change the subject's number. (Note: 'along with' introduces a parenthetical modifier, not a compound subject.) Therefore the verb must be singular: 'is.' 'Are,' 'were,' and 'have been' are plural or past-tense forms that do not agree with the singular 'collection' in the present context."
+}

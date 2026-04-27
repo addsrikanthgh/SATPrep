@@ -1,0 +1,16 @@
+{
+  "id": "q_091",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The printing press, introduced to Europe by Johannes Gutenberg around 1440, dramatically reduced the cost of producing books and enabled the rapid dissemination of ideas across the continent. Historians have linked the press to the Protestant Reformation (which depended on the mass circulation of vernacular Bibles and polemical pamphlets), the Scientific Revolution (which enabled scientists to share results and build on each other's work), and early nationalism (which required standardized vernacular languages promoted through print). Yet the same technology also spread misinformation, heresy accusations, anti-Semitic propaganda, and rumors that contributed to social violence.",
+  "question": "Which inference is best supported by the passage?",
+  "choices": {
+    "A": "Without the printing press, the Protestant Reformation would never have occurred.",
+    "B": "Gutenberg invented the printing press primarily to disseminate Protestant religious ideas.",
+    "C": "Transformative communication technologies can simultaneously accelerate both constructive and destructive social forces.",
+    "D": "The printing press was ultimately more harmful than beneficial to European civilization."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes the printing press enabling major positive historical developments (Reformation, Scientific Revolution, nationalism) while simultaneously spreading misinformation and propaganda that contributed to violence. C infers from this dual record that communication technologies can advance both beneficial and harmful forces at once—a conclusion well supported by the evidence. A overstates ('would never have occurred')—the passage shows the press aided but doesn't claim it was necessary. B is anachronistic—Gutenberg predated Luther. D makes a net-harm value judgment the passage does not support."
+}

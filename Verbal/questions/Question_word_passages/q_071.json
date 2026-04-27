@@ -1,0 +1,16 @@
+{
+  "id": "q_071",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The Haitian Revolution (1791–1804) stands as the only successful large-scale slave revolt in history, culminating in the establishment of Haiti as the first Black republic and the first nation in the Western Hemisphere to permanently abolish slavery. _______, its international reception was hostile: France, Britain, and the United States—all slaveholding powers—feared that a successful slave revolution would inspire similar uprisings, and they imposed economic isolation, refused diplomatic recognition, or demanded reparations that crippled Haiti's development for generations.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Furthermore",
+    "B": "For this reason",
+    "C": "Despite this achievement",
+    "D": "In a similar vein"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence describes the Haitian Revolution's extraordinary achievement. The second sentence describes how it was greeted with hostility and punishment by international powers. The relationship is concessive: despite this monumental achievement, the international response was hostile. 'Despite this achievement' signals that contrast clearly. 'Furthermore' would add to the positive assessment. 'For this reason' would suggest the hostile reception was caused by the achievement (which has some truth historically) but misses the concessive/ironic tone—we expect recognition, not punishment. 'In a similar vein' would imply the hostile reception is parallel to the achievement, which doesn't make logical sense."
+}

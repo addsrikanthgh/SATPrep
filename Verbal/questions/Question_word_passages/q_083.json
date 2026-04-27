@@ -1,0 +1,16 @@
+{
+  "id": "q_083",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay arguing that the American short story reached its artistic peak during the late nineteenth and early twentieth centuries. The student has gathered the following information:\n\n• Henry James, Kate Chopin, Edith Wharton, and Willa Cather all produced celebrated short fiction during the 1890s through 1920s, drawing on the traditions of European realism and naturalism.\n• Literary critics such as Brander Matthews formalized the theory of the short story as a distinct literary form in the 1880s–1900s, arguing it required a single unified effect and a carefully crafted ending.\n• The rise of mass-circulation magazines in the late nineteenth century created a large market for short fiction, paying professional rates that allowed writers to specialize in the form.",
+  "question": "Which sentence best uses all three pieces of information to support the student's argument?",
+  "choices": {
+    "A": "Writers like Henry James and Edith Wharton brought the techniques of European realism to American short fiction, producing some of the form's enduring masterpieces.",
+    "B": "The combination of a robust publishing market, a formalized aesthetic theory, and a concentration of major literary talent made the late nineteenth and early twentieth centuries a uniquely fertile period for the American short story.",
+    "C": "The short story became a respected literary form only after critics like Brander Matthews distinguished it from the novel and established standards for its craft.",
+    "D": "Mass-circulation magazines were primarily responsible for the short story's popularity during the late nineteenth century, as they exposed millions of readers to professional fiction writers."
+  },
+  "correct_answer": "B",
+  "explanation": "The student argues this period was the artistic peak. B synthesizes all three bullets: major literary talent (first), formalized aesthetic theory (second), and publishing market support (third), combining them as mutually reinforcing conditions that made the period uniquely productive. A draws only from the first bullet. C draws primarily from the second bullet and misrepresents the argument—it implies the form needed critics to validate it, rather than making the 'artistic peak' argument. D draws only from the third bullet and focuses on popularity rather than artistic achievement."
+}

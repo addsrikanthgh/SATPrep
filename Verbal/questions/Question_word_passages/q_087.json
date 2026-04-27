@@ -1,0 +1,16 @@
+{
+  "id": "q_087",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Early research on telomeres—the protective caps at the ends of chromosomes—suggested that their progressive shortening with each cell division was a straightforward molecular clock of aging, and that cells with critically short telomeres would simply stop dividing or die. _______, research over the past two decades has revealed that the relationship between telomere length and aging is far more complex, modulated by factors including oxidative stress, inflammation, lifestyle, and the activity of the enzyme telomerase, which can rebuild telomeres in certain cell types.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Therefore",
+    "B": "In addition",
+    "C": "However",
+    "D": "As expected"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence describes an early, simple model (telomere shortening = molecular clock of aging). The second sentence states that later research revealed the relationship is 'far more complex'—complicating the original model. This is a contrast between the early simple understanding and the more complex current picture. 'However' signals this shift from the earlier view to the revised understanding. 'Therefore' would suggest the complexity was a logical consequence of the early model. 'In addition' would mean the complexity adds to rather than complicates the early model. 'As expected' would mean the later findings confirmed predictions, which is the opposite of what the passage says."
+}

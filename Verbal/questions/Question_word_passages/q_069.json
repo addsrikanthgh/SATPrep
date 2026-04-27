@@ -1,0 +1,16 @@
+{
+  "id": "q_069",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "The Black Death, the bubonic plague pandemic that swept through Europe and Asia from 1347 to 1351, killed an estimated one-third to one-half of Europe's population. Its long-term consequences were paradoxical: while devastating, the massive labor shortage it created gave surviving peasants and artisans substantially increased bargaining power, accelerating the decline of feudalism and leading, over subsequent generations, to higher wages, greater geographic mobility, and improved living standards for the lower classes. Historians have argued that the catastrophic loss of life may have inadvertently hastened the social and economic changes that characterized the transition from medieval to early modern Europe.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The Black Death was caused by a bacterium transmitted by fleas that lived on rats.",
+    "B": "Despite its devastating death toll, the Black Death produced significant social and economic changes that improved conditions for surviving lower-class Europeans.",
+    "C": "The Black Death was so destructive that European civilization never fully recovered from its effects.",
+    "D": "Feudalism collapsed solely as a result of the Black Death's impact on Europe's population."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes both the Black Death's devastation and its paradoxical long-term social and economic benefits for survivors—higher wages, more mobility, improved living standards. B accurately captures both the catastrophic toll and the consequential social transformation. A introduces a causal mechanism (bacteria/fleas/rats) not discussed in the passage. C directly contradicts the passage, which argues the plague accelerated positive changes. D overstates—the passage says the plague accelerated the 'decline of feudalism,' not that it was the sole cause."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_021",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Early economists assumed that human beings are rational actors who consistently make decisions that maximize their own utility. Behavioral economists such as Daniel Kahneman and Amos Tversky challenged this model by documenting systematic cognitive biases that lead people to make predictably irrational choices. _______, their research showed that people are more sensitive to losses than to equivalent gains—a phenomenon called loss aversion—and that they rely on mental shortcuts, or heuristics, that frequently produce errors.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In contrast",
+    "B": "For example",
+    "C": "Therefore",
+    "D": "However"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence provides specific examples (loss aversion, heuristics) that illustrate the \"systematic cognitive biases\" mentioned in the second sentence. An exemplifying transition is needed. \"For example\" correctly introduces illustrations of the general claim. \"In contrast\" would signal opposition to the preceding idea. \"Therefore\" would suggest a logical conclusion. \"However\" would signal a reversal—none of these fit the function of illustrating with specific instances."
+}

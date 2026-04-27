@@ -1,0 +1,16 @@
+{
+  "id": "q_001",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Bioluminescence—the production and emission of light by living organisms—occurs across a remarkable range of species, from deep-sea fish and jellyfish to fireflies and certain fungi. The biochemical reaction typically involves a molecule called luciferin, which is oxidized by an enzyme called luciferase to produce light with very little heat. Scientists have studied bioluminescence not only to understand its ecological functions—attracting prey, deterring predators, and enabling communication among individuals—but also to develop practical research tools. The gene encoding luciferase has become one of the most widely used reporter genes in biology, enabling researchers to track gene expression and cellular processes in living organisms.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Bioluminescence is primarily a defensive adaptation that enables deep-sea organisms to avoid predators in dark environments.",
+    "B": "Bioluminescence is a widespread natural phenomenon whose study has both ecological value and practical scientific applications.",
+    "C": "The enzyme luciferase is uniquely valuable to biological research because it generates light without producing significant heat.",
+    "D": "Investigating bioluminescence in deep-sea species has provided more insight into marine ecosystems than any other method of study."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes bioluminescence across many species, explains its ecological functions, and discusses its practical use in scientific research. Choice B captures both dimensions—the phenomenon's breadth and its dual value. A focuses only on defense and only on deep-sea organisms; C isolates one detail (heat) rather than the passage's broader argument; D makes an unsupported comparative claim about marine research that the passage never makes."
+}

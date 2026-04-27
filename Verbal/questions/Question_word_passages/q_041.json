@@ -1,0 +1,16 @@
+{
+  "id": "q_041",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Social media platforms use algorithmic content curation to maximize engagement by preferentially showing users content that matches their past interactions. Research by Eli Pariser and others has documented the resulting 'filter bubble' effect: users are increasingly exposed to information that confirms their existing beliefs and are rarely shown content that challenges them. Studies have found that this phenomenon is especially pronounced for political content, where the algorithm's engagement-optimization incentives align with users' tendency to seek out and share content that provokes strong emotional reactions.",
+  "question": "Which inference is most directly supported by the passage?",
+  "choices": {
+    "A": "Social media platforms deliberately design their algorithms to promote political extremism.",
+    "B": "Users who are aware of filter bubbles can easily opt out of algorithmically curated content.",
+    "C": "Algorithmic content curation may contribute to political polarization by limiting users' exposure to opposing views.",
+    "D": "The filter bubble effect is equally strong across all types of content on social media platforms."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage states that users are 'rarely shown content that challenges' their beliefs and that this effect is especially strong for political content. The natural inference is that this limited exposure to opposing views may reinforce or intensify existing political positions—contributing to polarization. A overstates the passage: the algorithm optimizes for engagement, not deliberately for extremism. B is not discussed in the passage. D contradicts the passage, which specifically notes the effect is 'especially pronounced for political content,' implying it varies by content type."
+}

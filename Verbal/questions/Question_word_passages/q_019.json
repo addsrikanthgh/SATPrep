@@ -1,0 +1,16 @@
+{
+  "id": "q_019",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "In the decades following World War II, West Germany undertook a remarkable process of Vergangenheitsbewältigung—a German term roughly translated as \"coming to terms with the past.\" This process was neither swift nor uniform: early postwar West German society was marked by considerable reluctance to confront Nazi crimes, and many former perpetrators were quietly reintegrated into professional life. It was not until the late 1950s and 1960s that major trials and a new generation's political pressure began to foster a more candid national reckoning with the Holocaust.",
+  "question": "As used in the passage, \"candid\" most nearly means:",
+  "choices": {
+    "A": "politically motivated",
+    "B": "legally mandated",
+    "C": "honest and unsparing",
+    "D": "broadly shared across society"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage contrasts early postwar reluctance to confront Nazi crimes with a later \"candid\" reckoning—one prompted by trials and political pressure. \"Candid\" in this context describes an honest, direct, and unsparing acknowledgment of the past, as opposed to the earlier evasion and reintegration of perpetrators. A imports motivation that the word does not imply. B confuses the trials (one mechanism producing it) with the quality itself. D describes breadth of agreement, not the honesty the word conveys."
+}

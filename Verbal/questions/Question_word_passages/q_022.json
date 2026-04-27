@@ -1,0 +1,16 @@
+{
+  "id": "q_022",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The Congress of Vienna (1814–1815) was convened after Napoleon's defeat to redraw the map of Europe _______ its primary architects, Prince Metternich of Austria, Viscount Castlereagh of Britain, and Tsar Alexander I of Russia, sought to restore the monarchical order that Napoleon had disrupted and to establish a balance of power that would prevent future hegemonic wars.",
+  "question": "Which punctuation mark most correctly follows \"Europe\" in the sentence above?",
+  "choices": {
+    "A": "a comma (,)",
+    "B": "a semicolon (;)",
+    "C": "a colon (:)",
+    "D": "a period (.)"
+  },
+  "correct_answer": "D",
+  "explanation": "\"The Congress of Vienna...was convened...to redraw the map of Europe\" is a complete independent clause. \"Its primary architects...sought to restore...\" is also a complete independent clause. These two independent clauses must be separated by a period (or semicolon). A comma alone would create a comma splice. A semicolon would also be grammatically acceptable, but among the choices, a period correctly separates two independent clauses. A colon would be incorrect because the second clause does not list or explain the first in the way a colon requires—it is a separate, parallel statement. Therefore D (period) is the clearest and most appropriate choice among the options given."
+}

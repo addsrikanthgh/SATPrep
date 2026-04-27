@@ -1,0 +1,16 @@
+{
+  "id": "q_009",
+  "domain": "Information and Ideas",
+  "skill": "evidence",
+  "difficulty": "medium",
+  "passage": "Scholars of Victorian literature have noted that Charlotte Brontë's Jane Eyre (1847) subverted many of the conventions governing the depiction of women in nineteenth-century fiction. Rather than portraying its protagonist as passive, self-effacing, or defined entirely by romantic attachment, the novel gives Jane a forceful interiority and a willingness to assert her own moral judgments even against those with greater social power. When Jane refuses Rochester's proposal to make her his mistress despite her love for him, she declares: \"I care for myself. The more solitary, the more friendless, the more unsustained I am, the more I will respect myself.\"",
+  "question": "Which claim about Jane Eyre is most directly supported by the quoted passage from the novel?",
+  "choices": {
+    "A": "Brontë portrays Jane as primarily motivated by romantic love rather than personal moral principle.",
+    "B": "Jane's sense of self-worth is independent of social support or romantic fulfillment.",
+    "C": "The novel suggests that women who reject romantic attachment are destined to remain isolated and unhappy.",
+    "D": "Brontë uses Jane's speech to criticize the Victorian institution of marriage as inherently exploitative."
+  },
+  "correct_answer": "B",
+  "explanation": "Jane states that the more friendless and unsustained she is, the more she will respect herself—explicitly grounding her self-worth in internal principle rather than external relationships or social approval. This directly supports B. A is contradicted by the quotation: Jane refuses despite her love, prioritizing moral self-respect over romantic desire. C misreads the tone; Jane's words are defiant and self-affirming, not despairing about isolation. D is an overreach—Jane critiques this specific situation, not the institution of marriage broadly."
+}

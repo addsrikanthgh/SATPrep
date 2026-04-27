@@ -1,0 +1,16 @@
+{
+  "id": "q_078",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The Columbian Exchange—the transfer of plants, animals, diseases, and people between the Americas and the Old World following Columbus's 1492 voyage—reshaped human societies on a global scale. Historian Alfred Crosby, who coined the term, argued that the demographic and ecological consequences of this exchange were more profound and lasting than its political or economic effects. Diseases such as smallpox, measles, and influenza, to which Indigenous Americans had no prior exposure or immunity, killed an estimated 90% of the Indigenous population of the Americas within a century of contact—the largest demographic catastrophe in recorded human history. The resulting labor shortage prompted European colonizers to dramatically expand the transatlantic slave trade.",
+  "question": "What is the function of the fourth sentence ('The resulting labor shortage...slave trade') in the context of the passage?",
+  "choices": {
+    "A": "It qualifies the preceding sentence by arguing that disease mortality was less devastating than previously estimated.",
+    "B": "It shows a direct causal link between the demographic catastrophe described in the third sentence and the expansion of the slave trade.",
+    "C": "It introduces the political and economic effects of the Columbian Exchange as the primary subject of the passage.",
+    "D": "It provides evidence that European colonizers were unaware of the devastating effects of disease on Indigenous populations."
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence describes the massive mortality of Indigenous Americans from disease. The fourth sentence opens with 'The resulting labor shortage'—explicitly causally linking the mortality to the expansion of the slave trade. Its function is to trace a direct consequence of the preceding demographic catastrophe. A is wrong—no qualification of mortality estimates occurs. C mischaracterizes the sentence as introducing a 'primary subject,' when it is actually showing consequences. D attributes awareness/intent to colonizers, a claim the passage does not make."
+}

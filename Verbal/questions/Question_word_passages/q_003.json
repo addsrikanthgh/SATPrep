@@ -1,0 +1,16 @@
+{
+  "id": "q_003",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The printing press, introduced to Europe by Johannes Gutenberg in the mid-fifteenth century, dramatically accelerated the spread of literacy and enabled ideas to circulate far more widely than manuscript culture had permitted. _______, scholars have noted that the press also facilitated the rapid dissemination of misinformation and inflammatory pamphlets—a dynamic many have compared to contemporary debates about the internet and the spread of false information.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Therefore",
+    "B": "Similarly",
+    "C": "However",
+    "D": "Furthermore"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence presents a positive effect of the printing press (spreading literacy and ideas). The second sentence introduces a contrasting negative effect (spreading misinformation). A contrast transition is required. \"However\" signals this contrast. \"Therefore\" would suggest the second sentence is a logical consequence of the first; \"Similarly\" would suggest parallel points; \"Furthermore\" would add a supporting point—none of these fit the shift from benefit to drawback."
+}

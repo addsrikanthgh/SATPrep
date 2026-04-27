@@ -1,0 +1,16 @@
+{
+  "id": "q_093",
+  "domain": "Standard English Conventions",
+  "skill": "sentence structure",
+  "difficulty": "hard",
+  "passage": "The CRISPR-Cas9 system, _______ is now used to edit the genomes of organisms ranging from bacteria to humans, was originally discovered as a component of the adaptive immune system of bacteria, which use it to store genetic memories of past viral infections.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "which",
+    "B": "that",
+    "C": "it",
+    "D": "and it"
+  },
+  "correct_answer": "A",
+  "explanation": "The clause 'is now used to edit the genomes of organisms ranging from bacteria to humans' is a non-restrictive relative clause modifying 'The CRISPR-Cas9 system.' Non-restrictive (non-defining) relative clauses are set off by commas and use 'which,' not 'that.' There is only one CRISPR-Cas9 system, so the clause adds supplementary information rather than identifying which of several systems is meant—making it non-restrictive. 'That' introduces restrictive relative clauses (no comma). 'It' creates a run-on sentence. 'And it' creates a compound sentence structure that disrupts the grammatical flow of the complex sentence."
+}

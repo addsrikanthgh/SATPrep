@@ -1,0 +1,16 @@
+{
+  "id": "q_042",
+  "domain": "Standard English Conventions",
+  "skill": "sentence structure",
+  "difficulty": "hard",
+  "passage": "The narrator of Samuel Beckett's novel The Unnamable confronts readers with a radical dissolution of selfhood _______ declares, 'I can't go on, I'll go on,' a phrase that captures the paradox of persisting in the face of acknowledged impossibility.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "he",
+    "B": ", he",
+    "C": "who",
+    "D": ", who"
+  },
+  "correct_answer": "D",
+  "explanation": "The sentence needs a relative clause to modify 'narrator'—the narrator is the one who declares the phrase. The relative pronoun 'who' is correct for a person. A comma is required before 'who' because this is a non-restrictive (non-defining) relative clause: the information about what the narrator declares is supplementary, not essential to identifying which narrator is meant (there is only one narrator). Without the comma (choice C), the clause reads as restrictive, implying there are multiple narrators and this particular one is identified by the declaration. Choices A and B incorrectly use an independent clause construction, creating a comma splice (B) or a run-on (A)."
+}

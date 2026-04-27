@@ -1,0 +1,16 @@
+{
+  "id": "q_061",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Emily Dickinson's poetry defies conventional Victorian verse in nearly every dimension: she uses slant rhyme where perfect rhyme was expected, unconventional dashes where standard punctuation was the norm, and compressed, elliptical syntax where expansive clarity was the ideal. Critics in her own time largely ignored her work or found it too irregular to take seriously. It was only in the twentieth century, after Thomas H. Johnson's scholarly edition of her complete poems in 1955, that Dickinson came to be recognized as one of the defining poets of American literature.",
+  "question": "What is the function of the second sentence in the context of the passage?",
+  "choices": {
+    "A": "It provides the primary reason that Dickinson's poetry is formally innovative.",
+    "B": "It shows that Dickinson's contemporary reception was shaped by the same formal conventions her work resisted.",
+    "C": "It argues that critics were mistaken in their assessments of Dickinson's poetry.",
+    "D": "It establishes that Dickinson deliberately chose to be ignored by the literary establishment of her time."
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence explains that Dickinson's poetry violated Victorian formal conventions. The second sentence then shows that Victorian critics—who valued those same conventions—therefore dismissed or ignored her work. The second sentence thus connects her formal unconventionality (sentence one) to its reception (sentence two): critics rejected her precisely because she broke the rules they valued. B captures this connection. A is wrong—the reason for her innovation was described in sentence one, not two. C makes a value judgment ('mistaken') not expressed in the passage. D attributes to Dickinson a deliberate intent that the passage does not claim."
+}

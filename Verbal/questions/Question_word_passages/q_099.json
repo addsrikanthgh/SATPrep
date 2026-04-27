@@ -1,0 +1,16 @@
+{
+  "id": "q_099",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The Congress of Vienna (1814–1815), convened after Napoleon's defeat, attempted to restore a stable European order based on the principle of legitimacy—the idea that monarchies had a natural right to rule and that the political upheavals of the revolutionary era should be reversed. The assembled statesmen, led by Austrian Chancellor Klemens von Metternich, were acutely aware that the old order faced an existential threat from the forces of nationalism and liberalism unleashed by the French Revolution, and they crafted a settlement explicitly designed to contain these forces and forestall future revolutions.",
+  "question": "As used in the passage, \"forestall\" most nearly means:",
+  "choices": {
+    "A": "predict and document",
+    "B": "encourage and accelerate",
+    "C": "prevent by taking preemptive action",
+    "D": "suppress through military force"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes the statesmen crafting a settlement 'designed to contain these forces and forestall future revolutions.' The context—a deliberate political strategy aimed at preventing upheaval—indicates that 'forestall' means to prevent something from happening by acting in advance. C ('prevent by taking preemptive action') captures this precisely. A ('predict') describes foreseeing, not preventing. B ('encourage and accelerate') is the opposite meaning. D ('suppress through military force') is too specific—'forestall' implies preemptive prevention, not necessarily military suppression of something already occurring."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_094",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "The critical debate about the endings of Charles Dickens's Great Expectations illuminates fundamental questions about the relationship between authorial intention, textual meaning, and reader expectation. Dickens originally wrote an ending in which Pip and Estella part permanently; after his friend Edward Bulwer-Lytton objected that the ending was too bleak, Dickens revised it to suggest a possible future union. Modern editors must choose which ending to print, and scholars disagree about which better fulfills the novel's thematic logic. Those who prefer the original argue that the revised ending sentimentalizes a novel whose entire project is a critique of romantic self-delusion; those who defend the revision argue that it is more psychologically complex and that Dickens's own revision must carry authorial weight.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The original ending of Great Expectations is artistically superior to the revised ending because it is more consistent with the novel's themes.",
+    "B": "Dickens revised the ending of Great Expectations because he was unwilling to disappoint his readers with an unhappy conclusion.",
+    "C": "The debate over Great Expectations' two endings raises larger questions about how authorial choices, textual coherence, and reader response determine literary meaning.",
+    "D": "Edward Bulwer-Lytton was ultimately responsible for the inferior version of Great Expectations that most readers encounter today."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage uses the specific case of Great Expectations' two endings to open onto larger questions: authorial intention vs. textual logic, the weight of revision, editorial choices, and reader expectation. The final sentence presents both sides of the scholarly debate without resolving it, which signals that the passage's purpose is to illuminate the broader critical questions rather than to argue for one ending. C captures this larger framing. A takes one side of the debate the passage presents evenhandedly. B mischaracterizes Dickens's motive (the passage says Bulwer-Lytton objected, but doesn't say Dickens revised to please readers broadly). D makes a value judgment not supported by the passage."
+}

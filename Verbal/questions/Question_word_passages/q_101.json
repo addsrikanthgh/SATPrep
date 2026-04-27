@@ -1,0 +1,16 @@
+{
+  "id": "q_101",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Three major theoretical frameworks dominate contemporary sociology _______ functionalism, which examines how social institutions contribute to social stability; conflict theory, which analyzes how power and inequality shape social structures; and symbolic interactionism, which focuses on how meaning is created through everyday social interaction.",
+  "question": "Which punctuation correctly fills the blank?",
+  "choices": {
+    "A": "sociology,",
+    "B": "sociology;",
+    "C": "sociology:",
+    "D": "sociology—"
+  },
+  "correct_answer": "C",
+  "explanation": "The first clause ('Three major theoretical frameworks dominate contemporary sociology') introduces the subject, and what follows is a formal list of three items—the three frameworks and their descriptions. A colon is the standard punctuation used to introduce a formal list or enumeration after an independent clause. A comma is insufficient to introduce a complex, internally punctuated list of this kind. A semicolon would join two independent clauses but what follows is not an independent clause—it is a list. A dash could work for emphasis but the colon is the more standard and precise choice for introducing a structured list."
+}

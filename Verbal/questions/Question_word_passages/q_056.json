@@ -1,0 +1,16 @@
+{
+  "id": "q_056",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The discovery of the Higgs boson in 2012 at CERN's Large Hadron Collider was celebrated as a landmark vindication of the Standard Model of particle physics, which had predicted the existence of such a particle more than four decades earlier. The Higgs field, which permeates all of space, is thought to be what confers mass on other fundamental particles: as particles interact with the Higgs field, they acquire resistance to acceleration, which we measure as mass. Without the Higgs field, particles would be massless and would travel at the speed of light, and atoms—and therefore matter as we know it—could not exist.",
+  "question": "As used in the passage, \"confers\" most nearly means:",
+  "choices": {
+    "A": "measures and records",
+    "B": "grants or bestows",
+    "C": "detects and identifies",
+    "D": "regulates and controls"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage says the Higgs field 'confers mass on other fundamental particles'—meaning it gives or grants them mass. The next sentence elaborates: particles 'acquire resistance to acceleration' through interaction with the Higgs field, and without it, particles 'would be massless.' This confirms 'confers' means gives or bestows. 'Measures and records' (A) and 'detects and identifies' (C) describe observational acts, not the mechanism by which mass is given. 'Regulates and controls' (D) implies oversight rather than the act of giving."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_004",
+  "domain": "Standard English Conventions",
+  "skill": "subject-verb agreement",
+  "difficulty": "easy",
+  "passage": "The collection of ancient manuscripts donated to the university library by the historian Dr. Elena Vargas _______ now available to researchers through a newly launched digital archive.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The grammatical subject of the sentence is \"collection\" (singular), not \"manuscripts.\" The prepositional phrase \"of ancient manuscripts donated to the university library\" modifies the subject but does not change its number. Because the subject is singular and the sentence describes a current ongoing state, the correct verb is the singular present \"is.\" \"Are,\" \"were,\" and \"have been\" all treat the subject as plural or place the action in the past."
+}

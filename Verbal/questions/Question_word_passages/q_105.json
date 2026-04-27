@@ -1,0 +1,16 @@
+{
+  "id": "q_105",
+  "domain": "Information and Ideas",
+  "skill": "evidence",
+  "difficulty": "hard",
+  "passage": "Historian David Hackett Fischer argues in Albion's Seed (1989) that four major waves of British emigration to Colonial America—Puritans to Massachusetts, Cavaliers to Virginia, Quakers to the Delaware Valley, and Borderlanders to Appalachia—established distinct regional cultures whose characteristics have persisted and shaped American political culture to the present day. Each group brought its own folkways, attitudes toward liberty, family structures, and religious sensibilities, and these, Fischer argues, were more durable than political constitutions or economic systems.",
+  "question": "Which finding would most directly challenge Fischer's argument?",
+  "choices": {
+    "A": "A demographic study finds that significant numbers of non-British immigrants settled in each of the four regions Fischer identifies within a generation of the original British settlers.",
+    "B": "A historian argues that Puritan theology was more diverse than Fischer acknowledges, encompassing multiple competing strands.",
+    "C": "A study of voting patterns finds that the regional political cultures Fischer describes have remained largely stable from the colonial era to the present.",
+    "D": "An economist argues that agricultural systems, not cultural folkways, were the primary determinant of wealth in Colonial America."
+  },
+  "correct_answer": "A",
+  "explanation": "Fischer's argument rests on the premise that distinctive British folkways, carried by four specific immigrant groups, took root and persisted. If significant non-British immigration occurred early in each region, the cultural distinctiveness Fischer attributes to specific British groups would have been diluted or complicated—directly challenging the premise that those particular folkways established durable regional cultures. C supports Fischer's argument. B challenges a specific claim about Puritan diversity but doesn't undercut the broader framework. D is relevant to economic history but not directly to Fischer's cultural persistence argument, which is about folkways, not wealth."
+}

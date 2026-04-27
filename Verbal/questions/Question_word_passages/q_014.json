@@ -1,0 +1,16 @@
+{
+  "id": "q_014",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Research on intergroup contact—the idea that bringing members of different social groups into positive, equal-status interaction reduces prejudice—has generated hundreds of studies since Gordon Allport formalized the \"contact hypothesis\" in 1954. Meta-analyses confirm a statistically significant negative relationship between contact and prejudice. Yet critics note that contact interventions tend to be most effective for members of dominant groups and least effective for members of marginalized groups, who often bear the emotional and social labor of educating others. Furthermore, contact effects are typically measured at the individual level and rarely translate into changes in discriminatory institutional structures.",
+  "question": "Which inference is most strongly supported by the passage?",
+  "choices": {
+    "A": "Allport's contact hypothesis has been so thoroughly refuted by subsequent research that it is no longer considered a useful framework in social psychology.",
+    "B": "Contact interventions reliably reduce prejudice across all social groups when carefully designed and implemented.",
+    "C": "Reducing individual prejudice through contact may be insufficient to address systemic discrimination without additional structural interventions.",
+    "D": "Members of marginalized groups benefit most from contact interventions because such interactions give them the opportunity to correct misconceptions held by dominant groups."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage confirms that contact reduces prejudice at the individual level but then notes this \"rarely translate[s] into changes in discriminatory institutional structures.\" This gap—between individual attitude change and structural change—supports C: individual-level contact is not enough on its own to address systemic discrimination. A is wrong because the passage affirms statistically significant effects, not refutation. B is contradicted by the passage, which notes the intervention works less well for marginalized groups. D inverts the passage's actual finding—marginalized groups are least helped, not most."
+}

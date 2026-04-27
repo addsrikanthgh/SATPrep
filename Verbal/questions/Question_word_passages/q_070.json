@@ -1,0 +1,16 @@
+{
+  "id": "q_070",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "For most of the twentieth century, the standard model of memory held that recalling a memory simply retrieved a stable, stored record of a past experience. Research by neuroscientist Karim Nader and his colleagues in the early 2000s upended this view. Their experiments demonstrated that whenever a memory is recalled, it becomes temporarily unstable and must be reconsolidated—written back into long-term storage—during a window of vulnerability in which the memory can be altered or even erased. This finding has profound implications for the reliability of eyewitness testimony and the treatment of post-traumatic stress disorder.",
+  "question": "What is the function of the second sentence ('Research by neuroscientist...upended this view') in the context of the passage?",
+  "choices": {
+    "A": "It summarizes the new model of memory that replaced the standard model.",
+    "B": "It provides the evidence that Nader's team used to challenge previous memory research.",
+    "C": "It signals that the research described in the following sentences overturned the model described in the first sentence.",
+    "D": "It identifies the specific experiment that proved memories are permanently stable."
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence describes the old model (memory retrieval is stable). The second sentence announces that Nader's research 'upended this view.' The second sentence's function is transitional and signaling: it tells the reader that what follows (sentences three and four) will explain how the old model was disproven—a pivot from the old view to new findings. C captures this pivoting, signaling function. A is wrong—the new model is described in sentence three, not sentence two. B is wrong—the specific evidence is described in sentence three. D directly contradicts the passage's claim."
+}

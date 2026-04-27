@@ -1,0 +1,16 @@
+{
+  "id": "q_054",
+  "domain": "Information and Ideas",
+  "skill": "evidence",
+  "difficulty": "medium",
+  "passage": "Economist Eric Hanushek has argued for decades that teacher quality—not class size, school spending, or socioeconomic factors—is the single most important in-school determinant of student achievement. Hanushek and his collaborators have estimated that students taught by the most effective teachers make roughly 1.5 grade levels of academic progress per year, while students taught by the least effective teachers make only 0.5 grade levels of progress—a gap of a full grade level per year that accumulates over time.",
+  "question": "Which finding would most directly challenge Hanushek's argument?",
+  "choices": {
+    "A": "A longitudinal study finds that students who had consistently high-quality teachers throughout elementary school show higher test scores at age 18.",
+    "B": "A comparative study shows that students in countries with higher public school spending consistently outperform students in lower-spending countries, controlling for teacher quality.",
+    "C": "Analysis of school data finds that the most effective teachers are more likely to work in higher-income school districts.",
+    "D": "A randomized experiment finds that reducing class size from 25 to 15 students produces measurable gains in student achievement."
+  },
+  "correct_answer": "D",
+  "explanation": "Hanushek specifically argues that teacher quality matters more than class size, school spending, or socioeconomic factors. D directly contradicts this by showing that class size reductions produce measurable achievement gains—challenging his claim that class size is not an important determinant. A supports Hanushek's argument. B challenges the spending portion of his argument but D more directly contradicts a specific claim (class size doesn't matter). C is relevant context but doesn't contradict his claim—it describes where good teachers work, not whether they affect outcomes."
+}

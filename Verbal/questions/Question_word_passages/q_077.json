@@ -1,0 +1,16 @@
+{
+  "id": "q_077",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Epigenetics—the study of heritable changes in gene expression that do not involve alterations to the DNA sequence itself—has expanded scientific understanding of how organisms respond to their environments. Through mechanisms such as DNA methylation and histone modification, external factors including diet, stress, and exposure to toxins can switch genes on or off, and some of these changes can be passed to offspring. This discovery has complicated the traditional distinction between nature and nurture: environmental experiences can leave molecular marks on the genome that are transmitted across generations, meaning that what parents experience may shape the biology of their children and grandchildren.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "DNA methylation and histone modification are the two most important mechanisms of genetic inheritance.",
+    "B": "Epigenetic research suggests that environmental experiences can produce heritable changes in gene expression, blurring the boundary between inherited biology and environmental influence.",
+    "C": "The genes a person inherits from their parents determine their health outcomes more than any environmental factor.",
+    "D": "Scientists have proven that all diseases are caused by a combination of genetic and epigenetic factors."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage argues that epigenetics shows how environmental experiences create heritable molecular changes, thereby complicating 'the traditional distinction between nature and nurture.' B accurately captures both the mechanism (heritable changes in gene expression from environmental experience) and the significance (blurring nature/nurture). A focuses on two specific mechanisms rather than the passage's larger conceptual point. C directly contradicts the passage, which argues for environmental influence on heritable biology. D overstates and misrepresents—the passage doesn't claim epigenetics is responsible for 'all diseases.'"
+}

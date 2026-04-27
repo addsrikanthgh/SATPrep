@@ -1,0 +1,16 @@
+{
+  "id": "q_073",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In her 1929 essay 'A Room of One's Own,' Virginia Woolf imagines a fictional 'Shakespeare's sister'—a woman of equal genius to William Shakespeare, born in Elizabethan England. Woolf traces the sister's fate: refused formal education, forced into marriage, denied access to the stage, she eventually takes her own life. Woolf's point is not merely biographical but structural: the genius of women in earlier centuries was not absent but suppressed by material and social conditions that denied women the independent income, private space, and intellectual freedom that artistic creation requires.",
+  "question": "Which inference is best supported by the passage?",
+  "choices": {
+    "A": "Woolf believed that no women of genius existed in Elizabethan England.",
+    "B": "Woolf's argument implies that the relative scarcity of famous female artists in history reflects social constraints rather than a lack of ability.",
+    "C": "Woolf maintained that women's artistic potential could only be realized through formal university education.",
+    "D": "Shakespeare's sister is a historical figure whose biography Woolf reconstructed from archival sources."
+  },
+  "correct_answer": "B",
+  "explanation": "Woolf's central argument, as described, is that women's genius was 'suppressed by material and social conditions'—it was not absent. This directly supports the inference in B: the historical underrepresentation of women in the artistic canon reflects structural suppression, not innate difference in ability. A contradicts the passage—Woolf says genius was suppressed, not absent. C narrows the argument too much; Woolf mentions 'independent income, private space, and intellectual freedom,' not just formal education. D directly contradicts the passage, which identifies Shakespeare's sister as a fictional, imagined figure."
+}

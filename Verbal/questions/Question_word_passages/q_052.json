@@ -1,0 +1,16 @@
+{
+  "id": "q_052",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "In the Victorian novel, domestic space—the parlor, the garden, the bedroom—frequently serves as a moral barometer, reflecting and reinforcing the character of its inhabitants. Charlotte Brontë's Thornfield Hall, with its locked upper rooms and hidden secrets, externalizes Rochester's concealed past. _______, the orderly, well-tended gardens of Mansfield Park in Jane Austen's novel signal the moral stability of those who manage them.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "However",
+    "B": "In contrast",
+    "C": "Similarly",
+    "D": "As a result"
+  },
+  "correct_answer": "C",
+  "explanation": "The second sentence gives one example of domestic space reflecting character (Thornfield Hall/Rochester's concealed past). The third sentence gives a parallel example (Mansfield Park's gardens/moral stability). Both are illustrating the same principle stated in the first sentence. 'Similarly' correctly signals a parallel example. 'However' and 'In contrast' would imply the Mansfield Park example contradicts the Thornfield Hall example, which it doesn't—both illustrate the same phenomenon. 'As a result' would wrongly imply the Mansfield Park gardens are a consequence of Thornfield Hall."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_084",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "Mitochondria—the organelles that produce most of a cell's ATP through cellular respiration—are thought to have originated as free-living bacteria that were engulfed by a larger host cell approximately 1.5 billion years ago _______ this endosymbiotic origin explains several of their distinctive features, including their double membrane, their own circular DNA, and their reproduction by binary fission independent of the cell cycle.",
+  "question": "Which punctuation correctly joins the two parts of the passage?",
+  "choices": {
+    "A": "ago, this",
+    "B": "ago; this",
+    "C": "ago: this",
+    "D": "ago—this"
+  },
+  "correct_answer": "C",
+  "explanation": "The first clause introduces a claim (mitochondria originated as engulfed bacteria). The second clause provides an explanation of why this claim is significant—the endosymbiotic origin 'explains several of their distinctive features,' followed by a list of those features. A colon is used when the second clause explains, elaborates, or lists what was introduced in the first. Here, the second clause directly explains the significance of the first claim, making a colon the most logical choice. A comma alone creates a comma splice. A semicolon is grammatically correct but weaker—it signals two related but equally weighted independent clauses, whereas a colon better signals the explanatory relationship. A dash would work for emphasis but is less precise than a colon for this explanatory function."
+}

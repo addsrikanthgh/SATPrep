@@ -1,0 +1,16 @@
+{
+  "id": "q_057",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Historians have long debated why the French Revolution, which began in 1789 with ideals of liberty, equality, and fraternity, descended within five years into the Terror—a period in which the revolutionary government executed tens of thousands of people deemed enemies of the republic. Hannah Arendt's analysis in On Revolution (1963) argued that the decisive difference between the American and French Revolutions was that the French Revolution became consumed with the 'social question'—the urgent, mass poverty of the French peasantry—while American revolutionaries addressed primarily the political question of tyranny. In Arendt's view, when revolution attempts to resolve social misery through political means, the urgency and scale of the problem overwhelms political institutions and produces violence.",
+  "question": "Which inference about the French Revolution is best supported by Arendt's analysis as described in the passage?",
+  "choices": {
+    "A": "The Terror was primarily caused by foreign military threats to the French Republic, which forced the government into extreme measures.",
+    "B": "The American Revolution succeeded because American colonists had stronger democratic traditions than French peasants.",
+    "C": "Had the French Revolution focused on political reform rather than social redistribution, it might have avoided the descent into political violence.",
+    "D": "Revolutionary violence is inevitable whenever political institutions are too weak to maintain order."
+  },
+  "correct_answer": "C",
+  "explanation": "Arendt's argument, as described, is that the French Revolution's violence resulted from its attempt to use political means to solve the overwhelming social problem of mass poverty. Her comparison with the American Revolution—which addressed tyranny rather than social misery and did not descend into mass violence—implies that limiting revolutionary aims to political questions might have produced a different outcome in France. C captures this counterfactual inference. A introduces foreign military threats not mentioned in the passage. B makes a claim about democratic traditions not found in the passage. D overgeneralizes—Arendt's argument is specific to the interaction of social crises with political institutions, not a universal claim about weak institutions."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_033",
+  "domain": "Standard English Conventions",
+  "skill": "subject-verb agreement",
+  "difficulty": "medium",
+  "passage": "Neither the council members nor the mayor _______ yet released a formal statement addressing the findings of the independent audit commission.",
+  "question": "Which choice correctly completes the sentence according to the conventions of Standard English?",
+  "choices": {
+    "A": "have",
+    "B": "has",
+    "C": "were",
+    "D": "are"
+  },
+  "correct_answer": "B",
+  "explanation": "When subjects are joined by 'neither...nor,' the verb agrees with the subject closest to it—in this case, 'the mayor,' which is singular. Therefore the verb must be singular: 'has.' 'Have' would be correct if the nearest subject were plural. 'Were' and 'are' are wrong tenses/forms for this context, which requires the present perfect 'has released.'"
+}

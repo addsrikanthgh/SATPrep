@@ -1,0 +1,16 @@
+{
+  "id": "q_058",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report arguing that the Marshall Plan (1948–1952) was motivated by both humanitarian and strategic interests. The student has gathered the following information:\n\n• The Marshall Plan provided approximately $13 billion (roughly $140 billion in today's dollars) in economic aid to rebuild Western European economies devastated by World War II.\n• Secretary of State George Marshall's Harvard address proposing the plan explicitly cited the suffering of European civilians and the collapse of ordinary economic life.\n• U.S. policymakers were concerned that economic instability in Western Europe would create conditions favorable to the spread of communism, particularly in countries like France and Italy with large communist parties.",
+  "question": "Which sentence best uses the information above to support the student's argument that both humanitarian and strategic factors drove the Marshall Plan?",
+  "choices": {
+    "A": "The Marshall Plan was one of the largest foreign aid programs in history, providing $13 billion to rebuild European economies after World War II.",
+    "B": "Secretary of State Marshall justified the plan by appealing to European civilian suffering, while U.S. policymakers simultaneously viewed economic stability as essential to containing communist expansion.",
+    "C": "The United States feared that communist parties in France and Italy would exploit economic misery to gain power, making the Marshall Plan a purely defensive strategy.",
+    "D": "The Marshall Plan succeeded in rebuilding Western European economies and is widely credited with contributing to the region's postwar prosperity."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's thesis is that both humanitarian and strategic interests motivated the Marshall Plan. B directly synthesizes both elements: the humanitarian framing from Marshall's own words (second bullet) and the strategic interest in containing communism (third bullet). A simply states a fact about the plan's scale without addressing motivation. C uses only the strategic interest and, by saying 'purely defensive strategy,' actually contradicts the thesis by eliminating the humanitarian dimension. D discusses outcomes rather than motivations, which is the student's focus."
+}

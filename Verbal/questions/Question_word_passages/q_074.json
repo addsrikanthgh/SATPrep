@@ -1,0 +1,16 @@
+{
+  "id": "q_074",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "Economic sociologist Viviana Zelizer challenged the conventional assumption that money is a purely fungible medium—that a dollar is always just a dollar, interchangeable with any other. Her research demonstrated that people systematically earmark money for specific purposes, treating funds from different sources as categorically distinct despite their technical equivalence. A paycheck, a gift, a lottery windfall, and money earned from selling a beloved possession are all spent differently, suggesting that money is deeply embedded in social relations and carries moral meanings that its formal properties do not capture.",
+  "question": "As used in the passage, \"fungible\" most nearly means:",
+  "choices": {
+    "A": "universally accepted as legal tender",
+    "B": "interchangeable and undifferentiated in value",
+    "C": "resistant to inflation and economic instability",
+    "D": "converted easily into other forms of financial assets"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage defines 'fungible' by its own elaboration: the conventional view that money is fungible assumes 'a dollar is always just a dollar, interchangeable with any other.' Zelizer's argument challenges this by showing people treat different dollars as distinct. 'Fungible' means interchangeable and substitutable—each unit is equivalent to any other. B captures this. A ('universally accepted as legal tender') is about legality, not interchangeability. C introduces inflation resistance, unrelated to the concept. D describes liquidity or convertibility between asset classes, not internal substitutability within a medium."
+}

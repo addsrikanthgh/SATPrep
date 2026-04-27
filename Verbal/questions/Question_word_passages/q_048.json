@@ -1,0 +1,16 @@
+{
+  "id": "q_048",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Franz Kafka's fiction is characterized by protagonists who are caught in systems—bureaucratic, legal, or social—that are simultaneously all-powerful and fundamentally opaque. In The Trial, Josef K. is arrested and prosecuted for an offense that is never named; the court that will judge him operates by procedures he cannot learn and criteria he cannot discover. Kafka's biographer Max Brod observed that Kafka wrote primarily at night, after long days working as an insurance lawyer, and that his fiction drew heavily on his experience navigating legal and administrative institutions. Kafka destroyed the majority of his manuscripts before his death, instructing Brod to burn the rest; Brod refused.",
+  "question": "Which inference about Kafka's fiction is best supported by the passage?",
+  "choices": {
+    "A": "Kafka intended his fiction primarily as a critique of the Austrian insurance industry.",
+    "B": "The opacity and power of the institutional systems in Kafka's fiction may reflect his firsthand experience working within such systems.",
+    "C": "If Brod had honored Kafka's wishes, readers today would have no access to Kafka's work.",
+    "D": "The Trial is widely considered Kafka's greatest work because it most fully develops the themes of bureaucratic opacity."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage notes Brod's observation that Kafka's fiction 'drew heavily on his experience navigating legal and administrative institutions' as an insurance lawyer. Given the connection Brod draws between Kafka's day job and his fiction, it is reasonable to infer that the institutional opacity depicted in works like The Trial reflects that professional experience. B is precisely this inference. A is too narrow (the passage mentions insurance but not as a primary target of critique). C overstates—Kafka published some work during his lifetime, and the passage says Kafka destroyed the majority before his death, implying some survived. D makes a comparative value judgment not supported by the passage."
+}

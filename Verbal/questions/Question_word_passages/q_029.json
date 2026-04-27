@@ -1,0 +1,16 @@
+{
+  "id": "q_029",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Researchers studying collective animal behavior have found that the remarkable coordinated movements of starling murmurations—in which thousands of birds wheel and shift as a unified mass—emerge without any central coordination or leader. Each individual bird follows simple local rules: match the speed and direction of your nearest neighbors and avoid collision. The large-scale patterns arise spontaneously from these local interactions. Computer simulations replicating these rules reproduce murmuration-like behavior with high fidelity, suggesting that the appearance of intelligent group design requires no designer.",
+  "question": "Which inference is most strongly supported by the passage?",
+  "choices": {
+    "A": "Starlings possess a form of collective intelligence that allows them to communicate movement decisions across the entire flock simultaneously.",
+    "B": "Complex and coordinated group behavior in animals can emerge from simple local rules without centralized direction.",
+    "C": "Computer simulations of animal behavior are more reliable models of natural systems than direct field observation.",
+    "D": "The individual cognitive abilities of starlings are more sophisticated than those of other bird species."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes murmurations emerging from simple local rules with no leader, and computer simulations replicating this behavior confirm the mechanism. B directly states what the passage demonstrates: complex group coordination can arise from simple local interactions without central direction. A contradicts the passage—murmurations require no simultaneous communication across the flock. C makes a methodological comparison not supported by the passage. D concerns individual starling cognition, which is not addressed."
+}

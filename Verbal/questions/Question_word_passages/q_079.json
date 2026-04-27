@@ -1,0 +1,16 @@
+{
+  "id": "q_079",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Classical economic theory predicts that wages are set by supply and demand: in a competitive labor market, employers will pay workers exactly what they are worth—no more, no less—and the market will clear at an equilibrium wage. _______, economist David Card's research on the effects of minimum wage increases found that raising the minimum wage in New Jersey did not reduce employment as the theory predicted but instead had negligible or even positive effects on employment in the fast-food sector.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Consistent with this prediction",
+    "B": "Challenging this prediction",
+    "C": "Elaborating on this theory",
+    "D": "As a consequence"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence states the classical economic prediction: raising the minimum wage should reduce employment by pricing some workers out of the market. The second sentence describes Card's findings, which contradicted this prediction (no employment reduction; possible positive effects). The relationship is one of contrast or challenge. 'Challenging this prediction' precisely captures the function of the second sentence in relation to the first. 'Consistent with this prediction' would mean Card's findings confirmed the theory—the opposite of what happened. 'Elaborating on this theory' would mean the second sentence adds detail to the first. 'As a consequence' would mean Card's findings resulted from the theory."
+}

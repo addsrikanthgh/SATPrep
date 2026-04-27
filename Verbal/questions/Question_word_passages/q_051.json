@@ -1,0 +1,16 @@
+{
+  "id": "q_051",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Scholarship on immigration and assimilation has increasingly moved away from early twentieth-century 'straight-line' models, which predicted that immigrants and their descendants would progressively shed their ethnic identities and merge into a homogeneous mainstream culture over successive generations. Contemporary sociologists such as Alejandro Portes and Rubén Rumbaut have proposed 'segmented assimilation' theory, which argues that the outcomes of immigration are not uniform but vary significantly depending on factors including an immigrant group's reception by the host society, its socioeconomic resources, and the strength of co-ethnic community networks. Some immigrant groups achieve upward mobility while retaining strong ethnic ties; others assimilate into disadvantaged segments of society; still others follow more traditional upward-assimilation trajectories.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Straight-line assimilation theory has been entirely discredited and is no longer studied by sociologists.",
+    "B": "Alejandro Portes and Rubén Rumbaut are the most important contemporary scholars of immigration.",
+    "C": "Contemporary research suggests that immigrants follow diverse assimilation pathways depending on multiple social and economic factors.",
+    "D": "Strong co-ethnic community networks are the single most important factor in determining immigrant outcomes."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage's main argument is that assimilation is not a single uniform process (as straight-line theory held) but varies across groups depending on multiple factors. C captures this central idea accurately. A overstates—the passage says scholarship has 'moved away from' straight-line models, not that they are 'entirely discredited.' B uses the scholars only as examples, not as the subject of comparison. D distorts the passage, which lists co-ethnic networks as one factor among several, not as 'the single most important.'"
+}

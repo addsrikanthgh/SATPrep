@@ -1,0 +1,16 @@
+{
+  "id": "q_020",
+  "domain": "Information and Ideas",
+  "skill": "evidence",
+  "difficulty": "hard",
+  "passage": "Proponents of the \"RNA world\" hypothesis argue that RNA, not DNA, was the original molecule of heredity in early life. Their central evidence is the existence of ribozymes—RNA molecules capable of catalyzing chemical reactions, including the synthesis of other RNA molecules. If RNA can both store genetic information and catalyze reactions, then a self-replicating RNA system could have existed before the evolution of proteins or DNA. DNA's chemical stability makes it better suited to long-term information storage, and the hypothesis holds that DNA eventually replaced RNA as the primary repository of genetic information once protein-based enzymes evolved.",
+  "question": "Which piece of evidence from the passage most directly supports the claim that an RNA-only self-replicating system could have preceded both proteins and DNA?",
+  "choices": {
+    "A": "DNA is chemically more stable than RNA, making it better suited for long-term genetic storage.",
+    "B": "Ribozymes can both store genetic information and catalyze reactions, including the replication of RNA itself.",
+    "C": "The RNA world hypothesis is supported by a broad consensus among molecular biologists.",
+    "D": "Proteins and DNA evolved after the earliest forms of life had already established basic metabolic processes."
+  },
+  "correct_answer": "B",
+  "explanation": "The hypothesis requires that early life could self-replicate using only RNA. Ribozymes demonstrate that RNA can do both jobs—store information and catalyze reactions including RNA synthesis—which is the direct evidence that an RNA-only system is chemically possible. A explains why DNA later replaced RNA but does not show RNA could have come first. C is not stated in the passage (no consensus claim is made). D describes a sequence of events but is not presented as evidence in the passage."
+}

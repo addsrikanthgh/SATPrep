@@ -1,0 +1,16 @@
+{
+  "id": "q_049",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The Scramble for Africa—the rapid, competitive colonization of the African continent by European powers between 1881 and 1914—was formalized at the Berlin Conference of 1884–85, where diplomats drew borders across a continent most had never visited and divided territories among nations with little regard for existing ethnic, linguistic, or political communities. These artificial borders proved extraordinarily tenacious: despite decades of independence movements and conflicts, the boundaries established by European powers at Berlin still define most of Africa's contemporary political map.",
+  "question": "As used in the passage, \"tenacious\" most nearly means:",
+  "choices": {
+    "A": "controversial and widely disputed",
+    "B": "harmful and unjust",
+    "C": "resistant to change and persistent",
+    "D": "carefully maintained by international law"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage uses 'tenacious' to describe borders that have lasted 'despite decades of independence movements and conflicts'—they have persisted in the face of forces that might have changed them. 'Tenacious' means clinging or holding firm; in this context, the borders are remarkably persistent and resistant to change. A captures a connotation (controversial) that may be true of the borders but is not what 'tenacious' means here. B introduces a moral judgment not conveyed by 'tenacious.' D suggests active maintenance, but the passage conveys persistence despite pressure—not careful upkeep."
+}

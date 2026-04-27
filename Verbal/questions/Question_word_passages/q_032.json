@@ -1,0 +1,16 @@
+{
+  "id": "q_032",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "Philosopher of science Thomas Kuhn argued in The Structure of Scientific Revolutions (1962) that science does not progress by the simple accumulation of knowledge but through periodic paradigm shifts—moments when anomalies that cannot be explained by the prevailing framework accumulate to the point that the entire framework is displaced by a new one. Kuhn's account was controversial because it implied that scientific knowledge is not purely objective but is shaped by the assumptions, values, and social commitments of scientific communities.",
+  "question": "As used in the passage, \"displaced\" most nearly means:",
+  "choices": {
+    "A": "temporarily suspended until anomalies can be resolved",
+    "B": "refined and updated to incorporate new observations",
+    "C": "replaced entirely by a fundamentally different framework",
+    "D": "challenged by critics but ultimately defended by the scientific community"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes a paradigm shift as the prevailing scientific framework being 'displaced by a new one' when anomalies accumulate. Kuhn's central argument is that paradigm shifts are discontinuous replacements—not gradual refinements—of an existing framework. 'Displaced' here means replaced wholesale, not updated or temporarily set aside. A implies temporary suspension; B implies incremental improvement; D implies the framework survives challenge—all of which contradict Kuhn's account of radical replacement."
+}

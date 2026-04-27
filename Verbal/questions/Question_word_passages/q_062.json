@@ -1,0 +1,16 @@
+{
+  "id": "q_062",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Research in social psychology has consistently found that people are strongly motivated to maintain a positive self-image and tend to attribute their successes to their own abilities while attributing their failures to external circumstances—a phenomenon known as self-serving bias. _______, people's assessments of their own competence are systematically inflated: most people rate themselves as above-average drivers, leaders, and friends, a statistical impossibility.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Despite this",
+    "B": "As a result",
+    "C": "Relatedly",
+    "D": "In contrast"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence describes self-serving bias (attributing outcomes in self-flattering ways). The second sentence introduces another manifestation of inflated self-perception: the above-average effect. These are two related but distinct phenomena that together reflect people's tendency toward positive self-evaluation. 'Relatedly' signals that the second point is connected to and consistent with the first—a related phenomenon—without claiming it is a direct result. 'As a result' would imply the above-average effect is caused by self-serving bias. 'Despite this' and 'In contrast' would signal opposition, but both phenomena point in the same direction."
+}

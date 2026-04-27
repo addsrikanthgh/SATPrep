@@ -1,0 +1,16 @@
+{
+  "id": "q_017",
+  "domain": "Standard English Conventions",
+  "skill": "sentence structure",
+  "difficulty": "medium",
+  "passage": "Urban sociologist William Julius Wilson argued in The Truly Disadvantaged (1987) that deindustrialization had devastating effects on inner-city communities, _______ as manufacturing jobs disappeared, unemployment rose, and middle-class Black families with the means to leave did so, concentrating poverty and removing the stabilizing institutions those families had supported.",
+  "question": "Which choice correctly completes the sentence?",
+  "choices": {
+    "A": "consequently",
+    "B": "although",
+    "C": "which occurred",
+    "D": "because"
+  },
+  "correct_answer": "A",
+  "explanation": "The second part of the sentence describes the mechanism by which deindustrialization caused devastating effects: jobs disappeared, unemployment rose, middle-class families left, concentrating poverty. An adverb that introduces a causal elaboration—showing how the consequence unfolded—is needed. \"Consequently\" correctly signals that what follows describes the resulting chain of effects. \"Although\" would create a concession, contradicting the passage's logic. \"Which occurred\" would create a confusing relative clause referring ambiguously to either \"effects\" or \"deindustrialization.\" \"Because\" would make the second part a cause of the first, reversing the intended causal direction."
+}

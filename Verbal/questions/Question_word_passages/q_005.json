@@ -1,0 +1,16 @@
+{
+  "id": "q_005",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In the years immediately following World War II, women who had entered the American workforce in large numbers during the war were actively encouraged—through advertising, government policy, and social pressure—to return to domestic roles. Yet women's labor force participation, while it declined briefly after the war, resumed an upward trajectory through the 1950s. By 1960, approximately one-third of American women were employed outside the home.",
+  "question": "Which inference is most strongly supported by the passage?",
+  "choices": {
+    "A": "Government policies enacted after World War II were the primary driver of women's increasing workforce participation in the 1950s.",
+    "B": "Despite postwar pressure to return to domestic life, women's participation in the paid workforce continued to grow across the decade.",
+    "C": "Women who entered the workforce during World War II remained employed at significantly higher rates than women who had not.",
+    "D": "The decline in women's workforce participation immediately after the war permanently reversed the gains women had made during wartime."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that despite active encouragement to return to domestic roles, women's workforce participation \"resumed an upward trajectory through the 1950s\" and reached approximately one-third by 1960. This directly supports B. A is unsupported—no government policy is credited with driving the increase (in fact, government policy pushed in the opposite direction). C is not addressed—the passage compares no subgroups of women. D is directly contradicted by the passage, which calls the post-war decline brief and shows participation then rising."
+}

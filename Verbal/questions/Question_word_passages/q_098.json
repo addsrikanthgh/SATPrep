@@ -1,0 +1,16 @@
+{
+  "id": "q_098",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In the sociology of organizations, institutional theory argues that organizations are shaped not only by technical efficiency and resource constraints but also by the need for legitimacy—acceptance by external stakeholders, including regulators, funders, professional associations, and the public. Sociologists Paul DiMaggio and Walter Powell described a process of 'isomorphism' by which organizations in the same field tend to become increasingly similar to one another over time, not because similarity improves performance but because it signals adherence to accepted norms and practices. They identified three mechanisms: coercive pressure from regulators, mimetic copying of successful peer organizations under conditions of uncertainty, and normative pressure from shared professional training.",
+  "question": "Which inference is best supported by the passage?",
+  "choices": {
+    "A": "Organizations that adopt widely used practices will always outperform those that pursue unconventional strategies.",
+    "B": "Two hospitals that adopt similar administrative structures may be doing so to satisfy regulatory and professional expectations rather than because the structures are functionally optimal.",
+    "C": "DiMaggio and Powell believe that organizational efficiency is the primary driver of structural change in institutions.",
+    "D": "Coercive pressure from regulators is the most powerful of the three mechanisms of organizational isomorphism."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that organizational similarity (isomorphism) arises not because it improves performance but because it signals adherence to accepted norms. B correctly applies this logic to a specific case—two hospitals adopting similar structures for legitimacy reasons rather than functional optimization—which is exactly the inference the theory supports. A directly contradicts the passage (similarity doesn't necessarily improve performance). C contradicts the passage—DiMaggio and Powell argue that legitimacy, not efficiency, drives structural convergence. D makes a ranking claim about the three mechanisms that the passage does not support; DiMaggio and Powell identify them without ranking their relative power."
+}

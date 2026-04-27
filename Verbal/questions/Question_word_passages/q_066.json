@@ -1,0 +1,16 @@
+{
+  "id": "q_066",
+  "domain": "Information and Ideas",
+  "skill": "evidence",
+  "difficulty": "medium",
+  "passage": "Climate scientist Katharine Hayhoe has argued that the most effective strategy for shifting public opinion on climate change is not presenting more scientific data but rather connecting climate impacts to values and concerns that audiences already hold—economic security, community health, religious stewardship of creation, or love of the natural world. She contends that for most people, attitudes toward climate change function more like cultural or group identities than like conclusions derived from evidence, meaning that data alone rarely moves those who are resistant.",
+  "question": "Which finding would most directly support Hayhoe's argument?",
+  "choices": {
+    "A": "A study finds that exposure to increasingly alarming climate data increases climate concern among people who already accept the scientific consensus but does not change the views of skeptics.",
+    "B": "A survey finds that the majority of Americans believe climate change is occurring but disagree about its causes.",
+    "C": "An experiment finds that framing climate change as a threat to local agricultural communities increases concern among rural conservatives who were previously skeptical.",
+    "D": "Research shows that scientists who communicate about climate change are viewed as more credible when they disclose their funding sources."
+  },
+  "correct_answer": "C",
+  "explanation": "Hayhoe argues that connecting climate change to existing values (economic security, community health, etc.) is more effective than presenting data, especially for resistant audiences. C provides direct experimental evidence for this: framing climate impacts in terms of a value (local agricultural communities) that rural conservatives already hold changed their views—precisely the mechanism Hayhoe describes. A shows data doesn't move skeptics but doesn't test the value-connection approach. B is a survey about belief distribution, not about what changes minds. D is about scientist credibility, unrelated to Hayhoe's audience-values argument."
+}

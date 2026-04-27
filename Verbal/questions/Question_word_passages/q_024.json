@@ -1,0 +1,16 @@
+{
+  "id": "q_024",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Sociologist Erving Goffman argued in The Presentation of Self in Everyday Life (1959) that social interaction is essentially theatrical: people perform roles, manage impressions, and employ \"props\" and \"costumes\" to project desired identities. This dramaturgical model has been enormously influential. Yet critics point out that Goffman's metaphor implies a calculating, strategic actor who is always aware of performing—a picture that sits uncomfortably with the many ways social behavior is unreflective, habitual, and unconscious. Pierre Bourdieu's concept of habitus, which describes how social dispositions are internalized and enacted without conscious deliberation, was developed partly in response to this perceived gap in Goffman's account.",
+  "question": "What is the primary function of the final sentence of the passage?",
+  "choices": {
+    "A": "It resolves the tension between Goffman's and Bourdieu's theories by showing that they describe the same social phenomena using different vocabularies.",
+    "B": "It introduces a competing theoretical framework as a response to a limitation of Goffman's model identified in the preceding sentence.",
+    "C": "It provides a specific example of the kind of unreflective social behavior that Goffman's dramaturgical model was designed to explain.",
+    "D": "It argues that Bourdieu's habitus is a more accurate account of social life than Goffman's dramaturgical model."
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence identifies a specific criticism of Goffman (his model implies conscious, calculating actors and cannot account for unreflective, habitual behavior). The final sentence introduces Bourdieu's habitus as a concept developed \"partly in response to this perceived gap\"—directly as a theoretical alternative addressing that limitation. B precisely describes this function. A is wrong because the passage presents the theories as responding to different problems, not as equivalent. C misreads the final sentence as an example when it is a theoretical response. D is an evaluative claim the passage never makes; it describes habitus as a response, not as superior."
+}

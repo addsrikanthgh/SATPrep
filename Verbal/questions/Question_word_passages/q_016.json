@@ -1,0 +1,16 @@
+{
+  "id": "q_016",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a report on the ethics of CRISPR gene editing. The student wants to write a sentence that acknowledges a genuine benefit of germline editing while also introducing a key ethical concern that complicates its use.\n\nNotes:\n- CRISPR-Cas9 can correct disease-causing genetic mutations with high precision.\n- Germline edits (changes to embryos) are heritable—they pass to all future generations.\n- Some inherited diseases, such as Huntington's disease, are caused by a single dominant gene mutation.\n- Critics warn that heritable edits made without the consent of future persons raise profound ethical issues.\n- The 2018 case of scientist He Jiankui, who edited human embryos without adequate oversight, provoked international condemnation.",
+  "question": "Which choice most effectively acknowledges a genuine benefit of germline editing while also introducing the key ethical concern that complicates its use?",
+  "choices": {
+    "A": "CRISPR-Cas9 has been used with high precision to correct genetic mutations, and the case of He Jiankui demonstrated the dangers of conducting such research without adequate oversight.",
+    "B": "Although germline editing could eliminate heritable diseases such as Huntington's from a family line entirely, the fact that such edits would affect all future descendants without their consent raises serious ethical questions.",
+    "C": "Germline edits are heritable, meaning that any correction made to an embryo would be passed to subsequent generations, which dramatically increases both the potential benefits and the potential risks of the technology.",
+    "D": "Critics of germline editing argue that the technology should be banned entirely until international regulatory frameworks are in place to prevent cases like that of He Jiankui from recurring."
+  },
+  "correct_answer": "B",
+  "explanation": "The task requires both a genuine benefit and a key ethical concern in a single sentence. B does both: it acknowledges the benefit (eliminating a heritable disease from a family line) and introduces the central ethical concern (future persons affected without their consent). A focuses on oversight failure rather than a benefit-plus-ethical-concern structure. C notes heritability as both benefit and risk but does not name the specific ethical concern of non-consent. D focuses only on the ethical/regulatory concern without acknowledging a benefit."
+}

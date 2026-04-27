@@ -1,0 +1,16 @@
+{
+  "id": "q_037",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a report on income inequality in the United States and wants to argue that the problem extends beyond gaps in annual earnings to differences in accumulated wealth. The student has found the following information:\n\n• In 2022, the top 1% of U.S. households held approximately 30% of total household wealth, while the bottom 50% held approximately 3%.\n• A Federal Reserve study found that gaps in wealth between racial groups are significantly larger than gaps in annual income between those same groups.\n• Economists distinguish between income (money received over a period) and wealth (assets minus liabilities at a point in time), noting that wealth compounds over generations through inheritance.",
+  "question": "Which of the following sentences best uses the information above to support the student's argument?",
+  "choices": {
+    "A": "Americans in the top 1% earn far more each year than those in the bottom 50%, demonstrating the severity of the income gap.",
+    "B": "Because wealth compounds across generations through inheritance, families who began accumulating assets earlier maintain advantages that annual income figures alone cannot capture.",
+    "C": "The Federal Reserve has studied income inequality extensively, confirming that racial disparities are a significant component of the broader equality problem.",
+    "D": "Income inequality in the United States is a complex issue that affects households across all racial and economic groups."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's argument is specifically that inequality extends beyond annual earnings to accumulated wealth. B draws on the third bullet point to explain how wealth compounds intergenerationally, directly supporting the claim that wealth gaps—not just income gaps—matter. A incorrectly describes the statistics (the 30%/3% figures refer to wealth, not income) and focuses on income rather than wealth. C mischaracterizes the Federal Reserve finding (which shows wealth gaps are larger than income gaps, not just that racial disparities exist). D is too vague and doesn't make the specific wealth-vs-income argument."
+}

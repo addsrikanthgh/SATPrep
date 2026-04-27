@@ -1,0 +1,16 @@
+{
+  "id": "q_064",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Urban heat islands—areas within cities that are significantly warmer than surrounding rural areas—form because hard surfaces such as pavement and buildings absorb and retain solar radiation more efficiently than vegetation, and because cities generate substantial waste heat from vehicles, air conditioning, and industry. Studies have found that urban heat islands intensify the effects of heat waves, raising nighttime temperatures in ways that prevent residents from recovering physiologically from daytime heat stress. Lower-income neighborhoods within cities typically have less tree canopy and more heat-absorbing pavement than wealthier neighborhoods, meaning they experience more severe urban heat island effects.",
+  "question": "Which inference is most strongly supported by the passage?",
+  "choices": {
+    "A": "Urban heat islands are most pronounced in cities that have not invested in public transportation systems.",
+    "B": "Wealthier urban neighborhoods are entirely unaffected by the urban heat island effect.",
+    "C": "During extreme heat events, lower-income urban residents may face heightened health risks compared to wealthier residents of the same city.",
+    "D": "Planting trees in cities is the most cost-effective solution to the urban heat island effect."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage states that lower-income neighborhoods have less tree canopy and more pavement, producing more severe urban heat island effects—and that urban heat islands intensify heat waves, raising temperatures in ways that prevent physiological recovery. Together, these points support the inference that lower-income residents face greater heat-related health risks during extreme heat events. A introduces public transportation, not mentioned in the passage. B overstates—the passage says wealthier neighborhoods experience less severe effects, not no effects at all. D makes a recommendation about cost-effectiveness not discussed in the passage."
+}

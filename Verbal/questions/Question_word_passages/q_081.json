@@ -1,0 +1,16 @@
+{
+  "id": "q_081",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Extremophiles—organisms that thrive in conditions hostile to most life, including extreme heat, acidity, pressure, or radiation—have expanded scientists' understanding of where life can exist. Thermophilic bacteria found in Yellowstone's boiling hot springs survive temperatures above 80°C; acidophiles in volcanic lakes tolerate pH levels near zero; tardigrades (water bears) can survive the vacuum and radiation of outer space. Astrobiologists have cited the existence of extremophiles as evidence that life might persist in environments once considered inhospitable—including beneath the frozen oceans of Jupiter's moon Europa.",
+  "question": "Which inference is best supported by the passage?",
+  "choices": {
+    "A": "Tardigrades are the most resilient organisms on Earth and are therefore the most likely form of life to be found on other planets.",
+    "B": "The discovery of extremophiles strengthens the scientific case for the possibility of life existing elsewhere in the solar system.",
+    "C": "Astrobiologists have confirmed the presence of microbial life beneath Europa's ice sheet.",
+    "D": "Life can only exist in extraterrestrial environments that closely resemble conditions on Earth's surface."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that astrobiologists have cited extremophiles as 'evidence that life might persist in environments once considered inhospitable,' including Europa. B accurately infers that extremophile research strengthens (though does not prove) the case for extraterrestrial life possibilities. A makes a superlative claim about tardigrades not found in the passage. C overstates—the passage says astrobiologists cite extremophiles as evidence for the possibility of life on Europa, not that they have confirmed its presence. D directly contradicts the passage, which argues life can thrive in a wide range of conditions."
+}

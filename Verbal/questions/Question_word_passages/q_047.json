@@ -1,0 +1,16 @@
+{
+  "id": "q_047",
+  "domain": "Standard English Conventions",
+  "skill": "modifier placement",
+  "difficulty": "medium",
+  "passage": "_______, the Meiji Restoration of 1868 fundamentally transformed Japan from a feudal society into a modern industrial state within a single generation.",
+  "question": "Which choice correctly and precisely completes the sentence?",
+  "choices": {
+    "A": "Being engineered by a coalition of reformist samurai who dismantled the Tokugawa shogunate",
+    "B": "Engineered by a coalition of reformist samurai who dismantled the Tokugawa shogunate",
+    "C": "The Tokugawa shogunate was dismantled by a coalition of reformist samurai who engineered it",
+    "D": "A coalition of reformist samurai who dismantled the Tokugawa shogunate engineered"
+  },
+  "correct_answer": "B",
+  "explanation": "The main clause's subject is 'the Meiji Restoration.' An introductory participial phrase must modify the subject that immediately follows it. B uses a correctly formed participial phrase ('Engineered by...') that logically modifies 'the Meiji Restoration'—the restoration was engineered by samurai. A incorrectly uses the passive progressive 'Being engineered,' which is awkward and non-standard here. C restructures the sentence so that the subject becomes 'the Tokugawa shogunate,' which does not logically connect to the rest of the sentence. D places the participial phrase awkwardly at the end with no clear referent."
+}

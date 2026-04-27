@@ -1,0 +1,16 @@
+{
+  "id": "q_102",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "The Civil Rights Movement in the United States is often told through the narrative of charismatic national leaders—Martin Luther King Jr., John Lewis, Thurgood Marshall—but historians such as Charles Payne and Barbara Ransby have argued that this 'top-down' narrative obscures the essential role played by local organizers, many of them women, who built the movement from the ground up. Figures like Ella Baker, Fannie Lou Hamer, and the thousands of unnamed church women, students, and community members who organized carpools, canvassed neighborhoods, and maintained networks of mutual support were, in Payne's phrase, the 'infrastructure' of the movement without which the celebrated national campaigns could not have succeeded.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Martin Luther King Jr. and John Lewis were the most important leaders of the Civil Rights Movement.",
+    "B": "The Civil Rights Movement's success depended as much on local grassroots organizers—many of them women—as on nationally celebrated leaders.",
+    "C": "The Civil Rights Movement would have succeeded sooner if more women had been given leadership roles at the national level.",
+    "D": "Historians have failed to write an accurate account of the Civil Rights Movement because they rely too heavily on the accounts of male leaders."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage argues that the 'top-down' national leader narrative is incomplete, and that local organizers—many of them women—were the essential infrastructure of the movement. B accurately captures both aspects: the acknowledged role of national leaders and the equally important role of grassroots organizers. A elevates national leaders in exactly the way the passage critiques. C introduces a counterfactual ('would have succeeded sooner') not made in the passage. D makes a sweeping critical claim about historical methods not supported by the passage's more specific argument."
+}

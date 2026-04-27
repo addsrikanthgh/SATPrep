@@ -1,0 +1,16 @@
+{
+  "id": "q_096",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "In the Western literary tradition, the quest narrative—a protagonist who undertakes a journey to obtain a valued object, person, or condition—is one of the most ancient and pervasive structures, appearing in texts from The Odyssey to the Arthurian romances to contemporary fantasy fiction. Joseph Campbell's 'monomyth' or 'hero's journey,' elaborated in The Hero with a Thousand Faces (1949), proposed that this structure reflects universal patterns of psychological and spiritual transformation. _______, feminist and postcolonial critics have noted that the hero of the conventional quest is almost always male, and his journey frequently involves the conquest, rescue, or abandonment of female figures who function as obstacles or rewards rather than agents in their own right.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "As a result",
+    "B": "In support of this view",
+    "C": "Nevertheless",
+    "D": "Consequently"
+  },
+  "correct_answer": "C",
+  "explanation": "The first two sentences present the quest narrative and Campbell's influential, largely affirming analysis of it. The third sentence introduces a critical feminist and postcolonial perspective that challenges or complicates Campbell's universalist claim—specifically noting the gendered power dynamics the 'universal' structure encodes. The relationship is concessive: despite the narrative's celebrated universality, critics have identified its gendered limitations. 'Nevertheless' signals this contrast. 'As a result' and 'Consequently' would imply the feminist critique follows causally from Campbell's theory. 'In support of this view' would mean the feminist critique agrees with Campbell, which is the opposite."
+}

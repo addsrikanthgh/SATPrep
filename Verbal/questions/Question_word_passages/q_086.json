@@ -1,0 +1,16 @@
+{
+  "id": "q_086",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The labeling theory of deviance, associated with sociologists Howard Becker and Edwin Lemert, argues that deviance is not an inherent property of an act but a social judgment applied to it: behavior becomes deviant when it is successfully labeled as such by those with the power to define and enforce social norms. A teenager who steals once and is never caught may never develop a criminal identity; one who is arrested, processed through the justice system, and labeled a delinquent may internalize that label and come to see criminal behavior as consistent with who they are. Becker called those who successfully apply deviant labels 'moral entrepreneurs.'",
+  "question": "What is the function of the second sentence in the context of the passage?",
+  "choices": {
+    "A": "It introduces a statistical study that provides evidence for labeling theory's core claim.",
+    "B": "It offers a concrete illustration of how labeling can shape individual identity and future behavior.",
+    "C": "It defines the term 'moral entrepreneur' introduced by Howard Becker.",
+    "D": "It argues that the criminal justice system is ineffective at reducing recidivism."
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence states labeling theory's core claim: behavior becomes deviant through social labeling. The second sentence provides a concrete, comparative example (the unlabeled teenager vs. the labeled one) to show how this process works in practice—specifically how a label shapes identity and subsequent behavior. This illustrates the abstract claim made in sentence one. A is wrong—no statistical study is cited. C is wrong—'moral entrepreneur' is defined in the third sentence, not the second. D makes a policy claim about recidivism not present in the passage."
+}

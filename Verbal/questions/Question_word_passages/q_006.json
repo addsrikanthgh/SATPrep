@@ -1,0 +1,16 @@
+{
+  "id": "q_006",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The placebo effect—the measurable improvement in a patient's condition following an inert treatment—has long puzzled researchers. For decades, it was dismissed as mere wishful thinking or measurement error. More recently, however, neuroscientists have demonstrated that placebos trigger real biochemical changes: the administration of a placebo painkiller, for instance, causes the brain to release endogenous opioids that genuinely reduce pain. This finding has forced a reconceptualization of the placebo effect not as a nuisance to be controlled away in clinical trials, but as a legitimate physiological phenomenon worthy of study in its own right.",
+  "question": "What is the function of the third sentence (\"More recently, however, neuroscientists have demonstrated...\")?",
+  "choices": {
+    "A": "It concedes a limitation of placebo research by acknowledging that the effect is difficult to replicate in controlled settings.",
+    "B": "It introduces evidence that challenges the earlier dismissive view of the placebo effect described in the second sentence.",
+    "C": "It provides a definition of the placebo effect that clarifies the term introduced in the first sentence.",
+    "D": "It anticipates a counterargument by presenting the strongest case against the passage's main claim."
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence says the placebo effect was \"dismissed as mere wishful thinking.\" The third sentence opens with \"More recently, however\"—a contrast signal—and then presents neuroscientific evidence that placebos produce real biochemical changes. Its function is to introduce evidence that directly challenges and overturns the dismissive view. A is incorrect because no limitation is conceded. C is wrong because the first sentence already defined the placebo effect. D is wrong because the sentence supports the passage's main claim rather than arguing against it."
+}

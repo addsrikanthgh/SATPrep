@@ -1,0 +1,16 @@
+{
+  "id": "q_034",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Herd immunity occurs when a sufficient proportion of a population has become immune to an infectious disease—either through vaccination or prior infection—that the spread of disease slows dramatically, protecting even those who are not immune. The exact threshold varies by disease; measles, which is highly contagious, requires approximately 95% immunity in a population to achieve herd immunity. _______, less contagious diseases such as polio require immunity in only 80–85% of the population to produce the same protective effect.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Therefore",
+    "B": "In contrast",
+    "C": "Furthermore",
+    "D": "For instance"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence states measles requires ~95% immunity. The third sentence introduces polio as requiring a lower threshold (80–85%). The relationship is a contrast: a less contagious disease requires a lower threshold. 'In contrast' signals this comparative difference. 'Therefore' would suggest polio's threshold is a logical consequence of measles' threshold. 'Furthermore' would add a parallel or supporting point. 'For instance' would introduce polio as an example of the same point made about measles, which reverses the contrast."
+}

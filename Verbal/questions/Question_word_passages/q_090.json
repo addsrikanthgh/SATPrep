@@ -1,0 +1,16 @@
+{
+  "id": "q_090",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "easy",
+  "passage": "Scientists have long observed that certain species of migratory birds, sea turtles, and fish can navigate with remarkable precision across vast distances, returning to the same breeding grounds year after year. One proposed mechanism is magnetoreception—the ability to detect Earth's magnetic field and use it as a navigational compass. Behavioral experiments and neurological studies have provided compelling evidence that some species possess specialized cells containing magnetite crystals, which may act as biological compasses, allowing animals to orient themselves using geomagnetic information.",
+  "question": "As used in the passage, \"orient\" most nearly means:",
+  "choices": {
+    "A": "reproduce successfully in a new environment",
+    "B": "determine one's position and direction",
+    "C": "communicate with members of one's species",
+    "D": "adapt physically to changing seasonal conditions"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage discusses navigation and the use of Earth's magnetic field as a 'navigational compass.' The magnetite cells 'allow animals to orient themselves using geomagnetic information'—that is, to determine where they are and which direction to travel. B ('determine one's position and direction') captures this navigational meaning. A ('reproduce successfully') is unrelated to navigation. C ('communicate') introduces a social function not discussed in the passage. D ('adapt physically') describes a biological/seasonal process, not navigation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_040",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "easy",
+  "passage": "Charles Darwin's theory of evolution by natural selection proposed that heritable variation exists within populations, that individuals with traits better suited to their environment tend to survive and reproduce more successfully, and that over many generations these advantageous traits become more prevalent. Darwin called this process natural selection partly to distinguish it from the artificial selection practiced by animal breeders, who deliberately choose which individuals reproduce. The mechanism he described was entirely gradual—he was adamant that evolution proceeded through the accumulation of small, incremental changes rather than sudden leaps.",
+  "question": "As used in the passage, \"incremental\" most nearly means:",
+  "choices": {
+    "A": "significant and dramatic",
+    "B": "random and unpredictable",
+    "C": "small and gradual",
+    "D": "frequent and repetitive"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage uses 'incremental' in a clause that contrasts small changes with 'sudden leaps,' and it appears alongside 'gradual' and 'accumulation.' This context makes clear that 'incremental' means small and gradual. A ('significant and dramatic') is the opposite of the intended meaning. B ('random') is not implied by 'incremental.' D ('frequent and repetitive') misses the key meaning of smallness/gradualism that the passage emphasizes."
+}

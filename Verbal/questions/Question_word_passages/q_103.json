@@ -1,0 +1,16 @@
+{
+  "id": "q_103",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Jorge Luis Borges's fiction characteristically dissolves the boundary between the text the reader holds and the imaginary texts described within it. In 'The Garden of Forking Paths,' Borges creates a fictional novelist, Ts'ui Pên, who writes a labyrinthine novel that is simultaneously a novel and a maze—a text in which every possible narrative choice is pursued in parallel, producing an infinite proliferation of storylines. Borges never writes Ts'ui Pên's novel; he only writes about it. Yet by describing a text that cannot be read, Borges invites readers to experience the dizzying infinitude of its premise as a felt reality rather than merely an abstract concept.",
+  "question": "What is the function of the fourth sentence ('Yet by describing...abstract concept') in the context of the passage?",
+  "choices": {
+    "A": "It argues that Borges's technique is flawed because he describes but never writes the labyrinthine novel.",
+    "B": "It resolves the paradox introduced in the third sentence by explaining how the absence of the text itself becomes a literary achievement.",
+    "C": "It provides a definition of the term 'labyrinthine' as it applies to Ts'ui Pên's fictional novel.",
+    "D": "It introduces a criticism of Borges's narrative style that has been advanced by postmodern literary theorists."
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence creates a paradox: Borges never writes the novel he describes. The fourth sentence begins with 'Yet'—a concessive signal—and resolves the paradox by explaining that describing an unwritable text is itself the literary feat. By describing rather than writing the infinite text, Borges makes readers feel its infinitude as a 'felt reality.' The fourth sentence thus resolves the tension introduced in the third. A incorrectly frames the choice as a 'flaw.' C introduces a definition, which is not the sentence's function. D attributes critical positions to 'postmodern theorists,' which is not what the sentence does."
+}

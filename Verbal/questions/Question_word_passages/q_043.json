@@ -1,0 +1,16 @@
+{
+  "id": "q_043",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The early Cold War was defined by a logic of ideological confrontation: the United States and the Soviet Union framed their rivalry as a struggle between liberal democracy and communism for the future of humanity. _______, by the late 1960s and early 1970s, both superpowers began pursuing détente—a deliberate easing of tensions driven by the pragmatic recognition that nuclear war would annihilate both sides and that economic and diplomatic cooperation was in each state's interest.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "As a result",
+    "B": "In other words",
+    "C": "Likewise",
+    "D": "Nevertheless"
+  },
+  "correct_answer": "D",
+  "explanation": "The first sentence establishes an ideological confrontation framing. The second sentence introduces détente—a shift away from that confrontation toward pragmatic cooperation. This is a concessive relationship: despite the ideological rivalry, the two powers moved toward accommodation. 'Nevertheless' correctly signals that the détente occurred in contrast to or in spite of the preceding ideological framework. 'As a result' would suggest détente was a direct consequence of the rivalry, reversing the logic. 'In other words' would indicate the second sentence merely restates the first. 'Likewise' would signal that détente is a parallel development, which it isn't."
+}

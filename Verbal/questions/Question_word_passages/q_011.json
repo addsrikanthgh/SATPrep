@@ -1,0 +1,16 @@
+{
+  "id": "q_011",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "The Treaty of Versailles (1919), which formally ended World War I, imposed severe penalties on Germany: it required Germany to accept sole responsibility for the war, pay enormous reparations, cede substantial territories, and drastically reduce its military. Many historians argue that these punitive terms, by generating widespread resentment and economic hardship in Germany, created conditions that contributed to the rise of Adolf Hitler and the Nazi Party in the 1930s. Others contend that the treaty was not fully enforced and that Germany's political and economic crises had multiple causes beyond the treaty alone.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The Treaty of Versailles was unjustly harsh and its terms were primarily responsible for causing World War II.",
+    "B": "The Treaty of Versailles imposed severe penalties on Germany, and historians debate the extent to which those penalties contributed to later political instability.",
+    "C": "Germany's resentment of the Treaty of Versailles was the single most important factor in Adolf Hitler's rise to power.",
+    "D": "The Allied powers made a strategic error at Versailles by prioritizing punishment over European political stability."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes the treaty's terms and then presents two competing historical interpretations: one that blames the treaty for enabling Hitler's rise, and one that questions its centrality. B accurately captures both the description of the treaty and the historiographical debate. A and C overstate the argument by asserting causation that the passage only attributes to some historians, not as established fact. D is an evaluative claim about Allied strategy that the passage never makes."
+}

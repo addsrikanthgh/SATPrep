@@ -1,0 +1,16 @@
+{
+  "id": "q_053",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Plate tectonics, the theory that Earth's outer shell is divided into large, moving plates, was not widely accepted until the 1960s, when accumulating geophysical evidence made the case irresistible. One of the key lines of evidence was paleomagnetism: as molten rock solidifies at mid-ocean ridges, iron-bearing minerals align with the prevailing magnetic field, leaving a permanent record of Earth's magnetic polarity at the time of solidification. Because Earth's magnetic field periodically reverses, the seafloor preserves a symmetric pattern of polarity bands on either side of mid-ocean ridges—a pattern that could only be explained by the seafloor spreading outward from the ridge. This symmetry, discovered by geologists Harry Hess and Lawrence Morley, provided the strongest early evidence that the ocean floor was indeed moving.",
+  "question": "What is the function of the third sentence ('Because Earth's magnetic field...from the ridge') in the context of the passage?",
+  "choices": {
+    "A": "It introduces a competing theory that geologists initially proposed to explain the symmetric polarity bands.",
+    "B": "It explains how the paleomagnetic record described in the preceding sentence produces the observable pattern that supports seafloor spreading.",
+    "C": "It provides a historical account of how Earth's magnetic field formed during the planet's early history.",
+    "D": "It identifies Harry Hess and Lawrence Morley as the scientists who first proposed plate tectonic theory."
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence explains that solidifying rock records magnetic polarity. The third sentence builds directly on this by explaining the consequence: because magnetic polarity periodically reverses, the accumulated seafloor record produces symmetric polarity bands—which could only result from seafloor spreading. The third sentence thus connects the mechanism described in sentence two to the observable evidence that supports the theory. A is wrong—no competing theory is introduced. C is wrong—the sentence is about reversals and their pattern, not the formation of Earth's field. D misattributes the discovery: Hess and Morley discovered the symmetry, but the sentence naming them is the fourth, not the third."
+}
