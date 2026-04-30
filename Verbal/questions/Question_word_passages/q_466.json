@@ -1,0 +1,16 @@
+{
+  "id": "q_466",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Honeybees pollinate roughly a third of the food crops consumed in the United States. Without their services, crops including almonds, blueberries, cherries, and many vegetables would either fail entirely or require expensive hand-pollination. _______, honeybee populations have declined sharply over the past two decades due to a combination of pesticide exposure, habitat loss, and parasitic infections.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Consequently",
+    "B": "For instance",
+    "C": "Worryingly",
+    "D": "Furthermore"
+  },
+  "correct_answer": "C",
+  "explanation": "'Worryingly' correctly signals that the third sentence introduces a concerning development in relation to the established importance of honeybees described in the first two sentences. The word sets up the contrast between the bees' critical role and the alarming reality of their decline. 'Consequently' implies the decline was caused by the bees' importance or by hand-pollination—no such causal link is established. 'For instance' implies the third sentence gives an example of bee importance, but it introduces a threat instead. 'Furthermore' implies the third sentence adds another positive fact, but it introduces a negative one."
+}

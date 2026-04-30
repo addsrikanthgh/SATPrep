@@ -1,0 +1,16 @@
+{
+  "id": "q_460",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "Economists disagree about the primary driver of the housing shortage _______ some point to restrictive zoning, others cite construction labor shortages, and still others blame investor speculation.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "shortage, some",
+    "B": "shortage; some",
+    "C": "shortage: some",
+    "D": "shortage some"
+  },
+  "correct_answer": "C",
+  "explanation": "The main clause 'Economists disagree about the primary driver of the housing shortage' is complete. What follows is a series of clauses that enumerate the different positions economists take—a direct elaboration of 'disagree' and 'primary driver.' A colon after a complete clause that introduces an enumeration or explanation of what was just stated is correct. C is correct. A creates a comma splice—'some point to restrictive zoning, others cite...' contains multiple independent clauses, and a single comma before them is insufficient. B uses a semicolon; while two independent clauses can be joined by a semicolon, the elaborating list that follows is more naturally introduced by a colon here. D has no punctuation before the list."
+}

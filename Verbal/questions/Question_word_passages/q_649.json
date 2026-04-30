@@ -1,0 +1,16 @@
+{
+  "id": "q_649",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Unlike the previous version of the software _______ the updated platform allows users to collaborate in real time, sync files across devices, and customize their workspace.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "software,",
+    "B": "software;",
+    "C": "software:",
+    "D": "software"
+  },
+  "correct_answer": "A",
+  "explanation": "'Unlike the previous version of the software' is an introductory prepositional phrase. Standard punctuation practice requires a comma after an introductory phrase to separate it from the main clause that follows. A correctly places a comma after the introductory phrase. Semicolons and colons (B, C) are not used to separate introductory phrases from main clauses. No punctuation (D) fuses the introductory element with the main clause and is technically ambiguous."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_401",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A nutritional study tracked 1,200 adults over five years, recording their daily fruit and vegetable intake and monitoring cardiovascular health markers. Participants were grouped by average daily servings: fewer than 2 servings, 2–4 servings, and 5 or more servings. The study found that the group consuming 5 or more servings had 28% lower rates of hypertension and 22% lower rates of elevated LDL cholesterol compared to the group consuming fewer than 2 servings. The middle group showed intermediate results. Researchers controlled for age, BMI, and physical activity levels across all groups.",
+  "question": "Which finding from the study most directly supports the conclusion that higher fruit and vegetable consumption is associated with better cardiovascular outcomes?",
+  "choices": {
+    "A": "Participants who consumed 5 or more servings per day had 28% lower hypertension rates and 22% lower elevated LDL rates than those consuming fewer than 2 servings.",
+    "B": "The study tracked 1,200 adults over five years.",
+    "C": "Researchers controlled for age, BMI, and physical activity.",
+    "D": "The middle group showed intermediate results in all cardiovascular markers."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly states the quantitative outcome—lower hypertension and LDL rates in the highest-intake group compared to the lowest—which is the specific evidence supporting the conclusion about consumption and cardiovascular outcomes. B describes the study's scale but is not itself a finding about cardiovascular outcomes. C describes the methodological controls, which strengthen the study's validity but do not directly support the conclusion. D notes the middle group's intermediate results, which is consistent with a dose-response relationship but is less direct evidence than the high-vs.-low comparison in A."
+}

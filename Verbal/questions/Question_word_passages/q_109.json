@@ -1,0 +1,16 @@
+{
+  "id": "q_109",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Marine biologists studying Caribbean coral reefs have documented a troubling pattern tied to rising ocean temperatures. When water temperatures climb, corals expel the symbiotic algae that supply most of their energy, a process called bleaching. Bleached corals can survive briefly, but if elevated temperatures persist, the algae cannot return and the coral dies. A five-year study found that reefs exposed to temperatures just 1°C above seasonal averages for eight or more weeks experienced bleaching rates exceeding 80%, while reefs in cooler waters showed rates below 10% during the same period.",
+  "question": "A student claims that even a small increase in ocean temperature can have a severe impact on coral reef health. Which quotation from the passage provides the most direct evidence for this claim?",
+  "choices": {
+    "A": "\"When water temperatures climb, corals expel the symbiotic algae that supply most of their energy\"",
+    "B": "\"Bleached corals can survive briefly, but if elevated temperatures persist, the algae cannot return and the coral dies\"",
+    "C": "\"reefs exposed to temperatures just 1°C above seasonal averages for eight or more weeks experienced bleaching rates exceeding 80%\"",
+    "D": "\"Marine biologists studying Caribbean coral reefs have documented a troubling pattern tied to rising ocean temperatures\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's claim requires evidence of both a small temperature increase and a severe effect. Choice C provides exactly this: a 1°C rise (small increase) caused bleaching rates above 80% compared to below 10% in cooler reefs (severe, measurable impact). Choice A describes the mechanism of bleaching but does not specify how small a temperature change triggers it. Choice B describes the consequences of prolonged heat but does not quantify the temperature threshold. Choice D is an introductory framing sentence that asserts a pattern without providing specific supporting data."
+}

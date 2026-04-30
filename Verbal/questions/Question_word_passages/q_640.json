@@ -1,0 +1,16 @@
+{
+  "id": "q_640",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The composer's late works represented a significant departure from his early style: where the early pieces had been _______ and approachable, built on familiar harmonic patterns, the later compositions embraced dissonance and fragmented structure in ways that initially alienated concert audiences.",
+  "question": "Which word best fills the blank?",
+  "choices": {
+    "A": "accessible",
+    "B": "abstruse",
+    "C": "avant-garde",
+    "D": "discordant"
+  },
+  "correct_answer": "A",
+  "explanation": "'Accessible' means easy to understand or appreciate—matching the description of early pieces as 'approachable' and built on 'familiar harmonic patterns.' The contrast with later works that 'alienated audiences' through dissonance confirms that the early works were listener-friendly. Abstruse (difficult to understand) describes the later works, not the early ones. Avant-garde (experimental, innovative) better describes the later style. Discordant (clashing, inharmonious) is used to describe the later works, not the early familiar ones."
+}

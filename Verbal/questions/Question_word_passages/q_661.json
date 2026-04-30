@@ -1,0 +1,16 @@
+{
+  "id": "q_661",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Many species of deep-sea fish have evolved bioluminescent organs to attract prey in the lightless depths. _______ light produced by bioluminescence is not visible from the ocean surface and plays no role in the exchange of energy between deep-sea and surface ecosystems.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "However, the",
+    "B": "Therefore, the",
+    "C": "Similarly, the",
+    "D": "For example, the"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes a functional use of bioluminescence (attracting prey in the deep). The second sentence introduces a limitation: that same light doesn't reach the surface or affect surface ecosystems. This is a contrast—the ability to attract prey in the deep does not translate to broader ecological function. 'However' (A) signals this contrast correctly. 'Therefore' (B) would imply the second sentence is a consequence of the first, which is not the logical relationship. 'Similarly' (C) implies parallelism between the two ideas, not contrast. 'For example' (D) would introduce an illustration of the first claim, not a contrasting limitation."
+}

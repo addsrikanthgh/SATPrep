@@ -1,0 +1,16 @@
+{
+  "id": "q_504",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Wolves, once nearly extirpated from Yellowstone National Park, were reintroduced in 1995. Their return triggered a cascade of ecological effects. By preying on elk and changing where elk grazed, wolves allowed streamside vegetation to recover. The return of willows and aspens stabilized riverbanks, improved water quality, and provided habitat for beavers, songbirds, and fish—a process researchers have described as a 'trophic cascade.'\n\nText 2: The concept of the 'Yellowstone trophic cascade' has been questioned by ecologists who argue that the wolf's role has been overstated. Studies controlling for other variables—including a decade-long drought and human hunting pressure that also reduced elk numbers—found that the recovery of streamside vegetation in Yellowstone was not as directly tied to wolf predation as earlier accounts suggested. Some researchers argue that the dramatic narrative of wolves 'changing the rivers' is more compelling as a story than it is as rigorous ecology.",
+  "question": "How do the two texts differ in their assessment of wolf reintroduction in Yellowstone?",
+  "choices": {
+    "A": "Text 1 argues that wolf reintroduction failed to affect elk populations, while Text 2 argues it succeeded.",
+    "B": "Text 1 presents wolf reintroduction as producing a broad ecological recovery, while Text 2 questions whether the wolf's role was as central as claimed.",
+    "C": "Both texts agree that the trophic cascade narrative is scientifically rigorous and well-evidenced.",
+    "D": "Text 2 argues that wolves should be removed from Yellowstone because they have disrupted the ecosystem."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 presents the trophic cascade as a clear example of wolves driving ecological recovery. Text 2 challenges this by presenting confounding variables (drought, human hunting) and questioning whether the wolf's role was as central as the narrative implies. B correctly captures this contrast. A reverses Text 1's claim—it explicitly says wolves preyed on elk and changed grazing patterns. C is contradicted by Text 2, which explicitly says the narrative may be 'more compelling as a story than it is as rigorous ecology.' D introduces a policy recommendation not made in Text 2."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_818",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "A historian argues that the decline of the Roman Empire was not caused primarily by external barbarian invasions but by internal structural weaknesses, particularly the fiscal and administrative overextension of the imperial system.",
+  "question": "Which evidence would most directly support the historian's argument?",
+  "choices": {
+    "A": "'By the third century CE, the Roman Empire was spending an estimated 75% of state revenues on military defense and administration, leaving insufficient funds for infrastructure maintenance; records from this period show accelerating deterioration of roads, aqueducts, and granaries on which both the army and civilian population depended.'",
+    "B": "'The Visigoths sacked Rome in 410 CE, and the Vandals sacked the city again in 455 CE, demonstrating the military vulnerability of the empire's core to external threats.',",
+    "C": "'The Roman Empire at its peak extended from Britain in the northwest to Mesopotamia in the east, covering over 5 million square kilometers and a population of approximately 50–70 million people.'",
+    "D": "'The introduction of Christianity as the official state religion in the late fourth century CE shifted the allocation of resources toward church construction and away from military expenditure.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The historian argues that internal structural weaknesses—specifically fiscal and administrative overextension—caused Rome's decline. A directly supports this: 75% of revenues on military and administration left nothing for infrastructure, which then deteriorated. This is precisely the fiscal overextension and internal weakness argument. B highlights barbarian invasions—the alternative explanation the historian argues against. C describes the empire's scale—a historical fact that provides context for overextension but does not demonstrate internal weakness as a cause of decline. D introduces religious resource allocation as a cause of decline—a different internal explanation not specified in the historian's argument."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_588",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a persuasive essay arguing that the United States should adopt ranked-choice voting (RCV) for federal elections. The student wants to explain how RCV addresses the 'spoiler effect'—the phenomenon where a third-party candidate draws votes away from a similar candidate, potentially causing both to lose. The student has gathered the following notes:\n- In ranked-choice voting, voters rank candidates in order of preference (1st, 2nd, 3rd, etc.) rather than selecting only one.\n- If no candidate wins a majority in the first round, the candidate with the fewest votes is eliminated and their votes are redistributed to voters' second choices.\n- The 2000 U.S. presidential election is often cited as an example of the spoiler effect: Ralph Nader received 97,000 votes in Florida; Al Gore lost the state by 537 votes.\n- Maine and Alaska have adopted RCV for federal elections; several cities use it for local elections.\n- Critics argue that RCV is more complicated for voters to understand than traditional single-vote systems.",
+  "question": "Which choice most effectively uses the notes to explain how ranked-choice voting addresses the spoiler effect?",
+  "choices": {
+    "A": "Maine and Alaska have adopted ranked-choice voting for federal elections, demonstrating that the system can be implemented successfully at the state level.",
+    "B": "Critics of ranked-choice voting argue that the system is more complicated for voters than traditional single-vote methods.",
+    "C": "Under ranked-choice voting, voters who prefer a third-party candidate can rank that candidate first without risking their vote being 'wasted'—because if the third-party candidate is eliminated, their vote transfers to their second choice, preventing their preference from helping elect their least-favored candidate.",
+    "D": "The spoiler effect has influenced several American elections, most notably the 2000 presidential race in Florida, where third-party candidate Ralph Nader may have cost Al Gore the state."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to explain how RCV addresses the spoiler effect. C explains the mechanism directly: voters can rank a third-party candidate first without spoiling the election, because if that candidate is eliminated, the vote transfers—eliminating the spoiler dynamic. A describes adoption by states but does not explain the mechanism. B presents a criticism of RCV, not an explanation of how it addresses the spoiler effect. D describes the spoiler effect itself but does not explain how RCV resolves it."
+}

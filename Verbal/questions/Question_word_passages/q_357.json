@@ -1,0 +1,16 @@
+{
+  "id": "q_357",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The philosopher Derek Parfit examined 'teletransportation' as a thought experiment about personal identity. Imagine that your body is scanned and destroyed, and an exact replica is assembled from new atoms at a distant location. The replica has all your memories, personality, and beliefs. Parfit argued that the question 'Is this me?' reveals that our ordinary notion of personal identity—the assumption that there is a definite fact about whether a future person is 'you'—is not as coherent as we assume. He concluded that what we should care about is not strict identity but rather 'psychological continuity': the chain of connected memories, intentions, and character that links your present self to future selves.",
+  "question": "Based on the passage, what can most reasonably be inferred about Parfit's view of the relationship between survival and personal identity?",
+  "choices": {
+    "A": "Parfit believed that the teletransportation scenario proves that personal identity does not exist in any form.",
+    "B": "Parfit argued that what matters for survival is not whether a strict metaphysical 'you' continues to exist, but whether the psychological connections of memory and character are preserved.",
+    "C": "Parfit concluded that teletransportation is impossible and therefore the scenario has no philosophical relevance.",
+    "D": "Parfit argued that the replica created by teletransportation would be a different person and therefore should not have the same legal rights as the original."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that Parfit concluded we should care about 'psychological continuity'—the chain of memories, intentions, and character—rather than strict identity. His point is that survival questions are not best framed as 'Is this me?' (strict identity) but as 'Are the psychological connections preserved?' B accurately captures this redirection from identity to psychological continuity. A overstates—Parfit questioned the coherence of our ordinary notion of identity, but his positive claim was about psychological continuity, not that identity doesn't exist in any form. C introduces a conclusion about teletransportation's physical possibility, which is irrelevant to Parfit's philosophical point. D introduces legal rights claims not present in the passage."
+}

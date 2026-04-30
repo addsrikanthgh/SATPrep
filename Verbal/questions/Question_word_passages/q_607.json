@@ -1,0 +1,16 @@
+{
+  "id": "q_607",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "An economist studying income inequality argued that the recent rise in CEO-to-worker pay ratios in large U.S. corporations is not primarily driven by increases in CEO productivity or value created, but by changes in corporate governance that have reduced board oversight and allowed executives to influence their own compensation packages.",
+  "question": "Which finding, if true, would most directly support the economist's argument?",
+  "choices": {
+    "A": "Companies with more independent board members and greater shareholder voting rights on executive pay show smaller increases in CEO-to-worker pay ratios than companies with weaker governance structures.",
+    "B": "Stock prices of companies with the highest CEO pay tend to outperform the market over five-year periods.",
+    "C": "The correlation between CEO pay and company revenue has remained constant over the past three decades.",
+    "D": "Worker productivity in large U.S. corporations has grown more slowly than CEO compensation over the same period."
+  },
+  "correct_answer": "A",
+  "explanation": "The economist argues weak corporate governance (reduced board oversight, executive influence over own pay) drives rising pay ratios. A directly supports this by showing that stronger governance (independent boards, shareholder voting rights) correlates with smaller pay ratio increases. B undermines the argument by suggesting high CEO pay may reflect genuine value creation. C suggests CEO pay tracks company size (revenue), which could suggest productivity-based explanations. D shows workers' pay has lagged but doesn't specifically point to governance as the cause of rising CEO pay."
+}

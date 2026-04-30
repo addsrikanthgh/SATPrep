@@ -1,0 +1,16 @@
+{
+  "id": "q_943",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The concept of 'moral licensing' describes a psychological tendency in which people who perform a virtuous action subsequently feel permitted to behave less virtuously. In one study, participants who recalled a past moral deed were more likely to endorse a discriminatory hiring decision than those who had not recalled such a deed. The effect appears robust: it has been documented in domains ranging from charitable giving to consumer choices about environmentally friendly products, where purchasing 'green' items increased willingness to engage in unethical behavior in subsequent tasks.",
+  "question": "Based on the passage, what can most reasonably be inferred about efforts to promote ethical behavior?",
+  "choices": {
+    "A": "Reminding people of their past good deeds is an effective way to encourage future ethical behavior.",
+    "B": "Promoting individual virtuous actions may sometimes produce unexpected negative effects on subsequent behavior.",
+    "C": "The moral licensing effect is limited to consumer choices and does not affect professional or social decisions.",
+    "D": "People who donate to charity are more likely to be ethical in all areas of their lives."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes moral licensing—performing virtuous acts can subsequently license less ethical behavior. This implies that strategies encouraging individual good deeds (charity, green purchases) may paradoxically reduce ethical behavior in subsequent contexts, making B a reasonable inference about the complexity of promoting ethics. A directly contradicts the passage—reminding people of past good deeds increased endorsement of discriminatory decisions. C contradicts the passage, which explicitly lists multiple domains including hiring decisions and unethical behavior. D contradicts the passage, which shows charitable giving is associated with less ethical subsequent behavior."
+}

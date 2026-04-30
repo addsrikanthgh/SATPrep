@@ -1,0 +1,16 @@
+{
+  "id": "q_936",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The committee recommended ______ the budget proposal be revised to include provisions for equipment maintenance.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "that",
+    "B": "which",
+    "C": "so",
+    "D": "how"
+  },
+  "correct_answer": "A",
+  "explanation": "'Recommended' is a verb that takes a 'that' clause to introduce its object: 'recommended that [something happen].' The word 'that' correctly introduces the noun clause functioning as the direct object of 'recommended.' 'Which' introduces a relative clause modifying a noun, not a noun clause after 'recommended.' 'So' could work in 'recommended so that,' indicating purpose, but alone ('recommended so the budget') is not standard. 'How' would introduce an indirect question ('recommended how it be revised'), which changes the meaning significantly."
+}

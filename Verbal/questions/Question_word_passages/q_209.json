@@ -1,0 +1,16 @@
+{
+  "id": "q_209",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A forestry department collected data on wildfire frequency across 14 western counties over a decade. Counties in the lowest drought severity quartile (Palmer Drought Severity Index, PDSI, above –1.0) averaged 3.2 wildfires per year. Counties in the second quartile (PDSI –1.0 to –2.0) averaged 5.7 wildfires per year. Those in the third quartile (PDSI –2.0 to –3.5) averaged 9.4 wildfires per year, and counties in the most severe drought quartile (PDSI below –3.5) averaged 14.8 wildfires per year.",
+  "question": "A wildfire management director claims that drought severity is a reliable predictor of annual wildfire frequency. Which data from the study most directly supports this claim?",
+  "choices": {
+    "A": "The study covered 14 counties over a decade, providing a substantial dataset for analysis.",
+    "B": "Counties in the most severe drought quartile averaged 14.8 wildfires per year, more than four times the rate of counties in the mildest quartile.",
+    "C": "Wildfire frequency increased with each increase in drought severity, from 3.2 fires per year in the mildest category to 14.8 fires per year in the most severe.",
+    "D": "Counties in the second drought quartile averaged 5.7 wildfires per year."
+  },
+  "correct_answer": "C",
+  "explanation": "The director's claim requires evidence that drought severity consistently predicts wildfire frequency—a pattern claim requiring data across all levels. C explicitly describes the consistent increase in wildfire frequency across all four drought severity categories, which most directly establishes drought severity as a reliable predictor. B compares only the two extremes, showing a large ratio but not a consistent progression across all categories. D cites only one group's data point, which establishes nothing about the broader relationship. A describes the study's scope without providing evidence about the claimed relationship."
+}

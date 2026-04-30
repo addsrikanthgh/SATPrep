@@ -1,0 +1,16 @@
+{
+  "id": "q_150",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "Thucydides distinguished his historical method from that of his predecessors by refusing to embellish events with mythological explanations or appealing legends. He acknowledged that this would make his account less entertaining. Yet his subject—the Peloponnesian War—was, in his view, the greatest disturbance to have shaken the Greek world. For that reason, the scrupulous, unadorned fidelity of his account was not a limitation but a tribute: history of such magnitude deserved a treatment commensurate with its gravity.",
+  "question": "As used in the passage, \"commensurate\" most nearly means",
+  "choices": {
+    "A": "superior",
+    "B": "proportionate",
+    "C": "sympathetic",
+    "D": "opposed"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence argues that a war of great magnitude deserves a historical treatment 'commensurate with its gravity'—meaning matched in scale or seriousness to the subject's importance. 'Proportionate' (B) best captures this sense of being appropriately matched. 'Superior' (A) implies exceeding the subject, whereas 'commensurate' implies a fitting equivalence. 'Sympathetic' (C) suggests emotional alignment, which does not capture the idea of a fitting match in scale or seriousness. 'Opposed' (D) contradicts the passage; Thucydides argues his method suits the subject, not that it is in opposition to it."
+}

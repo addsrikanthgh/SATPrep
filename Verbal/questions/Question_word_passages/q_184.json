@@ -1,0 +1,16 @@
+{
+  "id": "q_184",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The development of germ theory in the nineteenth century transformed medicine's understanding of disease. Physicians previously attributed illness to miasmas—bad air arising from rotting organic matter—and recommended fresh air, dietary changes, and removal from unhealthy environments. _______, the identification of specific bacteria and viruses as disease agents made it possible to develop targeted interventions: vaccines, antiseptics, and antibiotics.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "For instance,",
+    "B": "Nevertheless,",
+    "C": "By contrast,",
+    "D": "In addition,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage moves from the old miasma theory and its treatments to the new germ theory and its targeted interventions. The relationship is a contrast between two distinct paradigms: the pre-germ-theory approach and the post-germ-theory approach. 'By contrast' (C) correctly signals this opposition between the old and new frameworks. 'For instance' (A) would imply that germ theory is an example of miasma theory, which contradicts the passage. 'Nevertheless' (B) implies that germ theory occurred despite some obstacle introduced by miasma theory, which misrepresents the historical relationship. 'In addition' (D) would suggest germ theory is supplementary to miasma theory rather than a replacement for it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_723",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Neither the director nor the producers _______ willing to comment on the film's troubled production schedule.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "has been",
+    "D": "is"
+  },
+  "correct_answer": "A",
+  "explanation": "When 'neither...nor' connects two subjects, the verb agrees with the subject closest to it (the 'nor' subject). Here, 'the producers' is the subject closest to the verb—it is plural. Therefore the verb must be plural. 'Were' (A) is the correct plural past tense form. 'Was' (B) and 'is' (D) are singular. 'Has been' (C) is singular and also uses present perfect tense, which is inconsistent with the context."
+}

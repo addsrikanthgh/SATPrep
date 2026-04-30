@@ -1,0 +1,16 @@
+{
+  "id": "q_135",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The human eye can detect light across the visible spectrum, however, it cannot perceive ultraviolet or infrared wavelengths without technological assistance. Many animals, including bees and certain birds, can see into the ultraviolet range, giving them perceptual access to patterns on flowers that are entirely invisible to humans.",
+  "question": "Which choice best corrects the error in the first sentence: \"The human eye can detect light across the visible spectrum, however, it cannot perceive ultraviolet or infrared wavelengths without technological assistance\"?",
+  "choices": {
+    "A": "The human eye can detect light across the visible spectrum, however, it cannot perceive ultraviolet or infrared wavelengths without technological assistance.",
+    "B": "The human eye can detect light across the visible spectrum; however, it cannot perceive ultraviolet or infrared wavelengths without technological assistance.",
+    "C": "The human eye can detect light across the visible spectrum: however, it cannot perceive ultraviolet or infrared wavelengths without technological assistance.",
+    "D": "The human eye can detect light across the visible spectrum, however it cannot perceive ultraviolet or infrared wavelengths without technological assistance."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence contains a comma splice: two independent clauses are joined with only a comma before the conjunctive adverb 'however.' Unlike coordinating conjunctions (and, but, or), 'however' cannot join two independent clauses with just a comma. A semicolon before 'however' (B) correctly connects the two independent clauses. A (NO CHANGE) retains the comma splice. C uses a colon before 'however,' which is incorrect—colons introduce lists, explanations, or elaborations after a complete clause, not contrastive independent clauses introduced by a conjunctive adverb. D removes the comma after 'however' but retains the comma splice before it, so the fundamental error is unchanged."
+}

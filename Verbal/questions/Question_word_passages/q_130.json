@@ -1,0 +1,16 @@
+{
+  "id": "q_130",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Classical economics held that markets, left undisturbed, would tend toward equilibrium: supply and demand would balance, resources would be allocated efficiently, and unemployment would remain a temporary, self-correcting anomaly. This framework held considerable intellectual authority through the early twentieth century. Then came the Great Depression. With unemployment persisting above 20% for years in the United States, and similar devastation across Europe, the self-correcting market seemed conspicuously absent.",
+  "question": "What function does the sentence \"Then came the Great Depression\" serve in the passage?",
+  "choices": {
+    "A": "It provides a historical definition of the Great Depression as a period of prolonged unemployment across multiple countries.",
+    "B": "It signals a sharp turn in the passage from describing an economic theory to presenting historical evidence that challenged it.",
+    "C": "It summarizes the preceding sentences by identifying the underlying cause of classical economics' intellectual authority.",
+    "D": "It establishes that classical economics remained dominant even after the onset of the Great Depression."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence 'Then came the Great Depression' marks the pivot from the theoretical (classical economics and its equilibrium claims) to the empirical (historical conditions that contradicted those claims). Its abrupt three-word structure signals a dramatic shift in the passage's direction (B). A is incorrect—the sentence does not define the Depression; the following sentences supply the specifics (unemployment above 20%). C is incorrect—the sentence introduces a challenge to the theory, not a summary or explanation of its authority. D is the opposite of what follows: the Depression is presented as evidence that undermined, not reinforced, classical economics."
+}

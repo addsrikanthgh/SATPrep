@@ -1,0 +1,16 @@
+{
+  "id": "q_630",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The historian described the treaty as a _______ peace: both sides knew when they signed it that the underlying disputes over territory and sovereignty remained unresolved, and that the agreement would hold only as long as neither power felt strong enough to resume hostilities.",
+  "question": "Which word best completes the sentence?",
+  "choices": {
+    "A": "precarious",
+    "B": "magnanimous",
+    "C": "durable",
+    "D": "unambiguous"
+  },
+  "correct_answer": "A",
+  "explanation": "'Precarious' means dangerously uncertain or unstable—perfectly fitting a peace that both sides knew was temporary, resting on neither party being ready to fight rather than on genuine resolution. Magnanimous (generous, noble) implies positive feelings between the parties, contradicted by the unresolved disputes. Durable (long-lasting) directly contradicts 'would hold only as long as neither power felt strong enough to resume.' Unambiguous (clear) contradicts the underlying unresolved tensions."
+}

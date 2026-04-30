@@ -1,0 +1,16 @@
+{
+  "id": "q_512",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The decline of local newspapers has accelerated in the United States over the past two decades. More than one-third of newspapers that existed in 2005 have closed. Research has linked newspaper closures to reduced civic participation, lower voter turnout, and increased government borrowing costs—as fewer journalists watch for fiscal malfeasance. These findings suggest that local journalism functions as a form of democratic infrastructure, not simply as a commercial enterprise.\n\nText 2: The crisis of local journalism is real, but it is worth noting that news deserts—communities with no local news outlet—vary widely in the effects they experience. Some research suggests that when print newspapers close, digital news outlets, community newsletters, and social media fill at least some of the informational gap. The effects of newspaper closure on civic outcomes may therefore depend heavily on what, if anything, replaces the newspaper and how effectively new outlets serve local accountability functions.",
+  "question": "Which statement best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 2 contradicts Text 1 by arguing that local newspaper closures have no negative effects.",
+    "B": "Both texts agree that the crisis of local journalism is serious, but Text 2 adds that the civic effects may vary depending on whether replacement outlets emerge.",
+    "C": "Text 1 argues that digital outlets fully replace local newspapers, while Text 2 argues they are inadequate.",
+    "D": "Text 2 argues that local newspapers are less important than social media for democratic accountability."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 documents negative civic effects of newspaper closures. Text 2 accepts that the crisis is real but qualifies the effects by noting they may vary depending on what replaces the newspapers. B accurately captures this relationship—both accept the crisis, but Text 2 nuances the assumed uniformity of the effects. A overstates Text 2—it acknowledges the crisis is 'real' and notes potential negative effects. C reverses the positions—Text 1 does not discuss digital replacements, and Text 2 notes they may partially fill the gap, not that they are inadequate. D is not the argument of Text 2."
+}

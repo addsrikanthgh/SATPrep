@@ -1,0 +1,16 @@
+{
+  "id": "q_351",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Mangrove forests grow along tropical and subtropical coastlines, their tangled root systems stabilizing sediment and providing nursery habitat for fish and crustaceans. They also act as natural storm barriers: during Cyclone Nargis in 2008, areas of the Myanmar coast where mangroves had been cleared for shrimp farming experienced significantly greater storm surge damage than areas where mangroves remained intact. Despite these services, mangroves have been destroyed at twice the rate of inland tropical forests due to aquaculture expansion, urban development, and timber extraction.",
+  "question": "Based on the passage, what can most reasonably be inferred about the economics of mangrove removal for shrimp farming?",
+  "choices": {
+    "A": "Shrimp farming in former mangrove areas is always more profitable than the value of the services the mangroves provided.",
+    "B": "The direct economic benefits of shrimp farming may not account for the loss of ecosystem services—including storm protection—that mangroves provide.",
+    "C": "Shrimp farming was the sole cause of mangrove destruction in the area affected by Cyclone Nargis.",
+    "D": "Areas where mangroves were preserved were less productive for fishing than areas where mangroves were removed."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage establishes that mangroves provide storm protection, nursery habitat, and sediment stabilization, and that areas cleared for shrimp farming experienced worse storm damage during Cyclone Nargis. This implies that the economic calculus for removal was incomplete—it did not fully account for the value of protective services lost. B correctly infers this economic gap. A makes the absolute claim that shrimp farming is always more profitable—unsupported and contradicted by the storm damage evidence. C misattributes sole causation to shrimp farming—the passage mentions multiple drivers of destruction. D contradicts the passage, which says mangroves provide nursery habitat for fish—suggesting preserved areas would be more productive for fishing."
+}

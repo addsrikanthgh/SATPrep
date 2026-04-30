@@ -1,0 +1,16 @@
+{
+  "id": "q_399",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the role of forests in the global carbon cycle. The student has taken the following notes:\n- Forests cover approximately 31% of Earth's land area and absorb roughly 2.6 billion tons of carbon dioxide per year.\n- Tropical forests are the most carbon-dense ecosystems on land; the Amazon rainforest alone stores an estimated 150–200 billion tons of carbon.\n- Deforestation accounts for approximately 10–15% of global greenhouse gas emissions annually.\n- When forests are burned or cleared, the stored carbon is released as CO₂, and the loss of trees also eliminates their ongoing carbon-absorbing capacity.\n- Reforestation and forest protection are consistently identified by climate scientists as among the most cost-effective tools for carbon sequestration.",
+  "question": "Which choice most effectively uses the notes to explain why deforestation represents a 'double loss' for climate stability?",
+  "choices": {
+    "A": "Deforestation contributes 10–15% of global greenhouse gas emissions and destroys trees that would otherwise absorb carbon dioxide.",
+    "B": "Deforestation represents a double loss for climate stability: it releases stored carbon as CO₂—an immediate greenhouse gas increase—while simultaneously eliminating forests' ongoing capacity to absorb roughly 2.6 billion tons of CO₂ per year, compounding the damage over time.",
+    "C": "Forests cover 31% of Earth's land and are important for climate regulation, which is why many scientists support forest protection policies.",
+    "D": "The Amazon alone stores 150–200 billion tons of carbon, so protecting tropical forests should be the top priority for climate action."
+  },
+  "correct_answer": "B",
+  "explanation": "B directly explains the 'double loss' framing by naming both components: the immediate release of stored carbon (the first loss) and the loss of ongoing absorption capacity (the 2.6 billion tons/year, the second loss). The phrase 'compounding the damage over time' connects the two losses coherently. A identifies both elements (emission + tree loss) but does not frame them as a 'double loss' or explain how the two interact to compound damage. C mentions the forest cover percentage and policy support but does not explain the double loss mechanism at all. D focuses only on the Amazon storage note and draws a policy conclusion, without addressing the double loss framing or the ongoing absorption capacity."
+}

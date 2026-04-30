@@ -1,0 +1,16 @@
+{
+  "id": "q_969",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The electric eel, despite its name, is not a true eel but a knifefish more closely related to catfish and carp. It can generate electric discharges of up to 600 volts to stun prey, navigate murky water, and communicate with other electric eels. The electric organ consists of approximately 6,000 specialized cells called electrocytes, which function like stacked biological batteries. High-voltage pulses are used for hunting and defense, while low-voltage pulses are used for navigation and communication.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the electric eel should be reclassified as a knifefish in all scientific and popular contexts.",
+    "B": "provide an informational overview of the electric eel's taxonomy and electric-generating abilities.",
+    "C": "compare the electric eel's abilities to those of other fish that generate electricity.",
+    "D": "explain why the electric eel's common name is more accurate than its scientific classification."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers the electric eel's taxonomy (not a true eel—a knifefish), its voltage capacity and functions, and the structure of its electric organ. It is an informational overview of two related topics: what the animal is and how its electric ability works. B correctly identifies this. A implies the passage makes an argument about reclassification, which it does not. C implies a comparison with other electric fish, which the passage does not make. D suggests the common name is more accurate than the scientific one, which contradicts the passage's correction of the name's inaccuracy."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_978",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The history of dietary guidelines in the United States reflects both the evolution of nutritional science and the influence of agricultural interests. The first USDA dietary guidelines in 1980 emphasized reducing fat and cholesterol, a recommendation grounded in research linking dietary saturated fat to cardiovascular disease. Subsequent decades brought challenges to this framework: some studies found that replacing saturated fat with refined carbohydrates worsened metabolic health outcomes, and distinctions emerged between different types of fats. By the 2015 guidelines, the recommendation to limit dietary cholesterol was largely dropped, and the guidance on fat became more nuanced. Critics continue to argue that economic pressures from the food industry have distorted guideline revisions at every stage.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A policy is presented, its scientific evolution is traced through challenges and revisions, and an ongoing critique is noted.",
+    "B": "Two opposing views on dietary science are compared, and one is declared correct based on recent evidence.",
+    "C": "The dangers of dietary fat are described in detail, and readers are provided with recommendations.",
+    "D": "The author endorses the most recent dietary guidelines as the culmination of a scientific process."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage begins with the 1980 dietary guidelines (the policy), traces how scientific challenges and new research led to revisions (evolution), and concludes with the note that critics argue economic pressures have distorted the process throughout (ongoing critique). A accurately maps this three-part structure: policy → evolution through challenges → ongoing critique. B implies two views are compared and one declared correct, but the passage is descriptive and presents a critique without resolving it. C implies prescriptive dietary advice, which the passage does not offer. D implies an endorsement by the author, who instead presents the revision process with continued debate noted."
+}

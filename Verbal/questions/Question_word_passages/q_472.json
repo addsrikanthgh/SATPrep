@@ -1,0 +1,16 @@
+{
+  "id": "q_472",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Most studies of music's effects on cognitive performance have tested participants listening to classical music—particularly Mozart—and found modest, short-lived improvements on certain spatial reasoning tasks. _______, a comprehensive meta-analysis published in 2010 found that the modest performance gains observed in these studies were explained entirely by differences in mood and arousal rather than anything unique to music or to classical music specifically.",
+  "question": "Which choice most effectively transitions between the first and second sentences?",
+  "choices": {
+    "A": "Furthermore",
+    "B": "That is",
+    "C": "Importantly, however,",
+    "D": "In particular"
+  },
+  "correct_answer": "C",
+  "explanation": "'Importantly, however,' signals both that the second sentence is significant information and that it contrasts with what the first sentence implied. The first sentence implies music may have a genuine cognitive benefit; the second sentence challenges this implication by explaining the gains away as mood/arousal effects. 'Furthermore' implies the meta-analysis adds further support for music's benefits. 'That is' implies the meta-analysis restates the original finding, but it reinterprets it. 'In particular' implies the meta-analysis narrows the scope of the first sentence's claim rather than challenging it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_981",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching the effects of sleep deprivation on cognitive performance and has taken the following notes:\n- Studies show that going 24 hours without sleep produces cognitive impairments comparable to a blood alcohol level of 0.10%.\n- Reaction time, decision-making accuracy, and working memory all decline significantly after 18–20 hours of wakefulness.\n- A 2003 study by Van Dongen et al. found that chronic partial sleep restriction (6 hours per night for two weeks) produced deficits equivalent to two full nights of total sleep deprivation.\n- Subjects in chronic sleep restriction studies often do not perceive their own impairment, rating their sleepiness as moderate even when performance data shows severe deficits.\n- Sleep deprivation disproportionately impairs the prefrontal cortex, the region responsible for planning, impulse control, and complex reasoning.",
+  "question": "The student wants to emphasize how sleep deprivation is particularly dangerous because affected individuals cannot accurately assess their own impairment. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Sleep deprivation causes significant impairments in reaction time, decision-making, and working memory, with 24 hours of wakefulness producing deficits comparable to a blood alcohol level of 0.10%.",
+    "B": "The prefrontal cortex—responsible for planning and complex reasoning—is especially vulnerable to sleep deprivation, which may explain why chronically sleep-restricted people continue to function without recognizing their deficits.",
+    "C": "Chronic partial sleep restriction of only six hours per night for two weeks produces performance deficits equivalent to two full nights without sleep, yet subjects consistently rate their sleepiness as only moderate, unable to perceive how severely impaired they have become.",
+    "D": "Sleep deprivation impairs multiple cognitive functions, including those governed by the prefrontal cortex, and the severity of these effects increases with both the duration and chronicity of sleep loss."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to emphasize the danger arising specifically from individuals' inability to assess their own impairment. Choice C combines two notes precisely aligned with this goal: the finding that chronic restriction (6 hours/night for two weeks) produces severe deficits, and the fact that subjects rate their sleepiness as only moderate despite those deficits. This combination directly supports the specific danger of unrecognized impairment. A focuses on impairment severity but not the self-assessment problem. B introduces prefrontal cortex impairment as a possible explanation for the perceptual gap—a plausible connection but speculative and not directly stated in the notes. D summarizes multiple effects without addressing the self-assessment issue."
+}

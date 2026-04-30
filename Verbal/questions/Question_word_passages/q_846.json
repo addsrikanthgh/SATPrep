@@ -1,0 +1,16 @@
+{
+  "id": "q_846",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The museum's renovation added three new galleries ______ the Impressionist wing, the photography archive, and the sculpture garden—all of which opened to strong public interest.",
+  "question": "Which choice correctly punctuates the list after 'three new galleries'?",
+  "choices": {
+    "A": "The museum's renovation added three new galleries: the Impressionist wing, the photography archive, and the sculpture garden—all of which opened to strong public interest.",
+    "B": "The museum's renovation added three new galleries, the Impressionist wing, the photography archive, and the sculpture garden—all of which opened to strong public interest.",
+    "C": "The museum's renovation added three new galleries; the Impressionist wing, the photography archive, and the sculpture garden—all of which opened to strong public interest.",
+    "D": "The museum's renovation added three new galleries— the Impressionist wing, the photography archive, and the sculpture garden—all of which opened to strong public interest."
+  },
+  "correct_answer": "A",
+  "explanation": "A colon is used after an independent clause to introduce a list. 'The museum's renovation added three new galleries' is an independent clause, and the list that follows names those galleries. A correctly uses a colon. B uses a comma, which is too weak and does not clearly signal the beginning of a formal list. C uses a semicolon, which is incorrect—semicolons separate independent clauses or list items that themselves contain commas; this list follows a complete independent clause and requires a colon. D uses an em dash before the list; while an em dash can introduce an elaboration, the sentence already closes with an em dash before 'all of which,' making the opening em dash ambiguous. A colon is the standard and clearest choice."
+}

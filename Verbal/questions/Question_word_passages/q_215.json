@@ -1,0 +1,16 @@
+{
+  "id": "q_215",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An urban school district piloted a structured reading intervention program in 12 elementary schools, providing 30 minutes of daily targeted reading instruction for students reading below grade level. After one academic year, students who received the intervention 5 days per week improved by an average of 1.4 grade levels on a standardized reading assessment. Students who received it 3–4 days per week improved by 0.9 grade levels. Those who received it 1–2 days per week improved by 0.4 grade levels. A matched control group at schools without the program improved by 0.2 grade levels over the same period.",
+  "question": "A district administrator argues that the reading intervention produces gains beyond typical growth and that greater exposure to the program correlates with larger gains. Which data most directly supports both parts of this argument?",
+  "choices": {
+    "A": "The control group, which received no intervention, improved by only 0.2 grade levels over the year.",
+    "B": "Students receiving the intervention 5 days per week improved by 1.4 grade levels, far exceeding the control group's 0.2 grade levels, and gains declined with reduced frequency: 0.9 grade levels at 3–4 days and 0.4 grade levels at 1–2 days.",
+    "C": "Students receiving the intervention 5 days per week improved by 1.4 grade levels, the highest of any group.",
+    "D": "Students receiving the intervention 1–2 days per week still outperformed the control group, improving 0.4 versus 0.2 grade levels."
+  },
+  "correct_answer": "B",
+  "explanation": "The administrator's claim has two components: (1) the program produces gains beyond typical growth, and (2) more exposure correlates with larger gains. B is the only choice that addresses both—it shows that all intervention frequencies exceeded the control group's 0.2 grade-level improvement (supporting part 1) AND shows the declining pattern of gains as frequency decreases: 1.4 → 0.9 → 0.4 (supporting part 2). A presents only the control group data, supporting part 1 but not part 2. C shows the highest-frequency group outperforming the control but does not establish the frequency–gain relationship. D compares one frequency level to the control without establishing a frequency-gain pattern."
+}

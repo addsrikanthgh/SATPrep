@@ -1,0 +1,16 @@
+{
+  "id": "q_830",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The economist warned that the proposed subsidy, while intended to protect domestic manufacturers, might have _______ effects: by shielding inefficient producers from competition, it could reduce innovation and make the industry less competitive globally in the long run.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "counterproductive",
+    "B": "unequivocal",
+    "C": "salutary",
+    "D": "ancillary"
+  },
+  "correct_answer": "A",
+  "explanation": "'Counterproductive' means having the opposite of the desired effect—the subsidy intended to help the industry may actually harm its long-term competitiveness, which is precisely counterproductive. 'Unequivocal' means entirely clear and without doubt—a description of certainty, not of harmful effects. 'Salutary' means producing positive effects; it is beneficial—the opposite of harmful. 'Ancillary' means providing support to the main activities—describing a secondary role, not harmful unintended consequences."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_240",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Linguists have documented more than 7,000 distinct languages currently spoken worldwide. The number is in rapid decline. Approximately half of these languages are expected to fall silent by the end of this century, the majority spoken by fewer than a thousand people and lacking written forms or institutional support. Each disappearing language takes with it a unique system of categorizing experience—color terms, spatial orientations, kinship structures—that no other language duplicates exactly.",
+  "question": "What function does the sentence \"The number is in rapid decline\" serve in the passage?",
+  "choices": {
+    "A": "It provides a specific prediction about the number of languages that will survive the century.",
+    "B": "It introduces a contrast between the apparent abundance of current languages and the trajectory of rapid loss, pivoting the passage from inventory to crisis.",
+    "C": "It explains why languages that lack written forms are more culturally significant than written languages.",
+    "D": "It concludes the passage's argument that language preservation requires institutional support."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence immediately follows the striking statistic of 7,000 languages and pivots the passage's direction: from cataloguing linguistic abundance to signaling an ongoing crisis of disappearance. The contrast between '7,000 languages' and 'rapid decline' creates the passage's central tension. B correctly identifies this contrast-and-pivot function. A misattributes the specific prediction to this sentence; that detail appears in the following sentence. C makes a comparative judgment about written vs. unwritten languages that the passage does not make and this sentence does not address. D misidentifies the sentence as a conclusion; it appears second in the passage and introduces the crisis the rest of the passage develops."
+}

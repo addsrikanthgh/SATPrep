@@ -1,0 +1,16 @@
+{
+  "id": "q_767",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The gig economy refers to a labor market characterized by short-term contracts and freelance work rather than permanent employment. Proponents argue it offers workers flexibility—the ability to set their own hours and work multiple jobs simultaneously—while allowing companies to scale their workforce up or down based on demand. Critics counter that gig workers typically lack the employment benefits that traditional employees receive, including health insurance, retirement contributions, paid leave, and unemployment protection. They also note that the flexibility gig economy companies advertise often masks power imbalances: workers may have little control over algorithms that determine their pay and access to work. The debate reflects a broader tension between labor market flexibility and worker security.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It presents the gig economy and then outlines the arguments made by both its supporters and its critics.",
+    "B": "It argues that the gig economy should be abolished and replaced with traditional employment models.",
+    "C": "It compares the wages earned by gig workers to those earned by traditional employees.",
+    "D": "It traces the historical development of the gig economy from its origins to its current scale."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage defines the gig economy and then symmetrically presents the arguments of proponents (flexibility, scalability) and critics (lack of benefits, algorithmic power imbalances). The closing sentence summarizes the underlying tension. A accurately captures this pro/con structure. B attributes an advocacy position the passage does not take—it presents both sides without endorsing one. C describes a wage comparison the passage does not perform. D traces historical development, which the passage does not do."
+}

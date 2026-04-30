@@ -1,0 +1,16 @@
+{
+  "id": "q_195",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "Each of the commission's seven members _______ submitted a separate dissenting opinion, a circumstance that the chair described as unprecedented in the organization's history.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "have",
+    "B": "has",
+    "C": "having",
+    "D": "were"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject of the sentence is 'Each,' not 'members.' 'Each' is a singular indefinite pronoun and always takes a singular verb. The prepositional phrase 'of the commission's seven members' is a modifier that does not change the grammatical number of the subject. Therefore, the singular verb 'has' (B) is required. 'Have' (A) is plural and would be appropriate only if the subject were 'members.' 'Having' (C) is a participle or gerund, not a conjugated verb—using it would leave the sentence without a main verb, creating a sentence fragment. 'Were' (D) is both plural and in the wrong tense (past tense does not fit the context established by the surrounding sentence structure implying present perfect)."
+}

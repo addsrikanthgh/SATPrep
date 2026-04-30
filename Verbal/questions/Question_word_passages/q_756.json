@@ -1,0 +1,16 @@
+{
+  "id": "q_756",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Ocean acidification occurs when the ocean absorbs carbon dioxide from the atmosphere; the CO₂ reacts with seawater to form carbonic acid, lowering the pH of the water. Since the Industrial Revolution, ocean pH has dropped from approximately 8.2 to 8.1—a drop of 0.1 pH units that represents a 26% increase in acidity because the pH scale is logarithmic. Many marine organisms—including corals, oysters, clams, and some zooplankton—build their shells and skeletons from calcium carbonate. As water becomes more acidic, calcium carbonate dissolves more readily, making shell formation energetically costly and, at sufficiently low pH levels, impossible.",
+  "question": "Based on the passage, what can most reasonably be inferred about the impact of ocean acidification on marine food webs?",
+  "choices": {
+    "A": "If acidification impairs the shell-forming zooplankton at the base of food webs, higher organisms that depend on them as a food source would also be affected.",
+    "B": "Ocean acidification has already destroyed most coral reef systems in the world's oceans.",
+    "C": "Marine mammals are the organisms most directly threatened by ocean acidification because they breathe at the ocean's surface where acidity is highest.",
+    "D": "The logarithmic nature of the pH scale means that future increases in acidity will have progressively smaller effects than the initial 0.1 pH drop."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage notes that zooplankton build shells from calcium carbonate and that acidification threatens shell formation. Zooplankton are foundational to marine food webs; inferring that their decline would affect organisms that depend on them is reasonable. A accurately extends the passage's logic. B overstates current damage—the passage describes a threat mechanism, not that most reefs have already been destroyed. C is not supported; marine mammals are not mentioned, and the passage describes the impact on shell-forming organisms, not air-breathers at the surface. D misapplies the logarithmic concept—the passage uses it to explain that a small pH drop represents a large percentage increase in acidity, not to predict smaller future effects."
+}

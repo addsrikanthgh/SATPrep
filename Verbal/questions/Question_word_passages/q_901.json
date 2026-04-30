@@ -1,0 +1,16 @@
+{
+  "id": "q_901",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Proponents of rewilding argue that reintroducing apex predators to ecosystems from which they have been eliminated can restore ecological balance through a process called a 'trophic cascade.' When wolves were reintroduced to Yellowstone National Park in 1995, deer populations declined, which allowed streamside vegetation to recover, which in turn stabilized riverbanks and improved habitat for fish and beavers. The effects cascaded through the ecosystem in ways that extended far beyond predator-prey dynamics.\n\nText 2: While the Yellowstone wolf reintroduction is frequently cited as a success story, some ecologists caution against treating it as a universal model. The specific conditions that allowed trophic cascades to occur—park boundaries that contained prey movement, a large and continuous wilderness area, and prior ecological degradation—may not be present in other regions. Reintroduction programs in fragmented or human-dominated landscapes face fundamentally different challenges that a single high-profile case study cannot resolve.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the argument in Text 1?",
+  "choices": {
+    "A": "By agreeing that trophic cascades are ecologically beneficial and should guide all rewilding policy",
+    "B": "By arguing that the Yellowstone wolf reintroduction was a failure that has been misrepresented",
+    "C": "By acknowledging the Yellowstone case while questioning whether its success can be generalized to other contexts",
+    "D": "By claiming that reintroducing predators always destabilizes ecosystems regardless of local conditions"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 does not dispute the success of Yellowstone but explicitly argues that 'specific conditions' made it work and that it should not be treated as a 'universal model.' This is a qualified agreement with contextual limitation—C accurately captures this stance. A overstates—Text 2 cautions against universal application. B misrepresents Text 2, which acknowledges Yellowstone as a 'success story.' D inverts Text 2's point—it argues context matters, not that reintroduction always destabilizes."
+}

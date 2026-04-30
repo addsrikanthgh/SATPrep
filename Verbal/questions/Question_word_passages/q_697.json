@@ -1,0 +1,16 @@
+{
+  "id": "q_697",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "Between 2000 and 2020, global forest area declined by approximately 100 million hectares, driven primarily by the conversion of forest land to agriculture. Yet this headline figure conceals significant regional variation. While tropical forests in South America and Southeast Asia experienced severe losses, forest cover in Europe and parts of North America actually increased during the same period, partly due to natural regeneration on abandoned agricultural land and partly due to deliberate reforestation programs. Moreover, not all forest losses are equal in ecological terms: the replacement of diverse, old-growth tropical forests with plantation monocultures significantly reduces biodiversity and carbon storage capacity even when the total area of 'forest' remains stable.",
+  "question": "What does the passage suggest about interpreting global deforestation statistics?",
+  "choices": {
+    "A": "Aggregate figures can obscure important regional differences and qualitative distinctions between forest types.",
+    "B": "Global deforestation statistics are unreliable because they are collected by different agencies using incompatible methods.",
+    "C": "The loss of European and North American forests has been more ecologically damaging than tropical forest loss.",
+    "D": "Reforestation programs have been so successful globally that net deforestation has effectively been halted."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage argues that the global figure of 100 million hectares lost 'conceals significant regional variation' and further notes that even stable or growing forest area statistics can mask ecological degradation if natural forests are replaced by monocultures. A captures both of these points about the limitations of aggregate statistics. B introduces a methodological critique about data collection that is not raised in the passage. C inverts the passage's emphasis; tropical forests are described as ecologically richer, so their loss is more significant, not less. D overstates the reforestation discussion; the passage notes forest gains in some regions but does not say net deforestation has been halted globally."
+}

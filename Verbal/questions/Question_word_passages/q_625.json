@@ -1,0 +1,16 @@
+{
+  "id": "q_625",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The documentary filmmaker was praised for treating her subjects with ________: rather than reducing complex individuals to symbols of social problems, she allowed their contradictions and ambiguities to emerge fully on screen.",
+  "question": "Which word best completes the sentence?",
+  "choices": {
+    "A": "nuance",
+    "B": "contempt",
+    "C": "brevity",
+    "D": "uniformity"
+  },
+  "correct_answer": "A",
+  "explanation": "'Nuance' means sensitivity to subtle distinctions and complexity—fitting a filmmaker praised for portraying 'contradictions and ambiguities' rather than reducing people to symbols. Contempt (disrespect) contradicts the praise. Brevity (conciseness) is about length, not depth of treatment. Uniformity (sameness) contradicts the emphasis on individual complexity and difference."
+}

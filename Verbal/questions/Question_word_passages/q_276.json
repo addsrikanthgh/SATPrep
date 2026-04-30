@@ -1,0 +1,16 @@
+{
+  "id": "q_276",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "The relationship between sleep and memory consolidation has become one of the most active areas of neuroscience research. Sleep was long assumed to be a passive state of rest, but researchers have found that it is a period of intense neural activity during which the brain replays and reorganizes the day's experiences. Specifically, slow-wave sleep appears to transfer newly acquired information from the hippocampus—which serves as a temporary storage site—to the neocortex for long-term retention. Disrupting slow-wave sleep impairs this transfer, reducing retention of both declarative memories (facts and events) and procedural memories (skills and habits).",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Sleep is a passive restorative state during which the brain stores all new information in the hippocampus permanently.",
+    "B": "The neocortex is the most important brain structure for learning new information.",
+    "C": "Sleep, far from being passive, plays an active role in memory consolidation by transferring information from the hippocampus to the neocortex during slow-wave sleep.",
+    "D": "Procedural memories are stored differently from declarative memories and therefore require more sleep to consolidate."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage's central argument is that sleep is not passive but actively consolidates memory by transferring information from hippocampus to neocortex during slow-wave sleep. C accurately captures this active-sleep-as-memory-consolidation thesis. A directly contradicts the passage on two counts: it says sleep is passive (the passage says it isn't) and that information is stored in the hippocampus permanently (the passage says the hippocampus is temporary storage). B focuses only on one part of the transfer process and does not capture the passage's argument about sleep's role. D makes a comparative claim about procedural versus declarative memory consolidation time that the passage does not make."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_729",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The professor, as well as several of her graduate students, _______ planning to attend the symposium in Vienna.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "is",
+    "B": "are",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "A",
+  "explanation": "The grammatical subject of this sentence is 'The professor,' not 'graduate students.' The phrase 'as well as several of her graduate students' is a parenthetical modifier, not part of the compound subject (it is not joined by 'and'). Because 'as well as' introduces a parenthetical addition rather than a coordinate conjunction, the verb must agree with the main subject, 'The professor,' which is singular. 'Is' (A) correctly agrees with the singular subject. 'Are' (B) and 'were' (C) are plural. 'Have been' (D) is plural and shifts to a different tense."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_228",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Critics praised the debut novel for its unflinching portrait of grief. Readers responded differently. Sales were modest in the first year, and reader reviews frequently described the book as 'exhausting' and 'relentless.' The author herself, in a later interview, observed that she had written not to comfort but to indict—to force the reader into the discomfort of grief rather than allowing the usual narrative distance. Whether one regards the novel as a triumph of honesty or an act of aesthetic aggression depends entirely on what one believes fiction is for.",
+  "question": "What function does the sentence \"Readers responded differently\" serve in the passage?",
+  "choices": {
+    "A": "It introduces a contradiction between critical reception and popular reception, which the passage then develops.",
+    "B": "It summarizes the author's intention in writing the novel.",
+    "C": "It argues that popular taste is a more reliable measure of literary quality than critical consensus.",
+    "D": "It concedes that the novel's critics were mistaken in their praise."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence immediately follows the critics' positive assessment and signals a divergence in the audience response—a split that the next sentences develop by citing modest sales and negative reader language. Its function is to introduce the critical/popular divide that structures the paragraph. A correctly identifies this as the introduction of a contradiction. B misattributes the author's intention to this sentence; the author's perspective appears later in the passage. C makes an evaluative judgment about popular taste that the passage does not make. D incorrectly says critics were 'mistaken'—the passage never disputes the critical praise, only notes it was not shared by readers."
+}

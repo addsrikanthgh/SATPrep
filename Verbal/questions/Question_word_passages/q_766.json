@@ -1,0 +1,16 @@
+{
+  "id": "q_766",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Insects were the first animals to evolve flight, approximately 350 million years ago—roughly 150 million years before the first flying reptiles appeared. The evolutionary origin of insect wings remains debated. One hypothesis proposes that wings evolved from thoracic gills in aquatic ancestors; another argues they developed from extensions of the thoracic wall used for gliding. Regardless of their origin, insect wings proved extraordinarily successful: flight allowed insects to colonize new environments, escape predators, and locate food and mates with unprecedented efficiency. Today, insects are the most species-rich group of animals on Earth, with over a million described species and estimates suggesting millions more remain undescribed.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "describe the early evolution of insect flight, acknowledge ongoing debate about its origins, and explain the evolutionary advantages that made flight so successful for insects.",
+    "B": "argue that the gills hypothesis for the origin of insect wings is more scientifically credible than the thoracic-wall hypothesis.",
+    "C": "trace the evolutionary history of all flying animals, from insects to birds, in chronological order.",
+    "D": "propose a new hypothesis for how insect wings evolved based on recent fossil evidence."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage covers insect flight's early timing, presents two competing hypotheses for wing origin without endorsing either, and then explains why flight was advantageous (colonizing environments, escaping predators, locating resources). A correctly captures all three elements of the passage. B attributes a preference for the gills hypothesis that the passage does not express—it presents both hypotheses as open debates. C describes a comprehensive survey of flying animals, but the passage mentions pterosaurs only briefly as a timeline comparison. D introduces a new hypothesis based on new fossils, which the passage does not do."
+}

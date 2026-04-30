@@ -1,0 +1,16 @@
+{
+  "id": "q_498",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "hard",
+  "passage": "The concept of 'social capital,' popularized by the sociologist Robert Putnam, refers to the networks of relationships among people that facilitate coordination, trust, and collective action. Putnam distinguished between 'bonding' capital—strong ties within a homogeneous group—and 'bridging' capital—weaker but broader ties across different groups. In Bowling Alone, Putnam argued that both forms of social capital in the United States had declined sharply since the mid-twentieth century, as civic organizations withered, volunteerism fell, and community engagement of all kinds decreased. Later scholars have both extended and challenged Putnam's framework. Some have argued that new digital forms of sociality have created different kinds of social capital not captured by Putnam's measures; others have questioned whether the decline Putnam observed was as uniform as he suggested, noting that social capital may have shifted in form rather than diminished overall.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Putnam's work definitively proved that social capital in the United States has declined and will continue to decline as civic organizations disappear.",
+    "B": "Putnam developed the concept of social capital and argued for its decline in America, but subsequent scholars have questioned whether his measures fully captured social changes in the digital era.",
+    "C": "Social capital is primarily formed through digital networks, which have replaced traditional civic organizations as the main source of community bonds.",
+    "D": "Bridging capital is more valuable than bonding capital because it connects people across different groups and therefore produces more social trust."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces Putnam's framework and his argument about declining social capital, then describes two scholarly challenges: that digital sociality creates new forms of social capital, and that the decline may be a shift in form rather than an absolute reduction. B accurately captures both Putnam's contribution and the subsequent critique. A overstates Putnam's claims as definitive and ignores the critique entirely. C contradicts Putnam's argument and overstates what the later critics actually claimed. D introduces a value judgment about bonding vs. bridging capital that the passage does not make."
+}

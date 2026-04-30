@@ -1,0 +1,16 @@
+{
+  "id": "q_197",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "The political philosopher Hannah Pitkin distinguished between two models of political representation. In the 'formalistic' model, representation is established by authorization and accountability: a representative is someone who has been authorized to act for others and is held accountable for those actions through elections or other mechanisms. In the 'substantive' model, what matters is not the formal relationship but the content of actions: a representative actually represents a group's interests and perspectives, regardless of whether a formal authorization exists. Pitkin herself favored substantive representation, arguing that the purpose of democratic institutions should be to ensure that citizens' interests are genuinely acted upon, not merely that procedural rituals of authorization are observed.",
+  "question": "A political scientist argues that a long-serving legislator who has never lost an election may still fail to represent her constituents. Which quotation from the passage best supports this argument?",
+  "choices": {
+    "A": "\"a representative is someone who has been authorized to act for others and is held accountable for those actions through elections or other mechanisms\"",
+    "B": "\"what matters is not the formal relationship but the content of actions: a representative actually represents a group's interests and perspectives\"",
+    "C": "\"Pitkin herself favored substantive representation\"",
+    "D": "\"The political philosopher Hannah Pitkin distinguished between two models of political representation\""
+  },
+  "correct_answer": "B",
+  "explanation": "The political scientist's claim is that electoral success (winning elections, formal authorization) is insufficient to establish genuine representation. This aligns with the substantive model: what matters is whether the representative actually acts on constituents' interests, not whether the formal mechanisms of authorization have been followed. B quotes the passage's articulation of the substantive model, which directly supports the claim that the formal relationship (winning elections) is not sufficient. A quotes the formalistic model, which would actually undermine the political scientist's argument by defining representation as established by elections—precisely what the argument disputes. C is a statement about Pitkin's preference, not evidence about what representation requires. D is only an introductory framing statement with no evidential content."
+}

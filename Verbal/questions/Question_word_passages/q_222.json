@@ -1,0 +1,16 @@
+{
+  "id": "q_222",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "For decades, economic models treated household labor—cooking, childcare, elder care—as outside the productive economy because it was unpaid. The implications of this exclusion were enormous. National income statistics systematically understated the economic contribution of women, who performed the majority of such labor. Policy debates about poverty, productivity, and inequality proceeded from a distorted baseline. Only when feminist economists began documenting and quantifying household labor in the 1970s and 1980s did mainstream discourse begin to acknowledge what had been rendered invisible.",
+  "question": "What function does the sentence \"The implications of this exclusion were enormous\" serve in the passage?",
+  "choices": {
+    "A": "It provides a specific example of how household labor was excluded from economic models.",
+    "B": "It transitions from describing an exclusionary practice to elaborating on the far-reaching consequences that followed from it.",
+    "C": "It introduces a counterargument against the decision to exclude household labor from GDP calculations.",
+    "D": "It concludes the passage by summarizing the feminist economists' contribution to economic theory."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence follows the description of economists' exclusion of household labor and precedes several sentences detailing specific downstream effects (distorted income statistics, skewed policy debates). The sentence functions as a transitional signal—alerting the reader that the passage is shifting from explaining the practice to detailing its consequences. B accurately describes this bridge function. A is wrong because the sentence makes no reference to a specific example; it is a broad summary claim. C misidentifies the sentence as a counterargument; it does not challenge the practice but instead notes its impact. D is incorrect because the sentence appears in the middle of the passage, not the conclusion."
+}

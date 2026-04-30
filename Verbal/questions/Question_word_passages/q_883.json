@@ -1,0 +1,16 @@
+{
+  "id": "q_883",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "The lymphatic system is a network of tissues, organs, and vessels that performs several crucial functions in the human body. It maintains fluid balance by collecting excess fluid from the body's tissues and returning it to the bloodstream. It plays a central role in immune defense by transporting white blood cells called lymphocytes to sites of infection. Lymphatic vessels also absorb dietary fats and fat-soluble vitamins from the small intestine, delivering them to the blood. Disease or blockage of the lymphatic system can result in swelling, increased susceptibility to infection, and nutritional deficiencies.",
+  "question": "According to the passage, which of the following is a function of the lymphatic system?",
+  "choices": {
+    "A": "Producing red blood cells that carry oxygen throughout the body",
+    "B": "Absorbing dietary fats from the small intestine and transporting them to the bloodstream",
+    "C": "Filtering waste products from the blood through the kidneys",
+    "D": "Regulating blood pressure by controlling the volume of fluid in the heart"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that 'lymphatic vessels also absorb dietary fats and fat-soluble vitamins from the small intestine, delivering them to the blood.' B correctly identifies this function. A describes a function of bone marrow, not the lymphatic system. C describes a renal function, which the passage does not mention. D describes a cardiovascular regulation function, also not mentioned in the passage."
+}

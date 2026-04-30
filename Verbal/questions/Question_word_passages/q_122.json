@@ -1,0 +1,16 @@
+{
+  "id": "q_122",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "easy",
+  "passage": "The Mongol Empire at its height was the largest contiguous land empire in history, it stretched from the Pacific coast of East Asia to Eastern Europe. The administrative genius of Kublai Khan helped sustain this vast territory for several decades.",
+  "question": "Which choice best corrects the underlined sentence: \"The Mongol Empire at its height was the largest contiguous land empire in history, it stretched from the Pacific coast of East Asia to Eastern Europe\"?",
+  "choices": {
+    "A": "The Mongol Empire at its height was the largest contiguous land empire in history, it stretched from the Pacific coast of East Asia to Eastern Europe.",
+    "B": "The Mongol Empire at its height was the largest contiguous land empire in history. It stretched from the Pacific coast of East Asia to Eastern Europe.",
+    "C": "The Mongol Empire at its height was the largest contiguous land empire in history it stretched from the Pacific coast of East Asia to Eastern Europe.",
+    "D": "The Mongol Empire at its height was the largest contiguous land empire in history, stretching also from the Pacific coast of East Asia and to Eastern Europe."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined portion is a comma splice: two independent clauses ('The Mongol Empire at its height was the largest contiguous land empire in history' and 'it stretched from the Pacific coast of East Asia to Eastern Europe') are joined only by a comma. B corrects this by separating them into two distinct sentences with a period. A (NO CHANGE) retains the comma splice. C removes the comma but creates an even more egregious run-on sentence with no punctuation separating the two independent clauses. D introduces the word 'also' without justification and uses 'and to Eastern Europe,' which is grammatically awkward."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_265",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "The anthropologist Anna Tsing has argued that global capitalism does not produce a single homogenized world but instead depends on and actively generates patches of difference—regional ecologies, local labor practices, and cultural particularities—that it can extract value from. In her account, the standardized commodity supply chains that appear to flatten the world are maintained only through continuous negotiation with the irreducibly particular conditions of specific places. Tsing's framework challenges both the pessimistic view that globalization destroys local culture and the optimistic view that it simply connects pre-existing local economies; instead, she argues that the local and the global are co-produced in ways that cannot be analyzed separately.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Tsing argues that global capitalism is primarily responsible for the destruction of local cultural practices worldwide.",
+    "B": "Tsing's framework holds that global capitalism requires and produces local difference, challenging both pessimistic and optimistic narratives about globalization.",
+    "C": "Tsing contends that commodity supply chains are more standardized than economists have typically recognized.",
+    "D": "The anthropological study of globalization has shown that local economies were more integrated before the rise of global capitalism."
+  },
+  "correct_answer": "B",
+  "explanation": "Tsing's argument, as the passage presents it, has two main components: (1) global capitalism depends on and generates local difference rather than eliminating it, and (2) this understanding challenges both the pessimistic view (globalization destroys the local) and the optimistic view (it connects pre-existing locals). B captures both components. A distorts Tsing's argument—she argues the opposite, that global capitalism generates local difference rather than simply destroying it. C misrepresents the passage; Tsing argues supply chains appear standardized but are actually maintained through negotiation with particular local conditions. D introduces a historical claim about pre-capitalist integration that is not present in the passage."
+}

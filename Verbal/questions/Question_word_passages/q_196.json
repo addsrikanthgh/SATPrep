@@ -1,0 +1,16 @@
+{
+  "id": "q_196",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The concept of 'digital amnesia'—the tendency to offload memory to devices rather than retain information internally—represents a genuine cognitive shift. Research by Betsy Sparrow and colleagues found that when people expect to be able to look up information later, they are less likely to remember it. This is not merely laziness; it reflects an adaptive strategy in which the brain conserves resources by not encoding what is externally available.\n\nText 2: Warnings about technology degrading human cognitive capacities are not new. Critics of writing in antiquity feared that the ability to record information would erode memory. Critics of print worried about information overload. In each case, the technology did alter cognitive practices, but in ways that ultimately expanded human intellectual capacity by extending what could be remembered and communicated. Digital tools should be seen as the latest extension of this long tradition of cognitive outsourcing.",
+  "question": "How would the author of Text 2 most likely respond to the claim in Text 1 that digital amnesia 'represents a genuine cognitive shift'?",
+  "choices": {
+    "A": "By arguing that the Sparrow study's findings are methodologically flawed and cannot be generalized.",
+    "B": "By agreeing that the shift is real but placing it in a historical pattern in which such shifts have consistently expanded rather than diminished intellectual capacity.",
+    "C": "By dismissing the concept of digital amnesia as purely speculative and unsupported by evidence.",
+    "D": "By arguing that the brain's offloading of memory to devices is harmful precisely because it cannot be reversed."
+  },
+  "correct_answer": "B",
+  "explanation": "The author of Text 2 does not deny that technology changes cognition—Text 2 explicitly says 'the technology did alter cognitive practices.' What Text 2 disputes is the implication that such shifts are harmful. Its argument is historical: each previous cognitive shift (writing, print) ultimately expanded intellectual capacity. Applied to Text 1's claim, Text 2's author would accept the 'genuine cognitive shift' point while recontextualizing it within this historical pattern of beneficial cognitive outsourcing. B accurately captures this nuanced agreement-with-reframing response. A involves a methodological critique not present in Text 2. C mischaracterizes Text 2's position; it does not dismiss cognitive change as speculative but rather reframes its significance. D attributes a claim about irreversibility to Text 2's author that does not appear in that text."
+}

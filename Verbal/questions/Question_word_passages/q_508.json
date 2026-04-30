@@ -1,0 +1,16 @@
+{
+  "id": "q_508",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Many developmental psychologists believe that the first three years of life are a critical period for language acquisition. During this window, the brain is highly plastic and particularly sensitive to language input. Children exposed to rich, varied language during infancy and toddlerhood develop larger vocabularies and stronger literacy skills in later childhood. The quality and quantity of language spoken to infants—not just child-directed speech but adult conversation overheard by children—appears to matter.\n\nText 2: More recent research has suggested that language learning does not stop being efficient after age three. Studies of late language learners—children adopted internationally who began learning a new language at ages five, seven, or even older—have shown that children can achieve native or near-native proficiency when immersed in a new language, even outside the traditional 'critical period.' While early input is clearly beneficial, the strict notion of a critical period may need to be replaced by a model of sensitive periods that gradually close rather than end abruptly.",
+  "question": "Based on both texts, which statement best describes the relationship between the two views presented?",
+  "choices": {
+    "A": "Text 2 completely rejects Text 1 by arguing that language learning is equally efficient at all ages.",
+    "B": "Both texts agree that the critical period for language acquisition ends definitively at age three.",
+    "C": "Text 1 emphasizes early input as critical, while Text 2 qualifies this by suggesting the 'critical period' may be a gradual sensitive period rather than a fixed window.",
+    "D": "Text 2 argues that language input has no measurable effect on vocabulary or literacy development."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 presents a strong case for a critical period in the first three years, while Text 2 qualifies this by presenting evidence that late language learners can still achieve near-native proficiency, suggesting 'sensitive periods that gradually close' rather than a hard cutoff. C accurately captures this relationship—Text 2 qualifies rather than entirely rejects Text 1. A overstates Text 2—it acknowledges 'early input is clearly beneficial.' B is contradicted by Text 2, which challenges the strict critical period model. D contradicts Text 1, which Text 2 does not dispute in this particular claim."
+}

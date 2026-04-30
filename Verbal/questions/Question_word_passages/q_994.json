@@ -1,0 +1,16 @@
+{
+  "id": "q_994",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching the history and impact of the printing press and has taken the following notes:\n- Johannes Gutenberg developed movable type printing in Europe around 1440, enabling mass production of books for the first time.\n- Before the printing press, books were copied by hand, making them scarce and expensive; literacy was largely confined to clergy and nobility.\n- Within 50 years of Gutenberg's invention, approximately 20 million books had been printed across Europe.\n- The printing press accelerated the spread of both the Protestant Reformation (by enabling mass distribution of Martin Luther's 95 Theses) and scientific ideas (by allowing research to circulate widely).\n- Some historians argue the press also spread misinformation more rapidly than oral culture had allowed, a dynamic they compare to modern digital media.",
+  "question": "The student wants to convey the transformative social impact of the printing press by showing how it changed access to information. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Johannes Gutenberg developed movable type printing in Europe around 1440, making him one of the most influential inventors in Western history.",
+    "B": "Some historians argue that the printing press accelerated the spread of misinformation, a dynamic they see as analogous to the challenges posed by modern digital media.",
+    "C": "By enabling the mass production of books in a world where hand-copied texts were scarce and expensive, the printing press transformed access to information: within 50 years, approximately 20 million books circulated across Europe, putting knowledge within reach of populations beyond the clergy and nobility.",
+    "D": "The printing press enabled the rapid spread of Martin Luther's 95 Theses, contributing to the Protestant Reformation, and also facilitated the circulation of scientific research across European intellectual communities."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to show how the press changed access to information—the transformative social impact. C integrates the before/after contrast (handcopied scarcity → mass production), the scale of change (20 million books in 50 years), and the social reach implication (beyond clergy and nobility). This comprehensively illustrates the transformation in access. A identifies Gutenberg but makes no specific claim about information access transformation. B focuses on the misinformation parallel—an interesting comparison but not the transformation in access. D focuses on specific intellectual movements (Reformation, science) but doesn't directly address the democratization of access."
+}

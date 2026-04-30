@@ -1,0 +1,16 @@
+{
+  "id": "q_706",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Mindfulness meditation, which involves focusing sustained attention on present-moment experience without judgment, has been shown in numerous clinical trials to reduce symptoms of anxiety and depression. Researchers attribute the benefits partly to reduced rumination: mindfulness practice appears to interrupt the cycles of repetitive negative thinking that characterize many mood disorders.\n\nText 2: A 2022 meta-analysis of 136 randomized controlled trials found that while mindfulness-based interventions produced statistically significant reductions in anxiety symptoms, the effect sizes were modest—comparable to those produced by other active treatments such as exercise and psychoeducation. The authors cautioned against overstating the unique or superior benefits of mindfulness relative to other evidence-based approaches.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 2 confirms that mindfulness reduces anxiety but qualifies Text 1's implicit claim by noting that the benefits are not uniquely superior to other interventions.",
+    "B": "Text 2 contradicts Text 1 by finding that mindfulness meditation has no statistically significant effect on anxiety or depression.",
+    "C": "Text 2 challenges Text 1's explanation of why mindfulness works by offering an alternative account of the mechanism.",
+    "D": "Text 2 expands the scope of Text 1 by identifying additional conditions, beyond anxiety and depression, that mindfulness can treat."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 presents mindfulness as effective for anxiety and depression and offers a mechanism (reduced rumination). Text 2 confirms effectiveness (statistically significant reductions) but adds an important qualification: the effect sizes are modest and comparable to other approaches—so mindfulness is not uniquely superior. A accurately reflects this confirming-but-qualifying relationship. B misrepresents Text 2, which finds statistically significant effects, not null results. C is incorrect—Text 2 does not challenge the mechanism explanation; it addresses effect size, not the rumination account. D is incorrect—Text 2 does not extend the list of conditions treated; it focuses on comparing effect sizes."
+}

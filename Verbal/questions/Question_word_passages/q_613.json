@@ -1,0 +1,16 @@
+{
+  "id": "q_613",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "Public health researchers argued that the primary driver of increasing antibiotic resistance in hospitals is the overprescription of broad-spectrum antibiotics in outpatient clinical settings—not antibiotic use in agriculture. They contended that reducing unnecessary prescriptions in doctors' offices and urgent care clinics would have a larger impact on resistance rates than restricting agricultural antibiotic use.",
+  "question": "Which finding, if true, would most directly support the researchers' argument that outpatient overprescription is the primary driver?",
+  "choices": {
+    "A": "Countries that have implemented strict restrictions on agricultural antibiotic use have not seen significant reductions in the prevalence of antibiotic-resistant infections in human patients.",
+    "B": "Hospitals that implemented antibiotic stewardship programs—restricting the types and quantities of antibiotics prescribed within the hospital—saw significant decreases in resistant infection rates.",
+    "C": "Agricultural antibiotic use accounts for more than 70% of total antibiotic consumption in the United States by weight.",
+    "D": "Patients who do not complete a full course of antibiotics are more likely to harbor resistant bacterial strains than those who complete the full course."
+  },
+  "correct_answer": "A",
+  "explanation": "The researchers argue outpatient prescribing (not agriculture) is the primary driver. A supports this by showing that restricting agricultural use doesn't significantly reduce human resistance rates—consistent with agriculture not being the primary driver. B addresses inpatient hospital stewardship (not outpatient), so it's less directly targeted. C shows agriculture accounts for large volumes but doesn't show agriculture is the primary driver of human resistance. D is about patient compliance and is relevant to general resistance but doesn't compare outpatient prescribing to agriculture."
+}

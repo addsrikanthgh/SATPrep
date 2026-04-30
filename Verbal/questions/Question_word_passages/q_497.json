@@ -1,0 +1,16 @@
+{
+  "id": "q_497",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "The history of scientific discovery is full of cases where a finding was dismissed or ignored for years because it did not fit existing theoretical expectations. When Barry Marshall and Robin Warren proposed in the 1980s that stomach ulcers were caused by the bacterium Helicobacter pylori, the medical establishment initially rejected the idea, in part because it was widely believed that the stomach's acidic environment was too hostile for any bacterium to survive. Marshall famously swallowed a culture of H. pylori himself to demonstrate its pathogenicity, and the two eventually received the Nobel Prize in Physiology or Medicine in 2005. Their story is often cited as an example of how entrenched assumptions can impede scientific progress.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Marshall and Warren's work demonstrates that bacteria cannot survive in acidic environments.",
+    "B": "The discovery that H. pylori causes ulcers illustrates how established assumptions can initially block acceptance of valid scientific findings.",
+    "C": "Nobel Prizes are typically awarded to scientists who challenge mainstream consensus rather than those who confirm it.",
+    "D": "The most effective way for scientists to prove their findings is to conduct self-experiments, as Marshall did."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage traces how Marshall and Warren's discovery was initially rejected because it conflicted with the prevailing assumption about bacteria and stomach acidity, and concludes by explicitly stating their story 'is often cited as an example of how entrenched assumptions can impede scientific progress.' B captures this central lesson. A contradicts the passage—H. pylori does survive in the stomach's acidic environment, which is part of why the discovery was surprising. C is an overgeneralization not supported by the passage. D elevates self-experimentation to a general principle, which the passage does not do."
+}

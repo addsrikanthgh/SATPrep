@@ -1,0 +1,16 @@
+{
+  "id": "q_836",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "Unlike the hasty reforms of the previous administration, the new policy framework was _______ in its approach: every provision was tested in pilot programs across diverse communities before being incorporated into national legislation.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "incremental",
+    "B": "sweeping",
+    "C": "ideological",
+    "D": "arbitrary"
+  },
+  "correct_answer": "A",
+  "explanation": "'Incremental' means proceeding in small, gradual steps rather than all at once—piloting provisions before legislating them is a step-by-step, incremental approach. This contrasts explicitly with the 'hasty reforms' of the previous administration. 'Sweeping' means broad and comprehensive—and implies rapid change, closer to the 'hasty' approach being contrasted. 'Ideological' means motivated by ideology rather than pragmatic testing—the opposite of an evidence-based piloting approach. 'Arbitrary' means random and without reason—the approach is highly deliberate."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_705",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The philosopher John Locke argued that legitimate political authority derives from the consent of the governed. On his account, individuals in a 'state of nature' enter political society by consenting to be governed in exchange for protection of their natural rights to life, liberty, and property. Any government that violates these rights forfeits its claim to legitimacy, and the people retain the right to dissolve it.\n\nText 2: The political theorist Carole Pateman has argued that the social contract tradition, including Locke's version, is built on a prior and unacknowledged 'sexual contract' that excluded women from the supposedly universal category of rational individuals capable of consenting. The 'individuals' who form political society in social contract theory were, historically and implicitly, propertied men—women were governed by a separate, private sphere of authority to which the public contract did not apply.",
+  "question": "How does Pateman's argument in Text 2 relate to Locke's theory in Text 1?",
+  "choices": {
+    "A": "Pateman argues that Locke's theory, despite its universal language, was premised on an implicit exclusion of women from political consent, limiting the scope of its egalitarian claims.",
+    "B": "Pateman agrees with Locke's framework but argues that the state of nature he describes has already been achieved in modern liberal democracies.",
+    "C": "Pateman challenges Locke's account by arguing that governments should not be dissolved even when they violate natural rights.",
+    "D": "Pateman extends Locke's theory by proposing that women should be granted the same property rights as men within the existing consent framework."
+  },
+  "correct_answer": "A",
+  "explanation": "Pateman critiques social contract theory (including Locke's) by arguing that its universal claims about 'individuals' consenting were implicitly gendered—women were excluded from the political sphere that the contract governed. This critique does not reject the idea of consent altogether but exposes the limited scope of who counted as a consenting individual. A accurately captures this critique as identifying an implicit exclusion that undermines the universality of Locke's egalitarian language. B misrepresents Pateman, who challenges, not endorses, the framework. C is not Pateman's argument; she does not address when governments should be dissolved. D misrepresents Pateman as extending Locke, when she is actually exposing a structural exclusion within his framework."
+}

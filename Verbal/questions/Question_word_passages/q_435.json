@@ -1,0 +1,16 @@
+{
+  "id": "q_435",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The historian argued that the revolution was less a rupture with the past than a culmination of it—that the forces that made it possible had been accumulating, often invisibly, for decades, and that the dramatic events of a few months merely precipitated an outcome long in preparation.",
+  "question": "As used in the passage, 'precipitated' most nearly means",
+  "choices": {
+    "A": "caused to fall suddenly, as in rain or snow.",
+    "B": "brought about suddenly, hastening an outcome that was already impending.",
+    "C": "delayed or postponed an event that might otherwise have occurred.",
+    "D": "created an entirely new situation with no prior cause."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the dramatic events 'merely precipitated' an outcome 'long in preparation'—meaning they triggered or hastened something that was already set in motion, not that they created it from nothing. B captures the sense of hastening an impending outcome. A is the meteorological sense (precipitation as rain/snow). C is the opposite—precipitate means to speed up, not delay. D contradicts the passage's argument that the revolution was a culmination, not a rupture."
+}

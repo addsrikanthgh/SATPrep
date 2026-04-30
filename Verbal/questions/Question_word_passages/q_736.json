@@ -1,0 +1,16 @@
+{
+  "id": "q_736",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The jury _______ deliberating for three days before returning a verdict of not guilty on all charges.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "spent",
+    "B": "have spent",
+    "C": "were spending",
+    "D": "are spending"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence describes a completed past action: the jury deliberated and then returned a verdict. The simple past tense 'spent' (A) correctly describes a completed action in the past and is consistent with the other past-tense element ('returning a verdict'). 'Have spent' (B) is present perfect and implies a connection to the present that is not supported by the context of a completed trial. 'Were spending' (C) is past progressive, which would describe an ongoing past action rather than a completed one; it also does not fit before 'before returning a verdict.' 'Are spending' (D) is present tense and inconsistent with the past-time context."
+}

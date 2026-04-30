@@ -1,0 +1,16 @@
+{
+  "id": "q_627",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The committee's report was _______ in its praise: it acknowledged the program's successes in glowing terms while carefully omitting any mention of the cost overruns, the missed deadlines, and the staff complaints that had dominated the internal review.",
+  "question": "Which word best completes the sentence as used in context?",
+  "choices": {
+    "A": "tendentious",
+    "B": "impartial",
+    "C": "exhaustive",
+    "D": "candid"
+  },
+  "correct_answer": "A",
+  "explanation": "'Tendentious' means promoting a particular point of view by selectively presenting information. The report is 'tendentious in its praise' because it highlights successes while omitting failures—a biased, one-sided presentation. Impartial means fair and balanced, which is the opposite of what is described. Exhaustive means thorough and comprehensive—the report is explicitly not exhaustive because it omits negative information. Candid means honest and transparent, which is also contradicted by the selective omissions."
+}

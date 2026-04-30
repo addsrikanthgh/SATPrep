@@ -1,0 +1,16 @@
+{
+  "id": "q_274",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "The concept of the 'sublime' in eighteenth-century aesthetics referred not to beauty but to an overpowering encounter with vastness, obscurity, or overwhelming force that simultaneously terrified and elevated the observer. Edmund Burke distinguished the sublime from the beautiful by arguing that beauty produces pleasure through smoothness and familiarity, while the sublime produces a paradoxical mixture of awe and dread rooted in the proximity of danger. The Alps, ocean storms, and Milton's depiction of Satan were all cited as examples. Kant later reformulated the concept, locating its ultimate source not in external objects but in the observer's own capacity for reason, which alone can comprehend the infinite and thereby triumph over the sense of physical limitation that sublime encounters provoke.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Both Burke and Kant argued that the sublime and the beautiful are fundamentally the same aesthetic experience.",
+    "B": "The eighteenth-century concept of the sublime described a powerful, paradoxical aesthetic experience, with Burke locating its source in external danger and Kant relocating it to the observer's rational capacity.",
+    "C": "The sublime is an exclusively literary concept that applies only to depictions of overwhelming natural forces in poetry and prose.",
+    "D": "Kant's reformulation of the sublime was universally rejected by aestheticians who preferred Burke's more concrete definition."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces the eighteenth-century concept of the sublime, explains Burke's account (external danger producing awe-dread), and then presents Kant's reformulation (source is the observer's own rational capacity). B captures both thinkers' contributions and their relationship. A directly contradicts the passage—Burke explicitly distinguished the sublime from the beautiful. C is incorrect; the passage describes the sublime as applying to natural landscapes (the Alps, ocean storms) and real human experiences, not only to literary depictions. D introduces a claim about universal rejection of Burke's view that is not present in the passage."
+}

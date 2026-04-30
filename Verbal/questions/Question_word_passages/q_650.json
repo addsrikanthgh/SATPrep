@@ -1,0 +1,16 @@
+{
+  "id": "q_650",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The prime minister's speech addressed three concerns: the rising cost of energy, the shortage of affordable housing _______ and the need for investment in public transit.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "housing,",
+    "B": "housing;",
+    "C": "housing:",
+    "D": "housing—"
+  },
+  "correct_answer": "A",
+  "explanation": "This is a standard serial comma situation: three items are listed after a colon. The items are separated by commas, and a comma before the final 'and' in a series (the Oxford comma) is the standard format. A comma (A) correctly separates the second item from the third in the series. A semicolon (B) would be used only if the items in the list themselves contained internal commas; the listed items here do not. A colon or em dash (C, D) are both incorrect as mid-list separators."
+}

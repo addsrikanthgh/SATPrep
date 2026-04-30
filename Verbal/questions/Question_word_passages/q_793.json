@@ -1,0 +1,16 @@
+{
+  "id": "q_793",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "While researching a topic, a student has taken the following notes:\n- The CRISPR-Cas9 gene-editing tool allows scientists to make precise cuts to DNA sequences.\n- It was adapted from a natural bacterial immune defense mechanism.\n- Jennifer Doudna and Emmanuelle Charpentier were awarded the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9 as a gene-editing tool.\n- CRISPR has shown promise in treating sickle cell disease: a 2023 clinical trial demonstrated that 28 of 29 patients were free of pain crises 18 months after treatment.\n- Ethical concerns include the potential for heritable germline editing—changes to embryos that would be passed to future generations—and unequal access to the technology.",
+  "question": "The student wants to introduce CRISPR-Cas9 and highlight both a promising application and an ethical concern. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "CRISPR-Cas9, a Nobel Prize-winning gene-editing tool adapted from bacterial immune defense, has shown remarkable promise in treating sickle cell disease, while raising ethical concerns about heritable changes and unequal access.",
+    "B": "Jennifer Doudna and Emmanuelle Charpentier won the 2020 Nobel Prize in Chemistry for developing CRISPR-Cas9.",
+    "C": "In a 2023 clinical trial, 28 of 29 sickle cell patients were free of pain crises 18 months after CRISPR treatment.",
+    "D": "Ethical concerns about CRISPR include germline editing and unequal access to the technology."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to introduce CRISPR-Cas9 and highlight a promising application and an ethical concern. A introduces the tool (Nobel Prize-winning, adapted from bacterial defense), cites its promising application (treating sickle cell disease), and notes the ethical concerns (heritable changes, unequal access). It accomplishes all three elements of the goal. B mentions only the Nobel Prize context, not an application or ethical concern. C gives only the trial statistic—no introduction or ethical concern. D presents only ethical concerns—no introduction or application."
+}

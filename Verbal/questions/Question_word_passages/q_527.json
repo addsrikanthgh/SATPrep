@@ -1,0 +1,16 @@
+{
+  "id": "q_527",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The lead researcher said that she and _______ colleagues had been working on the vaccine formulation for seven years before the breakthrough.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "her",
+    "B": "hers",
+    "C": "their",
+    "D": "she and her"
+  },
+  "correct_answer": "A",
+  "explanation": "The blank requires a possessive pronoun modifying the noun 'colleagues.' 'Her' is the correct possessive adjective form (modifying a noun). A is correct. B ('hers') is a standalone possessive pronoun used when the noun is not stated (e.g., 'the colleagues are hers'), not before a noun. C ('their') refers to a plural or gender-unspecified third party; the sentence requires a pronoun referring to the singular 'she.' D ('she and her') creates a grammatical error—'she' cannot be the subject in this possessive context."
+}

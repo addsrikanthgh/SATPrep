@@ -1,0 +1,16 @@
+{
+  "id": "q_972",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The Amazon River discharges roughly 20 percent of all the freshwater that enters the world's oceans, more than the next seven largest rivers combined. Its basin, covering about 5.5 million square kilometers, hosts the largest tropical rainforest on Earth. The forest and the river are deeply interdependent: the forest's trees release enormous quantities of water vapor through transpiration, which forms clouds and falls as rain. Researchers have described this self-sustaining cycle as a 'flying rivers' phenomenon, in which the forest effectively generates its own rainfall and stabilizes regional climate.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the Amazon rainforest should be protected from deforestation.",
+    "B": "describe the Amazon River's size and explain the interdependent relationship between the river, forest, and regional water cycle.",
+    "C": "compare the Amazon River's water discharge to that of other major rivers on each continent.",
+    "D": "explain the meteorological causes of rainfall in tropical climates worldwide."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage begins with the Amazon's remarkable freshwater volume, then establishes the basin's extent and forest, and finally describes the interdependence between forest transpiration, cloud formation, rainfall, and the 'flying rivers' cycle. B correctly captures both the descriptive and explanatory dimensions of the passage. A introduces a policy argument that the passage does not make. C implies a systematic comparison of rivers, while the passage only mentions comparative size as an opening fact. D implies a broad explanation of tropical meteorology, while the passage focuses specifically on the Amazon basin's localized cycle."
+}

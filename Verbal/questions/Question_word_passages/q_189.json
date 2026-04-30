@@ -1,0 +1,16 @@
+{
+  "id": "q_189",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "The field of cognitive linguistics challenges the view that language is merely a neutral vehicle for expressing pre-existing thoughts. Instead, cognitive linguists argue that the structures of language actively shape how speakers conceptualize the world. Studies of spatial reasoning, for example, have found that speakers of languages using absolute directions (north, south, east, west) rather than relative ones (left, right, in front of) demonstrate different navigation strategies and maintain a constant sense of cardinal orientation even indoors. Similarly, research on the grammatical encoding of time suggests that cultures whose languages place the past ahead of them and the future behind conceptualize temporal sequence differently than English speakers do.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Languages that use absolute directions produce better navigators than languages that rely on relative directions.",
+    "B": "Cognitive linguistics argues that the structures of language influence how speakers think and perceive the world, as demonstrated by cross-linguistic research on spatial and temporal reasoning.",
+    "C": "The English-speaking world's conceptualization of time and space is less accurate than that of speakers of languages with different grammatical structures.",
+    "D": "Cognitive linguists have proven that thought is impossible without language, since all concepts are shaped by the language in which they are expressed."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage makes a central theoretical claim (language structures shape thought) and then supports it with two examples: spatial direction differences and temporal conceptualization differences. B accurately captures both the theoretical claim and its evidential basis without overstating. A draws a comparative quality judgment ('better navigators') that the passage never makes—it describes different strategies, not superior ones. C makes a comparative accuracy judgment about English that is not supported by the passage. D overstates the thesis; the passage argues language shapes conceptualization, not that thought is impossible without language—these are significantly different claims."
+}

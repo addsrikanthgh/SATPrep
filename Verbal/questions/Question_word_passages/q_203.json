@@ -1,0 +1,16 @@
+{
+  "id": "q_203",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "easy",
+  "passage": "A 2022 study examined daily recreational screen time and scores on a sustained attention task among 600 elementary school students. Students averaging fewer than 1 hour of daily screen time scored a mean of 78 points. Those averaging 1–2 hours scored 72 points. Students averaging 2–3 hours scored 65 points, and those averaging more than 3 hours scored 54 points.",
+  "question": "A child development researcher claims that greater recreational screen time is associated with lower sustained attention in elementary school students. Which data from the study most directly supports this claim?",
+  "choices": {
+    "A": "The study enrolled 600 students and measured attention using a standardized task.",
+    "B": "Students with fewer than 1 hour of daily screen time scored the highest, at 78 points.",
+    "C": "Students averaging more than 3 hours of daily screen time scored the lowest, at 54 points.",
+    "D": "Attention scores declined with each successive increase in daily screen time, from 78 points for students with under 1 hour to 54 points for students with over 3 hours."
+  },
+  "correct_answer": "D",
+  "explanation": "The researcher's claim is that more screen time is associated with lower attention—a trend claim requiring evidence across all groups. D describes the full pattern of declining scores across all four screen time categories, which most directly and completely supports the claimed association. B and C each cite only one endpoint of the data and cannot alone establish an association. A is a methodological detail that provides no evidence of a relationship between screen time and attention."
+}

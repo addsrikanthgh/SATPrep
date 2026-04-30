@@ -1,0 +1,16 @@
+{
+  "id": "q_993",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is researching the philosophy of free will and determinism and has taken the following notes:\n- Hard determinism holds that every event, including every human action and decision, is the inevitable result of prior causes; free will is therefore an illusion.\n- Compatibilism holds that free will and determinism are not contradictory: free will means acting in accordance with one's own desires and reasoning, not acting free of causal chains.\n- Libertarian free will (philosophical, not political) holds that humans possess genuine free agency that is not fully determined by prior causes; some versions appeal to quantum indeterminacy.\n- Neuroscientist Benjamin Libet's experiments (1980s) showed that brain activity predicting a movement begins several hundred milliseconds before participants report consciously deciding to move.\n- Some philosophers argue that Libet's results undermine free will; others argue the experiments test only a narrow, specific type of conscious decision and do not speak to free will in more complex reasoning or deliberation.",
+  "question": "The student wants to explain why Libet's experiments do not necessarily resolve the free will debate. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Libet's experiments demonstrated that unconscious brain activity precedes conscious awareness of a decision by several hundred milliseconds, providing neuroscientific evidence relevant to the free will debate.",
+    "B": "Compatibilists argue that free will simply means acting according to one's own desires rather than being free of causal chains, suggesting that even if determinism is true, a meaningful form of free will exists.",
+    "C": "Because Libet's experiments tested only simple spontaneous wrist movements, philosophers who study free will argue that the findings do not apply to the complex deliberative reasoning—weighing reasons, planning, and reflecting on values—that most conceptions of free will concern.",
+    "D": "Hard determinists argue that all human actions, including the apparent choice to move one's wrist, are predetermined by prior causes—a position that Libet's results appear to support."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to explain why Libet's experiments do not resolve the free will debate. The relevant note states that 'others argue the experiments test only a narrow, specific type of conscious decision and do not speak to free will in more complex reasoning or deliberation.' C elaborates precisely on this limitation—Libet tested simple wrist movements, not complex deliberative reasoning—and explicitly explains the scope of the objection. This is the most focused and precise answer to why the experiments don't resolve the debate. A summarizes the experiments but doesn't address why they don't resolve the debate. B introduces compatibilism, which sidesteps the Libet experiments entirely. D explains the hard determinist interpretation that supports Libet's findings rather than explaining their limitations."
+}

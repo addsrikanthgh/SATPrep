@@ -1,0 +1,16 @@
+{
+  "id": "q_676",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Early cinema was a purely visual medium; films relied entirely on actors' facial expressions, exaggerated gestures, and intertitles to convey dialogue and emotion. _______ when synchronized sound technology became commercially viable in the late 1920s, the industry underwent rapid transformation: many silent film stars whose voices audiences found unconvincing were replaced by stage actors trained in spoken performance.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Subsequently,",
+    "B": "Therefore,",
+    "C": "In contrast,",
+    "D": "Even so,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes silent cinema and its conventions. The second describes what happened after—when synchronized sound arrived. This is a temporal sequence: the introduction of sound followed the silent era. 'Subsequently' (A) correctly signals that the second sentence describes what happened next in time. 'Therefore' (B) implies the shift to sound was a logical consequence of the limitations of silent film, which oversimplifies the historical relationship (it was driven by technology, not the inadequacy of silent methods). 'In contrast' (C) could partially work but 'Subsequently' more precisely captures the temporal sequence. 'Even so' (D) implies the second sentence occurred despite something, which doesn't fit."
+}

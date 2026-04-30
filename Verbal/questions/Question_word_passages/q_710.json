@@ -1,0 +1,16 @@
+{
+  "id": "q_710",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: The Coriolis effect causes moving air masses in the Northern Hemisphere to deflect to the right relative to their direction of motion, and to the left in the Southern Hemisphere. This deflection gives rise to the characteristic counterclockwise rotation of low-pressure systems (cyclones) in the Northern Hemisphere.\n\nText 2: Contrary to the popular belief that water drains clockwise in the Southern Hemisphere and counterclockwise in the Northern Hemisphere due to the Coriolis effect, the direction of water draining from a sink or bathtub is overwhelmingly determined by the shape of the basin and the motion of the water when filling—not by the Coriolis force. The Coriolis effect is real but only significant over large spatial scales, such as weather systems; it is far too weak to reliably influence small-scale water flow.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 describes a genuine phenomenon; Text 2 clarifies that the same phenomenon does not apply at small scales such as sink drains.",
+    "B": "Text 2 contradicts Text 1 by arguing that the Coriolis effect does not cause counterclockwise cyclone rotation in the Northern Hemisphere.",
+    "C": "Text 1 focuses on Southern Hemisphere weather patterns, while Text 2 focuses on Northern Hemisphere household plumbing.",
+    "D": "Both texts argue that the Coriolis effect is too weak to have any measurable influence on atmospheric phenomena."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 describes the Coriolis effect as the cause of cyclone rotation direction—a large-scale atmospheric phenomenon. Text 2 corrects a popular misconception by explaining that the Coriolis effect does not govern small-scale water flow (sink drains). Text 2 does not deny the Coriolis effect; it specifies its scale of applicability. A accurately captures this relationship: Text 1 describes the phenomenon at the appropriate scale; Text 2 corrects a misapplication of it at the wrong scale. B misrepresents Text 2, which confirms, not denies, the Coriolis effect's role in large-scale systems. C misrepresents both texts' geographic focuses. D contradicts both texts—Text 1 says the effect causes cyclone rotation; Text 2 says it's real but only significant at large scales."
+}

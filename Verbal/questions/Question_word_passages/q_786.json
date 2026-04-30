@@ -1,0 +1,15 @@
+{
+  "id": "q_786",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Traditional ceramic production fires clay at temperatures between 1,000°C and 1,400°C.\n- High-temperature firing makes ceramics durable and water-resistant but requires significant energy.\n- Researchers at MIT have developed a cold sintering process that bonds ceramic materials at room temperature using a small amount of liquid and modest pressure.\n- Cold sintering reduces energy use by approximately 90% compared to conventional firing.\n- The process currently works for a limited range of ceramic materials and requires further development for broader applications.\n\nThe student wants to compare traditional ceramic production with the new cold sintering process. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "While traditional ceramic production requires high-temperature firing between 1,000°C and 1,400°C, MIT's cold sintering process bonds ceramic materials at room temperature with roughly 90% less energy.",
+    "B": "Cold sintering currently works for only a limited range of ceramic materials and requires further development before it can be more broadly applied.",
+    "C": "Traditional ceramic production fires clay at high temperatures, making the resulting products durable and water-resistant.",
+    "D": "Researchers have developed a cold sintering process that bonds ceramics using liquid and modest pressure rather than heat."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to compare the two methods. A directly contrasts the key distinguishing features: traditional uses high-temperature firing (1,000–1,400°C), cold sintering uses room temperature with ~90% less energy. It places the two methods side by side. B focuses only on the limitation of cold sintering—it does not compare the two methods. C describes only traditional ceramics without mentioning cold sintering. D describes the cold sintering mechanism without comparing it to traditional production."
+}

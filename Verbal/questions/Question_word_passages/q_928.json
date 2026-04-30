@@ -1,0 +1,16 @@
+{
+  "id": "q_928",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "After ______ for the position for three months, the candidate was finally offered a contract.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "waiting",
+    "B": "having waited",
+    "C": "she waited",
+    "D": "to wait"
+  },
+  "correct_answer": "A",
+  "explanation": "The introductory phrase 'After ______ for the position for three months' must share its implied subject with the main clause's subject, 'the candidate.' This requires a participial or gerund construction, not a new clause with a separate subject. 'Waiting' (present participle) correctly forms the participial phrase 'After waiting for three months, the candidate...' 'Having waited' (perfect participle) is also grammatically correct in this structure and implies the waiting preceded the offer (which it did), making it a plausible alternative. However, 'waiting' is the more direct and conventional form for this temporal construction. 'She waited' introduces a new subject and creates a dangling modifier. 'To wait' is an infinitive and cannot follow 'After' as a participial phrase."
+}

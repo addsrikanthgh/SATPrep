@@ -1,0 +1,16 @@
+{
+  "id": "q_166",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The Harlem Renaissance is frequently narrated as a literary and artistic movement centered on a narrow geography and a celebrated cast of figures—Langston Hughes, Zora Neale Hurston, Jean Toomer. This framing, while not inaccurate, has tended to obscure the movement's breadth. The Renaissance was also a visual arts movement, a music movement, and a political movement, whose networks extended through Chicago, Philadelphia, and Washington, D.C., not only Manhattan. More recently, scholars have begun to contest the 1920s boundaries of the Renaissance itself, arguing that its energies were continuous with both post-Reconstruction cultural institution-building and the mid-century literary radicalism of Richard Wright and Ann Petry.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the literary figures of the Harlem Renaissance were less significant than its visual artists and musicians.",
+    "B": "challenge the sufficiency of the dominant narrative of the Harlem Renaissance by widening its geographic, artistic, and temporal scope.",
+    "C": "explain why scholars have recently shifted their focus from the Harlem Renaissance to the Civil Rights Movement.",
+    "D": "provide a chronological history of African American cultural movements from Reconstruction through the mid-twentieth century."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage identifies the conventional narrow narrative (certain authors, New York, 1920s), acknowledges it is 'not inaccurate,' and then systematically argues for broadening it along three axes: artistic (visual arts, music, politics), geographic (Chicago, Philadelphia, D.C.), and temporal (pre-1920s roots, mid-century extensions). The purpose is to challenge the dominant framing's sufficiency (B). A makes a comparative value judgment about literary versus other figures that the passage does not make. C introduces the Civil Rights Movement, which the passage never mentions. D describes a comprehensive chronological history, but the passage has no such ambition—it focuses on critiquing and expanding one narrative."
+}

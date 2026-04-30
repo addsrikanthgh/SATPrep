@@ -1,0 +1,16 @@
+{
+  "id": "q_200",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The novelist's prose is distinguished by its unsentimental precision. She neither mourns the past nor celebrates the present; she renders experience in language stripped of ornament. In her treatment of grief, for example, she refuses the consolations of metaphor—no departed relatives become stars, no losses are reframed as journeys. Her sentences about loss are declarative and unadorned, their austerity a kind of ethical commitment to accuracy over comfort.",
+  "question": "As used in the passage, \"austerity\" most nearly means",
+  "choices": {
+    "A": "financial hardship",
+    "B": "stylistic severity and restraint",
+    "C": "emotional detachment from characters",
+    "D": "rigid adherence to traditional literary forms"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes the novelist's prose as 'declarative and unadorned,' 'stripped of ornament,' and refusing metaphorical consolations. 'Austerity' in this context refers to the quality of these sentences: their severe simplicity and deliberate lack of embellishment. 'Stylistic severity and restraint' (B) captures this sense precisely. 'Financial hardship' (A) is a common meaning of 'austerity' in economic contexts but is entirely irrelevant to a description of prose style. 'Emotional detachment from characters' (C) confuses stylistic restraint with a narrator's emotional relationship to characters—the passage discusses the style of sentences, not the author's feelings toward her subjects. 'Rigid adherence to traditional literary forms' (D) imports the idea of formalism, which the passage does not address; the austerity described is about simplicity and lack of ornament, not adherence to conventions."
+}

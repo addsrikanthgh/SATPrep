@@ -1,0 +1,16 @@
+{
+  "id": "q_903",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The genre of the lyric essay, developed in the late twentieth century, occupies a space between poetry and prose, combining the music and compression of verse with the argumentative and exploratory possibilities of the essay. Unlike the traditional personal essay, which typically moves toward a resolved conclusion, the lyric essay embraces fragmentation, associative leaps, and irresolution, reflecting the subjective and discontinuous nature of consciousness and memory.\n\nText 2: The 'lyric essay' label, while fashionable in creative writing programs, obscures more than it clarifies. The claim that a piece of writing defies genre simply by being fragmentary or personal is not itself a sufficient definition. Virtually all experimental or hybrid writing can be described as occupying a space between existing forms. What distinguishes a lyric essay from a fragmented short story, or from a particularly evocative prose poem? Without clearer defining criteria, the term risks becoming a marketing label for any difficult or unconventional writing.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the definition offered in Text 1?",
+  "choices": {
+    "A": "By agreeing that the lyric essay successfully synthesizes the best features of poetry and prose",
+    "B": "By arguing that the defining features listed in Text 1 are too vague to distinguish the lyric essay from other hybrid forms",
+    "C": "By claiming that the lyric essay is inferior to traditional personal essays because it lacks resolution",
+    "D": "By contending that all personal writing is essentially lyric in nature, making the term redundant"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 argues that claims about 'occupying a space between forms' and being 'fragmentary' are insufficient as genre-defining features because these characteristics apply to many experimental texts. The author asks what distinguishes the lyric essay from a fragmented short story or prose poem—exactly the kind of question that challenges whether Text 1's features are adequately specific. B correctly identifies this as a critique of Text 1's definitional vagueness. A is the opposite of Text 2's stance. C misrepresents Text 2, which criticizes definitional vagueness, not irresolution as a literary quality. D introduces a claim Text 2 does not make."
+}

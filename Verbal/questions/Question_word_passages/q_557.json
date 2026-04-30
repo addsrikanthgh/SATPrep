@@ -1,0 +1,16 @@
+{
+  "id": "q_557",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In recent decades, the proportion of workers in the United States employed in manufacturing has fallen sharply, from roughly 25 percent of the workforce in 1970 to under 10 percent today. Much of this decline is attributed to automation and productivity improvements: factories now produce more goods with far fewer workers. Some economists argue that trade with lower-wage countries has also played a role, while others contend that technology is the dominant factor. Workers displaced from manufacturing have often struggled to find comparable employment, particularly in regions where manufacturing was concentrated.",
+  "question": "Based on the passage, what can most reasonably be inferred about the economic impact of manufacturing decline on workers in affected regions?",
+  "choices": {
+    "A": "Workers displaced from manufacturing found it easy to transition to new industries because service sector jobs are plentiful in all regions.",
+    "B": "The decline in manufacturing employment has disproportionately affected workers in regions dependent on manufacturing, where alternatives may be scarce.",
+    "C": "Manufacturing job losses have had no lasting effect on workers because automation creates new jobs in equal numbers.",
+    "D": "The manufacturing workforce will return to 1970 levels as automation creates demand for robot technicians and maintenance workers."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that 'workers displaced from manufacturing have often struggled to find comparable employment, particularly in regions where manufacturing was concentrated.' B correctly infers the geographic and socioeconomic concentration of the impact. A is directly contradicted—the passage says workers 'struggled to find comparable employment.' C is not supported—the passage makes no claim about automation creating equal numbers of replacement jobs. D is not supported by the passage and contradicts the trend described."
+}

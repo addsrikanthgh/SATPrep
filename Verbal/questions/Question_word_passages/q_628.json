@@ -1,0 +1,16 @@
+{
+  "id": "q_628",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "After years of methodical accumulation, the researcher's dataset had grown to an _______ size—so vast that even the most powerful computers required weeks to analyze it, and the team had to develop entirely new analytical techniques to make sense of the information.",
+  "question": "Which word most naturally and precisely completes the sentence?",
+  "choices": {
+    "A": "unwieldy",
+    "B": "negligible",
+    "C": "inadequate",
+    "D": "finite"
+  },
+  "correct_answer": "A",
+  "explanation": "'Unwieldy' means too large or complex to handle easily—precisely fitting a dataset so large it requires weeks to process and demands new analytical techniques. Negligible means insignificantly small—the opposite of what is described. Inadequate means insufficient—contradicted by 'vast' and the weeks of processing time required. Finite simply means having a limit, which is true of all datasets and carries no special meaning in context."
+}

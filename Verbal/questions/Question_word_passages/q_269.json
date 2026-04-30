@@ -1,0 +1,16 @@
+{
+  "id": "q_269",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "Composting transforms organic waste—food scraps, yard clippings, paper—into a nutrient-rich soil amendment through the action of microorganisms, fungi, and invertebrates. When done correctly, composting accelerates natural decomposition, diverting organic material from landfills where it would otherwise decompose anaerobically and produce methane, a potent greenhouse gas. The resulting compost improves soil structure, water retention, and microbial diversity, reducing the need for synthetic fertilizers and pesticides. Municipal composting programs have demonstrated that large-scale implementation is feasible and cost-effective.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Composting is a natural process that occurs only in forests and other undisturbed ecosystems.",
+    "B": "Composting is an environmentally beneficial process that diverts waste from landfills, improves soil health, and can be implemented at scale.",
+    "C": "Synthetic fertilizers are more effective than compost at improving crop yields.",
+    "D": "Municipal composting programs face significant cost barriers that limit their widespread adoption."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers composting's three main benefits: diverting organic material from landfills (reducing methane emissions), improving soil health, and the feasibility of municipal-scale programs. B synthesizes these points into the central idea. A contradicts the passage, which describes composting as a human-managed process applied to food scraps and yard clippings, not as something limited to undisturbed ecosystems. C contradicts the passage, which positions compost as reducing the need for synthetic fertilizers—implying compost is comparable or superior, not inferior. D contradicts the passage, which states that municipal composting programs have shown large-scale implementation is 'feasible and cost-effective.'"
+}

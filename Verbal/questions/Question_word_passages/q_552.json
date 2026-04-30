@@ -1,0 +1,16 @@
+{
+  "id": "q_552",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In the 1970s, Robert Trivers proposed the theory of parent-offspring conflict: parents and offspring have different optimal levels of parental investment from an evolutionary standpoint. A parent shares fifty percent of its genes with each offspring and benefits from distributing resources across multiple offspring to maximize reproductive success. Each offspring, however, shares one hundred percent of its own genes and therefore 'values' its own survival and development twice as much as a parent should—from the parent's perspective. Trivers predicted that this asymmetry would result in genuine conflict: offspring that demand more resources than parents are selected to provide.",
+  "question": "Based on the passage, what can most reasonably be inferred about why offspring and parents conflict over resource allocation?",
+  "choices": {
+    "A": "Offspring conflict with parents because offspring are unaware of the existence of sibling competitors.",
+    "B": "The conflict arises because each offspring's evolutionary interest in its own survival is greater than any single offspring's evolutionary importance from the parent's perspective, given the parent's interest in spreading resources across multiple offspring.",
+    "C": "Parent-offspring conflict is caused by environmental scarcity; when resources are plentiful, no conflict occurs.",
+    "D": "Parents are in conflict with offspring because parents share no genes with their offspring."
+  },
+  "correct_answer": "B",
+  "explanation": "Trivers's argument, as described, hinges on the difference in genetic relatedness: each offspring values itself 100% but a parent values it only 50% relative to the next offspring. B correctly infers this as the source of conflict. A is not supported—the passage does not discuss siblings' awareness. C is not supported—the theory predicts conflict based on genetic asymmetry, not environmental scarcity. D is directly contradicted—the passage explicitly states parents share 50% of genes with each offspring."
+}

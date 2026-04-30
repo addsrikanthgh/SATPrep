@@ -1,0 +1,16 @@
+{
+  "id": "q_514",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The Columbian Exchange—the transfer of plants, animals, and diseases between the Americas and the Old World following 1492—permanently transformed global agriculture and diet. Crops originating in the Americas, including maize, potatoes, tomatoes, and cacao, became staples in Europe, Africa, and Asia. The potato alone is credited with supporting rapid population growth in northern Europe during the eighteenth century by providing a calorie-dense crop that could be grown on poor soils. Without American crops, the demographic and economic history of the world would have been radically different.\n\nText 2: The Columbian Exchange was not an exchange of equals. While Old World crops and livestock did find their way to the Americas, the primary flow was one of devastation: the diseases traveling from the Old World—smallpox, measles, typhus—killed an estimated fifty to ninety percent of Indigenous populations in the Americas within a century of contact, depending on the region. The labor of colonized and enslaved populations in the Americas helped produce the crops that entered Old World diets. The concept of 'exchange' risks obscuring the violent asymmetry at the heart of this historical process.",
+  "question": "How does Text 2 complicate the perspective presented in Text 1?",
+  "choices": {
+    "A": "Text 2 denies that American crops had any significant impact on Old World populations.",
+    "B": "Text 2 argues that the Columbian Exchange involved only disease transmission, not crop transfer.",
+    "C": "Text 2 challenges the neutrality of the 'exchange' framing by highlighting the violent asymmetry and catastrophic population loss on the American side.",
+    "D": "Text 2 argues that the Old World crops sent to the Americas were more economically valuable than American crops sent to the Old World."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 discusses the Columbian Exchange in neutral, positive terms (crop transfers, population growth, demographic change). Text 2 challenges the 'exchange' framing by pointing out the catastrophic mortality of Indigenous peoples and the role of colonialism and slavery in producing the crops Text 1 celebrates. C accurately captures this critique of Text 1's framing. A is directly contradicted by Text 2, which does not deny Old World impact of American crops. B misrepresents Text 2, which acknowledges both disease and crops. D introduces a value comparison not made in Text 2."
+}

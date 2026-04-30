@@ -1,0 +1,16 @@
+{
+  "id": "q_668",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Several studies have found that students who take brief breaks every 45 to 60 minutes retain information more effectively than those who study for extended periods without interruption. _______ many schools and workplaces continue to structure their schedules around long, uninterrupted work blocks.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "Therefore,",
+    "C": "Moreover,",
+    "D": "Specifically,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence presents research evidence that breaks improve retention. The second describes a contradictory reality: institutions ignore this evidence and maintain long uninterrupted work blocks. The second sentence is a concessive contrast—despite the evidence, the practice persists. 'Nevertheless' (A) correctly signals this concessive relationship ('despite the evidence, X continues'). 'Therefore' (B) would imply the long blocks resulted from or are justified by the research, which is the opposite of the intended meaning. 'Moreover' (C) would add a supporting point, not a contrasting practice. 'Specifically' (D) would introduce a narrower illustration of the first claim."
+}

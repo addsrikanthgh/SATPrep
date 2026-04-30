@@ -1,0 +1,16 @@
+{
+  "id": "q_163",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "Adam Smith's The Wealth of Nations is often invoked to support laissez-faire economic policies, yet readers who engage with the full text frequently find this reception puzzling. Smith harbored deep suspicions about merchants and manufacturers, whom he regarded as prone to conspiring against the public interest to raise prices and restrict competition. He was equally skeptical of landlords, whose income he described as accruing to them whether they worked or not. The celebrated 'invisible hand' passage appears only twice in a work of nearly a thousand pages, and its function is far more circumscribed than its popular reputation suggests.",
+  "question": "As used in the passage, \"circumscribed\" most nearly means",
+  "choices": {
+    "A": "celebrated",
+    "B": "complicated",
+    "C": "limited",
+    "D": "disputed"
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence states that the 'invisible hand' passage appears rarely and that its function is 'circumscribed'—the passage is arguing that the concept plays a narrower role in Smith's actual text than its popular reputation implies. 'Limited' (C) captures this sense of being restricted in scope. 'Celebrated' (A) is nearly the opposite of the intended meaning; the author is contrasting limited function with outsized reputation. 'Complicated' (B) would mean the function is complex or nuanced, which does not match the argument that the concept is less important than commonly assumed. 'Disputed' (D) implies scholarly disagreement, which the passage does not raise as the primary issue."
+}

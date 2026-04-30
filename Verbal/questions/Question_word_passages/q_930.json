@@ -1,0 +1,16 @@
+{
+  "id": "q_930",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The governor's press secretary insisted that the administration ______ any knowledge of the investigation before the report was published.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "denied",
+    "B": "deny",
+    "C": "had denied",
+    "D": "denies"
+  },
+  "correct_answer": "A",
+  "explanation": "The main verb 'insisted' is in the simple past. The event being insisted upon—the administration denying knowledge—occurred before or at the same time as the insisting. In reported speech after 'insisted,' the verb in the subordinate clause typically shifts to match the past tense of the main clause. 'Denied' is the simple past, correctly aligned with 'insisted.' However, the nuance: 'insisted that the administration denied' means the press secretary was insisting as a fact of past denial. The subjunctive 'deny' would be appropriate if 'insisted' expressed a directive—'insisted that the administration deny' (i.e., commanded it to deny). Here, the context ('any knowledge of the investigation') suggests the press secretary was asserting that denial occurred, not commanding it. 'Denied' is correct. 'Had denied' is past perfect, which would imply the denial preceded the insistence by a longer interval—possible but less idiomatic. 'Denies' is present tense, inconsistent with past 'insisted.'"
+}

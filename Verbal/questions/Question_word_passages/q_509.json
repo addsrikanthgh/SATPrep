@@ -1,0 +1,16 @@
+{
+  "id": "q_509",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Literary critics working in the tradition of New Criticism held that the meaning of a poem or story should be sought entirely within the text itself, without reference to the author's biography, intentions, or historical context. This approach, associated with theorists such as Cleanth Brooks and W.K. Wimsatt, rejected what Wimsatt called the 'intentional fallacy'—the error of treating the author's intended meaning as the correct or authoritative interpretation. A text, once published, belongs to its readers, not its creator.\n\nText 2: The New Critical rejection of authorial intention has been challenged by hermeneutic theorists who argue that interpretation cannot be divorced from context. E.D. Hirsch argued that without some stable concept of authorial meaning, interpretation collapses into arbitrary relativism—any interpretation becomes as valid as any other, which is both theoretically incoherent and practically useless. Understanding what a text means requires understanding what someone meant by writing it, even if that understanding is approximate and reconstructed.",
+  "question": "What is the central point of disagreement between the two texts?",
+  "choices": {
+    "A": "Whether poems and stories have any meaning at all, independent of readers or authors",
+    "B": "Whether the author's intended meaning should serve as a guide or constraint on interpretation",
+    "C": "Whether close reading of a text's language and structure is a valid method of literary analysis",
+    "D": "Whether literary critics should study the historical period in which a text was written rather than the text itself"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 argues that authorial intention is irrelevant to interpretation (the 'intentional fallacy'), while Text 2 (via Hirsch) argues that authorial meaning is necessary to prevent interpretation from becoming 'arbitrary relativism.' The disagreement is directly over whether and how authorial intention constrains interpretation. B captures this exactly. A is not the debate—both texts accept that texts have meaning. C is not disputed—Text 2 does not reject close reading. D is too narrow—Text 2 focuses on authorial meaning, not specifically on historical context."
+}

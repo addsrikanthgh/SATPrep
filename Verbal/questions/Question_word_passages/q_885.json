@@ -1,0 +1,16 @@
+{
+  "id": "q_885",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "The term 'white noise' is commonly used to describe any undifferentiated background sound, but in signal processing it has a precise technical meaning: a random signal with equal intensity at all frequencies within a given bandwidth. By analogy with white light, which contains all visible frequencies in equal measure, white noise contains all audible frequencies in equal measure. In practice, the sounds people use for sleep or focus—fans, air conditioners, and 'white noise machines'—are rarely true white noise. They are often technically 'pink noise,' in which lower frequencies are more intense, or 'brown noise,' in which the intensity decreases more steeply at higher frequencies. Many people find these colored noises more pleasant and effective than true white noise, which sounds harsh due to its equal emphasis on higher frequencies.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "White noise machines are ineffective tools for improving sleep quality because they do not produce true white noise.",
+    "B": "Although 'white noise' is used loosely in everyday speech, the term has a precise technical definition, and the sounds commonly used for relaxation are more accurately described as 'pink' or 'brown' noise.",
+    "C": "Pink noise is superior to white noise for sleep and concentration because it emphasizes lower frequencies.",
+    "D": "Signal processing terminology distinguishes between white, pink, and brown noise based on differences in their frequency patterns."
+  },
+  "correct_answer": "B",
+  "explanation": "B captures the full arc of the passage: the contrast between everyday and technical uses of 'white noise,' and the clarification that what people actually use is pink or brown noise. A introduces a negative claim about effectiveness that the passage does not make—it says people find colored noises 'more pleasant and effective.' C makes a prescriptive claim the passage doesn't fully endorse, and also omits the key contrast between everyday and technical usage. D is accurate but incomplete—it omits the key contrast between everyday and technical usage that drives the passage's argument."
+}

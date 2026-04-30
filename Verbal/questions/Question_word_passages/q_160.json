@@ -1,0 +1,16 @@
+{
+  "id": "q_160",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "By the 1970s, the dominant narrative of the Civil Rights Movement had begun to crystallize around a handful of iconic figures, pivotal court cases, and landmark legislation. Rosa Parks refused to give up her seat; Martin Luther King Jr. delivered speeches; the Civil Rights Act passed. This compressed narrative is not wrong, exactly. But it obscures the decades of sustained grassroots organizing—by women, by local activists, by labor unions—that made those iconic moments possible rather than accidental.",
+  "question": "What function does the sentence \"This compressed narrative is not wrong, exactly\" serve in the passage?",
+  "choices": {
+    "A": "It introduces a full endorsement of the dominant Civil Rights narrative before the passage turns to praise it more explicitly.",
+    "B": "It serves as a concession that partially validates the dominant narrative while preparing readers for a more substantial critique of its limitations.",
+    "C": "It signals that the passage will argue the dominant Civil Rights narrative is factually incorrect.",
+    "D": "It provides a transition from a historical summary to a discussion of Rosa Parks's specific role in the movement."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence occupies a pivot position in the passage. By saying the narrative is 'not wrong, exactly,' the author partially validates it—acknowledging the iconic events are real—before the 'But' sentence that follows argues the narrative is nevertheless incomplete and misleading. This is a classic concessive move: acknowledge partial truth to make the critique more credible and fair (B). A is wrong; the sentence uses 'exactly,' a qualifier that signals the endorsement is incomplete, and the passage that follows is critical, not laudatory. C contradicts the sentence's explicit content—'not wrong' means it is not factually incorrect. D is wrong; the passage shifts from narrative summary to a structural critique of that narrative, not to Rosa Parks specifically."
+}

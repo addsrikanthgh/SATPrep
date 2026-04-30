@@ -1,0 +1,16 @@
+{
+  "id": "q_562",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The conventional account of the invention of the telephone credits Alexander Graham Bell alone, treating the moment on March 10, 1876, when he spoke the famous words 'Mr. Watson, come here' as the definitive origin of the technology. This narrative, however, obscures a disputed history. Elisha Gray filed a patent caveat for a telephone device on the same day Bell filed his patent application, and controversy has long surrounded whether Bell had access to Gray's design before completing his own. Italian-American inventor Antonio Meucci had filed a caveat for a voice communication device years earlier but could not afford to renew it. In 2002, the U.S. Congress passed a resolution recognizing Meucci's contributions. The history of the telephone, like many technological origin stories, is messier than the textbook version.",
+  "question": "How is the passage organized?",
+  "choices": {
+    "A": "It presents a technical explanation of how the telephone works, followed by a history of its commercial adoption.",
+    "B": "It introduces a conventional historical narrative, then complicates it by presenting competing claims and overlooked contributors.",
+    "C": "It argues that Alexander Graham Bell's invention of the telephone was fraudulent and that Bell should be stripped of credit.",
+    "D": "It compares the technical designs of Bell, Gray, and Meucci to determine whose device was most sophisticated."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage opens with the standard textbook narrative, then uses 'however' to signal a complication, presenting Gray's concurrent filing, Meucci's earlier work, and the Congressional resolution. It ends by generalizing ('like many technological origin stories, is messier'). B accurately describes this structure. A is incorrect—the passage discusses history and credit disputes, not technical workings or commercial adoption. C overstates—the passage presents competing claims but does not call Bell's invention 'fraudulent' or advocate stripping him of credit. D is incorrect—the passage does not compare technical designs."
+}

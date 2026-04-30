@@ -1,0 +1,16 @@
+{
+  "id": "q_568",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The political scientist Francis Fukuyama famously argued in his 1989 essay 'The End of History?' that the collapse of Soviet communism represented not merely the end of the Cold War but the end of history itself—in the sense that liberal democracy had proven itself the final, unsurpassable form of human political organization. The twentieth century's ideological contests between liberal democracy, fascism, and communism had concluded with liberal democracy's definitive victory. Twenty years after the essay, Fukuyama himself acknowledged that the subsequent rise of nationalism, populism, and authoritarian governance in many countries had challenged his prediction, and that 'the end of history' had not arrived as he had anticipated.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It presents Fukuyama's argument and then describes how subsequent political developments challenged his prediction, including Fukuyama's own acknowledgment.",
+    "B": "It argues that Fukuyama was entirely correct that liberal democracy has permanently triumphed worldwide.",
+    "C": "It presents Fukuyama's argument as one of several competing theories of historical progress and compares them.",
+    "D": "It traces the historical development of liberal democratic theory from the Enlightenment to Fukuyama."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage first presents Fukuyama's original argument (liberal democracy's definitive victory), then presents the challenge posed by subsequent political developments (nationalism, populism, authoritarianism), and notes Fukuyama's own acknowledgment that his prediction had not come true. A correctly describes this two-part structure. B contradicts the passage, which describes Fukuyama's own admission that events challenged his prediction. C is incorrect—the passage discusses only Fukuyama's theory, not multiple competing theories. D is incorrect—no historical trace from the Enlightenment is provided."
+}

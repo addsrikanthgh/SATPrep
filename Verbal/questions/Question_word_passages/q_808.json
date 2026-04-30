@@ -1,0 +1,16 @@
+{
+  "id": "q_808",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "An economist argues that minimum wage increases do not necessarily reduce employment, contradicting the classical supply-and-demand prediction that artificially raising the price of labor will cause employers to hire fewer workers.",
+  "question": "Which finding from a labor economics study would most directly support the economist's argument?",
+  "choices": {
+    "A": "'A comparison of counties straddling state borders with different minimum wages found no significant difference in restaurant employment growth between the higher- and lower-wage sides, despite the higher minimum wage in one state.'",
+    "B": "'Small businesses in high-minimum-wage cities reported increased difficulty attracting entry-level workers because competing employers were offering wages above the minimum.'",
+    "C": "'States with higher minimum wages had higher average household incomes than states with lower minimum wages.'",
+    "D": "'When adjusted for inflation, the federal minimum wage in the United States has declined in real value since its peak in 1968.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The economist argues that minimum wage increases don't necessarily reduce employment. A directly supports this by showing that restaurant employment growth was similar on both sides of a border with different minimum wages—a controlled natural experiment that isolates the minimum wage effect. B describes higher-than-minimum wage competition—relevant to labor markets generally, but not directly testing the employment effect of minimum wage increases. C shows income correlation but not a causal argument about employment effects. D describes real wage decline over time—historical context, not evidence about employment effects."
+}

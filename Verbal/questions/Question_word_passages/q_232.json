@@ -1,0 +1,16 @@
+{
+  "id": "q_232",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Public health campaigns have long relied on providing accurate information to change behavior—the assumption being that if people know smoking causes cancer, they will quit. Knowledge alone, however, rarely drives behavior change. Research in health psychology consistently shows that even patients who fully understand the risks of a sedentary lifestyle, poor diet, or tobacco use frequently fail to alter those behaviors. Structural factors—access to healthy food, safe spaces for exercise, economic stress—shape daily choices far more powerfully than information campaigns typically acknowledge.",
+  "question": "What function does the sentence \"Knowledge alone, however, rarely drives behavior change\" serve in the passage?",
+  "choices": {
+    "A": "It introduces a specific public health intervention that the passage will evaluate.",
+    "B": "It challenges the foundational assumption of information-based public health campaigns described in the preceding sentence, framing the central tension the passage will explore.",
+    "C": "It provides a summary of structural factors that affect health behavior.",
+    "D": "It concedes that public health campaigns have been completely ineffective at reducing disease."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence directly contests the assumption embedded in the preceding sentence (that accurate information changes behavior) and sets up the entire argument of the passage: that information is insufficient compared to structural forces. B accurately describes this function—challenging the premise established beforehand and signaling the passage's central tension. A incorrectly says the sentence introduces a specific intervention; no specific intervention is named. C misattributes the sentence's function to summarizing structural factors, which is actually the role of the final sentence. D overstates the critique; the passage challenges the information-alone model without declaring campaigns 'completely ineffective.'"
+}

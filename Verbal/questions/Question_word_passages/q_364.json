@@ -1,0 +1,16 @@
+{
+  "id": "q_364",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Glass frogs (family Centrolenidae) are remarkable for the transparency of their ventral skin, through which their internal organs—including a beating green heart—are plainly visible. They live in Central and South American rainforests, typically on leaves overhanging streams into which they deposit their eggs. Despite their vivid transparency, they are notoriously difficult to spot: when at rest, they press themselves flat against the leaf surface, and the transparent skin blends the edges of their bodies into the leaf background, making their outlines nearly invisible.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that glass frogs are the most evolutionarily advanced amphibians.",
+    "B": "describe the distinctive physical characteristics and camouflage behavior of glass frogs.",
+    "C": "explain why rainforest deforestation threatens glass frog populations.",
+    "D": "compare glass frogs with other transparent animals to determine which is more transparent."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes two key features: the transparency of glass frogs' ventral skin and the behavior (pressing flat against leaves) that makes this transparency function as camouflage. B accurately describes this as a passage about distinctive physical characteristics and camouflage behavior. A makes an evolutionary advancement claim not present in the passage. C introduces deforestation and conservation, topics not mentioned in the passage. D introduces a comparative claim about other transparent animals that the passage does not make."
+}

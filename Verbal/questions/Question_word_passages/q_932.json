@@ -1,0 +1,16 @@
+{
+  "id": "q_932",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The data ______ collected over three field seasons consistently support the team's hypothesis about migratory timing.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "is",
+    "D": "have"
+  },
+  "correct_answer": "A",
+  "explanation": "In academic and scientific writing, 'data' is typically treated as a plural noun (it is the plural of 'datum'). The main verb 'support' later in the sentence is plural, which confirms this. The participle 'collected' modifies 'data' and must agree in the participial construction: 'The data were collected.' 'Were' is the correct past plural form. 'Was' is singular past, inconsistent with plural 'data' and 'support.' 'Is' is present singular—inconsistent with the past-tense context. 'Have' is not appropriate—the construction requires a passive 'be' verb before 'collected.'"
+}

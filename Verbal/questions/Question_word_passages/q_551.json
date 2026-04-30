@@ -1,0 +1,16 @@
+{
+  "id": "q_551",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Most deciduous trees lose their leaves in autumn in response to declining day length and temperature. Before a leaf drops, the tree reabsorbs much of its chlorophyll—the green pigment used in photosynthesis. As chlorophyll breaks down, other pigments that were always present in the leaf but masked by chlorophyll's green color become visible: yellow xanthophylls and orange carotenoids. Red and purple anthocyanins are newly produced by some species during autumn as sugars become trapped in the leaves when the connection to the tree is severed.",
+  "question": "Based on the passage, what can most reasonably be inferred about why autumn leaves display yellow and orange colors?",
+  "choices": {
+    "A": "Yellow and orange pigments are produced only in autumn, when sunlight triggers their synthesis in the leaf.",
+    "B": "Yellow and orange pigments are present in leaves throughout the growing season but are hidden by the green color of chlorophyll and become visible as chlorophyll breaks down.",
+    "C": "Yellow and orange pigments replace chlorophyll's function during autumn to allow leaves to continue photosynthesizing.",
+    "D": "Yellow and orange colors are caused by the drying and browning of dead leaf tissue in autumn."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that yellow xanthophylls and orange carotenoids 'were always present in the leaf but masked by chlorophyll's green color' and become visible 'as chlorophyll breaks down.' B accurately reflects this stated mechanism. A is directly contradicted—these pigments are present year-round, not newly produced in autumn (that's anthocyanins). C is not supported—the passage does not suggest the yellow/orange pigments perform photosynthesis. D describes a different (non-biological) explanation not supported by the passage."
+}

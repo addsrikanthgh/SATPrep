@@ -1,0 +1,16 @@
+{
+  "id": "q_547",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The Inca Empire, at its peak in the early sixteenth century, administered a territory stretching nearly 4,000 kilometers along the western coast of South America and encompassed diverse climatic zones from the Amazon basin to the high Andes to the Pacific coast. The Inca state organized agricultural production across altitude zones—with different crops cultivated at each elevation—and maintained vast storehouses of freeze-dried and preserved food distributed along a 40,000-kilometer road network. Despite not having a writing system, the Inca recorded administrative data using knotted strings called quipus.",
+  "question": "Based on the passage, what can most reasonably be inferred about how the Inca managed their large and geographically diverse empire?",
+  "choices": {
+    "A": "The Inca relied primarily on trade with neighboring civilizations to supply food to distant regions of the empire.",
+    "B": "The Inca managed their empire through sophisticated logistical systems including altitude-based agriculture, food storage, and an extensive road network—even without a written language.",
+    "C": "The absence of a writing system made effective administration of the Inca empire impossible, requiring constant military force to maintain control.",
+    "D": "The Inca empire was too geographically diverse to be effectively administered from a central authority."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes three interlocking administrative systems: zone-based agriculture, extensive storehouses, and a road network—plus quipus for data recording. Together, these imply a sophisticated, functioning administrative capacity despite the lack of writing. B correctly infers this. A is not supported—the passage describes internal distribution, not trade with neighbors. C directly contradicts the passage, which describes effective logistical organization and even a data-recording system. D is contradicted—the passage describes an empire that clearly did function across diverse geography."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_434",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The biologist noted that the species had proven remarkably plastic in its dietary habits, shifting from insect-based foraging to fruit consumption and, in areas near human settlements, to scavenging processed food—all within a single generation.",
+  "question": "As used in the passage, 'plastic' most nearly means",
+  "choices": {
+    "A": "made of or resembling synthetic polymer material.",
+    "B": "capable of being shaped or modified; flexible and adaptable.",
+    "C": "artificial or insincere in appearance.",
+    "D": "relating to the visual arts, especially sculpture."
+  },
+  "correct_answer": "B",
+  "explanation": "In biological contexts, 'plastic' (or 'phenotypic plasticity') describes an organism's capacity to adapt its behavior, physiology, or morphology in response to environmental changes. The passage describes the species shifting dietary habits dramatically within one generation—evidence of behavioral flexibility. B captures this. A is the common material sense. C is the pejorative 'plastic' meaning fake or insincere. D is the arts sense ('plastic arts')."
+}

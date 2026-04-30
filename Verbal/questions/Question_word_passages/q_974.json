@@ -1,0 +1,16 @@
+{
+  "id": "q_974",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The concept of 'legitimacy' in political theory carries a heavier burden than mere legality. A government can pass laws and enforce them without being legitimate in the full philosophical sense if those laws are not accepted as rightfully binding by the governed. Max Weber identified three sources of legitimate authority: traditional authority (grounded in custom and history), charismatic authority (grounded in the personal qualities of a leader), and legal-rational authority (grounded in formal rules and procedures). Modern liberal democracies primarily rest on the third type, though crises of legitimacy arise when citizens no longer accept that formal procedures produce fair or representative outcomes.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A political concept is distinguished from a related but narrower term, a typology of the concept is introduced, and its contemporary relevance is noted.",
+    "B": "Three historical governments are described, and their sources of legitimacy are compared.",
+    "C": "The failures of each of Weber's three types of authority are described, and a superior alternative is proposed.",
+    "D": "A political philosopher's biography is presented, focusing on how his personal experiences shaped his theory."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage opens by distinguishing legitimacy from legality (a narrower related term), then introduces Weber's three-part typology of legitimate authority, and concludes by applying the third type to modern liberal democracies and noting when legitimacy crises arise. A correctly maps this three-part structure. B claims it compares historical governments, which the passage does not do. C claims it identifies failures of each type, but the passage does not critique all three types—it presents them descriptively. D promises a biographical treatment of Weber, which the passage does not provide."
+}

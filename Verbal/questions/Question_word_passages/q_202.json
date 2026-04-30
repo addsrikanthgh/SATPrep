@@ -1,0 +1,16 @@
+{
+  "id": "q_202",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A labor economics report published unemployment rates by educational attainment during an economic recession. Among workers with less than a high school diploma, the unemployment rate reached 18.4%. High school graduates experienced a rate of 12.7%. Workers with associate's degrees saw 9.1% unemployment, those with bachelor's degrees 5.8%, and those with graduate or professional degrees 3.2%. The report also noted that workers in STEM fields maintained lower unemployment rates than those in service industries across all education levels.",
+  "question": "A policymaker argues that higher educational attainment consistently lowers the risk of unemployment during economic downturns. Which detail from the report most directly supports this argument?",
+  "choices": {
+    "A": "Workers in STEM fields maintained lower unemployment rates than service industry workers across all education levels.",
+    "B": "Workers with less than a high school diploma experienced an unemployment rate of 18.4%.",
+    "C": "The unemployment rate declined steadily with each successive level of educational attainment, from 18.4% for workers without a diploma to 3.2% for those with graduate degrees.",
+    "D": "Workers with graduate or professional degrees experienced the lowest unemployment rate at 3.2%."
+  },
+  "correct_answer": "C",
+  "explanation": "The policymaker's argument requires showing a consistent, step-by-step relationship between higher education and lower unemployment. C establishes this pattern explicitly across all five education levels (18.4% → 12.7% → 9.1% → 5.8% → 3.2%), providing the strongest direct support for the claim that higher attainment 'consistently' reduces unemployment risk. B and D each cite only a single data point at one end of the spectrum, which alone cannot establish a consistent trend. A is about STEM versus service industries—not education level—and is therefore irrelevant to the policymaker's argument about attainment."
+}

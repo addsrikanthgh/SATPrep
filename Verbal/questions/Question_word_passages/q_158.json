@@ -1,0 +1,16 @@
+{
+  "id": "q_158",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Dark matter constitutes roughly 27% of the universe's total mass-energy content, yet it has never been directly detected. Its existence is inferred entirely from its gravitational effects: galaxies rotate at speeds that cannot be explained by their visible mass alone, gravitational lensing bends light more than visible matter accounts for, and galaxy clusters move in ways inconsistent with observable matter. Every direct detection experiment designed to capture dark matter particles—using everything from liquid xenon detectors buried deep underground to high-altitude particle detectors—has returned null results.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "Dark matter is composed of particles similar in nature to those that make up visible matter, but too small to detect with current instruments.",
+    "B": "The null results of detection experiments suggest that dark matter does not exist and that current gravitational models need revision.",
+    "C": "Dark matter's existence rests on indirect gravitational evidence, and its physical nature remains unconfirmed despite extensive experimental effort.",
+    "D": "Liquid xenon detectors are currently the most promising technology for eventually achieving direct detection of dark matter."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage establishes two facts: dark matter is inferred from gravitational effects (indirect evidence only), and all direct detection experiments have failed. C accurately combines both facts without overreaching. A speculates about dark matter's composition—something the passage explicitly leaves unknown. B overclaims in the other direction: the passage does not suggest that null detection results imply non-existence; indirect gravitational evidence still supports dark matter's reality. D makes a comparative claim about xenon detectors being 'most promising' that the passage never makes—it lists xenon detectors as one of several failed approaches."
+}

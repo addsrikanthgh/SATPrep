@@ -1,0 +1,16 @@
+{
+  "id": "q_730",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The diplomat suggested that the treaty _______ renegotiated before either party proceeded with implementation.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "be",
+    "B": "is",
+    "C": "was",
+    "D": "would be"
+  },
+  "correct_answer": "A",
+  "explanation": "The verb 'suggested' triggers a subjunctive mood in the subordinate clause. When verbs of suggestion, recommendation, or requirement (suggest, recommend, require, demand, insist, propose) appear in formal writing, the subordinate clause they govern uses the base form of the verb (present subjunctive)—not a conjugated form. 'Be' (A) is the base form and correctly uses the subjunctive. 'Is' (B) is the indicative third-person singular, which is incorrect in a subjunctive context. 'Was' (C) is the simple past indicative. 'Would be' (D) is the conditional, which is not used in subjunctive constructions after verbs of suggestion."
+}

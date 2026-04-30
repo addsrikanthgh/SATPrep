@@ -1,0 +1,16 @@
+{
+  "id": "q_306",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1:\nNuclear power plants generate electricity through nuclear fission—splitting uranium or plutonium atoms to release heat, which drives steam turbines. Proponents argue that nuclear power is a critical component of a low-carbon energy future: unlike solar and wind, it generates reliable baseload power that does not depend on weather conditions, and its life-cycle carbon emissions per kilowatt-hour are among the lowest of any energy source.\n\nText 2:\nEnvironmentalists who oppose nuclear power expansion argue that the risks and costs outweigh the benefits. High-profile accidents at Chernobyl, Three Mile Island, and Fukushima have demonstrated that when safety systems fail, the consequences can be catastrophic and long-lasting. Additionally, the long-term storage of radioactive waste remains an unsolved engineering and political problem: no country has yet opened a permanent deep geological repository for spent nuclear fuel.",
+  "question": "How would a proponent of nuclear power described in Text 1 most likely respond to the concern about waste storage raised in Text 2?",
+  "choices": {
+    "A": "By arguing that Chernobyl and Fukushima were caused by operator error rather than fundamental design flaws.",
+    "B": "By contending that the carbon reduction benefits of nuclear power are significant enough to justify continued operation even while the waste storage problem remains unresolved.",
+    "C": "By denying that radioactive waste is a serious concern because it can be safely stored in temporary facilities indefinitely.",
+    "D": "By arguing that solar and wind power produce more waste than nuclear power."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1's argument centers on nuclear power's low-carbon advantage for a low-carbon energy future—a benefit Text 1 frames as critical. When faced with Text 2's waste storage concern, the most logical response consistent with Text 1's framing is to weigh the carbon benefits against the unresolved waste problem and maintain that the former justifies the latter. B captures this proportionate-benefits argument. A addresses the accident concern from Text 2 (Chernobyl, Fukushima), not the waste storage concern specifically asked about. C attributes an extreme claim (waste storage is no concern) not found in Text 1. D introduces a comparison about solar and wind waste that Text 1 does not make."
+}

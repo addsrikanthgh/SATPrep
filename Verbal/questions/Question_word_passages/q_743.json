@@ -1,0 +1,16 @@
+{
+  "id": "q_743",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Nineteenth-century physiognomy—the practice of inferring a person's character from their facial features—was widely accepted in scientific and popular culture alike. Phrenologists and physiognomists claimed that skull shape and facial structure revealed moral qualities, criminal tendencies, and intellectual capacity. These theories were used to justify racial hierarchies, immigration restrictions, and the incarceration of individuals deemed 'degenerate' based on their appearance. Modern genetics and neuroscience have thoroughly discredited physiognomy as a predictive science. Nevertheless, recent machine learning research has demonstrated that artificial intelligence systems trained on photographs can predict various personal attributes—including, controversially, whether someone has been convicted of a crime—at above-chance levels.",
+  "question": "Based on the passage, what can most reasonably be inferred about the recent AI research described in the final sentence?",
+  "choices": {
+    "A": "Its implications are complicated by the historical association of appearance-based inference with discredited and harmful pseudoscience.",
+    "B": "It has conclusively proven that facial structure is a reliable indicator of criminal behavior, validating nineteenth-century physiognomy.",
+    "C": "Its predictions are accurate enough to replace traditional methods of criminal investigation.",
+    "D": "The researchers who conducted this work were unaware of the history of physiognomy."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes nineteenth-century physiognomy as a discredited practice used to justify severe harms, then juxtaposes it with recent AI research showing that facial analysis can predict attributes 'at above-chance levels.' The word 'controversially' signals that the author views this new research as raising concerns. Given the historical context the passage establishes, the inference that this new research is complicated by its parallels to physiognomy is the most reasonable. A captures this. B is the opposite of what the passage implies—it says physiognomy was 'thoroughly discredited,' and describing AI results as 'above-chance' is far from 'conclusively proved.' C is not supported—'above-chance' prediction is not equivalent to accuracy sufficient to replace investigation methods. D is speculation about the researchers' knowledge that the passage does not provide."
+}

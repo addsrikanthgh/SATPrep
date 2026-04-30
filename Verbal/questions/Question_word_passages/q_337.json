@@ -1,0 +1,16 @@
+{
+  "id": "q_337",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "By the end of the fiscal year, the foundation _______ more than two million dollars to educational programs in underserved communities since its founding in 2010.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "distributed",
+    "B": "will have distributed",
+    "C": "distributes",
+    "D": "had distributed"
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'By the end of the fiscal year' sets a future deadline, and 'since its founding in 2010' establishes that the action began in the past and will be completed by that future point. This combination—future deadline + action begun in the past and completed before that deadline—requires the future perfect tense. 'Will have distributed' (B) is the future perfect—correct. 'Distributed' (A) is simple past—it does not capture the future deadline. 'Distributes' (C) is simple present—incorrect tense. 'Had distributed' (D) is past perfect—used when an action is completed before another past event, but the deadline here is future ('by the end of the fiscal year'), not past."
+}

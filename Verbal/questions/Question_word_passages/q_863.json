@@ -1,0 +1,16 @@
+{
+  "id": "q_863",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The philosopher argued that moral obligations arise only from rational agreement among free and equal persons. ______, she maintained that obligations to those who cannot participate in rational agreement—such as animals or future generations—could not exist within her framework.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "However",
+    "B": "Accordingly",
+    "C": "Furthermore",
+    "D": "In other words"
+  },
+  "correct_answer": "B",
+  "explanation": "'Accordingly' means as a result or in a manner consistent with what was previously stated—the second sentence follows logically from the first. If moral obligations require rational agreement, it logically follows that those who cannot participate are outside the framework of obligation. 'However' signals a contrast or exception, but the second sentence is a consequence, not a contradiction. 'Furthermore' adds a new, additional point, but the second sentence is a logical conclusion of the first. 'In other words' restates the previous point, but the second sentence extends the argument to a new category rather than restating."
+}

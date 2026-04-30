@@ -1,0 +1,16 @@
+{
+  "id": "q_862",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Early automobiles required drivers to hand-crank the engine to start it, a process that was physically demanding and sometimes dangerous. ______, electric starters became standard equipment in the 1920s, eliminating the need for manual cranking.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "In contrast",
+    "B": "Subsequently",
+    "C": "Likewise",
+    "D": "For instance"
+  },
+  "correct_answer": "B",
+  "explanation": "'Subsequently' means afterward or later in time—the second sentence describes a development that happened after the situation described in the first. Electric starters came later, in the 1920s, to solve the earlier problem. 'In contrast' signals a comparison of opposing characteristics, not a temporal sequence. 'Likewise' signals that the second sentence says something similar to the first, but the second describes a solution to the first sentence's problem. 'For instance' introduces an example, but the second sentence describes a historical development, not an illustration."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_600",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay on the cultural significance of sports. The student wants to argue that major sporting events can serve as vehicles for national identity and collective experience, using a specific historical example to support the claim. The student has gathered the following notes:\n- The 1995 Rugby World Cup final in South Africa, which the South African national team won, is widely credited with helping to unify the country in the aftermath of apartheid.\n- Nelson Mandela appeared in a Springbok jersey—previously a symbol of white minority rule—to support the team, transforming it into a symbol of national unity.\n- Sociologists have observed that shared emotional experiences—collective grief, collective celebration—can create a sense of group identity even among strangers.\n- The 1936 Berlin Olympics were used by the Nazi regime as a propaganda vehicle to promote racial ideology.\n- Local sports teams often serve as a focal point for community identity in smaller cities and towns.",
+  "question": "Which choice most effectively uses the notes to argue that major sporting events can serve as vehicles for national identity, supported by a specific historical example?",
+  "choices": {
+    "A": "The 1936 Berlin Olympics demonstrate that major sporting events can be used as propaganda tools, showing that their cultural power can serve destructive as well as constructive ends.",
+    "B": "Major sporting events can serve as powerful vehicles for national identity and collective experience: in 1995, the South African Rugby World Cup victory—symbolically embraced by Nelson Mandela in a Springbok jersey—helped transform a symbol of apartheid into one of national unity in a newly democratic country.",
+    "C": "Sociologists have found that shared emotional experiences such as collective grief and celebration can forge group identity even among strangers, helping explain why sports fandom creates community bonds.",
+    "D": "Local sports teams often serve as a focal point for community identity, bringing together residents of small cities and towns around a shared source of pride."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to argue that major sporting events can serve as vehicles for national identity, supported by a specific historical example. B makes the general claim and immediately supports it with the 1995 Rugby World Cup example, explaining how it functioned (Mandela's symbolic use of the jersey to unify the nation). A uses the 1936 Olympics as an example, but frames it as a cautionary tale about propaganda—a different argument than national unity. C presents the sociological mechanism without a specific major sporting event example. D discusses local teams and community identity, not major sporting events and national identity."
+}

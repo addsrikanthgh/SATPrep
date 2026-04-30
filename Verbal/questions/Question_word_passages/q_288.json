@@ -1,0 +1,16 @@
+{
+  "id": "q_288",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Ocean acidification occurs when the oceans absorb carbon dioxide from the atmosphere, forming carbonic acid and lowering the pH of seawater. This process threatens marine organisms such as oysters, corals, and sea urchins, whose calcium carbonate shells and skeletons dissolve more easily in acidic water. _______, oyster hatcheries on the US West Coast began experiencing widespread larval die-offs in the late 2000s, losses now attributed to corrosive upwelling water made more acidic by elevated atmospheric CO₂.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "However,",
+    "B": "Likewise,",
+    "C": "As evidence of this threat,",
+    "D": "In response,"
+  },
+  "correct_answer": "C",
+  "explanation": "The first two sentences describe the mechanism and general threat of ocean acidification to shellfish. The third sentence provides a real-world case (West Coast oyster hatcheries) demonstrating that threat. 'As evidence of this threat' (C) correctly signals that the specific example confirms and illustrates the claim made in the preceding sentence. 'However' (A) introduces contrast—the oyster die-offs are consistent with, not contrary to, the described threat. 'Likewise' (B) signals similarity between two parallel items—inappropriate since the example follows a general claim rather than paralleling another example. 'In response' (D) would suggest the oyster hatchery losses were a deliberate response to acidification, which misrepresents the relationship—the die-offs were a consequence, not a response."
+}

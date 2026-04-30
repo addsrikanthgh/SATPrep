@@ -1,0 +1,16 @@
+{
+  "id": "q_991",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is researching the ecology of wetlands and has taken the following notes:\n- Wetlands are areas where water covers the soil or is present near the surface for most of the year; they include marshes, swamps, bogs, and fens.\n- Wetlands provide multiple ecosystem services: water filtration, flood control, carbon storage, and habitat for biodiversity.\n- An estimated 35% of the world's wetlands have been lost since 1970, primarily due to drainage for agriculture and urban development.\n- Wetlands store carbon in waterlogged soils; when drained, this carbon is released as CO₂, contributing to greenhouse gas emissions.\n- Restored wetlands can recover ecological functions within years to decades, depending on the degree of degradation and restoration methods used.",
+  "question": "The student wants to explain why wetland loss is particularly concerning from a climate perspective. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Wetlands provide multiple ecosystem services including water filtration, flood control, and habitat for biodiversity, making them among the most ecologically valuable landscapes on Earth.",
+    "B": "Wetland restoration can recover ecological functions within years to decades, suggesting that some of the damage from the 35% loss since 1970 may be reversible.",
+    "C": "When wetlands are drained—a fate that has befallen 35% of the world's wetlands since 1970—the carbon stored in their waterlogged soils is released as CO₂, adding to greenhouse gas emissions at a time when reducing emissions is critical.",
+    "D": "Wetlands include marshes, swamps, bogs, and fens, and are characterized by the presence of water at or near the soil surface for most of the year."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to explain the climate-specific concern about wetland loss. C combines the carbon storage/release mechanism (waterlogged soils release CO₂ when drained) with the statistic about how much loss has already occurred (35% since 1970), directly serving the climate concern framing. A covers ecosystem services broadly without singling out the climate/carbon issue. B addresses restoration potential—important but not the climate concern about ongoing loss. D provides a definitional overview that does not address climate at all."
+}

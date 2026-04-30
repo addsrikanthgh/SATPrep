@@ -1,0 +1,16 @@
+{
+  "id": "q_770",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The French and Haitian revolutions of the late eighteenth century shared a common vocabulary—liberty, equality, the rights of man—but arrived at profoundly different outcomes. The French Revolution ultimately produced Napoleon Bonaparte, a return to authoritarian rule, and the reimposition of slavery in French Caribbean colonies. The Haitian Revolution, which began as a slave uprising in Saint-Domingue in 1791, produced the first Black republic in the Western Hemisphere, the only successful slave revolt in history, and a constitution that explicitly abolished slavery. Where the French Declaration of the Rights of Man applied its principles selectively, the Haitian constitution applied them universally. Yet Haiti faced severe economic penalties from France and isolation from other Western nations that severely constrained its development for generations.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It draws a comparison between the French and Haitian revolutions, noting their shared ideological origins while highlighting differences in outcomes and legacies.",
+    "B": "It argues that the Haitian Revolution was a greater achievement than the French Revolution in every respect.",
+    "C": "It traces the step-by-step causes of the Haitian slave uprising in chronological detail.",
+    "D": "It examines the influence of the French Revolution on revolutions throughout Latin America in the nineteenth century."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explicitly compares the two revolutions—noting their shared vocabulary, contrasting their outcomes (Napoleon vs. Black republic), highlighting ideological differences (selective vs. universal application of rights), and acknowledging Haiti's subsequent international isolation. A accurately describes this comparative structure. B attributes a straightforward evaluative argument that the passage qualifies and complicates: the Haitian Revolution achieved more on one axis but faced severe post-revolutionary penalties. C describes a step-by-step causal account of the uprising, which the passage does not provide. D focuses on Latin American revolutions, which are not mentioned."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_126",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Proponents of nuclear energy argue that it is essential for meeting climate goals. Unlike solar and wind power, which are intermittent and require costly storage infrastructure, nuclear plants generate electricity continuously regardless of weather conditions. A single facility can power hundreds of thousands of homes with minimal carbon emissions over its operational lifetime.\n\nText 2: While nuclear power produces low carbon emissions during operation, a complete life-cycle analysis tells a more complicated story. The mining and processing of uranium ore, the construction of plant infrastructure, and the long-term management of radioactive waste all carry significant environmental costs that advocates rarely acknowledge.",
+  "question": "Both texts discuss nuclear energy's environmental profile, but they differ primarily in",
+  "choices": {
+    "A": "their views on whether nuclear energy can realistically meet national electricity demand.",
+    "B": "the extent to which they account for the full environmental footprint of nuclear energy production.",
+    "C": "their assessments of how nuclear energy compares to fossil fuels in terms of carbon output.",
+    "D": "their positions on whether the intermittency of renewable energy makes it a viable alternative to nuclear power."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 focuses only on nuclear energy's low operational carbon emissions, presenting this as its defining environmental characteristic. Text 2 explicitly critiques this narrow framing by introducing a 'life-cycle analysis' that includes uranium mining, construction, and waste management—a much broader accounting of environmental impact. The core difference is how comprehensively each text assesses nuclear energy's total environmental footprint (B). A is not addressed in either text—neither discusses whether nuclear can meet national demand. C is not addressed—neither text compares nuclear to fossil fuels directly. D: Text 1 mentions renewables' intermittency, but Text 2 does not engage with this comparison at all."
+}

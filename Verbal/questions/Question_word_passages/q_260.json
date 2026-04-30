@@ -1,0 +1,16 @@
+{
+  "id": "q_260",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The nineteenth century witnessed not one but two revolutions in energy: first the steam revolution, which powered factories, railways, and ships; and then the electrical revolution, which transformed domestic life, communication, and urban infrastructure.",
+  "question": "Which choice correctly explains the punctuation of this sentence?",
+  "choices": {
+    "A": "The semicolons before 'and then' and after 'railways, and ships' are unnecessary because the two main list items are simple phrases that require only commas.",
+    "B": "The colon after 'energy' is incorrect because the sentence uses semicolons elsewhere to separate the list items.",
+    "C": "The colon correctly introduces the two-item list, and the semicolons correctly separate the two complex list items, each of which contains an internal relative clause with its own commas.",
+    "D": "The semicolons should be replaced with colons to introduce each of the two revolutions' effects."
+  },
+  "correct_answer": "C",
+  "explanation": "The colon follows a complete independent clause and correctly introduces the two-part list. Each list item ('the steam revolution, which powered factories, railways, and ships' and 'the electrical revolution, which transformed domestic life, communication, and urban infrastructure') contains a nonrestrictive relative clause with internal commas. When list items themselves contain commas, semicolons are used as the list separator to prevent confusion about item boundaries. Using a semicolon before 'and then' clearly marks the boundary between the two main list items. C correctly identifies both features. A is incorrect; the list items are not simple phrases—they are complex constructions with internal commas that require semicolon separation. B introduces a fabricated rule; a sentence may use both a colon (to introduce the list) and semicolons (to separate list items) without conflict. D is incorrect; colons introduce lists or elaborations—they do not function as list item separators."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_960",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Forensic entomologists use the predictable life cycles of blow flies and other insects that colonize corpses to estimate time of death. Insects arrive at a body in a reliable sequence, and each species develops through egg, larva, pupa, and adult stages at known rates dependent on temperature. By identifying the species present and the stage of development, along with local temperature records, forensic entomologists can estimate how long ago a body was accessible to insects—though this measure is not identical to time of death if the body was moved, stored in cold conditions, or covered.",
+  "question": "Based on the passage, what can most reasonably be inferred about the accuracy of entomological time-of-death estimates?",
+  "choices": {
+    "A": "Entomological estimates of time of death are always more precise than estimates from other forensic methods.",
+    "B": "Entomological estimates are reliable only in warm climates where insects are most active.",
+    "C": "Entomological estimates can provide useful information about time of death but may be unreliable when circumstances disrupted insects' normal access to the body.",
+    "D": "Entomological time-of-death estimates are so dependent on local conditions that they have no practical value in forensic investigations."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage explains that forensic entomology uses predictable insect development sequences to estimate 'how long ago a body was accessible to insects'—and then qualifies this by noting the estimate is 'not identical to time of death if the body was moved, stored in cold conditions, or covered.' This directly implies that circumstances disrupting insect access reduce the reliability of the estimate. C accurately captures the inference: useful but conditional. A is not supported—the passage makes no comparison with other forensic methods. B is not supported—the passage discusses temperature adjustment with 'temperature records' but does not limit the method to warm climates. D contradicts the passage, which describes the method as standard practice used in forensic investigations."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_888",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "Critics of standardized testing argue that such tests measure test-taking ability more than underlying knowledge or potential, and that they systematically disadvantage students from low-income backgrounds who cannot afford extensive test preparation. Defenders counter that standardized tests offer a uniform measure that corrects for grade inflation—a documented phenomenon in which students from well-resourced schools receive higher grades for comparable work—and that removing test score requirements in college admissions may favor students from schools with inflated grades over those from schools with rigorous grading. Both sides agree that no single measure should be decisive in admissions decisions. The debate has intensified since many universities adopted test-optional policies during the COVID-19 pandemic, with early data producing conflicting signals about student outcomes.",
+  "question": "What is the main idea of the passage?",
+  "choices": {
+    "A": "Standardized tests should be eliminated from college admissions because they are biased against low-income students.",
+    "B": "The debate over standardized testing in college admissions involves legitimate concerns on both sides, and the issue remains unresolved.",
+    "C": "Grade inflation is a more serious problem in college admissions than test score bias.",
+    "D": "COVID-19 pandemic policies permanently transformed college admissions in ways that favor wealthier students."
+  },
+  "correct_answer": "B",
+  "explanation": "B captures the balanced, unresolved nature of the debate as presented—both critics and defenders have valid points, both agree no single measure should be decisive, and the issue remains contested with conflicting data. A presents only one side's position as the passage's conclusion; the passage presents this as a criticism, not a conclusion. C draws a comparative conclusion the passage does not make. D makes a permanent, causal claim about wealth and outcomes that goes beyond what the passage states."
+}

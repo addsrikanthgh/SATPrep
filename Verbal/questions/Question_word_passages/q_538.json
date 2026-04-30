@@ -1,0 +1,16 @@
+{
+  "id": "q_538",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The senator's advisors urged _______ to reconsider the position on the infrastructure bill before the floor vote.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "she",
+    "B": "her",
+    "C": "herself",
+    "D": "hers"
+  },
+  "correct_answer": "B",
+  "explanation": "The blank is the object of the verb 'urged'—the senator is the person being urged. Object pronouns are used as objects of verbs. 'Her' is the object form of the third-person feminine singular pronoun. B is correct. A ('she') is a subject pronoun, incorrect in object position. C ('herself') is a reflexive/intensive pronoun; it is used reflexively only when the subject and object are the same entity (e.g., 'She urged herself'), or for emphasis. Here, the advisors urged the senator, so the subject and object are different. D ('hers') is a possessive pronoun used without a following noun, which is incorrect here."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_559",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The scientific literature on unconscious bias training has produced mixed results. Many corporate diversity programs are built around the premise that making employees aware of their unconscious biases will motivate them to change their behavior. Some studies suggest this is true for employees who are already motivated to be fair. However, several studies have found the opposite effect: making people aware that biases are widespread and difficult to control can reduce their sense of personal responsibility and lead to worse outcomes. This 'awareness backfire' effect suggests that simply informing people about bias may not be sufficient—and could in some cases be counterproductive.",
+  "question": "Based on the passage, what can most reasonably be inferred about the design of effective bias reduction programs?",
+  "choices": {
+    "A": "Programs that focus solely on raising awareness of unconscious bias are guaranteed to reduce discriminatory behavior in all employees.",
+    "B": "Effective programs may need to go beyond awareness-raising to address motivation and accountability, since awareness alone can sometimes reduce rather than increase efforts to counteract bias.",
+    "C": "Bias reduction training is fundamentally ineffective and should be discontinued in all organizations.",
+    "D": "The 'awareness backfire' effect proves that unconscious biases do not actually influence behavior."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage identifies the limitation of awareness-only approaches (the backfire effect) and notes that awareness works only for employees 'already motivated to be fair.' B correctly infers that effective programs may need to address motivation and accountability—going beyond awareness. A is directly contradicted by the backfire evidence. C is too absolute—the passage shows mixed results, not universal ineffectiveness. D misrepresents the backfire effect—the 'backfire' is about reduced personal responsibility, not evidence that biases don't influence behavior."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_727",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "By the time the investigators arrived at the site, the evidence _______ disturbed by the construction crew, making it difficult to reconstruct the sequence of events.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "had been",
+    "B": "has been",
+    "C": "was",
+    "D": "is"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence establishes two past events in sequence: the investigators' arrival, and the prior disturbance of evidence. When one past event precedes another past event, the earlier event is expressed in the past perfect tense. Here, the disturbance of the evidence happened before the investigators arrived, so it requires the past perfect. 'Had been' (A) is the past perfect passive construction and correctly places the disturbance before the arrival. 'Has been' (B) is present perfect, which does not fit the past-time narrative. 'Was' (C) is simple past, which could create ambiguity about whether both events happened simultaneously. 'Is' (D) is present tense and inconsistent with the past narrative."
+}

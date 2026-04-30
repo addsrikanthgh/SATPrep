@@ -1,0 +1,16 @@
+{
+  "id": "q_715",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Some researchers in evolutionary psychology argue that human altruism toward strangers—behavior that reduces individual fitness with no direct reciprocal benefit—can be explained by the concept of 'misfiring.' On this view, evolved psychological mechanisms that produced kin-directed generosity in ancestral environments are triggered by stimuli (such as need or vulnerability) that do not distinguish between genetic relatives and strangers, causing humans to extend altruism beyond the kin groups for whom it evolved.\n\nText 2: The 'misfiring' account of altruism has been challenged on the grounds that it treats as a bug what is better understood as a feature. Cultural group selection theorists argue that psychological tendencies toward broad altruism were directly selected for because groups whose members cooperated with non-kin outcompeted groups whose members did not. On this account, stranger-directed altruism is not a misapplication of kin-selection mechanisms but an adaptation in its own right.",
+  "question": "How does the argument in Text 2 respond to the claim in Text 1?",
+  "choices": {
+    "A": "Text 2 argues that stranger-directed altruism is itself an evolved adaptation rather than a byproduct of kin-selection mechanisms that have been misfired.",
+    "B": "Text 2 agrees with Text 1 that altruism toward strangers reduces individual fitness but argues that it benefits the species as a whole.",
+    "C": "Text 2 denies that humans exhibit genuine altruism toward strangers, arguing that such behavior is always secretly motivated by self-interest.",
+    "D": "Text 2 proposes that kin selection, not cultural group selection, is the primary evolutionary explanation for all forms of human cooperation."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 explains stranger-directed altruism as a 'misfiring' of kin-selection mechanisms—a byproduct of evolved tendencies being applied beyond their original target. Text 2 challenges this directly by arguing that the broad altruism was itself directly selected for via cultural group selection, making it a primary adaptation, not a misfire. A correctly captures this counterargument: stranger altruism is an adaptation, not a byproduct. B misrepresents Text 2, which argues for individual/group selection, not species-level benefit in the traditional sense. C is not argued anywhere in Text 2; it accepts that humans show genuine altruism. D contradicts Text 2, which explicitly favors cultural group selection over kin selection for explaining broad altruism."
+}

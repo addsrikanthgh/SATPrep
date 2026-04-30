@@ -1,0 +1,16 @@
+{
+  "id": "q_610",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Historians studying Roman concrete have argued that its extraordinary durability—some Roman structures built 2,000 years ago remain structurally sound today—results from a unique chemical process in which seawater reacting with volcanic ash in the concrete mixture produces mineral crystals that strengthen the material over time, unlike modern Portland cement, which weakens with seawater exposure.",
+  "question": "Which finding, if true, would most directly support the historians' argument about the mechanism of Roman concrete's durability?",
+  "choices": {
+    "A": "Roman concrete structures built inland, away from seawater exposure, have not proven more durable than comparable modern concrete structures.",
+    "B": "Microscopic analysis of Roman harbor concrete reveals abundant tobermorite crystals—the specific mineral formed by seawater reacting with volcanic ash—embedded throughout the material, reinforcing its microstructure.",
+    "C": "Roman architects wrote extensively about the superior quality of pozzolana volcanic ash as a building material.",
+    "D": "Modern engineers have successfully replicated Roman concrete by substituting Portland cement with volcanic ash, producing structures of comparable initial strength."
+  },
+  "correct_answer": "B",
+  "explanation": "The argument is that seawater + volcanic ash produces mineral crystals that strengthen the concrete. B directly supports the mechanism by confirming the presence of the specific crystals (tobermorite) formed by this chemical reaction in actual Roman concrete. A partially supports the importance of seawater exposure but doesn't confirm the crystal-formation mechanism. C is historical testimony about volcanic ash but not the specific chemical mechanism. D shows volcanic ash can replace Portland cement but doesn't confirm the crystal-reinforcement mechanism in the original structures."
+}

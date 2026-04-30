@@ -1,0 +1,15 @@
+{
+  "id": "q_781",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Bioluminescence is the production of light by living organisms through chemical reactions.\n- It occurs in deep-sea fish, fireflies, certain fungi, and some marine plankton.\n- In many deep-sea organisms, bioluminescence is used to attract prey or communicate with potential mates.\n- In fireflies, the light signals are species-specific, allowing fireflies to identify appropriate mates.\n- Bioluminescent plankton emit light when disturbed, which may startle or confuse predators.\n\nThe student wants to introduce bioluminescence as a phenomenon and explain its general purpose. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Bioluminescence, the chemical production of light by living organisms, serves a variety of functions across species—from attracting prey and signaling mates in deep-sea fish to deterring predators in disturbed plankton.",
+    "B": "Fireflies use species-specific light signals to identify mates, while deep-sea organisms use bioluminescence to attract prey.",
+    "C": "Some marine plankton emit light when disturbed, which may startle or confuse the predators that threaten them.",
+    "D": "Bioluminescence occurs in deep-sea fish, fireflies, certain fungi, and some marine plankton."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to introduce bioluminescence and explain its general purpose. A defines the phenomenon (chemical production of light), notes its variety across species, and summarizes multiple functions (attracting prey, signaling mates, deterring predators), drawing on several notes. B focuses only on fireflies and deep-sea fish without introducing bioluminescence or covering its general purpose. C is a single detail from the plankton note—it introduces nothing. D lists where bioluminescence occurs but explains no purpose."
+}

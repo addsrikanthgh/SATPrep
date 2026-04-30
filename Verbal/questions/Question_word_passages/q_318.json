@@ -1,0 +1,16 @@
+{
+  "id": "q_318",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1:\nThe historian Hayden White argued that historical writing is fundamentally a literary practice. Historians do not simply record facts; they impose narrative forms—emplotment, in his terminology—onto the raw data of the past, shaping it into stories with beginnings, middles, and ends. Whether a historical period is narrated as a tragedy, a comedy, a romance, or a satire shapes the moral lessons readers draw from it, regardless of the underlying events. Historical meaning, White contended, is constructed rather than discovered.\n\nText 2:\nThe philosopher Paul Ricoeur acknowledged White's insight that narrative is central to historical understanding but resisted the conclusion that historical narrative is therefore merely fictional or arbitrary. Ricoeur argued that historical narratives are constrained by the evidence of the past—documents, artifacts, testimony—and by the responsibility historians have to account for that evidence. Unlike fiction, historical narrative must answer to what actually happened, even if the full truth of the past can never be completely recovered. This distinguishes history from literature, even if their rhetorical forms overlap.",
+  "question": "How does Ricoeur's argument in Text 2 engage with White's argument in Text 1?",
+  "choices": {
+    "A": "Ricoeur fully agrees with White that historical narrative is indistinguishable from literary fiction.",
+    "B": "Ricoeur rejects White's claim entirely, arguing that narrative plays no role in historical writing.",
+    "C": "Ricoeur accepts White's point that narrative shapes historical meaning but argues that the evidentiary constraints of history distinguish it from pure fiction.",
+    "D": "Ricoeur argues that historians should abandon narrative forms and adopt purely statistical methods."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 explicitly states that Ricoeur 'acknowledged White's insight that narrative is central to historical understanding but resisted the conclusion that historical narrative is therefore merely fictional or arbitrary.' This is a classic concede-but-qualify move: Ricoeur grants the narrative point (Text 1's core claim) while arguing that evidentiary constraints keep history distinct from fiction. C accurately describes this nuanced engagement. A overstates Ricoeur's agreement—he 'resisted' the full implication. B directly contradicts Text 2, which says Ricoeur 'acknowledged White's insight.' D introduces a prescriptive statistical claim not found in Text 2."
+}

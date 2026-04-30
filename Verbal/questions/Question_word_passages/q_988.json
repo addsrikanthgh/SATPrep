@@ -1,0 +1,16 @@
+{
+  "id": "q_988",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is researching the history of the Olympic Games and has taken the following notes:\n- The ancient Olympic Games were held at Olympia, Greece, every four years from approximately 776 BCE until 393 CE, when the Roman Emperor Theodosius I banned them as a pagan practice.\n- Athletes competed in events including running, wrestling, discus throw, javelin, and chariot racing.\n- The modern Olympic Games were revived by Pierre de Coubertin and first held in Athens, Greece, in 1896, with 14 nations and 241 athletes competing.\n- Coubertin's stated goal was to promote international peace and understanding through athletic competition.\n- Today, the Summer Olympics feature over 200 participating nations and approximately 10,000 athletes competing in more than 300 events.",
+  "question": "The student wants to contrast the scale of the first modern Olympics with the scale of the contemporary Summer Games. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Pierre de Coubertin revived the Olympic Games in Athens in 1896, with the goal of promoting international peace and understanding through athletic competition.",
+    "B": "The first modern Olympics in 1896 brought together 241 athletes from 14 nations; today's Summer Games draw approximately 10,000 athletes from more than 200 nations, representing a dramatic expansion in the event's global reach.",
+    "C": "The ancient Olympic Games were held every four years from 776 BCE until 393 CE and featured events such as running, wrestling, and chariot racing.",
+    "D": "The modern Olympic Games have grown to include more than 300 events across a wide range of sports, reflecting the increasing diversity of athletic competition recognized by the International Olympic Committee."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to contrast the scale of the 1896 Games with the modern Games. B directly juxtaposes the specific statistics from both notes: 241 athletes from 14 nations (1896) versus ~10,000 athletes from 200+ nations (today), and explicitly labels this 'a dramatic expansion.' This directly serves the contrast goal. A focuses on Coubertin's motivation, not scale. C describes the ancient Games, not the contrast between 1896 and today. D mentions 300+ events but does not directly compare to 1896 and lacks the athletes/nations statistics central to the contrast."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_289",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Critics of standardized testing have long argued that such tests measure not raw ability but access to test preparation resources, favoring students from wealthier families. Proponents counter that standardized scores provide an objective metric that corrects for grade inflation and variation in school quality. _______, several elite universities that adopted test-optional admissions policies during the COVID-19 pandemic subsequently found that reinstating test requirements improved both the predictive validity of admissions decisions and the socioeconomic diversity of enrolled classes—a finding that complicated simple narratives on both sides.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Adding to the consensus,",
+    "B": "Complicating both positions,",
+    "C": "As a result,",
+    "D": "In contrast to these findings,"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents two opposing camps (critics vs. proponents) and then introduces a finding that challenges simple conclusions on both sides. The passage itself ends with the phrase 'a finding that complicated simple narratives on both sides.' The transition should signal that the upcoming evidence unsettles, rather than resolves, the debate. 'Complicating both positions' (B) correctly captures this nuanced, neither-side-wins development. 'Adding to the consensus' (A) implies agreement has been reached—incorrect since the passage frames the finding as complicating, not resolving, the debate. 'As a result' (C) would imply the universities' experience was a consequence of the preceding debate—a causal link that is not present. 'In contrast to these findings' (D) is awkward since no prior findings have been stated, only positions."
+}

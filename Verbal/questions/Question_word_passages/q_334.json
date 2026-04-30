@@ -1,0 +1,16 @@
+{
+  "id": "q_334",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "Economists who study labor markets note that the number of workers displaced by automation _______ risen sharply in manufacturing sectors over the past two decades.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "were"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the relative clause within the noun phrase is 'the number,' not 'workers.' 'The number of [plural noun]' takes a singular verb; it is the count that is singular even though the noun inside the prepositional phrase is plural. 'Has risen' (A) is singular present perfect—correct. 'Have risen' (B) would agree with a plural subject such as 'workers' or 'a number of workers'—incorrect here. 'Had risen' (C) is singular past perfect, which implies the rise was completed before some other past event—inconsistent with 'over the past two decades,' which suggests an ongoing-to-present span requiring present perfect. 'Were' (D) is past tense and requires a past participle to form a passive, but 'risen' is a past participle used in an active perfect construction—'were risen' is not a standard construction."
+}

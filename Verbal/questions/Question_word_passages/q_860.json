@@ -1,0 +1,16 @@
+{
+  "id": "q_860",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The survey identified three key barriers to vaccination uptake in rural communities ______ distrust of government institutions, geographic inaccessibility of clinics, and concerns about side effects—findings that were consistent with earlier studies conducted in the region.",
+  "question": "Which choice correctly introduces the list after 'communities'?",
+  "choices": {
+    "A": "identified three key barriers to vaccination uptake in rural communities: distrust of government institutions, geographic inaccessibility of clinics, and concerns about side effects",
+    "B": "identified three key barriers to vaccination uptake in rural communities, distrust of government institutions, geographic inaccessibility of clinics, and concerns about side effects",
+    "C": "identified three key barriers to vaccination uptake in rural communities; distrust of government institutions, geographic inaccessibility of clinics, and concerns about side effects",
+    "D": "identified three key barriers to vaccination uptake in rural communities— distrust of government institutions, geographic inaccessibility of clinics, and concerns about side effects"
+  },
+  "correct_answer": "A",
+  "explanation": "A colon after an independent clause introduces a list. 'The survey identified three key barriers to vaccination uptake in rural communities' is a complete independent clause; the list that follows names those barriers. A correctly uses a colon. The sentence then closes with '—findings that were consistent with earlier studies,' an em dash introducing a final comment; this is structurally separate from the colon-introduced list. B uses a comma, which fails to clearly signal the start of a formal three-item list and creates ambiguity. C uses a semicolon, which joins independent clauses—the list items are not clauses. D uses an em dash before the list; while an em dash can introduce elaborations, the sentence already closes with an em dash (before 'findings'), so using an em dash to open the list creates an unmatched pair."
+}

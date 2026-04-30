@@ -1,0 +1,16 @@
+{
+  "id": "q_611",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "Developmental linguists have argued that children acquire their first language most effectively during a 'critical period' extending from birth to approximately age seven, after which the brain's plasticity for language acquisition diminishes. They cite the speed and ease with which young children master complex grammatical rules without formal instruction as evidence that early exposure to language activates specialized neural circuits.",
+  "question": "Which finding, if true, would most directly support the critical period hypothesis?",
+  "choices": {
+    "A": "Children who are not exposed to any language during the first several years of life fail to achieve full native-level grammatical competence even after intensive later instruction.",
+    "B": "Children raised bilingual from birth show slightly slower vocabulary growth in each language than monolingual children of the same age.",
+    "C": "Adults who study a second language intensively for five years can achieve near-native fluency in that language.",
+    "D": "Grammatical errors are equally common among children learning their first language regardless of whether they receive explicit correction."
+  },
+  "correct_answer": "A",
+  "explanation": "The critical period hypothesis predicts that missing early language exposure leads to permanent deficits. A directly supports this by showing that children deprived of language during the critical period never achieve full competence—even with later instruction. B is about bilingualism and vocabulary balance, not the critical period. C actually weakens the hypothesis by showing adults can reach near-native fluency. D is about error correction during acquisition and doesn't directly test the critical period claim."
+}

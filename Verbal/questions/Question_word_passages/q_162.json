@@ -1,0 +1,16 @@
+{
+  "id": "q_162",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Franz Kafka wrote most of his major work in German, yet he lived his entire life in Prague. Although he published relatively little during his lifetime, he instructed his friend Max Brod to destroy his manuscripts after his death, Brod refused to comply, and the world gained The Trial, The Castle, and Amerika.",
+  "question": "Which choice best corrects the underlined portion: \"he instructed his friend Max Brod to destroy his manuscripts after his death, Brod refused to comply, and the world gained The Trial, The Castle, and Amerika\"?",
+  "choices": {
+    "A": "he instructed his friend Max Brod to destroy his manuscripts after his death, Brod refused to comply, and the world gained The Trial, The Castle, and Amerika.",
+    "B": "he instructed his friend Max Brod to destroy his manuscripts after his death; Brod refused to comply, and the world gained The Trial, The Castle, and Amerika.",
+    "C": "he instructed his friend Max Brod to destroy his manuscripts after his death. Brod refused to comply. And the world gained The Trial, The Castle, and Amerika.",
+    "D": "he instructed his friend Max Brod to destroy his manuscripts after his death, and Brod refused to comply and the world gained The Trial, The Castle, and Amerika."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined portion contains a comma splice between the first independent clause ('he instructed his friend Max Brod to destroy his manuscripts after his death') and the second ('Brod refused to comply, and the world gained...'). A semicolon (B) correctly separates these two closely related independent clauses: the first establishes Kafka's wishes, and the second describes what actually happened. A (NO CHANGE) retains the comma splice. C uses three separate sentences, which is grammatically acceptable but stylistically choppy, and beginning a sentence with 'And' in formal writing is typically avoided on the SAT; more importantly, the passage's connective logic ('refused to comply, and the world gained') would be split awkwardly. D removes the comma splice but creates an ambiguous run-on with two 'and' clauses strung together without clear structure."
+}

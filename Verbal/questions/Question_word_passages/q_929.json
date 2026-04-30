@@ -1,0 +1,16 @@
+{
+  "id": "q_929",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The documentary filmmaker and the novelist ______ collaborated on the screenplay, each contributing distinctive expertise to the project.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "has",
+    "B": "have",
+    "C": "was",
+    "D": "is"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject is a compound subject joined by 'and': 'The documentary filmmaker and the novelist.' Compound subjects joined by 'and' are plural and require plural verbs. 'Have collaborated' is the correct plural present perfect form. 'Has' is singular—it would be correct only if one subject performed the action. 'Was' and 'is' are forms of 'be,' which cannot precede 'collaborated' as the main verb in standard English."
+}

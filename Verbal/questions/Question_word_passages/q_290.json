@@ -1,0 +1,16 @@
+{
+  "id": "q_290",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "In the early twentieth century, the city of Haussmann's Paris was widely admired as a model of modern urban planning—its broad boulevards, uniform building heights, and centralized sewer system seemed to represent the triumph of rationality over the chaotic medieval city. _______, critics such as Jane Jacobs later argued that precisely these features—the scale, the uniformity, the separation of uses—killed the street life and organic complexity that made cities worth living in.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Similarly,",
+    "B": "As a result,",
+    "C": "Decades later, however,",
+    "D": "In summary,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage moves from early twentieth-century admiration of Haussmann's Paris to a later critical reassessment by Jane Jacobs and others. Two dimensions are present: a temporal shift (early admiration → later criticism) and a contrast (admiration → critique). 'Decades later, however' (C) captures both: the temporal distance between the two periods and the logical contrast between the positions. 'Similarly' (A) would signal that the critics' view parallels the admiration—the opposite of what happens. 'As a result' (B) would imply the criticism was caused by the admiration, which misrepresents the relationship. 'In summary' (D) would indicate that the second sentence summarizes the preceding point—incorrect since it directly contradicts the first sentence's evaluation."
+}

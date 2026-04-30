@@ -1,0 +1,16 @@
+{
+  "id": "q_224",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "easy",
+  "passage": "The bacterium Deinococcus radiodurans can survive radiation doses more than a thousand times lethal to humans. Scientists initially assumed this resilience evolved in response to natural radioactive environments. That assumption turned out to be wrong. Deinococcus does not live in particularly radioactive habitats; instead, its extraordinary DNA repair machinery appears to have evolved as an adaptation to severe desiccation—the same molecular toolkit that repairs desiccation damage also, incidentally, repairs radiation damage.",
+  "question": "What function does the sentence \"That assumption turned out to be wrong\" serve in the passage?",
+  "choices": {
+    "A": "It disproves the claim that Deinococcus radiodurans can survive extreme radiation.",
+    "B": "It signals the rejection of a previously stated hypothesis and prepares the reader for the corrected explanation that follows.",
+    "C": "It supports the scientists' original theory about radiation-adapted bacteria.",
+    "D": "It introduces desiccation as a topic unrelated to Deinococcus's radiation resistance."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence directly refutes the preceding hypothesis (radiation-environment adaptation) and sets up the actual explanation—desiccation adaptation—that follows. It functions as a clear pivot signal, telling the reader that the intuitive explanation has been discredited and that a corrected account is coming. B accurately captures this function. A is wrong because the sentence says nothing about the bacterium's radiation survival ability; it challenges the explanation for that ability. C contradicts the sentence's meaning, which explicitly rejects the scientists' original theory. D incorrectly positions desiccation as 'unrelated'—the whole subsequent passage connects desiccation directly to radiation resistance."
+}

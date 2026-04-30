@@ -1,0 +1,16 @@
+{
+  "id": "q_138",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "By the time the relief expedition reached the fort, the garrison ___ out of ammunition for nearly three days and had survived only by constructing makeshift barricades.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "ran",
+    "B": "has run",
+    "C": "had run",
+    "D": "was running"
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence describes two past events: the garrison running out of ammunition, and the arrival of the relief expedition. Because the ammunition shortage occurred before the expedition arrived—and the phrase 'for nearly three days' reinforces this—the past perfect 'had run' (C) is required. The past perfect signals an action completed before another past action. 'Ran' (A) uses the simple past, which fails to establish the sequence of past events. 'Has run' (B) uses the present perfect, which is inconsistent with the fully past context established by 'reached.' 'Was running' (D) uses the past progressive, which describes an ongoing action rather than a completed state of having exhausted supplies."
+}

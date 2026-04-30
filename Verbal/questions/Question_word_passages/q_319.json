@@ -1,0 +1,16 @@
+{
+  "id": "q_319",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1:\nFor most of human prehistory, salt was a precious commodity. Before refrigeration, salt was the primary means of preserving meat and fish, and its scarcity meant that entire trading routes and economies were organized around its supply. The word 'salary' derives from the Latin salarium—a payment in salt or for the purchase of salt—reflecting how central salt was to economic life in the ancient world.\n\nText 2:\nThe modern relationship with salt is almost entirely reversed. Industrial food processing produces far more salt than most people need, and public health researchers have identified excessive sodium consumption as a major risk factor for hypertension and cardiovascular disease. Regulatory agencies in many countries have pushed food manufacturers to reduce sodium content in processed foods, and population-wide sodium reduction campaigns have been shown to modestly lower average blood pressure.",
+  "question": "What is the primary relationship between the two texts?",
+  "choices": {
+    "A": "Both texts argue that salt should be more tightly regulated by governments.",
+    "B": "Text 1 describes salt's historical scarcity and value, while Text 2 describes the reversed modern situation in which salt abundance has become a public health problem.",
+    "C": "Text 2 contradicts Text 1 by arguing that salt has always been abundant and inexpensive throughout human history.",
+    "D": "Both texts focus on the linguistic origins of economic terminology related to salt."
+  },
+  "correct_answer": "B",
+  "explanation": "The two texts present a before-and-after contrast: Text 1 covers salt's historical scarcity and economic value, while Text 2 covers the modern situation of salt abundance and the associated health concerns. B accurately identifies this reversal as the organizing relationship. A incorrectly claims both texts advocate regulation—Text 1 makes no normative policy claim. C incorrectly says Text 2 contradicts Text 1 about abundance—they describe different historical periods. D is incorrect—only Text 1 mentions linguistic etymology (salarium), and Text 2 says nothing about word origins."
+}

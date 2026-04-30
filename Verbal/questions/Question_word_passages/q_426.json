@@ -1,0 +1,16 @@
+{
+  "id": "q_426",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The philosopher's argument was elliptical—never stating its central claim directly but circling around it through a series of examples and qualifications that left attentive readers to infer the conclusion themselves.",
+  "question": "As used in the passage, 'elliptical' most nearly means",
+  "choices": {
+    "A": "oval or egg-shaped in physical form.",
+    "B": "indirect and incomplete; omitting words or steps that the reader must supply.",
+    "C": "unnecessarily long and repetitive.",
+    "D": "highly technical and difficult for non-specialists to understand."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'elliptical' describes reasoning that never states its conclusion directly, requiring readers to infer it—the rhetorical sense of 'elliptical' meaning speech or writing that omits key elements, leaving them for the audience to supply. B captures this. A is the geometric/physical shape sense. C is the opposite—'elliptical' implies omission (brevity), not repetition. D introduces a technical-difficulty sense not implied by 'elliptical.'"
+}

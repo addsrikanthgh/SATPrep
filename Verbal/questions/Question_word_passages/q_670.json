@@ -1,0 +1,16 @@
+{
+  "id": "q_670",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Cognitive behavioral therapy (CBT) has accumulated a substantial evidence base as an effective treatment for depression and anxiety, with hundreds of randomized controlled trials supporting its efficacy. _______ critics note that the populations studied in those trials are often unrepresentative—skewing toward educated, predominantly white participants—which limits the generalizability of the findings to more diverse clinical populations.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Yet",
+    "B": "As a result,",
+    "C": "Furthermore,",
+    "D": "Indeed,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence presents strong evidence for CBT's effectiveness (large evidence base, hundreds of trials). The second introduces a qualification or objection to that claim (the studies are not representative). This is a concessive contrast: despite the extensive evidence, there is a meaningful limitation. 'Yet' (A) is a concessive transition that precisely captures this 'strong claim, but with a reservation' structure. 'As a result' (B) would imply the lack of generalizability follows from the efficacy evidence, which is illogical. 'Furthermore' (C) would add a supporting point rather than a complication. 'Indeed' (D) reinforces rather than qualifies."
+}

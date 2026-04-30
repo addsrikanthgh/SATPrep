@@ -1,0 +1,16 @@
+{
+  "id": "q_157",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The geologist's findings—that the sediment layers predated the volcanic event by at least two millennia—contradicted the prevailing model, which had assumed simultaneous deposition.",
+  "question": "Which choice best explains the punctuation of the sentence above?",
+  "choices": {
+    "A": "The em dashes around 'that the sediment layers predated the volcanic event by at least two millennia' are incorrect; a colon after 'findings' would be more appropriate.",
+    "B": "The em dashes correctly set off a parenthetical clause that specifies the content of the findings, allowing the main clause to remain clear.",
+    "C": "The comma after 'model' should be replaced with a semicolon because what follows is an independent clause.",
+    "D": "The em dashes are unnecessary because the parenthetical clause contains no internal commas that would cause ambiguity."
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'that the sediment layers predated the volcanic event by at least two millennia' is a noun clause specifying the content of 'the geologist's findings.' Setting it off with em dashes creates a clear parenthetical that separates the elaboration from the main clause—'The geologist's findings contradicted the prevailing model'—while keeping the overall sentence readable. B correctly describes this function. A is incorrect; a colon after 'findings' would create 'The geologist's findings: that..., contradicted the model,' which breaks the subject-verb relationship. C is incorrect; 'which had assumed simultaneous deposition' is a relative clause modifying 'model,' not an independent clause—a semicolon would be wrong. D is incorrect; em dashes may also be used for emphasis and clarity even without internal commas."
+}

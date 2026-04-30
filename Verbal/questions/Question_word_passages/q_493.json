@@ -1,0 +1,16 @@
+{
+  "id": "q_493",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "hard",
+  "passage": "The political theorist Hannah Arendt distinguished between 'labor,' 'work,' and 'action' as three fundamental human activities. Labor is the biological process of maintaining life—endless, cyclical, and leaving no lasting product. Work is fabrication: making durable objects that outlast the maker and constitute a shared human world. Action is the most distinctively human activity: it is speech and deed in the public realm, the capacity to begin something new, to insert oneself into history. Arendt argued that modernity had distorted these categories by reducing all activity to the logic of labor—to biological necessity and economic consumption—at the expense of action, which she saw as the basis of political freedom.",
+  "question": "According to the passage, how does Arendt characterize 'action'?",
+  "choices": {
+    "A": "As a form of biological necessity that maintains the conditions for human survival",
+    "B": "As the fabrication of durable objects that constitute the shared human world",
+    "C": "As speech and deed in the public realm that allows humans to begin something new and participate in political life",
+    "D": "As an activity that modernity has successfully preserved by elevating it above the demands of labor"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage defines action as 'speech and deed in the public realm, the capacity to begin something new, to insert oneself into history' and links it to political freedom. C accurately reflects this definition. A describes 'labor' (biological maintenance of life), not action. B describes 'work' (fabrication of durable objects), not action. D is directly contradicted—the passage says modernity has distorted categories by reducing activity to the logic of labor at the expense of action."
+}

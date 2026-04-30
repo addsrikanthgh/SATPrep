@@ -1,0 +1,16 @@
+{
+  "id": "q_731",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "Among the candidates interviewed for the position, it was Dr. Osei _______ the panel ultimately recommended for appointment.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "whom",
+    "B": "who",
+    "C": "that",
+    "D": "which"
+  },
+  "correct_answer": "A",
+  "explanation": "In this 'it was...whom/who' cleft construction, the pronoun functions as the object of the verb 'recommended' in the relative clause. To test: 'the panel ultimately recommended [him/her]'—the objective form 'him/her' confirms the pronoun must be in the objective case. 'Whom' (A) is the objective-case relative pronoun and is correct. 'Who' (B) is the subject-case relative pronoun and would be incorrect as the object of 'recommended.' 'That' (C) can replace 'whom' in informal writing but 'whom' is preferred in formal written English when the objective case is called for. 'Which' (D) refers to things, not people."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_779",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Hurricanes form over warm tropical ocean water when moisture evaporates from the surface, rises, and cools, releasing the latent heat stored in water vapor. This heat drives the upward circulation of air, creating a low-pressure center. Surrounding air rushes inward to fill the low-pressure zone, and the Coriolis effect—caused by Earth's rotation—causes the incoming air to spiral rather than flow straight in. As the storm feeds on ocean heat and moisture, wind speeds intensify; a storm is classified as a hurricane once sustained winds reach 74 miles per hour. The spiral bands of thunderstorms surrounding the calm eye of a hurricane can extend hundreds of miles from the center.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain the physical processes by which hurricanes form and intensify.",
+    "B": "argue that hurricanes are becoming more frequent and severe due to climate change.",
+    "C": "compare the destructive power of hurricanes to that of other severe weather events.",
+    "D": "describe the historical development of the Saffir-Simpson hurricane wind scale."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a step-by-step explanation of hurricane formation: evaporation, condensation and latent heat release, low-pressure center formation, Coriolis effect causing spiraling, intensification, and final hurricane classification. A correctly identifies this as a causal, process-oriented explanation. B introduces climate change arguments not present in the passage. C describes comparative damage analysis not undertaken. D describes the history of the Saffir-Simpson scale; the passage mentions the 74-mph threshold for classification but does not discuss the scale or its history."
+}

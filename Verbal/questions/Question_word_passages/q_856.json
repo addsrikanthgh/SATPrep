@@ -1,0 +1,16 @@
+{
+  "id": "q_856",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Because the data set contained numerous outliers ______ the statistician recommended applying a robust regression model rather than ordinary least squares, which is highly sensitive to extreme values.",
+  "question": "Which choice correctly punctuates the introductory dependent clause?",
+  "choices": {
+    "A": "Because the data set contained numerous outliers, the statistician recommended",
+    "B": "Because the data set contained numerous outliers the statistician recommended",
+    "C": "Because the data set contained numerous outliers; the statistician recommended",
+    "D": "Because the data set contained numerous outliers: the statistician recommended"
+  },
+  "correct_answer": "A",
+  "explanation": "An introductory dependent clause beginning with a subordinating conjunction ('Because') should be followed by a comma before the main clause. A correctly places the comma after 'outliers.' B omits the comma; while this is sometimes permissible for very short introductory clauses, it is incorrect for longer clauses and contrary to SAT conventions. C uses a semicolon, which is incorrect—a semicolon cannot follow a dependent clause; it connects independent clauses. D uses a colon, which is also incorrect here—the dependent clause is not introducing a list or direct elaboration."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_373",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The sociology of knowledge asks not just what people know but how they know it—specifically, how social position, institutional affiliation, and cultural background shape what counts as legitimate knowledge and which questions get asked. Karl Mannheim argued that all thought (except, controversially, mathematics and natural science) is 'perspectival'—shaped by the knower's social location. More recently, feminist epistemologists such as Sandra Harding have extended this insight, arguing that the standpoints of marginalized groups—who must understand both their own world and the dominant culture that defines them—may generate epistemically privileged perspectives unavailable to those at the center of power.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that mathematics and natural science are the only valid forms of knowledge.",
+    "B": "introduce two key ideas in the sociology of knowledge—Mannheim's perspectivalism and Harding's standpoint theory—and trace the development from one to the other.",
+    "C": "compare the intellectual achievements of Karl Mannheim and Sandra Harding to determine whose contribution was more significant.",
+    "D": "refute the claim that social position has any effect on the production of knowledge."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces the sociology of knowledge, presents Mannheim's perspectivalism (all non-mathematical/scientific thought is shaped by social location), and then presents Harding's extension of that insight (marginalized standpoints may be epistemically privileged). The structure traces an intellectual development from Mannheim to Harding's feminist standpoint theory. B accurately describes this introductory-and-developmental structure. A attributes to the passage a view that contradicts it—Mannheim's exclusion of math and science is presented as controversial, not as the passage's conclusion. C introduces a comparative assessment of the two thinkers not present in the passage. D attributes a refutation of social effects to the passage, which is the opposite of what both Mannheim and Harding argue."
+}

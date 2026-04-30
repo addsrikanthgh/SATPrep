@@ -1,0 +1,16 @@
+{
+  "id": "q_664",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The introduction of the automobile transformed American cities in the twentieth century, enabling suburban expansion and reshaping commercial districts around car access. _______ the proliferation of highways also fragmented urban neighborhoods, displaced communities through eminent domain, and contributed to the decline of public transit systems that millions of low-income residents depended upon.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "However,",
+    "B": "Therefore,",
+    "C": "As a result,",
+    "D": "In other words,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes positive transformations attributed to the automobile (suburban expansion, reshaped commerce). The second introduces negative consequences of the same development (fragmentation, displacement, transit decline). This is a clear contrast between beneficial and harmful effects of the same phenomenon. 'However' (A) correctly signals this contrast. 'Therefore' (B) and 'As a result' (C) would both imply the harms were a consequence of the benefits described, when in fact they are contrasting aspects of the same process. 'In other words' (D) implies the second sentence restates the first, which it does not."
+}

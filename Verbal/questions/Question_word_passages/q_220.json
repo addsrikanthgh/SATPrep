@@ -1,0 +1,16 @@
+{
+  "id": "q_220",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A national arts foundation analyzed data from 38 school districts and compared per-pupil arts education funding with average student scores on a standardized arts appreciation and cultural literacy assessment. Districts spending less than $50 per pupil on arts education averaged a score of 42 out of 100. Those spending $50–$100 averaged 55. Districts spending $100–$200 averaged 67, and those spending above $200 per pupil averaged 79. The foundation also noted that urban districts tended to spend more on arts education than rural districts, independent of overall budget levels.",
+  "question": "An arts education advocate claims that increased per-pupil arts funding is associated with higher student performance on cultural literacy assessments. Which data from the analysis most directly supports this claim?",
+  "choices": {
+    "A": "Urban districts tended to spend more on arts education than rural districts, independent of overall budget levels.",
+    "B": "Districts spending above $200 per pupil on arts education had the highest average assessment scores at 79 out of 100.",
+    "C": "Assessment scores increased consistently with per-pupil arts funding across all four spending categories: 42, 55, 67, and 79 out of 100.",
+    "D": "Districts spending less than $50 per pupil had the lowest average assessment score of 42."
+  },
+  "correct_answer": "C",
+  "explanation": "The advocate's claim requires evidence of a consistent positive relationship between funding level and student performance across all spending tiers. C describes the full increasing pattern across all four funding categories, providing the most direct and complete evidence. B and D each cite only one data point (the highest and lowest spending groups, respectively) and cannot alone establish a consistent association. A introduces a geographic variable (urban vs. rural) that is a separate finding and does not directly address the funding–performance relationship."
+}

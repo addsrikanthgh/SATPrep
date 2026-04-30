@@ -1,0 +1,16 @@
+{
+  "id": "q_343",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Cognitive scientists have documented that working memory—the mental workspace used to temporarily hold and manipulate information—has a sharply limited capacity of roughly four 'chunks' of information at a time. Experts in a domain, however, can appear to exceed this limit because years of practice allow them to encode complex configurations as single chunks. A chess grandmaster, for example, does not memorize individual piece positions but rather perceives the entire board as a small number of recognizable patterns—each constituting one chunk—and can reconstruct a mid-game board from a five-second glance far more accurately than a novice.",
+  "question": "Based on the passage, what can most reasonably be inferred about the difference between novice and expert performance on memory tasks?",
+  "choices": {
+    "A": "Experts have larger working memories than novices, allowing them to hold more raw information at once.",
+    "B": "Expert performance on domain-specific memory tasks exceeds novice performance not because of greater raw capacity but because experts can compress domain knowledge into larger, more meaningful chunks.",
+    "C": "Novices perform better than experts on tasks involving unfamiliar material because experts are constrained by their domain-specific chunking habits.",
+    "D": "Working memory capacity increases with age, which is why experts tend to outperform novices in all cognitive tasks."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that the working memory limit is about four chunks, and that experts 'appear to exceed this limit' because they encode complex configurations as single chunks—not because their raw capacity is larger. B correctly infers that the advantage comes from chunking efficiency, not greater raw capacity. A directly contradicts the passage, which says experts 'appear to exceed' the limit through chunking, not actual capacity expansion. C makes a claim about novice-over-expert performance on unfamiliar tasks that the passage does not support. D introduces an age-based claim about capacity that the passage never mentions."
+}

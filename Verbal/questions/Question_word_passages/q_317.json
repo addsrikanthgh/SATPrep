@@ -1,0 +1,16 @@
+{
+  "id": "q_317",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nEcologists studying deep-ocean hydrothermal vents discovered in the 1970s that thriving ecosystems could exist without sunlight. Rather than photosynthesis, these communities rely on chemosynthesis—bacteria that oxidize hydrogen sulfide released by the vents to produce energy. These bacteria form the base of a food web supporting tube worms, crabs, clams, and fish in complete darkness, at crushing pressures, and in water heated to hundreds of degrees Celsius near the vent openings.\n\nText 2:\nThe discovery of vent ecosystems has had implications beyond marine biology. Astrobiologists argue that if complex life can thrive in the complete absence of sunlight by exploiting chemical energy, then the range of planetary environments that could support life is far broader than the traditional 'habitable zone'—the narrow band of distances from a star where liquid water can exist on a planetary surface. Moons like Europa (orbiting Jupiter) and Enceladus (orbiting Saturn), which have subsurface liquid water warmed by tidal heating rather than sunlight, become plausible candidates for harboring life.",
+  "question": "How does the argument in Text 2 build on the discovery described in Text 1?",
+  "choices": {
+    "A": "Text 2 disputes Text 1's claim that vent ecosystems rely on chemosynthesis, arguing that some sunlight penetrates to deep-sea vents.",
+    "B": "Text 2 uses the existence of sunlight-independent vent ecosystems as evidence that the conditions necessary for life may be broader than previously assumed, expanding the search for extraterrestrial life.",
+    "C": "Text 2 argues that deep-sea vent ecosystems are more diverse than surface ecosystems and should receive more research funding.",
+    "D": "Text 1 and Text 2 address completely unrelated topics and share only the word 'ecosystem.'"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 establishes the existence of sunlight-independent ecosystems sustained by chemosynthesis. Text 2 draws an astrobiological implication from this discovery: if life doesn't need sunlight, the habitable zone concept expands, and moons with liquid water warmed by tidal heating (like Europa and Enceladus) become life candidates. B accurately describes this reasoning chain. A contradicts Text 1. C introduces a funding claim neither text makes. D is incorrect—Text 2 explicitly uses the discovery from Text 1 as its premise."
+}

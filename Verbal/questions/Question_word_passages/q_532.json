@@ -1,0 +1,16 @@
+{
+  "id": "q_532",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The award was presented to whomever _______ made the most significant contribution to the field of regenerative medicine in the preceding year.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "had",
+    "B": "having",
+    "C": "has",
+    "D": "would have"
+  },
+  "correct_answer": "A",
+  "explanation": "The clause 'whomever ___ made the most significant contribution' is a noun clause functioning as the object of 'to.' Within this clause, 'whomever' is itself the subject of the verb. The correct word is 'whomever' because it is the object of the preposition 'to,' but within the embedded clause, it is the subject of the verb. The verb should be past perfect 'had made' to indicate the contribution occurred before the award was presented (both past actions, one preceding the other). A ('had') correctly completes 'had made.' B ('having') is a participle, not a finite verb. C ('has') is present tense, inconsistent with the past context. D ('would have') introduces a conditional that is not appropriate in this factual past statement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_621",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The architect's design was celebrated for its austerity: clean lines, unadorned surfaces, and a refusal of any element that did not serve a structural purpose. Critics who had expected grandeur were initially disappointed, but over time the building's _______ simplicity won widespread admiration.",
+  "question": "As used in context, which word most nearly captures the intended meaning of the blank?",
+  "choices": {
+    "A": "austere",
+    "B": "garish",
+    "C": "ornate",
+    "D": "cluttered"
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes a design celebrated for 'austerity'—unadorned, spare, functional. 'Austere simplicity' is internally consistent with this description and with the long-term admiration of critics who came to appreciate the style. Garish (showy, gaudy) and ornate (elaborately decorated) are antonyms of the style described. Cluttered implies disorder, which contradicts the 'clean lines' aesthetic."
+}

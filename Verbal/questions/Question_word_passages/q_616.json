@@ -1,0 +1,16 @@
+{
+  "id": "q_616",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Media researchers argued that exposure to violent video games increases aggressive behavior in players by desensitizing them to violence and normalizing aggressive responses to frustration. They cited laboratory studies in which participants who played violent games for thirty minutes subsequently administered louder noise blasts to opponents in a competitive task compared to participants who played non-violent games.",
+  "question": "Which finding, if true, would most directly weaken the researchers' conclusion?",
+  "choices": {
+    "A": "A meta-analysis found that countries with the highest per-capita consumption of violent video games tend to have lower rates of violent crime than countries with lower consumption.",
+    "B": "Participants in the violent game condition reported feeling more excited than participants in the non-violent game condition.",
+    "C": "The researchers used a variety of violent game genres—first-person shooters, fighting games, and action-adventure games—to ensure their sample was representative.",
+    "D": "Subsequent studies using the same noise blast paradigm replicated the finding that violent game players administer louder blasts."
+  },
+  "correct_answer": "A",
+  "explanation": "The conclusion is that violent games increase real-world aggressive behavior. A weakens this by showing that the real-world behavior pattern (violent crime) is inversely correlated with violent game consumption across countries—inconsistent with the lab findings generalizing to real-world aggression. B suggests arousal differences, which could be an alternative explanation for the noise blast results. C describes methodological rigor, which strengthens rather than weakens the argument. D replicates the lab finding, strengthening rather than weakening the argument."
+}

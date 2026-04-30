@@ -1,0 +1,16 @@
+{
+  "id": "q_328",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The data collected over the past decade strongly _______ the hypothesis that moderate exercise reduces inflammation markers in adults over sixty.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "support",
+    "B": "supports",
+    "C": "have supported",
+    "D": "are supporting"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The data,' and in modern American English, 'data' is typically treated as a plural noun (it is the plural of 'datum'). Therefore, the plural verb 'support' (A) is correct. 'Supports' (B) would be appropriate if 'data' were treated as a singular mass noun, which is acceptable in informal usage but less standard in scientific writing—and in SAT contexts, the plural treatment of 'data' is standard. 'Have supported' (C) is plural present perfect—while grammatically agreeable with plural 'data,' the simple present 'support' more accurately conveys the ongoing, current relationship between data and hypothesis. 'Are supporting' (D) is plural present progressive, which implies a temporary ongoing action—less appropriate than the habitual-present 'support' for describing what the accumulated data shows."
+}

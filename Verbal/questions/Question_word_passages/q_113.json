@@ -1,0 +1,16 @@
+{
+  "id": "q_113",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The Arctic Ocean is warming at a rate roughly four times faster than the global average. _______, sea ice extent in the Arctic has declined dramatically over the past four decades, reducing habitat for species such as polar bears and ringed seals.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "In contrast,",
+    "C": "Consequently,",
+    "D": "For instance,"
+  },
+  "correct_answer": "C",
+  "explanation": "The second sentence describes a result (sea ice decline) of the cause stated in the first sentence (accelerated warming). 'Consequently' (C) correctly signals this cause-and-effect relationship. 'Nevertheless' (A) and 'In contrast' (B) signal contradiction or contrast, which misrepresents the relationship—the ice decline is a direct consequence of warming, not a surprising exception to it. 'For instance' (D) would signal that the second sentence is an example of the first, but the ice decline is a consequence, not merely an illustration."
+}

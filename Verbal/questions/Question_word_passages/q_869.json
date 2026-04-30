@@ -1,0 +1,16 @@
+{
+  "id": "q_869",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Proponents of universal basic income argue that it would reduce poverty and provide economic security in a future where automation displaces many jobs. Critics counter that unconditional cash transfers would discourage work and create unsustainable fiscal burdens. ______, pilot programs in Finland, Kenya, and Stockton, California, found that UBI recipients did not reduce work effort and reported improved well-being.",
+  "question": "Which choice most effectively transitions from the critics' position to the evidence?",
+  "choices": {
+    "A": "Similarly",
+    "B": "As a result",
+    "C": "In support of this view",
+    "D": "Empirical evidence, however, suggests otherwise"
+  },
+  "correct_answer": "D",
+  "explanation": "'Empirical evidence, however, suggests otherwise' signals that the evidence contradicts the critics' position, which is the function of the third sentence—it directly challenges the claim that UBI reduces work effort. 'Similarly' implies the evidence supports the critics, but it actually contradicts them. 'As a result' implies the pilot programs were caused by the critics' objections, which misrepresents the relationship. 'In support of this view' implies the evidence supports the critics' objection about work discouragement—the opposite of what the evidence shows."
+}

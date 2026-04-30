@@ -1,0 +1,16 @@
+{
+  "id": "q_449",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "Priya, who had studied marine biology for seven years _______ accepted a position at the aquarium's research center.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "years, accepted",
+    "B": "years accepted",
+    "C": "years; accepted",
+    "D": "years: accepted"
+  },
+  "correct_answer": "A",
+  "explanation": "The nonrestrictive clause 'who had studied marine biology for seven years' modifies 'Priya' and is enclosed by commas. The clause opens with a comma after 'Priya' and must close with a comma after 'years' before the main verb 'accepted.' A correctly closes the nonrestrictive clause. B omits the closing comma. C uses a semicolon, which would begin a second independent clause—'accepted a position' is not an independent clause on its own. D uses a colon, which introduces a list or elaboration."
+}

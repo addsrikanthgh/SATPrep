@@ -1,0 +1,16 @@
+{
+  "id": "q_332",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The jury _______ its verdict after deliberating for three days, and the courtroom fell silent as the forewoman rose to speak.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "delivered",
+    "B": "deliver",
+    "C": "were delivering",
+    "D": "have delivered"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject 'The jury' is a collective noun treated as singular in American English when the group acts as a unit—and delivering a verdict is a unified group action. The sentence is in the past tense ('fell silent,' 'rose'). 'Delivered' (A) is singular past—correct. 'Deliver' (B) is present tense—incorrect for a past narrative. 'Were delivering' (C) is plural past progressive—incorrect agreement. 'Have delivered' (D) is present perfect—incorrect tense in a past-tense narrative."
+}

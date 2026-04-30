@@ -1,0 +1,16 @@
+{
+  "id": "q_259",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The zookeepers noticed that the elder elephant, despite her advanced age had not lost her ability to navigate complex social hierarchies within the herd.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "Insert a comma after 'age' to close the nonrestrictive interruptive phrase 'despite her advanced age.'",
+    "B": "Remove the comma after 'elephant' because the phrase 'despite her advanced age' is essential to the sentence's meaning.",
+    "C": "Replace the comma after 'elephant' with a dash to signal a more emphatic interruption.",
+    "D": "Insert a semicolon after 'age' to separate the introductory clause from the main clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'despite her advanced age' is a nonrestrictive interruptive prepositional phrase inserted into the middle of the main clause. Such interruptive phrases must be enclosed by commas on both sides. An opening comma appears after 'elephant,' but the closing comma after 'age' is missing. Without it, the sentence reads as if 'had not lost her ability' is part of the interrupting phrase, creating confusion. A is correct. B is incorrect; the phrase is nonrestrictive—removing it ('the zookeepers noticed that the elder elephant had not lost her ability...') does not change the sentence's essential meaning. C is technically possible but unnecessary; the conventional choice for enclosing a mild parenthetical phrase is commas, not dashes. D is incorrect; a semicolon cannot separate a parenthetical phrase from a main clause."
+}

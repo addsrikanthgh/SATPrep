@@ -1,0 +1,16 @@
+{
+  "id": "q_620",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "Education researchers argued that high-quality early childhood education programs—particularly those targeting children from low-income families aged three to five—produce long-term benefits that extend well beyond the program years. They cited studies tracking participants across decades and finding that preschool program alumni had higher high school graduation rates, higher employment rates, and lower rates of criminal conviction in adulthood compared to similar children who did not attend the programs.",
+  "question": "Which finding, if true, would most directly support the researchers' argument about long-term benefits?",
+  "choices": {
+    "A": "A fifty-year follow-up study of participants in a high-quality preschool program found that by age 40, program alumni had higher median incomes and lower incarceration rates than a control group of similar children who had not participated.",
+    "B": "Children who attend high-quality preschool programs score higher on kindergarten readiness assessments than children who do not attend.",
+    "C": "Early childhood programs that employ certified teachers achieve better short-term cognitive outcomes than those relying on paraprofessionals.",
+    "D": "Federal and state investment in early childhood education has increased substantially over the past twenty years."
+  },
+  "correct_answer": "A",
+  "explanation": "The argument is about long-term benefits (across decades, into adulthood). A directly supports this with a fifty-year follow-up showing adult outcomes (income, incarceration) favoring program participants. B shows short-term benefits (kindergarten readiness), not the long-term outcomes the argument specifies. C is about teacher qualifications and short-term outcomes, not long-term benefits. D describes investment trends and is irrelevant to whether programs actually produce long-term benefits."
+}

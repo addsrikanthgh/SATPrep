@@ -1,0 +1,16 @@
+{
+  "id": "q_355",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Paleoanthropologists have long debated when modern humans first left Africa. For decades, the prevailing view placed the 'out of Africa' dispersal at approximately 60,000 years ago, based on genetic evidence showing that all non-African populations descended from a single ancestral group that crossed into the Arabian Peninsula through the Bab el-Mandeb strait. However, fossil and archaeological evidence found at sites in Greece, China, and the Arabian Peninsula suggest that anatomically modern humans were present outside Africa more than 100,000 years ago—raising the possibility of earlier dispersal events that left no detectable trace in the modern gene pool.",
+  "question": "Based on the passage, what can most reasonably be inferred about the relationship between genetic and fossil evidence for early human dispersal?",
+  "choices": {
+    "A": "Genetic evidence is always more reliable than fossil evidence for reconstructing human history.",
+    "B": "The genetic and fossil evidence are entirely consistent with each other, supporting a single dispersal approximately 60,000 years ago.",
+    "C": "Earlier dispersals of anatomically modern humans may have occurred but left no surviving genetic legacy, suggesting those populations did not contribute to the ancestry of living non-Africans.",
+    "D": "The fossil evidence of humans in Greece and China proves that the 60,000-year dispersal date is entirely wrong."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes genetic evidence pointing to a 60,000-year dispersal and fossil evidence suggesting earlier presence but 'no detectable trace in the modern gene pool.' The passage explicitly raises the possibility that earlier dispersals occurred but left no genetic trace—implying those populations either went extinct or were absorbed without leaving descendants among living humans. C correctly infers this interpretation. A makes an absolute methodological claim the passage does not support. B directly contradicts the passage, which describes the two lines of evidence as in tension. D overstates—the passage says the fossils raise 'the possibility' of earlier events, not that they prove the 60,000-year date is wrong."
+}

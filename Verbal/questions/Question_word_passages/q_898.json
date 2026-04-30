@@ -1,0 +1,16 @@
+{
+  "id": "q_898",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The placebo effect—improvements in health outcomes attributable to the expectation of treatment rather than any active ingredient—is a well-documented phenomenon in clinical medicine. Its neurobiological basis involves the release of endogenous opioids and other neurotransmitters in response to the belief that one has received treatment. Placebo effects can be surprisingly robust: in some trials for pain and depression, placebos produce outcomes comparable to active drugs. This complicates drug development, as new treatments must demonstrate efficacy above and beyond the placebo response. Interestingly, research has shown that open-label placebos—pills given to patients with full disclosure that they contain no active ingredient—can still produce measurable benefits, suggesting that conscious belief in a treatment is not strictly necessary for the placebo effect to occur.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "The placebo effect proves that most pharmaceutical drugs are no more effective than sugar pills.",
+    "B": "The placebo effect is a neurobiologically grounded phenomenon that can be surprisingly strong and, intriguingly, does not require conscious belief to operate.",
+    "C": "Open-label placebos are the most effective treatment for pain and depression currently available.",
+    "D": "Because of the placebo effect, clinical drug trials are fundamentally unreliable and should be redesigned."
+  },
+  "correct_answer": "B",
+  "explanation": "B correctly identifies the two main points of the passage: the neurobiological basis and surprising strength of the placebo effect, and the counterintuitive finding about open-label placebos. A overstates—the passage does not claim most drugs are ineffective, only that some produce outcomes comparable to placebos in certain trials. C makes a comparative effectiveness claim the passage does not support. D makes a policy recommendation not advocated by the passage."
+}

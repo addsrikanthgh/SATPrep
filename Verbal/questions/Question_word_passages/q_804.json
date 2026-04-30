@@ -1,0 +1,16 @@
+{
+  "id": "q_804",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "A literary scholar argues that Virginia Woolf's use of stream-of-consciousness narration is not merely a stylistic experiment but a deliberate feminist challenge to the tradition of authoritative omniscient narration, which historically prioritized masculine perspectives as universal.",
+  "question": "Which quotation from a critical essay on Woolf would most directly support the scholar's argument?",
+  "choices": {
+    "A": "'By granting each character an interior voice resistant to external summary, Woolf undermines the presupposition that any single consciousness—particularly the detached, implicitly male narrator of Victorian fiction—can authoritatively represent subjective experience.'",
+    "B": "'Woolf's stream-of-consciousness technique was influenced by the psychological theories of William James, who coined the phrase \"stream of consciousness\" to describe the continuous flow of mental life.'",
+    "C": "'Mrs. Dalloway, published in 1925, alternates between the perspectives of Clarissa Dalloway and Septimus Smith, connecting their parallel experiences across a single day in London.'",
+    "D": "'Woolf's critical essays, including A Room of One's Own, argue that women need financial independence and private space to produce literature on equal terms with men.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The scholar's argument is that stream of consciousness is a feminist challenge to authoritative omniscient narration as a masculine tradition. A directly supports this by explaining that Woolf's technique undermines the Victorian 'detached, implicitly male narrator' as an authoritative representative—connecting style, gender, and challenge to tradition. B describes Woolf's psychological influences without making a feminist argument. C describes plot and structure of Mrs. Dalloway without addressing the feminist challenge argument. D quotes Woolf's arguments about women's conditions for writing—relevant to Woolf's feminism generally but not specifically to stream of consciousness as a narrative challenge."
+}

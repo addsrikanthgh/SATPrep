@@ -1,0 +1,16 @@
+{
+  "id": "q_388",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the history of anesthesia. The student has taken the following notes:\n- Before anesthesia, surgical operations required patients to be restrained and were performed as rapidly as possible to minimize suffering.\n- Ether was first publicly demonstrated as a surgical anesthetic by William Morton at Massachusetts General Hospital on October 16, 1846.\n- The successful demonstration was quickly reported internationally, and within months ether was being used in surgeries across Europe and North America.\n- Chloroform, introduced in 1847, was more potent and faster-acting than ether but carried greater risk of cardiac arrest.\n- The introduction of anesthesia allowed surgeons to operate more slowly and carefully, enabling more complex procedures and transforming surgery from an emergency intervention into a planned medical specialty.",
+  "question": "Which choice most effectively uses the notes to explain how the introduction of anesthesia transformed surgery?",
+  "choices": {
+    "A": "Ether was demonstrated by William Morton in 1846 and was quickly adopted in Europe and North America.",
+    "B": "Before anesthesia, surgery was a rushed, traumatic emergency; after Morton's 1846 demonstration of ether—adopted internationally within months—surgeons could operate more carefully, enabling complex procedures and transforming surgery into a planned medical specialty.",
+    "C": "Anesthesia has been used in medicine since 1846 and has made surgery much better for patients.",
+    "D": "Chloroform was introduced in 1847 as an alternative to ether, but it carried a greater risk of cardiac arrest."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes the 'before' state (rushed, traumatic emergency), the pivotal event (Morton's 1846 demonstration, international adoption within months), and the 'after' transformation (careful operation, complex procedures, surgery as planned specialty)—directly answering how anesthesia transformed surgery. A presents only the adoption notes without the 'before' context or the transformation consequences. C is too vague—'much better for patients' provides no specific information about the transformation of surgical practice. D focuses only on the ether-to-chloroform comparison and does not address the transformation of surgery."
+}

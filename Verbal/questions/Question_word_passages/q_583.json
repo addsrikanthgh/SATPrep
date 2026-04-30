@@ -1,0 +1,16 @@
+{
+  "id": "q_583",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an analytical essay about the ethics of zoos. The student wants to present a nuanced claim that acknowledges both a limitation of traditional zoos and a legitimate function that justifies their continued existence in reformed form. The student has gathered the following notes:\n- Traditional zoo enclosures often fail to meet the complex behavioral and social needs of large mammals such as elephants and great apes.\n- Behavioral abnormalities (stereotypic pacing, self-mutilation) are frequently observed in zoo animals kept in inadequate environments.\n- Accredited zoos participate in coordinated Species Survival Plans (SSPs) that have helped prevent the extinction of several species, including the California condor and the black-footed ferret.\n- Modern zoo design, emphasizing habitat simulation and social groupings, can significantly reduce behavioral abnormalities.\n- Some scientists argue that zoos divert conservation resources that would be better spent protecting wild habitats.",
+  "question": "Which choice most effectively uses the notes to present the intended nuanced claim?",
+  "choices": {
+    "A": "Zoos are inherently unethical institutions that cause behavioral abnormalities in animals and should be replaced entirely by wildlife sanctuaries.",
+    "B": "Although traditional zoo enclosures have often failed to meet the behavioral and social needs of animals—contributing to stress and abnormal behavior—modern, accredited zoos that prioritize habitat simulation and participate in species survival programs serve a legitimate conservation function.",
+    "C": "Species Survival Plans coordinated by accredited zoos have successfully prevented the extinction of the California condor and the black-footed ferret, proving that zoos are ethically justified.",
+    "D": "Some scientists believe that conservation funds would be better spent protecting wild habitats than operating zoos, a view that deserves serious consideration."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is a nuanced claim acknowledging both a limitation (traditional enclosures fail animals) and a legitimate function (conservation). B does exactly this—it concedes the limitation in the subordinate clause and then asserts the legitimate function in the main clause. A is a one-sided condemnation, not nuanced. C presents only the conservation success without acknowledging any limitation. D presents only a counterargument without affirming any legitimate function."
+}

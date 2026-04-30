@@ -1,0 +1,16 @@
+{
+  "id": "q_601",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A researcher studying the effects of caffeine on cognitive performance concluded that moderate caffeine consumption improves sustained attention but does not enhance creative problem-solving. The researcher based this conclusion on performance tests administered to participants who consumed either 200 mg of caffeine or a placebo before completing tasks designed to measure different cognitive domains.",
+  "question": "Which finding, if true, would most directly support the researcher's conclusion?",
+  "choices": {
+    "A": "Participants who consumed caffeine completed the sustained attention task with significantly fewer errors than placebo participants, but both groups performed equally on the divergent thinking task.",
+    "B": "Participants who consumed caffeine outperformed placebo participants on all cognitive tasks regardless of the domain being measured.",
+    "C": "Neither group showed significant performance differences on any cognitive task, suggesting that 200 mg is below the threshold for cognitive effects.",
+    "D": "Caffeine consumers reported feeling more alert than placebo consumers but did not score higher on any objective performance measure."
+  },
+  "correct_answer": "A",
+  "explanation": "The researcher's conclusion has two parts: caffeine improves sustained attention but does not improve creative problem-solving. Choice A directly supports both parts—caffeine helped on the attention task but not on the divergent thinking (creative) task. B contradicts the 'no enhancement of creative problem-solving' part. C contradicts the 'improves sustained attention' part. D supports neither improvement claim because no objective performance difference is shown."
+}

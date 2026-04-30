@@ -1,0 +1,16 @@
+{
+  "id": "q_106",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "When researchers grew seedlings in chambers with elevated carbon dioxide concentrations, the plants produced greater leaf mass than those in normal air. However, chemical analysis revealed that the leaves of CO₂-enriched plants contained significantly lower concentrations of protein per gram of tissue. Subsequent studies tracked herbivorous insects feeding on these plants; the insects consumed substantially more leaf material compared to insects feeding on control plants grown in ambient air.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "Elevated carbon dioxide levels are ultimately harmful to plant survival because they reduce the plants' ability to photosynthesize.",
+    "B": "Insects feeding on CO₂-enriched plants likely consume more leaf material in order to obtain sufficient protein.",
+    "C": "The reduced protein content of CO₂-enriched leaves makes them unpalatable to most herbivorous species.",
+    "D": "Researchers should measure protein concentration rather than leaf mass when assessing the effects of elevated CO₂ on plants."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage establishes two facts: CO₂-enriched leaves have lower protein per gram, and insects feeding on those leaves consumed more leaf material. The most reasonable inference linking these facts is B—insects ate more to compensate for the lower nutritional density. A is unsupported; the plants grew more, not less, and photosynthesis is not discussed. C overstates the case—insects still fed on the leaves, ruling out 'unpalatable.' D is a research-methodology recommendation that goes beyond what the passage supports."
+}

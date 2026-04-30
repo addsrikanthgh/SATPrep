@@ -1,0 +1,16 @@
+{
+  "id": "q_584",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about the history of the printing press. The student wants to explain what the printing press made possible in terms of information spread. The student has gathered the following notes:\n- Johannes Gutenberg developed the movable type printing press in Europe around 1440.\n- Before the printing press, books were copied by hand, making them expensive and rare.\n- The printing press reduced the cost of books dramatically, making them accessible to a much broader population.\n- Within 50 years of the printing press's invention, an estimated 20 million books had been printed in Europe.\n- The spread of printed books contributed to the Protestant Reformation by allowing Martin Luther's ideas to circulate rapidly.",
+  "question": "Which choice most effectively uses the notes to explain what the printing press made possible in terms of information spread?",
+  "choices": {
+    "A": "Johannes Gutenberg developed a movable type printing press around 1440, changing European manufacturing and commerce.",
+    "B": "By making books dramatically cheaper and more widely available, the printing press enabled the rapid spread of ideas across Europe—as illustrated by the circulation of Martin Luther's writings during the Reformation.",
+    "C": "Before the printing press, books were copied by hand, which made them costly to produce and limited their distribution to wealthy patrons and religious institutions.",
+    "D": "Within fifty years of its invention, approximately twenty million books had been printed in Europe using Gutenberg's press."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain what the printing press made possible in terms of information spread. B directly addresses this by connecting lower cost, wider availability, and rapid idea circulation—and uses the Luther/Reformation example as a concrete illustration. A focuses on commerce, not information spread. C describes the situation before the press and implies the change but does not explicitly address what the press made possible. D states a production statistic but does not explain what that enabled in terms of information spread."
+}

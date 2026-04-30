@@ -1,0 +1,16 @@
+{
+  "id": "q_303",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1:\nAdvocates of universal basic income (UBI) argue that providing all citizens with an unconditional monthly stipend would reduce poverty, simplify the welfare bureaucracy, and give workers the bargaining leverage to leave exploitative jobs. The unconditional nature of UBI is its key feature: because it is not means-tested, it carries no stigma and imposes no compliance burden on recipients.\n\nText 2:\nCritics of universal basic income question whether universality—the feature UBI advocates prize most—is actually a virtue. Providing payments to wealthy individuals who have no need of assistance is fiscally inefficient and politically indefensible. Targeted programs, the critics argue, can deliver larger benefits to those who need them most at a lower total cost, and modern administrative technology has largely eliminated the compliance burden that once plagued means-tested welfare.",
+  "question": "How would a UBI advocate described in Text 1 most likely respond to the criticism raised in Text 2?",
+  "choices": {
+    "A": "By arguing that targeted programs are superior to UBI because they deliver larger benefits to the poor.",
+    "B": "By conceding that providing payments to wealthy individuals is wasteful but arguing that any savings from targeting would be offset by the administrative costs and stigma that means-tested programs generate.",
+    "C": "By claiming that modern administrative technology has made means-testing even more burdensome than in the past.",
+    "D": "By arguing that the economic effects of UBI are irrelevant because only its philosophical implications matter."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 argues that UBI's unconditional nature eliminates stigma and compliance burden—two features Text 2 claims modern targeting has solved. A UBI advocate would likely concede the waste-on-the-wealthy point is valid in isolation, but counter that even with targeted savings, the compliance costs and stigma reintroduced by means-testing would offset those savings. B captures this specific counter-argument drawn from Text 1's logic. A is incorrect—a UBI advocate would not argue that targeted programs are superior, as that contradicts the position in Text 1. C misrepresents Text 1; it says unconditional UBI has no compliance burden, not that means-testing has become more burdensome. D introduces a philosophical-only argument not made in Text 1."
+}

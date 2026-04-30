@@ -1,0 +1,16 @@
+{
+  "id": "q_430",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The volunteer coordinator was adept at matching tasks to people's strengths, and under her management the organization accomplished more with its limited staff than many larger nonprofits achieved with twice the resources.",
+  "question": "As used in the passage, 'adept' most nearly means",
+  "choices": {
+    "A": "widely recognized by professional peers.",
+    "B": "highly skilled; expert in a particular activity.",
+    "C": "enthusiastic and highly motivated.",
+    "D": "formally trained and credentialed."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'adept' describes someone who is especially good at matching tasks to people—the standard meaning of skilled or expert in an activity. B captures this. A introduces peer recognition, which is not implied. C confuses skill with enthusiasm—being adept describes capability, not motivation. D introduces formal credentials, which the passage does not mention."
+}

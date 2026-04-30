@@ -1,0 +1,16 @@
+{
+  "id": "q_292",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The CRISPR-Cas9 gene-editing tool has revolutionized molecular biology by enabling precise, low-cost modifications to DNA. Researchers have used it to develop potential cures for genetic diseases such as sickle cell anemia and to engineer crop varieties resistant to drought and pests. _______, the same technology has raised serious ethical concerns: its use to edit human germline cells—changes that would be inherited by future generations—could open the door to heritable designer modifications that have never undergone long-term safety evaluation.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Moreover,",
+    "B": "As a result,",
+    "C": "At the same time,",
+    "D": "For example,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage moves from describing CRISPR's beneficial applications to introducing its ethical concerns. The two ideas coexist simultaneously—they are not in strict sequence, and neither cancels out the other. 'At the same time' (C) correctly signals that the ethical concerns are concurrent with the benefits, not a consequence, addition, or example. 'Moreover' (A) would suggest the ethical concerns add to or reinforce the previous benefits—incorrect since concerns are in tension with benefits. 'As a result' (B) would imply the ethical concerns are a consequence of the beneficial uses—not an accurate logical relationship. 'For example' (D) would imply the ethical concerns are an example of the benefits—incorrect since they are a contrasting concern."
+}

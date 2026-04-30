@@ -1,0 +1,16 @@
+{
+  "id": "q_194",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Early behavioral economists challenged classical economics' assumption that individuals are rational actors who consistently maximize their own utility. Their experiments revealed systematic cognitive biases: people overvalue immediate rewards, anchor heavily on arbitrary reference points, and evaluate losses more intensely than equivalent gains. _______, the so-called 'nudge' literature emerged, which holds that institutional design can steer people toward better choices without restricting their options or relying on purely financial incentives.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Regardless,",
+    "B": "In contrast,",
+    "C": "Building on these findings,",
+    "D": "For example,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage moves from the discovery of cognitive biases to the practical policy application (nudge literature) that was built upon that knowledge. The relationship is one of logical development: the nudge literature arose from and was enabled by the behavioral findings. 'Building on these findings' (C) precisely expresses this causal-developmental relationship. 'Regardless' (A) would suggest the nudge literature arose despite or independently of the behavioral findings, which contradicts the passage. 'In contrast' (B) would imply the nudge literature is opposed to or diverges from the behavioral findings, when it actually extends them. 'For example' (D) would suggest that the nudge literature is an instance of the cognitive biases described, rather than a policy framework that responds to them."
+}

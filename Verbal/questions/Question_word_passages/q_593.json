@@ -1,0 +1,16 @@
+{
+  "id": "q_593",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an argumentative essay about the ethics of algorithmic decision-making in criminal justice. The student wants to argue that the use of predictive risk assessment tools in sentencing raises serious fairness concerns because these tools may encode historical inequities. The student has gathered the following notes:\n- Risk assessment tools such as COMPAS assign defendants a numerical 'risk score' predicting likelihood of reoffending; scores are used by judges in bail, sentencing, and parole decisions.\n- A 2016 ProPublica investigation found that COMPAS incorrectly labeled Black defendants as high risk at nearly twice the rate it mislabeled white defendants.\n- Risk assessment tools are typically trained on historical criminal justice data, which reflects decades of racially disparate policing and prosecution practices.\n- Proponents argue that human judicial decision-making is also subject to bias, and that algorithmic tools at least apply consistent criteria.\n- The algorithms used by some risk assessment tools are proprietary, making them difficult for defendants or courts to audit.",
+  "question": "Which choice most effectively uses the notes to argue that predictive risk tools raise fairness concerns because they may encode historical inequities?",
+  "choices": {
+    "A": "Proponents of algorithmic risk tools argue that human judges are also biased, suggesting that the question is not whether to use risk assessments but how to design them fairly.",
+    "B": "Because risk assessment tools are trained on historical criminal justice data reflecting decades of racially disparate policing and prosecution, they risk perpetuating those inequities—a concern supported by evidence that COMPAS mislabeled Black defendants as high risk at nearly twice the rate it did white defendants.",
+    "C": "The proprietary nature of risk assessment algorithms makes it difficult for defendants or courts to audit the tools, raising concerns about transparency and due process.",
+    "D": "COMPAS and similar tools assign numerical risk scores that judges use for bail, sentencing, and parole decisions, increasing the consistency of judicial decision-making."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to argue that predictive tools raise fairness concerns specifically because they encode historical inequities. B does this directly: it explains the mechanism (trained on historically biased data) and supports the concern with concrete evidence (the ProPublica/COMPAS racial disparity finding). A presents the counterargument, not the fairness concern. C raises a different concern (transparency/due process/auditability) rather than the historical-inequity argument. D describes how the tools function without raising fairness concerns."
+}

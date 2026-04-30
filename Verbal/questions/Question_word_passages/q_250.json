@@ -1,0 +1,16 @@
+{
+  "id": "q_250",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The company's new policy—which prohibits the use of personal devices during core work hours—has been met with resistance from employees who argue that it undermines trust and, moreover, that it ignores the reality of modern work practices.",
+  "question": "Which choice correctly explains the punctuation in this sentence?",
+  "choices": {
+    "A": "The dashes around 'which prohibits...core work hours' should be replaced with commas because dashes may only enclose phrases, not full relative clauses.",
+    "B": "The comma before 'moreover' is unnecessary because 'moreover' is a coordinating conjunction that does not require punctuation.",
+    "C": "The paired dashes correctly enclose a nonessential relative clause, and the comma before 'moreover' correctly sets off this conjunctive adverb within the parallel 'that' clause structure.",
+    "D": "The comma after 'trust and' creates a comma splice between two independent clauses."
+  },
+  "correct_answer": "C",
+  "explanation": "The dashes correctly enclose the nonessential relative clause 'which prohibits the use of personal devices during core work hours,' functioning like paired commas or parentheses but providing stronger visual separation. Within the second part of the sentence, 'moreover' is a conjunctive adverb inserted mid-clause and is correctly set off by a comma. C accurately identifies both features. A is a fabricated rule; dashes may enclose full relative clauses as well as phrases. B is incorrect—'moreover' is a conjunctive adverb, not a coordinating conjunction, and when used parenthetically within a clause it requires a comma. D is incorrect; the comma after 'trust and' is not a comma splice—it precedes a conjunctive adverb inserted between two parallel 'that' clauses within a single sentence structure."
+}

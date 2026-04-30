@@ -1,0 +1,16 @@
+{
+  "id": "q_805",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A nutritionist argues that ultra-processed foods—those made primarily from industrial ingredients rather than whole foods—are associated with worse health outcomes than minimally processed alternatives, independent of their caloric content.",
+  "question": "Which finding from a dietary study would most directly support the nutritionist's argument?",
+  "choices": {
+    "A": "'Participants who replaced 10% of their caloric intake from ultra-processed foods with equivalent calories from minimally processed foods showed a 14% reduction in all-cause mortality risk over 10 years, controlling for total caloric intake.'",
+    "B": "'Ultra-processed foods account for approximately 57% of the total calories consumed in the average American diet.'",
+    "C": "'Reducing overall caloric intake by 500 calories per day, regardless of food source, is associated with meaningful weight loss over six months.'",
+    "D": "'Processed foods are often high in sodium, which is associated with elevated blood pressure and increased cardiovascular risk.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The nutritionist argues that ultra-processed foods cause worse health outcomes independent of caloric content. A directly supports this: it shows that swapping ultra-processed for minimally processed foods reduced mortality even when total calories were held constant—exactly the calorie-independent argument. B shows prevalence of ultra-processed food consumption but not a health outcome. C describes calorie reduction effects regardless of food source—irrelevant to the argument about ultra-processing specifically. D mentions sodium in processed foods, but the argument is about ultra-processed foods and calories, not sodium specifically."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_711",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Economists have long argued that free trade benefits all participating countries by allowing each to specialize in the goods it produces most efficiently—a principle known as comparative advantage. Even if one country is more efficient at producing everything, both countries gain from trade because each can focus on its relative strengths and trade for the rest.\n\nText 2: Critics of free trade theory note that while aggregate gains from trade may be positive, the distribution of those gains is rarely equal. Workers in industries exposed to import competition often face job losses and wage stagnation that are concentrated in specific communities, while the gains are dispersed broadly as lower consumer prices. Without active redistribution policies, free trade can widen inequality even as it increases overall GDP.",
+  "question": "Both texts discuss free trade, but they differ in their focus. Which choice best describes this difference?",
+  "choices": {
+    "A": "Text 1 focuses on aggregate economic efficiency gains from trade, while Text 2 focuses on how those gains are distributed within a country.",
+    "B": "Text 1 argues that free trade harms developing countries, while Text 2 argues that it harms developed countries.",
+    "C": "Text 1 describes the history of free trade policy, while Text 2 describes its current practice in international agreements.",
+    "D": "Both texts ultimately agree that free trade produces more harm than good and should be replaced with protectionist policies."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 makes the standard comparative advantage argument: free trade produces aggregate gains for all countries. Text 2 accepts that aggregate gains may be positive but shifts focus to distributional effects—who gains and who loses within a country. A correctly identifies this difference in focus: aggregate efficiency (Text 1) vs. distributional outcomes (Text 2). B misrepresents both texts—neither makes claims about developing vs. developed country impacts. C mischaracterizes both texts, which discuss theory, not history or current agreements. D misrepresents both texts—Text 1 argues for the benefits of free trade, not against it."
+}

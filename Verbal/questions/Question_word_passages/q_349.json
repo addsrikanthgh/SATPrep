@@ -1,0 +1,16 @@
+{
+  "id": "q_349",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Economists studying the labor market effects of minimum wage increases have produced conflicting results for decades. The traditional supply-and-demand model predicts that a price floor above the equilibrium wage will reduce employment, as firms will hire fewer workers at the higher mandated wage. However, a series of natural experiments—most famously David Card and Alan Krueger's comparison of fast-food employment on either side of the New Jersey-Pennsylvania border after a New Jersey minimum wage increase in 1992—found little or no employment reduction. Card and Krueger attributed this to employer 'monopsony power': in labor markets with few employers, firms can pay wages below competitive levels, and a minimum wage corrects this inefficiency without reducing employment.",
+  "question": "Based on the passage, what can most reasonably be inferred about the standard supply-and-demand model of minimum wages?",
+  "choices": {
+    "A": "The standard model is entirely correct and the Card-Krueger study contained methodological errors.",
+    "B": "The standard model's predictions may hold in competitive labor markets but may not accurately describe outcomes in markets where employers have significant wage-setting power.",
+    "C": "Card and Krueger proved that minimum wage increases never reduce employment in any labor market.",
+    "D": "The standard model was developed without any knowledge of real-world labor market dynamics."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents the standard model (competitive market with no monopsony) and then the Card-Krueger finding that contradicts it, attributing the discrepancy to monopsony power. The implication is that the standard model's predictions are conditional on a competitive market assumption—when that assumption fails (monopsony), the predictions don't hold. B correctly infers this conditionality. A claims the standard model is entirely correct and dismisses Card-Krueger—the passage presents Card-Krueger as significant and the monopsony explanation as credible. C overstates Card-Krueger—the passage describes their finding as showing 'little or no' reduction in their specific context, not proving a universal law. D makes a claim about the model's development not supported by the passage."
+}

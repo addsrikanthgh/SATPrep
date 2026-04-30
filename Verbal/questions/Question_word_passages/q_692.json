@@ -1,0 +1,16 @@
+{
+  "id": "q_692",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Origami, the Japanese art of paper folding, has influenced fields far removed from traditional craft. Engineers and scientists have applied origami principles to design solar panels that can be compactly folded for launch and then deployed in space, stents that can be inserted into blood vessels in a collapsed form and expanded once in place, and portable shelters that fold flat for easy transport. The underlying mathematics of origami—including crease patterns, fold angles, and the geometry of flat-foldability—has become a formal area of computational study. Researchers at institutions including MIT and NASA have developed algorithms that translate desired three-dimensional shapes into the fold instructions needed to produce them from a flat sheet.",
+  "question": "According to the passage, which of the following is an application of origami principles in engineering or medicine?",
+  "choices": {
+    "A": "Stents that can be collapsed for insertion into blood vessels and expanded once in position",
+    "B": "Paper materials strong enough to replace metal components in aerospace structures",
+    "C": "Algorithms that automatically fold physical origami models without human assistance",
+    "D": "Solar cells made from paper-like materials that can generate power in low-gravity environments"
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explicitly states that origami principles have been applied to design stents that can be 'inserted into blood vessels in a collapsed form and expanded once in place.' A accurately reflects this stated application. B is not mentioned—the passage is about folding geometry, not paper replacing metal. C misrepresents the algorithms mentioned; the passage describes algorithms that translate shapes into fold instructions, not robots that physically fold paper. D conflates two separate items—solar panels and the concept of paper-like materials are not combined in the passage."
+}

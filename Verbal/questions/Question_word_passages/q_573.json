@@ -1,0 +1,16 @@
+{
+  "id": "q_573",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The sociologist Erving Goffman introduced the concept of the 'total institution' to describe organizations that exercise comprehensive control over their inhabitants' lives. Prisons, psychiatric hospitals, military boot camps, and monasteries were Goffman's primary examples. In a total institution, all aspects of life—sleeping, eating, working, playing—take place in the same location under the same authority. The residents are cut off from the wider society and subjected to mortification rituals designed to strip away their prior identities: the uniform, the serial number, the haircut. Goffman's framework proved influential not only in sociology but in literature and film, where scholars used it to analyze representations of institutional life—from Ken Kesey's One Flew Over the Cuckoo's Nest to Stanley Kubrick's Full Metal Jacket.",
+  "question": "The author's reference to One Flew Over the Cuckoo's Nest and Full Metal Jacket primarily serves to",
+  "choices": {
+    "A": "argue that fictional representations of institutions are more accurate than sociological accounts",
+    "B": "illustrate that Goffman's sociological framework extended beyond academic sociology to influence the analysis of literary and cinematic representations of institutional life",
+    "C": "suggest that Goffman's theory was derived from films and novels rather than empirical research",
+    "D": "demonstrate that prisons and military camps are fundamentally different types of total institutions"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that Goffman's framework 'proved influential not only in sociology but in literature and film,' then cites two specific works as examples. The reference serves to illustrate the breadth of the framework's influence. B correctly captures this purpose. A is incorrect—the passage does not claim fiction is more accurate than sociology. C inverts the causality—the passage presents the films as later applications of Goffman's framework, not its sources. D is incorrect—the two films are cited as examples of institutional representation, not to contrast two types of institutions."
+}

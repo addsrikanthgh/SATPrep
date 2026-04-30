@@ -1,0 +1,16 @@
+{
+  "id": "q_378",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Coral reefs cover less than one percent of the ocean floor but support roughly a quarter of all known marine species. They are built by coral polyps—tiny animals that secrete calcium carbonate skeletons and live in symbiosis with photosynthetic algae called zooxanthellae. The algae provide the polyps with up to ninety percent of their energy through photosynthesis and give reefs their vivid colors. When ocean temperatures rise even a degree or two above normal for several weeks, corals expel the algae—a process called bleaching—leaving a white skeleton that, if temperatures do not return to normal, leads to coral death.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that coral reef conservation should be the top global environmental priority.",
+    "B": "describe the ecological importance and biological structure of coral reefs and explain the process of coral bleaching.",
+    "C": "compare the biodiversity of coral reefs with that of tropical rainforests.",
+    "D": "explain all of the threats that coral reefs currently face."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers ecological importance (quarter of marine species), biological structure (polyps, calcium carbonate, zooxanthellae), the symbiotic energy relationship, and the bleaching process (temperature rise → algae expulsion → death). B accurately describes these two main components. A makes a conservation policy advocacy claim not present—the passage describes bleaching but does not prioritize reef conservation relative to other issues. C introduces a comparison with rainforests not present. D says the passage explains 'all threats'—the passage covers only one threat (temperature rise/bleaching), not a comprehensive threat inventory."
+}

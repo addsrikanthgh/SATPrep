@@ -1,0 +1,16 @@
+{
+  "id": "q_772",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The sociologist C. Wright Mills introduced the concept of the 'sociological imagination' as the capacity to understand the relationship between individual experience and the larger social forces that shape it. Mills distinguished between 'personal troubles'—problems experienced as private, arising from a character flaw or misfortune—and 'public issues'—structural problems embedded in the organization of society. He used unemployment as an example: if one person in a city of a million cannot find work, that is a personal trouble, likely traceable to individual circumstances. But if millions of people are unemployed during an economic depression, that is a public issue demanding an analysis of the economic structure. The sociological imagination, Mills argued, allows individuals to locate their own experience within a broader historical and social context.",
+  "question": "The author's use of the unemployment example primarily serves to",
+  "choices": {
+    "A": "make concrete the abstract distinction Mills drew between personal troubles and public issues, illustrating when a problem requires structural rather than individual explanation.",
+    "B": "argue that individual responsibility plays no role in understanding unemployment, and that only structural factors matter.",
+    "C": "provide historical data on unemployment rates during economic depressions as evidence for Mills's theory.",
+    "D": "compare the unemployment rates in urban versus rural settings as an example of how context affects individual experience."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage uses the unemployment example to give concrete form to the abstract personal trouble/public issue distinction: one unemployed person = personal trouble (individual explanation); millions unemployed in a depression = public issue (structural explanation). A accurately identifies this illustrative function. B overstates—the passage says one person's unemployment is a personal trouble traceable to individual circumstances, not that individual responsibility is irrelevant. C claims the passage provides historical unemployment data; it uses unemployment only as a hypothetical example, not empirical data. D introduces an urban/rural comparison not present in the passage."
+}

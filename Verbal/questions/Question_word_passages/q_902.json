@@ -1,0 +1,16 @@
+{
+  "id": "q_902",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Social media platforms should be required to verify users' ages and restrict minors' access to certain content. Young people's brains are still developing, making them especially susceptible to the harms of algorithmic content recommendation—including exposure to content promoting eating disorders, self-harm, and political radicalization. Age verification requirements would hold platforms accountable for the audiences they are actively targeting.\n\nText 2: Age verification mandates for social media platforms sound appealing but raise serious privacy concerns. Verification systems require users to submit government-issued identification, creating large databases of sensitive personal data that are vulnerable to breaches. Minors who wish to circumvent age gates will often succeed through easily obtained means. The privacy costs are borne by everyone, including adults, while the protections may be ineffective.",
+  "question": "Which statement best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 2 provides evidence that supports Text 1's claim that social media harms young people.",
+    "B": "Text 1 and Text 2 both argue that social media platforms should face no government regulation.",
+    "C": "Text 2 challenges Text 1's proposed solution by raising concerns about its privacy costs and practical effectiveness.",
+    "D": "Text 2 argues that Text 1 exaggerates the harms of social media on young people."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 proposes age verification as a solution to social media harms; Text 2 accepts that the concern about young people exists (calling the idea 'appealing') but argues the proposed solution has privacy costs and may be practically ineffective. C correctly identifies this as a challenge to the solution, not a denial of the problem. A is wrong—Text 2 does not support Text 1's argument; it complicates its proposed solution. B is wrong—neither text argues for no regulation. D is wrong—Text 2 does not dispute Text 1's characterization of the harms."
+}

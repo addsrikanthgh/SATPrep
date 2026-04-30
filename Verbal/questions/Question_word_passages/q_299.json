@@ -1,0 +1,16 @@
+{
+  "id": "q_299",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Wolves were reintroduced to Yellowstone National Park in 1995 after a 70-year absence. Their return triggered a cascade of ecological changes known as a trophic cascade. Elk populations declined and changed their grazing behavior, staying away from valleys and riverbanks where they were most vulnerable to predation. _______, riverside vegetation recovered dramatically, stabilizing stream banks and altering the course of rivers—a phenomenon researchers have called 'the river restored by wolves.'",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "However,",
+    "B": "As a result,",
+    "C": "In contrast,",
+    "D": "For example,"
+  },
+  "correct_answer": "B",
+  "explanation": "The preceding sentences describe wolves reducing elk pressure on riverside vegetation. The following sentence describes the vegetation recovery that resulted from that reduced pressure. The relationship is direct causation: reduced grazing → vegetation recovery → stream stabilization. 'As a result' (B) correctly signals this causal chain. 'However' (A) and 'In contrast' (C) both signal contrast—the vegetation recovery is not in opposition to the reduced elk grazing; it is its consequence. 'For example' (D) would imply that the vegetation recovery is one example of the reduced grazing behavior—incorrect since it is a consequence, not an illustration of the same phenomenon."
+}

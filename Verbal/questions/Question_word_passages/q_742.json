@@ -1,0 +1,16 @@
+{
+  "id": "q_742",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The axolotl, a species of aquatic salamander native to a single lake complex near Mexico City, is capable of regenerating lost limbs, portions of its heart, and even parts of its brain with minimal scarring. Unlike most salamanders, which undergo metamorphosis and leave the water as adults, the axolotl retains its larval characteristics throughout its life—a condition called neoteny. Habitat destruction, water pollution, and the introduction of predatory fish have reduced its wild population to critically endangered levels, with estimates suggesting fewer than 1,000 individuals remain in the wild.",
+  "question": "Based on the passage, what can most reasonably be inferred about the axolotl?",
+  "choices": {
+    "A": "Its survival is highly vulnerable to changes in the specific habitat it depends on, and its unique biological characteristics make it of particular scientific interest.",
+    "B": "Its regenerative abilities have already been successfully transferred to human medicine through laboratory research.",
+    "C": "The introduction of predatory fish into its habitat was deliberate and was the primary cause of its decline.",
+    "D": "Because it retains larval characteristics into adulthood, it is less biologically developed than other salamander species."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage notes that the axolotl is native to a single lake complex (making it geographically and ecologically vulnerable), and describes its exceptional regenerative abilities (making it scientifically significant). A reasonably combines both inferences. B is not supported—the passage describes the axolotl's abilities but says nothing about successful transfer to human medicine. C adds 'deliberate' and 'primary cause'—the passage lists multiple causes of decline without stating which is primary, and does not say the fish introduction was deliberate. D misinterprets neoteny; the passage describes it as retaining larval characteristics, not as being 'less biologically developed'—an evaluative claim not made in the passage."
+}

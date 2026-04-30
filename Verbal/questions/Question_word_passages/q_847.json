@@ -1,0 +1,16 @@
+{
+  "id": "q_847",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The prime minister's speech was widely interpreted as a signal that the government intended to pursue sweeping reforms ______ however, her office released a statement the following morning that appeared to walk back several of the speech's most ambitious proposals.",
+  "question": "Which choice correctly punctuates the transition between the two independent clauses?",
+  "choices": {
+    "A": "intended to pursue sweeping reforms; however, her office released a statement",
+    "B": "intended to pursue sweeping reforms, however, her office released a statement",
+    "C": "intended to pursue sweeping reforms however, her office released a statement",
+    "D": "intended to pursue sweeping reforms: however, her office released a statement"
+  },
+  "correct_answer": "A",
+  "explanation": "When a conjunctive adverb such as 'however' joins two independent clauses, the correct punctuation is a semicolon before the conjunctive adverb and a comma after it: 'clause; however, clause.' A is correct. B creates a comma splice—two commas around 'however' without a semicolon is incorrect for joining independent clauses. C omits the first punctuation mark entirely, creating a run-on. D uses a colon, but 'however' signals contrast (not elaboration), and the structure requires a semicolon before a conjunctive adverb."
+}

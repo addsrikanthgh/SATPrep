@@ -1,0 +1,16 @@
+{
+  "id": "q_255",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "Its not enough to identify the problem; the team must also develop a workable solution.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "Replace 'Its' with 'It's' to form the contraction 'it is.'",
+    "B": "Replace the semicolon with a comma since the two clauses express related ideas.",
+    "C": "Add a comma after 'problem' and before the semicolon to improve flow.",
+    "D": "Replace 'Its' with 'Its'' to show that the problem belongs to the sentence."
+  },
+  "correct_answer": "A",
+  "explanation": "'Its' (without an apostrophe) is the possessive pronoun. 'It's' (with an apostrophe) is the contraction of 'it is.' The sentence requires the contraction ('It is not enough to identify the problem'), so 'Its' must be changed to 'It's.' A is the correct edit. B is incorrect; the semicolon correctly joins two independent clauses—replacing it with only a comma would create a comma splice. C adds a comma where none is needed; the semicolon already correctly separates the clauses. D is incorrect; 'Its'' is not standard English—apostrophe + s after a word ending in s would indicate possession by a noun ending in s, not an it-form."
+}

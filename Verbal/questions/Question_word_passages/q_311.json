@@ -1,0 +1,16 @@
+{
+  "id": "q_311",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nThe 'Anthropocene'—the proposed new geological epoch defined by human impact on Earth's systems—has entered scientific and popular discourse as a frame for understanding the scale of environmental change. Geologists supporting the term point to the global markers left by human activity: artificial radionuclides from nuclear testing, a worldwide layer of microplastics, and the distinctive spike in atmospheric carbon visible in ice cores. These signals, they argue, are clear enough and globally synchronous enough to serve as the basis for a formal stratigraphic boundary.\n\nText 2:\nThe Anthropocene Working Group voted in 2023 to formally propose the epoch's ratification, selecting Crawford Lake in Ontario as the reference point (or 'golden spike') for the stratigraphic boundary, dated to approximately 1950. However, the International Union of Geological Sciences (IUGS) subsequently rejected the proposal, with critics on the IUGS subcommission arguing that the proposed Anthropocene fails to meet formal stratigraphic criteria: its signals are too recent, too geographically variable, and insufficiently distinct from the Holocene epoch it would replace.",
+  "question": "Based on both texts, which statement best describes the current status of the Anthropocene as a formal geological epoch?",
+  "choices": {
+    "A": "The Anthropocene has been formally ratified as a new geological epoch by all relevant scientific bodies.",
+    "B": "The geological community is unified in its support for the Anthropocene but has not yet selected a stratigraphic reference point.",
+    "C": "The Anthropocene Working Group proposed formal ratification with a specific reference point, but the IUGS rejected the proposal on the grounds that the signals do not meet formal stratigraphic criteria.",
+    "D": "The Anthropocene has been rejected as a concept entirely, with scientists returning to the Holocene as the only valid current epoch."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 provides the scientific case for the Anthropocene's formal definition. Text 2 describes what actually happened: the Working Group proposed ratification with Crawford Lake as the reference point, but the IUGS rejected it for failing to meet stratigraphic criteria. C accurately synthesizes both texts. A is incorrect—Text 2 explicitly states the proposal was rejected. B is incorrect—Text 2 describes a reference point being selected but then rejected. D overstates; the IUGS rejected the formal proposal, not the concept entirely, and the Holocene is not described as returning."
+}

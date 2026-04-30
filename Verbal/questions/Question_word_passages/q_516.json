@@ -1,0 +1,16 @@
+{
+  "id": "q_516",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The behavioral economist Richard Thaler has argued that humans are predictably irrational—that they deviate from the rational actor model in systematic, foreseeable ways. Because these biases are predictable, they can be exploited by 'nudges': changes in how choices are presented (the 'choice architecture') that steer people toward better decisions without restricting their freedom to choose otherwise. Defaulting employees into retirement savings plans rather than requiring them to opt in is a canonical example: participation rates jump dramatically simply by changing the default option.\n\nText 2: Critics of nudge theory, including some libertarian and deliberative democracy theorists, argue that nudges are a form of manipulation that bypasses rather than engages people's rational agency. The goal of policy, on this view, should not be to steer people toward outcomes that technocrats have predetermined as optimal, but to enable citizens to reason well and make genuine choices. Nudges may improve aggregate outcomes by some measures while simultaneously degrading the quality of citizens' deliberative capacities—teaching people to be passive recipients of curated choices rather than active reasoners.",
+  "question": "What is the central disagreement between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 argues that nudges are effective at improving retirement savings, while Text 2 argues they do not work.",
+    "B": "Text 1 defends nudges as a freedom-preserving way to improve decisions, while Text 2 argues that nudges manipulate rather than engage rational agency.",
+    "C": "Both texts agree that nudges should only be used in retirement savings contexts and not in other domains.",
+    "D": "Text 2 argues that the rational actor model accurately describes human behavior, contradicting Text 1's claim that humans deviate from it."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 presents nudges as beneficial and freedom-preserving (choice is maintained, only defaults change). Text 2 argues that nudges bypass rather than engage rational agency and may degrade deliberative capacities. This is a direct philosophical disagreement about what nudges do to human agency. B accurately captures it. A is incorrect—Text 2 does not dispute that nudges work; it objects to their moral and political implications. C is not supported by either text. D is directly wrong—Text 2 does not defend the rational actor model; it argues for engaging rational agency, which is a different claim."
+}

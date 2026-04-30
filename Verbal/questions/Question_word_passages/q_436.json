@@ -1,0 +1,16 @@
+{
+  "id": "q_436",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The documentary approached its subject with unusual restraint, allowing events to unfold without intrusive narration—a style that trusted the viewer to draw conclusions from the evidence presented rather than having those conclusions imposed.",
+  "question": "As used in the passage, 'restraint' most nearly means",
+  "choices": {
+    "A": "physical restriction or confinement.",
+    "B": "deliberate self-control; the avoidance of excess or imposition.",
+    "C": "a formal legal order limiting someone's actions.",
+    "D": "hesitation caused by uncertainty or fear."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'restraint' describes the documentary's deliberate choice not to impose narration or conclusions on viewers—an artistic or stylistic self-control. B captures this. A is the physical confinement sense. C is the legal sense (restraining order). D introduces fearful hesitation—the passage presents the restraint as an active stylistic choice, not as reluctance."
+}

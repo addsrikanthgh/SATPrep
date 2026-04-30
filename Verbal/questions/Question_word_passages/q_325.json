@@ -1,0 +1,16 @@
+{
+  "id": "q_325",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The board of directors asked _______ to present the financial projections at the annual shareholder meeting.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "she and the CFO",
+    "B": "her and the CFO",
+    "C": "she and him",
+    "D": "her and him"
+  },
+  "correct_answer": "B",
+  "explanation": "The blank is the object of the verb 'asked,' so object pronouns are required, not subject pronouns. 'Her' is the objective form of 'she,' and 'the CFO' is a noun (acceptable in object position). 'Her and the CFO' (B) uses the correct object pronoun for the first element. 'She and the CFO' (A) uses the subject pronoun 'she'—incorrect in object position (the board asked her, not she). 'She and him' (C) again uses subject 'she' incorrectly, though 'him' is correct. 'Her and him' (D) uses two correct object pronouns but replaces 'the CFO' with 'him'—while grammatically possible, the question asks which choice is best, and (B) with 'the CFO' is the standard phrasing when one element is a named role."
+}

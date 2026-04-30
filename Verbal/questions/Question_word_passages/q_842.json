@@ -1,0 +1,16 @@
+{
+  "id": "q_842",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The treaty was signed under duress ______ historians argue that the concessions it forced on the defeated nation planted the seeds of the conflict that followed two decades later.",
+  "question": "Which choice correctly uses punctuation to join the two clauses?",
+  "choices": {
+    "A": "; historians argue that the concessions it forced on the defeated nation planted the seeds of the conflict that followed two decades later.",
+    "B": ", historians argue that the concessions it forced on the defeated nation planted the seeds of the conflict that followed two decades later.",
+    "C": ": historians argue that the concessions it forced on the defeated nation planted the seeds of the conflict that followed two decades later.",
+    "D": "historians argue that the concessions it forced on the defeated nation planted the seeds of the conflict that followed two decades later."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains two independent clauses: 'The treaty was signed under duress' and 'historians argue that the concessions...two decades later.' A semicolon correctly joins two independent clauses without a coordinating conjunction. A is correct. B creates a comma splice—a comma alone cannot join two independent clauses without a coordinating conjunction. C uses a colon, which is used to introduce an elaboration, list, or explanation that follows from the first clause; while this is closer to acceptable, a semicolon is the more precise choice when the second clause adds a separately-articulated argument rather than directly elaborating the first. D omits all punctuation, creating a run-on sentence."
+}

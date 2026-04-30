@@ -1,0 +1,16 @@
+{
+  "id": "q_198",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a research paper on the unintended consequences of conservation policies. She wants to include a sentence in her introduction that sets up the paper's central tension. She has gathered the following notes:\n\n• The Endangered Species Act (1973) was designed to protect threatened wildlife by preserving critical habitat.\n• Some landowners have responded to the ESA by preemptively destroying potential habitat on their properties before endangered species can move in, to avoid the regulatory burden that would follow.\n• Economists Terry Anderson and Peter Hill documented cases in which ESA protections triggered 'preemptive habitat destruction,' reducing the populations of the very species the law aimed to protect.\n• The phenomenon is sometimes called the 'shoot, shovel, and shut up' response.",
+  "question": "Which sentence most effectively synthesizes these notes into an introduction that sets up the paper's central tension?",
+  "choices": {
+    "A": "The Endangered Species Act of 1973 was passed with the goal of protecting threatened wildlife and their habitats from destruction.",
+    "B": "Landowners who fear regulatory burdens under the Endangered Species Act sometimes engage in 'shoot, shovel, and shut up' behavior.",
+    "C": "The Endangered Species Act illustrates a broader irony in conservation policy: protective regulations can create perverse incentives that cause landowners to destroy the very habitat the law was designed to preserve.",
+    "D": "Economists Terry Anderson and Peter Hill found that some landowners respond to the ESA by destroying habitat preemptively, a problem known as 'shoot, shovel, and shut up.'"
+  },
+  "correct_answer": "C",
+  "explanation": "An effective introductory sentence for a paper on the unintended consequences of conservation policies must establish the central tension: a law intended to protect habitat can paradoxically incentivize habitat destruction. C does this by framing the ESA as an illustration of the broader irony—protective regulations creating perverse incentives—which is precisely the paper's central tension. A describes only the ESA's intent without introducing the tension or the unintended consequences. B describes the landowner behavior in isolation without framing it as a tension or connecting it to the law's protective intent. D presents the economists' specific finding but lacks the framing needed for an introduction—it describes a specific case rather than setting up the paper's conceptual tension."
+}

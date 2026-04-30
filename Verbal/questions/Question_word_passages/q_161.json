@@ -1,0 +1,16 @@
+{
+  "id": "q_161",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A research team studied the effect of green spaces on urban heat island intensity across 42 cities. They measured the temperature difference between city centers and surrounding rural areas during summer months. Cities with tree canopy coverage below 10% showed an average urban heat island (UHI) intensity of 4.8°C. Cities with canopy coverage between 10% and 25% showed an average UHI intensity of 3.1°C. Cities with canopy coverage above 25% showed an average UHI intensity of 1.7°C. The researchers noted that doubling canopy coverage from 12% to 24% in one trial city reduced the UHI intensity by 1.8°C, lowering peak summer temperatures enough to reduce heat-related emergency room visits by 14%.",
+  "question": "A city planner claims that increasing urban tree canopy coverage is an effective strategy for reducing dangerous urban heat. Which data from the passage most directly supports this claim?",
+  "choices": {
+    "A": "Cities with canopy coverage above 25% showed an average UHI intensity of 1.7°C.",
+    "B": "The study measured urban heat island intensity across 42 cities during summer months.",
+    "C": "Doubling canopy coverage from 12% to 24% in one trial city reduced UHI intensity by 1.8°C and heat-related emergency room visits by 14%.",
+    "D": "Cities with tree canopy coverage below 10% showed an average UHI intensity of 4.8°C."
+  },
+  "correct_answer": "C",
+  "explanation": "The planner's claim requires evidence that increasing canopy reduces heat and that reduced heat has health consequences. C directly supports both parts: increasing canopy (from 12% to 24%) reduced UHI intensity by a measurable amount, and that reduction translated into a 14% drop in heat-related emergency room visits—directly linking canopy increase to a reduction in dangerous heat outcomes. A shows that high-canopy cities are cooler but does not demonstrate the effect of increasing coverage. B is methodological context, not evidence for the claim. D shows that low-canopy cities are hotter but does not demonstrate the effect of increasing canopy."
+}

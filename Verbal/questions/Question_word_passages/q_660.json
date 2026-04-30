@@ -1,0 +1,16 @@
+{
+  "id": "q_660",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The company launched three new initiatives in the first quarter _______ expanding into the Asian market, reducing its carbon footprint by 30%, and overhauling its customer service model.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "quarter:",
+    "B": "quarter,",
+    "C": "quarter;",
+    "D": "quarter—"
+  },
+  "correct_answer": "A",
+  "explanation": "After the independent clause 'The company launched three new initiatives in the first quarter,' the list that follows identifies those three initiatives. A colon (A) correctly introduces this list, as the first clause is complete and the list specifies what was named. A comma (B) weakly joins an independent clause with its list and can cause ambiguity. A semicolon (C) is for joining independent clauses, not for introducing a list from a preceding clause. An em dash (D) could informally introduce the list, but a colon is the standard formal choice."
+}

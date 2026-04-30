@@ -1,0 +1,16 @@
+{
+  "id": "q_308",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1:\nSome economic historians argue that the Industrial Revolution began in Britain rather than elsewhere primarily because of coal geography: Britain had vast, shallow, and therefore economically accessible coal deposits located near its major population centers. This geographic advantage made coal-powered machinery cheaper in Britain than anywhere else, giving British manufacturers a structural incentive to substitute machines for labor that manufacturers in coal-poor regions lacked.\n\nText 2:\nThe coal-geography thesis has been challenged by historians who point to the role of intellectual culture and institutions. Britain in the eighteenth century had an unusually active community of practical mechanics, instrument makers, and engineers who communicated across a network of philosophical societies, coffee houses, and patent offices. The historian Joel Mokyr argues that it was this culture of 'useful knowledge'—the unusual marriage of scientific inquiry with commercial application—that generated the stream of innovations driving industrialization, not the mere availability of fuel.",
+  "question": "Based on both texts, which choice best describes the point of disagreement between the two arguments?",
+  "choices": {
+    "A": "Whether Britain actually had more accessible coal than other European countries.",
+    "B": "Whether material geographic advantages or intellectual and institutional culture better explains why the Industrial Revolution began in Britain.",
+    "C": "Whether coal was actually used to power the machinery of the early Industrial Revolution.",
+    "D": "Whether patent offices and philosophical societies played any role in British economic history."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 attributes the Industrial Revolution's British origin to coal geography (a material/structural advantage). Text 2 challenges this by attributing the origin to intellectual culture and institutional networks (a cultural/institutional advantage). Both agree Britain was the birthplace; they disagree on why. B accurately identifies this as the locus of disagreement. A would be a dispute about an empirical premise of Text 1 that Text 2 does not raise—Text 2 challenges the causal explanation, not the coal-geography premise. C introduces a question neither text raises. D focuses narrowly on one detail of Text 2 rather than the texts' core disagreement."
+}

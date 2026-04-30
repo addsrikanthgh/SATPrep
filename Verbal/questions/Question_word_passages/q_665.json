@@ -1,0 +1,16 @@
+{
+  "id": "q_665",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Photosynthesis requires carbon dioxide, water, and sunlight to produce glucose and oxygen. _______ plants growing in a greenhouse without adequate ventilation may experience elevated CO₂ concentrations that can actually enhance their photosynthetic rate.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Interestingly,",
+    "B": "Therefore,",
+    "C": "However,",
+    "D": "In contrast,"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence states the inputs for photosynthesis, including CO₂. The second sentence describes a direct consequence of elevated CO₂ in a greenhouse context: enhanced photosynthetic rate. This is a logical consequence of the relationship established in the first sentence—more CO₂ drives more photosynthesis. 'Therefore' (B) correctly signals this cause-and-effect relationship. 'Interestingly' (A) is a weak transition that doesn't specify the logical relationship. 'However' (C) and 'In contrast' (D) both signal contrast, but the second sentence is not a contradiction—it's a consequence."
+}

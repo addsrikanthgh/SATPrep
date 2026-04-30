@@ -1,0 +1,16 @@
+{
+  "id": "q_205",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A software engineering firm compared error rates in code produced by three development approaches across 240 projects: unassisted developer coding, AI-assisted coding with developer review, and fully automated AI code generation without human review. Unassisted coding produced an average of 4.7 defects per thousand lines of code (KLOC). AI-assisted coding produced 2.9 defects per KLOC. Fully automated AI coding produced 6.1 defects per KLOC. Additionally, projects using AI-assisted coding were completed 34% faster than unassisted projects, while fully automated projects were completed 61% faster.",
+  "question": "A project manager argues that AI-assisted coding strikes the best balance between code quality and development speed. Which data from the study most directly supports this argument?",
+  "choices": {
+    "A": "Unassisted coding produced 4.7 defects per KLOC, the second-highest error rate of any approach.",
+    "B": "Fully automated AI coding was the fastest approach, completing projects 61% faster than unassisted coding.",
+    "C": "AI-assisted coding produced the fewest defects (2.9 per KLOC) while completing projects 34% faster than unassisted coding, whereas fully automated coding was faster (61%) but produced the most defects (6.1 per KLOC).",
+    "D": "Fully automated AI coding produced 6.1 defects per KLOC, surpassing even the unassisted approach's rate of 4.7."
+  },
+  "correct_answer": "C",
+  "explanation": "The manager's claim requires evidence that AI-assisted coding is superior to both alternatives on the combined metrics of quality and speed. C is the only choice that presents both dimensions—defect rate and speed—for multiple approaches, explicitly showing that AI-assisted coding combines the best code quality with meaningful speed gains, while the faster alternative (fully automated) comes at the cost of worse quality. A discusses only the unassisted approach's defect rate in isolation. B highlights fully automated coding's speed advantage without addressing its quality problem. D notes only one drawback of automated coding without mentioning AI-assisted coding's advantages."
+}

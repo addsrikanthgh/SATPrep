@@ -1,0 +1,16 @@
+{
+  "id": "q_674",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "In 2019, the city launched a pilot program offering free electric scooter rentals in three neighborhoods to reduce car traffic and emissions. _______ ridership data showed that over 70% of scooter trips replaced walking or transit rides rather than car journeys, calling into question the program's environmental rationale.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "However,",
+    "B": "As a result,",
+    "C": "Similarly,",
+    "D": "In fact,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes the goal of the program (reducing car traffic and emissions). The second reports data that contradict the assumption behind the goal—most scooter trips replaced walking or transit, not car trips. This is a direct contrast between the program's intention and the evidence about its actual behavior. 'However' (A) correctly signals that the second sentence provides contradictory or complicating evidence. 'As a result' (B) would imply the contradictory data was a consequence of the launch, which misrepresents the relationship. 'Similarly' (C) implies parallel information. 'In fact' (D) would suggest the second sentence confirms or amplifies the first, not contradicts it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_745",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "In classical economic theory, prices serve as signals: rising prices indicate scarcity and attract new suppliers, while falling prices signal abundance and prompt buyers to increase demand. This self-correcting mechanism is called the price system. However, in markets for certain goods—particularly those involving significant information asymmetries—the price system breaks down. In the used-car market, for example, sellers know the quality of their car, but buyers do not. Rational sellers of low-quality cars ('lemons') are willing to sell at market price, while sellers of high-quality cars withdraw because the market price undervalues their vehicle. As high-quality cars exit the market, average quality falls, market price falls to reflect this, and more sellers exit—a process that can, in theory, cause the market to collapse.",
+  "question": "Based on the passage, what can most reasonably be inferred about markets with significant information asymmetries?",
+  "choices": {
+    "A": "They may fail to efficiently allocate resources because prices no longer accurately reflect quality, driving out better goods.",
+    "B": "They function more efficiently than markets with perfect information because sellers with inside knowledge make better pricing decisions.",
+    "C": "They will always collapse completely, as the dynamic described in the used-car example inevitably plays out in every such market.",
+    "D": "The price system's failure in these markets is caused by buyers refusing to pay fair prices for high-quality goods."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes how information asymmetry causes the price system to misalign: low-quality goods stay in the market while high-quality goods are driven out because prices cannot distinguish between them. This undermines efficient resource allocation, which is the purpose of the price system. A correctly captures this inference. B is the opposite of what the passage describes—asymmetric information causes market failure, not efficiency. C overstates; the passage says collapse 'can, in theory' occur, not that it always does. D misattributes the cause—the passage says sellers of high-quality goods withdraw because the market price undervalues their car, not that buyers refuse fair prices."
+}

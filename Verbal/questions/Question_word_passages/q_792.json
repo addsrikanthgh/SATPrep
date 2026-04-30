@@ -1,0 +1,15 @@
+{
+  "id": "q_792",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Gentrification refers to the process by which wealthier residents move into lower-income neighborhoods, often leading to rising rents and property values.\n- Proponents argue that gentrification improves neighborhood infrastructure, reduces crime, and increases tax revenue for local governments.\n- Critics argue that it displaces long-term residents who can no longer afford to live in the neighborhood.\n- A 2019 study found that renters in gentrifying neighborhoods in U.S. cities were 15% more likely to move within a year than those in non-gentrifying areas.\n- Some researchers distinguish between 'displacement' (forced moves due to unaffordability) and 'succession' (new arrivals filling vacancies left by residents who moved for unrelated reasons).\n\nThe student wants to describe a cause-and-effect relationship between gentrification and residential displacement. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "As gentrification raises rents and property values in lower-income neighborhoods, long-term residents who cannot afford the increases are often forced to relocate—a 2019 study found renters in gentrifying neighborhoods were 15% more likely to move within a year.",
+    "B": "Some researchers distinguish between displacement, which is forced by unaffordability, and succession, in which vacancies are filled by new arrivals.",
+    "C": "Gentrification can improve neighborhood infrastructure, reduce crime, and increase tax revenue for local governments.",
+    "D": "Gentrification refers to the process by which wealthier residents move into lower-income neighborhoods."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to describe a cause-and-effect relationship between gentrification and residential displacement. A establishes the causal mechanism (rising rents → residents who can't afford to stay must move) and supports the claim with the study's statistic (15% more likely to move). B presents a scholarly distinction without establishing the causal relationship. C presents the benefits of gentrification—the opposite side of the debate, not the displacement cause-effect chain. D only defines gentrification without any cause-effect information."
+}

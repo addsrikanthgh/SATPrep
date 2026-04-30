@@ -1,0 +1,16 @@
+{
+  "id": "q_688",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Composting converts organic waste—food scraps, yard trimmings, and other biodegradable materials—into a nutrient-rich soil amendment through the activity of microorganisms, fungi, and invertebrates. Successful composting requires a balance of 'greens' (nitrogen-rich materials such as vegetable peels and grass clippings) and 'browns' (carbon-rich materials such as dried leaves and cardboard). Adequate moisture and oxygen are also necessary: a pile that is too wet becomes anaerobic and produces foul odors, while one that is too dry slows microbial activity. When properly managed, a compost pile can reach internal temperatures of 55 to 70 degrees Celsius, which is sufficient to kill most weed seeds and pathogens. The finished compost improves soil structure, enhances water retention, and reduces the need for chemical fertilizers.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Composting is a managed biological process that converts organic waste into a useful soil amendment, provided specific conditions are maintained.",
+    "B": "The primary challenge of composting is maintaining the correct ratio of nitrogen-rich to carbon-rich materials.",
+    "C": "Composting is the most environmentally superior method of waste disposal available to households.",
+    "D": "By eliminating the need for chemical fertilizers entirely, composting can significantly reduce agricultural costs worldwide."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explains the composting process (biological activity of microorganisms), the conditions required (nitrogen/carbon balance, moisture, oxygen), and the benefits (soil improvement, reduced fertilizer need). A captures the full scope: it's a biological process, produces useful output, and requires management. B is too narrow—the green/brown ratio is one requirement among several. C makes a superlative claim ('most environmentally superior method') not made in the passage. D overstates the passage's claim; it says composting 'reduces the need' for chemical fertilizers, not that it eliminates the need or that this has worldwide agricultural cost implications."
+}

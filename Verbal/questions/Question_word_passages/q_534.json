@@ -1,0 +1,16 @@
+{
+  "id": "q_534",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "To reduce costs, the hospital administrators proposed consolidating the two pediatric units, _______ the radiology and pathology departments.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "merging",
+    "B": "to merge",
+    "C": "and merge",
+    "D": "the merging of"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a series of parallel gerund phrases modifying what the administrators proposed: 'consolidating the two pediatric units' and '___ the radiology and pathology departments.' Parallelism requires that the second action match the form of the first (a gerund/-ing form). 'Merging' is the correct parallel form. A is correct. B ('to merge') is an infinitive, which breaks the parallel with 'consolidating.' C ('and merge') uses a bare infinitive form after a conjunction, which is inconsistent with the gerund series. D ('the merging of') is a nominalized gerund phrase that is unnecessarily wordy and breaks the parallel structure."
+}

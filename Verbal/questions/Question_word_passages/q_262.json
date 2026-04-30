@@ -1,0 +1,16 @@
+{
+  "id": "q_262",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "In the mid-twentieth century, urban planners in the United States cleared densely populated neighborhoods in the name of 'slum clearance,' displacing hundreds of thousands of residents—disproportionately Black and low-income—to construct highways, civic centers, and public housing towers. Critics at the time, most notably journalist Jane Jacobs, argued that these projects destroyed precisely the urban vitality they claimed to improve: the mixed-use streets, pedestrian activity, and informal social networks that made neighborhoods functional and safe. Subsequent research in urban sociology has largely validated Jacobs's critique, finding that top-down redevelopment projects consistently failed to produce the benefits their proponents promised and instead generated lasting economic and social harm for displaced communities.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Jane Jacobs was the most important urban theorist of the twentieth century.",
+    "B": "Mid-century urban renewal projects, which displaced vulnerable communities, were criticized at the time and have since been found by researchers to have caused lasting harm rather than the promised benefits.",
+    "C": "Public housing towers built during urban renewal became the most visible symbol of failed government policy in the twentieth century.",
+    "D": "Urban planners in the United States were motivated primarily by racial bias when designing mid-century redevelopment projects."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers three linked points: the displacement caused by mid-century urban renewal, Jacobs's contemporary critique of those projects, and subsequent research validating that critique. B accurately synthesizes all three points without overstating any. A overstates Jacobs's importance relative to what the passage claims—she is called a notable critic, not the most important theorist. C focuses narrowly on public housing towers, which are only one detail in the passage. D attributes a singular racial motive to planners, which goes beyond what the passage states; racial disparity in displacement is noted as an outcome, not explicitly as the planners' primary motivation."
+}

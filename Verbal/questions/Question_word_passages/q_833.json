@@ -1,0 +1,16 @@
+{
+  "id": "q_833",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "Lyotard's critique of grand narratives was not an endorsement of nihilism but a call for _______ in knowledge claims: rather than insisting that a single theoretical framework explains all of human experience, we should acknowledge the legitimacy of local, plural, and incompatible ways of knowing.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "epistemic humility",
+    "B": "dogmatic certainty",
+    "C": "rhetorical excess",
+    "D": "empirical rigor"
+  },
+  "correct_answer": "A",
+  "explanation": "'Epistemic humility' means modesty about the limits and scope of what we can know—acknowledging that no single framework explains everything and that multiple, incompatible ways of knowing can be legitimate. This precisely captures Lyotard's position as described. 'Dogmatic certainty' is the opposite—insisting on a single framework. 'Rhetorical excess' refers to overdone language and has nothing to do with the philosophical argument about knowledge claims. 'Empirical rigor' refers to careful observation and evidence-based methods—not the pluralistic, anti-grand-narrative argument being made."
+}

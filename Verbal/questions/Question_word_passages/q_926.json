@@ -1,0 +1,16 @@
+{
+  "id": "q_926",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The panel of judges ______ announced its decision after deliberating for nearly three hours.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "have",
+    "B": "has",
+    "C": "were",
+    "D": "are"
+  },
+  "correct_answer": "B",
+  "explanation": "'Panel' is a collective noun that functions as a singular unit—the panel acted as one body in announcing its decision. In American English, collective nouns typically take singular verbs when they act as a unified body. 'Has announced' is the correct singular present perfect form, consistent with the completed action ('after deliberating for nearly three hours'). 'Have' is plural. 'Were' and 'are' are past and present plural forms of 'be,' which are grammatically incompatible with 'announced.'"
+}

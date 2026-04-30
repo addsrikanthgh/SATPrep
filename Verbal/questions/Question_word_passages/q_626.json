@@ -1,0 +1,16 @@
+{
+  "id": "q_626",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "In ecology, the term 'niche' refers not merely to a species' habitat but to the full range of biotic and abiotic conditions under which it can survive and reproduce—its _______ position within the ecosystem, encompassing what it eats, what eats it, and how it interacts with the physical environment.",
+  "question": "Which word most precisely fills the blank in context?",
+  "choices": {
+    "A": "functional",
+    "B": "geographic",
+    "C": "aesthetic",
+    "D": "temporal"
+  },
+  "correct_answer": "A",
+  "explanation": "The passage defines 'niche' as encompassing all of a species' interactions and roles—what it eats, its predators, its environmental interactions. This is a 'functional' position (defined by role and interactions) rather than merely a physical location. Geographic would imply a spatial/location definition, which the passage explicitly says is too narrow. Aesthetic refers to appearance and is irrelevant. Temporal would imply a time-based position, which isn't the focus."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_499",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "easy",
+  "passage": "Sourdough bread is made through a fermentation process driven by wild yeast and lactic acid bacteria that naturally occur in flour and the environment. Unlike commercial bread made with added yeast, sourdough relies on a 'starter'—a culture of these microorganisms maintained by regular feedings of flour and water. The bacteria produce lactic and acetic acids, which give sourdough its characteristic tangy flavor and also lower the bread's pH. This lower pH inhibits the growth of mold, extending the bread's shelf life. The fermentation process also partially breaks down gluten proteins and phytic acid, which some researchers suggest may make the bread easier to digest for some individuals.",
+  "question": "According to the passage, which of the following is a reason sourdough bread lasts longer than commercial bread?",
+  "choices": {
+    "A": "Sourdough bread contains added preservatives that commercial bread lacks.",
+    "B": "The acids produced during fermentation lower the bread's pH, which inhibits mold growth.",
+    "C": "Sourdough is baked at higher temperatures, which sterilizes the bread more completely.",
+    "D": "Sourdough's lower gluten content prevents the conditions that allow mold to grow."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that the lactic and acetic acids lower the bread's pH and that 'this lower pH inhibits the growth of mold, extending the bread's shelf life.' B directly reflects this stated mechanism. A is contradicted—sourdough is described as a natural fermentation product; no added preservatives are mentioned. C introduces baking temperature, which is not discussed in the passage. D misrepresents the passage—gluten is mentioned in the context of digestibility, not mold prevention."
+}

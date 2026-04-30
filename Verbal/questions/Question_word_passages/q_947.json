@@ -1,0 +1,16 @@
+{
+  "id": "q_947",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Economists studying the value of unpaid work—such as caregiving, household labor, and volunteer activity—have found that including such work in GDP calculations would substantially increase measured economic output in most countries. In many nations, unpaid care work performed predominantly by women is estimated to be worth between 10 and 39 percent of GDP. Standard GDP measures exclude this work entirely because it is not exchanged in markets.",
+  "question": "Based on the passage, what can most reasonably be inferred about standard GDP measurements?",
+  "choices": {
+    "A": "Standard GDP accurately captures the full economic value produced in a society.",
+    "B": "Standard GDP systematically undercounts economic activity and may understate women's economic contributions in particular.",
+    "C": "Unpaid work contributes very little economic value relative to paid employment, which is why it is excluded from GDP.",
+    "D": "Including unpaid work in GDP would make economies appear weaker, as the value of unpaid labor offsets market production."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that including unpaid work would substantially increase measured output, and that unpaid care work (performed predominantly by women) is worth 10–39% of GDP but excluded from standard measures. This directly implies GDP undercounts economic activity and particularly undercounts work performed by women. B is the most reasonable inference. A is contradicted—the passage says including unpaid work would substantially increase output, implying current measures are incomplete. C contradicts the passage—unpaid work is worth up to 39% of GDP, which is significant. D contradicts the passage—including it would make economies appear larger, not weaker."
+}

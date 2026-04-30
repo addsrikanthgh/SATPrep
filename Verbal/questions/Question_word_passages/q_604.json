@@ -1,0 +1,16 @@
+{
+  "id": "q_604",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "Archaeologists examining pottery fragments and obsidian tools found at a Bronze Age site in central Anatolia proposed that the settlement served as a major hub in long-distance trade networks connecting Mesopotamia, the Aegean, and the eastern Mediterranean. Their claim rested on the presence of materials whose geological origins lay hundreds of kilometers away, suggesting the site's inhabitants had access to goods transported across significant distances.",
+  "question": "Which finding, if true, would most directly support the archaeologists' claim that the site was a trade hub rather than simply a destination receiving imported goods?",
+  "choices": {
+    "A": "Chemical analysis of obsidian tools found at the site traced their origin to volcanic sources in eastern Anatolia, approximately 400 kilometers away.",
+    "B": "The site contained large quantities of standardized storage vessels consistent with redistribution—receiving goods from multiple directions and dispatching them onward—alongside evidence of multiple distinct manufacturing traditions.",
+    "C": "Written records from Mesopotamian cities of the same period mention trade caravans traveling through Anatolia without specifying which settlements they passed through.",
+    "D": "Excavations at a contemporaneous site 200 kilometers to the west uncovered pottery stylistically similar to fragments found at the Anatolian site."
+  },
+  "correct_answer": "B",
+  "explanation": "The distinction the question draws is between a hub (receiving and redistributing goods in multiple directions) versus a mere destination. B supports hub status by showing both redistribution infrastructure (standardized storage vessels consistent with redistribution) and multi-directional connections (multiple manufacturing traditions). A shows the site received imported goods but doesn't show it redistributed them—it supports destination, not hub. C is vague and doesn't pinpoint the site. D shows stylistic connection to one neighboring site but doesn't establish the site as a multi-directional hub."
+}

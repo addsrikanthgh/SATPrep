@@ -1,0 +1,16 @@
+{
+  "id": "q_701",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Social media platforms have fundamentally changed how political information spreads. Because users can share content instantly with thousands of followers, accurate and inaccurate information now travel at the same speed. Research consistently shows that false news spreads faster and farther than true news on these platforms, partly because false stories tend to be more novel and emotionally engaging.\n\nText 2: A 2023 audit of a major social media platform's content recommendation algorithm found that the algorithm disproportionately amplified posts containing emotionally charged language, regardless of their factual accuracy. Posts that provoked outrage or fear received, on average, three times the algorithmic distribution of posts with neutral or factual content.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 2 provides specific empirical evidence that supports and helps explain the pattern described in Text 1.",
+    "B": "Text 2 challenges the claim made in Text 1 by showing that platform algorithms treat accurate and inaccurate information equally.",
+    "C": "Text 2 shifts focus away from the topic of Text 1 by examining algorithm design rather than information spread.",
+    "D": "Text 2 suggests that the research cited in Text 1 overstated the speed at which false news spreads online."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 claims that false news spreads faster partly because it is more emotionally engaging. Text 2 provides a concrete audit finding that emotionally charged content—regardless of accuracy—receives three times the algorithmic distribution of neutral content. This directly supports and provides a mechanism for Text 1's observation. A accurately captures this supporting/explanatory relationship. B is incorrect—Text 2 does not show equal treatment; it shows amplification of emotional content, which means inaccurate content (if emotionally charged) gets more distribution. C is incorrect; examining the algorithm is directly relevant to explaining why false news spreads. D is incorrect—Text 2 reinforces, not qualifies, Text 1's claims."
+}

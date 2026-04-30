@@ -1,0 +1,16 @@
+{
+  "id": "q_495",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "Gregor Mendel's famous experiments with pea plants in the 1850s and 1860s established the mathematical rules governing heredity and are foundational to genetics. Yet Mendel's work was largely ignored for thirty-five years after its publication and was only rediscovered and recognized in 1900. Historians of science have offered several explanations for this delayed recognition. The most common explanation is that Mendel published in an obscure Austrian journal, limiting his audience. However, scholars have noted that Darwin himself received a copy of Mendel's paper and appears to have left it unread, suggesting the problem may have been conceptual rather than merely logistical: Darwin's framework did not make it easy to recognize the significance of Mendel's statistical approach to heredity.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Mendel's pea plant experiments were flawed and did not actually establish reliable rules of heredity.",
+    "B": "Mendel's work was ignored primarily because Darwin actively suppressed it to protect his own theory of evolution.",
+    "C": "While Mendel's work was ignored for decades, historians suggest the delay resulted not only from limited publication but also from a conceptual mismatch with contemporary scientific frameworks.",
+    "D": "Mendel's work was eventually recognized in 1900 because Darwin popularized it in his later writing."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage presents two explanations for the delayed recognition: the obscure publication (conventional explanation) and the conceptual mismatch with Darwin's framework (more nuanced explanation). C accurately reflects both explanations. A contradicts the passage, which calls Mendel's work 'foundational to genetics.' B fabricates a claim—the passage says Darwin left the paper unread, not that he suppressed it. D is directly contradicted—the passage says Darwin left the paper unread and it was rediscovered in 1900 without Darwin's involvement."
+}

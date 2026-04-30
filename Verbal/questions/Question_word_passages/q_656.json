@@ -1,0 +1,16 @@
+{
+  "id": "q_656",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "After reviewing all submissions _______ the judges awarded first prize to a poet who had never before published in the journal.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "submissions,",
+    "B": "submissions;",
+    "C": "submissions:",
+    "D": "submissions"
+  },
+  "correct_answer": "A",
+  "explanation": "'After reviewing all submissions' is an introductory adverbial phrase. Standard convention requires a comma after an introductory phrase to separate it from the main clause. A correctly inserts this comma. A semicolon (B) incorrectly treats the introductory phrase as if it were an independent clause. A colon (C) is not used after introductory adverbial phrases. No punctuation (D) technically works but is less clear and non-standard for formal written English."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_425",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "For centuries, cartographers worked from incomplete and often contradictory source material, forcing them to interpolate—to fill gaps in their knowledge of coastlines and continental interiors with informed guesses—while presenting the results as authoritative maps.",
+  "question": "As used in the passage, 'interpolate' most nearly means",
+  "choices": {
+    "A": "to insert words into a text in order to falsify it.",
+    "B": "to estimate or infer unknown values within a range based on known surrounding data.",
+    "C": "to translate a text from one language into another.",
+    "D": "to question a witness formally in a legal proceeding."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, cartographers 'interpolated' by using what they knew about coastlines on either side of an unknown section to make educated guesses about what lay in between—the mathematical/scientific sense of inferring unknown values from surrounding known data. B captures this sense. A is the falsification sense of textual interpolation (inserting unauthorized text). C is translation—unrelated. D is legal interrogation—unrelated."
+}

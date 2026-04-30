@@ -1,0 +1,16 @@
+{
+  "id": "q_867",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The classical economic model assumes that consumers make purchasing decisions by rationally calculating the option that maximizes their personal utility. ______, behavioral economists have documented numerous consistent patterns in which people make choices that deviate systematically from this rational model.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "Furthermore",
+    "B": "Consequently",
+    "C": "Yet",
+    "D": "In the same way"
+  },
+  "correct_answer": "C",
+  "explanation": "'Yet' signals a contrasting or complicating fact despite what was previously stated—the classical model assumes rational calculation, yet actual consumer behavior systematically deviates from it. 'Furthermore' adds another supporting point, but the second sentence contradicts the first rather than supporting it. 'Consequently' implies the deviations are caused by the classical model, which makes no logical sense. 'In the same way' signals similarity or analogy—the second sentence is not similar to the first; it challenges it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_905",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Access to green space in urban environments has been linked to improved mental and physical health outcomes. Studies show that residents of neighborhoods with parks and street trees report lower rates of stress, depression, and anxiety, and that proximity to nature lowers blood pressure and cortisol levels. City planners should prioritize green space as a public health intervention, particularly in dense urban neighborhoods that currently lack it.\n\nText 2: While the benefits of urban green space are well-documented, there is growing concern that park investments in low-income neighborhoods can accelerate gentrification. As neighborhoods become more attractive to higher-income residents following park improvements, property values rise and lower-income residents who were meant to benefit from the parks are displaced. Policy solutions must address the risk of 'green gentrification' rather than treating park investment as universally beneficial.",
+  "question": "Which statement best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 2 disputes that urban green space provides health benefits, arguing these benefits are exaggerated.",
+    "B": "Text 1 and Text 2 agree that park investment is always harmful to low-income communities.",
+    "C": "Text 2 accepts the health benefits described in Text 1 but introduces a complication—gentrification—that complicates a simple pro-parks policy conclusion.",
+    "D": "Text 2 argues that mental health benefits from parks are outweighed by the economic harm of rising property values."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 explicitly acknowledges that 'the benefits of urban green space are well-documented' (consistent with Text 1) but raises the green gentrification problem as a complicating factor. C accurately captures this structure. A misrepresents Text 2, which accepts rather than disputes the health benefits. B is wrong—Text 1 advocates park investment and Text 2 advocates addressing a risk, not avoiding parks entirely. D makes a comparative weighing claim ('outweighed') that Text 2 does not make."
+}

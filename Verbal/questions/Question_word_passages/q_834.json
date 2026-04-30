@@ -1,0 +1,16 @@
+{
+  "id": "q_834",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The city council's plan to widen the highway was met with strong _______ from residents of nearby neighborhoods, who argued it would increase noise pollution, accelerate traffic, and destroy the character of their community.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "opposition",
+    "B": "indulgence",
+    "C": "commendation",
+    "D": "ambivalence"
+  },
+  "correct_answer": "A",
+  "explanation": "'Opposition' means active resistance or disagreement—residents arguing against the highway widening with specific objections is a precise example of opposition. 'Indulgence' means allowing something as a special privilege—not applicable here. 'Commendation' means praise or approval—the opposite of what the residents expressed. 'Ambivalence' means having mixed feelings—the residents were clearly and strongly against the plan, not ambivalent."
+}

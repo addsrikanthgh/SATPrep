@@ -1,0 +1,16 @@
+{
+  "id": "q_365",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The history of urban public transit in the United States is in large part the history of a choice that was made—and then, arguably, unmade. In the early twentieth century, American cities had extensive streetcar networks. These systems were profitable, heavily used, and provided dense urban areas with a viable alternative to private transport. Beginning in the 1930s and accelerating after World War II, these systems were dismantled—replaced by buses, and then by urban highways designed to accommodate the rising automobile. Today, many of the same cities that tore out their rail infrastructure are spending billions to reconstruct light rail and streetcar systems on roughly the routes they once abandoned.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A problem is identified, several causes are analyzed, and a definitive solution is proposed.",
+    "B": "A historical trajectory is traced—from early streetcar success through deliberate dismantling to present-day reconstruction—to illustrate a pattern of reversal.",
+    "C": "Two competing arguments about the value of public transit are presented and then reconciled.",
+    "D": "Statistical evidence is used to support the claim that public transit is economically superior to private transport."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents a three-part chronological arc: early streetcar success → deliberate dismantling after WWII → present-day reconstruction on the same routes. The structure is explicitly one of historical reversal, underscored by the phrase 'made—and then, arguably, unmade.' B accurately describes this chronological reversal structure. A introduces 'problem + causes + solution' framing—the passage has no explicit problem statement or proposed solution. C describes competing arguments that are reconciled—the passage does not present two competing arguments. D attributes statistical evidence to the passage; the passage is narrative and historical, with no statistics."
+}

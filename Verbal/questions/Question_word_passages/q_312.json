@@ -1,0 +1,16 @@
+{
+  "id": "q_312",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1:\nThe philosopher John Rawls developed 'the veil of ignorance' as a thought experiment for determining principles of justice. He asked: what principles would rational individuals choose to govern society if they did not know what position they would occupy in that society—whether they would be rich or poor, talented or not, born into a favored or marginalized group? Rawls argued that behind this veil, rational people would choose principles protecting basic liberties for all and ensuring that inequalities benefited the least advantaged members of society.\n\nText 2:\nThe political philosopher Robert Nozick challenged the assumptions underlying Rawls's veil of ignorance. Nozick argued that people behind the veil would not simply design a social arrangement from scratch; they would bring with them the knowledge that whatever they end up with was either justly acquired or unjustly taken, and that property rights rooted in voluntary exchange are morally prior to redistributive principles. A theory of justice, Nozick contended, cannot proceed as if individuals were unattached to their histories, talents, and entitlements.",
+  "question": "How does Nozick's argument in Text 2 challenge Rawls's framework in Text 1?",
+  "choices": {
+    "A": "Nozick agrees with Rawls's conclusions about protecting basic liberties but disagrees about the basis for redistributive principles.",
+    "B": "Nozick challenges the veil of ignorance thought experiment by arguing that individuals cannot be stripped of their identities, histories, and entitlements for the purposes of deriving just principles—undermining the premise that the veil produces neutral reasoners.",
+    "C": "Nozick argues that the veil of ignorance would lead rational people to choose more aggressive redistribution than Rawls suggests.",
+    "D": "Nozick rejects the idea that rational individuals can make any meaningful choices and therefore denies the usefulness of thought experiments in political philosophy."
+  },
+  "correct_answer": "B",
+  "explanation": "Nozick's challenge is directed at the foundational premise of the veil of ignorance: that stripping people of their particular characteristics produces neutral, fair reasoners. Nozick argues that people behind the veil would still bring their histories, entitlements, and the knowledge that property rights precede redistribution—meaning the veil does not produce the blank-slate reasoners Rawls assumes. B accurately captures this attack on the thought experiment's premise. A misrepresents Nozick—he disputes the redistribution principle itself, not just its basis. C attributes to Nozick a position (more aggressive redistribution) that is the opposite of his libertarian view. D attributes to Nozick a wholesale rejection of thought experiments, which he does not make—he uses his own thought experiments (e.g., the Wilt Chamberlain argument)."
+}

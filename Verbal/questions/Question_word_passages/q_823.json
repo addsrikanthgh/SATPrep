@@ -1,0 +1,16 @@
+{
+  "id": "q_823",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The documentary filmmaker was praised for her _______ approach: rather than presenting a single authoritative narrative, she allowed multiple contradictory voices to stand unresolved, trusting viewers to draw their own conclusions.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "dialectical",
+    "B": "conclusive",
+    "C": "didactic",
+    "D": "reductive"
+  },
+  "correct_answer": "A",
+  "explanation": "'Dialectical' refers to a method that explores truth through the juxtaposition and tension of opposing viewpoints, without resolving them into a single answer. The description—multiple contradictory voices left unresolved—exactly describes a dialectical approach. 'Conclusive' means definitive and settling—the opposite of what the filmmaker does. 'Didactic' means instructive and intended to teach a moral lesson—which implies a single authoritative message, the opposite of the filmmaker's approach. 'Reductive' means oversimplified—opposite of the complexity the filmmaker presents."
+}

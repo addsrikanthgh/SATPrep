@@ -1,0 +1,16 @@
+{
+  "id": "q_566",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "For most of intellectual history, time was assumed to be absolute and universal—flowing at the same rate everywhere and for every observer. This assumption was so deeply embedded that Isaac Newton explicitly built it into his mechanics. In 1905, Albert Einstein's special theory of relativity demolished it. Einstein showed that time is not absolute but relative: it passes more slowly for objects moving at high velocities relative to an observer. In 1915, his general theory of relativity revealed that gravity also dilates time—clocks run slower in stronger gravitational fields. These effects are not merely theoretical curiosities; they must be accounted for in the algorithms of GPS satellites, whose atomic clocks must be corrected to maintain accuracy.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that Newton's mechanics were fundamentally flawed and should be replaced in all scientific contexts",
+    "B": "trace the shift from an absolute to a relative concept of time and illustrate the practical consequences of Einstein's theories",
+    "C": "explain how GPS technology was developed by engineers who discovered relativistic effects by accident",
+    "D": "compare the mathematical complexity of Newton's and Einstein's respective frameworks"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage moves from the historical assumption of absolute time (Newton), to Einstein's challenge (special relativity), to the extension (general relativity and gravity), and ends with a practical application (GPS). The structure traces an intellectual shift and closes with real-world consequences. B correctly captures this arc. A overstates—the passage describes the limitation of Newton's absolute time assumption but does not argue his mechanics should be replaced 'in all contexts.' C misrepresents the GPS example—it is used to illustrate that relativistic effects must be corrected for, not to tell the story of how GPS was invented. D is incorrect—the passage does not compare mathematical complexity."
+}

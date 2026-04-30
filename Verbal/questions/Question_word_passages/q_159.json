@@ -1,0 +1,16 @@
+{
+  "id": "q_159",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "James Baldwin's essays are formally precise without being cold. His sentences build through repetition and rhythm rather than through syllogistic logic, accumulating force the way a blues refrain accumulates meaning with each return. _______, to read Baldwin analytically—extracting arguments and discarding the prose texture—is to miss the essential thing, which is the inseparability of what he says from how he says it.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "As a result,",
+    "B": "In contrast,",
+    "C": "For instance,",
+    "D": "Regardless,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first two sentences establish that Baldwin's meaning is built through prose form—rhythm, repetition, texture. The third sentence draws a consequence from this: because form and meaning are inseparable in Baldwin, purely analytical reading that extracts arguments while discarding prose texture will miss the point. 'As a result' (A) correctly signals this cause-and-effect relationship between the formal observation and the interpretive implication. 'In contrast' (B) would signal that the third sentence contradicts the earlier point, but it follows from it. 'For instance' (C) would imply the third sentence is an example of the previous point, not its consequence. 'Regardless' (D) would imply that the interpretive claim holds despite some obstacle, which misrepresents the logical relationship."
+}

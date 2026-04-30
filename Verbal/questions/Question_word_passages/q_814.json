@@ -1,0 +1,16 @@
+{
+  "id": "q_814",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A student argues that standardized testing is a poor measure of academic potential for first-generation college students because their lower test scores reflect limited access to test preparation resources rather than underlying ability.",
+  "question": "Which finding would most directly support the student's argument?",
+  "choices": {
+    "A": "'A study found that after controlling for family income and access to test preparation courses, the gap in SAT scores between first-generation and continuing-generation students dropped by over 70%, suggesting that resource disparities account for most of the observed difference.'",
+    "B": "'First-generation college students graduate from four-year universities at lower rates than continuing-generation students, even when enrolled at the same institutions.'",
+    "C": "'Commercial SAT preparation courses typically cost between $1,000 and $3,000, with intensive tutoring programs costing significantly more.'",
+    "D": "'Students who take the SAT multiple times typically improve their scores by an average of 40 points between the first and second attempts.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The student argues that first-generation students' lower scores reflect resource disparities rather than ability. A directly supports this: when resource access is controlled for, the score gap drops by over 70%—strong evidence that the gap is explained by resources rather than underlying ability. B shows graduation rate differences but not the cause or the test-preparation argument. C describes the cost of preparation courses—relevant as context but does not show that this cost gap explains score differences. D shows general score improvement on retesting but does not connect to first-generation students or resource access."
+}

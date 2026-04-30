@@ -1,0 +1,16 @@
+{
+  "id": "q_409",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "Climate scientists analyzed ice core data from the Antarctic ice sheet to reconstruct atmospheric CO₂ concentrations and temperature records over the past 800,000 years. The data showed that CO₂ concentrations fluctuated between approximately 180 ppm during ice ages and 280 ppm during warmer interglacial periods. Current atmospheric CO₂ levels stand at approximately 420 ppm—a concentration unprecedented in the 800,000-year record. The rate of increase since industrialization (roughly 2–3 ppm per year) is also approximately 100 times faster than any natural increase observed in the ice core record.",
+  "question": "A climate scientist argues that current CO₂ levels represent not just an elevated concentration but an anomalous departure from all natural variation in the geological record. Which evidence best supports this claim?",
+  "choices": {
+    "A": "Current CO₂ at 420 ppm exceeds the entire 800,000-year natural range of 180–280 ppm, and the current rate of increase is approximately 100 times faster than any natural increase in that record.",
+    "B": "CO₂ levels during ice ages were approximately 180 ppm.",
+    "C": "The ice core data covers 800,000 years of climate history.",
+    "D": "Industrialization began roughly 250 years ago."
+  },
+  "correct_answer": "A",
+  "explanation": "A supports the 'anomalous departure' claim with two pieces of evidence: the current level (420 ppm) falls entirely outside the natural range (180–280 ppm), and the rate of change is 100× faster than any natural increase—both dimensions of anomaly (magnitude and rate). B gives only the ice-age lower bound, providing context but not the full case for anomaly. C describes the record's time span—methodology. D provides historical context for industrialization but no data about CO₂ levels or rates."
+}

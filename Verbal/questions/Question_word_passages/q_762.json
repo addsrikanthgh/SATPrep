@@ -1,0 +1,16 @@
+{
+  "id": "q_762",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "In 1869, the transcontinental railroad linking the eastern United States to the Pacific Coast was completed with the driving of a ceremonial golden spike at Promontory Summit, Utah. The construction had taken six years and employed tens of thousands of workers, predominantly Irish immigrants in the east and Chinese immigrants in the west. The railroad fundamentally changed the American West: cattle ranching and commercial agriculture expanded as markets became accessible, but the buffalo herds that Indigenous peoples depended on were decimated as hunters used the railroad to reach the plains in vast numbers. By 1880, the railroad had accelerated both the economic integration of the West and the dispossession of its native inhabitants.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It presents the completion of the transcontinental railroad and then describes both its economic benefits and its destructive consequences.",
+    "B": "It argues that the negative consequences of the transcontinental railroad outweighed its economic benefits.",
+    "C": "It compares the experiences of Irish and Chinese workers who built the railroad.",
+    "D": "It traces the step-by-step process by which the transcontinental railroad was constructed."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage opens with the completion of the railroad, briefly describes its construction workforce, and then presents both economic development (cattle ranching, agriculture, market access) and destructive consequences (decimation of buffalo, Indigenous dispossession). A accurately describes this structure: context followed by dual consequences. B attributes an evaluative argument to the passage, but the passage presents both outcomes neutrally rather than arguing one outweighs the other. C focuses on worker comparison—the passage names the two groups briefly but does not compare their experiences. D describes a step-by-step construction account—the passage does not detail the construction process."
+}

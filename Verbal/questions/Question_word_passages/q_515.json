@@ -1,0 +1,16 @@
+{
+  "id": "q_515",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: The aurora borealis, or northern lights, is produced when charged particles emitted by the sun—primarily electrons and protons—travel along Earth's magnetic field lines toward the poles and collide with atoms and molecules in the upper atmosphere. The energy from these collisions excites atmospheric atoms, which then release the energy as visible light. Different atmospheric gases produce different colors: oxygen at higher altitudes produces red; oxygen at lower altitudes produces green; nitrogen produces blue and purple.\n\nText 2: The timing and intensity of auroral displays depend on solar activity. During periods of high solar activity, such as solar flares and coronal mass ejections, large amounts of charged particles are released into space. When these streams of particles interact with Earth's magnetosphere, they can trigger particularly vivid and widespread aurora visible at much lower latitudes than usual. Auroras have been recorded in places as far from the poles as Texas and Spain during especially powerful solar storms.",
+  "question": "How do the two texts relate to each other in their discussion of the aurora borealis?",
+  "choices": {
+    "A": "Text 1 contradicts Text 2 by arguing that auroras are not related to solar activity.",
+    "B": "Text 1 explains the physical mechanism by which auroras are produced, while Text 2 explains how solar activity affects auroral timing and geographic extent.",
+    "C": "Both texts focus primarily on describing the visual colors and patterns of auroral displays.",
+    "D": "Text 2 argues that auroras occur only during solar flares, contradicting Text 1's account of regular charged particle emission."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 explains the mechanism: charged particles traveling along magnetic field lines excite atmospheric gases that emit light. Text 2 explains how variation in solar activity (flares, coronal mass ejections) affects the intensity and geographic scope of auroras. The two texts are complementary: Text 1 provides the mechanism, Text 2 provides information about variability. B accurately describes this division of focus. A is wrong—Text 1 explicitly mentions solar-emitted particles. C is incorrect—neither text focuses primarily on describing colors and patterns. D misrepresents Text 2, which mentions solar flares as one cause of increased intensity, not the only time auroras occur."
+}

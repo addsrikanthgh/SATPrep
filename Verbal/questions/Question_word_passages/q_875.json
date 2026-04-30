@@ -1,0 +1,16 @@
+{
+  "id": "q_875",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "The Columbian Exchange dramatically transformed global agriculture by introducing previously unknown crops—such as potatoes, maize, and tomatoes—to Europe, Africa, and Asia. ______, it introduced Old World diseases to the Americas, contributing to the catastrophic population decline of Indigenous communities.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "In the same way",
+    "B": "As a result",
+    "C": "At the same time",
+    "D": "Nevertheless"
+  },
+  "correct_answer": "C",
+  "explanation": "'At the same time' signals that the second sentence describes a simultaneous, contrasting development that occurred alongside the first—the Exchange brought crops to one part of the world while simultaneously bringing disease to another. This transition correctly represents that both things occurred as part of the same historical process but with very different consequences. 'In the same way' implies analogy—the second sentence is a contrasting consequence, not an analogous one. 'As a result' implies the disease was caused by the crop transfer, which conflates two distinct aspects of the Exchange. 'Nevertheless' implies that the disease introduction occurred despite the agricultural benefits, misrepresenting the historical relationship."
+}

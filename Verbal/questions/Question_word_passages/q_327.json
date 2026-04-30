@@ -1,0 +1,16 @@
+{
+  "id": "q_327",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "_______ revising the manuscript three times, the author finally felt confident enough to submit it to the publisher.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "Having",
+    "B": "After she",
+    "C": "She had",
+    "D": "While"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence needs an introductory phrase that correctly modifies 'the author'—the subject of the main clause. 'Having revised the manuscript three times' (A) creates a participial phrase whose implied subject is 'the author,' correctly indicating the author completed the revisions before submitting. 'After she' (B) would require a full subordinate clause (e.g., 'After she revised the manuscript') rather than a phrase with the gerund 'revising'; as written, 'After she revising' is ungrammatical. 'She had revising' (C) is ungrammatical—'had' requires a past participle ('had revised'), not a gerund. 'While' (D) introduces a simultaneous action, but submitting and revising cannot happen at the same time."
+}

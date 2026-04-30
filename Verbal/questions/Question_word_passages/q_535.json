@@ -1,0 +1,16 @@
+{
+  "id": "q_535",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "If the city _______ additional funding at the beginning of the fiscal year, the bridge repair project would have been completed on schedule.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "had secured",
+    "B": "would have secured",
+    "C": "has secured",
+    "D": "secured"
+  },
+  "correct_answer": "A",
+  "explanation": "This sentence uses the third conditional (past counterfactual): 'If [past perfect], [would have + past participle].' The result clause 'would have been completed' uses the correct past conditional form, so the 'if' clause requires the past perfect: 'had secured.' A is correct. B ('would have secured') creates 'would have...would have' which is non-standard—the conditional modal should appear only in the result clause, not the 'if' clause. C ('has secured') uses present perfect, which is inconsistent with the counterfactual past context. D ('secured') is simple past, which would create a second conditional (hypothetical present/future), but the result clause uses past conditional 'would have been,' so past perfect is required."
+}

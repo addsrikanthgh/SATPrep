@@ -1,0 +1,16 @@
+{
+  "id": "q_750",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Prior to the introduction of synthetic dyes in the 1850s, producing deeply colored textiles required access to natural dye sources—many of which were extraordinarily expensive. The color purple was derived from the Murex sea snail, and producing one pound of Tyrian purple required processing thousands of snails. The dye's scarcity made purple cloth so costly that only ruling classes could afford it, which is why purple has historically been associated with royalty and power across many cultures. When William Henry Perkin accidentally synthesized a purple dye (mauveine) in 1856, purple cloth became affordable, and its exclusive association with royalty began to fade.",
+  "question": "Based on the passage, what can most reasonably be inferred about the historical association between the color purple and royalty?",
+  "choices": {
+    "A": "The association arose from economic scarcity rather than any inherent symbolic meaning of the color itself.",
+    "B": "The association was established by royal decree, with laws that specifically prohibited commoners from wearing purple.",
+    "C": "The association persisted unchanged after Perkin's discovery and remains equally strong today.",
+    "D": "Tyrian purple was produced in such small quantities that it was available only to a single royal family at any given time."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explains that purple was expensive because of the labor-intensive process of extracting dye from thousands of snails per pound. This scarcity meant only rulers could afford it, and from that economic reality the cultural association arose. A correctly infers that the association was economically driven, not inherently symbolic. B is not stated—the passage does not mention laws or sumptuary prohibitions. C contradicts the passage, which says the association 'began to fade' after Perkin's synthesis made purple affordable. D is too extreme—the passage describes the color as available to 'ruling classes' (plural), not just a single family."
+}

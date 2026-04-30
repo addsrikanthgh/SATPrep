@@ -1,0 +1,16 @@
+{
+  "id": "q_369",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Bread is leavened through two primary mechanisms: chemical leavening and biological leavening. Chemical leavening uses baking soda or baking powder to produce carbon dioxide gas through acid-base reactions when the batter is mixed and heated, causing the bread to rise quickly. Biological leavening relies on yeast—single-celled fungi that consume sugars and produce carbon dioxide and alcohol through fermentation. Yeast leavening is slower, requiring hours of proofing time, but produces complex flavors from the fermentation byproducts that chemical leavening cannot replicate.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A central problem is introduced and two failed solutions are described.",
+    "B": "Two leavening mechanisms are compared by explaining how each works and how they differ in speed and flavor.",
+    "C": "A chronological history of bread-making technology is traced from ancient to modern methods.",
+    "D": "An argument is made that biological leavening is superior to chemical leavening in all respects."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces the two primary leavening mechanisms and then explains how each works (mechanism) and how they differ (speed and flavor outcome). B accurately describes this compare-contrast structure organized around process and outcome differences. A describes a problem-and-failed-solutions structure—no problem is introduced. C describes a chronological history—no timeline is presented. D makes a normative superiority claim—the passage describes the tradeoffs (chemical is faster, biological produces more complex flavor) without declaring one superior."
+}

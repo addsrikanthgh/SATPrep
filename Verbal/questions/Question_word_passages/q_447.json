@@ -1,0 +1,16 @@
+{
+  "id": "q_447",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Among the artifacts recovered from the shipwreck were navigational instruments, ceramic cookware _______ and a logbook in remarkably good condition.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "cookware, and",
+    "B": "cookware; and",
+    "C": "cookware: and",
+    "D": "cookware and"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence lists three items separated by commas in a standard serial list: 'navigational instruments, ceramic cookware, and a logbook.' The Oxford (serial) comma before the final 'and' in a list is standard SAT practice. A correctly places the comma after 'cookware.' B uses a semicolon, which is used to separate items in a list only when the items themselves contain commas—none of these items do. C uses a colon, which does not belong in the middle of a list. D omits the final serial comma—while some style guides permit this, the SAT treats the serial comma as required in this structure."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_637",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The new traffic law was widely seen as _______ because it imposed the same fine—$500—on drivers whose vehicles failed an emissions test regardless of whether the vehicle was a decades-old car their owner couldn't afford to repair or a brand-new luxury vehicle that had simply been overlooked.",
+  "question": "Which word most precisely completes the sentence?",
+  "choices": {
+    "A": "regressive",
+    "B": "lenient",
+    "C": "progressive",
+    "D": "arbitrary"
+  },
+  "correct_answer": "A",
+  "explanation": "'Regressive' describes a policy that disproportionately burdens those with fewer resources—a flat fine impacts a poor driver far more than a wealthy one. The passage explicitly contrasts someone who can't afford repairs with someone who has a luxury vehicle. Lenient (not strict enough) contradicts the impact on the poor driver. Progressive (placing higher burden on those with more resources) is the opposite of what is described. Arbitrary (based on random choice rather than principle) doesn't capture the systematic income-based inequality described."
+}

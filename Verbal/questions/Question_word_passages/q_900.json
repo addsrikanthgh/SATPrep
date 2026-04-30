@@ -1,0 +1,16 @@
+{
+  "id": "q_900",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "The field of urban planning has undergone several ideological shifts since the mid-twentieth century. The dominant postwar approach, influenced by modernist principles, prioritized efficiency, zoning separation (residential and commercial areas strictly apart), and high-density housing towers set in open green space. Jane Jacobs, in her 1961 work The Death and Life of Great American Cities, mounted a powerful critique of this approach, arguing that vibrant, safe urban life depended on mixed-use neighborhoods, short blocks, aged buildings alongside new ones, and density of people. Her work inspired the New Urbanism movement, which advocated for walkable, human-scale neighborhood design. More recently, some urban theorists have complicated even this synthesis, arguing that both modernist planning and its alternatives often served the interests of property developers and displaced lower-income residents, and that questions of power and equity must be central to any adequate urban planning theory.",
+  "question": "Which choice best describes the main purpose of the passage?",
+  "choices": {
+    "A": "To argue that Jane Jacobs was wrong to criticize modernist urban planning",
+    "B": "To trace the evolution of urban planning ideology through three phases, each responding to limitations identified in the previous approach",
+    "C": "To prove that New Urbanism is the most effective planning framework currently available",
+    "D": "To describe the specific architectural features that make modernist housing towers inefficient"
+  },
+  "correct_answer": "B",
+  "explanation": "B accurately describes the passage's three-phase intellectual history: modernist postwar planning → Jacobs' critique and New Urbanism → recent equity-centered critique of both. Each phase responds to perceived failures of the previous. A is the opposite of what the passage describes—Jacobs' critique is presented positively. C makes an evaluative claim the passage does not assert—New Urbanism is presented as one development in a continuing evolution, not as the final answer. D focuses narrowly on one supporting detail (modernist towers) rather than the passage's broad historical purpose."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_618",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "Astrophysicists studying galactic rotation curves argued that the rotational speeds of stars at the outer edges of galaxies are far too high to be explained by the gravitational pull of visible matter alone—that is, stars, gas, and dust. They proposed that an unseen form of matter, dubbed 'dark matter,' must be distributed in a vast halo surrounding galaxies, providing the additional gravitational pull needed to prevent outer stars from flying off into space.",
+  "question": "Which finding, if true, would most directly challenge the dark matter hypothesis as an explanation for galactic rotation curves?",
+  "choices": {
+    "A": "A modified theory of gravity (MOND) that adjusts Newton's law of gravitation at very low accelerations successfully predicts the observed rotation curves of most galaxies without requiring any additional mass.",
+    "B": "Astronomers detect no electromagnetic radiation from the proposed dark matter halo, consistent with its being non-luminous.",
+    "C": "The rotational velocity of stars in spiral galaxies remains roughly constant from the galactic center outward, rather than decreasing as expected from visible mass distribution.",
+    "D": "Computer simulations of galaxy formation that include dark matter halos successfully reproduce the large-scale structure of the observed universe."
+  },
+  "correct_answer": "A",
+  "explanation": "The dark matter hypothesis is proposed as the explanation for anomalous rotation curves. A directly challenges this by offering an alternative explanation (modified gravity/MOND) that accounts for the same data without requiring dark matter. B is consistent with dark matter being undetectable—it supports rather than challenges the hypothesis. C is the observational phenomenon that the dark matter hypothesis is trying to explain—it doesn't challenge the hypothesis itself. D supports the dark matter hypothesis by showing it successfully predicts other observational data."
+}

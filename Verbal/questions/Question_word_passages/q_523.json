@@ -1,0 +1,16 @@
+{
+  "id": "q_523",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The board of directors announced that each of the new branch offices _______ required to submit a quarterly financial report.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject of the verb is 'each,' not 'offices.' 'Each' is always singular in standard English, regardless of the plural noun that follows the prepositional phrase 'of the new branch offices.' The singular verb 'is' is required. B is correct. A ('are') and C ('were') are plural. D ('have been') is plural and shifts to present perfect tense unnecessarily."
+}

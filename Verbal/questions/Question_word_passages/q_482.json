@@ -1,0 +1,16 @@
+{
+  "id": "q_482",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "In 1848, German physician Rudolf Virchow traveled to Silesia to investigate a typhus epidemic. His report concluded that the epidemic was not simply a medical problem but a social one, rooted in the poverty, malnutrition, and lack of political rights that left Silesian workers unable to resist disease. Virchow argued that medicine had to engage with social conditions and that improving health required structural changes, including education, improved wages, and democratic self-governance. His report was suppressed by Prussian authorities, and Virchow was dismissed from his hospital position, but his ideas influenced the development of social medicine as a discipline and are credited as a foundation of modern public health.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Virchow's investigation demonstrated that infectious diseases like typhus could be prevented through better personal hygiene practices.",
+    "B": "Virchow concluded that the typhus epidemic was fundamentally a social and political problem and that health required structural reform, a view that shaped public health as a field.",
+    "C": "Although Virchow was punished for his report, Prussian authorities eventually adopted his recommendations about improving wages and education.",
+    "D": "Virchow's work showed that democratic governance is the most important factor in preventing epidemic disease."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage focuses on Virchow's argument that the epidemic had social and political roots, his call for structural reform, and the long-term influence of these ideas on public health. B accurately captures all three elements. A contradicts the passage—Virchow did not argue for better hygiene but for social structural changes. C is contradicted by the passage, which states his recommendations were suppressed and he was dismissed. D overstates the passage's claim; democratic governance was one of Virchow's recommendations, not singled out as the most important factor."
+}

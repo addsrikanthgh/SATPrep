@@ -1,0 +1,16 @@
+{
+  "id": "q_987",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching renewable energy storage technologies and has taken the following notes:\n- Solar and wind power are intermittent: they generate electricity only when the sun shines or wind blows, creating a mismatch with constant electricity demand.\n- Lithium-ion batteries currently dominate the energy storage market for grid-scale applications, but they are expensive and limited to about 4 hours of storage.\n- Pumped-storage hydropower is the largest form of energy storage globally, storing electricity by pumping water uphill and releasing it through turbines when needed; it requires suitable geography.\n- Hydrogen electrolysis can convert excess renewable electricity into hydrogen gas for long-duration storage, though round-trip efficiency is currently only about 30–40%.\n- Flow batteries, which store energy in liquid electrolytes in external tanks, can be scaled by increasing tank size and may be better suited for long-duration storage than lithium-ion.",
+  "question": "The student wants to explain why long-duration energy storage presents a particular challenge for a grid powered primarily by renewable energy. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Pumped-storage hydropower currently represents the largest form of grid-scale energy storage, but its deployment is constrained by geographic requirements, limiting its applicability as a universal solution.",
+    "B": "Flow batteries may prove more suitable than lithium-ion batteries for long-duration storage because their capacity can be scaled by simply increasing external tank size.",
+    "C": "Because solar and wind power only generate electricity intermittently, a renewable-dominant grid requires storage that can bridge gaps not just for hours but potentially for days or seasons—a challenge that current dominant technologies like lithium-ion batteries, limited to roughly 4 hours of storage, are not designed to meet.",
+    "D": "Hydrogen electrolysis can convert surplus renewable electricity into stored hydrogen, but the technology's round-trip efficiency of only 30–40% means significant energy is lost in the storage and retrieval process."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to explain why long-duration storage is a particular challenge. C combines the intermittency problem (solar/wind generate only sometimes) with the limitation of current dominant technology (lithium-ion is limited to ~4 hours)—creating the specific mismatch between what a renewable grid needs (days or seasonal storage) and what is available today. A focuses on geographic constraints of hydro—relevant but narrower. B describes flow battery advantages without establishing why long-duration storage is a challenge. D describes hydrogen efficiency losses—a real limitation but not the framing of why long-duration storage is the fundamental challenge."
+}

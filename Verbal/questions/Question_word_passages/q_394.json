@@ -1,0 +1,16 @@
+{
+  "id": "q_394",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay about whether cities should invest in light rail or bus rapid transit (BRT). The student has taken the following notes:\n- Light rail systems have higher construction costs—typically $30–200 million per mile—than BRT, which can be implemented for $1–30 million per mile using existing roadways.\n- BRT systems are more flexible and can be rerouted as city development patterns change, while light rail tracks are permanent.\n- Studies show that light rail generates stronger economic development around stations than BRT, with higher property value increases and greater private investment.\n- Ridership data suggest that passengers often perceive light rail as more reliable and comfortable than bus service, leading to higher sustained ridership.\n- Cities with BRT systems that have dedicated lanes, level boarding, and off-board fare collection perform comparably to light rail in ridership and travel time.",
+  "question": "Which choice most effectively uses the notes to argue that the choice between light rail and BRT depends on city-specific priorities rather than a universal superiority of one system?",
+  "choices": {
+    "A": "Light rail is more expensive than BRT, but it generates more economic development and higher ridership, so cities should prefer light rail.",
+    "B": "Because light rail and BRT each excel in different dimensions—light rail offers stronger economic development effects and higher perceived reliability, while BRT's lower cost and flexibility make it appropriate when budgets are limited or development patterns are uncertain—the choice between them is a question of city-specific priorities, not universal superiority.",
+    "C": "Cities should invest in BRT because it is much cheaper than light rail and can be rerouted as needed.",
+    "D": "Light rail and BRT are both forms of public transit, and the best system for a city depends on many factors including population density and budget."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes the key advantages of each system (light rail: economic development, perceived reliability; BRT: lower cost, flexibility) into a structured comparison that directly supports the 'city-specific priorities' framing. The last clause—'a question of city-specific priorities, not universal superiority'—directly fulfills the essay's goal. A dismisses BRT's advantages and declares light rail superior—the opposite of what the question asks. C dismisses light rail's advantages and declares BRT superior—also the opposite of what the question asks. D mentions 'population density and budget' but introduces factors not in the notes and fails to synthesize the specific tradeoffs documented there."
+}

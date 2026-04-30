@@ -1,0 +1,16 @@
+{
+  "id": "q_225",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Historians of technology often describe the steam engine as the cause of the Industrial Revolution. The claim invites scrutiny. Steam power did not arrive fully formed in 1769 when Watt improved Newcomen's design; efficient steam engines required precision metal machining, which itself required advances in boring and lathe technology. Those machining advances depended on capital networks, craft knowledge, and colonial resource flows already transforming Britain's economy. The steam engine was less a cause than a crystallization—the point at which many converging forces became visible as a single event.",
+  "question": "What function does the sentence \"The claim invites scrutiny\" serve in the passage?",
+  "choices": {
+    "A": "It concedes that the steam engine was the primary cause of industrialization before presenting minor qualifications.",
+    "B": "It signals that the author will challenge the conventional historical narrative stated in the preceding sentence.",
+    "C": "It provides a definition of industrialization that historians have disputed.",
+    "D": "It introduces the role of colonial resource flows in enabling British industrial expansion."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence immediately follows the conventional claim that the steam engine caused the Industrial Revolution and functions as a pointed signal that the author finds this claim questionable and intends to interrogate it. The rest of the passage systematically unpacks the preconditions the claim ignores, confirming that the sentence announces the author's critical stance. B captures this function precisely. A misstates the author's position; the passage does not concede that the steam engine was the primary cause—it argues the causal story is too simple. C is incorrect because the sentence mentions no definition of industrialization. D misattributes a later topic (colonial resource flows) to this sentence's function."
+}

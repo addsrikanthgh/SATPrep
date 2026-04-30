@@ -1,0 +1,16 @@
+{
+  "id": "q_231",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "easy",
+  "passage": "The giant panda's digestive system is that of a carnivore: short intestines, no cellulose-digesting enzymes, and a stomach designed for meat. Nonetheless, bamboo constitutes more than 99 percent of the wild panda's diet. To sustain itself on a food source it cannot efficiently digest, the panda must consume between 12 and 38 kilograms of bamboo every day—a foraging commitment that leaves little time for any other activity.",
+  "question": "What function does the sentence \"Nonetheless, bamboo constitutes more than 99 percent of the wild panda's diet\" serve in the passage?",
+  "choices": {
+    "A": "It explains why the giant panda evolved a carnivore's digestive system.",
+    "B": "It introduces a paradox by showing that the panda subsists almost entirely on a food its physiology is not equipped to process.",
+    "C": "It argues that bamboo is nutritionally sufficient for large mammals despite containing no digestible cellulose.",
+    "D": "It concludes that the panda's daily foraging behavior is a recent evolutionary development."
+  },
+  "correct_answer": "B",
+  "explanation": "The word 'Nonetheless' signals a deliberate contrast: the preceding sentence established that the panda has a carnivore's digestive system, and this sentence immediately reveals that the panda eats almost exclusively bamboo—a plant its body cannot efficiently process. The function is to introduce a biological paradox that the rest of the passage then explains (via extreme consumption volume). B correctly identifies this paradox-introducing function. A inverts the logical direction—the sentence does not explain the digestive system; the digestive system is the context that makes the diet paradoxical. C makes a nutritional argument the sentence does not make. D attributes an evolutionary timeline to the sentence that is not present."
+}

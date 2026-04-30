@@ -1,0 +1,16 @@
+{
+  "id": "q_845",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "Scholars of medieval Islamic philosophy have long debated whether Ibn Rushd ______ known in the Latin West as Averroes ______ believed that reason and revelation were ultimately compatible or whether he held the doctrine of 'double truth' as a way to protect philosophical inquiry from religious censure.",
+  "question": "Which choice correctly punctuates the parenthetical appositive in the sentence?",
+  "choices": {
+    "A": "Ibn Rushd, known in the Latin West as Averroes, believed",
+    "B": "Ibn Rushd—known in the Latin West as Averroes—believed",
+    "C": "Ibn Rushd: known in the Latin West as Averroes, believed",
+    "D": "Ibn Rushd known in the Latin West as Averroes believed"
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'known in the Latin West as Averroes' is a nonrestrictive parenthetical inserted into a complex sentence. Both paired commas (A) and paired em dashes (B) can correctly enclose a nonrestrictive appositive. However, because the sentence already contains commas separating the 'whether...or whether' parallel structure, using em dashes for the internal appositive (B) is the cleaner and clearer choice, avoiding the possibility that readers might mistake the appositive commas for the structural commas of the larger clause. C uses a colon (which cannot pair with a comma to enclose an appositive) followed by a comma, which is incorrect. D omits punctuation entirely, creating a run-on that is difficult to parse."
+}

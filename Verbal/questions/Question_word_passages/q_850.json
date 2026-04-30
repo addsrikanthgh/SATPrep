@@ -1,0 +1,16 @@
+{
+  "id": "q_850",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The study found that participants who exercised regularly showed improved memory recall ______ those who were sedentary showed no significant improvement over the same period.",
+  "question": "Which choice correctly joins the two independent clauses?",
+  "choices": {
+    "A": "showed improved memory recall, while those who were sedentary showed no significant improvement over the same period.",
+    "B": "showed improved memory recall while those who were sedentary showed no significant improvement over the same period.",
+    "C": "showed improved memory recall: while those who were sedentary showed no significant improvement over the same period.",
+    "D": "showed improved memory recall; while those who were sedentary showed no significant improvement over the same period."
+  },
+  "correct_answer": "A",
+  "explanation": "'While' is a subordinating conjunction that introduces a contrast clause. When 'while' begins a dependent clause that contrasts with the main clause, a comma before 'while' is correct: '...recall, while those...' A is correct. B omits the comma; while some style guides permit omitting the comma before 'while' in short contrasting clauses, the SAT convention requires a comma before a contrasting 'while' clause when it follows a complete thought. C uses a colon, which cannot precede a subordinating conjunction introducing a contrast. D uses a semicolon, which is incorrect before a subordinating conjunction ('while') that introduces a dependent clause—semicolons connect independent clauses."
+}

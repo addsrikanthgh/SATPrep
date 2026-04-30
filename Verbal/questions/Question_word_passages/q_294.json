@@ -1,0 +1,16 @@
+{
+  "id": "q_294",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Photosynthesis requires not just sunlight and carbon dioxide but also water, which plants absorb through their roots and transport to their leaves. The water molecule is split inside the chloroplast, releasing oxygen as a byproduct. _______, every breath of oxygen we take can be traced back to the photosynthetic splitting of water molecules by plant and algae cells.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "However,",
+    "B": "In contrast,",
+    "C": "Essentially,",
+    "D": "For instance,"
+  },
+  "correct_answer": "C",
+  "explanation": "The first two sentences describe the technical mechanism (water split in chloroplast, oxygen released). The third sentence restates the implication of that mechanism in a more immediately relatable way (the oxygen we breathe comes from this process). 'Essentially' (C) correctly signals a restatement or summary that captures the broader significance of what was just described. 'However' (A) signals contrast—the third sentence does not contradict the previous two. 'In contrast' (B) also signals opposition—incorrect for the same reason. 'For instance' (D) signals a specific example—but the third sentence is a summary implication, not a new example."
+}

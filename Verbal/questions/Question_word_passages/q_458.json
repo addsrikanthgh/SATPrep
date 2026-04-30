@@ -1,0 +1,16 @@
+{
+  "id": "q_458",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The committee chair acknowledged that the timeline was ambitious _______ she also noted that the project had the full support of senior leadership and would receive additional resources if needed.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "ambitious; she",
+    "B": "ambitious, she",
+    "C": "ambitious: she",
+    "D": "ambitious she"
+  },
+  "correct_answer": "A",
+  "explanation": "Two independent clauses ('The committee chair acknowledged that the timeline was ambitious' and 'she also noted that the project had the full support...') are joined without a coordinating conjunction. A semicolon is required. A is correct. B creates a comma splice—two independent clauses cannot be joined by a comma alone without a coordinating conjunction. C uses a colon; the second clause does not directly define or elaborate the first but adds a contrasting piece of information ('also noted'), making a semicolon more appropriate. D creates a run-on sentence."
+}

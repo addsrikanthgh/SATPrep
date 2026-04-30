@@ -1,0 +1,16 @@
+{
+  "id": "q_686",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "The concept of 'digital redlining' describes how algorithmic systems and infrastructure decisions can replicate or amplify historical patterns of racial and economic segregation in the digital age. The term draws a parallel with mid-twentieth-century redlining, the practice by which banks and government agencies denied mortgage loans and insurance to residents of neighborhoods marked in red on maps—neighborhoods that were predominantly Black. Scholars arguing for the existence of digital redlining point to examples such as differential broadband access in low-income areas, targeted advertising of predatory financial products to minority users, and algorithmic hiring filters trained on historical data reflecting past discriminatory practices. Critics of the concept, however, argue that the analogy obscures important distinctions: unlike historical redlining, which was often explicit policy, many algorithmic disparities emerge from neutral-seeming variables that produce discriminatory effects without any discriminatory intent.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "The concept of digital redlining captures the ways algorithmic systems may reproduce historical inequities, though critics argue the analogy has important limitations.",
+    "B": "Digital redlining is a well-established legal framework used by courts to hold technology companies accountable for algorithmic discrimination.",
+    "C": "Algorithmic hiring systems are the most harmful form of digital redlining because they directly prevent minorities from accessing economic mobility.",
+    "D": "Unlike historical redlining, which was driven by explicit racist policies, modern algorithmic discrimination is entirely unintentional and therefore less morally serious."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage introduces the concept of digital redlining, explains its parallel to historical redlining, presents scholars' evidence for it, and then presents critics' reservations about the analogy. A accurately captures both the concept and the critique, reflecting the passage's balanced presentation. B misrepresents the term as a legal framework; the passage presents it as a scholarly concept, not a legal standard. C elevates hiring systems as 'most harmful'—a claim not made in the passage, which lists hiring as one of several examples. D misrepresents the critics' position; they argue the analogy has 'important distinctions,' but the passage does not claim digital discrimination is less morally serious."
+}

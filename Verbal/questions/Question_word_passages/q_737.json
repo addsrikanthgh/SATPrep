@@ -1,0 +1,16 @@
+{
+  "id": "q_737",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The museum's new wing, which houses artifacts from three different civilizations, _______ been praised by critics for its innovative curatorial approach.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "has",
+    "B": "have",
+    "C": "had",
+    "D": "having"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The museum's new wing,' which is singular. The relative clause 'which houses artifacts from three different civilizations' is a nonrestrictive modifier and does not change the subject. The verb must agree with the singular subject. 'Has' (A) is the correct third-person singular present perfect auxiliary, giving 'has been praised.' 'Have' (B) is plural. 'Had' (C) would form the past perfect 'had been praised,' which implies the praise occurred before some other past event—but no such reference point exists in the sentence. 'Having' (D) is a participle, not an auxiliary verb that can complete the present perfect construction."
+}

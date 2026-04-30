@@ -1,0 +1,16 @@
+{
+  "id": "q_320",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nThe discovery of the Higgs boson at CERN in 2012 confirmed the last missing piece of the Standard Model of particle physics—the theoretical framework that describes the fundamental particles and forces of the universe. Physicists celebrated the find as a triumph of the model, which had predicted the boson's existence since 1964. The Higgs field, associated with the boson, is what gives fundamental particles their mass.\n\nText 2:\nDespite the Standard Model's extraordinary success, physicists are confident it is incomplete. The model has no account of gravity (which is described by general relativity), provides no candidate particle for dark matter (which comprises roughly 27 percent of the universe's mass-energy), and cannot explain the matter-antimatter asymmetry that allowed matter to survive the Big Bang. The discovery of the Higgs boson confirmed the model's internal consistency but did not resolve any of these deeper outstanding problems.",
+  "question": "Based on both texts, which statement best characterizes the state of the Standard Model after the 2012 Higgs boson discovery?",
+  "choices": {
+    "A": "The Standard Model was fully confirmed and has no remaining unresolved questions in particle physics.",
+    "B": "The Higgs discovery confirmed the model's internal completeness, but the model remains incomplete as a description of the universe, lacking accounts of gravity, dark matter, and the matter-antimatter asymmetry.",
+    "C": "The Higgs discovery showed that the Standard Model's prediction about mass was incorrect.",
+    "D": "Text 2 argues that the Standard Model should be abandoned in favor of general relativity."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 frames the Higgs discovery as completing the Standard Model and confirming its predictions. Text 2 accepts this internal confirmation but notes the model is still incomplete as a description of the universe, listing three unresolved issues: no account of gravity, no dark matter candidate, and no matter-antimatter explanation. B accurately synthesizes both perspectives—internal confirmation alongside external incompleteness. A ignores Text 2 entirely. C misrepresents Text 1—the discovery confirmed, not refuted, the mass prediction. D misrepresents Text 2's argument—it does not advocate abandoning the Standard Model, only acknowledges its limitations."
+}

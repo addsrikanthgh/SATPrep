@@ -1,0 +1,16 @@
+{
+  "id": "q_752",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The history of cartography reveals that maps have never been purely objective representations of physical reality. Medieval European maps often placed Jerusalem at the center of the world and oriented north at the bottom rather than the top—not because of navigational error, but because maps were organizing spiritual and theological knowledge, not geographic data. The Mercator projection, developed in 1569, greatly exaggerates the size of landmasses near the poles while accurately preserving the angles of compass lines—making it useful for navigation but systematically misrepresenting the relative size of continents. Africa, which appears roughly the same size as Greenland on many Mercator maps, is in fact fourteen times larger.",
+  "question": "Based on the passage, what can most reasonably be inferred about the choices made in creating maps?",
+  "choices": {
+    "A": "Map designs reflect the priorities and values of their creators, whether navigational, religious, or other, rather than an objective representation of the world.",
+    "B": "Medieval European cartographers intentionally deceived viewers by placing Jerusalem at the center of their maps.",
+    "C": "The Mercator projection was deliberately designed to make Europe and North America appear larger than Africa and other equatorial regions.",
+    "D": "All maps produced before the twentieth century were inaccurate representations of the world because geographic measurement technology was undeveloped."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage presents two historical examples (medieval maps organized around theological knowledge; the Mercator projection organized around navigational utility) to show that map design reflects the purposes and values of the creators. A is the most reasonable inference. B implies deception where the passage describes intentional purpose—organizing spiritual knowledge, not misleading viewers. C attributes deliberate intent to distort by making certain regions look larger, but the passage says the Mercator projection was designed for navigational accuracy (preserving compass angles), with size distortion as a byproduct, not a goal. D overstates; the passage does not claim all pre-twentieth-century maps were generally inaccurate, and the Mercator projection is described as accurate for its intended navigational purpose."
+}

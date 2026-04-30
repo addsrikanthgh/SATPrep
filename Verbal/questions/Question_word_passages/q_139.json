@@ -1,0 +1,16 @@
+{
+  "id": "q_139",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Epigenetics refers to changes in gene expression that do not involve alterations to the underlying DNA sequence. These changes—caused by chemical modifications to histones or the addition of methyl groups to DNA—can be triggered by environmental factors such as diet, stress, or toxin exposure. Crucially, some epigenetic modifications can be transmitted from parents to offspring, meaning that an organism's experiences can influence the biology of its descendants. This finding has reopened scientific debate about whether acquired characteristics can be inherited—a question long thought settled against the Lamarckian view.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The discovery of epigenetics proves that Jean-Baptiste Lamarck's theory of inheritance was correct and that Charles Darwin's was wrong.",
+    "B": "Epigenetic modifications are caused primarily by stress and toxin exposure, making modern environments a major driver of genetic change.",
+    "C": "Epigenetics describes heritable changes in gene expression triggered by environment, which has renewed debate about whether acquired traits can be passed to offspring.",
+    "D": "The addition of methyl groups to DNA is the most important mechanism by which environmental factors alter an organism's biology."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage covers three linked ideas: the definition of epigenetics, its environmental triggers, and the finding that epigenetic modifications can be inherited—reviving the debate about acquired characteristics. C integrates all three without overstating. A overclaims; the passage says debate has been 'reopened,' not that Lamarck was proven correct or Darwin wrong. B reduces the passage to two of several environmental triggers and omits the crucial inheritance dimension. D elevates one specific mechanism (methylation) to primary importance, ignoring the passage's broader concerns."
+}

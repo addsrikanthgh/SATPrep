@@ -1,0 +1,16 @@
+{
+  "id": "q_645",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The students were required to submit their research papers by Friday _______ those who missed the deadline would receive a grade penalty.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "Friday; those",
+    "B": "Friday, those",
+    "C": "Friday those",
+    "D": "Friday: those"
+  },
+  "correct_answer": "A",
+  "explanation": "Both parts of this sentence are independent clauses. 'The students were required to submit their research papers by Friday' and 'those who missed the deadline would receive a grade penalty' can each stand alone. A semicolon (A) correctly joins them. A comma without a coordinating conjunction (B) creates a comma splice. No punctuation (C) creates a run-on. A colon (D) would require the second clause to elaborate or explain the first in a more direct definitional way."
+}

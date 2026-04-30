@@ -1,0 +1,16 @@
+{
+  "id": "q_865",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "The concept of the sublime in eighteenth-century aesthetics described experiences of vast natural power that overwhelmed the viewer with a mixture of terror and awe. ______, the Romantic poets transformed this concept into a celebration of nature's capacity to inspire creative transcendence.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "Therefore",
+    "B": "Building on this foundation",
+    "C": "Contrary to this view",
+    "D": "As a result"
+  },
+  "correct_answer": "B",
+  "explanation": "'Building on this foundation' signals that the second idea extends and develops the first rather than contradicting or simply following from it—the Romantic poets took the eighteenth-century aesthetic concept and transformed it into something new. This transition acknowledges continuity while noting development. 'Therefore' implies logical necessity—the Romantic transformation is not a logical consequence of the terror-and-awe definition. 'Contrary to this view' signals opposition, but the Romantic poets built on the concept of the sublime rather than rejecting it. 'As a result' is similar to 'therefore'—it implies the transformation was caused by the definition, which overstates the relationship."
+}

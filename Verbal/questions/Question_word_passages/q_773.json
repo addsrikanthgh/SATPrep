@@ -1,0 +1,16 @@
+{
+  "id": "q_773",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "For much of the twentieth century, biologists assumed that genes determined traits in a relatively straightforward, linear way: one gene produced one protein, which produced one observable trait. The discovery of regulatory genes, alternative splicing, and RNA interference revealed a far more complex picture. A single gene can, depending on how its RNA transcript is cut and reassembled, produce dozens of different proteins. Regulatory sequences can switch genes on or off in response to environmental signals. The same gene can produce dramatically different effects in different cells, at different developmental stages, or in the presence of different molecular signals. The result is that the genome functions less like a blueprint and more like an interactive, responsive network.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It contrasts a simplified earlier model of gene function with a more complex understanding revealed by subsequent discoveries.",
+    "B": "It argues that recent discoveries have made genetics too complicated to be practically useful.",
+    "C": "It traces the biography of the scientists who discovered regulatory genes and RNA interference.",
+    "D": "It compares the genomes of different species to illustrate the diversity of gene regulatory mechanisms."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage opens with the old 'one gene, one protein, one trait' model, then presents discoveries (regulatory genes, alternative splicing, RNA interference) that complicated it. The conclusion frames the genome as a 'responsive network' rather than a blueprint, contrasting the old and new models. A accurately describes this before-and-after contrast structure. B attributes a pessimistic conclusion about practical utility that the passage does not draw. C is biographical, but no scientists are named. D describes cross-species comparative genomics, which is not the passage's focus."
+}

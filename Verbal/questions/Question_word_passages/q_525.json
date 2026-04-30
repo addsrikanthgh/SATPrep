@@ -1,0 +1,16 @@
+{
+  "id": "q_525",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The ancient manuscripts, along with the extensive catalog of marginalia added by later scholars, _______ recently been digitized and made available to researchers worldwide.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "have",
+    "B": "has",
+    "C": "was",
+    "D": "were"
+  },
+  "correct_answer": "A",
+  "explanation": "The grammatical subject is 'The ancient manuscripts,' which is plural. The phrase 'along with the extensive catalog of marginalia added by later scholars' is a parenthetical phrase introduced by 'along with' and does not change the grammatical subject. The plural subject 'manuscripts' requires the plural verb 'have.' A is correct. B ('has') is singular and would agree with the parenthetical addition 'the catalog,' but that is not the grammatical subject. C ('was') and D ('were') are past tense; the context with 'recently' calls for present perfect."
+}

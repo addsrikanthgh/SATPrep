@@ -1,0 +1,16 @@
+{
+  "id": "q_462",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "James Watt did not invent the steam engine; Thomas Newcomen had developed a functional version more than fifty years earlier. Watt's contribution was to redesign Newcomen's engine to make it dramatically more efficient by adding a separate condenser, allowing the main cylinder to remain hot. _______, Watt's engine used roughly four times less coal than Newcomen's for the same mechanical output—a difference that made steam power economically practical at industrial scale.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Consequently",
+    "B": "Regardless",
+    "C": "By contrast",
+    "D": "In other words"
+  },
+  "correct_answer": "A",
+  "explanation": "'Consequently' correctly signals that the third sentence states the practical result of Watt's efficiency improvement described in the second sentence: the efficiency gain led directly to the fourfold reduction in coal use. 'Regardless' implies the third sentence is true despite something, not because of something. 'By contrast' implies the third sentence opposes the second, but it extends it with a quantified result. 'In other words' implies the third sentence restates what the second already said, but it adds new quantitative information."
+}

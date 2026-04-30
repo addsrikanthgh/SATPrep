@@ -1,0 +1,16 @@
+{
+  "id": "q_634",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The company's quarterly earnings report revealed a pattern of _______ growth: revenues had increased modestly but steadily for twelve consecutive quarters, with no dramatic spikes or sudden declines.",
+  "question": "Which word most logically completes the sentence?",
+  "choices": {
+    "A": "incremental",
+    "B": "exponential",
+    "C": "erratic",
+    "D": "negligible"
+  },
+  "correct_answer": "A",
+  "explanation": "'Incremental' means growing by small, steady steps—which precisely describes twelve consecutive quarters of modest but steady gains with no dramatic changes. Exponential means growing at an accelerating rate (each period larger than the last)—inconsistent with 'modest.' Erratic means irregular and unpredictable—directly contradicted by 'no dramatic spikes or sudden declines.' Negligible means too small to be significant—contradicted by 'growth' continuing for twelve quarters."
+}

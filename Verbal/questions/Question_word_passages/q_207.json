@@ -1,0 +1,16 @@
+{
+  "id": "q_207",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A sociological study examined the relationship between female labor force participation (FLFP) rates and total fertility rates (TFR) across 22 OECD countries in 2019. Countries with FLFP below 55% had an average TFR of 1.92. Those with FLFP of 55–65% had an average TFR of 1.71. Countries with FLFP of 65–75% had an average TFR of 1.58, and countries with FLFP above 75% had an average TFR of 1.49. Researchers noted that countries with strong public childcare subsidies maintained a smaller gap between the highest and lowest FLFP groups' TFR values.",
+  "question": "A demographer claims that higher female labor force participation is associated with lower fertility rates across OECD countries. Which data from the study most directly supports this claim?",
+  "choices": {
+    "A": "Countries with strong public childcare subsidies showed a smaller TFR gap between the highest and lowest FLFP groups.",
+    "B": "Countries with FLFP above 75% had an average TFR of 1.49, the lowest of any group in the study.",
+    "C": "TFR declined progressively with each successive increase in FLFP: 1.92, 1.71, 1.58, and 1.49 across the four FLFP categories.",
+    "D": "Countries with FLFP below 55% had the highest average TFR of 1.92."
+  },
+  "correct_answer": "C",
+  "explanation": "The demographer's claim requires a consistent inverse relationship between FLFP and TFR across multiple levels. C explicitly presents the full declining TFR sequence across all four FLFP categories, which is the most direct and complete evidence for the claim. B and D each present only one group's data point and cannot alone establish a consistent pattern. A focuses on the moderating effect of childcare subsidies—a separate finding that neither confirms nor challenges the broad FLFP–TFR association."
+}

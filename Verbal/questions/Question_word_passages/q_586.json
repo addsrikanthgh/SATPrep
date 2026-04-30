@@ -1,0 +1,16 @@
+{
+  "id": "q_586",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a research paper on the history of the internet. The student wants to describe the original purpose of the network that preceded the internet and contrast it with the network's later civilian uses. The student has gathered the following notes:\n- ARPANET, funded by the U.S. Department of Defense, was the precursor to the modern internet, first going online in 1969.\n- ARPANET was designed to maintain communication between military and research nodes even if parts of the network were destroyed—a Cold War defense concern.\n- Early ARPANET users were primarily government researchers and university scientists sharing data and communicating.\n- Email was one of the first 'killer applications' of ARPANET, developed in 1971.\n- By the 1990s, the internet had become a civilian commercial network; Tim Berners-Lee's World Wide Web (1991) made it accessible to non-technical users.",
+  "question": "Which choice most effectively uses the notes to describe ARPANET's original purpose and contrast it with the network's later civilian uses?",
+  "choices": {
+    "A": "Tim Berners-Lee invented the World Wide Web in 1991, making the internet accessible to non-technical civilian users for the first time.",
+    "B": "ARPANET was originally built as a Defense Department communication network designed to survive partial destruction—a Cold War military priority—but the infrastructure it created eventually evolved into the civilian commercial internet that billions of people use today.",
+    "C": "Email, one of the first applications built on ARPANET, was developed in 1971 and quickly became one of the network's most important tools.",
+    "D": "ARPANET allowed government researchers and university scientists to share data efficiently, establishing a model of networked collaboration that influenced later internet development."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to describe ARPANET's original (military/defense) purpose AND contrast it with later civilian uses. B does both: it names the military purpose (communication resilience for defense), the Cold War context, and the evolution to civilian commercial internet. A focuses only on the later civilian development (Berners-Lee/WWW) without establishing the original military purpose. C focuses on email as an early application without addressing the contrast between military origins and civilian uses. D focuses on early research use without explicitly contrasting it with civilian commercial uses or emphasizing the military design rationale."
+}

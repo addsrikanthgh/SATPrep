@@ -1,0 +1,16 @@
+{
+  "id": "q_226",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Classical economic theory predicted that raising the minimum wage would reduce employment: if labor becomes more expensive, employers will hire less of it. The evidence, however, has been stubbornly inconclusive. A landmark 1994 study by economists Card and Krueger compared fast-food employment in New Jersey, which raised its minimum wage, with neighboring Pennsylvania, which did not—and found no significant employment loss in New Jersey. Dozens of subsequent studies have reached similarly mixed results, suggesting that low-wage labor markets do not behave as the classical model predicts.",
+  "question": "What function does the sentence \"The evidence, however, has been stubbornly inconclusive\" serve in the passage?",
+  "choices": {
+    "A": "It introduces a consensus among economists that minimum wage increases are beneficial.",
+    "B": "It creates tension between the theoretical prediction described beforehand and the empirical record that the passage then documents.",
+    "C": "It concludes the author's argument that classical economic theory is entirely wrong.",
+    "D": "It provides a specific example of a study that failed to find employment effects from minimum wage increases."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence follows a clean theoretical prediction (more expensive labor → less employment) and precedes a series of empirical findings that do not confirm it. The sentence's function is to create a tension between theory and evidence—signaling a gap that the rest of the passage fills with specific studies. B correctly describes this tension-establishing function. A misstates the sentence; 'inconclusive' means the evidence is mixed, not that there is a consensus about benefits. C overstates the author's position; the passage does not declare classical theory 'entirely wrong,' only that the evidence is mixed. D confuses the sentence's function with that of the Card-Krueger example that follows it."
+}

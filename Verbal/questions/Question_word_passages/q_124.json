@@ -1,0 +1,16 @@
+{
+  "id": "q_124",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "The Silk Road was not a single road but a network of overland and maritime trade routes connecting China, Central Asia, the Middle East, and Europe from roughly the second century BCE through the fifteenth century CE. While silk gave the network its name, merchants transported a far wider range of goods—spices, glassware, textiles, and metalwork—along its routes. Equally important was the movement of ideas: Buddhism, Islam, and Christianity each spread along Silk Road corridors, as did papermaking, printing, and gunpowder technology.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Silk was the most economically significant commodity traded along the ancient routes connecting China and Europe.",
+    "B": "The Silk Road was a vast network of trade routes that facilitated the movement of both material goods and cultural and intellectual exchange.",
+    "C": "Religious missionaries used the trade networks of the ancient world to spread Buddhism, Islam, and Christianity to new populations.",
+    "D": "The Silk Road declined after the fifteenth century because European explorers discovered alternative maritime routes to Asia."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage emphasizes two categories of exchange: diverse physical goods (not only silk) and the movement of ideas (religions and technologies). B captures both dimensions and the network's geographic breadth. A incorrectly elevates silk to the most important commodity—the passage explicitly states that many other goods were traded and that silk merely gave the network its name. C reduces the passage to one aspect (religious spread) while ignoring economic and technological exchange. D introduces a reason for the Silk Road's decline that the passage does not discuss."
+}

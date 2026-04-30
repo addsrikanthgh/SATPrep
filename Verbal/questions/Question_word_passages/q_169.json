@@ -1,0 +1,16 @@
+{
+  "id": "q_169",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The introduction of wolves to Yellowstone National Park in 1995 has been widely cited as a model of 'trophic cascade'—the idea that a top predator can reshape an entire ecosystem by influencing the behavior and population of prey species. As wolf packs reduced elk numbers and pushed elk away from riverbanks, vegetation recovered, stabilizing stream banks and improving water quality. Songbird and beaver populations increased. The wolves, proponents argue, effectively restored ecological balance.\n\nText 2: The Yellowstone wolf reintroduction is a compelling story, but ecologists caution against overgeneralizing from it. The degree to which wolf predation or wolf-induced behavioral changes in elk actually drove the vegetation recovery is still debated. Other factors—including drought cycles, elk hunting, and shifts in bison grazing—contributed to the observed changes. The 'landscape of fear' model that underpins trophic cascade claims remains difficult to test rigorously in large, complex ecosystems.",
+  "question": "Which statement best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 1 presents the wolf reintroduction as an unambiguous ecological success, while Text 2 questions whether wolves were the primary driver of the observed changes.",
+    "B": "Both texts agree that wolf reintroduction improved Yellowstone's ecosystem but disagree about whether it should be replicated elsewhere.",
+    "C": "Text 1 describes the trophic cascade theory in the abstract, while Text 2 applies that theory to the specific case of Yellowstone.",
+    "D": "Text 2 argues that the wolf reintroduction was harmful to Yellowstone's ecosystem, contradicting Text 1's positive assessment."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 presents the wolf reintroduction as a clear example of trophic cascade, listing specific ecological improvements and crediting wolves for restoring balance. Text 2 does not dispute that improvements occurred but complicates the causal attribution—wolves may not be the primary driver, and other factors contributed. This matches A precisely. B is incorrect; Text 2 never discusses replicating the program elsewhere. C is incorrect; Text 1 applies the theory to Yellowstone, while Text 2 complicates that application—neither text describes the theory in the abstract only. D is incorrect; Text 2 does not argue the reintroduction was harmful—it questions the causal story, not the outcomes themselves."
+}

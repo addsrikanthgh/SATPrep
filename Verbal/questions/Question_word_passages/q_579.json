@@ -1,0 +1,16 @@
+{
+  "id": "q_579",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Philosophers of science have long debated what distinguishes science from non-science—the 'demarcation problem.' Karl Popper proposed falsifiability as the criterion: a theory is scientific only if it makes predictions that can, in principle, be shown to be false by observation. Psychoanalysis and Marxism, in Popper's view, failed this test—their proponents could interpret any observation as confirming, rendering the theories immune to refutation. Thomas Kuhn challenged Popper's account, arguing that normal science does not proceed by constant attempts to falsify prevailing theories but by 'puzzle-solving' within a paradigm; scientists typically ignore anomalies rather than abandoning the paradigm when predictions fail. Imre Lakatos attempted to reconcile the two, arguing that scientific progress should be assessed at the level of 'research programs' that can be progressive (generating new predictions) or degenerative (merely explaining away anomalies).",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It presents three successive philosophical responses to the demarcation problem, each engaging with and building on the limitations of its predecessor.",
+    "B": "It argues that Popper's falsifiability criterion is correct and that Kuhn and Lakatos failed to improve upon it.",
+    "C": "It traces the biographical development of Popper, Kuhn, and Lakatos as individuals to explain their different philosophical views.",
+    "D": "It presents the demarcation problem as unsolvable and concludes that science and non-science cannot be distinguished."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage presents Popper's falsifiability criterion, then Kuhn's challenge to it, then Lakatos's attempt to reconcile the two. Each position responds to and builds on the previous one. A correctly identifies this dialectical, progressive structure. B is incorrect—the passage presents all three positions without endorsing Popper's over the others. C is incorrect—no biographical information is given. D is incorrect—the passage does not conclude that the problem is unsolvable."
+}

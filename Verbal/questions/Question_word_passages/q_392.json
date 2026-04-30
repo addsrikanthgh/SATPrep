@@ -1,0 +1,16 @@
+{
+  "id": "q_392",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about the history of the periodic table. The student has taken the following notes:\n- Dmitri Mendeleev published the first widely accepted version of the periodic table in 1869.\n- Mendeleev arranged elements by atomic weight and noticed that properties recurred periodically.\n- Mendeleev left gaps in his table and predicted the properties of undiscovered elements—including gallium and germanium—before they were found.\n- Gallium was discovered in 1875 with properties closely matching Mendeleev's predictions, dramatically validating his system.\n- The modern periodic table is organized by atomic number rather than atomic weight, a change made after Henry Moseley's 1913 X-ray spectroscopy experiments.",
+  "question": "Which choice most effectively uses the notes to highlight Mendeleev's predictive achievement as evidence of his table's scientific value?",
+  "choices": {
+    "A": "Mendeleev published the periodic table in 1869 and arranged elements by atomic weight.",
+    "B": "Mendeleev's decision to leave gaps in his 1869 periodic table—and to predict the properties of undiscovered elements—was validated when gallium was discovered in 1875 with properties closely matching his predictions, demonstrating that the table was not merely descriptive but structurally predictive.",
+    "C": "The modern periodic table is organized by atomic number rather than atomic weight because of Henry Moseley's 1913 experiments.",
+    "D": "Mendeleev arranged elements by atomic weight, and his table was later revised by Moseley, who organized elements by atomic number instead."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes Mendeleev's gap-leaving strategy, the specific prediction (gallium), the 1875 discovery, and the match to his predictions into a coherent argument about the table's scientific value as a predictive tool. This directly accomplishes the goal of highlighting the predictive achievement as evidence. A mentions only the publication year and organization method—no prediction or validation. C focuses on Moseley and the atomic number change, which is not about Mendeleev's predictive achievement. D describes both Mendeleev and Moseley but frames the relationship as a revision rather than as evidence of Mendeleev's predictive success."
+}

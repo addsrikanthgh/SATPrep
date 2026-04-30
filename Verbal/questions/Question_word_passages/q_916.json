@@ -1,0 +1,16 @@
+{
+  "id": "q_916",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Citizen science projects—in which volunteers collect scientific data—have dramatically expanded the scale and geographic coverage of ecological research. Breeding Bird Surveys conducted by trained volunteers have tracked avian population trends across North America for decades. Platform apps that allow citizens to log plant and animal sightings have generated millions of biodiversity records that professional researchers could never have collected alone.\n\nText 2: Despite their value, citizen science datasets present quality control challenges. Volunteers vary widely in training and observational skill, and reports are subject to identification errors. Sampling effort is also geographically uneven, with observations concentrated near urban areas and popular parks while remote regions are undersampled. Analytical methods must account for these biases; failure to do so can produce misleading conclusions about species distribution and abundance trends.",
+  "question": "Which statement best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 2 argues that citizen science projects are too unreliable to contribute meaningfully to scientific research.",
+    "B": "Text 1 and Text 2 make contradictory claims about whether citizen science data covers North America comprehensively.",
+    "C": "Text 1 highlights the scale and value of citizen science, while Text 2 identifies quality control and sampling challenges that must be addressed.",
+    "D": "Text 2 provides evidence that supports Text 1's claim that citizen science data is free from bias."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 emphasizes the scale and geographic coverage enabled by citizen science. Text 2 acknowledges value but identifies challenges: variable data quality and geographically uneven sampling. C correctly describes this as complementary perspectives—one on benefits, one on limitations. A overstates Text 2; it says datasets 'present quality control challenges,' not that they are too unreliable to contribute. B misrepresents both texts; Text 2's sampling bias point qualifies but does not flatly contradict Text 1. D inverts Text 2's position—it identifies biases, not their absence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_182",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "Of all the challenges facing the newly appointed director, none ___ more daunting than the task of rebuilding trust with a staff that had endured three years of mismanagement.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject of the verb is 'none,' which here functions as a singular pronoun equivalent to 'not one.' In formal writing, when 'none' refers to a singular concept—especially when paired with a singular predicate noun (as here, where 'none' refers to 'not one of the challenges')—it takes a singular verb. Additionally, the context is past tense (newly appointed director, staff that had endured), making the past singular 'was' (B) correct. 'Were' (A) treats 'none' as plural, which is possible informally when 'none' means 'not any,' but the formal, past-tense context and the singular predicate noun 'the task' favor singular agreement. 'Are' (C) is present tense, inconsistent with the past context. 'Have been' (D) uses the present perfect, which is also inconsistent with the simple past context."
+}

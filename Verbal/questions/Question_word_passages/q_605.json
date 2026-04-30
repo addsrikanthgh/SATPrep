@@ -1,0 +1,16 @@
+{
+  "id": "q_605",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "An economist studying the adoption of electric vehicles (EVs) argued that the primary barrier to wider EV adoption among middle-income consumers is not the purchase price but the lack of convenient home charging infrastructure. The economist noted that many middle-income households live in apartments or rental properties where installing personal charging equipment is impractical or prohibited.",
+  "question": "Which finding, if true, would most directly support the economist's argument?",
+  "choices": {
+    "A": "When EV purchase prices dropped by 20% in a test market, adoption rates among middle-income apartment dwellers did not increase significantly, while adoption among homeowners rose sharply.",
+    "B": "Middle-income consumers report that they would be more likely to purchase an EV if federal tax credits were expanded.",
+    "C": "The average cost of installing a Level 2 home charger has fallen by 40% over the past five years.",
+    "D": "Middle-income consumers who own their homes and have garages purchase EVs at rates comparable to upper-income consumers."
+  },
+  "correct_answer": "A",
+  "explanation": "The economist argues the primary barrier for middle-income consumers is charging infrastructure, not purchase price. A directly supports this by showing that a price drop (removing the price barrier) didn't increase adoption among apartment dwellers (who lack home charging), while homeowners (who can charge at home) did respond to the lower price. B suggests price matters (via tax credits), undermining the claim. C shows charger costs are falling but doesn't directly test the hypothesis about apartment dwellers. D is partially supportive (homeowners adopt at high rates) but doesn't show charging is the barrier for apartment dwellers."
+}

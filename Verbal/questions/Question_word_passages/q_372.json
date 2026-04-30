@@ -1,0 +1,16 @@
+{
+  "id": "q_372",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Sourdough bread is leavened not by commercial yeast but by a 'starter'—a fermented mixture of flour and water containing wild yeast and lactic acid bacteria. The bacteria produce lactic and acetic acids, giving sourdough its characteristic tangy flavor. The starter must be regularly 'fed' with fresh flour and water to keep the microorganisms alive. Because the microbial community in a starter reflects the wild yeasts and bacteria present in a particular kitchen, bakery, and region, starters are often described as having a unique identity tied to place—a claim some food scientists have tried, with mixed results, to verify through microbial analysis.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that sourdough bread is nutritionally superior to commercially yeasted bread.",
+    "B": "describe what a sourdough starter is, how it produces sourdough's flavor, and the question of whether starters have place-based microbial identities.",
+    "C": "compare different sourdough starters from around the world to determine which produces the best bread.",
+    "D": "explain how to bake a sourdough loaf from a starter."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains what a starter is (wild yeast + lactic acid bacteria in flour and water), what produces sourdough's flavor (lactic and acetic acid), the maintenance requirement (regular feeding), and the open question about place-based microbial identity. B accurately covers all three topics. A introduces a nutritional superiority claim not present in the passage. C describes a comparative tasting/ranking study not present in the passage. D provides baking instructions—the passage mentions maintaining the starter but does not walk through baking steps."
+}

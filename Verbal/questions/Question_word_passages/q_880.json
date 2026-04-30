@@ -1,0 +1,16 @@
+{
+  "id": "q_880",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The Endangered Species Act of 1973 created federal protections for species facing extinction, prohibiting activities that could harm them or destroy their habitats. ______, populations of several previously threatened species—including the bald eagle and the American alligator—have recovered significantly since the law was enacted.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "In contrast",
+    "B": "Conversely",
+    "C": "Since then",
+    "D": "For instance"
+  },
+  "correct_answer": "C",
+  "explanation": "'Since then' signals that the second sentence describes developments that have occurred in the time after what was described in the first—the Act was passed in 1973, and since then populations have recovered. 'In contrast' signals opposition, but the second sentence supports and follows from the first; the Act provided protection, and populations subsequently recovered. 'Conversely' signals a reversal or opposite, which is incorrect. 'For instance' introduces an example, but the second sentence is not simply an example of the Act's existence—it describes outcomes over time, best captured by the temporal transition."
+}

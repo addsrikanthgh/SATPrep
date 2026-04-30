@@ -1,0 +1,16 @@
+{
+  "id": "q_304",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nThe ancient Romans are often credited with inventing concrete, but their opus caementicium was quite different from modern Portland cement concrete. Roman concrete used volcanic ash (pozzolana) mixed with seawater and lime to form a material that, while weaker initially than modern concrete, actually grew stronger over centuries as mineral crystals grew within the hardening mix. The Pantheon's unreinforced concrete dome, built nearly 2,000 years ago, remains the world's largest of its kind.\n\nText 2:\nMaterials scientists studying Roman harbor structures submerged in the Mediterranean have identified the specific mechanism responsible for their unusual durability: when seawater percolates through the ancient concrete, it causes a mineral called tobermorite to crystallize within the microscopic pores, filling gaps and increasing structural integrity over time. This 'self-healing' behavior is the opposite of what occurs in modern Portland cement concrete, which cracks and weakens when exposed to seawater.",
+  "question": "Which statement best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 2 contradicts Text 1's claim that Roman concrete grew stronger over time.",
+    "B": "Text 2 provides a specific scientific mechanism that explains and supports the general observation in Text 1 that Roman concrete grew stronger over centuries.",
+    "C": "Text 2 argues that modern Portland cement is superior to Roman concrete in all practical applications.",
+    "D": "Text 1 provides the scientific explanation for the durability that Text 2 describes."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 makes a general observation that Roman concrete 'grew stronger over centuries.' Text 2 identifies the specific mechanism responsible—tobermorite crystallization caused by seawater percolation—and describes it as producing 'self-healing' behavior. B accurately describes this as Text 2 providing scientific explanation for Text 1's empirical claim. A is incorrect—Text 2 supports, not contradicts, Text 1's claim. C is incorrect—Text 2 states Portland cement cracks in seawater, the opposite of superiority in that context. D reverses the relationship; Text 1 makes the observation, and Text 2 provides the mechanism."
+}

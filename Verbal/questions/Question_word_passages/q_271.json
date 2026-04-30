@@ -1,0 +1,16 @@
+{
+  "id": "q_271",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "The novelist Toni Morrison frequently described her writing practice as a form of archaeology: she was excavating stories that had been deliberately suppressed, distorted, or rendered unspeakable by the violence of American history. In her fiction, this archaeological impulse manifests not as nostalgia but as a confrontation—forcing both characters and readers to encounter the traumatic past in its full weight rather than its sanitized form. Morrison argued that such confrontation was not destructive but therapeutic: that communities which cannot name their past are condemned to act it out, while those that can bear witness to it gain the possibility of moving beyond it.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Morrison's writing is primarily an exercise in historical nostalgia, seeking to restore an idealized past.",
+    "B": "Morrison viewed her fiction as an act of excavating suppressed history, arguing that confronting rather than avoiding traumatic pasts is necessary for communal healing.",
+    "C": "Morrison believed that therapeutic writing must avoid disturbing imagery to protect readers from psychological harm.",
+    "D": "The archaeological method is widely used by novelists to uncover suppressed historical narratives."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers two linked ideas: Morrison's archaeological metaphor for uncovering suppressed history, and her argument that confrontation with trauma is therapeutic rather than destructive. B captures both. A directly contradicts the passage, which explicitly says Morrison's impulse 'manifests not as nostalgia.' C contradicts the passage, which says Morrison confronted trauma 'in its full weight rather than its sanitized form'—the opposite of avoiding disturbing content. D broadens the claim to all novelists, which the passage does not support—it discusses only Morrison's practice."
+}

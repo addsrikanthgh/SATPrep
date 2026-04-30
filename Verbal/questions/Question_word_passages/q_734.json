@@ -1,0 +1,16 @@
+{
+  "id": "q_734",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "If the proposed legislation _______ to pass, it would represent the most significant reform of the tax code in three decades.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "is",
+    "D": "had been"
+  },
+  "correct_answer": "A",
+  "explanation": "This is a conditional sentence expressing a hypothetical or unlikely scenario. The structure 'If [clause], [clause with would/could/might]' signals a subjunctive conditional. In formal English, hypothetical 'if' clauses use the past subjunctive: 'were' for all persons (not 'was'), regardless of the subject. The second clause confirms the hypothetical with 'would represent.' 'Were' (A) is the correct subjunctive form. 'Was' (B) is the indicative past tense and is used in informal speech but not in formal written English in subjunctive constructions. 'Is' (C) is the indicative present and would make the condition a real, likely possibility, changing the meaning. 'Had been' (D) is the past perfect, which is used in third conditional (past hypotheticals), not second conditional (present/future hypotheticals)."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_291",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The domestic cat (Felis catus) is one of only a handful of animal species that has undergone what biologists call self-domestication—a process in which animals sought proximity to humans for their own benefit rather than being captured and bred. Early cats were likely attracted to the rodents that congregated around human grain stores in ancient Egypt and the Near East. _______, the relationship was mutually beneficial from the start: humans gained pest control while cats gained a reliable food supply.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "In this way,",
+    "C": "For example,",
+    "D": "Despite this,"
+  },
+  "correct_answer": "B",
+  "explanation": "The previous sentences explain that cats were attracted to rodents around human grain stores. The following sentence describes the resulting mutual benefit—humans got pest control, cats got food. 'In this way' (B) correctly signals that the mutual benefit described is the logical outcome of the mechanism just explained. 'Nevertheless' (A) signals contrast or concession—inappropriate since the mutual benefit follows naturally from the described scenario. 'For example' (C) would introduce a specific example—but the sentence that follows is a conclusion, not an example. 'Despite this' (D) introduces opposition—incorrect since the symbiotic outcome is consistent with the preceding explanation."
+}

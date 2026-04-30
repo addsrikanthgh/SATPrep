@@ -1,0 +1,16 @@
+{
+  "id": "q_909",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The concept of 'implicit bias'—measured by tools such as the Implicit Association Test (IAT)—has become foundational in workplace diversity training. The IAT measures the speed with which participants associate positive or negative words with images of different social groups, and scores are interpreted as evidence of unconscious racial prejudice. Organizations have invested heavily in implicit bias training based on the assumption that reducing IAT scores translates into more equitable workplace decisions.\n\nText 2: A growing body of psychometric research has raised serious doubts about the IAT. Studies have found that IAT scores have low test-retest reliability—meaning an individual's score often changes substantially when the test is retaken—and weak predictive validity for discriminatory behavior. Meta-analyses suggest that changing IAT scores through interventions does not reliably lead to changes in behavior. While implicit biases may exist as a phenomenon, the IAT may not be a valid instrument for measuring them at the individual level.",
+  "question": "Based on the texts, how would the author of Text 2 most likely evaluate the organizational investments described in Text 1?",
+  "choices": {
+    "A": "As justified because the IAT reliably predicts discriminatory behavior and is therefore a sound basis for policy",
+    "B": "As misguided because they rely on an instrument with questionable validity and weak links between scores and actual behavior",
+    "C": "As effective in reducing discriminatory behavior even if the IAT scores themselves are unreliable",
+    "D": "As unnecessary because implicit biases do not exist and the concept is entirely fabricated"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 argues that IAT scores have low reliability and weak predictive validity, and that changing scores does not reliably change behavior. The organizations in Text 1 invested in implicit bias training to improve workplace decisions—an investment premised on the IAT's validity and behavioral relevance. Text 2's author would view this investment as misguided given those findings. B correctly captures this. A contradicts Text 2 directly. C contradicts Text 2, which explicitly says changing scores does not reliably lead to behavior changes. D overstates—Text 2 acknowledges implicit biases 'may exist as a phenomenon' but challenges the IAT as a measurement tool."
+}

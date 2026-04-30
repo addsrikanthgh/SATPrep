@@ -1,0 +1,16 @@
+{
+  "id": "q_229",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The discovery of penicillin is usually told as a story of serendipity: Alexander Fleming noticed mold contaminating a bacterial culture and, rather than discarding it, investigated why the mold had killed the surrounding bacteria. This version of events is accurate as far as it goes. What it omits, however, is that Fleming's observation sat largely unpursued for more than a decade. The drug that would save millions of lives was not developed into a usable form until Howard Florey and Ernst Boris Chain secured funding, assembled a research team, and conducted the difficult purification work in the late 1930s and early 1940s.",
+  "question": "What function does the sentence \"This version of events is accurate as far as it goes\" serve in the passage?",
+  "choices": {
+    "A": "It presents the discovery of penicillin as a straightforward story of individual genius.",
+    "B": "It partially validates the conventional narrative before signaling that it is incomplete, preparing the reader for an important omission the author will identify.",
+    "C": "It refutes the claim that Fleming's observation was significant to the development of penicillin.",
+    "D": "It concludes the author's argument that scientific credit should be redistributed away from Fleming."
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'accurate as far as it goes' is a qualified concession—it acknowledges that the serendipity story is not false, but the phrase 'as far as it goes' immediately implies it is incomplete. This sets up the 'What it omits, however' sentence that follows. The function is to partially validate the familiar story while flagging its incompleteness. B correctly identifies this qualifying-concession function. A misrepresents the sentence, which does not endorse individual genius; it cautiously acknowledges partial accuracy. C contradicts the sentence, which does not refute Fleming's significance. D misidentifies the sentence as a conclusion and overstates the author's argument; the passage describes Florey and Chain's contributions but does not explicitly argue to redistribute credit."
+}

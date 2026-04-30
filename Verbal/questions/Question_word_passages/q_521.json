@@ -1,0 +1,16 @@
+{
+  "id": "q_521",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Neither the committee members nor the chair _______ willing to accept the proposed amendment without further debate.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "are being",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "When 'neither...nor' connects two subjects, the verb agrees with the subject closest to the verb—the proximate agreement rule. The subject nearest the verb is 'the chair,' which is singular. Therefore the verb must be singular: 'was.' B is correct. A ('were') is plural and would agree with the plural 'committee members,' but the proximate subject is 'the chair.' C and D change the tense inappropriately and are also grammatically inconsistent with the present-tense context."
+}

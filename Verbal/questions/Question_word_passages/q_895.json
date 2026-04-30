@@ -1,0 +1,16 @@
+{
+  "id": "q_895",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "Fermentation is one of the oldest methods of food preservation, practiced by humans for thousands of years before the discovery of microbiology. The process uses microorganisms—bacteria, yeasts, or molds—to convert sugars and starches into alcohol, acids, or gases. These byproducts lower the pH of the food or create an anaerobic environment that inhibits the growth of spoilage-causing pathogens. Fermented foods include yogurt, cheese, kimchi, sauerkraut, miso, tempeh, beer, wine, and vinegar. Beyond preservation, fermentation alters flavor, texture, and nutritional content—in some cases increasing the bioavailability of nutrients or producing beneficial compounds not present in the original ingredient.",
+  "question": "According to the passage, how does fermentation preserve food?",
+  "choices": {
+    "A": "By removing all water content from the food, creating a dry environment inhospitable to microorganisms",
+    "B": "By producing byproducts such as acids or creating anaerobic conditions that inhibit the growth of spoilage pathogens",
+    "C": "By increasing the temperature of the food to levels that destroy harmful bacteria",
+    "D": "By encasing food in protective coatings that prevent exposure to oxygen and airborne pathogens"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that byproducts of fermentation 'lower the pH of the food or create an anaerobic environment that inhibits the growth of spoilage-causing pathogens.' B is directly supported. A describes desiccation/drying, which is a different preservation method not mentioned in the passage. C describes heat-based preservation (pasteurization), also not mentioned. D describes packaging methods, also not mentioned."
+}

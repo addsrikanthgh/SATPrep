@@ -1,0 +1,16 @@
+{
+  "id": "q_261",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "Bioluminescence—the production of light by living organisms—occurs across a remarkable range of species, from deep-sea fish to fireflies to certain species of fungi. Although the chemical mechanisms differ among species, the underlying reaction always involves a light-emitting compound called luciferin and an enzyme called luciferase. Scientists have found that bioluminescence has evolved independently at least 40 times across the tree of life, suggesting that its survival benefits are significant enough to have driven its repeated emergence.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The chemical mechanisms of bioluminescence are identical across all species that produce light.",
+    "B": "Bioluminescence is a widespread phenomenon sharing a common biochemical basis that has evolved independently many times, indicating its adaptive value.",
+    "C": "Deep-sea fish are the most common organisms to exhibit bioluminescence, outnumbering fireflies and fungi combined.",
+    "D": "Scientists have been unable to explain why bioluminescence evolved in so many unrelated species."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers three main points: bioluminescence occurs widely across diverse species, it shares a common biochemical mechanism (luciferin and luciferase), and it has evolved independently at least 40 times, which the passage interprets as evidence of significant survival benefits. B synthesizes all three points into the central idea. A contradicts the passage, which says mechanisms 'differ among species' even while the underlying chemistry is shared. C makes a comparative claim about deep-sea fish versus other species that the passage never makes. D misrepresents the passage, which presents the 40 independent origins as evidence of adaptive value—not as an unexplained mystery."
+}

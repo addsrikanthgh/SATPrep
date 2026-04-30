@@ -1,0 +1,16 @@
+{
+  "id": "q_403",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "A longitudinal study followed 3,500 children from kindergarten through eighth grade, measuring their standardized reading scores annually and tracking household income, parental education, and school quality. The study found that children from the lowest income quartile who attended high-quality schools (defined by teacher experience, student-teacher ratios, and per-pupil spending) scored, on average, only 11 percentile points below children from the highest income quartile attending similar high-quality schools. By contrast, low-income children attending low-quality schools scored an average of 34 percentile points below high-income children in high-quality schools. The gap between high- and low-income children in low-quality schools remained essentially unchanged from kindergarten through eighth grade.",
+  "question": "Which evidence from the study would most directly challenge the claim that income differences, not school quality, are the primary driver of reading achievement gaps?",
+  "choices": {
+    "A": "Low-income children in high-quality schools scored only 11 percentile points below high-income children in high-quality schools, compared to a 34-point gap in low-quality schools.",
+    "B": "The study tracked children from kindergarten through eighth grade.",
+    "C": "The achievement gap in low-quality schools remained unchanged across the grade levels studied.",
+    "D": "High-quality schools were defined by teacher experience, student-teacher ratios, and per-pupil spending."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly challenges the income-primacy claim by showing that holding income constant (comparing low-income children across school types), school quality made a dramatic difference: the gap shrank from 34 to 11 percentile points in high-quality schools. This demonstrates that school quality, not income alone, is a major driver. B describes study duration—methodology, not a finding. C shows the gap's stability over time in low-quality schools but does not directly compare school quality effects. D defines the quality metric—methodology, not a finding about income vs. school quality effects."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_143",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Advocates of universal basic income (UBI) argue that as automation displaces workers across industries, a guaranteed income floor will become necessary to maintain consumer demand and prevent mass poverty. Without a baseline income decoupled from employment, the gains from automation will accrue exclusively to capital owners while workers bear all the costs of technological change.\n\nText 2: Critics of UBI contend that its costs are routinely underestimated. Providing a meaningful income to every adult citizen would require either substantial tax increases, cuts to existing social programs, or both. Moreover, unconditional cash transfers may reduce the incentive to work, paradoxically shrinking the tax base on which UBI funding would depend.",
+  "question": "Which statement best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 1 argues that UBI is economically inevitable, while Text 2 argues that it is politically impossible.",
+    "B": "Text 1 presents a case for UBI based on distributional concerns, while Text 2 raises fiscal and behavioral objections to the same proposal.",
+    "C": "Both texts agree that automation will displace workers but disagree about whether governments have an obligation to respond.",
+    "D": "Text 1 describes historical examples of UBI, while Text 2 evaluates the results of those examples."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 argues for UBI on distributional grounds: automation displaces workers, and without UBI, gains flow only to capital owners. Text 2 raises two objections—cost (fiscal) and reduced work incentive (behavioral). The relationship is: pro-UBI distributional argument (Text 1) versus fiscal and behavioral counterarguments (Text 2), which B captures accurately. A mischaracterizes Text 1 as claiming UBI is 'inevitable' and Text 2 as arguing 'political impossibility'—neither characterization is accurate. C incorrectly attributes shared agreement on automation to Text 2, which never mentions automation. D is entirely wrong; no historical examples are discussed in either text."
+}

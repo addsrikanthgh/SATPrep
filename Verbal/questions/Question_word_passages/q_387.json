@@ -1,0 +1,16 @@
+{
+  "id": "q_387",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay about the paradox of choice in consumer markets. The student has taken the following notes:\n- Psychologist Barry Schwartz argues in The Paradox of Choice (2004) that an abundance of options increases anxiety and reduces satisfaction.\n- A classic experiment by Sheena Iyengar and Mark Lepper (2000) found that shoppers were more likely to buy jam when offered 6 varieties than when offered 24.\n- However, subsequent replication attempts have produced inconsistent results, and a 2010 meta-analysis found no reliable 'choice overload' effect across studies.\n- Research suggests that choice overload is more likely when options are difficult to compare, when the chooser lacks expertise, or when the stakes of the decision feel high.\n- Schwartz's own research focuses largely on self-reported happiness and life satisfaction rather than purchasing behavior.",
+  "question": "Which choice most effectively uses the notes to present a nuanced synthesis of the evidence on choice overload?",
+  "choices": {
+    "A": "Barry Schwartz argues that too many choices make people unhappy, and an experiment by Iyengar and Lepper supports this idea.",
+    "B": "Although Iyengar and Lepper's jam study appeared to confirm that too many choices reduce action, subsequent replication failures and a 2010 meta-analysis finding no reliable effect suggest that choice overload is not universal—but rather context-dependent, emerging most clearly when options are hard to compare, stakes are high, or choosers lack expertise.",
+    "C": "The paradox of choice is a well-known phenomenon, but scientists have had difficulty replicating the original jam study.",
+    "D": "Schwartz's work on happiness and life satisfaction shows that choice overload is a serious psychological problem that consumers and retailers should take seriously."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes the confirmatory evidence (jam study), the contradictory evidence (replication failures, meta-analysis), and the reconciling condition (context-dependence: comparison difficulty, high stakes, lack of expertise), producing a genuinely nuanced synthesis. A cites only two supportive notes and omits the meta-analysis and replication failures entirely. C mentions the replication failures but is vague and provides no data; it also omits the conditional context in which choice overload does appear. D uses only Schwartz's work and overstates confidence ('serious psychological problem') without acknowledging the replication and meta-analysis findings."
+}

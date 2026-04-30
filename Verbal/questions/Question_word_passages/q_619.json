@@ -1,0 +1,16 @@
+{
+  "id": "q_619",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "For decades, mainstream dietary guidelines recommended reducing consumption of saturated fats—found in red meat, butter, and dairy—on the grounds that saturated fat raises LDL cholesterol and therefore increases the risk of cardiovascular disease. However, several large-scale epidemiological studies in the 2010s challenged this view, with their authors arguing that the relationship between saturated fat intake and cardiovascular disease outcomes was weaker than previously believed.",
+  "question": "Which finding, if true, would most directly support the challenge to the saturated fat-cardiovascular disease link?",
+  "choices": {
+    "A": "A meta-analysis of prospective cohort studies found no statistically significant association between total saturated fat intake and coronary heart disease incidence after controlling for other dietary factors.",
+    "B": "Laboratory studies confirm that saturated fat raises LDL cholesterol concentrations in the blood when consumed in large quantities.",
+    "C": "Countries with the highest per-capita consumption of dairy products—a major source of saturated fat—tend to have lower rates of obesity than countries with lower dairy consumption.",
+    "D": "Replacing saturated fat with refined carbohydrates in the diet does not reduce cardiovascular disease risk."
+  },
+  "correct_answer": "A",
+  "explanation": "The challenge is that the saturated fat-cardiovascular disease link is weaker than believed. A directly supports this by showing no significant association between saturated fat intake and heart disease in large-scale prospective studies. B actually supports the conventional view (saturated fat raises LDL). C provides country-level correlation evidence but involves dairy broadly, not specifically cardiovascular outcomes. D weakens the case for reducing saturated fat by showing one replacement strategy doesn't help, but doesn't directly test the original fat-disease link."
+}

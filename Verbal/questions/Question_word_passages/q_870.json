@@ -1,0 +1,16 @@
+{
+  "id": "q_870",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The Great Wall of China was not a single continuous structure but rather a series of walls built by different Chinese states over many centuries. ______, the most iconic sections that tourists visit today were largely constructed during the Ming Dynasty in the fifteenth and sixteenth centuries.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "Nevertheless",
+    "B": "More specifically",
+    "C": "On the contrary",
+    "D": "As a result"
+  },
+  "correct_answer": "B",
+  "explanation": "'More specifically' narrows the focus from the general claim (multiple walls over centuries) to a specific, concrete example (Ming Dynasty sections)—the transition from a broad overview to a specific detail. 'Nevertheless' signals that something occurs despite a prior obstacle, but the second sentence is simply a detail, not a contrast. 'On the contrary' signals that the second sentence contradicts the first—it does not; it elaborates on it. 'As a result' implies causation, but the Ming sections are not a consequence of the multi-wall history."
+}

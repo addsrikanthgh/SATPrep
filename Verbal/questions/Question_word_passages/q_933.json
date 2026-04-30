@@ -1,0 +1,16 @@
+{
+  "id": "q_933",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The museum recently acquired a collection of artifacts ______ date from the third century BCE.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "who",
+    "B": "which",
+    "C": "that",
+    "D": "whose"
+  },
+  "correct_answer": "C",
+  "explanation": "The relative pronoun introduces a restrictive clause modifying 'artifacts'—a non-human, non-personal noun. For restrictive clauses modifying things (not people), 'that' is the preferred relative pronoun. 'Which' could also be used for things, but 'which' typically introduces nonrestrictive clauses (set off by commas), while 'that' introduces restrictive ones. Here, no comma precedes the clause, indicating it is restrictive, making 'that' the correct choice. 'Who' is used for people, not artifacts. 'Whose' indicates possession—'artifacts whose date from...' is grammatically incorrect."
+}

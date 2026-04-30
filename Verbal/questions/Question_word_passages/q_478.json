@@ -1,0 +1,16 @@
+{
+  "id": "q_478",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Vaccines work by exposing the immune system to a weakened or inactivated form of a pathogen, or to a distinctive piece of the pathogen such as a surface protein. The immune system learns to recognize the pathogen and mounts a response. _______, if the vaccinated person is later exposed to the actual disease, their immune system can respond quickly and prevent serious illness.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "By contrast",
+    "B": "That said",
+    "C": "As a result",
+    "D": "In other words"
+  },
+  "correct_answer": "C",
+  "explanation": "'As a result' correctly signals that the third sentence states the protective outcome that follows from the immune system learning described in the second sentence. This is a clear causal sequence: the immune system learns (second sentence) → it can respond quickly to real exposure (third sentence). 'By contrast' implies the third sentence opposes the second. 'That said' implies the third sentence contradicts or qualifies the second. 'In other words' implies the third sentence restates the second, but it describes a different and subsequent event."
+}

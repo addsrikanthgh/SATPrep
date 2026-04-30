@@ -1,0 +1,16 @@
+{
+  "id": "q_467",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The printing press enabled the rapid, cheap reproduction of texts, dramatically reducing the cost of books and increasing literacy across Europe. This democratization of knowledge undermined the Catholic Church's control over the interpretation of scripture, contributing to the conditions that made the Protestant Reformation possible. _______, the printing press accelerated the spread of scientific ideas across national borders, connecting scholars who would otherwise have had no way to share their discoveries.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "However",
+    "B": "On the other hand",
+    "C": "Beyond religious life",
+    "D": "As a result"
+  },
+  "correct_answer": "C",
+  "explanation": "'Beyond religious life' correctly signals a topical shift: the first two sentences discussed the printing press's role in the Reformation (religious context), and the third sentence extends the impact to a different domain (scientific/intellectual exchange). 'However' implies a contrast between sentences two and three, but they are not contrasting—they both describe consequences of the printing press. 'On the other hand' also implies opposition where there is expansion. 'As a result' implies the scientific exchange was caused by the Reformation, which the passage does not claim."
+}

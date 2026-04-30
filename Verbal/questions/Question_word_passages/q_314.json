@@ -1,0 +1,16 @@
+{
+  "id": "q_314",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nAncient Greek and Roman physicians believed that mental illness was caused by an imbalance of four bodily fluids, or 'humors': blood, phlegm, yellow bile, and black bile. Melancholia, for example, was attributed to an excess of black bile, while mania was linked to excess yellow bile. Treatment consisted of restoring balance through diet, exercise, bloodletting, and herbal remedies—an approach that, however scientifically mistaken, at least treated mental distress as a medical condition with physical causes.\n\nText 2:\nMedieval European medicine inherited the humoralist framework but increasingly merged it with theological interpretation. Mental disturbances were often attributed not only to humoral imbalance but also to demonic possession or divine punishment for sin. This theological overlay led to treatments that ranged from prayer and exorcism to incarceration in conditions that would not be recognized as therapeutic by any modern standard—a departure from the relatively naturalistic approach of ancient medicine.",
+  "question": "Based on both texts, how did medieval European approaches to mental illness differ from ancient Greek and Roman approaches?",
+  "choices": {
+    "A": "Medieval physicians abandoned the humoral framework entirely and replaced it with purely theological explanations.",
+    "B": "Medieval medicine retained the humoralist framework but added theological interpretations that introduced non-medical interventions, departing from the more naturalistic approach of ancient medicine.",
+    "C": "Ancient Greek and Roman physicians relied on religious rituals, while medieval physicians focused on physical treatments.",
+    "D": "Both ancient and medieval approaches treated mental illness in identical ways, relying exclusively on bloodletting and herbal remedies."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 explicitly states that medieval medicine 'inherited the humoralist framework but increasingly merged it with theological interpretation.' This addition of theological causes and non-medical treatments (exorcism, prayer, incarceration) represented a departure from ancient medicine's 'relatively naturalistic approach,' which Text 1 describes. B accurately summarizes this continuity-with-addition-and-departure relationship. A overstates—Text 2 says medieval medicine retained, not abandoned, the humoral framework. C reverses the relationship—ancient medicine used physical treatments; religious interpretation increased in medieval medicine. D is incorrect—the texts contrast, not equate, the two periods."
+}

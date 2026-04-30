@@ -1,0 +1,16 @@
+{
+  "id": "q_444",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The researchers published their findings in Nature _______ however, the methodology section drew immediate criticism from statisticians who questioned the sample size.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "Nature, however",
+    "B": "Nature; however,",
+    "C": "Nature however,",
+    "D": "Nature: however,"
+  },
+  "correct_answer": "B",
+  "explanation": "Two independent clauses ('The researchers published their findings in Nature' and 'the methodology section drew immediate criticism...') are joined by the conjunctive adverb 'however.' The correct punctuation for this construction is a semicolon before the conjunctive adverb and a comma after it. B correctly uses 'Nature; however,' A uses only a comma before 'however,' creating a comma splice. C omits the semicolon entirely. D uses a colon, which introduces a list or elaboration—'however' signals contrast between independent clauses, not elaboration."
+}

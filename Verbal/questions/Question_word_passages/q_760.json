@@ -1,0 +1,16 @@
+{
+  "id": "q_760",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The Doppler effect describes the change in frequency of a wave—whether sound, light, or radio—as the source and the observer move relative to each other. When a sound source approaches, the waves are compressed and the pitch heard by the observer rises; when the source recedes, the waves are stretched and the pitch falls. Astronomers apply the same principle to light: if a star or galaxy is moving away from Earth, its light is shifted toward the red end of the spectrum (redshift); if it is approaching, the light shifts toward the blue end (blueshift). Edwin Hubble's 1929 observation that nearly all distant galaxies show redshift was a key piece of evidence for the expanding universe.",
+  "question": "Based on the passage, what can most reasonably be inferred about the significance of Hubble's observation that most galaxies show redshift?",
+  "choices": {
+    "A": "The widespread redshift of galaxies suggests they are generally moving away from Earth, which supports the idea that the universe as a whole is expanding.",
+    "B": "Hubble's observation proved that all galaxies are moving at the same speed and in the same direction away from Earth.",
+    "C": "The Doppler effect can be applied to light but not to sound because light does not require a medium to travel through.",
+    "D": "Galaxies that show blueshift are approaching Earth and will eventually collide with the Milky Way within the next century."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage states that redshift indicates a light source is moving away, and that Hubble's observation that nearly all distant galaxies show redshift was evidence for the expanding universe. A correctly infers the implication: widespread redshift means most galaxies are moving away, which supports expansion. B adds uniformity of speed and direction that the passage does not assert—Hubble observed redshift as widespread, not as uniform speed or direction. C makes a claim about the physical requirements of sound versus light that, while true in physics, is not stated or implied in this passage. D introduces a specific timeline ('next century') and catastrophic event that the passage does not discuss."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_581",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about the health effects of sleep deprivation. The student wants to introduce the topic by conveying how widespread the problem is among adults in the United States. The student has gathered the following notes:\n- The CDC reports that about 1 in 3 American adults regularly get less than the recommended 7 hours of sleep per night.\n- Chronic sleep deprivation has been linked to increased risk of obesity, heart disease, and diabetes.\n- The American Academy of Sleep Medicine recommends that adults get 7 to 9 hours of sleep per night.\n- Shift workers and people in certain professions (nurses, truck drivers) are at especially high risk of sleep deprivation.\n- Cognitive effects of sleep deprivation include impaired memory, reduced attention, and slower reaction times.",
+  "question": "Which choice most effectively uses the notes to introduce the topic by conveying how widespread sleep deprivation is among American adults?",
+  "choices": {
+    "A": "According to the CDC, approximately one in three American adults regularly fails to get the recommended seven hours of sleep per night, making sleep deprivation a widespread public health concern.",
+    "B": "Sleep deprivation impairs memory, reduces attention, and slows reaction times, posing risks for workers in demanding professions.",
+    "C": "The American Academy of Sleep Medicine recommends that adults get between seven and nine hours of sleep each night.",
+    "D": "Chronic sleep deprivation is associated with increased risk of obesity, heart disease, and type 2 diabetes."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to convey how widespread the problem is. A uses the CDC statistic directly to establish prevalence ('one in three American adults') and frames it as a public health concern—achieving the stated goal. B focuses on cognitive effects and high-risk workers, not prevalence. C states a recommendation, not a prevalence statistic. D states health risks, not how widespread the problem is."
+}

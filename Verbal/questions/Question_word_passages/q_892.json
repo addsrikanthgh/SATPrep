@@ -1,0 +1,16 @@
+{
+  "id": "q_892",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "The electric eel is not actually an eel but a knifefish—a member of the order Gymnotiformes—native to South America's freshwater rivers and floodplains. It can generate electric pulses for navigation (low-voltage, continuous pulses), communication with other electric eels, and prey capture and defense (high-voltage discharges of up to 860 volts). The electric organ, which comprises about 80 percent of the animal's body, consists of thousands of specialized cells called electrocytes that act like stacked batteries. Recent research has identified a third species of electric eel, Electrophorus varii, which produces the highest recorded discharge of any living animal.",
+  "question": "According to the passage, which of the following statements about electric eels is accurate?",
+  "choices": {
+    "A": "Electric eels are closely related to true eels and belong to the same biological order.",
+    "B": "Low-voltage electric pulses serve navigational purposes for electric eels.",
+    "C": "The electric organ accounts for roughly half of the electric eel's body mass.",
+    "D": "Electric eels are found in both freshwater and marine environments."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that electric eels use 'low-voltage, continuous pulses' for navigation. B is directly supported. A contradicts the passage, which states that electric eels are not true eels but knifefish. C contradicts the passage, which says the electric organ comprises about 80 percent, not half. D contradicts the passage, which specifies freshwater rivers and floodplains only."
+}

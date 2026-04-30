@@ -1,0 +1,16 @@
+{
+  "id": "q_382",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay about the economic consequences of urban tree canopy. The student has taken the following notes:\n- Studies find that properties within 100 feet of mature street trees sell for 10–15% more than comparable properties without trees.\n- Trees reduce building cooling costs by providing shade, lowering air conditioning energy use by up to 25% in adjacent buildings.\n- A 2017 study estimated that urban trees in the United States provide approximately $18.3 billion in annual energy savings.\n- Trees reduce urban heat island effects, lowering ambient air temperatures in densely built areas by 2–8°F.\n- Municipal tree planting and maintenance programs often have benefit-to-cost ratios exceeding 3:1.",
+  "question": "Which choice most effectively uses the notes to make the case that urban tree canopy represents a fiscally sound public investment?",
+  "choices": {
+    "A": "Trees are nice to have in cities, and some studies suggest they can save energy.",
+    "B": "Urban street trees increase property values by 10–15%, reduce building cooling costs by up to 25%, and contribute to an estimated $18.3 billion in annual national energy savings—benefits that help explain why municipal tree programs regularly return more than three dollars for every dollar spent.",
+    "C": "Urban trees lower air temperatures in cities and can reduce energy use, which is why many cities plant them.",
+    "D": "Property values are affected by many factors, including proximity to trees, so cities should plant more trees."
+  },
+  "correct_answer": "B",
+  "explanation": "B integrates three specific quantified benefits (property value increase, cooling cost reduction, national energy savings) and connects them logically to the fiscal efficiency measure (3:1+ benefit-to-cost ratio), building a coherent argument for public investment. A is vague and unspecific, using no data from the notes. C mentions temperature reduction and energy use generally but omits property values, the energy savings figure, and the benefit-to-cost ratio. D frames the property value note as a subordinate clause and reaches the conclusion (cities should plant trees) without synthesizing the economic evidence from the notes."
+}

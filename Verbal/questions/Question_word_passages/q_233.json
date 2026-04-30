@@ -1,0 +1,16 @@
+{
+  "id": "q_233",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The philosophy of science distinguishes between a theory's being falsified and its being abandoned. Falsification—demonstrating that a theory makes a prediction that turns out to be incorrect—does not, by itself, lead practicing scientists to discard a theory. What actually prompts abandonment is the availability of a better alternative. Thomas Kuhn noted that scientists routinely tolerate anomalies, exceptions, and even outright contradictions within a prevailing framework so long as no rival framework offers a more compelling account. A theory dies not when it fails a test but when it loses its competition.",
+  "question": "What function does the sentence \"What actually prompts abandonment is the availability of a better alternative\" serve in the passage?",
+  "choices": {
+    "A": "It contradicts Kuhn's argument about scientific anomalies.",
+    "B": "It offers a corrected account of the conditions for theory abandonment, setting up Kuhn's historical observation as supporting evidence for that account.",
+    "C": "It defines falsification as the primary mechanism by which scientific theories are evaluated.",
+    "D": "It argues that scientists are irrational in their tolerance of contradictions."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence follows the claim that falsification alone does not cause abandonment and offers the actual trigger (a better alternative), which the passage then supports by citing Kuhn's historical observation. The sentence functions as the positive corrective claim, with the Kuhn reference serving as evidence for it. B correctly identifies this structure: the sentence establishes the corrected claim; Kuhn supports it. A is wrong because the sentence is aligned with Kuhn's view, not contradicting it. C is incorrect—the sentence explicitly says falsification is not sufficient for abandonment; it is the opposite of calling falsification the primary mechanism. D imports a value judgment ('irrational') that the sentence does not make."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_475",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The Great Barrier Reef, stretching over 2,300 kilometers along the northeastern coast of Australia, supports an extraordinary diversity of marine life and provides enormous economic value through tourism and fisheries. Coral bleaching events, triggered by elevated water temperatures that cause corals to expel the symbiotic algae that give them color and nutrition, have become more frequent and more severe as ocean temperatures have risen. _______, back-to-back mass bleaching events in 2016 and 2017 killed approximately half of the shallow-water corals across the northern reef.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "To illustrate",
+    "B": "Regardless",
+    "C": "In a similar vein",
+    "D": "Conversely"
+  },
+  "correct_answer": "A",
+  "explanation": "'To illustrate' correctly signals that the third sentence provides a specific, concrete example of the intensifying bleaching events described in general terms in the second sentence (more frequent, more severe). The 2016–2017 events are a direct illustration of that trend. 'Regardless' implies the bleaching events occurred despite the trend, which contradicts the relationship. 'In a similar vein' implies the third sentence is a parallel point, not an example of the second. 'Conversely' implies the third sentence describes the opposite of increasing bleaching, but it describes a devastating bleaching event."
+}

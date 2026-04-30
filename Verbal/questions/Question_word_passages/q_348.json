@@ -1,0 +1,16 @@
+{
+  "id": "q_348",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Florence Nightingale is best known as the founder of modern nursing, but she was also a pioneer of statistical visualization. During the Crimean War, she collected detailed mortality data from military hospitals and created the 'polar area diagram'—a circular chart that clearly showed that the majority of British soldiers were dying not from battle wounds but from preventable diseases caused by unsanitary conditions. She used these visualizations specifically to persuade government officials who were resistant to statistical tables, recognizing that graphical representations could communicate data more persuasively than numbers alone.",
+  "question": "Based on the passage, what can most reasonably be inferred about Nightingale's understanding of communication?",
+  "choices": {
+    "A": "Nightingale believed that officials would only respond to statistical evidence if it was presented in writing.",
+    "B": "Nightingale recognized that the effectiveness of data depends not only on its accuracy but also on the form in which it is presented to the intended audience.",
+    "C": "Nightingale invented statistical visualization primarily as a way to simplify her own analytical process rather than to persuade others.",
+    "D": "Nightingale believed that government officials were too unsophisticated to understand any form of data."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that Nightingale used visualizations 'specifically to persuade government officials who were resistant to statistical tables, recognizing that graphical representations could communicate data more persuasively than numbers alone.' This shows she understood that the same accurate data could have different persuasive impact depending on how it was presented. B accurately captures this insight about audience and form. A directly contradicts the passage—Nightingale moved away from tables precisely because officials resisted them. C misrepresents Nightingale's purpose—the passage says she used visualizations to persuade others. D overstates—she recognized officials responded better to graphics than tables, not that they were incapable of understanding data."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_186",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A clinical trial enrolled 900 patients with moderate hypertension and randomly assigned them to one of three groups: a low-sodium diet alone, a standard antihypertensive medication alone, or a combination of both. After 12 weeks, patients on the low-sodium diet alone showed an average systolic blood pressure reduction of 8 mmHg. Patients on medication alone showed an average reduction of 14 mmHg. Patients on the combined regimen showed an average reduction of 22 mmHg. The trial also tracked adverse events: 12% of patients in the medication-only group reported side effects, compared with 3% in the diet-only group and 13% in the combination group.",
+  "question": "A physician wants to recommend the intervention that produces the greatest reduction in systolic blood pressure while minimizing adverse effects. Which data from the passage most directly informs this decision?",
+  "choices": {
+    "A": "The low-sodium diet alone produced an 8 mmHg reduction with a 3% adverse event rate.",
+    "B": "The combination regimen produced a 22 mmHg reduction, but its 13% adverse event rate was nearly as high as the medication-only group's 12%.",
+    "C": "The medication-only group produced a 14 mmHg reduction with a 12% adverse event rate, compared to the combination group's 22 mmHg reduction and 13% adverse event rate.",
+    "D": "The trial enrolled 900 patients across three groups over a period of 12 weeks."
+  },
+  "correct_answer": "B",
+  "explanation": "The physician's decision requires weighing the best efficacy against the lowest adverse effects. B provides the most directly relevant data for this tradeoff: it presents the combination regimen's superior efficacy (22 mmHg) alongside its high adverse event rate (13%), directly illuminating the tension between maximum blood pressure reduction and harm minimization. A covers only the diet group and does not inform the comparison needed to make the best choice. C compares two groups but omits the diet-only option entirely, providing an incomplete picture. D is methodological context that provides no evidence about efficacy or adverse events."
+}

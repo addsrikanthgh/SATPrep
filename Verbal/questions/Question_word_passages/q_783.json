@@ -1,0 +1,15 @@
+{
+  "id": "q_783",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Microplastics are plastic fragments smaller than 5 millimeters in size.\n- They originate from the breakdown of larger plastic items, from synthetic textile fibers released during washing, and from plastic pellets used in manufacturing.\n- Microplastics have been found in ocean water, deep-sea sediment, Arctic ice, drinking water, and human blood.\n- Some studies suggest microplastics may disrupt endocrine function in marine animals.\n- The long-term effects of microplastic exposure on human health are not yet fully understood.\n\nThe student wants to explain what microplastics are and emphasize the breadth of their environmental presence. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Microplastics—plastic fragments smaller than 5 millimeters—have been detected in environments ranging from ocean water and Arctic ice to human blood, reflecting how pervasively they have entered the natural world.",
+    "B": "Microplastics may disrupt endocrine function in marine animals, and their long-term effects on human health are not yet fully understood.",
+    "C": "Synthetic textile fibers released during washing are one of the primary sources of microplastics entering waterways.",
+    "D": "Microplastics originate from the breakdown of larger plastic items, from synthetic textile fibers, and from plastic pellets used in manufacturing."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to define microplastics and emphasize the breadth of their environmental presence. A defines them (fragments smaller than 5 mm) and then draws on the detection note to list a range of environments (ocean water, Arctic ice, human blood), effectively conveying breadth. B focuses on health effects and uncertainty—not definition or environmental breadth. C discusses only one source of microplastics. D covers sources but says nothing about where microplastics are found or how widespread they are."
+}

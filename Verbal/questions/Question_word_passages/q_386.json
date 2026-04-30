@@ -1,0 +1,16 @@
+{
+  "id": "q_386",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a paper about the environmental impact of fast fashion. The student has taken the following notes:\n- The fashion industry produces approximately 10% of global carbon emissions—more than aviation and shipping combined.\n- Fast fashion companies produce roughly twice as many garments today as they did in 2000.\n- The average garment is worn only 7–10 times before being discarded.\n- The fashion industry is the second-largest consumer of water globally, requiring about 2,700 liters of water to produce a single cotton T-shirt.\n- Textile dyeing and treatment accounts for approximately 20% of global industrial water pollution.",
+  "question": "Which choice most effectively uses the notes to characterize the fashion industry's environmental footprint?",
+  "choices": {
+    "A": "Fast fashion has grown rapidly, and the fashion industry uses a lot of water.",
+    "B": "The fashion industry generates approximately 10% of global carbon emissions—exceeding aviation and shipping combined—while consuming vast quantities of water (2,700 liters per T-shirt) and contributing roughly 20% of global industrial water pollution.",
+    "C": "The fashion industry pollutes the environment in various ways, which is why many consumers are switching to sustainable brands.",
+    "D": "Because garments are worn only 7–10 times on average, the fashion industry produces far more clothing than necessary."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes three distinct environmental dimensions—carbon emissions (with the aviation/shipping comparison), water consumption (with the per-T-shirt figure), and water pollution (the 20% share)—into a comprehensive characterization of the environmental footprint. A is vague, mentioning only growth and water use without quantifying either. C introduces 'sustainable brands' as context not found in the notes and provides no specific data. D focuses only on the overproduction/underuse pattern and does not address carbon or water impacts, which are central to the question's goal."
+}

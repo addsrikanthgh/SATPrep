@@ -1,0 +1,16 @@
+{
+  "id": "q_852",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The director has worked on projects spanning multiple genres ______ science fiction, historical drama, and documentary—earning critical praise for her versatility.",
+  "question": "Which choice correctly introduces the list of genres?",
+  "choices": {
+    "A": "The director has worked on projects spanning multiple genres: science fiction, historical drama, and documentary—earning critical praise for her versatility.",
+    "B": "The director has worked on projects spanning multiple genres, science fiction, historical drama, and documentary—earning critical praise for her versatility.",
+    "C": "The director has worked on projects spanning multiple genres; science fiction, historical drama, and documentary—earning critical praise for her versatility.",
+    "D": "The director has worked on projects spanning multiple genres— science fiction, historical drama, and documentary—earning critical praise for her versatility."
+  },
+  "correct_answer": "D",
+  "explanation": "The list 'science fiction, historical drama, and documentary' is an appositive or elaboration of 'multiple genres,' and it is enclosed in a pair of dashes with the closing '—earning.' When a list or elaboration is set off in the middle of a sentence using dashes, the opening dash must match the closing dash. D correctly pairs '—science fiction...documentary—' with the closing em dash. A uses a colon, which is used to introduce a list after an independent clause; however, the list here is mid-sentence with '—earning' closing it—a colon cannot be paired with an em dash. B uses a comma, which is insufficient to introduce a formal parenthetical list that closes with an em dash. C uses a semicolon, which incorrectly implies two independent clauses."
+}

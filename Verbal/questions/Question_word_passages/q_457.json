@@ -1,0 +1,16 @@
+{
+  "id": "q_457",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The children's museum _______ which opened in 1997, attracts more than 200,000 visitors annually.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "museum, which",
+    "B": "museum which",
+    "C": "museum; which",
+    "D": "museum: which"
+  },
+  "correct_answer": "A",
+  "explanation": "The clause 'which opened in 1997' is a nonrestrictive relative clause that provides supplementary information about the museum but is not needed to identify which museum is meant. Nonrestrictive clauses beginning with 'which' are set off by commas. A correctly places the comma before 'which.' B omits the comma—'which' clauses used nonrestrictively require a comma. C uses a semicolon; 'which' clauses cannot follow semicolons. D uses a colon before a relative clause—incorrect."
+}

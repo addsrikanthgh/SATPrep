@@ -1,0 +1,16 @@
+{
+  "id": "q_615",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Cognitive neuroscientists studying memory consolidation proposed that listening to music you associate with a specific past experience can facilitate the retrieval of autobiographical memories—memories of personal life events—more powerfully than other sensory cues such as smells or visual images. They hypothesized that music's temporal structure uniquely engages the hippocampal-neocortical network responsible for sequencing autobiographical events.",
+  "question": "Which finding, if true, would most directly support the hypothesis about music's unique retrieval power?",
+  "choices": {
+    "A": "Neuroimaging shows that listening to personally associated music activates the hippocampus and medial prefrontal cortex—regions central to autobiographical memory—more strongly than exposure to associated odors or photographs of the same memories.",
+    "B": "Music with a strong emotional component elicits more vivid imagery in listeners than music with a neutral emotional tone.",
+    "C": "Patients with severe amnesia who cannot recall any autobiographical memories are sometimes able to recognize familiar songs.",
+    "D": "The musical preferences people form in adolescence tend to remain stable throughout adulthood."
+  },
+  "correct_answer": "A",
+  "explanation": "The hypothesis is that music engages memory networks more powerfully than other sensory cues and does so through the hippocampal-neocortical network. A directly supports both claims—greater hippocampal/prefrontal activation for music than for odors or photographs, using neuroimaging. B supports emotional engagement with music but doesn't directly compare retrieval power to other cues or identify the hippocampal mechanism. C is interesting but involves a different type of memory (recognition vs. autobiographical retrieval). D is about preference stability and is irrelevant to the retrieval mechanism."
+}

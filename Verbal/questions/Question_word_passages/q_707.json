@@ -1,0 +1,16 @@
+{
+  "id": "q_707",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: In the nineteenth century, many scientists subscribed to the theory of spontaneous generation—the idea that living organisms could arise spontaneously from nonliving matter. Observations of maggots appearing in rotting meat and mold growing on stale bread seemed to support this view.\n\nText 2: In 1859, Louis Pasteur designed a definitive experiment to refute spontaneous generation. Using swan-neck flasks—flasks with long, curved necks that allowed air in but trapped dust and microorganisms—he showed that sterilized broth remained sterile indefinitely. When the necks were broken, exposing the broth directly to the air, microorganisms quickly grew. This demonstrated that contamination came from microorganisms in the environment, not from the broth itself.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 2 describes an experiment that directly refuted the scientific belief described in Text 1.",
+    "B": "Text 2 supports the scientific theory described in Text 1 by providing experimental evidence for spontaneous generation.",
+    "C": "Text 2 focuses on a different scientific question than Text 1 and does not address the theory described there.",
+    "D": "Text 2 confirms that maggots and mold, specifically, arise through spontaneous generation even if bacteria do not."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 describes the theory of spontaneous generation. Text 2 describes Pasteur's experiment, explicitly designed to refute that theory, which demonstrated that microorganisms come from the environment rather than arising spontaneously. A correctly characterizes this relationship as experimental refutation of the theory in Text 1. B inverts the relationship—Pasteur's experiment disproved spontaneous generation. C is incorrect—the experiment in Text 2 directly addresses the theory in Text 1. D is not supported; Text 2 makes a general claim about contamination from the environment and does not carve out exceptions for maggots or mold."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_418",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Researchers studying the opioid crisis analyzed prescription rates and overdose death rates by county across the United States from 2006 to 2018. They found that counties in the top quartile of opioid prescribing rates in 2006 had overdose death rates in 2018 that were 3.1 times higher than counties in the bottom quartile. However, several counties that aggressively reduced prescribing after 2012 saw overdose deaths continue to rise through 2016 before declining. These counties showed a surge in heroin and synthetic opioid (fentanyl) overdoses in the years immediately following prescription reductions.",
+  "question": "A public health researcher argues that reducing opioid prescriptions alone is insufficient to reduce overdose deaths in the short term. Which evidence best supports this argument?",
+  "choices": {
+    "A": "Counties that reduced prescribing after 2012 saw overdose deaths continue rising through 2016, with surges in heroin and fentanyl deaths following the prescription reductions.",
+    "B": "Top-quartile prescribing counties had overdose death rates 3.1 times higher than bottom-quartile counties in 2018.",
+    "C": "The study analyzed counties across the United States from 2006 to 2018.",
+    "D": "Fentanyl is a synthetic opioid."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly supports the 'insufficient alone in the short term' claim: counties that reduced prescriptions saw overdose deaths continue to rise for several years, replaced by illicit opioid deaths—suggesting that prescription reduction without additional interventions simply shifted the form of the crisis. B shows the link between high prescribing and overdose rates, which supports the importance of prescribing but not the insufficiency of reducing it alone. C describes study scope—methodology. D defines a term—context, not evidence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_997",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching the psychology of expertise and has taken the following notes:\n- Psychologist K. Anders Ericsson proposed that expert performance results from 'deliberate practice': highly structured, effortful practice focused specifically on improving weak areas, conducted with immediate feedback.\n- Ericsson's research suggested that approximately 10,000 hours of deliberate practice distinguished experts in domains such as chess, music, and sports.\n- Malcolm Gladwell popularized the '10,000 hour rule' in his book Outliers (2008), often summarizing it as any 10,000 hours of practice producing expertise.\n- Ericsson criticized Gladwell's popularization, arguing it misrepresented his research: the type of practice matters more than the volume, and deliberate practice is fundamentally different from mere repetition.\n- Studies show that deliberate practice accounts for roughly 26% of the variance in performance in games, 21% in music, and 18% in sports—leaving much of the variance explained by other factors such as starting age and genetics.",
+  "question": "The student wants to explain the key difference between Ericsson's original concept and Gladwell's popularization. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Ericsson's research found that approximately 10,000 hours of deliberate practice distinguished experts in chess, music, and sports.",
+    "B": "Ericsson argued that Gladwell's '10,000 hour rule' misrepresented his research by reducing it to a quantity of hours: Ericsson's original concept emphasized that deliberate practice—structured, feedback-driven work targeting weaknesses—differs fundamentally from mere repetitive practice.",
+    "C": "Studies show that deliberate practice explains only 18–26% of performance variance, suggesting that factors such as genetics and starting age also play significant roles in expert development.",
+    "D": "Malcolm Gladwell popularized the concept of the 10,000 hour rule in Outliers, making Ericsson's research on expertise widely known to a general audience."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain the key difference between Ericsson's original concept and Gladwell's popularization. B directly states the key difference: Gladwell reduced the concept to a quantity of hours ('any 10,000 hours'), while Ericsson's original emphasized the type and quality of practice (structured, feedback-driven, targeting weaknesses). This is the precise distinction the notes describe, and B attributes it accurately (Ericsson criticized Gladwell's version). A states Ericsson's finding but does not address the contrast with Gladwell. C introduces variance statistics—relevant to the debate about expertise but not the Ericsson-Gladwell distinction. D describes Gladwell's popularization without identifying how it differed from Ericsson."
+}

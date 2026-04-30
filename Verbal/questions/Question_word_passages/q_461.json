@@ -1,0 +1,16 @@
+{
+  "id": "q_461",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The Mediterranean diet emphasizes whole grains, legumes, vegetables, and olive oil, with modest amounts of fish and poultry. Decades of research have linked adherence to this dietary pattern to reduced rates of cardiovascular disease and type 2 diabetes. _______, several recent studies have found that processed and ultra-processed foods have increased substantially even in historically Mediterranean countries, raising concerns about whether the traditional dietary pattern is being maintained.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "In contrast",
+    "B": "As a result",
+    "C": "For example",
+    "D": "Similarly"
+  },
+  "correct_answer": "A",
+  "explanation": "'In contrast' correctly signals the shift from the positive health associations of the Mediterranean diet to the concern about its decline due to processed food consumption—a contrast between the diet's benefits and the current trend away from it. 'As a result' implies that the processed food increase is caused by the diet's health benefits, which makes no logical sense. 'For example' implies the third sentence illustrates the health benefits, which it does not. 'Similarly' implies the third sentence continues in the same direction as the first two, but it introduces an opposing concern."
+}

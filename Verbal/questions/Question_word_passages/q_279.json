@@ -1,0 +1,16 @@
+{
+  "id": "q_279",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "The history of cartography is in large part a history of what maps leave out. Every map involves a projection—a mathematical method for representing the curved surface of a globe on a flat plane—and every projection distorts shape, area, distance, or direction in ways that reflect the priorities of its makers. The Mercator projection, widely used for navigation and later for world atlases, exaggerates the size of landmasses near the poles, making Europe and North America appear much larger relative to equatorial Africa and South America than they actually are. Critics have argued that such distortions carry political implications, normalizing a world view in which wealthy northern nations appear disproportionately large.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The Mercator projection is the most mathematically accurate map projection ever developed.",
+    "B": "All maps involve distortions produced by their projections, and these distortions can carry political implications, as illustrated by the Mercator projection's enlargement of northern landmasses.",
+    "C": "Cartographers in the twentieth century deliberately designed maps to make wealthy nations appear larger for political propaganda purposes.",
+    "D": "Equatorial regions are distorted by all map projections, making their accurate representation impossible."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage makes two linked points: all projections distort, and those distortions can have political implications—illustrated by the Mercator example. B accurately captures both points. A contradicts the passage, which describes Mercator as introducing distortions rather than being the most accurate. C introduces intentionality (deliberate propaganda) that the passage does not assert—it says critics argue distortions carry political implications, not that cartographers designed them as propaganda. D overstates the claim—the passage discusses distortions of polar regions in Mercator specifically, not that all projections necessarily distort equatorial regions."
+}

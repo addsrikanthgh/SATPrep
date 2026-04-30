@@ -1,0 +1,16 @@
+{
+  "id": "q_825",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The statesman's public persona was one of _______ simplicity—he cultivated an image of unpretentious accessibility—but his private correspondence reveals a calculating intelligence that carefully managed every aspect of how he was perceived.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "studied",
+    "B": "innate",
+    "C": "guileless",
+    "D": "arbitrary"
+  },
+  "correct_answer": "A",
+  "explanation": "'Studied' in this context means deliberately cultivated or carefully crafted to appear a certain way—a meaning that fits perfectly with the revelation that the statesman 'carefully managed' his public image. 'Studied simplicity' is a precise phrase for a deliberate performance of simplicity. 'Innate' means natural and inborn—but the sentence reveals that the simplicity was a constructed performance, not genuine. 'Guileless' means without deception—but the contrast with his calculating private correspondence shows the simplicity was not guileless at all. 'Arbitrary' means random or without reason—the statesman's choices were highly calculated, not arbitrary."
+}

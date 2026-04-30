@@ -1,0 +1,16 @@
+{
+  "id": "q_414",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A transportation study tracked commute times in a mid-sized city before and after the opening of a new light rail line. Before the line opened, the average car commute on the parallel corridor was 42 minutes during peak hours. One year after opening, the average car commute on the same corridor fell to 31 minutes, and 18% of former car commuters reported switching to the rail line. Congestion pricing was not implemented, and no new road capacity was added during this period.",
+  "question": "Which evidence best supports the conclusion that the light rail line reduced car congestion rather than simply providing an alternative for existing transit riders?",
+  "choices": {
+    "A": "18% of former car commuters switched to the rail line, and average car commute times on the corridor fell from 42 to 31 minutes.",
+    "B": "The average car commute was 42 minutes before the rail line opened.",
+    "C": "No new road capacity was added during the study period.",
+    "D": "The study tracked commute times before and after the rail line opened."
+  },
+  "correct_answer": "A",
+  "explanation": "A provides the two-part evidence for congestion reduction: car commuters switched to rail (reducing cars on the road) and car travel times dropped (confirming reduced congestion), establishing a causal link between the two. B provides only the before baseline—no evidence of change. C establishes that road expansion didn't explain the improvement, which strengthens but doesn't by itself prove the rail-congestion link. D describes methodology—not a finding."
+}

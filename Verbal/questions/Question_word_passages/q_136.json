@@ -1,0 +1,16 @@
+{
+  "id": "q_136",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "In the 1840s, Hungarian physician Ignaz Semmelweis observed that the maternity ward staffed by medical students and physicians had a mortality rate from puerperal fever nearly five times higher than the ward staffed by midwives. He noted that medical students frequently arrived at deliveries directly from performing autopsies. After requiring physicians to wash their hands with a chlorinated lime solution before attending deliveries, mortality in their ward dropped to levels comparable to the midwives' ward. His colleagues nonetheless rejected his findings and refused to alter their practices. Semmelweis died in an asylum in 1865, unable to convince the medical establishment of his discovery.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "Semmelweis's handwashing protocol was ineffective because it was not adopted widely enough to influence overall mortality rates.",
+    "B": "The medical establishment's resistance to Semmelweis's findings likely prolonged preventable patient deaths.",
+    "C": "Midwives were more skilled than physicians at managing complicated deliveries in nineteenth-century hospitals.",
+    "D": "Semmelweis failed to provide sufficient data to support his handwashing protocol, which explains his colleagues' skepticism."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage establishes that Semmelweis's intervention demonstrably reduced mortality, yet his colleagues refused to adopt it and he died without convincing them. The logical inference is that their rejection of an effective intervention allowed preventable deaths to continue (B). A is contradicted by the passage—mortality did drop in Semmelweis's ward when the protocol was applied. C is unsupported; the passage mentions midwives' lower mortality as a starting observation, not as evidence of superior skill in difficult deliveries. D contradicts the passage, which reports a clear mortality reduction as evidence, not an absence of data."
+}

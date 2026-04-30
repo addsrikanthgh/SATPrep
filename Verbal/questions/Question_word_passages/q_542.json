@@ -1,0 +1,16 @@
+{
+  "id": "q_542",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In the 1980s, many economists and policymakers believed that rapid economic growth was the fastest route to environmental improvement. This 'grow first, clean up later' logic held that only wealthy nations could afford environmental protection, and that forcing developing countries to adopt environmental standards prematurely would trap them in poverty. More recent evidence, however, has complicated this picture: air and water pollution in many rapidly industrializing countries have caused serious public health crises that impose their own substantial economic costs—in lost productivity, healthcare expenditures, and shortened lives.",
+  "question": "Based on the passage, what can most reasonably be inferred about the 'grow first, clean up later' approach?",
+  "choices": {
+    "A": "The approach has been vindicated by the rapid economic development of countries that adopted it.",
+    "B": "The approach assumed that environmental protection and economic growth were fundamentally incompatible in the short term.",
+    "C": "The approach was primarily promoted by environmental activists who wanted developing countries to remain poor.",
+    "D": "The approach has been proven scientifically invalid because pollution has no measurable economic cost."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes the 'grow first' logic as holding that 'forcing developing countries to adopt environmental standards prematurely would trap them in poverty,' implying that environmental protection and growth were seen as incompatible choices in the short term. B correctly infers this underlying assumption. A is contradicted by the passage, which presents evidence complicating the approach. C misattributes the approach to environmental activists—the passage attributes it to economists and policymakers, and the approach actually argued against early environmental protection. D overstates what the passage implies; the passage presents evidence that pollution has economic costs, which qualifies rather than invalidates the approach."
+}

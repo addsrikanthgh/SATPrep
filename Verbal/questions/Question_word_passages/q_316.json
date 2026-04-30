@@ -1,0 +1,16 @@
+{
+  "id": "q_316",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1:\nPsychological research consistently finds that people overestimate how much others notice and judge their mistakes, a phenomenon called the 'spotlight effect.' In a classic study, participants who wore an embarrassing T-shirt estimated that about half the people in a room had noticed it, while actual observers could remember less than a quarter. The spotlight effect arises because individuals spend far more time thinking about themselves than others spend thinking about them.\n\nText 2:\nMore recent work has explored the conditions under which the spotlight effect is stronger or weaker. Researchers found that the effect is amplified when people are in genuinely novel or conspicuous situations—first days on a new job, public speaking, or culturally unfamiliar settings—and attenuated in routine social interactions among familiar others. The findings suggest that while the spotlight effect is real, its magnitude varies considerably depending on context.",
+  "question": "How does Text 2 build on the findings described in Text 1?",
+  "choices": {
+    "A": "Text 2 refutes the spotlight effect by showing that people always underestimate how much others notice them.",
+    "B": "Text 2 accepts the spotlight effect as real but qualifies it by identifying contextual factors that increase or decrease its magnitude.",
+    "C": "Text 2 argues that the spotlight effect only occurs in laboratory experiments and does not apply to real-world social situations.",
+    "D": "Text 2 identifies wearing embarrassing T-shirts as the primary cause of the spotlight effect."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 establishes the spotlight effect as a documented phenomenon. Text 2 builds on this by identifying moderating conditions—novel/conspicuous situations amplify it; familiar routine interactions attenuate it. Text 2 explicitly states 'the spotlight effect is real' before qualifying its magnitude. B accurately describes this accept-and-qualify relationship. A directly contradicts both texts. C argues the effect doesn't apply to real life, but Text 2 discusses real-world contexts like first days on jobs and public speaking, not lab limitations. D attributes causation to T-shirts, a detail used as an example in Text 1, not a cause of the general phenomenon."
+}

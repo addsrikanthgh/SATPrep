@@ -1,0 +1,16 @@
+{
+  "id": "q_975",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Translator and scholar Gregory Rabassa once observed that a translated text is 'always an approximation.' Every language encodes distinct ways of seeing and organizing experience: concepts that exist in one language may have no equivalent in another, rhythms and sounds that define a poem's effect are language-specific, and connotations differ in ways dictionaries cannot fully capture. Some scholars argue that 'untranslatability' is an illusion because skilled translators always find creative solutions; others contend that something is inevitably lost. The debate is ongoing, but what both sides acknowledge is that translation is fundamentally an act of interpretation, not mechanical reproduction.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain why Gregory Rabassa is considered one of the greatest literary translators in history.",
+    "B": "describe the challenges of translation and present the ongoing debate about whether perfect translation is possible.",
+    "C": "argue that all translation is inferior to reading texts in their original language.",
+    "D": "provide a step-by-step guide to best practices in literary translation."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage opens with Rabassa's observation about approximation, explains why translation is inherently difficult (language-specific concepts, rhythm, connotation), presents both sides of the untranslatability debate, and concludes with the shared acknowledgment that translation is interpretive. B correctly identifies the passage's dual purpose: describe translation challenges and present the debate. A focuses on Rabassa as an individual, while he is only briefly quoted. C makes a prescriptive argument in favor of original-language reading, which the passage does not make. D promises a practical guide, which the passage does not provide."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_419",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "A team of economists studied the long-term effects of early childhood education programs by tracking participants from a 1970s intervention program through age 40. Children who had attended the high-quality preschool program earned on average 25% more than control group peers who had not attended by age 40. They were also 20% more likely to own a home, 19% less likely to have been arrested, and had better health outcomes on several measures. A cost-benefit analysis estimated the program returned approximately $7 for every $1 invested, primarily because of reduced criminal justice costs and increased tax revenues.",
+  "question": "A policymaker argues that early childhood education investment should be evaluated on its long-term economic and social returns, not just its educational outcomes. Which evidence most directly supports this argument?",
+  "choices": {
+    "A": "Program participants earned 25% more, were 20% more likely to own homes, 19% less likely to have been arrested, had better health outcomes, and the program returned $7 per $1 invested—benefits extending well beyond educational metrics.",
+    "B": "The study tracked participants from the 1970s through age 40.",
+    "C": "The preschool program was considered high-quality.",
+    "D": "A cost-benefit analysis was conducted as part of the study."
+  },
+  "correct_answer": "A",
+  "explanation": "A integrates the full range of outcomes—income, homeownership, criminal justice, health, and economic return—all of which go beyond educational attainment, directly supporting the argument for a broader evaluation framework. B describes study duration—methodology. C characterizes program quality—relevant context but not outcome evidence. D mentions the cost-benefit analysis was done—methodology, not the findings from it."
+}

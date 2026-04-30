@@ -1,0 +1,16 @@
+{
+  "id": "q_268",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "The standard narrative of the Scientific Revolution locates its origins in a series of individual breakthroughs: Copernicus's heliocentric model, Galileo's telescopic observations, Newton's laws of motion. Historians of science have increasingly complicated this picture, pointing out that the institutional conditions for sustained inquiry—patronage networks, correspondence societies, instrument makers, and early journals—were as necessary as individual genius. Without the financial support of aristocratic patrons, the circulation of ideas through letters and publications, and the artisanal expertise that produced precision instruments, the observations and calculations at the center of the standard narrative could not have been made or validated. The Scientific Revolution, on this reading, was less a series of individual discoveries than an infrastructure event.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The standard narrative of the Scientific Revolution is completely false and should be replaced by a focus on institutional history.",
+    "B": "Historians of science now argue that the Scientific Revolution was enabled as much by social and institutional infrastructure as by individual discovery.",
+    "C": "Copernicus, Galileo, and Newton are overrated because they relied on instruments built by artisans rather than by themselves.",
+    "D": "The Scientific Revolution could not have occurred without the invention of the printing press."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage's argument is that the standard individual-genius narrative is incomplete and that institutional conditions (patronage, correspondence, instruments, journals) were equally necessary for the Scientific Revolution. B accurately captures this revisionist argument. A overstates the passage's position—the passage 'complicates' the standard narrative rather than calling it 'completely false' or demanding its wholesale replacement. C makes a demeaning claim about individual scientists that the passage does not make; the passage argues for recognizing infrastructure, not diminishing individual achievement. D introduces the printing press specifically, which is not mentioned in the passage—the passage refers to journals and correspondence societies but makes no specific claim about printing as the enabling technology."
+}

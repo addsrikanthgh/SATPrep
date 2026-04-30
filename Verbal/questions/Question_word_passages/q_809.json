@@ -1,0 +1,16 @@
+{
+  "id": "q_809",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A biologist argues that mycorrhizal networks—the underground fungal connections between tree root systems—allow established trees to transfer nutrients and chemical signals to younger trees, effectively functioning as a forest communication and support system.",
+  "question": "Which experimental finding would most directly support the biologist's argument?",
+  "choices": {
+    "A": "'When established Douglas firs were shaded to reduce photosynthesis, radioactively labeled carbon from neighboring unshaded trees was detected in the roots of the stressed trees, traveling via mycorrhizal connections.'",
+    "B": "'Mycorrhizal fungi colonize approximately 90% of known plant species, forming symbiotic relationships in which plants provide sugars and fungi extend root systems.'",
+    "C": "'Trees in old-growth forests accumulate significantly more biomass per year than trees in younger plantation forests of the same species.'",
+    "D": "'When forests are clearcut, mycorrhizal fungal diversity declines sharply, and replanted seedlings show significantly higher mortality than seedlings in intact forests.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The biologist argues that trees transfer nutrients to each other via mycorrhizal networks. A directly demonstrates this mechanism: carbon from an unshaded tree traveled via mycorrhizal connections to a stressed neighbor. The radioactive labeling confirms the transfer pathway and direction. B shows mycorrhizal prevalence and the plant-fungi symbiosis, but not tree-to-tree transfer. C shows biomass differences between forest types—not about inter-tree nutrient transfer. D shows that mycorrhizal loss harms seedlings after clearcut but does not demonstrate active nutrient transfer between trees."
+}

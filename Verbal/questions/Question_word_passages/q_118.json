@@ -1,0 +1,16 @@
+{
+  "id": "q_118",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Scientists monitoring the Cascadia Subduction Zone have identified several warning signs including unusual seismic patterns, slow-slip events, and changes in groundwater levels that they believe indicate stress accumulation along the fault.",
+  "question": "Which revision best uses punctuation to clarify the structure of the sentence?",
+  "choices": {
+    "A": "Scientists monitoring the Cascadia Subduction Zone have identified several warning signs—including unusual seismic patterns, slow-slip events, and changes in groundwater levels—that they believe indicate stress accumulation along the fault.",
+    "B": "Scientists monitoring the Cascadia Subduction Zone have identified several warning signs; including unusual seismic patterns, slow-slip events, and changes in groundwater levels; that they believe indicate stress accumulation along the fault.",
+    "C": "Scientists monitoring the Cascadia Subduction Zone, have identified several warning signs including unusual seismic patterns, slow-slip events, and changes in groundwater levels, that they believe indicate stress accumulation along the fault.",
+    "D": "Scientists monitoring the Cascadia Subduction Zone have identified several warning signs: including unusual seismic patterns, slow-slip events, and changes in groundwater levels, that they believe indicate stress accumulation along the fault."
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'including unusual seismic patterns, slow-slip events, and changes in groundwater levels' is a parenthetical list that interrupts the main clause. Em dashes (A) correctly set off this parenthetical—because the list itself contains commas, using commas for both the list items and the parenthetical boundaries would create ambiguity. B incorrectly uses semicolons, which join independent clauses and cannot set off a mid-sentence parenthetical. C incorrectly places a comma after 'Zone,' separating the subject from its verb. D uses a colon before 'including,' but colons must follow a grammatically complete clause, and the relative clause 'that they believe...' requires the parenthetical phrase to remain attached to 'warning signs.'"
+}

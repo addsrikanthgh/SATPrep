@@ -1,0 +1,16 @@
+{
+  "id": "q_362",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Scholars who study the history of reading have noted a recurring pattern: each major new information technology—the codex, the printing press, the internet—has prompted warnings that it would destroy the cognitive and moral habits associated with the previous technology. When manuscripts gave way to printed books, critics lamented the loss of the intensive memorization required by manuscript culture. When digital reading emerged, critics warned that hyperlinked, fragmented reading would destroy the sustained linear attention cultivated by print. These anxieties have proven at least partially unfounded: each transition produced new cognitive practices rather than simple cognitive degradation. Yet each generation of critics was not entirely wrong either—something is genuinely lost whenever a dominant information medium changes.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A single claim is stated, then refuted, then abandoned.",
+    "B": "A recurring historical pattern is introduced, then qualified by acknowledging that both the critics' concerns and the optimists' reassurances contain partial truth.",
+    "C": "Three sequential arguments are presented, each building on the previous one to reach a definitive conclusion.",
+    "D": "A comparison is made between manuscript culture and digital reading to argue that digital reading is superior."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces a recurring pattern (new technology prompts warnings about cognitive loss), then takes a nuanced position: critics were 'at least partially unfounded' but also 'not entirely wrong.' The structure is: present recurring pattern → qualify with balanced acknowledgment of partial validity on both sides. B accurately describes this organizational structure. A says the claim is 'abandoned'—incorrect, the passage does not abandon the critic's concern but qualifies it. C describes three sequential arguments building to a definitive conclusion—the passage does not make a definitive conclusion but offers a balanced qualification. D attributes a superiority argument to the passage that does not appear in the text."
+}

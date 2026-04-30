@@ -1,0 +1,16 @@
+{
+  "id": "q_595",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay about the psychology of procrastination. The student wants to explain the emotional basis of procrastination and contrast it with the common assumption that procrastination is primarily a time-management problem. The student has gathered the following notes:\n- Research by Dr. Fuschia Sirois and Timothy Pychyl found that procrastination is primarily an emotion regulation strategy, not a time-management failure.\n- People procrastinate most on tasks associated with negative emotions: anxiety, self-doubt, boredom, or resentment.\n- By avoiding the task, procrastinators temporarily relieve negative feelings—but at the cost of increased future stress.\n- Time-management interventions alone are largely ineffective for chronic procrastinators.\n- Self-compassion—treating oneself kindly after a procrastination episode rather than harshly criticizing—has been shown to reduce future procrastination.",
+  "question": "Which choice most effectively uses the notes to explain the emotional basis of procrastination and contrast it with the time-management assumption?",
+  "choices": {
+    "A": "Treating oneself with self-compassion after procrastinating has been shown to reduce future procrastination, suggesting that shame and self-criticism may worsen the cycle.",
+    "B": "Rather than being primarily a failure of time management—as commonly assumed—procrastination is an emotion regulation strategy: people avoid tasks linked to anxiety, self-doubt, or boredom to gain temporary relief from those negative feelings.",
+    "C": "Time-management interventions have proven largely ineffective for chronic procrastinators, suggesting that productivity apps and scheduling systems cannot solve the underlying problem.",
+    "D": "Procrastination is most common on tasks associated with negative emotions such as anxiety and boredom, causing people to delay and experience greater stress in the long term."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain the emotional basis AND contrast it with the time-management assumption. B does both explicitly: it names and disputes the common time-management assumption, then explains the emotional mechanism (avoidance of tasks linked to negative emotions for temporary relief). A focuses only on self-compassion as a remedy. C focuses on the ineffectiveness of time-management tools but does not explain the emotional basis. D describes the emotional pattern but does not contrast it with the time-management assumption."
+}

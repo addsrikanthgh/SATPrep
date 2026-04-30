@@ -1,0 +1,16 @@
+{
+  "id": "q_597",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about the water cycle. The student wants to explain how precipitation that falls on land eventually returns to the atmosphere. The student has gathered the following notes:\n- The water cycle describes the continuous movement of water through Earth's systems: atmosphere, land, and oceans.\n- Precipitation (rain, snow) falls to the surface, where it either flows into rivers and streams (runoff) or seeps into the ground (infiltration).\n- Water in rivers and oceans undergoes evaporation—converting liquid water to water vapor—driven by solar energy.\n- Plants absorb water from the soil and release it as water vapor through their leaves in a process called transpiration.\n- Water vapor in the atmosphere condenses around dust particles to form clouds, which eventually produce precipitation.",
+  "question": "Which choice most effectively uses the notes to explain how precipitation that falls on land eventually returns to the atmosphere?",
+  "choices": {
+    "A": "Precipitation falls to Earth's surface as rain or snow and either flows into rivers as runoff or seeps into the ground through infiltration.",
+    "B": "After precipitation reaches the land surface, water returns to the atmosphere through evaporation from rivers and bodies of water—driven by solar energy—and through transpiration, as plants absorb soil water and release it as vapor through their leaves.",
+    "C": "Water vapor in the atmosphere condenses around dust particles to form clouds, which eventually produce precipitation, completing the water cycle.",
+    "D": "Solar energy drives the water cycle by powering evaporation and driving atmospheric circulation patterns that distribute moisture around the globe."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain how precipitation that falls on land returns to the atmosphere. B explains both return pathways: evaporation (from rivers/bodies of water, driven by solar energy) and transpiration (plants absorbing soil water and releasing vapor). A describes where precipitation goes after falling, not how it returns to the atmosphere. C describes cloud formation and re-precipitation—the later stage—not the return of land precipitation to the atmosphere. D is too general and does not trace the specific pathway from land surface back to the atmosphere."
+}

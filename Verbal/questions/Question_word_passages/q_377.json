@@ -1,0 +1,16 @@
+{
+  "id": "q_377",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Water scarcity is typically framed as a supply problem—there simply isn't enough fresh water in a given region. But researchers at the Pacific Institute have argued that much of the world's water crisis is actually a distribution and governance problem. Rivers that cross national or state borders are frequently over-allocated: each jurisdiction claims more water than exists in the river. Groundwater aquifers replenish over centuries but are being depleted over decades. And in many cities, as much as a third of treated drinking water is lost to leaking pipes before it reaches a tap. These are not supply failures; they are management failures.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that desalination is the best solution to global water scarcity.",
+    "B": "challenge the conventional framing of water scarcity as a supply problem by presenting evidence that distribution and governance failures are at least equally significant causes.",
+    "C": "compare water management practices in developed and developing nations.",
+    "D": "explain the geological processes by which groundwater aquifers are formed and replenished."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage opens by naming the conventional framing (supply problem), immediately challenges it, and then provides three types of evidence—over-allocated transboundary rivers, depleted aquifers, and leaking urban pipes—to support the claim that management failures are the core problem. B accurately describes this challenge-and-evidence structure. A introduces desalination as a solution—the passage focuses on reframing the problem, not proposing solutions. C introduces a comparison between developed and developing nations not present in the passage. D describes geological aquifer formation—the passage mentions aquifer depletion rates but does not explain geological formation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_591",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about ocean acidification. The student wants to explain the cause of ocean acidification and identify one concrete consequence for marine life. The student has gathered the following notes:\n- The oceans absorb approximately 30% of the CO₂ released by human activities each year.\n- When CO₂ dissolves in seawater, it forms carbonic acid, which releases hydrogen ions, lowering the ocean's pH—a process called ocean acidification.\n- Ocean pH has dropped from approximately 8.2 to 8.1 since pre-industrial times—a 26% increase in acidity.\n- Lower pH reduces the availability of carbonate ions, which marine organisms such as oysters, corals, and sea urchins use to build their shells and skeletons.\n- Laboratory studies show that acidified water slows the growth of shellfish and can dissolve existing shells.",
+  "question": "Which choice most effectively uses the notes to explain the cause of ocean acidification and identify one consequence for marine life?",
+  "choices": {
+    "A": "Ocean pH has dropped by approximately 0.1 units since pre-industrial times, representing a 26% increase in acidity.",
+    "B": "When the oceans absorb carbon dioxide from the atmosphere, the CO₂ reacts with seawater to form carbonic acid, lowering ocean pH; this reduced pH depletes carbonate ions that marine organisms such as corals and oysters need to build their shells and skeletons.",
+    "C": "The oceans absorb about 30% of annual human CO₂ emissions, making them an important carbon sink that helps moderate climate change.",
+    "D": "Laboratory studies show that acidified seawater slows shellfish growth and can dissolve their shells, threatening shellfish industries worldwide."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain the cause AND identify one concrete marine life consequence. B does both: it traces the causal chain (CO₂ absorbed → carbonic acid → lower pH) and identifies the consequence (depletion of carbonate ions, harming shell-building organisms). A states the pH change but explains neither cause nor consequence. C explains the absorption mechanism but focuses on climate moderation, not acidification's cause-and-effect on marine life. D identifies a consequence (shellfish harm) but does not explain the cause."
+}

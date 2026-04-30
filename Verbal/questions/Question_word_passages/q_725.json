@@ -1,0 +1,16 @@
+{
+  "id": "q_725",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The research team analyzed the data and _______ their findings to the international conference.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "presented",
+    "B": "presenting",
+    "C": "to present",
+    "D": "having presented"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence has two parallel predicates: 'analyzed...and presented.' Both verbs must be parallel—the same tense and form. 'Analyzed' is simple past tense; the second verb should also be simple past tense. 'Presented' (A) is the simple past form and creates correct parallel structure. 'Presenting' (B) is a present participle that would break the parallel structure with 'analyzed.' 'To present' (C) is an infinitive that does not complete the compound predicate correctly. 'Having presented' (D) is a perfect participle that implies the presentation preceded the analysis, which changes the meaning."
+}

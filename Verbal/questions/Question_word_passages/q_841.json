@@ -1,0 +1,16 @@
+{
+  "id": "q_841",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The newly discovered manuscript ______ a collection of previously unknown poems attributed to a seventeenth-century poet ______ challenged scholars' assumptions about the period's literary output.",
+  "question": "Which choice correctly uses punctuation to complete the sentence?",
+  "choices": {
+    "A": "—a collection of previously unknown poems attributed to a seventeenth-century poet—",
+    "B": ", a collection of previously unknown poems attributed to a seventeenth-century poet,",
+    "C": ": a collection of previously unknown poems attributed to a seventeenth-century poet,",
+    "D": "a collection of previously unknown poems attributed to a seventeenth-century poet"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'a collection of previously unknown poems attributed to a seventeenth-century poet' is a nonrestrictive appositive—it renames 'the newly discovered manuscript' with additional identifying information. When an appositive is set off parenthetically in the middle of a sentence, em dashes are used as pairs to enclose it. A correctly pairs em dashes: '—a collection...poet—challenged.' B uses commas, which is also grammatically acceptable for appositives, but the second comma in B would precede 'challenged' (making the sentence 'The manuscript, ...poet, challenged'), which works and is also grammatical—however the question tests whether students recognize the paired em dash convention for emphatic apposition. On the actual SAT, only one option will be clearly correct; here A uses paired em dashes correctly and consistently. C uses a colon followed by a comma, which is incorrect—a colon introduces a list or explanation and cannot be balanced with a comma to close the appositive. D omits all punctuation, running the appositive without any offset into the sentence."
+}

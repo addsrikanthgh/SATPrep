@@ -1,0 +1,16 @@
+{
+  "id": "q_247",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Researchers studying migratory patterns have found that certain bird species adjust their routes in response to climate shifts; a finding that challenges long-held assumptions about the rigidity of migration.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "Replace the semicolon with a colon, since what follows explains or elaborates on what precedes.",
+    "B": "Replace the semicolon with a comma, since 'a finding that challenges...' is not an independent clause but a nonrestrictive appositive phrase.",
+    "C": "No edit is needed; a semicolon may correctly precede any phrase that adds information to the main clause.",
+    "D": "Replace the semicolon with a period, making 'A finding that challenges long-held assumptions about the rigidity of migration' its own sentence."
+  },
+  "correct_answer": "B",
+  "explanation": "A semicolon must join two independent clauses. 'A finding that challenges long-held assumptions about the rigidity of migration' is not an independent clause—it is a noun phrase functioning as an appositive that renames or elaborates on the main clause's content. Appositives should be set off with a comma, not a semicolon. B correctly identifies the problem and the fix. A is plausible (colons can introduce elaboration), but a colon requires that what follows expand upon a complete clause; here the appositive phrase is more naturally attached with a comma. C is incorrect because a semicolon cannot legitimately precede a phrase fragment. D would create a sentence fragment ('A finding that challenges...') because there is no main verb."
+}

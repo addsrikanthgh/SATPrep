@@ -1,0 +1,16 @@
+{
+  "id": "q_517",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The history of science shows that major paradigm shifts often require not just new evidence but new conceptual frameworks. Copernicus's heliocentric model was not accepted simply because it fit the data better than Ptolemy's geocentric model—in some respects, Ptolemy's model was initially more accurate. Acceptance came as the Copernican framework gradually enabled new questions, new instruments, and new observations that the old framework could not accommodate. Evidence alone rarely overturns entrenched theories.\n\nText 2: The history of science also shows that entrenched theories do eventually give way when evidence accumulates sufficiently. The germ theory of disease replaced miasma theory not because physicians experienced a sudden conceptual revolution but because decades of accumulating observational and experimental evidence—from Snow's cholera maps to Pasteur's fermentation experiments to Koch's postulates—made the old theory increasingly untenable. The role of conceptual frameworks matters, but the accumulation of evidence is the ultimate driver of scientific change.",
+  "question": "Both texts discuss how scientific theories change. What is the key point of disagreement?",
+  "choices": {
+    "A": "Text 1 argues that evidence plays no role in scientific change, while Text 2 argues that conceptual frameworks are irrelevant.",
+    "B": "Text 1 emphasizes that new conceptual frameworks drive acceptance of scientific change, while Text 2 argues that accumulated evidence is ultimately the primary driver.",
+    "C": "Both texts agree that the Copernican revolution was driven purely by superior empirical data.",
+    "D": "Text 2 argues that germ theory was accepted without any new evidence and purely through a conceptual shift."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 argues that evidence alone rarely overturns theories and that new conceptual frameworks drive scientific change. Text 2 acknowledges frameworks but argues the 'ultimate driver' is accumulating evidence, using the germ theory example. B captures this emphasis difference. A overstates both positions—Text 1 acknowledges evidence eventually matters, and Text 2 acknowledges frameworks matter. C is contradicted by Text 1, which explicitly says Ptolemy's model was initially more accurate. D is directly contradicted—Text 2 cites decades of specific experimental evidence as driving germ theory acceptance."
+}

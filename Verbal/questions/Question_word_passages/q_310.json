@@ -1,0 +1,16 @@
+{
+  "id": "q_310",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1:\nThe introduction of smartphones has fundamentally altered adolescent social development. Researcher Jean Twenge has argued that the sharp rise in teen depression and anxiety that began around 2012 correlates closely with the rapid spread of smartphone ownership among teenagers. Screen time, particularly time spent on social media, exposes adolescents to social comparison, cyberbullying, and sleep disruption—factors Twenge links to the documented surge in teen mental health problems.\n\nText 2:\nPsychologists Amy Orben and Andrew Przybylski analyzed large national datasets to assess the relationship between screen time and adolescent well-being. They found that the association between digital technology use and well-being was statistically significant but extremely small—comparable in size to the effects of wearing glasses or eating potatoes. They concluded that the intensity of concern about screen time was disproportionate to the size of the measured effect.",
+  "question": "How would Orben and Przybylski, as described in Text 2, most likely respond to Twenge's argument in Text 1?",
+  "choices": {
+    "A": "By agreeing that smartphones are the primary cause of teen depression and recommending strict screen time limits.",
+    "B": "By acknowledging a statistical association between screen time and well-being but arguing that the effect size is too small to justify Twenge's strong causal claims.",
+    "C": "By arguing that sleep disruption is the only significant factor linking smartphones to teen mental health.",
+    "D": "By claiming that correlational data is entirely worthless and that Twenge's research should be dismissed."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 states that Orben and Przybylski found a statistically significant but 'extremely small' association and concluded concern was 'disproportionate to the measured effect.' They do not deny the correlation—they dispute its magnitude and the strength of the causal inference. B accurately represents this position. A directly contradicts Text 2, which disputes the strength of the causal claim. C attributes a specific single-factor argument to Text 2 that is not present—Text 2 discusses overall screen time effect, not isolating sleep disruption. D overstates Text 2's position—it does not reject correlational data as worthless but rather notes the effect is smaller than implied by Twenge's argument."
+}

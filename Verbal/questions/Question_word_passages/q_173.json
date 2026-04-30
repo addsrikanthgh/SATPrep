@@ -1,0 +1,16 @@
+{
+  "id": "q_173",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The study identified three populations at elevated risk: adults over seventy, immunocompromised patients, and children under five.",
+  "question": "Which choice correctly explains the use of the colon in the sentence above?",
+  "choices": {
+    "A": "The colon is used incorrectly; a comma should follow 'risk' because what follows is not a complete independent clause.",
+    "B": "The colon correctly introduces a list that specifies the content of the noun phrase 'three populations at elevated risk.'",
+    "C": "The colon introduces a contrasting idea that challenges the claim made in the first part of the sentence.",
+    "D": "The colon should be replaced with a semicolon because both halves of the sentence are independent clauses."
+  },
+  "correct_answer": "B",
+  "explanation": "A colon is correctly used after a grammatically complete clause to introduce a list, explanation, or elaboration. Here, 'The study identified three populations at elevated risk' is a complete clause, and the colon introduces the enumerated list that specifies what those three populations are. B accurately describes this function. A is incorrect; the sentence before the colon is a complete clause, making a colon correct. C is wrong; the list does not introduce a contrasting idea—it explains and specifies. D is incorrect; the material after the colon ('adults over seventy, immunocompromised patients, and children under five') is a list, not an independent clause, so a semicolon would be inappropriate."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_746",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In an experiment designed to study conformity, psychologist Solomon Asch asked participants to judge which of three lines on a card matched a reference line in length. The task was visually unambiguous—the correct answer was obvious. However, each participant was seated with a group of confederates who had been instructed to give the same wrong answer aloud before the participant responded. In approximately 75% of the trials, at least some participants gave the incorrect answer to match the group consensus, despite contradicting their own perceptions. When one confederate broke from the group and gave a correct answer, participants' conformity dropped substantially.",
+  "question": "Based on the passage, what can most reasonably be inferred about the role of the dissenting confederate in the Asch experiment?",
+  "choices": {
+    "A": "Having even a single ally who deviates from the group's incorrect consensus significantly reduces an individual's tendency to conform.",
+    "B": "Participants only gave correct answers when the dissenting confederate directly encouraged them to trust their own perceptions.",
+    "C": "The presence of the dissenting confederate proved that participants had known the correct answer all along and were simply pretending to be confused.",
+    "D": "A dissenting confederate was unnecessary to reduce conformity because most participants eventually gave correct answers regardless."
+  },
+  "correct_answer": "A",
+  "explanation": "When a confederate broke from the group, 'participants' conformity dropped substantially.' This directly supports the inference that even one dissenting voice reduced conformity significantly. A accurately states this. B adds a detail (direct encouragement) that is not in the passage—the passage only says the confederate gave a correct answer, not that they encouraged others. C is unsupported—the passage provides no evidence that participants were 'pretending'; the experiment design was about social pressure overriding accurate perception. D contradicts the passage, which says approximately 75% of trials showed some conformity, not that conformity eventually dissolved without intervention."
+}

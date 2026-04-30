@@ -1,0 +1,16 @@
+{
+  "id": "q_922",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The city council's new ordinance requires that all food trucks ______ a valid health inspection certificate before operating at any public event.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "displays",
+    "B": "will display",
+    "C": "display",
+    "D": "displayed"
+  },
+  "correct_answer": "C",
+  "explanation": "The verb 'requires that' introduces a subjunctive mood clause. In the subjunctive, the verb does not take a third-person singular 's'—it uses the base form regardless of the subject. 'All food trucks display' (not 'displays') is the correct subjunctive form. 'Displays' would be indicative third-person singular, but in a 'requires that' clause, the base form is required. 'Will display' introduces a future modal that is inconsistent with the mandative subjunctive construction. 'Displayed' is past tense, not the subjunctive base form."
+}

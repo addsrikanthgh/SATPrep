@@ -1,0 +1,16 @@
+{
+  "id": "q_480",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Behavioral economists have documented a phenomenon they call 'present bias': people systematically overvalue immediate rewards relative to future ones, even when they explicitly acknowledge that the future reward is objectively larger. This bias helps explain why people often fail to save adequately for retirement, start exercising, or quit smoking, even when they sincerely intend to do so. _______, 'commitment devices'—arrangements in which people voluntarily restrict their future choices to bind themselves to a preferred course of action—have been shown to partially counteract present bias, with participants in such programs saving more and maintaining healthier behaviors over time.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Interestingly,",
+    "B": "Recognizing this tendency,",
+    "C": "In contrast,",
+    "D": "That is why"
+  },
+  "correct_answer": "B",
+  "explanation": "'Recognizing this tendency,' correctly signals that the third sentence describes an intervention designed specifically in response to the present bias problem explained in the first two sentences. The commitment device researchers built their tools by understanding present bias—the third sentence is a motivated solution, not a random new finding. 'Interestingly' is too vague and does not signal the logical relationship. 'In contrast' implies commitment devices are somehow the opposite of present bias, but they are a response to it. 'That is why' implies the third sentence explains the cause of what preceded it—but it describes a solution, not a cause."
+}

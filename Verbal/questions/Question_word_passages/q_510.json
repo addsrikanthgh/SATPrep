@@ -1,0 +1,16 @@
+{
+  "id": "q_510",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The rise of remote work following the COVID-19 pandemic has been hailed by many workers and companies as a permanent and positive shift. Employees report better work-life balance, reduced commuting costs and time, and higher job satisfaction. Studies have found that certain types of knowledge workers are at least as productive working remotely as they are in offices, and some are more productive. Many companies have embraced hybrid arrangements as a cost-effective way to reduce office space while retaining talent.\n\nText 2: Not all workers benefit equally from remote work. Research suggests that early-career employees who lack established networks and who rely on informal mentorship and social learning may develop skills more slowly in remote environments. Workers in small living spaces, or those sharing a home with children or other dependents, often find remote work more disruptive than office work. And while productivity measures for individual tasks may be similar, remote work may reduce the spontaneous collaboration and knowledge transfer that drive long-term innovation in organizations.",
+  "question": "How do the two texts differ in their assessment of remote work?",
+  "choices": {
+    "A": "Text 1 argues that remote work benefits no one, while Text 2 argues it benefits all workers equally.",
+    "B": "Text 1 focuses on documented benefits of remote work, while Text 2 highlights groups and dimensions for which remote work may be less advantageous.",
+    "C": "Both texts conclude that remote work is equally productive for all workers and should be made permanent.",
+    "D": "Text 2 argues that remote work should be abolished because it reduces collaboration in all organizations."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 presents positive evidence (work-life balance, productivity, satisfaction, cost savings). Text 2 qualifies this by identifying groups (early-career workers, those in crowded homes) and dimensions (informal learning, long-term innovation) for which remote work is less beneficial. B accurately captures this complementary structure—Text 2 does not reject Text 1's findings but adds important qualifications. A reverses both texts' positions. C overstates Text 1 (it does not say 'all workers') and is contradicted by Text 2. D overstates Text 2, which does not call for abolishing remote work."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_177",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The Ottoman Empire at its peak controlled a vast territory spanning three continents, administering this diversity required a sophisticated bureaucratic system that accommodated multiple languages, legal traditions, and religious communities.",
+  "question": "Which choice best corrects the underlined sentence?",
+  "choices": {
+    "A": "The Ottoman Empire at its peak controlled a vast territory spanning three continents, administering this diversity required a sophisticated bureaucratic system that accommodated multiple languages, legal traditions, and religious communities.",
+    "B": "The Ottoman Empire at its peak controlled a vast territory spanning three continents; administering this diversity required a sophisticated bureaucratic system that accommodated multiple languages, legal traditions, and religious communities.",
+    "C": "The Ottoman Empire at its peak controlled a vast territory spanning three continents, and this meant administering diversity which required a sophisticated bureaucratic system, accommodating multiple languages, legal traditions, and religious communities.",
+    "D": "The Ottoman Empire at its peak controlled a vast territory spanning three continents. Which required a sophisticated bureaucratic system to administer diversity across multiple languages, legal traditions, and religious communities."
+  },
+  "correct_answer": "B",
+  "explanation": "The original sentence is a comma splice: two independent clauses ('The Ottoman Empire...controlled a vast territory spanning three continents' and 'administering this diversity required a sophisticated bureaucratic system') are joined only by a comma. A semicolon (B) correctly connects these closely related independent clauses. A (NO CHANGE) retains the comma splice. C produces a grammatically awkward structure by inserting 'and this meant' and then using a relative clause ('which required') that changes the sentence's meaning and creates ambiguity. D creates a sentence fragment: 'Which required a sophisticated bureaucratic system...' has no subject—'which' cannot stand alone as the subject of a new sentence."
+}

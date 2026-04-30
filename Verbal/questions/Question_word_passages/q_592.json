@@ -1,0 +1,16 @@
+{
+  "id": "q_592",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the economics of renewable energy. The student wants to argue that solar energy has become cost-competitive with fossil fuels and to support this claim with specific evidence of price decline. The student has gathered the following notes:\n- The cost of solar photovoltaic (PV) electricity has fallen by approximately 90% over the past decade.\n- In many regions, newly built solar plants now produce electricity at a lower cost per kilowatt-hour than new coal or natural gas plants.\n- Renewable energy sources are intermittent—the sun doesn't always shine and the wind doesn't always blow—requiring backup power or storage solutions.\n- Battery storage costs have also fallen sharply, decreasing by about 89% between 2010 and 2020.\n- The global capacity of installed solar energy surpassed 1 terawatt in 2022.",
+  "question": "Which choice most effectively uses the notes to argue that solar energy is now cost-competitive with fossil fuels, supported by specific price-decline evidence?",
+  "choices": {
+    "A": "Because the sun does not shine continuously, solar energy requires backup power or battery storage to ensure a reliable supply—a challenge that the energy industry is still working to address.",
+    "B": "Solar photovoltaic electricity costs have fallen approximately 90% over the past decade, and in many regions newly built solar plants now produce power at a lower cost per kilowatt-hour than new coal or natural gas plants.",
+    "C": "Global installed solar capacity surpassed one terawatt in 2022, demonstrating the rapid growth of solar energy as a share of the world's electricity generation.",
+    "D": "Battery storage costs fell by about 89% between 2010 and 2020, making energy storage more affordable and supporting the transition to renewable energy."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to argue cost-competitiveness with fossil fuels, supported by specific price-decline evidence. B does both: the 90% cost reduction provides the price-decline evidence, and the comparison to coal/gas plants directly establishes cost-competitiveness. A focuses on intermittency—a limitation, not cost-competitiveness. C cites installed capacity (growth, not cost). D cites battery storage cost reduction, which is relevant but does not directly argue solar's cost-competitiveness with fossil fuels."
+}

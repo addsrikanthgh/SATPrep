@@ -1,0 +1,16 @@
+{
+  "id": "q_171",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Economists have long debated whether raising the minimum wage reduces employment. The intuitive concern is that higher labor costs lead employers to hire fewer workers. _______, a substantial body of empirical research comparing employment levels in neighboring counties with different minimum wage rates has found little evidence of significant job losses following modest minimum wage increases.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "As a result,",
+    "B": "Likewise,",
+    "C": "Specifically,",
+    "D": "Yet"
+  },
+  "correct_answer": "D",
+  "explanation": "The first two sentences build an intuitive case for employment reduction. The third sentence introduces empirical evidence that contradicts this intuition. 'Yet' (D) signals contrast or unexpected reversal—precisely the relationship needed between the theoretical concern and the empirical finding that undercuts it. 'As a result' (A) would imply the empirical evidence is a consequence of the intuitive concern, which misrepresents the relationship. 'Likewise' (B) would signal similarity or agreement between the sentences, but the empirical research contradicts rather than confirms the concern. 'Specifically' (C) would imply the third sentence narrows or elaborates on the second, but it contradicts it instead."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_857",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The novel's climax arrives with a revelation that recontextualizes everything that came before it ______ not just the protagonist's choices, but also the seemingly minor details scattered across the first hundred pages that readers had likely dismissed.",
+  "question": "Which choice correctly introduces the elaborating phrase?",
+  "choices": {
+    "A": "recontextualizes everything that came before it, not just the protagonist's choices, but also",
+    "B": "recontextualizes everything that came before it—not just the protagonist's choices, but also",
+    "C": "recontextualizes everything that came before it: not just the protagonist's choices, but also",
+    "D": "recontextualizes everything that came before it; not just the protagonist's choices, but also"
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'not just the protagonist's choices, but also the seemingly minor details...' is a parenthetical elaboration that specifies what 'everything' refers to. An em dash is the clearest punctuation here because it signals a sharp interruption or emphatic elaboration of the preceding complete clause. B is correct. A uses a comma, which creates a run-on ambiguity—the comma before 'not just' is too weak to signal the strong elaborating parenthetical. C uses a colon, which could be acceptable (colon before an elaborating phrase), but the phrase is not a complete list—it is an emphatic interruption, better served by the em dash. D uses a semicolon, which is incorrect—the following phrase is not an independent clause."
+}

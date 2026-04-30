@@ -1,0 +1,16 @@
+{
+  "id": "q_968",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Environmental philosopher Holmes Rolston III distinguishes between 'intrinsic value'—value that a thing has in itself, independent of human interests—and 'instrumental value'—value that something has as a means to human ends. Most mainstream environmental policy implicitly relies on instrumental value: we should protect forests because they provide ecosystem services like clean water and carbon storage. Rolston argues this framework is ultimately unstable: if ecosystems are valuable only as instruments for humans, then destroying them becomes permissible whenever alternative instruments can serve the same function. He proposes instead that nature has intrinsic value, obligating preservation independent of human benefit.",
+  "question": "The author's description of mainstream environmental policy primarily serves to",
+  "choices": {
+    "A": "endorse the instrumental value framework as the most practical approach to environmental protection.",
+    "B": "establish a contrast with Rolston's view by presenting the dominant framework that his argument challenges.",
+    "C": "explain why economic valuation of ecosystem services has been the most effective tool for conservation.",
+    "D": "argue that Rolston's intrinsic value approach is impractical for real-world policy implementation."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes mainstream environmental policy's reliance on instrumental value specifically to set up Rolston's critique of that framework. The mainstream view is introduced as the foil against which Rolston's intrinsic value argument is positioned. B correctly identifies this structural function—establishing a contrast. A reverses the evaluative framing—the passage sets up the mainstream view to critique it. C focuses on effectiveness, which the passage does not evaluate. D presents a counterargument to Rolston not found in the passage, which does not critique his approach's practicality."
+}

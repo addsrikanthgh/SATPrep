@@ -1,0 +1,16 @@
+{
+  "id": "q_368",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Throughout history, the role of coincidence in scientific discovery has been minimized by the narrative convention of presenting science as a purely rational, methodical process. Yet the annals of science are full of pivotal accidents: Alexander Fleming noticed that a fungal contaminant had cleared a circle of bacteria in a petri dish—and recognized it as significant rather than discarding the plate. Wilhelm Röntgen, investigating cathode rays, noticed that a fluorescent screen across the room was glowing even when blocked from the direct beam—and investigated rather than ignoring the anomaly. What distinguished these discoverers was not luck alone but their preparedness to recognize the significance of the unexpected.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that luck is more important than skill in scientific discovery.",
+    "B": "challenge the purely rational narrative of scientific progress by showing that accidental observations have played key roles, while noting that the ability to recognize the significance of accidents is itself a skill.",
+    "C": "provide a chronological list of all the major accidental discoveries in the history of science.",
+    "D": "compare Fleming and Röntgen to argue that Röntgen was a more skilled scientist."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage challenges the 'purely rational, methodical' narrative with historical examples of accident (Fleming, Röntgen), but qualifies the role of luck by noting that the distinguishing factor was 'preparedness to recognize the significance of the unexpected'—i.e., the accidents mattered because skilled observers recognized them. B captures both moves: the challenge to the purely rational narrative and the qualification that recognition is itself a skill. A overstates—the passage explicitly says 'not luck alone.' C describes a chronological list, but the passage presents two examples, not a comprehensive list. D attributes a comparative superiority argument to the passage that is not present."
+}

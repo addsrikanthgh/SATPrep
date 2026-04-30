@@ -1,0 +1,16 @@
+{
+  "id": "q_617",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "Urban agriculture advocates have argued that rooftop gardens and urban farms can meaningfully reduce the urban heat island effect—the phenomenon by which cities are significantly warmer than surrounding rural areas—by replacing heat-absorbing dark rooftops with vegetation that reflects sunlight and cools air through evapotranspiration.",
+  "question": "Which finding, if true, would most directly support the advocates' argument?",
+  "choices": {
+    "A": "Neighborhoods in a major city where more than 30% of rooftops had been converted to green roofs recorded average summer temperatures 2–3°C lower than comparable neighborhoods with conventional rooftops.",
+    "B": "Rooftop gardens produce an average of 5 to 10 kilograms of vegetables per square meter annually, reducing grocery costs for urban residents.",
+    "C": "The installation cost of a green roof is approximately three times higher than that of a conventional rooftop.",
+    "D": "Urban trees planted along city streets also help reduce the heat island effect through shading and evapotranspiration."
+  },
+  "correct_answer": "A",
+  "explanation": "The advocates' claim is that urban rooftop vegetation reduces the heat island effect. A directly supports this by showing a measurable temperature difference between neighborhoods with and without green roofs. B speaks to food production benefits, not the heat island claim. C addresses cost, which is a barrier but doesn't test the temperature reduction claim. D supports a related but different method (street trees, not rooftop gardens)."
+}

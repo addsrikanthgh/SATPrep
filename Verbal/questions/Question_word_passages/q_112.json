@@ -1,0 +1,16 @@
+{
+  "id": "q_112",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Historians who attribute the outbreak of World War I primarily to nationalist tensions point to the assassination of Archduke Franz Ferdinand as the spark that ignited a pan-European crisis rooted in ethnic rivalries. In their view, competing nationalist movements—Serbian, Pan-Slavic, and German—had created a volatile landscape in which any incident could trigger war.\n\nText 2: Economic historians argue that focusing on nationalism obscures the material drivers of World War I. By 1914, Europe's major powers had built rival networks of trade dependencies, colonial resource extraction, and industrial competition. These economic pressures created incentives for territorial expansion that no diplomatic solution could long suppress.",
+  "question": "How would the author of Text 2 most likely respond to the argument made in Text 1?",
+  "choices": {
+    "A": "By agreeing that nationalist tensions were significant but arguing they were insufficient on their own to produce a global conflict.",
+    "B": "By contending that nationalism was merely a surface expression of deeper underlying economic interests and rivalries.",
+    "C": "By denying that the assassination of Archduke Franz Ferdinand had any meaningful effect on the start of the war.",
+    "D": "By arguing that Pan-Slavic nationalism was more influential than German nationalism in causing the war."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 argues that focusing on nationalism 'obscures the material drivers'—meaning nationalism is viewed as a distraction from the true economic causes. The natural extension of this position is that nationalism is a surface-level symptom of deeper economic competition (B). A implies partial agreement with Text 1, which contradicts the dismissive tone Text 2 takes toward nationalist explanations. C attributes a specific claim about the assassination to Text 2 that it never makes. D introduces a distinction within nationalism that Text 2 does not engage with at all."
+}

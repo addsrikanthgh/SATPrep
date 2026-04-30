@@ -1,0 +1,16 @@
+{
+  "id": "q_864",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Initial clinical trials of the new antibiotic showed promising results against drug-resistant bacteria. ______, Phase III trials involving a larger and more diverse patient population revealed that the drug caused severe liver toxicity in approximately eight percent of participants.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "As a result",
+    "B": "Similarly",
+    "C": "Nonetheless",
+    "D": "However"
+  },
+  "correct_answer": "D",
+  "explanation": "'However' signals a direct contrast or complication—the second sentence introduces a serious problem that contrasts with the promising initial results. The move from 'promising' to 'severe liver toxicity' is a contrast requiring 'however.' 'As a result' implies the liver toxicity was caused by the promising results, which makes no logical sense. 'Similarly' implies the second sentence supports or mirrors the first—the opposite of what occurs. 'Nonetheless' means despite that, implying the second sentence proceeds in spite of the first—the toxicity finding doesn't proceed in spite of the promising results; it contradicts them."
+}

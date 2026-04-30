@@ -1,0 +1,16 @@
+{
+  "id": "q_471",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The Sahara Desert was not always arid. Roughly 11,000 to 5,000 years ago, a period scientists call the African Humid Period, the Sahara was dotted with lakes, rivers, and savanna vegetation and was home to diverse wildlife, including hippopotamuses and crocodiles. _______, as Earth's axial tilt shifted, the monsoon rains that had sustained this 'Green Sahara' gradually retreated, and the region transitioned to the hyper-arid desert conditions familiar today.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Even so",
+    "B": "Over time",
+    "C": "In contrast",
+    "D": "As a result"
+  },
+  "correct_answer": "B",
+  "explanation": "'Over time' correctly signals a gradual temporal transition: the second sentence describes the ancient lush conditions, and the third sentence describes how those conditions changed across a long span of time. The shift was gradual (the rains 'gradually retreated'), making 'over time' the most accurate transition. 'Even so' implies the third sentence presents something that is true despite the humid period—not the right relationship. 'In contrast' implies the third sentence states a direct opposing fact, but it describes the same place after it changed, not a different place. 'As a result' implies the third sentence's drought was caused by the humidity, which is backwards."
+}

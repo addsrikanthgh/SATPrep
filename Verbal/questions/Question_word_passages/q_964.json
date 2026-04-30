@@ -1,0 +1,16 @@
+{
+  "id": "q_964",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Coral reefs support approximately 25 percent of all marine species despite covering less than one percent of the ocean floor—earning them the nickname 'rainforests of the sea.' Reefs are built by tiny coral polyps that secrete calcium carbonate skeletons and live in symbiosis with photosynthetic algae called zooxanthellae, which provide corals with most of their energy through photosynthesis. When ocean temperatures rise, corals expel their algae in a stress response called bleaching: the coral turns white and, if temperatures remain elevated, dies. Scientists estimate that more than half of the world's coral reefs have been lost since the 1950s, and continued warming threatens to eliminate most of the remainder by mid-century.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "describe how coral reefs support marine biodiversity and explain the biological mechanism by which warming threatens them.",
+    "B": "argue that governments should immediately enact policies to reduce ocean temperatures.",
+    "C": "compare the biodiversity of coral reefs to that of rainforests.",
+    "D": "provide a detailed guide to the taxonomy of coral polyps and zooxanthellae."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage establishes coral reefs' ecological importance (25% of marine species in <1% of ocean floor), explains their biological structure (polyps, zooxanthellae, photosynthesis), describes the bleaching mechanism by which warming harms them, and concludes with statistics on reef loss and future threat. The passage both establishes importance and explains the biological mechanism of the threat. A correctly captures this dual purpose. B is prescriptive about policy, which the passage does not do. C mentions the 'rainforests of the sea' nickname briefly but does not elaborate a comparison. D is too narrow and taxonomic—the passage is explanatory, not taxonomic."
+}

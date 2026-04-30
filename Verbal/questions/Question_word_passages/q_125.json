@@ -1,0 +1,16 @@
+{
+  "id": "q_125",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Early research on the relationship between social media use and adolescent well-being was largely correlational, making it difficult to establish whether social media caused negative outcomes or whether already-struggling adolescents simply used social media more. _______, more recent experimental studies—in which participants were randomly assigned to reduce their social media use—have provided stronger evidence that heavy usage can directly worsen anxiety and loneliness.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Therefore,",
+    "B": "In other words,",
+    "C": "However,",
+    "D": "Similarly,"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence describes a limitation of early correlational research, and the second sentence presents newer experimental research that overcomes that limitation. The relationship is contrastive: early research was weak, but newer research is stronger. 'However' (C) correctly signals this contrast. 'Therefore' (A) would imply the experimental studies are a logical conclusion drawn from the correlational weakness, which misrepresents the relationship. 'In other words' (B) would signal that the second sentence is a restatement of the first, but the sentences describe fundamentally different types of research. 'Similarly' (D) would imply the two types of research share the same limitations, contradicting the passage."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_859",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The laboratory's equipment budget was stretched thin ______ therefore, the principal investigator applied for a supplemental grant to fund the purchase of new spectrometers.",
+  "question": "Which choice correctly punctuates the sentence before 'therefore'?",
+  "choices": {
+    "A": "equipment budget was stretched thin; therefore, the principal investigator applied",
+    "B": "equipment budget was stretched thin, therefore, the principal investigator applied",
+    "C": "equipment budget was stretched thin therefore, the principal investigator applied",
+    "D": "equipment budget was stretched thin: therefore, the principal investigator applied"
+  },
+  "correct_answer": "A",
+  "explanation": "'Therefore' is a conjunctive adverb connecting two independent clauses. The correct punctuation pattern is semicolon + conjunctive adverb + comma: '; therefore,'. A is correct. B uses a comma before 'therefore,' creating a comma splice—commas alone cannot join independent clauses. C omits the punctuation before 'therefore,' creating a run-on. D uses a colon, which does not correctly signal a cause-and-effect transition between clauses joined by 'therefore.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_699",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The term 'dark matter' refers to a hypothetical form of matter that does not interact with the electromagnetic spectrum and therefore cannot be directly observed using telescopes or other light-based instruments. Its existence is inferred from its gravitational effects on visible matter: galaxies rotate at speeds that cannot be explained by the mass of their visible stars alone, and clusters of galaxies bend light to a degree that requires far more mass than is observable. Despite decades of research, the nature of dark matter remains unknown. Proposed candidates range from weakly interacting massive particles (WIMPs) to axions to primordial black holes, but no direct detection experiments have conclusively confirmed any candidate. Dark matter is estimated to comprise approximately 27% of the universe's total energy content.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Dark matter is a gravitationally inferred but directly undetected substance whose nature remains one of the central unsolved problems in physics.",
+    "B": "Weakly interacting massive particles have been confirmed as the primary component of dark matter through multiple independent detection experiments.",
+    "C": "Because dark matter cannot be observed directly, many physicists now believe that general relativity's gravitational equations need to be revised.",
+    "D": "Dark matter makes up the majority of the universe's total energy content, comprising more than half of everything that exists."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explains what dark matter is (undetectable matter inferred from gravity), how it is inferred (galaxy rotation speeds, gravitational lensing), and the state of knowledge (nature unknown, no confirmed candidate). A accurately summarizes this. B directly contradicts the passage, which explicitly says 'no direct detection experiments have conclusively confirmed any candidate.' C introduces a claim about revising general relativity that is not in the passage. D misrepresents the statistic; the passage says dark matter is approximately 27% of the universe's total energy content, not 'more than half.'"
+}

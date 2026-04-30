@@ -1,0 +1,16 @@
+{
+  "id": "q_529",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The city council voted to allocate funds for the construction of three new community centers: one in the East District, one in the Riverfront neighborhood, and one _______ the historic Elmwood district.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "serving",
+    "B": "that serves",
+    "C": "to serve",
+    "D": "in"
+  },
+  "correct_answer": "D",
+  "explanation": "The sentence lists three parallel items in a series: 'one in the East District, one in the Riverfront neighborhood, and one ___ the historic Elmwood district.' Parallelism requires that the third item match the structure of the first two. Both 'one in the East District' and 'one in the Riverfront neighborhood' use the preposition 'in.' Therefore, the third item should also use 'in.' D is correct. A ('serving'), B ('that serves'), and C ('to serve') all break the parallel structure by introducing a participial phrase, relative clause, or infinitive where a prepositional phrase is required."
+}

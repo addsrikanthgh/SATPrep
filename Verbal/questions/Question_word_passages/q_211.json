@@ -1,0 +1,16 @@
+{
+  "id": "q_211",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A cross-sectional study of 2,800 U.S. adolescents examined daily social media use and scores on a validated anxiety scale (higher scores indicate greater anxiety). Among 13–15-year-olds using social media fewer than 1 hour daily, the mean anxiety score was 12.3. Those using 1–3 hours daily scored 16.4, and those using more than 3 hours scored 22.8. Among 16–18-year-olds, the same three groups scored 11.9, 14.7, and 18.1, respectively. Researchers also noted that social media use above 3 hours daily was twice as prevalent among 13–15-year-olds as among 16–18-year-olds.",
+  "question": "A psychologist argues that the negative effect of heavy social media use on anxiety is more pronounced among younger adolescents than older ones. Which data from the study most directly supports this argument?",
+  "choices": {
+    "A": "Among 16–18-year-olds, those using social media more than 3 hours daily scored 18.1 on the anxiety scale.",
+    "B": "Social media use above 3 hours daily was twice as prevalent among 13–15-year-olds as among 16–18-year-olds.",
+    "C": "The increase in anxiety score from under 1 hour to more than 3 hours of daily social media use was greater among 13–15-year-olds (10.5 points) than among 16–18-year-olds (6.2 points).",
+    "D": "Among 13–15-year-olds, those using social media more than 3 hours daily had the highest anxiety score of any group, at 22.8."
+  },
+  "correct_answer": "C",
+  "explanation": "The psychologist's argument requires showing that the same increase in social media use produces a larger anxiety increase in younger teens than in older ones. C directly quantifies this difference: the anxiety increase from low to high use was 10.5 points in 13–15-year-olds versus 6.2 points in 16–18-year-olds, confirming the age-differential effect. D identifies younger teens' highest anxiety score but does not compare the magnitude of the effect across age groups. A provides older teens' score without the parallel comparison needed to establish the differential. B is about prevalence of heavy use, not about the magnitude of the anxiety effect, so it is irrelevant to the argument."
+}

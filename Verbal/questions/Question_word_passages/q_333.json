@@ -1,0 +1,16 @@
+{
+  "id": "q_333",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "After reviewing all the candidates, the hiring committee chose _______ to lead the new urban planning initiative.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "he",
+    "B": "him",
+    "C": "his",
+    "D": "himself"
+  },
+  "correct_answer": "B",
+  "explanation": "The blank fills the object position of the verb 'chose,' so an object pronoun is required. 'Him' (B) is the masculine singular object pronoun—correct. 'He' (A) is a subject pronoun—incorrect in object position. 'His' (C) is a possessive determiner or pronoun—incorrect as a direct object here. 'Himself' (D) is a reflexive pronoun, which requires the subject and object to be the same person (e.g., 'He chose himself')—not appropriate here since the subject is 'the hiring committee.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_757",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Cognitive load theory, developed by educational psychologist John Sweller, distinguishes between intrinsic cognitive load (the inherent complexity of the material being learned), extraneous cognitive load (the mental effort required by the way information is presented, unrelated to the content itself), and germane cognitive load (the mental effort invested in building schemas—organized knowledge structures in long-term memory). The theory argues that working memory has a limited capacity, and that instructional design should aim to minimize extraneous load while leaving room for germane processing. Poorly designed materials—cluttered layouts, redundant information, or simultaneously presented competing streams—increase extraneous load without adding to learning.",
+  "question": "Based on the passage, what can most reasonably be inferred about the role of instructional design in learning?",
+  "choices": {
+    "A": "How information is presented affects learning outcomes independently of the complexity of the content itself.",
+    "B": "Intrinsic cognitive load is the only factor that matters in learning because material complexity is fixed and cannot be changed by a designer.",
+    "C": "Germane cognitive load should be minimized because it uses up working memory capacity that is needed for remembering facts.",
+    "D": "Students with larger working memory capacities do not benefit from well-designed instructional materials."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage argues that extraneous load—caused by poor presentation—adds mental effort without aiding learning, while good design minimizes extraneous load. This implies that presentation choices (design) affect learning separately from the difficulty of the content (intrinsic load). A correctly captures this inference. B contradicts the theory's focus on extraneous load—the entire point is that designers can and should reduce extraneous load. C contradicts the theory—germane load is the mental effort of building schemas (the desired outcome of learning) and should not be minimized. D is not supported; the passage does not say high-capacity learners are unaffected by design quality."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_764",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Plate tectonics is the theory that Earth's outer shell is divided into several large plates that move slowly over the mantle. Where plates move apart, new crust is formed as molten rock rises from below—this process, called seafloor spreading, occurs along mid-ocean ridges. Where plates converge, one plate typically slides beneath the other in a process called subduction; the subducting plate melts back into the mantle. Where plates slide horizontally past each other, transform faults—such as the San Andreas Fault in California—are formed. Volcanic and seismic activity are concentrated along these plate boundaries, which is why earthquakes and volcanoes follow distinct geographic patterns.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain the theory of plate tectonics and describe the three types of plate boundaries and their associated geological activity.",
+    "B": "argue that the San Andreas Fault poses an imminent catastrophic risk to California's population.",
+    "C": "trace the historical development of the plate tectonics theory from its earliest proponents to its modern acceptance.",
+    "D": "compare the frequency of earthquakes at divergent, convergent, and transform plate boundaries."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage introduces the theory of plate tectonics, then systematically describes three boundary types (divergent/spreading, convergent/subduction, transform) and their geological effects. A accurately captures this explanatory and categorizing purpose. B attributes an alarmist argument the passage does not make—the San Andreas Fault is mentioned as an example of a transform boundary, not as an imminent danger. C describes a history of the theory's development, which the passage does not cover. D claims a comparative frequency analysis between boundary types that the passage does not perform."
+}

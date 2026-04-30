@@ -1,0 +1,16 @@
+{
+  "id": "q_213",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "easy",
+  "passage": "A human resources consulting firm surveyed 1,050 remote workers and measured their self-reported job satisfaction scores (on a 10-point scale) by home internet download speed. Workers with speeds below 25 Mbps averaged a satisfaction score of 5.8. Those with 25–100 Mbps averaged 6.9. Workers with 100–300 Mbps averaged 7.6, and those with speeds above 300 Mbps averaged 8.1.",
+  "question": "A workplace consultant claims that faster internet speeds are associated with higher job satisfaction among remote workers. Which data from the survey most directly supports this claim?",
+  "choices": {
+    "A": "Workers with internet speeds above 300 Mbps reported the highest average satisfaction score, at 8.1.",
+    "B": "Workers with internet speeds below 25 Mbps reported the lowest average satisfaction score, at 5.8.",
+    "C": "Job satisfaction scores increased with each successive internet speed category: 5.8, 6.9, 7.6, and 8.1.",
+    "D": "The consulting firm surveyed 1,050 remote workers across four internet speed categories."
+  },
+  "correct_answer": "C",
+  "explanation": "The consultant's claim requires evidence of a consistent positive association between internet speed and satisfaction. C explicitly describes the complete increasing pattern across all four speed categories, which is the most direct and complete support for the claim. A and B each cite only a single group's data point and cannot alone establish a consistent association across all speed levels. D is a sample description that provides no evidence about the relationship between speed and satisfaction."
+}

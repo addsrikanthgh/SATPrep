@@ -1,0 +1,16 @@
+{
+  "id": "q_702",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Wolves were reintroduced to Yellowstone National Park in 1995 after being absent for over 70 years. Ecologists predicted that the presence of wolves would trigger a 'trophic cascade'—a chain reaction in which predators reshape an ecosystem by altering the behavior and distribution of their prey. Subsequent observations appeared to support this prediction: elk avoided grazing in riverbank areas where wolves could ambush them, allowing vegetation to recover and stabilizing stream banks.\n\nText 2: A 2021 reanalysis of long-term vegetation data from Yellowstone challenged the trophic cascade hypothesis. The researchers found that willows and aspens had recovered in some areas where wolf predation risk was low and elk density remained high. They concluded that other factors—including altered elk migration routes driven by human activity and variation in local soil moisture—may have contributed more to vegetation recovery than wolf-induced behavioral changes in elk.",
+  "question": "How would the author of Text 2 most likely respond to the claim in Text 1 that wolf reintroduction triggered a trophic cascade in Yellowstone?",
+  "choices": {
+    "A": "By arguing that the evidence for a trophic cascade is less conclusive than Text 1 suggests, since other factors may explain the vegetation recovery.",
+    "B": "By agreeing that the trophic cascade occurred but arguing that it had negative consequences for biodiversity that Text 1 ignored.",
+    "C": "By disputing whether wolves were actually absent from Yellowstone for 70 years prior to the 1995 reintroduction.",
+    "D": "By confirming that wolf predation on elk is the primary mechanism of vegetation recovery in all national parks."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 2 challenges the trophic cascade explanation in Text 1 by presenting evidence that vegetation recovered even in areas with low wolf predation risk, and identifies alternative factors (elk migration changes, soil moisture) that may account for the recovery. This means the author of Text 2 would argue that Text 1's attribution to the trophic cascade is not conclusively supported. A accurately reflects this qualified challenge. B is not supported—Text 2 questions the mechanism, not the biodiversity outcome. C is not in Text 2—no dispute about the duration of wolf absence is raised. D contradicts Text 2, which is specifically questioning whether wolf predation is the primary mechanism."
+}

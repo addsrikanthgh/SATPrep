@@ -1,0 +1,16 @@
+{
+  "id": "q_359",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The human body maintains a core temperature within a narrow range—roughly 36.5 to 37.5 degrees Celsius—regardless of external conditions. This regulation involves both behavioral responses (shivering, sweating) and physiological mechanisms (vasoconstriction, vasodilation). Newborns, however, lack the ability to shiver and have a much higher surface-area-to-volume ratio than adults, meaning they lose heat more rapidly. They compensate partly through 'brown adipose tissue'—a specialized fat that generates heat through a non-shivering chemical process—but this compensation is limited.",
+  "question": "Based on the passage, what can most reasonably be inferred about the vulnerability of newborns to cold environments compared to adults?",
+  "choices": {
+    "A": "Newborns are better adapted to cold environments than adults because brown adipose tissue is more efficient than shivering.",
+    "B": "Newborns are more vulnerable to cold than adults because they lose heat faster, lack shivering, and have only a limited compensatory mechanism in brown adipose tissue.",
+    "C": "The primary threat to newborns in cold environments is dehydration, not heat loss.",
+    "D": "Newborns and adults are equally vulnerable to cold environments because both have similar surface-area-to-volume ratios."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage identifies three factors that make newborns more vulnerable to cold: higher surface-area-to-volume ratio (faster heat loss), inability to shiver, and only partial compensation through brown adipose tissue ('this compensation is limited'). B accurately synthesizes all three factors to conclude that newborns are more vulnerable than adults. A inverts the comparison—the passage describes brown adipose tissue as a 'limited' compensation, not a more efficient adaptation than shivering. C introduces dehydration as a primary threat, which the passage does not discuss. D directly contradicts the passage, which states that newborns have a 'much higher surface-area-to-volume ratio than adults.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_361",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The great auk (Pinguinus impennis) was a large, flightless seabird that once ranged across the North Atlantic from North America to Europe and Iceland. Well adapted to cold, deep-water fishing, it was hunted for its feathers, oil, and meat from at least the eighth century onward. By the late eighteenth century, its breeding populations had collapsed to a handful of remote islands. The last confirmed individuals—a pair and their egg—were killed by collectors on the island of Eldey, Iceland, on June 3, 1844.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that bird hunting should be legally prohibited worldwide.",
+    "B": "trace the history and causes of the great auk's extinction.",
+    "C": "compare the great auk's extinction with that of other flightless birds.",
+    "D": "describe the great auk's physical adaptations to cold-water environments."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage moves chronologically through the great auk's history: its range, its hunting from the eighth century, the collapse of breeding populations, and the killing of the last individuals in 1844. This chronological arc traces both the history and the human-driven cause of extinction. B accurately describes this primary purpose. A attributes a normative/argumentative intent to the passage; it is descriptive and historical. C introduces a comparison with other flightless birds that the passage does not make. D focuses only on one sentence ('Well adapted to cold, deep-water fishing') and misrepresents the passage's overall purpose."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_121",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "Urban planners have long debated the merits of mixed-use zoning—the practice of allowing residential, commercial, and light industrial uses in the same neighborhood. Proponents argue that mixed-use areas reduce car dependency because residents can walk to shops, services, and workplaces. Critics counter that without careful design, such neighborhoods can become sites of noise conflicts, parking shortages, and incompatible land uses that lower residents' quality of life. Several cities that adopted aggressive mixed-use policies in the early 2000s have since scaled back those policies, citing higher-than-expected resident complaints.",
+  "question": "A student claims that mixed-use zoning has produced unintended negative consequences in some cities. Which quotation from the passage provides the most direct textual evidence for this claim?",
+  "choices": {
+    "A": "\"Urban planners have long debated the merits of mixed-use zoning\"",
+    "B": "\"proponents argue that mixed-use areas reduce car dependency because residents can walk to shops, services, and workplaces\"",
+    "C": "\"several cities that adopted aggressive mixed-use policies in the early 2000s have since scaled back those policies, citing higher-than-expected resident complaints\"",
+    "D": "\"critics counter that without careful design, such neighborhoods can become sites of noise conflicts, parking shortages, and incompatible land uses\""
+  },
+  "correct_answer": "C",
+  "explanation": "The claim requires evidence of actual negative consequences—not predictions or possibilities—in real cities. C directly supports this: actual cities that adopted these policies later reversed course because of documented resident complaints, which is a real-world consequence the policies did not anticipate. D describes critics' concerns about potential problems, but these are hypothetical warnings, not documented outcomes. A establishes context without providing evidence of consequences. B supports the opposing view by describing the benefits proponents claim."
+}

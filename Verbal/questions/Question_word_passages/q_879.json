@@ -1,0 +1,16 @@
+{
+  "id": "q_879",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Sociologists studying upward mobility have found that access to social networks is often more decisive than individual talent or effort in determining career outcomes. Those with strong professional connections receive referrals, mentorship, and inside information about job openings. ______, people who lack these networks—typically those from lower socioeconomic backgrounds—face barriers that persist regardless of their qualifications.",
+  "question": "Which choice most effectively transitions from the second sentence to the third?",
+  "choices": {
+    "A": "For this reason",
+    "B": "By contrast",
+    "C": "Similarly",
+    "D": "In particular"
+  },
+  "correct_answer": "B",
+  "explanation": "'By contrast' signals a comparison between opposing situations—those with networks benefit, while those without face persistent barriers. The transition correctly marks the shift from the advantaged group (those with connections) to the disadvantaged group (those without). 'For this reason' implies the barriers are a consequence of the well-connected group's advantages—it's more correlational than causal in this framing. 'Similarly' would imply both groups have the same experience—the opposite of what is described. 'In particular' narrows to a specific example, but the third sentence introduces a contrasting group, not a specific case within the second sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_889",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Sourdough bread is leavened through a process of wild fermentation rather than commercial yeast. A sourdough starter is a mixture of flour and water colonized by wild yeast and lactic acid bacteria naturally present in the flour, the water, and the surrounding environment. The yeast produces carbon dioxide, which makes the bread rise, while the lactic acid bacteria produce lactic and acetic acids, which give sourdough its characteristic tangy flavor. Because the starter must be regularly fed with fresh flour and water to remain active, bakers who use sourdough must maintain it over time, sometimes for years or decades.",
+  "question": "According to the passage, what role do lactic acid bacteria play in sourdough fermentation?",
+  "choices": {
+    "A": "They consume the carbon dioxide produced by wild yeast and convert it into alcohols.",
+    "B": "They break down gluten proteins, making sourdough easier to digest than other breads.",
+    "C": "They produce acids that create the tangy flavor characteristic of sourdough.",
+    "D": "They supply nutrients to the wild yeast, enabling the yeast to produce more carbon dioxide."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage states that 'lactic acid bacteria produce lactic and acetic acids, which give sourdough its characteristic tangy flavor.' C is directly supported. A inverts the roles—carbon dioxide is produced by the yeast, not consumed by bacteria. B introduces a claim about gluten and digestion that is not in the passage. D describes a nutrient-supply relationship between bacteria and yeast that the passage does not mention."
+}

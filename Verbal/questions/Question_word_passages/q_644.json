@@ -1,0 +1,16 @@
+{
+  "id": "q_644",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The museum's new acquisition—a previously unknown self-portrait attributed to Vermeer _______ immediately became the centerpiece of the Dutch Masters gallery.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "Vermeer—",
+    "B": "Vermeer,",
+    "C": "Vermeer;",
+    "D": "Vermeer:"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'a previously unknown self-portrait attributed to Vermeer' is a parenthetical appositive set off with an em dash at the start. When an appositive is introduced with an em dash, the closing punctuation must also be an em dash to form a matched pair. A correctly closes the dash-delimited parenthetical with another em dash before the verb. A comma (B) would create an asymmetric construction with the opening dash. A semicolon (C) and colon (D) are both incorrect in this position."
+}

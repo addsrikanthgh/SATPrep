@@ -1,0 +1,16 @@
+{
+  "id": "q_807",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A public health researcher argues that access to safe drinking water is one of the most cost-effective interventions for reducing child mortality in low-income countries.",
+  "question": "Which finding would most directly support the researcher's claim?",
+  "choices": {
+    "A": "'Provision of household water purification filters in rural Kenya reduced diarrheal disease incidence by 40% and was associated with a 25% reduction in under-five mortality at a cost of $50 per child per year—among the lowest cost-per-life-year-saved of any intervention reviewed.'",
+    "B": "'Waterborne diseases account for approximately 2 million deaths globally each year, predominantly among children under five in low-income countries.'",
+    "C": "'Access to improved sanitation facilities, including latrines and sewage systems, reduces fecal-oral transmission of disease and complements the benefits of clean water.'",
+    "D": "'The construction of large-scale water treatment infrastructure requires significant capital investment and typically takes several years to complete.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The researcher argues that safe water access is cost-effective for reducing child mortality. A directly supports this by giving a specific intervention (water purification filters), its mortality reduction (25% under-five mortality reduction), and its cost-effectiveness ($50/child/year; lowest cost-per-life-year of reviewed interventions). B shows the scale of waterborne disease mortality but not cost-effectiveness. C addresses sanitation—a complementary intervention but not safe drinking water itself. D describes the cost and difficulty of infrastructure, which could actually undermine the cost-effectiveness argument."
+}

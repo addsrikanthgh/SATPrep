@@ -1,0 +1,16 @@
+{
+  "id": "q_837",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The ornithologist's fieldwork was _______ in its breadth: over twenty years she documented more than 800 species across six continents, cross-referencing her observations with historical museum specimens to track population changes over time.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "encyclopedic",
+    "B": "cursory",
+    "C": "anachronistic",
+    "D": "provisional"
+  },
+  "correct_answer": "A",
+  "explanation": "'Encyclopedic' describes comprehensive and detailed knowledge across an extremely wide range—800 species across six continents and cross-referencing with historical specimens over twenty years is precisely encyclopedic in scope. 'Cursory' means hasty and lacking thoroughness—the opposite of the meticulous, comprehensive work described. 'Anachronistic' means out of place in time—not applicable to the fieldwork's scope. 'Provisional' means temporary or conditional, pending further information—the sentence describes completed, documented work, not tentative findings."
+}

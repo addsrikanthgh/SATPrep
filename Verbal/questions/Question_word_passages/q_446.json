@@ -1,0 +1,16 @@
+{
+  "id": "q_446",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The hike to the summit takes approximately four hours _______ depending on weather conditions and the hikers' pace.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "hours, depending",
+    "B": "hours; depending",
+    "C": "hours: depending",
+    "D": "hours depending"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'depending on weather conditions and the hikers' pace' is a nonessential modifier. When a nonessential phrase follows a complete main clause and modifies it loosely, it is set off with a comma. A correctly uses a comma. B uses a semicolon, which would follow an independent clause—'depending on weather conditions...' is not an independent clause. C uses a colon, which introduces a list or direct elaboration—'depending' is not a list. D has no comma, incorrectly joining the modifier without any separation."
+}

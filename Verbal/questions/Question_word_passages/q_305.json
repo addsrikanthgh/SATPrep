@@ -1,0 +1,16 @@
+{
+  "id": "q_305",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1:\nThe philosopher Peter Singer argues that affluent individuals are morally obligated to donate substantial portions of their income to alleviate global poverty. His argument rests on the 'drowning child' analogy: if you passed a drowning child in a shallow pond, the cost of getting your shoes wet to save them would be trivial compared to the moral weight of the child's life. Distance, Singer argues, is morally irrelevant—a child dying of preventable disease in another country has the same moral claim on your resources as a child drowning at your feet.\n\nText 2:\nThe philosopher Susan Wolf offers a partial challenge to Singer's framework. She grants that we have genuine moral obligations to help others and that global poverty is a serious moral concern. However, she argues that Singer's demanding impartial framework, if fully applied, would require individuals to sacrifice all personal projects, relationships, and sources of meaning until the marginal utility of their wealth equaled the marginal utility to the poorest person on Earth. A moral theory that demands we become 'moral saints'—purely impartial, project-less optimizers—describes a life that most people would find impoverished in the most important sense.",
+  "question": "Which choice best describes how Wolf's argument in Text 2 relates to Singer's argument in Text 1?",
+  "choices": {
+    "A": "Wolf rejects Singer's claim that global poverty is a serious moral concern.",
+    "B": "Wolf accepts Singer's analogy between the drowning child and global poverty but argues it supports less demanding obligations than Singer concludes.",
+    "C": "Wolf agrees that individuals have obligations to help others but argues that a fully impartial framework demanding maximum sacrifice is incompatible with a recognizably human moral life.",
+    "D": "Wolf argues that the drowning child analogy is flawed because the cost of saving a child is not trivial."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 explicitly grants that 'we have genuine moral obligations to help others and that global poverty is a serious moral concern'—accepting Singer's basic premises. Wolf's challenge is that the full application of Singer's impartial, maximizing framework would eliminate all personal projects and relationships, producing a 'moral saint' whose life lacks human meaning. C accurately captures this concede-then-qualify structure. A is incorrect—Wolf explicitly grants that global poverty is a serious concern. B misrepresents Wolf's argument; she does not discuss the drowning child analogy specifically or argue for less demanding obligations in the way described. D attributes to Wolf an argument she does not make—she does not attack the analogy's premise about costs."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_798",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Narrative transportation refers to the psychological state of being absorbed into a story, during which the reader temporarily loses awareness of their surroundings.\n- Research by Melanie Green and Timothy Brock (2000) found that readers who were more transported into a narrative showed greater belief change consistent with the story's themes.\n- Transportation is associated with reduced counterarguing: absorbed readers are less likely to generate objections to claims made within the story.\n- A 2014 meta-analysis of 15 studies confirmed that narrative transportation predicts attitude change more reliably than mere exposure to the same information in expository form.\n- The effect applies across media: fiction, film, and documentary formats all induce transportation and produce attitude change.",
+  "question": "The student wants to introduce narrative transportation and explain why it is considered effective for attitude change. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Narrative transportation—the state of being absorbed into a story—is associated with reduced counterarguing and stronger attitude change than expository formats, suggesting that engagement with story makes persuasion more effective.",
+    "B": "A 2014 meta-analysis found that narrative transportation predicts attitude change more reliably than exposure to the same information in expository form.",
+    "C": "Melanie Green and Timothy Brock found in 2000 that readers more transported into narratives showed greater belief change consistent with story themes.",
+    "D": "Narrative transportation occurs across media formats, including fiction, film, and documentary."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to introduce narrative transportation and explain why it produces attitude change. A defines the concept (absorbed into story), explains the mechanism behind its persuasive effectiveness (reduced counterarguing), cites the comparative evidence (stronger change than expository formats), and offers an interpretive conclusion (engagement makes persuasion more effective). It accomplishes both parts—introduction and explanation. B gives the meta-analysis finding without defining narrative transportation or explaining the mechanism. C gives one study's result without defining the concept broadly or explaining why it works. D describes media generalizability without explaining what narrative transportation is or why it produces attitude change."
+}

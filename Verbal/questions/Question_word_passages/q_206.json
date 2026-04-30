@@ -1,0 +1,16 @@
+{
+  "id": "q_206",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "easy",
+  "passage": "A school district tracked the grade point averages (GPAs) of 480 middle school students enrolled in a voluntary after-school tutoring program. Among students who attended tutoring zero times per month, the average GPA was 2.4. Students attending 1–2 sessions per month averaged a 2.7 GPA. Those attending 3–4 sessions averaged 3.1, and students attending more than 4 sessions per month averaged 3.5.",
+  "question": "A school administrator claims that more frequent tutoring participation is associated with higher academic performance. Which data from the program most directly supports this claim?",
+  "choices": {
+    "A": "The tutoring program was voluntary and included 480 middle school students.",
+    "B": "Students attending more than 4 sessions per month had the highest average GPA in the study, at 3.5.",
+    "C": "Students with zero tutoring sessions had a GPA of 2.4, while students with more than 4 monthly sessions had a GPA of 3.5.",
+    "D": "GPA increased with each increase in tutoring frequency, from 2.4 for students with no sessions to 3.5 for those attending more than 4 sessions monthly."
+  },
+  "correct_answer": "D",
+  "explanation": "The administrator's claim is about a consistent association between frequency and performance. D describes the complete trend across all four frequency groups, providing the most direct and comprehensive support. C compares only the two extremes and cannot establish a consistent gradient. B identifies only the highest-performing group and cannot establish an association on its own. A is a descriptive detail about the program that does not address the relationship between frequency and GPA."
+}

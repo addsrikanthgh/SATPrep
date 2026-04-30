@@ -1,0 +1,16 @@
+{
+  "id": "q_282",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Early automobiles were steered using a tiller, similar to the mechanism used on boats. This design was logical given that car manufacturers drew on their experience building horse-drawn carriages and marine vessels. _______, as vehicles became faster, the tiller proved inadequate for the precise control required, and manufacturers adopted the circular steering wheel, which allowed for more nuanced input at higher speeds.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "In addition,",
+    "B": "Similarly,",
+    "C": "Over time, however,",
+    "D": "As a result,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage moves from explaining why early tiller steering was logical to explaining that it was eventually replaced by the steering wheel when cars became faster. The relationship is temporal change combined with contrast: the tiller was once appropriate, but that changed. 'Over time, however,' (C) captures both the temporal dimension ('over time') and the contrasting shift ('however'). 'In addition' (A) would suggest the new information supplements the previous point, but the two ideas are in tension. 'Similarly' (B) signals that the second point parallels the first—incorrect since the shift is one of change, not similarity. 'As a result' (D) would imply the tiller's inadequacy was a direct result of its logic, which is backward."
+}

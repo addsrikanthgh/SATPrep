@@ -1,0 +1,16 @@
+{
+  "id": "q_961",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The term 'algorithm' predates computers by more than a thousand years. It derives from the name of Muhammad ibn Musa al-Khwarizmi, a ninth-century Persian mathematician whose treatise on arithmetic introduced systematic step-by-step methods for solving equations. When European scholars later translated his work into Latin, they Latinized his name, and 'algorismus' eventually became 'algorithm' in English. The modern computing definition—a finite set of instructions for solving a problem—extends but preserves the core idea of a methodical, repeatable procedure.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that modern computing owes more to medieval mathematics than to twentieth-century science.",
+    "B": "trace the historical and etymological origins of the word 'algorithm.'",
+    "C": "describe the mathematical contributions of Persian scholars to European science.",
+    "D": "define algorithm and explain how computers execute algorithmic instructions."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage moves from the pre-computer origins of the term, to its derivation from al-Khwarizmi's name, to its Latin translation and eventual evolution into the English word 'algorithm,' concluding with how the modern definition preserves the original idea. This is a trace of a word's etymology and historical origins. B correctly identifies this. A makes a comparative argument about mathematical influences that the passage does not make. C focuses on broader contributions of Persian scholars, while the passage focuses narrowly on one mathematician and one term. D focuses on computer execution, which the passage does not explain."
+}

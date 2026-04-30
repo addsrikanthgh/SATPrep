@@ -1,0 +1,16 @@
+{
+  "id": "q_468",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The surface of Mars shows extensive evidence of ancient river valleys, lake beds, and possibly ocean shorelines—features that indicate the planet once had liquid water on its surface. _______, current Martian conditions are far too cold and the atmospheric pressure far too low for liquid water to exist stably at the surface today.",
+  "question": "Which choice most effectively transitions between the first and second sentences?",
+  "choices": {
+    "A": "In other words",
+    "B": "Yet",
+    "C": "As a result",
+    "D": "In particular"
+  },
+  "correct_answer": "B",
+  "explanation": "'Yet' correctly signals the contrast between Mars's ancient watery past (first sentence) and its cold, dry present (second sentence). This is a classic temporal contrast: what was once true is no longer true. 'In other words' implies the second sentence restates the first, but it describes the opposite of it. 'As a result' implies the dry current conditions were caused by the ancient water presence—no such causal link is claimed. 'In particular' implies the second sentence specifies or narrows the first, which is not the relationship."
+}

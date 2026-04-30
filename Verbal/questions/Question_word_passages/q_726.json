@@ -1,0 +1,16 @@
+{
+  "id": "q_726",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The governor's spokesperson confirmed that _______ intention was to veto the bill if it passed with the current language.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "the governor's",
+    "B": "the governors'",
+    "C": "the governors",
+    "D": "her or his"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence refers to a single governor ('The governor's spokesperson'). The possessive of a singular noun is formed by adding 's. 'The governor's' (A) correctly forms the singular possessive. 'The governors'' (B) is a plural possessive (belonging to multiple governors), which contradicts the singular reference in the sentence. 'The governors' (C) is simply the plural noun with no possessive marking, which is grammatically incorrect before 'intention.' 'Her or his' (D) is a pronoun construction that would work grammatically if a pronoun were appropriate, but the proper noun construction 'the governor's' is cleaner and the sentence has already established the subject without needing a pronoun."
+}

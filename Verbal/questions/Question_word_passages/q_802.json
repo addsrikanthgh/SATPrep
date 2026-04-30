@@ -1,0 +1,16 @@
+{
+  "id": "q_802",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A student argues that the printing press accelerated the Protestant Reformation by making religious texts widely accessible to ordinary people who could then read and interpret scripture independently, bypassing Church authority.",
+  "question": "Which quotation from a history of early modern Europe would most directly support the student's argument?",
+  "choices": {
+    "A": "'Within two decades of Gutenberg's press, over 20 million books had been printed in Europe; vernacular Bibles and Luther's pamphlets were among the most widely circulated, spreading reform ideas faster than authorities could suppress them.'",
+    "B": "'The Council of Trent convened in 1545 to address doctrinal issues raised by Protestant reformers and to begin the internal reform of the Catholic Church.'",
+    "C": "'Martin Luther nailed his Ninety-Five Theses to the door of the Wittenberg Castle Church in October 1517, protesting the sale of indulgences.'",
+    "D": "'Literacy rates in fifteenth-century Europe remained low, with the majority of the population relying on oral instruction and visual imagery in churches to understand religious teachings.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The student's argument is specifically about the printing press enabling wide access to religious texts and bypassing Church authority. A directly supports this by showing that printed vernacular Bibles and reform pamphlets circulated rapidly at a scale that outpaced suppression. B describes the Church's response to the Reformation—not the press's role. C describes Luther's initial act without connecting it to print distribution. D introduces evidence that undercuts the premise (low literacy makes wide print distribution less impactful)."
+}

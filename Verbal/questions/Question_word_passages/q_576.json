@@ -1,0 +1,16 @@
+{
+  "id": "q_576",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "In their influential 1984 paper, Hana Pitkin argued that political representation has at least four distinct meanings that are often conflated. 'Formalistic' representation concerns how a representative is authorized (elected, appointed) and how they are held accountable. 'Symbolic' representation concerns whether a representative embodies or stands for the group symbolically—as a woman might symbolically represent women. 'Descriptive' representation concerns whether representatives 'look like' those they represent in demographic terms—shared characteristics of race, gender, or class. 'Substantive' representation concerns whether representatives actually act in the interests of those they represent. These four senses can diverge dramatically: a person can be formally elected, symbolically important, and demographically representative while systematically failing to advance the group's substantive interests.",
+  "question": "The author's final sentence primarily serves to",
+  "choices": {
+    "A": "provide a counterexample demonstrating that the four types of representation can come apart, reinforcing the importance of distinguishing among them",
+    "B": "argue that symbolic and descriptive representation are worthless and that only substantive representation matters",
+    "C": "conclude that formal election is the most important form of representation because it ensures accountability",
+    "D": "suggest that Pitkin's framework is too complex to be practically useful in democratic theory"
+  },
+  "correct_answer": "A",
+  "explanation": "The final sentence shows a scenario where three of the four types of representation are present but substantive representation is absent—demonstrating that the four types can diverge. This reinforces the analytical usefulness of distinguishing among them. A correctly identifies this structural function. B is incorrect—the passage does not evaluate which types are more valuable; the example shows they can diverge, not that some are worthless. C is incorrect—formal election is not privileged in the final sentence. D is incorrect—the final sentence supports the framework's analytical utility by showing the types can diverge, not undermining its usefulness."
+}

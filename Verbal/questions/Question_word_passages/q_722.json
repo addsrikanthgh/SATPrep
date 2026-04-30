@@ -1,0 +1,16 @@
+{
+  "id": "q_722",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The committee, after weeks of deliberation, finally reached _______ decision: the proposed merger would not be approved.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "its",
+    "B": "their",
+    "C": "it's",
+    "D": "there"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent is 'committee,' a collective noun. In American English, collective nouns (committee, team, jury, group) are treated as singular when the group acts as a single unit—which is the case here, as the committee reached a single unified decision. The singular possessive pronoun 'its' (A) correctly agrees with the singular collective noun. 'Their' (B) is a plural pronoun and would be incorrect in standard American English when the collective noun acts as a unit. 'It's' (C) is a contraction of 'it is,' not a possessive, and makes no sense in context. 'There' (D) is an adverb, not a possessive pronoun."
+}

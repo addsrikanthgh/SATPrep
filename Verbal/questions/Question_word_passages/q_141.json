@@ -1,0 +1,16 @@
+{
+  "id": "q_141",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay arguing that Reconstruction (1865–1877) fundamentally transformed African American political life, despite its ultimate failure. While researching, the student finds the following information:\n\n- Between 1870 and 1876, sixteen African American men served in the U.S. Congress.\n- The Fourteenth and Fifteenth Amendments granted citizenship rights and voting rights to Black men.\n- African Americans held hundreds of state and local offices across the South during Reconstruction.\n- After Reconstruction ended, systematic disenfranchisement, including literacy tests and poll taxes, stripped Black voters of political power.\n- Historian Eric Foner argues that Reconstruction represented the first attempt to build an interracial democracy in American history.",
+  "question": "Which sentence most effectively synthesizes the notes to support the student's argument?",
+  "choices": {
+    "A": "Reconstruction ended in 1877, after which literacy tests and poll taxes stripped African Americans of the political gains they had made.",
+    "B": "The Fourteenth and Fifteenth Amendments granted African American men citizenship and voting rights, which were later undermined by disenfranchisement laws.",
+    "C": "Reconstruction produced remarkable African American political representation—sixteen congressional seats and hundreds of local offices—and constitutional amendments that, as Foner argues, constituted the first attempt to build interracial democracy, even though these gains were ultimately dismantled.",
+    "D": "Eric Foner argues that Reconstruction was the first attempt to build an interracial democracy, a claim supported by the passage of the Fourteenth and Fifteenth Amendments."
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument requires both demonstrating substantive political transformation and acknowledging its eventual failure. C synthesizes the most evidence: congressional representation (16 members), local offices (hundreds), the constitutional amendments, Foner's framing of interracial democracy, and the concession that these gains were dismantled. This directly serves the 'fundamental transformation despite ultimate failure' thesis. A focuses only on the failure, omitting the transformation. B covers only the amendments and their undoing—missing the electoral evidence and Foner's framing. D cites only the amendments and Foner, omitting the rich electoral evidence that substantiates the transformation claim."
+}

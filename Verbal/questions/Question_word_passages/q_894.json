@@ -1,0 +1,16 @@
+{
+  "id": "q_894",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "The philosopher Derek Parfit argued that personal identity over time is less determinate than common sense supposes. On the ordinary view, what makes me the same person as the child in a photograph is a continuous psychological connection—memories, beliefs, desires, and personality traits that persist from past to present. Parfit challenged this view with thought experiments: if one's brain were divided and each half transplanted into a different body, would both resulting persons be 'you'? Could both be the same person as you but not the same person as each other? Such scenarios suggest that what we call personal identity is not a deep metaphysical fact but a matter of degree and convention. Parfit thought this conclusion—that strict personal identity is not what matters for survival—was liberating rather than disturbing: it dissolves excessive self-concern and supports stronger obligations to future people.",
+  "question": "Which choice best states the main claim of the passage?",
+  "choices": {
+    "A": "Parfit's thought experiments prove that personal identity does not exist and that the self is an illusion.",
+    "B": "Parfit argued that personal identity is a continuous psychological connection, and this view is widely accepted in philosophy.",
+    "C": "Parfit challenged the ordinary view of personal identity and argued that its indeterminacy, rather than being troubling, has positive ethical implications.",
+    "D": "Brain transplant technology presents serious practical and ethical challenges that philosophers have only recently begun to address."
+  },
+  "correct_answer": "C",
+  "explanation": "C accurately summarizes Parfit's argument: he challenges the common-sense view, uses thought experiments to show identity is indeterminate, and concludes this is liberating rather than disturbing. A overstates—Parfit does not claim the self is an illusion or that identity doesn't exist; he claims it is less determinate than supposed. B describes the view Parfit is challenging, not the one he defends. D introduces a practical technology claim the passage does not make—the brain transplant is a thought experiment, not a technology discussion."
+}

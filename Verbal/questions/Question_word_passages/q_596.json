@@ -1,0 +1,16 @@
+{
+  "id": "q_596",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay on the limits of GDP as a measure of national well-being. The student wants to argue that GDP is an incomplete metric for societal progress because it counts economic activity regardless of whether that activity improves human welfare. The student has gathered the following notes:\n- GDP measures the total monetary value of all goods and services produced in a country in a given period.\n- GDP counts spending on cigarettes, prison incarceration, and environmental cleanup equally with spending on education and healthcare.\n- An oil spill increases GDP because it generates spending on cleanup and legal proceedings.\n- GDP does not account for income inequality: a country can have high GDP growth while the majority of gains go to the wealthiest segment of the population.\n- Alternative measures such as the Human Development Index (HDI) and the Genuine Progress Indicator (GPI) attempt to incorporate health, education, inequality, and environmental costs.",
+  "question": "Which choice most effectively uses the notes to argue that GDP is an incomplete metric because it counts economic activity regardless of whether that activity improves welfare?",
+  "choices": {
+    "A": "Alternative measures such as the Human Development Index attempt to account for health, education, and inequality—factors that GDP ignores.",
+    "B": "GDP is an incomplete measure of societal progress because it counts all economic activity equally: an oil spill that generates cleanup spending increases GDP as much as equivalent investment in education, regardless of the harm or benefit to human welfare.",
+    "C": "A country can maintain high GDP growth while the majority of economic gains accrue to the wealthiest citizens, masking widespread stagnation in living standards.",
+    "D": "GDP measures the total monetary value of all goods and services produced in a country within a given period, making it the most comprehensive available measure of economic output."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to argue GDP is incomplete because it counts activity regardless of welfare impact. B does this directly: it states the limitation and uses the oil spill example to show that harmful activity and beneficial activity are treated identically in GDP. A focuses on alternative metrics—relevant but not the core argument about GDP's counting problem. C addresses the inequality limitation, which is a different gap (distribution, not welfare-neutrality of activity). D describes what GDP measures without questioning its completeness as a welfare measure."
+}

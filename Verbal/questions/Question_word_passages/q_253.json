@@ -1,0 +1,16 @@
+{
+  "id": "q_253",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The board unanimously rejected the merger; the CEO, however, announced her intention to pursue the deal through alternative channels.",
+  "question": "Which choice correctly explains the punctuation of this sentence?",
+  "choices": {
+    "A": "The semicolon is incorrect because 'the CEO, however' begins a dependent clause, not an independent one.",
+    "B": "The commas around 'however' are unnecessary because 'however' functions here as a coordinating conjunction requiring only a comma before it.",
+    "C": "The semicolon correctly joins two independent clauses, and the commas around 'however' correctly set off the conjunctive adverb within the second clause.",
+    "D": "The semicolon should be replaced with a colon because the second clause explains the consequence of the board's rejection."
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence contains two independent clauses: 'The board unanimously rejected the merger' and 'the CEO announced her intention to pursue the deal through alternative channels.' The semicolon correctly joins them. 'However' is a conjunctive adverb inserted within the second clause; when a conjunctive adverb appears in the middle of a clause (rather than at the start), it is set off by commas on both sides. C accurately describes both punctuation features. A is incorrect—the second clause is fully independent. B is incorrect because 'however' is not a coordinating conjunction (like 'but' or 'yet'); it is a conjunctive adverb requiring comma framing. D is incorrect; while the second clause does provide context for the first, the relationship is one of contrast, not elaboration, and a colon would not signal contrast."
+}

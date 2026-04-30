@@ -1,0 +1,16 @@
+{
+  "id": "q_484",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "The placebo effect—improvement in a patient's condition following an inert treatment—has long been understood as a nuisance variable that clinical trials must control for. Recent research has complicated this picture. Studies have shown that placebos produce measurable neurological changes, including the release of endogenous opioids and changes in brain activity in regions associated with pain processing. Perhaps most surprisingly, research led by Ted Kaptchuk at Harvard Medical School has shown that placebos can produce benefits even when patients are explicitly told that they are receiving a placebo—a phenomenon known as 'open-label placebo.' These findings suggest the placebo effect is not simply self-deception but a genuine physiological process that the mind can trigger knowingly.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "The placebo effect is not a real phenomenon and can be explained entirely by patients' tendency to misreport their symptoms.",
+    "B": "Recent research suggests the placebo effect is a genuine physiological process, not merely self-deception, and can occur even without patient deception.",
+    "C": "Clinical trials should no longer use placebo controls because the placebo effect is too powerful to allow accurate comparisons.",
+    "D": "The placebo effect works because patients unconsciously release endogenous opioids whenever they believe they are being treated."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage argues that the placebo effect is a real neurological/physiological process (not mere self-deception) and presents the open-label placebo evidence to show it can occur without deception. B captures both elements. A is directly contradicted by the passage. C goes beyond the passage—the passage does not make any claim about whether clinical trials should continue using placebos. D misrepresents the finding by using the word 'unconsciously' and by implying belief is required, when the open-label research shows the effect can occur even knowingly."
+}

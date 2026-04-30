@@ -1,0 +1,16 @@
+{
+  "id": "q_511",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Many economists argue that a carbon tax—a fee charged per ton of carbon dioxide emitted—is the most efficient policy tool for reducing greenhouse gas emissions. By putting a price on emissions, a carbon tax aligns private incentives with social costs, encouraging businesses and consumers to shift away from carbon-intensive activities without requiring government to pick winning technologies. Revenue from the tax can be returned to citizens as a dividend or used to reduce other taxes.\n\nText 2: While carbon taxes are theoretically elegant, their political track record is poor. British Columbia, Canada, implemented a carbon tax in 2008 and achieved meaningful emissions reductions; however, similar proposals in the United States and Australia have faced overwhelming political opposition and either failed to pass or been repealed. Critics argue that carbon taxes are regressive—disproportionately burdening lower-income households that spend a larger share of their income on energy—and politically toxic because their costs are visible and immediate while their benefits are diffuse and long-term.",
+  "question": "How do the two texts differ in their treatment of carbon taxes?",
+  "choices": {
+    "A": "Text 1 focuses on the economic logic of carbon taxes, while Text 2 questions whether they work in practice politically and distributionally.",
+    "B": "Text 1 argues that carbon taxes are regressive, while Text 2 argues they are efficient.",
+    "C": "Both texts conclude that carbon taxes are the best available climate policy.",
+    "D": "Text 2 argues that British Columbia's carbon tax failed to reduce emissions."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 makes an economic efficiency argument for carbon taxes (aligning incentives, flexibility, revenue options). Text 2 acknowledges the theory but raises two practical objections: political track record (mostly failures) and distributional concerns (regressive burden). A correctly summarizes this difference. B reverses the positions—Text 1 does not raise regressivity, and Text 2 does not argue for efficiency. C is contradicted by Text 2, which highlights political failures. D is directly contradicted by Text 2, which cites British Columbia as an example of meaningful emissions reductions."
+}

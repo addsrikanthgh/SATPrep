@@ -1,0 +1,16 @@
+{
+  "id": "q_459",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Unlike most migratory birds, the Arctic tern completes a round trip of approximately 44,000 miles each year _______ traveling from its Arctic breeding grounds to the Antarctic and back.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "year, traveling",
+    "B": "year traveling",
+    "C": "year; traveling",
+    "D": "year: traveling"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'traveling from its Arctic breeding grounds to the Antarctic and back' modifies the main clause ('the Arctic tern completes a round trip...') as a nonessential supplementary modifier. When a participial phrase follows the main clause it modifies and provides additional information, it is set off with a comma. A correctly uses a comma. B omits the comma. C uses a semicolon; 'traveling...' is not an independent clause. D uses a colon; the participial phrase is not a list or formal elaboration."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_755",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "In 1962, Rachel Carson's Silent Spring documented the devastating ecological effects of the widespread use of synthetic pesticides, particularly DDT, on bird populations. Carson described how DDT accumulated in the fatty tissues of animals through a process called biomagnification—each link in the food chain concentrating the chemical further, so that top predators like bald eagles and peregrine falcons received doses thousands of times greater than those applied to fields. DDT caused the thinning of eggshells, leading to reproductive failure. Carson's book is credited with sparking the modern environmental movement and leading to the eventual ban of DDT in the United States in 1972.",
+  "question": "Based on the passage, what can most reasonably be inferred about the mechanism of biomagnification?",
+  "choices": {
+    "A": "Organisms at higher trophic levels are more vulnerable to certain environmental contaminants than those lower in the food chain because concentrations increase with each link.",
+    "B": "DDT was specifically designed to accumulate in the food chain, and its developers were aware of its effects on bird reproduction.",
+    "C": "Biomagnification occurs only in aquatic food chains and does not affect terrestrial ecosystems like the agricultural fields described.",
+    "D": "Carson's discovery of biomagnification was a surprising finding that had no prior scientific basis before Silent Spring."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explains that DDT accumulated in fatty tissues and was concentrated at each level of the food chain, so top predators received doses thousands of times higher than the original application. This directly supports inferring that top-level predators are more exposed to bioaccumulating contaminants than lower-level organisms. A accurately captures this. B attributes deliberate design intent that the passage does not support—the passage focuses on ecological effects, not developer intentions. C contradicts the passage, which describes biomagnification affecting bald eagles and peregrine falcons—terrestrial apex predators. D introduces a claim about prior scientific knowledge that the passage does not address."
+}

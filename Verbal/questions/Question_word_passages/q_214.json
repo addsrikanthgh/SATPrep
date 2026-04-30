@@ -1,0 +1,16 @@
+{
+  "id": "q_214",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A marketing analytics firm analyzed the return on advertising spend (ROAS) for four channels—television, digital display, social media, and email—across 180 consumer brands over three years. Television advertising generated an average ROAS of $3.10 per dollar spent. Digital display generated $2.40. Social media generated $4.80. Email marketing generated $7.20. However, for brands with annual revenues below $5 million, email marketing's ROAS fell to $3.10 while social media's ROAS rose to $6.50—a reversal of the general pattern.",
+  "question": "A small business owner with $3 million in annual revenue wants to identify which advertising channel offers the greatest return for businesses of her size. Which data from the analysis most directly supports prioritizing social media over email marketing?",
+  "choices": {
+    "A": "Across all 180 brands, email marketing generated the highest ROAS of $7.20 per dollar spent.",
+    "B": "Social media generated an average ROAS of $4.80 across the full dataset, the second-highest overall.",
+    "C": "For brands with revenues below $5 million, social media generated a ROAS of $6.50 per dollar spent, compared with only $3.10 for email marketing.",
+    "D": "Television advertising generated a ROAS of $3.10 per dollar spent, tying email marketing's performance for brands with revenues below $5 million."
+  },
+  "correct_answer": "C",
+  "explanation": "The business owner needs data specific to small businesses (under $5 million revenue). C directly addresses this by presenting size-segmented ROAS values showing that social media ($6.50) more than doubles email marketing's performance ($3.10) for brands in her revenue range. A and B present overall averages reflecting larger brands' performance—data that do not apply to her situation and would actually point toward the opposite conclusion. D notes the tie between TV and email at the small-business level but does not address social media's advantage over email for this segment."
+}

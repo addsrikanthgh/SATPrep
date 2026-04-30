@@ -1,0 +1,16 @@
+{
+  "id": "q_556",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Historian Timothy Snyder has argued that the Holocaust was not primarily an outgrowth of German domestic anti-Semitism acting through conventional bureaucratic structures but was made possible by a particular geographic condition: the existence of a 'zone of destruction' in Eastern Europe—the territories between Germany and Soviet Russia—where state institutions had been comprehensively destroyed by years of Soviet and German occupation. In these 'bloodlands,' the normal mechanisms of civil society, law, and protection had ceased to function. It was precisely in this institutional vacuum that the mass murder of Jews, Soviet prisoners, and others was most efficiently carried out.",
+  "question": "Based on the passage, what can most reasonably be inferred about Snyder's argument regarding the Holocaust?",
+  "choices": {
+    "A": "Snyder argues that anti-Semitism played no role whatsoever in the Holocaust.",
+    "B": "Snyder suggests that the Holocaust's implementation depended not only on ideology but on geographic and institutional conditions that created spaces where mass murder could proceed without the constraints of functioning civil society.",
+    "C": "Snyder argues that the Holocaust could have occurred in any country with anti-Semitic sentiment.",
+    "D": "Snyder's argument implies that the collapse of state institutions inevitably leads to genocide."
+  },
+  "correct_answer": "B",
+  "explanation": "Snyder's argument, as described, links the efficiency of mass murder to the institutional vacuum in the Eastern European 'bloodlands'—not solely to ideology. B correctly captures this dual emphasis on geographic/institutional conditions alongside (but qualifying) ideological factors. A overstates by saying Snyder dismisses anti-Semitism entirely—he argues it was 'not primarily' German domestic anti-Semitism, not that ideology played no role. C contradicts Snyder's argument, which emphasizes specific geographic and institutional preconditions. D is too broad—Snyder makes a historical argument about specific conditions, not a universal causal law."
+}

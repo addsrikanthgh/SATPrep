@@ -1,0 +1,16 @@
+{
+  "id": "q_178",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report on the history of the polio vaccine. While researching, the student finds the following information:\n\n- Jonas Salk developed the first effective polio vaccine, which was declared safe and effective in 1955 after a massive field trial involving 1.8 million children.\n- Albert Sabin later developed an oral polio vaccine that was cheaper, easier to administer, and conferred longer-lasting immunity.\n- Polio cases in the United States dropped from nearly 58,000 in 1952 to fewer than 1,000 by 1962.\n- Salk refused to patent his vaccine, stating it belonged to 'the people,' a decision that kept costs low and enabled rapid international distribution.\n- The Global Polio Eradication Initiative, launched in 1988, reduced worldwide polio cases by more than 99%.",
+  "question": "Which sentence most effectively synthesizes the notes to support the argument that scientific and ethical choices in polio vaccine development accelerated the disease's near-eradication?",
+  "choices": {
+    "A": "Polio cases in the United States fell from nearly 58,000 in 1952 to fewer than 1,000 by 1962, demonstrating the dramatic effectiveness of Salk's vaccine.",
+    "B": "Salk's decision not to patent his vaccine, Sabin's development of a cheaper oral alternative, and the resulting global eradication effort together show how scientific and ethical choices shaped polio's decline from epidemic to near-extinction.",
+    "C": "Jonas Salk developed the first polio vaccine in 1955, while Albert Sabin later developed an oral version that was cheaper and easier to administer.",
+    "D": "The Global Polio Eradication Initiative reduced worldwide polio cases by more than 99%, proving that international cooperation can defeat infectious disease."
+  },
+  "correct_answer": "B",
+  "explanation": "The argument links scientific and ethical choices to near-eradication. B synthesizes the key elements: Salk's ethical choice (no patent, enabling affordable distribution), Sabin's scientific innovation (oral vaccine improving accessibility), and the global eradication effort that built on both—connecting these choices explicitly to the disease's trajectory toward extinction. A covers only the US decline and only Salk's vaccine, missing both the ethical choice dimension and the global scope. C describes both vaccines without connecting them to the argument about near-eradication or ethical choices. D covers only the eradication initiative, omitting the prior scientific and ethical choices that enabled it."
+}

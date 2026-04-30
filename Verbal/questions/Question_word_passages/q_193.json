@@ -1,0 +1,16 @@
+{
+  "id": "q_193",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The economic historian Joel Mokyr has argued that the Industrial Revolution occurred in Britain rather than elsewhere partly because of an unusual cultural environment in which practical tinkerers and theoretical scientists occupied overlapping social worlds. In France and other Continental nations, natural philosophy was largely a pursuit of educated elites with little contact with artisans and mechanics. In Britain, by contrast, figures like James Watt consulted with university chemists, instrument makers exchanged ideas with natural philosophers, and improvement societies brought together industrialists and intellectuals. Mokyr calls this network the 'Industrial Enlightenment': a feedback loop in which scientific knowledge informed technological application and practical problems drove scientific inquiry.",
+  "question": "Based on the passage, what can most reasonably be inferred about the relationship between social stratification and technological innovation in this period?",
+  "choices": {
+    "A": "France's more rigid separation between intellectual elites and craftsmen may have limited the kind of knowledge transfer that contributed to Britain's industrial success.",
+    "B": "Britain's Industrial Revolution was primarily a consequence of its superior university system compared to those on the Continent.",
+    "C": "Scientific knowledge is always more effectively applied to industry in societies with low social stratification.",
+    "D": "Practical artisans in France were less skilled than their British counterparts during the eighteenth and nineteenth centuries."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contrasts Britain's overlapping social worlds of tinkerers and scientists with France's separation of natural philosophy from artisan practice, and credits the British integration with creating the 'Industrial Enlightenment' feedback loop. The reasonable inference is that France's social separation—which the passage implies was more rigid—may have prevented the knowledge-transfer mechanism that Britain exploited. A draws this inference directly and cautiously (using 'may have'). B overstates the argument; Mokyr's thesis is about social networks, not university superiority. C makes an overly broad universal claim ('always') that the passage does not support—the passage describes one historical case, not a universal principle. D makes a skill-level comparison about French artisans that the passage never suggests; France's failure is attributed to social separation, not artisan incompetence."
+}

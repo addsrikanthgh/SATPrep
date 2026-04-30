@@ -1,0 +1,16 @@
+{
+  "id": "q_938",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The researchers analyzed the soil samples carefully, ______ each sample with both chemical and microscopic techniques.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "examining",
+    "B": "examined",
+    "C": "they examined",
+    "D": "to examine"
+  },
+  "correct_answer": "A",
+  "explanation": "'Examining' is a present participle that forms a participial phrase modifying 'the researchers'—it describes the manner or method of their careful analysis. 'Carefully examining each sample with both techniques' flows naturally as a participial modifier. 'Examined' would create a second independent verb, requiring a conjunction to join it to the first clause—without 'and,' it creates a comma splice. 'They examined' creates a full independent clause separated by only a comma, also a comma splice. 'To examine' is an infinitive of purpose, which would imply they analyzed the samples in order to examine them—redundant and awkward."
+}

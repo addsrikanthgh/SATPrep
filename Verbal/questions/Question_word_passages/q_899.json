@@ -1,0 +1,16 @@
+{
+  "id": "q_899",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Volcanic eruptions can affect climate on a global scale when they inject sulfur dioxide into the stratosphere, where it reacts with water vapor to form sulfate aerosols. These aerosols reflect sunlight back into space, temporarily cooling Earth's surface. The 1815 eruption of Mount Tambora in Indonesia was so large that it produced the 'Year Without a Summer' in 1816, causing widespread crop failures in North America and Europe. Smaller eruptions typically have short-lived effects, as the aerosols settle out of the atmosphere within one to three years. Scientists monitor stratospheric aerosol levels to assess the potential climate impact of current volcanic activity.",
+  "question": "According to the passage, how do volcanic eruptions cause global cooling?",
+  "choices": {
+    "A": "By releasing carbon dioxide into the atmosphere, which traps heat and destabilizes temperature patterns",
+    "B": "By injecting sulfur dioxide into the stratosphere, where it forms aerosols that reflect sunlight back into space",
+    "C": "By producing large ash clouds that block the sun for decades before eventually settling",
+    "D": "By releasing heat from Earth's interior directly into the lower atmosphere, disrupting normal weather patterns"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage directly states that eruptions 'inject sulfur dioxide into the stratosphere, where it reacts with water vapor to form sulfate aerosols,' and that these aerosols 'reflect sunlight back into space, temporarily cooling Earth's surface.' B accurately captures this mechanism. A describes the greenhouse gas warming effect of CO₂—the opposite of cooling and not attributed to eruptions in the passage. C incorrectly states ash blocks the sun for decades; the passage says aerosols settle within one to three years. D describes a heat release mechanism not mentioned in the passage."
+}

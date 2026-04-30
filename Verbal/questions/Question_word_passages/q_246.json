@@ -1,0 +1,16 @@
+{
+  "id": "q_246",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The senators' proposal to revise the tax code drew immediate criticism from the finance committee's chair.",
+  "question": "Which choice correctly explains the use of apostrophes in this sentence?",
+  "choices": {
+    "A": "Both apostrophes are incorrect; plural nouns do not use apostrophes to show possession.",
+    "B": "'senators'' indicates possession by multiple senators, and 'committee's' indicates possession by a single committee—both are correctly formed.",
+    "C": "'senators'' should be written as 'senator's' because only one senator can own a proposal.",
+    "D": "'committee's' should be written as 'committees'' because committees is a plural noun."
+  },
+  "correct_answer": "B",
+  "explanation": "'senators'' is the correct possessive form for a plural noun ending in s: the apostrophe is placed after the s (senators'). 'committee's' is the correct possessive form for a singular noun: the apostrophe and s are added (committee's). B correctly identifies both forms. A is incorrect; plural nouns do use apostrophes to show possession—the apostrophe is placed after the final s. C incorrectly assumes only one senator is involved; the plural form 'senators'' is appropriate when a proposal belongs to multiple senators. D is incorrect because 'committee' in context is singular (the finance committee), making 'committee's' the correct form."
+}

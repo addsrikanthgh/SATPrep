@@ -1,0 +1,16 @@
+{
+  "id": "q_286",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Honeybees communicate the location of food sources to their hive mates through a behavior known as the waggle dance. The duration of the waggle run indicates the distance to the food source, while the angle of the dance relative to vertical indicates direction. _______, a bee performing a waggle run at a 40-degree angle to the left of vertical is signaling that food lies 40 degrees to the left of the sun.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "To illustrate,",
+    "C": "As a result,",
+    "D": "In contrast,"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences describe how the waggle dance encodes information abstractly (duration = distance, angle = direction). The third sentence provides a concrete example applying those rules. 'To illustrate' (B) correctly signals that a specific example of the previously described principle follows. 'Nevertheless' (A) signals contrast or concession—inappropriate since the example is consistent with, not contrary to, the stated rules. 'As a result' (C) signals causation—the example is not a result caused by the abstract description. 'In contrast' (D) signals opposition—incorrect since the example confirms the rules."
+}

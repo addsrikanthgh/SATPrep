@@ -1,0 +1,16 @@
+{
+  "id": "q_831",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The new regulation required all food manufacturers to _______ the origins of their ingredients on packaging labels, allowing consumers to make more informed purchasing decisions.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "disclose",
+    "B": "fabricate",
+    "C": "suppress",
+    "D": "corroborate"
+  },
+  "correct_answer": "A",
+  "explanation": "'Disclose' means to reveal or make known—exactly what labeling requirements mandate. The regulation requires manufacturers to reveal ingredient origins to consumers, which is disclosure. 'Fabricate' means to invent or make up—the opposite of honest disclosure. 'Suppress' means to conceal or prevent from being known—directly contrary to the requirement to reveal. 'Corroborate' means to confirm or support with additional evidence—not applicable to labeling food origins."
+}

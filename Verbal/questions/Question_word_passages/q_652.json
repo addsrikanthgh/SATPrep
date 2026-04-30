@@ -1,0 +1,16 @@
+{
+  "id": "q_652",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Dr. Okafor's research, conducted over a decade in three West African countries _______ challenges long-held assumptions about disease transmission in tropical climates.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "countries,",
+    "B": "countries;",
+    "C": "countries:",
+    "D": "countries"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'conducted over a decade in three West African countries' is a participial phrase serving as a nonrestrictive appositive modifier of 'Dr. Okafor's research.' It is set off by commas: an opening comma after 'research' and a closing comma after 'countries' before the main verb 'challenges.' A correctly closes this nonrestrictive modifier. A semicolon (B) or colon (C) would incorrectly interrupt the sentence before the verb. No punctuation (D) would leave the modifier improperly attached."
+}

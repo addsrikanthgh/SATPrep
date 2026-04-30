@@ -1,0 +1,16 @@
+{
+  "id": "q_287",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The printing press transformed European society not simply by making books cheaper and more available, but by standardizing written language. Before Gutenberg, regional dialects and scribal variations meant that a document produced in one part of Europe might be nearly unreadable in another. _______, printed books demanded uniform spelling, grammar, and vocabulary, which gradually imposed a standard form on written language across entire nations.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "In contrast,",
+    "B": "Even so,",
+    "C": "For example,",
+    "D": "Printing,"
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contrasts the pre-press situation (regional variation rendering texts unreadable across regions) with the post-press situation (standardized spelling, grammar, and vocabulary). The transition introduces the contrasting result. 'In contrast' (A) correctly signals the opposing shift from pre-press chaos to printed standardization. 'Even so' (B) signals concession—it would suggest that despite the regional variation, standardization happened anyway, but the passage frames printing as the agent of change, not a concession. 'For example' (C) would suggest the printed books example illustrates the preceding point, but the passage is shifting from problem to solution, not giving an example of variation. 'Printing' (D) is a noun, not a transition; it does not signal a logical relationship between the sentences."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_123",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Critics initially dismissed Emily Dickinson's poetry as eccentric and unpublishable. Her unconventional use of dashes, slant rhyme, and capitalization struck nineteenth-century editors as signs of technical incompetence rather than deliberate artistry. After her death, Thomas Wentworth Higginson co-edited a posthumous collection, but even he 'corrected' many of her poems to match conventional expectations. Only in the twentieth century, when scholars began working from her original manuscripts, did readers recognize that Dickinson's deviations were intentional and sophisticated—a systematic poetic language rather than a series of errors.",
+  "question": "The structure of the passage is best described as",
+  "choices": {
+    "A": "a chronological account of Dickinson's career, from her early publications to her posthumous fame.",
+    "B": "a contrast between the judgment of Dickinson's contemporaries and the evaluation of later scholars.",
+    "C": "an argument that Thomas Higginson was primarily responsible for distorting Dickinson's literary legacy.",
+    "D": "an explanation of how Dickinson developed her unconventional poetic techniques over the course of her lifetime."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage moves from the dismissal by Dickinson's contemporaries (eccentric, technically incompetent, requiring correction) to the twentieth-century scholarly recognition that her unconventional choices were deliberate and sophisticated. The structure is fundamentally contrastive—then versus now, misreading versus correct understanding (B). A is incorrect because the passage focuses on reception history, not Dickinson's career as a writer, and she never published during her lifetime. C overstates Higginson's role; he is one example within a broader pattern of misreading. D is incorrect; the passage describes how readers misunderstood her techniques, not how she developed them."
+}

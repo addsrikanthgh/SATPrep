@@ -1,0 +1,16 @@
+{
+  "id": "q_243",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The children's museum opened its new wing last Saturday and more than two thousand visitors attended the inaugural event.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "Insert a comma after 'Saturday' to separate two independent clauses joined without a coordinating conjunction.",
+    "B": "Insert a comma after 'Saturday' and add the coordinating conjunction 'and' before 'more'—but this would create a run-on sentence.",
+    "C": "No edit is necessary; the sentence is correct as written because it contains only one independent clause.",
+    "D": "Replace the word 'and' with a semicolon to properly join two independent clauses."
+  },
+  "correct_answer": "D",
+  "explanation": "The sentence contains two independent clauses: 'The children's museum opened its new wing last Saturday' and 'more than two thousand visitors attended the inaugural event.' These two clauses are joined only by the coordinating conjunction 'and' without a comma before it, and without a comma the sentence is a run-on. One correct fix is to insert a comma before 'and.' Another equally valid approach is to replace 'and' with a semicolon. D proposes the semicolon solution, which is correct for joining two closely related independent clauses. A correctly identifies the problem (missing separator) but proposes inserting a comma without adding a conjunction—a comma alone between two independent clauses would create a comma splice. C is incorrect because the sentence does contain two independent clauses. B contradicts itself within the answer choice."
+}

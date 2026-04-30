@@ -1,0 +1,16 @@
+{
+  "id": "q_152",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The committee's report, along with the supplementary annexes prepared by each subgroup, ___ submitted to the board of directors before the quarterly deadline.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "have been",
+    "D": "are"
+  },
+  "correct_answer": "B",
+  "explanation": "The grammatical subject is 'The committee's report' (singular). The phrase 'along with the supplementary annexes prepared by each subgroup' is a prepositional phrase that modifies the subject but does not change its number—'along with' is not a coordinating conjunction and does not create a compound subject. Therefore, the singular past-tense verb 'was' (B) is correct. 'Were' (A) incorrectly treats the compound-sounding phrase as a plural subject. 'Have been' (C) uses the present perfect, which is inconsistent with the implied past context established by 'before the quarterly deadline' as a completed event. 'Are' (D) uses the present tense, which is also inconsistent with the past context."
+}

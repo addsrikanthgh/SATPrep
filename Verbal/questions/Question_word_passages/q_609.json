@@ -1,0 +1,16 @@
+{
+  "id": "q_609",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A clinical psychologist published findings suggesting that an eight-week mindfulness meditation program significantly reduces cortisol levels—a biological marker of stress—in participants with chronic work-related stress. The psychologist argued this demonstrated a direct physiological mechanism linking meditation practice to stress reduction.",
+  "question": "Which finding, if true, would most directly weaken the psychologist's argument about a direct physiological mechanism?",
+  "choices": {
+    "A": "Participants who completed the meditation program also reported taking more vacation days and exercising more frequently during the eight-week study period.",
+    "B": "Cortisol levels in the meditation group were significantly lower after the program than before it began.",
+    "C": "The mindfulness program was developed by certified instructors with more than ten years of teaching experience.",
+    "D": "Participants who dropped out of the meditation program midway showed no significant change in cortisol levels."
+  },
+  "correct_answer": "A",
+  "explanation": "The psychologist claims meditation directly reduces cortisol through a physiological mechanism. A weakens this by introducing confounding variables—participants also exercised more and took vacations, either of which could have reduced cortisol independently of meditation. This means the cortisol reduction cannot be attributed specifically to meditation. B supports the cortisol reduction finding. C speaks to program quality but not the mechanism. D is consistent with the hypothesis (those who didn't meditate didn't improve) but doesn't address the confounding variable problem."
+}

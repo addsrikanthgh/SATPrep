@@ -1,0 +1,16 @@
+{
+  "id": "q_278",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "The monarch butterfly undertakes one of the most remarkable migrations in the animal kingdom, traveling up to 4,500 kilometers from northern North America to overwintering sites in the oyamel fir forests of central Mexico. No individual butterfly completes a round trip; the southward migration is completed by one generation, and the return northward journey is undertaken by two or three subsequent generations that have never experienced the migration route before. How the butterflies navigate—using a time-compensated sun compass and possibly Earth's magnetic field—remains an active area of research.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The monarch butterfly migration is a multi-generational phenomenon of remarkable distance whose navigational mechanisms are not yet fully understood.",
+    "B": "Monarch butterflies use Earth's magnetic field as their primary navigation tool during migration.",
+    "C": "The monarch butterfly migration is the longest migration of any insect, exceeding those of birds and mammals.",
+    "D": "Monarch butterfly populations are declining because overwintering sites in Mexico are being destroyed."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage covers three aspects of monarch migration: the remarkable distance (up to 4,500 km), the multi-generational nature of the round trip, and the still-incompletely-understood navigation mechanisms. A synthesizes all three. B overstates one detail—the passage says magnetic field navigation is possible but still under research, not that it is the primary mechanism. C makes a comparative claim about the length of the migration relative to birds and mammals that the passage does not make. D introduces a conservation concern about habitat destruction that does not appear anywhere in the passage."
+}

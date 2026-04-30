@@ -1,0 +1,16 @@
+{
+  "id": "q_256",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The study examined three variables: population density, resource availability, and the degree—quantified using a newly developed index—to which local governance structures supported cooperative behavior.",
+  "question": "Which choice correctly explains the punctuation of this sentence?",
+  "choices": {
+    "A": "The colon after 'variables' is incorrect because the list contains items of unequal length.",
+    "B": "The dashes around 'quantified using a newly developed index' are incorrect because quantifying phrases must be enclosed in parentheses, not dashes.",
+    "C": "The colon correctly introduces a three-item list, and the dashes enclose a nonessential parenthetical phrase within the third list item—preventing ambiguity that would arise from using commas inside an already comma-separated list.",
+    "D": "The colon should be replaced with a dash since the sentence uses dashes elsewhere."
+  },
+  "correct_answer": "C",
+  "explanation": "The colon correctly follows a complete independent clause ('The study examined three variables') and introduces the list. The third list item is long and contains an embedded explanatory phrase ('quantified using a newly developed index'). Because the list items are already separated by commas, using additional commas to enclose this phrase would create confusion about list boundaries. Dashes provide an unambiguous enclosure within the third item. C correctly identifies both punctuation strategies and explains the rationale for the dashes. A introduces a fabricated rule—list items may vary in length. B is incorrect; dashes, parentheses, and commas are all acceptable for enclosing parenthetical phrases; context determines which is clearest. D is incorrect; punctuation choices within a sentence should be based on grammatical function and clarity, not consistency of mark type."
+}

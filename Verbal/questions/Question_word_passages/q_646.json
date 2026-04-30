@@ -1,0 +1,16 @@
+{
+  "id": "q_646",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The expedition included a geologist, a botanist _______ who had previously mapped three uncharted rivers, and a photographer documenting the journey.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "botanist,",
+    "B": "botanist;",
+    "C": "botanist:",
+    "D": "botanist—"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'who had previously mapped three uncharted rivers' is a nonrestrictive relative clause modifying 'botanist.' It should be set off by commas. The sentence already has a comma before 'botanist' (after 'geologist') as part of the list, and the relative clause needs a comma after 'botanist' to open the nonrestrictive element. A comma (A) correctly opens this embedded nonrestrictive clause. Semicolons, colons, and em dashes are all incorrect for setting off a relative clause in the middle of a list."
+}

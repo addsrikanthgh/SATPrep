@@ -1,0 +1,16 @@
+{
+  "id": "q_258",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The professor asked whether the students had completed the pre-reading; they had not.",
+  "question": "Which choice correctly explains the punctuation of this sentence?",
+  "choices": {
+    "A": "The semicolon is incorrect because the second part of the sentence ('they had not') is too short to be an independent clause.",
+    "B": "The semicolon correctly joins two independent clauses: the first states what the professor asked, and the second provides a brief but complete answer.",
+    "C": "A colon should replace the semicolon because the second clause explains the situation described in the first.",
+    "D": "The semicolon should be replaced with a comma and the conjunction 'but' to properly signal the contrast between the two clauses."
+  },
+  "correct_answer": "B",
+  "explanation": "'The professor asked whether the students had completed the pre-reading' and 'they had not' are both complete independent clauses—each has a subject and verb and can stand alone. A semicolon correctly joins two independent clauses that are closely related in meaning, regardless of the length of either clause. B accurately identifies this. A is incorrect because the length of a clause does not determine whether it qualifies as independent; 'they had not' is a grammatically complete clause. C is incorrect; a colon signals that what follows elaborates on or explains what precedes, but here the two clauses are in a parallel or contrasting relationship—a semicolon is more appropriate. D is a valid alternative construction but incorrectly implies the current sentence is wrong."
+}

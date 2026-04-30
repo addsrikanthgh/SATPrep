@@ -1,0 +1,16 @@
+{
+  "id": "q_826",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The architect's design for the new library was lauded for its _______ use of natural light: strategically placed skylights and east-facing windows ensured that reading areas were bright throughout the day without excessive heat gain.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "judicious",
+    "B": "indiscriminate",
+    "C": "ostentatious",
+    "D": "perfunctory"
+  },
+  "correct_answer": "A",
+  "explanation": "'Judicious' means showing good judgment and careful consideration—precisely what the strategic placement of skylights and windows to balance light and heat demonstrates. 'Indiscriminate' means done without careful thought or selection—the opposite of strategic placement. 'Ostentatious' means intended to impress and attract notice—the sentence focuses on function and care, not display. 'Perfunctory' means carried out with minimal effort as a routine duty—also the opposite of the thoughtful, strategic design described."
+}

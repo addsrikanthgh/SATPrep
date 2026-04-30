@@ -1,0 +1,16 @@
+{
+  "id": "q_129",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a paper arguing that the New Deal fundamentally changed Americans' relationship with the federal government. While researching, the student finds the following information:\n\n- Social Security (1935) provided retirement income to elderly Americans for the first time.\n- The Federal Deposit Insurance Corporation (FDIC) insured bank deposits, reducing the risk of bank runs.\n- The Works Progress Administration (WPA) employed over 8 million Americans in public projects.\n- Before the New Deal, most Americans in economic hardship relied on private charity or family support rather than federal assistance.\n- Historian Alan Brinkley argues that the New Deal normalized the expectation that the federal government is responsible for citizens' basic economic security.",
+  "question": "Which sentence most effectively synthesizes the notes to support the student's argument?",
+  "choices": {
+    "A": "The New Deal introduced several programs, including Social Security, the FDIC, and the WPA, that provided economic support to millions of Americans during the Great Depression.",
+    "B": "Before the New Deal, Americans experiencing economic hardship typically depended on private charity or family support rather than any federal assistance.",
+    "C": "By creating programs such as Social Security, the FDIC, and the WPA, the New Deal established the federal government as a guarantor of citizens' economic welfare—a role it had not previously played and that Americans came to expect.",
+    "D": "Historian Alan Brinkley argues that the New Deal fundamentally changed the relationship between American citizens and the federal government, a claim he supports by pointing to the creation of Social Security in 1935."
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument requires both a description of specific New Deal programs and an explicit articulation of how they transformed the citizen-government relationship. C integrates three programs (Social Security, FDIC, WPA) with the core argument—that the government assumed a new permanent role as economic guarantor that citizens came to expect—and implicitly draws on the pre-New Deal context (no such role previously existed). A lists programs but makes no argument about changed expectations or the citizen-government relationship. B describes the pre-New Deal context but does not demonstrate the transformation. D cites only one program and relies entirely on Brinkley's authority without weaving together the multiple pieces of evidence."
+}

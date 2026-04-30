@@ -1,0 +1,16 @@
+{
+  "id": "q_980",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Sociologist Erving Goffman proposed that social life resembles a theatrical performance—a metaphor he called 'dramaturgy.' Individuals manage the impressions they give to others through careful control of their 'front stage' behavior (what they present in social settings) versus 'back stage' behavior (how they act when not being observed). This self-presentation is not hypocritical, Goffman argued; it is simply how social interaction is structured. Critics have challenged the framework on several grounds: that it overstates strategic calculation and understates genuine emotion, and that it ignores structural power inequalities that constrain how much 'impression management' is available to individuals across different social positions.",
+  "question": "The author's discussion of criticisms of Goffman's theory primarily serves to",
+  "choices": {
+    "A": "refute Goffman's dramaturgical framework and replace it with a superior alternative.",
+    "B": "note the limits of the dramaturgical framework by presenting challenges that identify what it may overlook.",
+    "C": "support Goffman's theory by showing that critics have failed to understand his original argument.",
+    "D": "explain how Goffman himself responded to academic criticism of his work."
+  },
+  "correct_answer": "B",
+  "explanation": "After presenting Goffman's theory, the passage introduces critics who argue it overstates strategic calculation, understates genuine emotion, and ignores structural power differences. These criticisms are presented as limits or gaps in the framework, not as reasons to wholly reject it. B correctly identifies this purpose: noting limits through challenges. A implies the framework is refuted and replaced, but the passage does not propose an alternative. C implies the criticism section is used to support Goffman, when in fact the critics raise genuine concerns about gaps. D implies Goffman's personal response is discussed, which it is not."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_651",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The treaty was signed by three nations _______ France, Germany, and the Netherlands.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "nations:",
+    "B": "nations,",
+    "C": "nations;",
+    "D": "nations—"
+  },
+  "correct_answer": "A",
+  "explanation": "A colon is used after a complete independent clause to introduce a list, restatement, or explanation. 'The treaty was signed by three nations' is a complete clause, and the list that follows identifies those nations. Both a colon (A) and an em dash (D) are acceptable punctuation to introduce such a list; however, a colon is the more formal and conventional choice. A comma (B) is too weak and creates an ambiguous structure. A semicolon (C) joins independent clauses and is incorrect before a list."
+}

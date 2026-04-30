@@ -1,0 +1,16 @@
+{
+  "id": "q_967",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The history of the periodic table is a story of pattern recognition before theory. Dmitri Mendeleev, working in 1869 before the discovery of the electron, the proton, or atomic structure, noticed that when elements were arranged by increasing atomic weight, their properties repeated in a regular pattern. He arranged them in a table and, crucially, left gaps for elements he predicted must exist but had not yet been discovered. When three of those elements—gallium, scandium, and germanium—were later discovered with properties closely matching his predictions, Mendeleev's arrangement was vindicated and accepted as a foundational framework of chemistry.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A scientist's mistake is described, followed by the corrections that later researchers made to his work.",
+    "B": "A scientific achievement is presented and then explained by examining the reasoning and evidence behind it.",
+    "C": "A discovery is described, its critics are introduced, and their objections are addressed.",
+    "D": "Two competing approaches to organizing chemical elements are compared and one is declared superior."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents Mendeleev's achievement (the periodic table) and then explains the reasoning behind it (pattern recognition by atomic weight, leaving gaps, making predictions) and the evidence that vindicated it (discovery of predicted elements). This follows a structure of presenting an achievement and then explaining its basis. B correctly identifies this. A is incorrect—no mistake is described. C is incorrect—no critics or objections are presented. D is incorrect—only one approach (Mendeleev's) is described; no competing approach is introduced."
+}

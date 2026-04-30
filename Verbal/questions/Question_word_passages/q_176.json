@@ -1,0 +1,16 @@
+{
+  "id": "q_176",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "For most of the twentieth century, the dominant model of schizophrenia focused almost exclusively on the dopamine hypothesis: the idea that excessive dopamine activity in certain brain circuits was responsible for the disorder's positive symptoms—hallucinations, delusions, and disorganized thought. This hypothesis drew support from the observation that drugs blocking dopamine receptors reduced positive symptoms, and that dopamine-enhancing drugs like amphetamines could induce psychosis in healthy individuals. Yet this model proved incomplete. It explained positive symptoms but offered little insight into the negative symptoms—flat affect, social withdrawal, and poverty of speech—and cognitive impairments that profoundly affect patients' quality of life, and for which dopamine-blocking medications provide almost no relief.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The dopamine hypothesis of schizophrenia has been entirely discredited and must be replaced by a new model of the disorder.",
+    "B": "Dopamine-blocking medications are ineffective treatments for schizophrenia and should be abandoned in clinical practice.",
+    "C": "Although the dopamine hypothesis explains certain symptoms of schizophrenia, it is insufficient to account for the full range of the disorder's manifestations.",
+    "D": "Schizophrenia is caused by multiple interacting neurotransmitter systems, of which dopamine is only one component."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage presents the dopamine hypothesis, acknowledges its explanatory successes (positive symptoms), and then identifies its significant limitation: it cannot explain negative symptoms or cognitive impairments. C captures this balanced structure—partial explanatory success followed by insufficiency. A overstates the passage; it says the model proved 'incomplete,' not discredited. B is too strong and unsupported; the passage says medications provide 'almost no relief' for negative symptoms, not that they are ineffective overall. D makes a claim about multiple interacting neurotransmitter systems that goes beyond the passage, which only addresses the limitations of the dopamine-focused model."
+}

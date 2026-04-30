@@ -1,0 +1,16 @@
+{
+  "id": "q_216",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "Agricultural researchers conducted field trials across 60 plots to examine the relationship between genetic diversity (measured as the number of distinct cultivar varieties planted per plot) and resistance to a fungal pathogen. Plots with only 1 cultivar variety experienced an average crop loss of 38%. Plots with 2–3 varieties experienced 24% loss. Those with 4–5 varieties experienced 14% loss, and plots with more than 5 varieties experienced 6% loss. Additionally, the researchers found that fungal spread rate declined by an average of 4.2% for each additional variety introduced, regardless of which specific varieties were used.",
+  "question": "A crop scientist claims that increasing genetic diversity is an effective strategy for reducing pathogen damage and that this benefit holds even when different specific plant varieties are used. Which data from the field trial most directly supports both parts of this claim?",
+  "choices": {
+    "A": "Plots with more than 5 cultivar varieties experienced only 6% crop loss, the lowest of any group in the trial.",
+    "B": "The progressive decline in crop loss across all diversity levels (38%, 24%, 14%, 6%) and the consistent 4.2% reduction in fungal spread rate per additional variety—regardless of which specific varieties were used—together support both the effectiveness and generalizability of genetic diversity as a strategy.",
+    "C": "Plots with only 1 cultivar variety experienced the highest average crop loss, at 38%.",
+    "D": "Fungal spread rate declined by an average of 4.2% per additional variety, regardless of specific variety identity."
+  },
+  "correct_answer": "B",
+  "explanation": "The crop scientist's claim has two components: (1) greater genetic diversity reduces pathogen damage, and (2) the benefit generalizes across different specific varieties. B is the only choice that addresses both: it cites the declining crop loss pattern across all diversity levels (supporting part 1) AND the consistent per-variety fungal spread rate reduction regardless of variety identity (supporting part 2). A and C each identify a single data point that supports part 1 but says nothing about the generalizability across specific variety combinations. D addresses generalizability only (part 2) without establishing the effectiveness pattern across diversity levels."
+}

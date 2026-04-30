@@ -1,0 +1,16 @@
+{
+  "id": "q_128",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A public health study tracked measles outbreaks across 15 school districts over a ten-year period. Districts where vaccination rates exceeded 95% experienced an average of 0.3 outbreaks per year. In districts where rates fell between 85% and 94%, the average rose to 2.1 outbreaks per year. Districts with vaccination rates below 85% averaged 6.8 outbreaks annually. The researchers noted that even a 10-percentage-point decline in vaccination rates—from above 95% to the 85–94% range—was associated with a sevenfold increase in average outbreak frequency.",
+  "question": "A school administrator claims that maintaining vaccination rates above 95% provides a substantially greater public health benefit than rates in the 85–94% range. Which data from the passage most directly supports this claim?",
+  "choices": {
+    "A": "Districts with vaccination rates below 85% averaged 6.8 outbreaks per year.",
+    "B": "The study tracked outbreaks across 15 school districts over a ten-year period.",
+    "C": "Districts above 95% averaged 0.3 outbreaks per year, compared to 2.1 outbreaks per year in districts with rates between 85% and 94%.",
+    "D": "A 10-percentage-point decline in vaccination rates was associated with a sevenfold increase in average outbreak frequency."
+  },
+  "correct_answer": "C",
+  "explanation": "The administrator's claim requires a direct comparison between the two specific categories: above 95% and 85–94%. C provides exactly this comparison (0.3 versus 2.1 outbreaks per year), giving concrete numbers for both groups that the administrator is contrasting. A compares a different, lower category (below 85%) and is irrelevant to the specific comparison being made. B provides only methodological information, not comparative data. D describes the sevenfold increase between the same two categories but expresses it as a rate of change rather than the specific per-year figures that most directly support the administrator's comparison."
+}

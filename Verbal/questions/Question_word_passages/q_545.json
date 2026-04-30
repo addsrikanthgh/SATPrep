@@ -1,0 +1,16 @@
+{
+  "id": "q_545",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "During the decade following the 2008 financial crisis, central banks in the United States, Europe, and Japan held interest rates near zero and purchased trillions of dollars of government bonds in programs called quantitative easing. The stated goal was to stimulate economic growth and prevent deflation. Critics argued that these policies primarily inflated the prices of financial assets—stocks, bonds, and real estate—which are disproportionately held by wealthier households, and therefore widened the wealth gap rather than broadly supporting the economy.",
+  "question": "Based on the passage, what can most reasonably be inferred about the effect of post-2008 monetary policies on wealth inequality?",
+  "choices": {
+    "A": "These policies were specifically designed by central banks to increase wealth inequality.",
+    "B": "If critics are correct, these policies may have benefited wealthier households more than lower-income ones, despite their stated goal of broad economic stimulus.",
+    "C": "These policies eliminated wealth inequality by ensuring that all households had access to low-interest loans.",
+    "D": "Critics agreed with central banks that quantitative easing was the most effective tool available for reducing poverty."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents the critics' argument: that asset price inflation from these policies primarily benefited wealthier asset-holders, widening the wealth gap rather than broadly stimulating the economy. B correctly frames this as a conditional inference (if critics are correct) based on the passage's presentation of the critique. A overstates and misrepresents—the passage says the stated goal was broad stimulus, not increasing inequality. C directly contradicts the critics' argument presented in the passage. D is backwards—the passage contrasts the central banks' stated goals with the critics' view; the critics did not agree with central banks."
+}

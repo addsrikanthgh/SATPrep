@@ -1,0 +1,16 @@
+{
+  "id": "q_598",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the history of antibiotics. The student wants to explain the discovery of penicillin and emphasize why it was a turning point in medicine. The student has gathered the following notes:\n- Alexander Fleming discovered penicillin in 1928 when he noticed that mold (Penicillium notatum) contaminating a petri dish had killed the surrounding bacteria.\n- Fleming published his findings but did not develop the discovery into a usable medicine; the drug was not widely used until Howard Florey and Ernst Chain refined the purification process in the early 1940s.\n- Before antibiotics, bacterial infections such as pneumonia, scarlet fever, and infected wounds were leading causes of death.\n- During World War II, penicillin was mass-produced and used to treat infected soldiers, dramatically reducing wartime death from infection.\n- Fleming, Florey, and Chain shared the Nobel Prize in Physiology or Medicine in 1945.",
+  "question": "Which choice most effectively uses the notes to explain the discovery of penicillin and emphasize why it was a turning point in medicine?",
+  "choices": {
+    "A": "Alexander Fleming, Howard Florey, and Ernst Chain shared the Nobel Prize in Physiology or Medicine in 1945 for their contributions to the development of penicillin.",
+    "B": "Alexander Fleming discovered penicillin in 1928 by observing that mold had killed surrounding bacteria; the subsequent development of penicillin into a widely usable treatment marked a turning point in medicine—transforming bacterial infections that had been leading causes of death into treatable conditions.",
+    "C": "Because Fleming did not develop penicillin into a usable drug, credit for its practical application belongs primarily to Howard Florey and Ernst Chain, who refined the purification process in the 1940s.",
+    "D": "During World War II, mass production of penicillin allowed the drug to be used at scale to treat soldiers' infections, demonstrating the practical value of wartime investment in medical research."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain the discovery AND emphasize why it was a turning point in medicine. B covers the discovery (Fleming's observation) and the historical significance (previously deadly bacterial infections became treatable). A focuses on the Nobel Prize without explaining either the discovery or the medical turning point. C focuses on credit allocation between Fleming and Florey/Chain, not on the turning point. D focuses on the wartime application without explaining what made penicillin transformative for medicine broadly."
+}

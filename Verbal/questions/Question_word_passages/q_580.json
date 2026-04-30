@@ -1,0 +1,16 @@
+{
+  "id": "q_580",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "In the early twentieth century, the Harlem Renaissance transformed American culture. Black writers, artists, musicians, and intellectuals converged on Harlem in New York City, producing a remarkable flowering of creative work that challenged prevailing stereotypes and articulated new visions of Black identity and dignity. Figures such as Langston Hughes, Zora Neale Hurston, and Claude McKay produced literature that drew on African American vernacular traditions while engaging with modernist aesthetics. Jazz and blues, rooted in African American musical heritage, reached new audiences and reshaped American popular music. The Renaissance also produced fierce internal debates—between those who believed art should serve political uplift and those who insisted on artistic freedom regardless of social function.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the Harlem Renaissance had no lasting impact on American culture because its artists were not recognized during their lifetimes",
+    "B": "describe the Harlem Renaissance as a period of cultural flourishing that transformed American art and identity while also encompassing internal debates",
+    "C": "compare the literary achievements of Langston Hughes and Zora Neale Hurston to determine which writer had the greater influence",
+    "D": "explain how jazz and blues became the dominant genres of American popular music during the twentieth century"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes the convergence of creative talent in Harlem, names key figures and their work, discusses the cross-genre impact (literature and music), and notes internal debates. B accurately captures this comprehensive descriptive purpose. A is directly contradicted—the passage calls the Renaissance 'remarkable' and describes transformative cultural impact. C is incorrect—Hughes and Hurston are listed as examples, not compared against each other. D is incorrect—the passage mentions jazz and blues reaching new audiences but does not claim they became the 'dominant genres.'"
+}

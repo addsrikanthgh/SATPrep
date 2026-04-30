@@ -1,0 +1,16 @@
+{
+  "id": "q_848",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The expedition's lead geologist ______ Dr. Priya Nair ______ had spent fifteen years studying volcanic rock formations before joining the team.",
+  "question": "Which choice correctly sets off the appositive naming the geologist?",
+  "choices": {
+    "A": "The expedition's lead geologist, Dr. Priya Nair, had spent fifteen years studying volcanic rock formations before joining the team.",
+    "B": "The expedition's lead geologist Dr. Priya Nair had spent fifteen years studying volcanic rock formations before joining the team.",
+    "C": "The expedition's lead geologist: Dr. Priya Nair, had spent fifteen years studying volcanic rock formations before joining the team.",
+    "D": "The expedition's lead geologist; Dr. Priya Nair; had spent fifteen years studying volcanic rock formations before joining the team."
+  },
+  "correct_answer": "A",
+  "explanation": "'Dr. Priya Nair' is an appositive renaming 'the expedition's lead geologist.' Nonrestrictive appositives are enclosed in commas: 'The expedition's lead geologist, Dr. Priya Nair, had...' A is correct. B omits the commas, treating the name as a restrictive identifier (used when needed to distinguish which one), but 'the expedition's lead geologist' already specifies a unique individual, so the name is nonrestrictive and needs commas. C uses a colon before the name, which introduces an elaboration—incorrect for an appositive that continues the sentence. D uses semicolons, which would be used between independent clauses, not to set off an appositive noun phrase."
+}

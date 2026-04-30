@@ -1,0 +1,16 @@
+{
+  "id": "q_413",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "Archaeologists excavating a 4,000-year-old site in the Indus Valley discovered a collection of artifacts including standardized weights, ruler fragments marked with uniform measurement units, and warehouse seals suggesting centralized grain storage. The weights found at this site match those from other Indus Valley sites hundreds of miles away, with a standard error of less than 2%. Historical records from contemporary Mesopotamian civilizations mention trading partners to the east who insisted on verified weights for transactions.",
+  "question": "A historian argues that the Indus Valley Civilization had a degree of economic and administrative standardization comparable to major ancient civilizations. Which evidence from the passage best supports this argument?",
+  "choices": {
+    "A": "Standardized weights matching those at sites hundreds of miles away with less than 2% standard error, combined with uniform measurement units and centralized grain storage, suggests region-wide administrative coordination.",
+    "B": "Mesopotamian records mention trading partners to the east.",
+    "C": "The site is approximately 4,000 years old.",
+    "D": "Warehouse seals were found at the excavation site."
+  },
+  "correct_answer": "A",
+  "explanation": "A synthesizes three types of evidence: consistent weights across distant sites (2% error), uniform measurement units, and centralized storage—all pointing to region-wide administrative and economic standardization. This directly supports the comparison to major ancient civilizations. B mentions Mesopotamian records of eastern trading partners, which suggests international trade connections but says nothing about the Indus Valley's internal standardization. C is a date—context, not evidence of standardization. D notes the warehouse seals in isolation, which suggests centralization but omits the cross-site weight consistency that is the strongest evidence."
+}

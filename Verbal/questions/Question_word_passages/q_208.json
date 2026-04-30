@@ -1,0 +1,16 @@
+{
+  "id": "q_208",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An economic analysis examined changes in manufacturing employment in a mid-sized country over 15 years alongside changes in its trade balance. In years when the trade deficit widened by more than 2% of GDP, manufacturing employment fell by an average of 1.8%. In years when the deficit widened by 1–2% of GDP, manufacturing employment fell by 0.9%. In neutral years (trade balance change within ±1% of GDP), manufacturing employment changed by an average of +0.1%. In years when the trade surplus grew by 1–2% of GDP, manufacturing employment rose by 1.2%. The analysis also noted that in all deficit-widening years, domestic consumption of imported goods rose at least 4% above baseline.",
+  "question": "A government economist argues that widening trade deficits are associated with declining manufacturing employment. A critic, however, contends that the relationship may be driven by consumer behavior rather than the trade balance itself. Which data from the analysis most directly supports the critic's argument?",
+  "choices": {
+    "A": "Manufacturing employment fell by 1.8% in years with the largest trade deficit increases.",
+    "B": "In neutral years, manufacturing employment changed by only +0.1%, suggesting it is relatively stable absent trade imbalances.",
+    "C": "In all deficit-widening years, domestic consumption of imported goods rose at least 4% above baseline, suggesting that rising import consumption—not the trade balance figure itself—may be the actual driver of manufacturing decline.",
+    "D": "Manufacturing employment rose by 1.2% in years when the trade surplus grew by 1–2% of GDP."
+  },
+  "correct_answer": "C",
+  "explanation": "The critic argues that consumer behavior—specifically, increased purchase of imported goods—rather than the trade deficit figure, drives manufacturing decline. C is the only data point that introduces an alternative variable (consumer import demand) that appeared in every deficit-widening year and could plausibly explain the employment drops independently of the trade deficit statistic. A supports the economist's original claim rather than the critic's. B describes a near-neutral scenario and does not implicate consumer behavior. D concerns surplus years, which is irrelevant to the critic's argument about deficit years."
+}

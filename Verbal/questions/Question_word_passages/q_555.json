@@ -1,0 +1,16 @@
+{
+  "id": "q_555",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "When James Lind conducted his famous 1747 scurvy trial aboard the HMS Salisbury, he divided twelve scurvy patients into six pairs and gave each pair a different dietary supplement while keeping their other conditions the same. The pair receiving oranges and lemons recovered dramatically within a week; the others showed little improvement. Lind had inadvertently performed one of the earliest controlled clinical experiments in medical history, but his finding was not widely adopted by the British Navy for nearly fifty years.",
+  "question": "Based on the passage, what can most reasonably be inferred about why the fifty-year delay in adopting Lind's finding is historically significant?",
+  "choices": {
+    "A": "It demonstrates that the British Navy was unaware of the problem of scurvy aboard ships.",
+    "B": "It illustrates that producing clear experimental evidence of a treatment's effectiveness does not guarantee its rapid adoption into medical or institutional practice.",
+    "C": "It shows that Lind's experimental design was too flawed to be taken seriously by naval authorities.",
+    "D": "It proves that citrus fruits were unavailable in Britain until the late eighteenth century."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents a case where a clearly effective treatment (citrus) was demonstrated experimentally but not adopted for fifty years. The most reasonable inference is that this gap illustrates a broader lesson about the disconnect between evidence and practice. B correctly captures this inference. A is contradicted—the fact that scurvy was sufficiently concerning to conduct a trial implies awareness of the problem. C is not supported—the passage describes Lind's trial as one of the earliest controlled experiments, implying it was reasonably designed. D is not supported—the passage provides no information about citrus availability."
+}

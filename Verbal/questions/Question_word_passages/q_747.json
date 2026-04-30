@@ -1,0 +1,16 @@
+{
+  "id": "q_747",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The Amazon River discharges approximately 20% of all the freshwater that enters the world's oceans. Its drainage basin covers roughly 40% of South America, and the river system supports an extraordinary concentration of biodiversity—an estimated 10% of all known species on Earth. The Amazon's forests also store vast quantities of carbon: deforestation in the region releases this stored carbon as CO₂, accelerating climate change. Some researchers warn that continued forest loss could push the Amazon past a 'tipping point,' after which the degraded ecosystem could shift from rainforest to dry savanna—a change that would be largely irreversible on human timescales.",
+  "question": "Based on the passage, what can most reasonably be inferred about the Amazon rainforest?",
+  "choices": {
+    "A": "Its loss would have consequences at both regional and global scales, affecting biodiversity, carbon storage, and regional climate.",
+    "B": "It is already past its tipping point and is in the process of converting to savanna.",
+    "C": "It provides freshwater resources primarily to local Amazonian communities rather than to the global hydrological system.",
+    "D": "The Amazon stores more carbon than any other ecosystem on Earth, making it uniquely important to global climate stability."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes the Amazon's global freshwater contribution, regional biodiversity, and global carbon storage, and warns of potentially irreversible tipping points. All of these imply that losing the Amazon would have consequences across multiple scales. A accurately synthesizes these implications. B overstates; the passage says researchers warn it 'could' reach a tipping point, not that it already has. C inverts the passage's framing; the 20% of global ocean freshwater figure implies a global, not just local, contribution. D adds a superlative ('more carbon than any other ecosystem') that the passage does not claim; it only says the Amazon stores 'vast quantities.'"
+}

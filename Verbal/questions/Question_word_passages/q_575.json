@@ -1,0 +1,16 @@
+{
+  "id": "q_575",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Solitary confinement—the practice of isolating prisoners in small cells with minimal human contact for 22 to 24 hours per day—is used in U.S. prisons and jails for purposes including punishment, protection of vulnerable inmates, and management of those considered dangerous. The practice has attracted growing criticism from psychologists, who document its severe effects on mental health: anxiety, hallucinations, hypersensitivity to stimuli, and, in some cases, psychosis. Supporters argue that it is sometimes necessary to protect staff and other inmates from the most dangerous individuals. Several states and countries have moved to restrict or eliminate solitary confinement in response to evidence of its harms, particularly for juveniles and the mentally ill.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It defines solitary confinement, presents evidence of its psychological harms and arguments in its defense, and notes the trend toward reform.",
+    "B": "It argues that solitary confinement must be completely eliminated in all correctional facilities immediately.",
+    "C": "It focuses exclusively on the mental health effects of solitary confinement without presenting any arguments in support of the practice.",
+    "D": "It traces the historical origins of solitary confinement in the early American penitentiary system."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage defines the practice, presents both the psychological harm evidence (critics) and the safety justification (supporters), and ends with the reform trend. A correctly identifies this balanced, multi-perspective organizational structure followed by a policy development note. B overstates—the passage presents both sides and does not advocate immediate elimination. C is incorrect—the passage explicitly presents supporters' arguments for the practice. D is incorrect—no historical origin account is given."
+}

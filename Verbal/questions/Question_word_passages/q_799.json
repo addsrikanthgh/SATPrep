@@ -1,0 +1,15 @@
+{
+  "id": "q_799",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "While researching a topic, a student has taken the following notes:\n- The Great Wall of China was built and rebuilt over many centuries, with major construction phases during the Qin (221–206 BCE), Han, and Ming (1368–1644 CE) dynasties.\n- The Ming dynasty wall stretches approximately 8,850 kilometers and is the most visible and best-preserved section today.\n- It was built primarily to defend against raids from nomadic peoples to the north, particularly the Xiongnu and later the Mongols.\n- Despite its scale, the wall was not always effective at stopping invasions—the Mongols conquered China from the north in 1279 without being significantly impeded by wall defenses.\n- The wall required hundreds of thousands of workers, including soldiers, peasants, and prisoners; many died during construction and are said to be buried within the wall itself.\n\nThe student wants to introduce the Great Wall and explain its original purpose. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Built over centuries by Chinese dynasties, the Great Wall was designed primarily to defend against raids from nomadic peoples to the north, with the most familiar section—nearly 8,850 kilometers—built during the Ming dynasty.",
+    "B": "The Great Wall required hundreds of thousands of workers, including soldiers, peasants, and prisoners, many of whom died during construction.",
+    "C": "Despite its scale, the Great Wall did not prevent the Mongols from conquering China in 1279.",
+    "D": "The Great Wall was built during three major phases: the Qin, Han, and Ming dynasties."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to introduce the Great Wall and explain its original purpose. A introduces the wall as a multi-century Chinese construction, explains its purpose (defending against nomadic raids), and identifies the most familiar section (Ming, ~8,850 km). It accomplishes both introduction and purpose explanation. B focuses only on the labor force and deaths—not the purpose. C presents a limitation of the wall without any introduction or purpose. D gives a chronological list of construction phases but no purpose."
+}

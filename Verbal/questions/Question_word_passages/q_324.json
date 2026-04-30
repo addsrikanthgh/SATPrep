@@ -1,0 +1,16 @@
+{
+  "id": "q_324",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "When the city council reviewed the budget proposal, each of the twelve members _______ asked to submit written comments before the vote.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject is 'each,' an indefinite pronoun that is always singular. The prepositional phrase 'of the twelve members' modifies 'each' but does not change its singular agreement. The sentence is in the past tense (the council 'reviewed'). 'Was' (B) is singular past—correct. 'Were' (A) is plural past—incorrect since 'each' takes a singular verb. 'Are' (C) is singular present—incorrect tense. 'Have been' (D) is present perfect—incorrect tense for a completed past event."
+}

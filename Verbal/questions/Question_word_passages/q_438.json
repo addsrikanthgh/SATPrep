@@ -1,0 +1,16 @@
+{
+  "id": "q_438",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The committee's recommendations were largely hortatory—exhorting administrators to pursue better outcomes and invoking principles of equity and transparency—but provided no mechanisms of enforcement or accountability to ensure those outcomes would actually be pursued.",
+  "question": "As used in the passage, 'hortatory' most nearly means",
+  "choices": {
+    "A": "relating to horticultural or gardening practices.",
+    "B": "intended to encourage or urge action; exhortative but not binding.",
+    "C": "legally binding and subject to judicial review.",
+    "D": "drafted in overly complex language to obscure meaning."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'hortatory' describes recommendations that exhort (urge, encourage) but have no enforcement mechanism—meaning they are advisory and motivational rather than binding. B captures this sense of exhortation without obligation. A confusingly suggests 'horticultural'—a different word entirely. C is the opposite: binding and enforceable. D introduces obscurity of language, not the mode of the recommendation."
+}

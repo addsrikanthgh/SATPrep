@@ -1,0 +1,16 @@
+{
+  "id": "q_776",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The wolf spider is a solitary hunter that does not spin webs to catch prey; instead, it chases prey down using speed and agility. Unlike most spiders, wolf spiders have excellent vision: their eight eyes are arranged in three rows, with the large middle row providing binocular depth perception. Females of many wolf spider species carry their egg sacs attached to their spinnerets—a behavior unusual among spiders—and after the eggs hatch, the spiderlings ride on their mother's abdomen for several days before dispersing. Wolf spiders are among the most common spiders in the world and are found on every continent except Antarctica.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "describe several distinctive characteristics of the wolf spider, including its hunting behavior, visual system, and parental care.",
+    "B": "argue that the wolf spider is the most evolutionarily successful spider species due to its wide geographic distribution.",
+    "C": "compare the hunting strategies of web-spinning spiders with those of wolf spiders in detail.",
+    "D": "explain why wolf spiders are dangerous to humans and how to avoid encounters with them."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes several notable wolf spider traits: solitary hunting without webs, excellent eight-eyed vision with binocular depth perception, egg sac attachment, maternal transport of spiderlings, and global distribution. A accurately identifies this descriptive, multi-characteristic purpose. B attributes an evaluative claim ('most evolutionarily successful') that the passage does not make; it only notes global distribution. C frames the passage as a detailed comparison, but web-spinning spiders are mentioned only briefly as a contrast. D introduces a danger-to-humans narrative that the passage does not address."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_923",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Neither the department chair nor the two committee members ______ available to review the application before the deadline.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "was",
+    "B": "were",
+    "C": "is",
+    "D": "has been"
+  },
+  "correct_answer": "B",
+  "explanation": "When 'neither...nor' connects subjects, the verb agrees with the subject closest to it (the 'nor' subject)—this is called the proximity rule. The subject closest to the verb is 'the two committee members,' which is plural. Therefore, the verb must be plural: 'were.' 'Was' is singular, which would only be correct if the nearer subject were singular. 'Is' is present tense singular—also incorrect. 'Has been' is singular perfect tense, also inconsistent."
+}

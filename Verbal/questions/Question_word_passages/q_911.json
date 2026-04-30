@@ -1,0 +1,16 @@
+{
+  "id": "q_911",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Critics of the Western literary canon have argued that the emphasis on a fixed set of European and American texts marginalizes writers from Africa, Asia, Latin America, and Indigenous traditions, and teaches students that literary excellence is defined by a narrow cultural tradition. The canon, these critics argue, is not a neutral reflection of literary quality but a product of institutional power that has historically excluded women, people of color, and non-Western writers.\n\nText 2: The debate over the canon too often assumes that inclusion is a zero-sum trade-off between excellence and representation. A richer approach recognizes that the Western tradition itself is internally diverse, contested, and self-critical—Shakespeare questioned social hierarchies, Dante challenged ecclesiastical authority, and Woolf dismantled narrative conventions rooted in patriarchal assumptions. Moreover, canonical texts provide a shared cultural vocabulary that enables cross-cultural dialogue precisely because they are widely read. The goal should be expansion of the literary conversation, not replacement of one fixed list with another.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the argument in Text 1?",
+  "choices": {
+    "A": "By arguing that the Western canon should not be changed because it represents universal literary values",
+    "B": "By agreeing that the canon is politically biased and should be entirely discarded",
+    "C": "By arguing that Text 1's framing of canon debates as a problem of power and exclusion is incomplete, and proposing expansion rather than replacement as a better goal",
+    "D": "By contending that diversity in literature harms the quality of the shared cultural vocabulary"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 does not reject Text 1's concern about exclusion but challenges its framing—the 'zero-sum trade-off' assumption and the implication that the canon should be replaced. Text 2 proposes expansion of the literary conversation and notes the internal diversity of the Western tradition itself. C correctly captures this as a partial challenge and reframing, not outright rejection. A misrepresents Text 2, which advocates expansion and acknowledges the validity of diversity concerns. B is the opposite—Text 2 advocates expansion, not discarding the canon. D inverts Text 2's argument, which sees diverse reading as enriching the shared cultural vocabulary."
+}

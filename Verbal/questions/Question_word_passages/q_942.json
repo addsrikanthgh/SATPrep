@@ -1,0 +1,16 @@
+{
+  "id": "q_942",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The chameleon's color-changing ability is commonly attributed to camouflage, but research has shown that color change serves primarily as a form of social communication. Male chameleons change colors rapidly during territorial disputes and courtship displays, with brighter patterns indicating dominance and receptivity. The specific wavelengths and patterns displayed are interpreted by other chameleons in precise ways, varying by species.",
+  "question": "Based on the passage, what can most reasonably be inferred about chameleon color change?",
+  "choices": {
+    "A": "Chameleons use color change exclusively to hide from predators.",
+    "B": "The popular understanding of chameleon color change as camouflage is incomplete or misleading.",
+    "C": "All chameleon species use identical color patterns to communicate dominance.",
+    "D": "Chameleons change color in response to temperature rather than social cues."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that color change is 'commonly attributed to camouflage' but 'serves primarily as a form of social communication.' This directly implies that the popular understanding—camouflage—is incomplete or misleading compared to what research shows. B is the most reasonable inference. A contradicts the passage, which states camouflage is not the primary function. C contradicts the passage, which notes patterns 'vary by species.' D introduces temperature as a cause—not mentioned in the passage."
+}

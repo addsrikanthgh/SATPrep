@@ -1,0 +1,16 @@
+{
+  "id": "q_537",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The editorial board praised the journalist for _______ meticulous fact-checking, which had prevented several potential errors from reaching print.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "their",
+    "B": "his or her",
+    "C": "its",
+    "D": "them"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent is 'the journalist'—a singular, gender-unspecified individual. Modern standard English accepts the singular 'their' as a gender-neutral possessive pronoun for an individual of unspecified gender. A is correct. B ('his or her') is grammatically correct but stylistically cumbersome, and on the SAT the singular 'their' is now accepted as the preferred modern standard. C ('its') is used for non-human entities, not people. D ('them') is an object pronoun, not a possessive, and is grammatically incorrect here."
+}

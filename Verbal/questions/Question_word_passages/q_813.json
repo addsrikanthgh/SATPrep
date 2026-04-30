@@ -1,0 +1,16 @@
+{
+  "id": "q_813",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A marine biologist argues that overfishing has disrupted marine ecosystems beyond just reducing fish populations, fundamentally altering the structure of food webs.",
+  "question": "Which evidence would most directly support the marine biologist's argument?",
+  "choices": {
+    "A": "'The removal of large predatory fish through commercial fishing in the northwest Atlantic led to an explosion in populations of smaller prey fish and invertebrates, which in turn stripped kelp beds and changed the physical structure of coastal habitats.'",
+    "B": "'Global fish catch peaked in the 1990s and has declined since then, despite increased fishing effort, indicating that many major fisheries are overfished.'",
+    "C": "'Aquaculture—the farming of fish in controlled environments—now supplies approximately half of all fish consumed globally, reducing pressure on wild fish populations.'",
+    "D": "'Commercial fisheries targeting cod in the Grand Banks collapsed in the early 1990s, leading to a moratorium on cod fishing that has been in effect for decades.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The biologist argues that overfishing alters food web structure, not just fish populations. A directly demonstrates this structural cascade: removal of large predators → prey fish and invertebrate population explosion → kelp habitat destruction. This is a food web restructuring effect extending well beyond fish population reduction. B shows declining catch (overfishing evidence) but focuses on fish populations, not food web structure. C addresses aquaculture—a response to overfishing, not evidence of food web disruption. D documents a specific fishery collapse but does not address food web effects."
+}

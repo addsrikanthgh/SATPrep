@@ -1,0 +1,16 @@
+{
+  "id": "q_358",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The passenger pigeon (Ectopistes migratorius) was once the most abundant bird in North America, with flocks so large they darkened the sky for hours as they passed overhead. Estimates suggest a population of three to five billion birds at the time of European contact. By the early twentieth century, the species was extinct. The primary drivers of this collapse were commercial hunting—flocks were shot en masse to supply urban markets—and wholesale deforestation of the eastern hardwood forests where the birds nested. The last known passenger pigeon, named Martha, died at the Cincinnati Zoo on September 1, 1914.",
+  "question": "Based on the passage, what can most reasonably be inferred about the relationship between the passenger pigeon's population size and its extinction?",
+  "choices": {
+    "A": "The species' enormous population made it immune to extinction by any means other than a major natural disaster.",
+    "B": "The species' abundance may have created a false sense of inexhaustibility that obscured the severity of the population decline until collapse was already underway.",
+    "C": "The passenger pigeon went extinct primarily because of disease, and hunting was a secondary factor.",
+    "D": "The bird's population had already been declining for centuries before European contact."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes a species with an almost unimaginable population (3–5 billion) collapsing to extinction within decades, driven by hunting and deforestation. The implicit inference is that the very abundance that characterized the species likely made it seem impossible to extinguish—an illusion that allowed hunting to continue unchecked until it was too late to reverse. B captures this reasonable inference about the perceptual trap created by apparent abundance. A directly contradicts the passage—the species was not immune; it went extinct. C misrepresents the passage, which identifies hunting and deforestation as the primary drivers, with no mention of disease. D contradicts the passage, which describes a population of 3–5 billion 'at the time of European contact.'"
+}

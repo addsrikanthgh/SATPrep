@@ -1,0 +1,16 @@
+{
+  "id": "q_602",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "Ecologists have long hypothesized that large-scale deforestation of the Amazon rainforest reduces local precipitation through the loss of transpiration—the process by which trees release water vapor into the atmosphere. Without the moisture cycling provided by dense forest cover, they argue, rainfall in deforested regions should decline noticeably over time.",
+  "question": "Which finding, if true, would most directly support the ecologists' hypothesis?",
+  "choices": {
+    "A": "Satellite data show that regions of the Amazon that experienced the most deforestation over the past 30 years also recorded the greatest reductions in annual rainfall.",
+    "B": "Deforested areas in the Amazon show higher average temperatures than areas with intact forest cover.",
+    "C": "Tree species in the Amazon rainforest vary significantly in the amount of water they release through transpiration.",
+    "D": "Rainfall in the Amazon basin is primarily driven by Atlantic moisture transport rather than local transpiration cycles."
+  },
+  "correct_answer": "A",
+  "explanation": "The hypothesis is that deforestation reduces local precipitation through loss of transpiration. A directly supports this by showing a correlation between the degree of deforestation and the reduction in rainfall. B supports a related but different point (temperature effects). C is about species variation and doesn't test the precipitation hypothesis. D actually undermines the hypothesis by attributing rainfall to Atlantic transport rather than local transpiration."
+}

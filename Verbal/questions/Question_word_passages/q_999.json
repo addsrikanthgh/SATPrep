@@ -1,0 +1,16 @@
+{
+  "id": "q_999",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching the economics of healthcare and has taken the following notes:\n- Healthcare markets differ from standard markets in several ways: patients often cannot evaluate quality before purchasing, insurance separates consumers from the cost of services, and emergency care cannot be deferred.\n- Economist Kenneth Arrow's 1963 paper 'Uncertainty and the Welfare Economics of Medical Care' identified these market failures as justifications for government intervention in healthcare.\n- 'Moral hazard' in health insurance refers to the tendency of insured individuals to use more healthcare services because they do not bear the full cost—a phenomenon that can drive up overall healthcare expenditures.\n- High administrative costs in multi-payer healthcare systems (such as the U.S.) have been estimated at 25–35% of total healthcare spending, compared to 12–15% in single-payer systems.\n- The United States spends approximately twice as much per capita on healthcare as peer high-income nations but has lower life expectancy on average.",
+  "question": "The student wants to use Arrow's argument to explain why healthcare is typically subject to government intervention. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "The United States spends approximately twice as much per capita on healthcare as other high-income nations but achieves lower life expectancy, suggesting that spending level alone does not determine health outcomes.",
+    "B": "Kenneth Arrow argued in 1963 that healthcare markets are riddled with failures—patients cannot assess quality, insurance separates consumers from costs, and emergencies eliminate consumer choice—that prevent efficient market outcomes and justify government intervention.",
+    "C": "Moral hazard in health insurance encourages insured patients to use more services than they otherwise would, contributing to higher overall healthcare expenditures.",
+    "D": "Administrative costs in multi-payer systems like the United States consume 25–35% of healthcare spending, far exceeding the 12–15% in single-payer systems."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to use Arrow's argument to explain why healthcare warrants government intervention. B directly names Arrow, cites his argument, and lists the specific market failures he identified (quality assessment, insurance separating consumers from costs, emergencies eliminating choice) as the justification for intervention. This is exactly what Arrow's 1963 paper argued. A addresses U.S. spending vs. outcomes—an interesting fact but unrelated to Arrow's argument. C describes moral hazard, which is relevant to healthcare economics but not Arrow's specific argument about market failures and government intervention. D addresses administrative cost comparisons, which is not Arrow's argument."
+}

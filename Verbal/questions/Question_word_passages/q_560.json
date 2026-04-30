@@ -1,0 +1,16 @@
+{
+  "id": "q_560",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The Reformation-era theologian John Calvin argued that all human beings, by nature corrupted by original sin, are incapable of choosing good without divine assistance (grace). God, according to Calvin, has predestined each person either to salvation or damnation, and this election is unconditional—not based on any foreseen virtue or merit in the individual. The doctrine provoked fierce controversy: critics argued that if God has already determined who will be saved, human moral effort and prayer are meaningless.",
+  "question": "Based on the passage, what can most reasonably be inferred about the critics' objection to Calvin's doctrine?",
+  "choices": {
+    "A": "Critics agreed with Calvin that original sin corrupts human nature but disagreed about whether God exists.",
+    "B": "Critics were concerned that predestination, if true, would undermine the rationale for moral behavior and religious practice, since outcomes would be determined regardless of human action.",
+    "C": "Critics argued that Calvin's doctrine was derived from non-Christian sources and was incompatible with any form of religious belief.",
+    "D": "Critics agreed that salvation was predestined but argued that damnation was not, allowing for universal salvation."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that critics argued 'if God has already determined who will be saved, human moral effort and prayer are meaningless.' B correctly infers the practical concern motivating the critics: if outcomes are predetermined, moral effort and religious practice lose their purpose. A is not supported—the passage does not discuss critics' views on original sin or God's existence. C is not supported—the passage does not say critics attacked the doctrine's origins. D is not supported and introduces a distinction the passage does not make."
+}

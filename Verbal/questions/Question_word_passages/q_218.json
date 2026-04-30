@@ -1,0 +1,16 @@
+{
+  "id": "q_218",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "Urban sociologists analyzed data from 30 metropolitan areas to examine the relationship between residential density (residents per square mile) and annual public transit ridership (trips per resident). Cities with densities below 2,000 residents per square mile averaged 18 transit trips per resident per year. Those with densities of 2,000–5,000 averaged 44 trips. Cities with densities of 5,000–10,000 averaged 89 trips, and cities above 10,000 residents per square mile averaged 162 trips per resident per year. The researchers noted that cities with extensive transit infrastructure investments showed higher ridership within every density category.",
+  "question": "A city planner argues that increasing urban density is likely to raise public transit ridership. Which data from the study most directly supports this argument?",
+  "choices": {
+    "A": "Cities with extensive transit infrastructure investments had higher ridership within every density category.",
+    "B": "Cities with densities above 10,000 residents per square mile averaged 162 transit trips per resident, the highest of any density category.",
+    "C": "Transit ridership increased progressively with each density category: 18, 44, 89, and 162 trips per resident per year.",
+    "D": "Cities with the lowest density (below 2,000 residents per square mile) averaged only 18 transit trips per resident annually."
+  },
+  "correct_answer": "C",
+  "explanation": "The planner's argument requires evidence of a consistent positive relationship between density and transit ridership across all levels. C explicitly describes the full increasing pattern across all four density categories, providing the most direct and complete support for the claim. B and D each cite only one data point (the highest and lowest density groups, respectively) and cannot alone establish a consistent density–ridership relationship. A introduces transit infrastructure investment as an additional factor but does not show the density–ridership relationship central to the planner's argument."
+}

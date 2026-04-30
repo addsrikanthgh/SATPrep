@@ -1,0 +1,16 @@
+{
+  "id": "q_412",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "An agricultural study compared organic and conventional farming methods across 40 paired farm plots with similar soils, climate, and crop types over eight years. Organic plots yielded approximately 19% less per acre on average than conventional plots, but they required 45% less energy input, used no synthetic pesticides, and maintained higher soil organic matter after eight years. During two drought years in the study period, the yield gap narrowed significantly: organic plots yielded only 9% less than conventional plots in those years.",
+  "question": "A farmer argues that organic farming becomes more competitive with conventional farming under drought conditions. Which data best supports this argument?",
+  "choices": {
+    "A": "During the two drought years, the organic-conventional yield gap narrowed from 19% to only 9%.",
+    "B": "Organic plots required 45% less energy input than conventional plots.",
+    "C": "Organic plots maintained higher soil organic matter after eight years.",
+    "D": "The study compared 40 paired farm plots over eight years."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly compares the yield gap under normal conditions (19%) versus drought conditions (9%), showing the gap narrows under drought—i.e., organic farming becomes more competitive. B and C show other advantages of organic farming (energy, soil health) but do not address drought conditions specifically. D describes study design—methodology."
+}

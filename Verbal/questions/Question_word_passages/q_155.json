@@ -1,0 +1,16 @@
+{
+  "id": "q_155",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "In her 1963 work The Feminine Mystique, Betty Friedan documented what she called 'the problem that has no name'—a pervasive but unarticulated dissatisfaction among educated American women who had devoted themselves to domestic roles. Friedan argued that postwar American culture had constructed an ideal of femininity centered entirely on marriage, motherhood, and homemaking, and that this ideal suppressed women's aspirations for education and professional achievement. She contended that women who conformed to this ideal often found their lives unfulfilling despite material comfort, a gap between expectation and lived experience that most could not publicly acknowledge.",
+  "question": "A student argues that Friedan believed social expectations, not individual failure, were responsible for women's dissatisfaction. Which quotation from the passage best supports this argument?",
+  "choices": {
+    "A": "\"a pervasive but unarticulated dissatisfaction among educated American women who had devoted themselves to domestic roles\"",
+    "B": "\"postwar American culture had constructed an ideal of femininity centered entirely on marriage, motherhood, and homemaking\"",
+    "C": "\"this ideal suppressed women's aspirations for education and professional achievement\"",
+    "D": "\"women who conformed to this ideal often found their lives unfulfilling despite material comfort\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument requires evidence that Friedan attributed women's dissatisfaction to social forces, not personal inadequacy. C directly assigns causal responsibility to a social ideal ('this ideal suppressed women's aspirations'), establishing an external societal mechanism as the cause of unfulfillment. B describes the construction of the ideal but stops short of asserting its causal effect on women's inner lives. A describes the phenomenon (dissatisfaction) but does not assign its cause. D describes the outcome (unfulfillment) but likewise does not explicitly identify the social ideal as responsible."
+}

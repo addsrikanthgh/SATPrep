@@ -1,0 +1,16 @@
+{
+  "id": "q_297",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The platypus is native to eastern Australia and Tasmania and is one of only five surviving species of monotremes—mammals that lay eggs rather than giving birth to live young. The females lay small, leathery eggs and incubate them by curling around them. _______, unlike most mammals, the platypus has no nipples; instead, milk seeps through pores in the mother's skin, and the young lap it up from her fur.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "As a result,",
+    "B": "Similarly,",
+    "C": "Also unusually,",
+    "D": "Therefore,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes the egg-laying feature of the platypus as unusual. The sentence that follows introduces another unusual feature—the absence of nipples. Both features are unusual; the second is an additional oddity, not a contrast or consequence. 'Also unusually' (C) signals both addition ('also') and the same quality of being unusual ('unusually'), perfectly bridging from one surprising feature to another. 'As a result' (A) and 'Therefore' (D) both signal causation—the lack of nipples is not caused by egg-laying. 'Similarly' (B) signals similarity between two parallel features, but the text is presenting a separate, additional unusual feature rather than comparing two equivalent ones."
+}

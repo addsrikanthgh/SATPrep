@@ -1,0 +1,16 @@
+{
+  "id": "q_713",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: The ocean conveyor belt, also called the thermohaline circulation, is a global system of ocean currents driven by differences in water temperature and salinity. Cold, salty, dense water sinks at high latitudes, driving the movement of warmer surface water northward. This circulation distributes heat around the planet and plays a central role in regulating regional climates, including the relatively mild climate of northwestern Europe.\n\nText 2: Oceanographic data collected over the past two decades indicate that the Atlantic portion of the thermohaline circulation—sometimes called the AMOC—has weakened significantly compared to its state over the past millennium. Researchers attribute this weakening to an influx of cold, fresh meltwater from the Greenland ice sheet, which reduces the density difference that drives the circulation. If the AMOC were to collapse entirely, models suggest that temperatures in northwestern Europe could fall dramatically within decades.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 explains the mechanism of the thermohaline circulation; Text 2 describes evidence that this circulation is currently weakening with potentially severe regional consequences.",
+    "B": "Text 2 contradicts Text 1 by arguing that the thermohaline circulation has no significant effect on the climate of northwestern Europe.",
+    "C": "Text 2 introduces a new scientific concept, the AMOC, that replaces the thermohaline circulation model described in Text 1.",
+    "D": "Text 1 describes a theoretical model, while Text 2 concludes that the thermohaline circulation does not actually exist."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 explains how the thermohaline circulation works and why it matters for climate, particularly in northwestern Europe. Text 2 reports that the Atlantic portion of this circulation (AMOC) is weakening due to Greenland meltwater, and notes that a collapse could severely affect the region Text 1 highlighted. A accurately captures this progression: mechanism description followed by evidence of disruption and potential consequences. B contradicts Text 2, which affirms the climate connection to northwestern Europe as the reason a collapse would be severe. C misrepresents the relationship—AMOC is a component of the thermohaline circulation, not a replacement model. D contradicts both texts, which take the circulation's existence as established."
+}

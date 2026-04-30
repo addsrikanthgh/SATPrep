@@ -1,0 +1,16 @@
+{
+  "id": "q_376",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "In classical rhetoric, an 'aporia' is a moment in which a speaker professes uncertainty or poses a problem without immediately offering a solution—not as a genuine admission of ignorance but as a rhetorical strategy designed to draw the audience into collaborative reasoning. Socrates employed this technique systematically: by claiming to know nothing and asking his interlocutors to define virtue, justice, or piety, he induced them to construct and then dismantle their own positions. The effect was pedagogically powerful but socially threatening—as Athens eventually concluded, to its lasting infamy, by condemning Socrates to death.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A rhetorical term is defined, its classical use by Socrates is illustrated, and the consequences of that use are noted.",
+    "B": "Two competing definitions of aporia are compared and the author argues for one over the other.",
+    "C": "A chronological history of ancient Greek rhetoric is presented from its origins to its decline.",
+    "D": "A philosophical argument is constructed to prove that Socratic method is superior to all other pedagogical approaches."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage moves from definition (aporia as rhetorical strategy of professing uncertainty) to illustration (Socrates' use to deconstruct interlocutors' positions) to consequence (pedagogically powerful but socially threatening, leading to condemnation). A accurately describes this three-part structure. B describes a comparison of competing definitions—the passage provides one definition and does not argue between alternatives. C describes a broad history of Greek rhetoric—the passage focuses on one term and one figure. D claims the passage proves Socratic superiority over all other approaches—the passage describes the method but notes it was also 'socially threatening,' without making it a superiority argument."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_935",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "Running along the entire length of the ridge, ______ were visible even from the valley floor below.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "the ancient stone walls",
+    "B": "it was ancient stone walls",
+    "C": "there were ancient stone walls",
+    "D": "ancient stone walls, which"
+  },
+  "correct_answer": "A",
+  "explanation": "The introductory participial phrase 'Running along the entire length of the ridge' must have a logical subject at the beginning of the main clause—the subject that is 'running along the ridge.' 'The ancient stone walls' is the only choice that can logically serve as the subject performing or characterized by the action of running along the ridge. A correctly places 'the ancient stone walls' immediately after the participial phrase to avoid a dangling modifier. B creates a dangling modifier—'it' does not run along the ridge. C also creates a dangling modifier—'there' is an expletive, not the logical subject. D creates a relative clause but leaves no main verb for the sentence."
+}

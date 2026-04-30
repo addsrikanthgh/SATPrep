@@ -1,0 +1,16 @@
+{
+  "id": "q_590",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the history of vaccines. The student wants to explain how the smallpox vaccine was developed and why it was significant as a historical first. The student has gathered the following notes:\n- Edward Jenner developed the first smallpox vaccine in 1796 after observing that milkmaids who had contracted cowpox seemed to be immune to smallpox.\n- Jenner inoculated a boy with cowpox material and then deliberately exposed him to smallpox; the boy did not develop the disease.\n- Before Jenner's vaccine, smallpox killed approximately 400,000 Europeans per year and left many more disfigured or blind.\n- Jenner's method was the first to use a less dangerous related pathogen to confer immunity against a more dangerous one.\n- In 1980, the World Health Organization declared smallpox eradicated—the only human infectious disease to have been fully eradicated.",
+  "question": "Which choice most effectively uses the notes to explain how Jenner developed the smallpox vaccine and why it was historically significant?",
+  "choices": {
+    "A": "In 1980, the World Health Organization declared smallpox eradicated, marking the culmination of a centuries-long effort that began with Edward Jenner's vaccine.",
+    "B": "Edward Jenner developed the first smallpox vaccine in 1796 by observing that cowpox infection protected against smallpox—pioneering the method of using a harmless related pathogen to confer immunity, a foundational principle of vaccinology.",
+    "C": "Before Jenner's vaccine, smallpox killed approximately 400,000 Europeans each year and left many survivors with permanent disfigurement or blindness.",
+    "D": "Jenner's vaccine succeeded because he tested it by inoculating a boy with cowpox and then exposing him to smallpox, confirming that the boy had acquired immunity."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain how the vaccine was developed AND why it was historically significant. B covers both: it explains the mechanism of development (cowpox observation) and identifies why it was historically significant (first use of a related pathogen—foundational principle of vaccinology). A focuses on the end result (eradication) without explaining development. C describes pre-vaccine mortality—context, not the development or significance of the vaccine. D explains only the testing method, not the historical significance."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_659",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The keynote speaker, Dr. Amara Diallo _______ discussed recent advances in gene therapy and their implications for treating hereditary diseases.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "Diallo,",
+    "B": "Diallo;",
+    "C": "Diallo:",
+    "D": "Diallo"
+  },
+  "correct_answer": "A",
+  "explanation": "'Dr. Amara Diallo' is an appositive—a noun phrase that renames and identifies 'The keynote speaker.' Appositives are set off by commas when nonrestrictive (that is, when the noun they rename is already sufficiently identified). Here, 'The keynote speaker' needs 'Dr. Amara Diallo' to be specific, but the conventional treatment of a named appositive in this pattern uses commas. A comma (A) correctly closes the appositive before the verb 'discussed.' Semicolons and colons (B, C) are incorrect for closing an appositive. No punctuation (D) leaves the appositive without proper separation."
+}

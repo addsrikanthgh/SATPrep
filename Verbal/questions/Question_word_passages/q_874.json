@@ -1,0 +1,16 @@
+{
+  "id": "q_874",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Peer review is intended to ensure the quality and reliability of scientific publications by subjecting research to expert scrutiny before it is published. ______, several high-profile cases of fabricated data that passed through peer review have called into question whether the process is sufficient on its own.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "In addition",
+    "B": "Similarly",
+    "C": "Even so",
+    "D": "Accordingly"
+  },
+  "correct_answer": "C",
+  "explanation": "'Even so' signals a concessive contrast—even though peer review is designed to ensure quality, cases of fabricated data have still made it through, raising doubts. The transition acknowledges the validity of the first statement while introducing an undermining exception. 'In addition' adds a complementary point, but the second sentence challenges the adequacy of the first, not adds to it. 'Similarly' signals analogy or parallel, which is incorrect—the second sentence contrasts with the first. 'Accordingly' signals a consequence consistent with the first statement, but the second statement complicates, not confirms, the adequacy of peer review."
+}

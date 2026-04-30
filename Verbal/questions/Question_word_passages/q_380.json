@@ -1,0 +1,16 @@
+{
+  "id": "q_380",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The placebo effect—improvement in a patient's condition attributable to the expectation of treatment rather than any active ingredient—has long been dismissed as merely psychological, implying it is somehow less real than pharmacological effects. This dismissal is now understood to be mistaken. Placebo analgesia, for instance, triggers measurable release of endogenous opioids in the brain; brain-imaging studies have shown activity patterns in pain-processing regions that mirror those produced by actual painkillers. This does not mean placebos can replace effective treatments; rather, it means that the boundary between 'psychological' and 'pharmacological' is more permeable than classical medicine assumed, and that harnessing expectation may be a legitimate component of treatment design.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that placebos should replace all pharmaceutical pain treatments.",
+    "B": "challenge the dismissal of the placebo effect as 'merely psychological' by presenting neurobiological evidence of its reality, while qualifying that it is not a replacement for effective treatments.",
+    "C": "explain how the placebo effect was first discovered by researchers in clinical trials.",
+    "D": "compare the placebo effect across different types of medical conditions to determine where it is most powerful."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage challenges the 'merely psychological' dismissal with neurobiological evidence (endogenous opioids, brain-imaging studies), and then qualifies the conclusion: placebos are real but cannot 'replace effective treatments.' B captures both the challenge and the qualification accurately. A overstates—the passage explicitly states placebos cannot replace effective treatments. C describes a discovery history not present—the passage discusses mechanism, not how the effect was first discovered. D describes a cross-condition comparative study not present in the passage."
+}

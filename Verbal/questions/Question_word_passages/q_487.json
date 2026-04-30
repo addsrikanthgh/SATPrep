@@ -1,0 +1,16 @@
+{
+  "id": "q_487",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "When the Aswan High Dam was completed across the Nile River in Egypt in 1970, it was celebrated as an engineering triumph that would control devastating floods, generate hydroelectric power, and expand irrigated agriculture. These goals were largely achieved. However, the dam also blocked the annual flood that had deposited nutrient-rich silt across Egypt's farmlands for thousands of years. Farmers downstream now rely on synthetic fertilizers instead of natural silt, at significant cost. The dam also reduced the flow of sediment to the Nile Delta, which has begun to erode—a serious concern as rising sea levels threaten to inundate low-lying delta farmland.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "The Aswan High Dam was a complete engineering failure that caused more harm than good for Egypt.",
+    "B": "While the Aswan High Dam achieved its intended goals of flood control and power generation, it also produced significant unintended environmental consequences.",
+    "C": "The Aswan High Dam's most serious consequence was the replacement of natural silt with costly synthetic fertilizers.",
+    "D": "Engineering large dams inevitably causes more environmental damage than the benefits they provide."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage acknowledges the dam achieved its goals (flood control, power, irrigation expansion) and then describes the unintended consequences (loss of silt, fertilizer costs, delta erosion). B accurately represents this balanced presentation. A overstates the negative—the passage says the goals were 'largely achieved.' C is too narrow—it focuses on only one of the two negative consequences described. D is an overgeneralization not supported by the passage, which discusses only one dam."
+}

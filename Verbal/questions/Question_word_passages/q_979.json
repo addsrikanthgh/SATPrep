@@ -1,0 +1,16 @@
+{
+  "id": "q_979",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Black holes were predicted by general relativity long before any observational evidence confirmed their existence. Einstein's equations allowed solutions describing regions of spacetime where gravitational pull is so extreme that nothing—not even light—can escape beyond the event horizon. For decades many physicists, including Einstein himself, doubted that such objects could actually form in nature. Observations from the latter twentieth century, however, including the behavior of stars orbiting the galactic center and the detection of gravitational waves from merging black holes, provided strong evidence that black holes are real, common, and cosmologically important.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain Einstein's personal doubts about his own theory of general relativity.",
+    "B": "trace the development of the black hole concept from theoretical prediction to observational confirmation.",
+    "C": "argue that observational astronomy is more reliable than theoretical physics.",
+    "D": "describe the mathematical properties of solutions to Einstein's field equations."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage moves from theory (general relativity predicting black holes) through skepticism (including Einstein's doubt) to observational confirmation (galactic center stars, gravitational waves). This is a trace of the concept from prediction to confirmation. B correctly identifies this trajectory. A focuses on Einstein's doubts as the main subject, but his doubts appear only briefly as part of the historical arc. C implies a comparative argument about methods that the passage does not make. D implies a mathematical description that the passage does not provide."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_684",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "Gut microbiome research has revealed that the trillions of microorganisms inhabiting the human digestive tract play roles far beyond digestion. Studies have linked the composition of gut bacteria to immune system regulation, with some research suggesting that disruptions to microbial diversity in early childhood may increase susceptibility to autoimmune and allergic conditions in later life. More surprisingly, the gut-brain axis—a bidirectional communication network connecting the enteric nervous system to the central nervous system—means that gut microbiome composition may influence mood, cognition, and mental health. Preliminary findings in animal models suggest that certain probiotic strains can reduce anxiety-like behaviors, though translating these results to humans remains an active area of research with significant methodological challenges.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Research has shown that gut microbiome composition affects not only digestion but also immune function, and potentially mood and mental health, though human applications remain under investigation.",
+    "B": "The gut-brain axis is the most significant recent discovery in neuroscience, fundamentally changing how researchers understand the relationship between diet and mental illness.",
+    "C": "Disruptions to gut microbial diversity in early childhood are the primary cause of autoimmune disorders and allergic conditions in adolescents and adults.",
+    "D": "Probiotic supplements have been proven in human clinical trials to reduce anxiety, making them a viable alternative to conventional psychiatric medications."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage covers three areas of gut microbiome influence (digestion, immunity, and brain/mood) and notes that human applications of the probiotic findings are still being investigated. A correctly captures all three domains and the caveat about remaining research. B overclaims—the passage says the gut-brain axis is surprising and significant, but does not call it the most significant discovery in neuroscience. C uses absolute language ('primary cause') that the passage does not support—it says disruptions 'may increase susceptibility.' D misrepresents the evidence; the passage explicitly says the probiotic anxiety findings are from animal models and have not been translated to humans."
+}

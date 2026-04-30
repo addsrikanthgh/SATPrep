@@ -1,0 +1,16 @@
+{
+  "id": "q_264",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "For much of the twentieth century, economists modeled financial markets as efficient systems in which asset prices reflect all available information, making it impossible to consistently outperform the market through analysis or timing. The Efficient Market Hypothesis, as this framework is known, implied that market crashes and bubbles—events in which prices deviate dramatically from fundamental values—should not occur or should correct themselves almost immediately. The repeated occurrence of major financial crises, from the crash of 1987 to the dot-com bubble to the 2008 housing crisis, has forced economists to grapple with the model's limitations: real markets are subject to psychological biases, information asymmetries, and institutional incentive structures that the classical model cannot adequately explain.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The Efficient Market Hypothesis remains the most accurate framework for understanding financial markets despite occasional anomalies.",
+    "B": "The Efficient Market Hypothesis predicts that market crashes should not occur, which is why economists have largely abandoned it.",
+    "C": "The repeated occurrence of major financial crises has exposed significant limitations in the Efficient Market Hypothesis, which cannot account for the psychological and structural factors that drive real market behavior.",
+    "D": "Psychological biases are the single most important factor in explaining why financial markets fail to behave efficiently."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage presents the EMH, explains its prediction that crashes should not occur, and then describes the real-world crises that have revealed its limitations—attributing those limitations to psychological biases, information asymmetries, and institutional incentives. C accurately captures this arc. A contradicts the passage's direction—the passage highlights the model's limitations, not its ongoing accuracy. B overstates by claiming economists have 'largely abandoned' the EMH; the passage says they have been 'forced to grapple with' its limitations—a more nuanced position. D narrows the passage's conclusion to a single cause (psychological biases), ignoring the information asymmetries and institutional incentives also mentioned."
+}

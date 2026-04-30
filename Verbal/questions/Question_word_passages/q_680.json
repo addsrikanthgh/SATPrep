@@ -1,0 +1,16 @@
+{
+  "id": "q_680",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Proponents of universal basic income (UBI) argue that unconditional cash transfers would reduce poverty and expand individual autonomy by decoupling survival from employment. _______ fiscal conservatives counter that the cost of funding such transfers would require substantial tax increases or reallocation of funds from targeted welfare programs that currently serve the most vulnerable populations.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Critics, however,",
+    "B": "As a result,",
+    "C": "For instance,",
+    "D": "Furthermore,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence presents the proponents' case for UBI. The second presents the opposing view from fiscal conservatives who raise funding concerns. This is a direct contrast between two sides of a debate. 'Critics, however' (A) correctly introduces the opposing perspective and uses 'however' to signal the contrast between the two positions. 'As a result' (B) would imply the fiscal conservatives' objection is a consequence of the proponents' argument, which is illogical. 'For instance' (C) would introduce an example supporting the first claim, not a rebuttal. 'Furthermore' (D) would add a supporting point rather than introduce an opposing view."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_346",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The deep ocean floor was long assumed to be a featureless, lifeless plain—the last place scientists expected to find complex ecosystems. Early oceanographic expeditions brought up only scattered organisms from the deep, and researchers assumed that the crushing pressure, near-freezing temperatures, and total darkness precluded significant biological activity. It was only with the development of deep-sea submersibles in the latter half of the twentieth century that scientists could observe the seafloor directly, and what they found repeatedly overturned their predictions: dense communities of organisms around hydrothermal vents, cold seeps, and even whale fall sites.",
+  "question": "Based on the passage, what can most reasonably be inferred about the progress of deep-sea biology?",
+  "choices": {
+    "A": "Early researchers were correct that the deep ocean is largely lifeless, and only exceptional sites like hydrothermal vents support significant biology.",
+    "B": "Advances in observation technology played a central role in revising scientists' understanding of deep-sea ecosystems, revealing far greater biological complexity than indirect sampling had suggested.",
+    "C": "The development of submersibles was motivated primarily by military rather than scientific interests.",
+    "D": "Deep-sea ecosystems were well understood by the early twentieth century but remained poorly documented due to lack of funding."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage makes a clear causal argument: the previous assumption of lifelessness was based on inadequate observation methods (surface sampling), and direct observation via submersibles revealed complex communities. B correctly infers that technological advancement (submersibles) drove the paradigm shift in deep-sea biology. A directly contradicts the passage, which describes 'dense communities' at multiple types of sites. C introduces a military motivation claim not present in the passage. D contradicts the passage, which attributes the gap in understanding to inadequate technology, not funding."
+}

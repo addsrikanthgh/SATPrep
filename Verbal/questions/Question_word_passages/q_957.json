@@ -1,0 +1,16 @@
+{
+  "id": "q_957",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The practice of burning fossil fuels releases carbon dioxide and other greenhouse gases that have been stored underground for millions of years, adding them to the atmosphere at rates far exceeding natural carbon cycle processes. Natural processes such as weathering and ocean absorption do remove carbon dioxide from the atmosphere, but these operate on timescales of thousands to hundreds of thousands of years. The mismatch between the rapid rate of human emissions and the slow rate of natural removal means that elevated atmospheric carbon dioxide concentrations persist long after emissions occur.",
+  "question": "Based on the passage, what can most reasonably be inferred about the long-term effects of reducing fossil fuel emissions?",
+  "choices": {
+    "A": "Eliminating fossil fuel emissions today would rapidly return atmospheric carbon dioxide concentrations to pre-industrial levels within a few decades.",
+    "B": "Reducing fossil fuel emissions, while important, would not quickly reverse elevated carbon dioxide concentrations because natural removal processes are extremely slow.",
+    "C": "Natural carbon cycle processes are currently removing atmospheric carbon dioxide faster than humans are emitting it.",
+    "D": "Elevated carbon dioxide concentrations are temporary and will disappear naturally within a generation even if emissions continue."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains that natural removal processes operate on 'timescales of thousands to hundreds of thousands of years,' and that there is a mismatch between rapid emissions and slow removal, causing elevated concentrations to 'persist long after emissions occur.' This implies that even if emissions were reduced or stopped, existing elevated concentrations would persist for a very long time. B is the most reasonable inference. A contradicts the passage—natural removal is measured in thousands to hundreds of thousands of years, not decades. C directly contradicts the passage, which states emissions far exceed the rate of natural removal. D contradicts the passage—the persistence 'long after emissions occur' implies the opposite of a quick natural fix."
+}

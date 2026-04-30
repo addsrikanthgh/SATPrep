@@ -1,0 +1,16 @@
+{
+  "id": "q_908",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Nuclear energy should be central to any serious strategy for reducing carbon emissions. Unlike solar and wind power, nuclear plants generate electricity continuously regardless of weather conditions, making them a reliable baseload source. A single nuclear plant can power hundreds of thousands of homes on a footprint far smaller than the land required for equivalent solar capacity. France generates over 70 percent of its electricity from nuclear power and has among the lowest per capita carbon emissions of any industrialized nation.\n\nText 2: Nuclear energy's apparent advantages mask significant drawbacks. Construction timelines for new nuclear plants average over a decade and frequently run over budget, while renewable energy costs have fallen dramatically in the past ten years, making solar and wind increasingly competitive. The unresolved problem of long-term nuclear waste storage represents a cost that will be paid by future generations. France's nuclear-dependent grid, while low-carbon, was strained during the 2022 heat wave when river temperatures were too warm to cool reactors safely.",
+  "question": "Which statement best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 2 agrees that nuclear power is essential to climate strategy but argues it should be combined with renewables.",
+    "B": "Text 1 provides evidence that Text 2 accepts as accurate, and Text 2 adds complementary reasons to expand nuclear power.",
+    "C": "Text 2 challenges each of Text 1's key arguments by presenting counterevidence and complicating factors.",
+    "D": "Text 1 and Text 2 agree that the primary advantage of nuclear power is its small land footprint."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 systematically addresses the specific claims in Text 1: the reliability argument is countered by the heat wave example; the land footprint/scale argument is countered by falling renewable costs; the France example is countered by the 2022 grid strain event. C correctly describes this as point-by-point counterevidence. A misrepresents Text 2, which does not advocate for combining nuclear with renewables. B is the opposite—Text 2 complicates, not supports, Text 1. D is wrong—Text 2 does not mention land footprint and Text 1's main argument is about reliability and carbon, not primarily land use."
+}

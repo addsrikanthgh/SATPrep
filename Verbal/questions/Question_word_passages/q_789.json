@@ -1,0 +1,15 @@
+{
+  "id": "q_789",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Behavioral economics integrates insights from psychology into economic models.\n- Traditional economics assumes that individuals make rational decisions that maximize their self-interest.\n- Research by Daniel Kahneman and Amos Tversky demonstrated that people systematically deviate from rational behavior in predictable ways.\n- The endowment effect refers to the tendency for people to overvalue things they already own compared to equivalent items they do not own.\n- Loss aversion describes the finding that people experience losses more intensely than equivalent gains—losses typically feel about twice as painful as gains feel pleasurable.\n\nThe student wants to provide an example that illustrates how behavioral economics departs from traditional economic assumptions. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Unlike traditional economics, which assumes rational self-interest, behavioral economics has identified phenomena such as loss aversion—the tendency to feel losses about twice as intensely as equivalent gains—that show people systematically deviate from rational predictions.",
+    "B": "Behavioral economics integrates insights from psychology into economic models of human behavior.",
+    "C": "Daniel Kahneman and Amos Tversky demonstrated that people deviate from rational behavior in predictable ways.",
+    "D": "The endowment effect refers to the tendency to overvalue things one already owns compared to equivalent items one does not own."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to provide an example illustrating how behavioral economics departs from traditional economics. A contrasts the traditional assumption (rational self-interest) with the behavioral finding (loss aversion, defined with the specific 2:1 ratio), making the departure from traditional assumptions concrete and specific. B defines behavioral economics broadly without giving an example or showing departure. C names researchers who showed deviation but provides no specific example of what the deviation looks like. D defines the endowment effect as a single detail but does not connect it to traditional economics or frame the departure."
+}

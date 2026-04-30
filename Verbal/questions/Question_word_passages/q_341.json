@@ -1,0 +1,16 @@
+{
+  "id": "q_341",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Researchers studying long-distance migratory birds have found that many species consistently depart on precise calendar dates, year after year, regardless of local weather conditions at the time of departure. Birds departing in the fall often leave before the temperatures that would trigger migration-like stress responses, and birds departing in the spring often leave before the insects they feed on have emerged in their breeding grounds. Scientists have identified the primary trigger for this timing as changes in day length (photoperiod) rather than temperature or food availability.",
+  "question": "Based on the passage, what can most reasonably be inferred about birds that rely on photoperiod to trigger migration?",
+  "choices": {
+    "A": "These birds are unable to perceive temperature changes and therefore cannot adjust their behavior based on weather.",
+    "B": "These birds could be vulnerable if climate change causes food availability and temperature to shift significantly out of alignment with day-length cues.",
+    "C": "These birds migrate more successfully than species that use temperature as their primary cue.",
+    "D": "Photoperiod-based migration evolved because birds had no access to food during winter months."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage establishes that photoperiod (day length) drives migration timing, not temperature or food availability. This means birds depart according to a fixed astronomical calendar that does not respond to ecological conditions. The inference that follows is that if climate change shifts the timing of food emergence or temperatures independently of day length, birds departing on photo-period cues may arrive at breeding grounds before food is available—creating a phenological mismatch. B is directly supported by the passage's emphasis on day-length timing being uncoupled from ecological conditions. A is an extreme and unsupported claim—the passage says birds don't use temperature to trigger migration, not that they can't perceive it. C introduces a comparison with temperature-cue species that the passage does not make. D speculates about evolutionary origins in a way unsupported by the passage."
+}

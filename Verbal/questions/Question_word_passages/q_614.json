@@ -1,0 +1,16 @@
+{
+  "id": "q_614",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "Marine biologists studying coral reef bleaching proposed that a sustained sea surface temperature rise of just 1°C above the long-term summer maximum is sufficient to trigger mass coral bleaching. They argued this threshold is so narrow that even modest ocean warming from climate change would cause bleaching events to become dramatically more frequent.",
+  "question": "Which finding, if true, would most directly support the researchers' proposed threshold?",
+  "choices": {
+    "A": "Historical records show that major bleaching events at monitored reefs occurred consistently in years when sea surface temperatures exceeded the long-term summer maximum by approximately 1°C or more, but not in years when the exceedance was less than 0.5°C.",
+    "B": "Coral bleaching has been documented at reefs in every major ocean basin, including the Pacific, Indian, and Atlantic Oceans.",
+    "C": "When bleaching occurs, coral reefs lose their symbiotic algae (zooxanthellae), leaving the coral tissue appearing white.",
+    "D": "Reefs exposed to higher levels of water pollution show greater susceptibility to bleaching than pristine reefs."
+  },
+  "correct_answer": "A",
+  "explanation": "The proposed threshold is a 1°C exceedance above the long-term maximum. A directly supports this by showing that bleaching events consistently occur when temperatures exceed that threshold but not when the exceedance is smaller—confirming the narrow threshold. B shows bleaching is global but doesn't test the temperature threshold. C describes the biological process of bleaching but doesn't test the temperature threshold. D introduces pollution as a variable, which complicates rather than supports the temperature-threshold claim."
+}

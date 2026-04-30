@@ -1,0 +1,16 @@
+{
+  "id": "q_164",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Plate tectonics, the theory that Earth's outer shell is divided into large rigid plates that move relative to one another, was not accepted by mainstream geology until the 1960s. The evidence for continental drift—the observation that the continents fit together like puzzle pieces and share fossil records—had been available since Alfred Wegener proposed the idea in 1912. But Wegener lacked a convincing mechanism. The discovery of mid-ocean ridges and the demonstration of seafloor spreading in the 1950s and 1960s provided that mechanism, showing that new ocean floor is continuously created at underwater mountain ranges as magma rises and solidifies. With a mechanism in hand, geologists could no longer resist the accumulated evidence.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Alfred Wegener's proposal of continental drift was rejected because he was not a professional geologist.",
+    "B": "Plate tectonics was accepted only after mid-ocean ridge research provided the missing mechanistic explanation for continental drift.",
+    "C": "The most important contribution to geology in the twentieth century was the discovery of mid-ocean ridges and seafloor spreading.",
+    "D": "Geologists resisted plate tectonics primarily because the fossil evidence for continental drift was ambiguous and unreliable."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage traces a clear arc: Wegener had evidence but lacked a mechanism, so the theory stalled; once seafloor spreading provided the mechanism, acceptance followed. B captures this essential argument—acceptance required a mechanism, and mid-ocean ridge research provided it. A introduces an unsupported claim about Wegener's credentials; the passage cites lack of mechanism, not professional status, as the reason for rejection. C makes a 'most important contribution' claim that the passage never asserts. D contradicts the passage, which says the fossil record and puzzle-piece fit were among the evidence available since 1912—the passage cites missing mechanism, not ambiguous evidence, as the obstacle."
+}

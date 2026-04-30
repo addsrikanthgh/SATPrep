@@ -1,0 +1,16 @@
+{
+  "id": "q_146",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Anton Chekhov believed that a story need not resolve itself neatly. Life, he argued, does not provide tidy conclusions, and fiction that fabricates them falsifies experience. His stories frequently end mid-gesture: a character reaches for something just beyond the frame, a conversation breaks off, a revelation arrives too late to be acted upon. These unresolved endings are not failures of craft. They are the craft.",
+  "question": "What function does the final sentence, \"They are the craft,\" serve in the passage?",
+  "choices": {
+    "A": "It introduces a counterargument to the claim that Chekhov's unresolved endings reflect a coherent aesthetic philosophy.",
+    "B": "It provides a transitional statement preparing readers for an analysis of specific Chekhov stories.",
+    "C": "It delivers a pointed reversal, reframing what might be perceived as a weakness as Chekhov's defining artistic achievement.",
+    "D": "It concedes that while Chekhov's method is intentional, its effect on readers is largely one of frustration."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage anticipates a potential misreading—that unresolved endings are flaws—and explicitly rejects it ('These unresolved endings are not failures of craft'). The final three-word sentence then completes the reversal by declaring those same endings to be the very definition of craft itself. This is a strong rhetorical move: naming the apparent weakness as the central strength (C). A is wrong; no counterargument is raised—the sentence confirms, not contests, the previous claim. B is wrong; there is no transition to specific story analysis. D contradicts the tone—the sentence is an emphatic affirmation, not a concession."
+}

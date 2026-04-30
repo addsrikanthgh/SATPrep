@@ -1,0 +1,16 @@
+{
+  "id": "q_354",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In 2010, the US government required all commercial fishing vessels operating in federal waters to install electronic monitoring systems that track vessel locations, catches, and fishing effort in real time. Prior to this requirement, fisheries managers relied primarily on catch reports submitted by fishermen themselves—data that were widely acknowledged to underestimate actual catch levels, particularly for species subject to strict quotas. Since the mandate, discrepancy rates between self-reported and monitored data have been found to be substantial, and revised catch estimates have indicated that several fish populations were far smaller than previously believed.",
+  "question": "Based on the passage, what can most reasonably be inferred about the reliability of self-reported catch data before 2010?",
+  "choices": {
+    "A": "Self-reported catch data before 2010 was highly accurate and the electronic monitoring system confirmed this accuracy.",
+    "B": "Self-reported catch data likely understated actual catches, leading fisheries managers to make decisions based on an overly optimistic picture of fish population health.",
+    "C": "Self-reported data was unreliable only for fishermen targeting species under no regulatory quotas.",
+    "D": "The electronic monitoring system was installed primarily to track vessel locations for safety purposes, not to improve catch accuracy."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that pre-mandate self-reported data were 'widely acknowledged to underestimate actual catch levels,' that discrepancies were 'substantial' after electronic monitoring was introduced, and that revised estimates showed fish populations were 'far smaller than previously believed.' The inference is that managers were making decisions based on inflated population estimates. B correctly captures this implication. A directly contradicts the passage—electronic monitoring revealed substantial discrepancies, not accuracy. C contradicts the passage, which says underreporting occurred specifically for quota-subject species. D misrepresents the passage's stated purpose—the system was implemented to track catches and fishing effort, with location tracking mentioned as a feature."
+}

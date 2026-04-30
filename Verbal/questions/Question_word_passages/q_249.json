@@ -1,0 +1,16 @@
+{
+  "id": "q_249",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The volcano, dormant for nearly three centuries erupted without warning in the spring of 1815, sending ash clouds that circled the globe and caused widespread crop failures the following year.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "Insert a comma after 'centuries' to close the nonrestrictive modifier 'dormant for nearly three centuries.'",
+    "B": "Remove the comma after '1815' because no comma should separate the main clause from a participial phrase.",
+    "C": "Insert a semicolon after 'centuries' to separate two independent clauses.",
+    "D": "Replace the comma after '1815' with a dash to signal an abrupt interruption in the narrative."
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'dormant for nearly three centuries' is a nonrestrictive participial modifier that interrupts the main clause. Such interruptive phrases must be enclosed by commas on both sides. An opening comma appears after 'volcano,' but the closing comma after 'centuries' is missing. Inserting it correctly closes the modifier and clarifies that 'erupted without warning' is the main verb. A is correct. B is incorrect; a participial phrase at the end of a sentence ('sending ash clouds...') is conventionally set off by a comma when it modifies the main clause—removing the comma after '1815' would not be an improvement. C is incorrect because 'dormant for nearly three centuries' is not an independent clause. D is unnecessary; the comma after '1815' is conventionally correct before a long participial phrase."
+}

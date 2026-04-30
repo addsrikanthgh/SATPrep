@@ -1,0 +1,16 @@
+{
+  "id": "q_810",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A psychologist argues that children learn language faster when caregivers use child-directed speech—sometimes called 'motherese'—characterized by higher pitch, slower rate, and simpler vocabulary, compared to adult-directed speech.",
+  "question": "Which finding from a developmental study would most directly support the psychologist's argument?",
+  "choices": {
+    "A": "'Infants exposed to more hours of child-directed speech in the first year of life had vocabularies averaging 20% larger at age two than infants in matched households where caregivers used primarily adult-directed speech.'",
+    "B": "'Children begin producing their first recognizable words at around 12 months of age, regardless of the linguistic environment in which they are raised.'",
+    "C": "'Caregivers in cultures that do not use child-directed speech raise children who nonetheless acquire language at developmentally typical rates.'",
+    "D": "'The pitch of adult speech to infants is universally higher than speech directed at other adults, suggesting child-directed speech is a cross-cultural phenomenon.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The psychologist argues that child-directed speech accelerates language learning. A directly supports this with a comparative finding: infants receiving more child-directed speech had 20% larger vocabularies at age two than matched controls—a direct measure of faster vocabulary acquisition. B suggests developmental timing is fixed regardless of linguistic environment, which weakens the argument. C provides a cross-cultural example where children learn language without child-directed speech—a direct counterexample. D shows child-directed speech is universal but says nothing about whether it accelerates language learning."
+}

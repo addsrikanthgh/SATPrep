@@ -1,0 +1,16 @@
+{
+  "id": "q_546",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The development of the smallpox vaccine by Edward Jenner in 1796 was based on his observation that milkmaids who had contracted cowpox seemed to be immune to smallpox. Jenner inoculated a boy with cowpox material and then exposed him to smallpox—an experiment that would be entirely impermissible by modern ethical standards. The boy did not develop smallpox. Over the following two centuries, global vaccination campaigns reduced smallpox cases from an estimated 50 million per year in the early twentieth century to zero: the disease was officially declared eradicated in 1980.",
+  "question": "Based on the passage, what can most reasonably be inferred about the significance of Jenner's observation?",
+  "choices": {
+    "A": "Jenner's observation proved that all animal diseases can be used to create human vaccines.",
+    "B": "Jenner's observation established that exposure to a milder related infection could confer protection against a more deadly one, a principle foundational to vaccination.",
+    "C": "Jenner's observation demonstrated that smallpox was not actually contagious between humans.",
+    "D": "Jenner's experiment is considered the gold standard for ethical clinical research today."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes Jenner's key observation: prior cowpox infection seemed to confer immunity to smallpox. This is the foundational principle of vaccination—prior exposure to a related or milder agent creates protection against the target disease. B correctly captures this inference. A is too broad—the passage does not support the claim that all animal diseases can create human vaccines. C is contradicted—the passage describes vaccination campaigns to prevent spread, implying smallpox is contagious. D is directly contradicted—the passage explicitly states the experiment would be 'entirely impermissible by modern ethical standards.'"
+}

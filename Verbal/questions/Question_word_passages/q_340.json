@@ -1,0 +1,16 @@
+{
+  "id": "q_340",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The audience was surprised to learn that it was _______ who had anonymously donated the funds to restore the historic theater.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "he",
+    "B": "him",
+    "C": "his",
+    "D": "himself"
+  },
+  "correct_answer": "A",
+  "explanation": "The blank appears after the linking verb 'was' in a cleft construction: 'it was _______ who had donated.' After a linking verb, a predicate nominative (subject pronoun) is required, not an object pronoun. 'He' (A) is the correct subject/predicate nominative pronoun. 'Him' (B) is an object pronoun—grammatically incorrect after a linking verb in formal standard English, even though 'it was him' is common in informal speech. The SAT tests formal standard English, so 'he' is correct. 'His' (C) is possessive—incorrect. 'Himself' (D) is reflexive, which requires coreference with the subject 'it'—inappropriate here."
+}

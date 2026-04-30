@@ -1,0 +1,16 @@
+{
+  "id": "q_887",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The Sapir-Whorf hypothesis, also called linguistic relativity, proposes that the structure and vocabulary of a language influence or determine how its speakers perceive and think about the world. A strong version of the hypothesis—linguistic determinism—holds that language determines thought, making some concepts literally unthinkable in certain languages. This strong version has been largely rejected by cognitive scientists. A weaker version holds that language influences thought without determining it: speakers of languages with more precise color vocabulary, for instance, may distinguish shades more quickly, but they are not incapable of perceiving the distinction when shown the colors side by side. Most researchers today accept some version of the weaker hypothesis while treating the strong version with skepticism.",
+  "question": "Which choice best describes the main purpose of the passage?",
+  "choices": {
+    "A": "To advocate for the strong version of the Sapir-Whorf hypothesis over the weaker version",
+    "B": "To explain the Sapir-Whorf hypothesis and distinguish between its strong and weak versions, noting the scientific community's current stance",
+    "C": "To demonstrate that language has no measurable effect on cognitive processes such as color perception",
+    "D": "To argue that the Sapir-Whorf hypothesis should be rejected entirely because linguistic determinism is unsupported"
+  },
+  "correct_answer": "B",
+  "explanation": "B accurately describes the passage's explanatory purpose: it introduces the hypothesis, explains its two versions, and notes where the scientific consensus stands. A inverts the passage's conclusion—the strong version has been largely rejected. C contradicts the passage, which explicitly says speakers of languages with precise color vocabulary distinguish shades more quickly. D goes too far—the passage accepts the weak version while rejecting only the strong one."
+}

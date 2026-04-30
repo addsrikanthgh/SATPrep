@@ -1,0 +1,16 @@
+{
+  "id": "q_165",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a paper arguing that solitary confinement causes measurable psychological harm and should be restricted. While researching, the student finds the following information:\n\n- Studies show that prisoners held in solitary confinement exhibit higher rates of anxiety, depression, and psychosis than the general prison population.\n- Stuart Grassian, a Harvard psychiatrist, documented a distinct psychiatric syndrome in solitary confinement prisoners including hypersensitivity to stimuli, perceptual distortions, and paranoia.\n- The United Nations Standard Minimum Rules for the Treatment of Prisoners (the Nelson Mandela Rules) classify prolonged solitary confinement—more than 15 consecutive days—as cruel, inhuman, or degrading treatment.\n- Some prison administrators argue that solitary confinement is a necessary tool for managing violent or dangerous inmates.\n- In states where solitary confinement has been restricted, prison violence rates have not consistently increased.",
+  "question": "Which sentence most effectively synthesizes the notes to support the student's argument that solitary confinement causes measurable harm and should be restricted?",
+  "choices": {
+    "A": "Some prison administrators argue that solitary confinement is necessary for managing dangerous inmates, though violence rates have not consistently increased in states that have restricted it.",
+    "B": "The United Nations has classified prolonged solitary confinement as cruel, inhuman, or degrading treatment under the Nelson Mandela Rules.",
+    "C": "Solitary confinement causes measurable psychological harm—including the psychiatric syndrome documented by Stuart Grassian and elevated rates of anxiety, depression, and psychosis—and evidence from states that have restricted its use suggests that these harms can be reduced without increasing prison violence.",
+    "D": "Stuart Grassian documented a distinct psychiatric syndrome in solitary confinement prisoners, including hypersensitivity to stimuli, perceptual distortions, and paranoia."
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument has two components: demonstrating measurable psychological harm and supporting restriction. C synthesizes both: it cites specific harm evidence (Grassian's syndrome and elevated mental illness rates) and uses the restriction data (no consistent violence increase in states that restricted it) to counter the only objection (that restriction endangers safety). A focuses primarily on the counterargument and the restriction data, underemphasizing the harm evidence. B cites only the UN classification, which supports restriction but provides no direct evidence of the psychological harm itself. D covers only Grassian's syndrome—one piece of harm evidence—without addressing restriction."
+}

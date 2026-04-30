@@ -1,0 +1,16 @@
+{
+  "id": "q_145",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The Meiji Restoration of 1868 ended more than two centuries of Tokugawa shogunate rule and initiated Japan's rapid transformation into a modern industrialized state. Within three decades, Japan had abolished the feudal domain system, established a national conscript army, built a railway network, and drafted a Western-style constitution. By 1905, Japan's military had defeated Russia in the Russo-Japanese War—the first major victory of an Asian nation over a European power in the modern era. Western nations, which had long assumed that industrialization and military power were uniquely European capacities, were forced to reassess that assumption.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "Japan's defeat of Russia in 1905 was the direct result of European nations' failure to modernize their own militaries.",
+    "B": "The speed of Japan's modernization after 1868 suggests that the Tokugawa shogunate had actively suppressed industrial development.",
+    "C": "Japan's rapid industrialization and its military victory over Russia challenged prevailing Western assumptions about the geographic limits of modern power.",
+    "D": "The Meiji Restoration was primarily a military project, with constitutional and economic changes serving as secondary objectives."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage concludes by stating explicitly that Japan's victory forced Western nations to reassess their assumption that industrialization and military power were uniquely European—making C a direct inference supported by the text. A is unsupported; the passage says nothing about European nations' military modernization or lack thereof. B introduces a claim about the Tokugawa shogunate's policies that the passage does not make. D mischaracterizes the passage, which presents multiple simultaneous transformations (military, economic, constitutional) without ranking them as primary or secondary."
+}

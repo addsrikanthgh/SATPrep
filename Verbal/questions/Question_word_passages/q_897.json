@@ -1,0 +1,16 @@
+{
+  "id": "q_897",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "Hannah Arendt's concept of the 'banality of evil,' developed after observing the trial of Adolf Eichmann in Jerusalem in 1961, challenged the assumption that perpetrators of mass atrocities are driven by ideological fanaticism or sadistic motives. Eichmann, who coordinated the deportation of Jews to death camps, appeared to Arendt not as a monster but as a bureaucrat—a man who carried out orders without thinking, incapable of taking the perspective of others and entirely absorbed in advancing his career. Arendt argued that his actions demonstrated a 'failure to think' rather than active malevolence. Critics disputed her characterization of Eichmann, arguing that he was, in fact, a committed ideological antisemite, not a thoughtless functionary. Subsequent archival research has supported the critics more than Arendt on this specific point. Yet the broader insight—that ordinary individuals can participate in evil through routine compliance and the suspension of moral judgment—remains influential in political philosophy and genocide studies.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Arendt's account of Eichmann was entirely accurate and has been confirmed by subsequent historical research.",
+    "B": "Eichmann was motivated primarily by career advancement rather than ideological conviction, as Arendt argued.",
+    "C": "Arendt's concept of the banality of evil was factually challenged by later research but remains influential for its broader insight about ordinary participation in atrocity.",
+    "D": "The Eichmann trial revealed that Nazi perpetrators were uniformly characterized by sadistic ideological fanaticism rather than bureaucratic indifference."
+  },
+  "correct_answer": "C",
+  "explanation": "C captures the full nuance of the passage: Arendt's specific characterization of Eichmann was contested and largely refuted by archival research, yet her broader philosophical insight about ordinary people and evil remains influential. A overstates by claiming her account was 'entirely accurate'—the passage says archival research supported critics. B presents only Arendt's disputed characterization as the passage's conclusion. D states the opposite of Arendt's argument and is also contradicted by the passage."
+}

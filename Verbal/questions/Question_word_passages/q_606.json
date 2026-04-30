@@ -1,0 +1,16 @@
+{
+  "id": "q_606",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Paleontologists have debated whether the mass extinction at the end of the Cretaceous period (approximately 66 million years ago) was caused primarily by the Chicxulub asteroid impact or by the massive volcanic eruptions of the Deccan Traps, which were already underway in what is now India. Some researchers argue that the volcanic activity alone would have been sufficient to destabilize the climate and trigger mass extinction, with the asteroid playing a secondary role.",
+  "question": "Which finding, if true, would most directly weaken the claim that volcanic activity alone was sufficient to cause the mass extinction?",
+  "choices": {
+    "A": "Computer models of Deccan Traps eruptions suggest the CO₂ and sulfur dioxide released would have caused significant global cooling and acidification lasting tens of thousands of years.",
+    "B": "Analysis of the fossil record shows that the rate of species extinction accelerated dramatically in the geologically brief interval corresponding to the Chicxulub impact, far exceeding the rate observed during the preceding period of Deccan volcanic activity.",
+    "C": "The Chicxulub asteroid impact released energy equivalent to billions of nuclear weapons and would have triggered immediate global wildfires and a 'nuclear winter' effect.",
+    "D": "Several other mass extinction events in Earth's history, including the end-Permian extinction, have been attributed primarily to volcanic activity."
+  },
+  "correct_answer": "B",
+  "explanation": "The claim is that volcanic activity alone was sufficient to cause the mass extinction. B weakens this by showing that extinction rates spiked at the moment of the asteroid impact far beyond what occurred during the preceding volcanic period—suggesting the asteroid was the primary driver, not just a secondary factor. A supports the volcanic sufficiency claim. C describes the asteroid's effects but doesn't directly show volcanoes were insufficient. D supports the broader pattern that volcanoes can cause extinctions, strengthening rather than weakening the claim."
+}

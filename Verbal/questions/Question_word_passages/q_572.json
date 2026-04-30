@@ -1,0 +1,16 @@
+{
+  "id": "q_572",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Classical economists assumed that people behave as rational actors who consistently choose options that maximize their utility—their satisfaction or well-being. This model, known as Homo economicus, proved useful for building mathematical models but generated predictions that consistently failed to match actual human behavior. Daniel Kahneman and Amos Tversky's decades of experimental research identified systematic biases and heuristics that lead people to make predictably irrational decisions: preferring a sure gain to an uncertain larger gain (loss aversion), judging probabilities based on how easily examples come to mind (availability heuristic), and anchoring estimates to irrelevant numbers presented earlier (anchoring bias). Their work fundamentally changed economics by demonstrating that human psychology must be incorporated into economic models.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It compares two competing economic schools of thought and determines which better predicts market behavior.",
+    "B": "It introduces the classical rational actor model, describes its limitations, and explains how behavioral research revised economic understanding.",
+    "C": "It presents Kahneman and Tversky's research findings and argues that all classical economic models should be abandoned.",
+    "D": "It traces the personal and professional relationship between Kahneman and Tversky throughout their careers."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage moves from classical economics' rational actor model, to its predictive failures, to Kahneman and Tversky's research identifying systematic biases, and ends with the impact on economics. This is a classic problem-to-solution/challenge-and-revision structure. B correctly identifies this. A implies a two-school comparison with a verdict—the passage does not compare two schools neutrally or declare a winner. C overstates—the passage says behavioral economics changed economics, not that all classical models should be abandoned. D is incorrect—no biographical narrative is presented."
+}

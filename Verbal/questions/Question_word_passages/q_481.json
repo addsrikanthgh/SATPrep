@@ -1,0 +1,16 @@
+{
+  "id": "q_481",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "easy",
+  "passage": "The dodo, a flightless bird native to the island of Mauritius, went extinct within a century of European sailors arriving on the island in the late 1600s. Sailors found the birds easy to catch because they had evolved in the absence of mammalian predators and showed no fear of humans. In addition to being hunted directly for food, dodos were devastated by the rats, pigs, and monkeys that arrived with European ships and preyed on their eggs. By the time the last dodo was recorded, the species had been entirely eliminated.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "The dodo's extinction was caused entirely by direct hunting by European sailors.",
+    "B": "The dodo became extinct after European contact due to a combination of hunting and the introduction of invasive species.",
+    "C": "Invasive species are more destructive to island ecosystems than direct human hunting.",
+    "D": "The dodo survived European contact until the nineteenth century, when habitat loss finally eliminated it."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes two causes of the dodo's extinction: direct hunting (sailors found the birds easy to catch) and the introduction of invasive animals that preyed on eggs. B correctly captures both factors. A is too narrow—it attributes extinction to hunting alone and ignores the invasive species. C goes beyond what the passage claims; the passage presents both as contributing factors without ranking them. D is factually contradicted by the passage, which places the last dodo recording in the seventeenth century, not the nineteenth."
+}

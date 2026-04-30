@@ -1,0 +1,16 @@
+{
+  "id": "q_632",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The scientist's career illustrates the danger of _______ thinking: by framing every new finding through the lens of her early theory, she was unable to recognize evidence that contradicted it, even when that evidence was placed directly before her.",
+  "question": "Which word most precisely fits the blank?",
+  "choices": {
+    "A": "confirmatory",
+    "B": "speculative",
+    "C": "empirical",
+    "D": "lateral"
+  },
+  "correct_answer": "A",
+  "explanation": "'Confirmatory' (or 'confirmation') thinking describes the tendency to interpret all new information through an existing framework in a way that confirms rather than tests it—precisely what the passage describes. The scientist sees everything through her early theory and cannot process contradictory evidence. Speculative thinking (based on conjecture) is not the issue—the scientist has a theory and is filtering evidence. Empirical (based on observation) would actually be what the scientist should be doing. Lateral thinking (creative, indirect problem-solving) is unrelated to the described bias."
+}

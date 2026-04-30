@@ -1,0 +1,16 @@
+{
+  "id": "q_578",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The Dust Bowl of the 1930s—one of the worst ecological disasters in American history—was caused by the intersection of severe drought and decades of agricultural practices that left the southern Great Plains vulnerable to wind erosion. Homesteaders had broken the native grasses that had held the topsoil in place for thousands of years, replacing them with wheat and other crops. When drought came and the crops failed, there was nothing to hold the soil. Massive dust storms—'black blizzards'—buried farms and towns, forcing approximately 3.5 million people to abandon their land. The federal government responded with programs to promote soil conservation, including mandatory fallowing, contour plowing, and the planting of windbreaks.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It presents a natural disaster, explains its causes (both natural and human-made), describes its consequences, and describes the governmental response.",
+    "B": "It argues that drought was the sole cause of the Dust Bowl and that farming practices played no meaningful role.",
+    "C": "It provides a personal account of a farming family displaced by the Dust Bowl.",
+    "D": "It compares the 1930s Dust Bowl to similar environmental disasters in other countries."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage follows a clear cause-effect-response structure: it identifies the disaster (Dust Bowl), explains its dual causes (drought + farming practices that destroyed native grasses), describes the consequences (dust storms, mass displacement), and notes the government's conservation response. A correctly identifies all four components of this structure. B is incorrect—the passage explicitly blames both drought and agricultural practices. C is incorrect—the passage is objective and historical, not a personal narrative. D is incorrect—no international comparison is made."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_861",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Coral reefs cover less than one percent of the ocean floor. ______, they support approximately twenty-five percent of all marine species, making them among the most biodiverse ecosystems on Earth.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "Nevertheless",
+    "B": "Therefore",
+    "C": "Similarly",
+    "D": "Subsequently"
+  },
+  "correct_answer": "A",
+  "explanation": "'Nevertheless' signals a contrast or concession—the second sentence presents a surprising fact that contrasts with the smallness stated in the first. Despite covering so little area, reefs support enormous biodiversity. 'Therefore' signals a logical consequence, but the second sentence is not a result of reefs covering little area. 'Similarly' signals a comparison, but the two sentences contrast rather than compare. 'Subsequently' signals a time sequence, which is irrelevant here."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_522",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The discovery of gravitational waves in 2015—a phenomenon that Einstein himself had doubted _______ ever be detected—was celebrated as one of the greatest achievements in the history of physics.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "would",
+    "B": "will",
+    "C": "could of",
+    "D": "should"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence reports Einstein's past doubt in an indirect clause embedded in a past-tense narrative context ('had doubted'). When reporting speech or thought in the past, a future action is expressed in the conditional/past future form: 'would' (not 'will'). A is correct. B ('will') uses a present/future form that is inconsistent with the past-tense reporting context. C ('could of') is non-standard; the correct form would be 'could have,' and it changes the meaning. D ('should') implies obligation rather than probability/possibility."
+}

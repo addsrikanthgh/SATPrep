@@ -1,0 +1,16 @@
+{
+  "id": "q_871",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The invention of the printing press in the fifteenth century dramatically reduced the cost of producing books. ______, literacy rates across Europe increased substantially over the following two centuries as texts became affordable to a wider segment of the population.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "In contrast",
+    "B": "For instance",
+    "C": "As a result",
+    "D": "Nonetheless"
+  },
+  "correct_answer": "C",
+  "explanation": "'As a result' signals that the second sentence is a consequence of the first—cheaper books caused increased literacy rates. The causal chain is explicit: lower cost → wider access → higher literacy. 'In contrast' signals opposition, but the sentences describe cause and effect, not contrasting ideas. 'For instance' introduces an example, but the second sentence is not an example of cheap books—it is the effect of cheap books. 'Nonetheless' signals that something occurs despite an obstacle, which misrepresents the relationship."
+}

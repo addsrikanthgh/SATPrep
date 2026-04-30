@@ -1,0 +1,16 @@
+{
+  "id": "q_912",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Monarch butterflies undertake a remarkable multigenerational migration between their wintering grounds in the oyamel fir forests of central Mexico and their summer breeding range in the eastern United States and Canada. Each spring, butterflies that overwintered in Mexico fly north, breed, and die; their offspring continue north, breed, and die; and so on through three or four generations, until the late-summer generation—which has never been to Mexico—somehow navigates back to the same forest stands used by their great-grandparents.\n\nText 2: Researchers studying monarch migration have found that the butterflies use a time-compensated sun compass to navigate, integrating information about the sun's position with an internal circadian clock that adjusts for the sun's movement across the sky. Disruption of the circadian clock through experimental jet-lag conditions causes butterflies to orient in incorrect directions, confirming that the clock is essential to accurate navigation. This mechanism is similar to navigation systems documented in migratory birds.",
+  "question": "Which statement best describes how Text 2 relates to Text 1?",
+  "choices": {
+    "A": "Text 2 disputes the claim in Text 1 that monarch butterflies navigate to the same forest stands used by their ancestors.",
+    "B": "Text 2 provides a mechanistic explanation for how monarchs accomplish the navigation feat described in Text 1.",
+    "C": "Text 2 argues that monarchs' navigation is more similar to that of birds than to any sun-based system.",
+    "D": "Text 2 reframes the monarch migration as a simple journey with a well-understood path, reducing the mystery in Text 1."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 describes the remarkable navigational feat of returning to specific forest stands without prior experience. Text 2 explains the mechanism—time-compensated sun compass + circadian clock—that enables this. B correctly identifies Text 2 as a mechanistic explanation of the phenomenon Text 1 describes. A is incorrect—Text 2 does not dispute but rather explains the accuracy of monarch navigation. C misrepresents Text 2, which notes similarity to birds as a secondary observation, not as the main claim. D is incorrect—Text 2 explains the mechanism without reducing the phenomenon to 'simple.'"
+}

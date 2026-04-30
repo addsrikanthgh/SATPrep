@@ -1,0 +1,16 @@
+{
+  "id": "q_530",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The committee asked _______ to present the findings at the annual conference.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "she and I",
+    "B": "her and me",
+    "C": "her and I",
+    "D": "she and me"
+  },
+  "correct_answer": "B",
+  "explanation": "The blank follows the verb 'asked' and functions as the object of that verb. Object pronouns are required: 'her' (not 'she') and 'me' (not 'I'). You can test each pronoun individually: 'The committee asked her to present' (correct) and 'The committee asked me to present' (correct). B is correct. A and D mix subject and object pronouns. C uses correct 'her' but incorrect subject pronoun 'I.'"
+}

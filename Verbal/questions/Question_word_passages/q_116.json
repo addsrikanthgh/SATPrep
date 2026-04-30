@@ -1,0 +1,16 @@
+{
+  "id": "q_116",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Virginia Woolf's To the Lighthouse opens with a promise and a denial. Young James is told he may visit the lighthouse tomorrow—if the weather permits. His father immediately dismisses the possibility, citing unfavorable forecasts. The opening exchange is not merely domestic: it establishes the novel's governing tension between desire and limitation, between the world as we wish it to be and the world as it is.",
+  "question": "What function does the final sentence serve in the passage?",
+  "choices": {
+    "A": "It shifts the passage's focus from the novel's plot to an analysis of Woolf's prose style.",
+    "B": "It provides biographical context explaining why Woolf chose a lighthouse as the novel's central symbol.",
+    "C": "It broadens the significance of the opening scene by interpreting it as an expression of the novel's central thematic conflict.",
+    "D": "It qualifies the earlier claim that the father's dismissal is immediate by suggesting his response is in fact uncertain."
+  },
+  "correct_answer": "C",
+  "explanation": "The final sentence moves from describing a specific domestic scene (a child denied a visit to the lighthouse) to framing that scene as an expression of the novel's larger thematic opposition—desire versus limitation. This is a broadening, interpretive move (C). A is incorrect; the sentence discusses theme, not prose style. B is incorrect; no biographical information is offered. D is incorrect; the final sentence does not qualify or complicate the father's response—it elevates its thematic meaning."
+}

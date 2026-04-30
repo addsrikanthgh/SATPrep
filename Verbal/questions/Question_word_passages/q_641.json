@@ -1,0 +1,16 @@
+{
+  "id": "q_641",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The architect submitted three competing proposals _______ a glass tower, a low-rise courtyard complex, and a hybrid structure that combined elements of both.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "proposals: a glass tower,",
+    "B": "proposals, a glass tower,",
+    "C": "proposals; a glass tower,",
+    "D": "proposals—a glass tower,"
+  },
+  "correct_answer": "A",
+  "explanation": "A colon is used after an independent clause to introduce a list or explanation of what was just stated. 'The architect submitted three competing proposals' is a complete independent clause, and what follows is the list of those three proposals. A correctly uses a colon. A comma (B) would create a comma splice or improperly introduce a list after a complete sentence in formal writing. A semicolon (C) joins two independent clauses, but the list is not an independent clause. A dash (D) could work in informal contexts but the colon is the standard and preferred choice to introduce a formal list."
+}

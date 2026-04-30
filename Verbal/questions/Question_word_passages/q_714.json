@@ -1,0 +1,16 @@
+{
+  "id": "q_714",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Ancient Athenian democracy has often been celebrated as an early model for participatory self-governance. In the assembly, thousands of male citizens gathered to debate and vote directly on laws, military actions, and public expenditures. Decisions required no representative intermediary: the citizens were the legislature.\n\nText 2: While Athenian democracy is celebrated for its direct participation, the scope of that participation was severely restricted. Citizens—exclusively free adult males of Athenian parentage—represented only a small fraction of the total population. Women, enslaved people, and resident foreigners (metics) were entirely excluded from political participation. Athenian democracy was, in this sense, democracy for a minority built on the labor and subjugation of the majority.",
+  "question": "How does Text 2 relate to the celebration of Athenian democracy described in Text 1?",
+  "choices": {
+    "A": "Text 2 accepts that Athenian democracy was participatory for citizens but challenges the scope of its inclusivity by identifying large excluded populations.",
+    "B": "Text 2 contradicts Text 1 by arguing that Athenian citizens did not actually participate in direct lawmaking.",
+    "C": "Text 2 argues that Athenian democracy was superior to modern representative systems because citizens participated directly.",
+    "D": "Text 2 focuses on economic conditions in ancient Athens and does not directly engage with the political questions raised in Text 1."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 celebrates Athenian democracy for its direct participation. Text 2 does not deny that citizens participated directly (it calls Athenian democracy participatory and celebrates it in those terms) but qualifies the celebration by showing that 'citizens' excluded most of the actual population. A accurately captures this: Text 2 accepts the participatory quality but challenges its scope and inclusivity. B misrepresents Text 2, which confirms the direct participation of citizens. C is not Text 2's argument—it critiques, not celebrates, the system by exposing its exclusions. D is incorrect—Text 2 directly engages with political participation."
+}

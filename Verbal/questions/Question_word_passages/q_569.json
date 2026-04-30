@@ -1,0 +1,16 @@
+{
+  "id": "q_569",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The history of color photography is often told as a story of progressive technical refinement leading inevitably to the natural-looking images we take for granted today. This teleological narrative obscures a more interesting reality: the earliest color processes produced images of extraordinary strangeness. The Autochrome process, patented by the Lumière brothers in 1907 and using dyed potato starch grains to produce a mosaic of colored light, created images with a pointillist, dream-like quality that no subsequent process replicated. The Kodachrome transparencies of the 1930s and 1940s produced colors saturated beyond anything seen in nature—the reds and blues of mid-century America as a heightened, impossible version of reality. Each photographic process did not merely record reality differently but constructed a different visual world.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "provide a comprehensive technical history of all major color photographic processes from 1907 to the present",
+    "B": "challenge the narrative of photography as straightforward technical progress by arguing that different processes produced distinct and irreplaceable visual worlds",
+    "C": "argue that the Autochrome process was superior to all subsequent color photographic processes",
+    "D": "explain the chemistry of the Autochrome process and Kodachrome in technical detail"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly challenges the 'teleological narrative' of photographic progress and argues that early processes (Autochrome, Kodachrome) constructed 'different visual worlds'—each with its own aesthetic, not merely inferior versions of modern photography. B correctly captures this revisionist purpose. A is incorrect—the passage covers only two processes and is not comprehensive. C is incorrect—the passage discusses both Autochrome and Kodachrome as having distinctive qualities; it does not rank them. D is incorrect—the passage is analytical and aesthetic, not technically detailed."
+}

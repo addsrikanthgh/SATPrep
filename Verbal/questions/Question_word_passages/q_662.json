@@ -1,0 +1,16 @@
+{
+  "id": "q_662",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Early studies of infant language acquisition focused primarily on the role of direct parental instruction—adults explicitly teaching children vocabulary and grammar rules. _______ later research revealed that children acquire language with remarkable speed even in environments where such explicit instruction is minimal or absent, suggesting that direct teaching is neither necessary nor sufficient.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "In contrast,",
+    "B": "As a result,",
+    "C": "In addition,",
+    "D": "Similarly,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes the traditional view (direct parental instruction is the mechanism). The second presents contradictory evidence (children learn without such instruction). This is a direct contrast between an older model and newer findings that challenged it. 'In contrast' (A) correctly signals this reversal. 'As a result' (B) would imply the second sentence follows as a consequence of the first, which reverses the logical relationship—later research challenged, not resulted from, the earlier focus. 'In addition' (C) would suggest the second sentence adds to the first, not contradicts it. 'Similarly' (D) implies the two ideas are parallel, which they are not."
+}

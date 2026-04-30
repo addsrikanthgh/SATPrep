@@ -1,0 +1,16 @@
+{
+  "id": "q_309",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nResearchers studying child language acquisition have documented that infants begin recognizing the statistical patterns of their native language—the frequency with which certain sounds follow others—within the first months of life. By six months, American infants show stronger neural responses to English phonemes than to sounds not found in English. This early tuning appears to help children efficiently filter the relevant sounds of their language from background noise.\n\nText 2:\nA different line of research suggests that early specialization in native-language sounds comes at a cost. Infants under six months can discriminate phonemes from any human language with equal accuracy, but by twelve months this cross-linguistic sensitivity has narrowed sharply to focus on the sounds of the languages they hear at home. Researchers have termed this the 'perceptual narrowing' effect, noting that it may help explain why adults find it so difficult to achieve native-like pronunciation in a second language learned after childhood.",
+  "question": "How do the two texts relate to each other?",
+  "choices": {
+    "A": "Text 2 contradicts Text 1 by arguing that statistical pattern learning does not occur in infants.",
+    "B": "Both texts describe the same phenomenon—early perceptual tuning to native-language sounds—but from different perspectives: Text 1 emphasizes its benefit (efficient filtering), while Text 2 notes its cost (loss of cross-linguistic sensitivity).",
+    "C": "Text 1 and Text 2 describe unrelated processes: Text 1 discusses neural responses, and Text 2 discusses behavioral discrimination.",
+    "D": "Text 2 argues that early language exposure should be avoided in infants to preserve cross-linguistic sensitivity."
+  },
+  "correct_answer": "B",
+  "explanation": "Both texts describe the same developmental phenomenon: infants progressively tune to their native language's sounds in the first year of life. Text 1 frames this as beneficial (efficient filtering). Text 2 describes the same narrowing process but emphasizes the loss of cross-linguistic sensitivity as a cost. B correctly identifies both texts as addressing the same phenomenon from complementary perspectives. A is incorrect—Text 2 does not dispute statistical learning; it describes its behavioral consequence. C is incorrect—both texts are about the same developmental process; neural responses and behavioral discrimination are two ways of studying it. D introduces a prescriptive claim not made in Text 2."
+}

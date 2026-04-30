@@ -1,0 +1,16 @@
+{
+  "id": "q_956",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Classical conditioning, famously demonstrated by Ivan Pavlov with dogs, shows that animals can learn to associate a neutral stimulus with a biologically significant one. Pavlov's dogs salivated not only at the sight of food but eventually at the sound of a bell that had been consistently paired with food delivery. Later researchers extended these findings to humans, demonstrating conditioned emotional responses, and to more complex behaviors. However, the extent to which conditioning accounts for human behavior beyond simple reflexive responses—and the degree to which cognitive processes mediate even apparently conditioned responses—remains debated.",
+  "question": "Based on the passage, what can most reasonably be inferred about theories of human behavior based on classical conditioning?",
+  "choices": {
+    "A": "Classical conditioning fully explains all human behavior, from simple reflexes to complex social interactions.",
+    "B": "Classical conditioning is irrelevant to human behavior and applies only to simple animals like dogs.",
+    "C": "Classical conditioning offers a partial account of human behavior, but cognitive factors likely play a role that conditioning alone may not capture.",
+    "D": "Because cognitive processes never mediate conditioned responses, conditioning and cognition are completely separate systems in humans."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage extends conditioning to humans but immediately qualifies this with the statement that how much conditioning accounts for human behavior 'beyond simple reflexive responses' and whether 'cognitive processes mediate even apparently conditioned responses' remains debated. This implies conditioning is a partial but incomplete account of human behavior, and that cognition likely plays a role. C captures this inference. A overstates—the passage explicitly limits the claim and notes ongoing debate about scope. B contradicts the passage, which confirms conditioning has been demonstrated in humans. D contradicts the passage, which raises the possibility (not the impossibility) that cognitive processes mediate conditioned responses."
+}

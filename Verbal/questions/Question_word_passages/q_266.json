@@ -1,0 +1,16 @@
+{
+  "id": "q_266",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "Migration is not new to the animal kingdom—it is one of evolution's most ancient strategies for coping with seasonal resource scarcity. What is new is the disruption of migratory routes by human infrastructure. Roads, fences, and urban sprawl now fragment many of the corridors that large mammals, insects, and birds have used for thousands of years. Wildlife overpasses and underpasses—engineered crossings designed to allow animals to safely traverse human-built barriers—have emerged as one solution, with research showing that properly designed crossings are used by a wide range of species within a few years of installation.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Migration evolved primarily as a response to seasonal temperature changes rather than resource scarcity.",
+    "B": "Human infrastructure has disrupted ancient migratory routes, but engineered wildlife crossings have proven to be an effective partial remedy.",
+    "C": "Wildlife overpasses are too expensive to build and maintain to be a practical solution to habitat fragmentation.",
+    "D": "Large mammals benefit most from wildlife crossings, whereas insects and birds rarely use them."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents migration as an ancient strategy, identifies human infrastructure as a new disruptor of migratory routes, and then introduces wildlife crossings as a solution supported by evidence. B accurately captures both the problem and the solution. A contradicts the passage, which attributes migration to 'resource scarcity,' not temperature specifically. C contradicts the passage, which presents crossings positively as an emerging solution backed by research—no mention of cost concerns is made. D contradicts the passage, which explicitly states crossings are 'used by a wide range of species,' including insects and birds."
+}

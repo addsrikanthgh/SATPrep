@@ -1,0 +1,16 @@
+{
+  "id": "q_843",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "After analyzing thousands of soil samples from across the continent ______ the research team published its findings in a leading geology journal.",
+  "question": "Which choice correctly uses punctuation after the introductory phrase?",
+  "choices": {
+    "A": "After analyzing thousands of soil samples from across the continent, the research team published its findings in a leading geology journal.",
+    "B": "After analyzing thousands of soil samples from across the continent the research team published its findings in a leading geology journal.",
+    "C": "After analyzing thousands of soil samples from across the continent; the research team published its findings in a leading geology journal.",
+    "D": "After analyzing thousands of soil samples from across the continent: the research team published its findings in a leading geology journal."
+  },
+  "correct_answer": "A",
+  "explanation": "An introductory participial phrase ('After analyzing thousands of soil samples from across the continent') should be followed by a comma before the main clause. A correctly places the comma. B omits the comma, which is technically permissible for very short introductory phrases but is not preferred and is incorrect when the phrase is long (seven-plus words, as here). C uses a semicolon, which is incorrect—a semicolon joins two independent clauses, but the introductory phrase is not an independent clause. D uses a colon, which is also incorrect here—the introductory phrase does not introduce a list or explanation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_925",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The committee's report, along with the supplementary data appendices submitted by three independent research groups, ______ under review by the regulatory agency.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject of the sentence is 'The committee's report,' which is singular. The phrase 'along with the supplementary data appendices...' is a prepositional/participial phrase that provides additional information but does not change the grammatical subject. Unlike 'and,' which creates a compound subject, 'along with' is a preposition that keeps the original singular subject. Therefore, the verb must agree with the singular 'report': 'is.' 'Are' and 'were' are plural forms. 'Have been' is also plural in construction and would require 'has been' if any perfect form were appropriate."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_390",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay about the long-term consequences of the Dust Bowl. The student has taken the following notes:\n- The Dust Bowl (1930–1939) was caused by a combination of severe drought and decades of deep plowing that destroyed the native prairie grass holding the Great Plains topsoil in place.\n- Approximately 3.5 million people were displaced from the Great Plains during the 1930s, many migrating to California in search of agricultural work.\n- The federal government responded with large-scale soil conservation programs, including the creation of the Soil Conservation Service (SCS) in 1935.\n- The SCS introduced contour plowing, crop rotation, and shelterbelts (rows of trees planted to reduce wind erosion) as standard agricultural practices.\n- Modern studies of Great Plains agricultural sustainability suggest that despite these reforms, topsoil loss continues in the region, though at a slower rate.",
+  "question": "Which choice most effectively uses the notes to explain the Dust Bowl's dual legacy of humanitarian crisis and policy transformation?",
+  "choices": {
+    "A": "The Dust Bowl displaced millions of people and led the government to create conservation programs.",
+    "B": "The Dust Bowl's dual legacy is visible both in the 3.5 million people it displaced—many fleeing to California—and in the federal policy transformation it forced: the 1935 creation of the Soil Conservation Service, which introduced contour plowing, crop rotation, and shelterbelts as enduring standards of soil management.",
+    "C": "The Soil Conservation Service introduced many new farming practices after the Dust Bowl, but topsoil loss in the Great Plains continues today.",
+    "D": "Deep plowing destroyed the prairie grass that held the topsoil in place, which caused the Dust Bowl and forced millions of people to leave their homes."
+  },
+  "correct_answer": "B",
+  "explanation": "B integrates the humanitarian crisis (3.5 million displaced, California migration) and the policy transformation (SCS creation, specific practices: contour plowing, crop rotation, shelterbelts) into a single coherent synthesis that addresses both parts of the 'dual legacy' framing. A correctly identifies both sides but provides no specific data or detail. C focuses only on the SCS and the continuing topsoil loss note—omitting the humanitarian displacement. D focuses only on the causes and the displacement without addressing the policy transformation that is half the 'dual legacy.'"
+}

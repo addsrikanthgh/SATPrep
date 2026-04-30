@@ -1,0 +1,16 @@
+{
+  "id": "q_671",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The architect Zaha Hadid pioneered the use of parametric design software to generate sweeping, non-rectilinear forms that had previously been impossible to draft by hand. _______ her firm designed structures with flowing curves and unexpected angles on every continent, permanently expanding the formal vocabulary of contemporary architecture.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Using this approach,",
+    "B": "In contrast,",
+    "C": "Even so,",
+    "D": "As a consequence,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes Hadid's method (parametric design software for non-rectilinear forms). The second describes what she produced using that method (flowing structures across continents). 'Using this approach' (A) directly signals that the second sentence describes the results of applying the method introduced in the first—a method/outcome relationship. 'In contrast' (B) suggests opposition, which is wrong. 'Even so' (C) is concessive, implying the outcome happened despite the method, which is backwards. 'As a consequence' (D) would work if the framing were causal, but 'Using this approach' is more precise about the agent-tool relationship."
+}

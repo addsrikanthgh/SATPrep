@@ -1,0 +1,16 @@
+{
+  "id": "q_934",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The pharmaceutical company announced that ______ new compound had cleared all Phase II trials, and the board expressed confidence in its eventual approval.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "its",
+    "B": "their",
+    "C": "it's",
+    "D": "they're"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent is 'The pharmaceutical company,' which is a singular corporate entity. The possessive pronoun 'its' (singular, third person) correctly refers to the company's new compound. 'Their' is plural—the antecedent is a singular company, not plural. In American English, companies are typically referred to with singular pronouns. 'It's' is a contraction of 'it is' (or 'it has'), not a possessive—'it's new compound' would mean 'it is new compound,' which is nonsensical. 'They're' is a contraction of 'they are,' entirely incorrect."
+}

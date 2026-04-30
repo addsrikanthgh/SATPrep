@@ -1,0 +1,16 @@
+{
+  "id": "q_582",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay arguing that cities should invest in expanding public transit infrastructure. The student wants to make the case that improved public transit provides both environmental and economic benefits. The student has gathered the following notes:\n- Public transit reduces greenhouse gas emissions; a full bus replaces an average of 40 cars.\n- Cities with robust public transit systems tend to have lower rates of traffic congestion.\n- Studies show that every $1 billion invested in public transit generates approximately 50,000 jobs.\n- Low-income residents who lack access to cars depend disproportionately on public transit to reach jobs and services.\n- Expanding bike lanes alongside transit corridors can further reduce car dependence.",
+  "question": "Which choice most effectively uses the notes to support the argument that improved public transit provides both environmental and economic benefits?",
+  "choices": {
+    "A": "Because low-income residents depend on public transit to access jobs and services, cities have a moral obligation to expand transit options.",
+    "B": "Expanding public transit reduces greenhouse gas emissions by replacing private cars, and each billion dollars invested in transit infrastructure generates approximately 50,000 jobs—demonstrating both environmental and economic benefits.",
+    "C": "Cities that build bike lanes alongside transit corridors create more sustainable transportation networks that reduce car dependence overall.",
+    "D": "Improved public transit reduces traffic congestion, which benefits commuters who drive as well as those who take the bus."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to establish both environmental and economic benefits. B directly combines the environmental benefit (emissions reduction) with the economic benefit (jobs created per billion dollars invested), satisfying both parts of the goal. A focuses on an equity argument, not environmental/economic benefits. C mentions sustainability and bike lanes but does not cite economic benefits. D mentions congestion relief—an economic benefit—but not environmental benefits, so it is incomplete."
+}

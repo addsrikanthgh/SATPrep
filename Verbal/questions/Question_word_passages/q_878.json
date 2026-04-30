@@ -1,0 +1,16 @@
+{
+  "id": "q_878",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The first human-made satellite, Sputnik 1, was launched by the Soviet Union in October 1957, demonstrating for the first time that humans could place objects in Earth orbit. ______, the United States accelerated its own space program, eventually establishing NASA in 1958.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "However",
+    "B": "In response",
+    "C": "Likewise",
+    "D": "For example"
+  },
+  "correct_answer": "B",
+  "explanation": "'In response' signals that the second action was motivated by or reacted to the first—the U.S. accelerated its space program in direct response to Sputnik's launch. The causal-reactive relationship is precisely captured by 'in response.' 'However' signals a contrast, but the U.S. acceleration is a reaction to, not a contradiction of, Sputnik. 'Likewise' signals similarity or parallel action, but the second sentence describes a national reaction to a specific event, not a parallel independent development. 'For example' introduces an illustration, but the second sentence is not an example of Sputnik's capabilities."
+}

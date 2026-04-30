@@ -1,0 +1,16 @@
+{
+  "id": "q_765",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The conventional narrative of the Renaissance presents it as a sharp break from the medieval period—a sudden 'rebirth' of classical learning after centuries of intellectual stagnation. This narrative, largely constructed by Renaissance humanists themselves and elaborated by nineteenth-century historians, has been increasingly questioned by medievalists. Scholars such as Charles Homer Haskins have argued for a 'twelfth-century renaissance,' pointing to the flourishing of scholasticism, translations of Aristotle from Arabic, and the founding of the first universities. Others have noted that so-called medieval artists like Giotto were already developing the naturalistic techniques that later Renaissance artists would be credited with inventing. The very concept of a 'medieval' period, these scholars argue, was a retrospective label that flattened centuries of genuine intellectual and artistic development.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "challenge the traditional narrative of the Renaissance as a sudden revival by presenting evidence that intellectual and artistic development was continuous across the medieval period.",
+    "B": "argue that medieval civilization was superior to Renaissance civilization in its commitment to scholarship and artistic innovation.",
+    "C": "explain the role of Arabic translations in transmitting ancient knowledge to European scholars during the twelfth century.",
+    "D": "trace the biography of Charles Homer Haskins and his contributions to the revision of Renaissance historiography."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage opens by presenting the conventional Renaissance-as-break narrative, identifies it as constructed and contested, and then offers multiple lines of counter-evidence (twelfth-century renaissance, scholasticism, Aristotle translations, Giotto's naturalism, and the retrospective construction of 'medieval' as a category). The purpose is to challenge the traditional narrative by showing cultural continuity. A accurately describes this. B attributes a comparative value judgment (medieval was 'superior') that the passage does not make. C focuses narrowly on Arabic translations, which is one detail among several. D describes a biographical account of Haskins, who is mentioned only briefly as one example."
+}

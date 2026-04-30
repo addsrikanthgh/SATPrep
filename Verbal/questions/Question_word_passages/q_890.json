@@ -1,0 +1,16 @@
+{
+  "id": "q_890",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The discovery of exoplanets—planets orbiting stars other than the Sun—has transformed our understanding of the universe's potential for life. Before the first confirmed exoplanet detection in 1992, many astronomers assumed that planetary systems like our own might be rare. Today, data from the Kepler Space Telescope and its successors suggest that most stars host planets, and that billions of rocky planets in the galaxy likely orbit within their star's habitable zone—the range of distances at which liquid water could exist on a planet's surface. Liquid water is considered a prerequisite for life as we know it, making the abundance of potentially habitable worlds one of the most significant findings in modern astronomy.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Liquid water has been confirmed to exist on several exoplanets within the habitable zones of their stars.",
+    "B": "The discovery of exoplanets has revealed that potentially habitable worlds are likely common in the galaxy, challenging earlier assumptions that planetary systems are rare.",
+    "C": "The Kepler Space Telescope was the most important technological achievement in the search for extraterrestrial life.",
+    "D": "Rocky planets are more likely to support life than gas giants because they can maintain liquid water on their surfaces."
+  },
+  "correct_answer": "B",
+  "explanation": "B captures the full arc: what was assumed before (planetary systems rare), what discoveries revealed (most stars host planets, billions in habitable zones), and the significance (challenging assumptions, abundant potential for life). A overstates the evidence—the passage says liquid water could exist on surface, not that it has been confirmed. C makes a comparative claim about Kepler's importance that the passage does not assert. D introduces a planet-type comparison not made in the passage."
+}

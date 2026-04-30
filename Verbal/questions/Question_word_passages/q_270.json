@@ -1,0 +1,16 @@
+{
+  "id": "q_270",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "When psychologists study expertise, they consistently find that novices and experts see the same information very differently. Novices typically focus on surface features—a physics student seeing an inclined-plane problem focuses on the incline itself—while experts encode problems in terms of deep structural features (in this case, the relevant forces and conservation laws). This difference in perception is not merely a matter of knowing more facts; it reflects a qualitatively different organization of knowledge. Expert perception is, in a sense, theory-laden: what an expert sees is already interpreted through a framework that novices have not yet internalized.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Experts and novices differ primarily in the number of facts they can recall from memory.",
+    "B": "The difference between expert and novice perception lies in how knowledge is organized—experts perceive problems through deep structural frameworks rather than surface features.",
+    "C": "Physics students who practice inclined-plane problems will eventually develop expert-level perception without any formal instruction.",
+    "D": "Expert perception is inferior to novice perception in situations requiring attention to surface details."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage's central point is that experts and novices perceive problems differently not because of quantity of facts but because of the qualitative organization of their knowledge—experts see deep structure while novices see surface features. B accurately captures this distinction and the passage's explicit statement that the difference is 'not merely a matter of knowing more facts.' A contradicts the passage, which explicitly says the difference is not about knowing more facts. C makes a claim about how expertise develops (practice without instruction) that the passage does not address. D contradicts the passage entirely; expert perception is presented as superior, not inferior."
+}

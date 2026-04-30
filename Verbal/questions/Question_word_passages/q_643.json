@@ -1,0 +1,16 @@
+{
+  "id": "q_643",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "Professor Chen has published more than forty articles on behavioral economics _______ she is widely regarded as a leading authority in the field.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "economics; she",
+    "B": "economics, she",
+    "C": "economics she",
+    "D": "economics: she"
+  },
+  "correct_answer": "A",
+  "explanation": "Both 'Professor Chen has published more than forty articles on behavioral economics' and 'she is widely regarded as a leading authority in the field' are independent clauses. A semicolon (A) correctly joins two independent clauses without a coordinating conjunction. A comma alone (B) creates a comma splice—a common error. No punctuation (C) creates a run-on sentence. A colon (D) would be appropriate only if the second clause explained or exemplified the first; here, the two clauses are related but the second doesn't define the first."
+}

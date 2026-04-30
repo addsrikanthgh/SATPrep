@@ -1,0 +1,16 @@
+{
+  "id": "q_543",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The Ottoman Empire at its height administered a vast and diverse territory stretching from Hungary to Arabia to North Africa. Rather than imposing religious and cultural uniformity, the Ottomans used a system called the millet—granting recognized religious communities (Christians, Jews, and various Muslim sects) a degree of self-governance over their own civil and religious affairs. This arrangement allowed the empire to incorporate diverse populations without constant rebellion, but it also preserved and in some cases hardened communal boundaries, as each community maintained separate institutions, courts, and social norms.",
+  "question": "Based on the passage, what can most reasonably be inferred about the millet system?",
+  "choices": {
+    "A": "It was primarily designed to assimilate minority religious groups into the dominant Ottoman culture over time.",
+    "B": "While it helped the empire maintain stability by accommodating diversity, it may have reinforced communal divisions rather than eroding them.",
+    "C": "It was a failure because it led to constant rebellion by minority religious communities.",
+    "D": "It is considered by historians to be the ideal model for governing multiethnic empires."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states the millet system 'allowed the empire to incorporate diverse populations without constant rebellion' (stability benefit) 'but also preserved and in some cases hardened communal boundaries' (potential long-term cost). B captures both the benefit and the inference about communal reinforcement. A is contradicted—the passage says the system preserved separate institutions, not that it assimilated minorities. C is directly contradicted—the passage says it reduced rebellion. D is an unsupported evaluative claim; the passage does not say historians consider it ideal."
+}

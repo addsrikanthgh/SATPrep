@@ -1,0 +1,16 @@
+{
+  "id": "q_501",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Social media platforms have fundamentally changed how political information spreads. Because users are presented with content curated by algorithms that prioritize engagement—often achieved through emotional provocation—people are increasingly likely to encounter extreme, sensational, or misleading information. The result is a fragmented information ecosystem in which citizens may hold radically different beliefs about basic facts.\n\nText 2: Research on the relationship between social media use and political polarization has produced mixed results. Several large-scale studies, including one that deactivated Facebook for a subset of users before the 2018 U.S. midterm elections, found surprisingly modest effects on political attitudes and knowledge. Users who left Facebook temporarily did not become measurably less polarized or better informed than those who stayed. These findings suggest that the causal role of social media in polarization may be overstated.",
+  "question": "How would the author of Text 2 most likely respond to the argument made in Text 1?",
+  "choices": {
+    "A": "By agreeing that social media algorithms prioritize emotionally provocative content",
+    "B": "By arguing that the effects Text 1 describes may be real but smaller than typically assumed, based on empirical evidence",
+    "C": "By claiming that political polarization was entirely absent before social media platforms existed",
+    "D": "By suggesting that users who deactivated Facebook became significantly more polarized"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 presents empirical evidence (the Facebook deactivation study) showing the effects of social media on polarization are 'surprisingly modest,' and concludes the 'causal role of social media in polarization may be overstated.' This qualifies rather than entirely rejects Text 1—the author of Text 2 would say the effects Text 1 describes may exist but are likely smaller than Text 1 implies. B captures this qualified challenge. A describes something Text 2 does not dispute but also does not make central. C is an extreme claim Text 2 does not make. D is directly contradicted by Text 2, which says deactivation produced no measurable difference."
+}

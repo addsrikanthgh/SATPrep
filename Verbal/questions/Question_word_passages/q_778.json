@@ -1,0 +1,16 @@
+{
+  "id": "q_778",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Historians of memory have argued that collective memory—the shared narratives a group maintains about its past—is not a passive record but an active reconstruction shaped by present concerns. Maurice Halbwachs, who introduced the concept in the 1920s, argued that individuals remember only within the frameworks provided by their social groups, and that memory is always reconstructed rather than retrieved. This view challenges the commonsense idea that the past is a fixed repository that one either accurately recalls or distorts. Studies of eyewitness testimony and of how nations commemorate wars and atrocities have repeatedly demonstrated that what people 'remember' is heavily shaped by subsequent experience, social pressure, and narrative expectations.",
+  "question": "The author's reference to eyewitness testimony and national commemoration primarily serves to",
+  "choices": {
+    "A": "provide empirical examples that support Halbwachs's theoretical claim that memory is reconstructed rather than retrieved.",
+    "B": "argue that eyewitness testimony should never be used as evidence in legal proceedings because it is always unreliable.",
+    "C": "contrast the reliability of individual memory with the accuracy of national historical records.",
+    "D": "introduce Halbwachs as a critic of legal systems that rely on eyewitness accounts."
+  },
+  "correct_answer": "A",
+  "explanation": "Halbwachs's argument is theoretical—memory is reconstructed within social frameworks. The passage follows this with 'studies of eyewitness testimony and of how nations commemorate wars and atrocities' as empirical support: these studies show that what people 'remember' is shaped by subsequent experience and social pressure. A accurately identifies the function as providing supporting empirical evidence. B draws an extreme legal conclusion not argued in the passage. C claims a contrast between individual and institutional memory accuracy, but the passage treats both as subject to reconstruction. D misidentifies the purpose—Halbwachs is not introduced as a critic of legal systems; he is presented as a theorist of memory."
+}

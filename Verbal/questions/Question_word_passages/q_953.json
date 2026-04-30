@@ -1,0 +1,16 @@
+{
+  "id": "q_953",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Economic historians have noted a persistent 'gender pay gap' across most recorded economies, but debate whether it reflects pure wage discrimination or other factors. Research controlling for occupation, education, and hours worked narrows but does not eliminate the gap. A portion of the remaining gap is explained by the concentration of women in lower-paying occupations—'occupational segregation'—but this raises the further question of whether occupational sorting itself reflects unconstrained choice or structural barriers including social expectations, hiring discrimination, and differential access to networks. Some economists argue that the gap in earnings between full-time and part-time workers—and the premium placed on long, inflexible work hours—penalizes workers who take on more family care responsibilities, who remain disproportionately women.",
+  "question": "Based on the passage, what can most reasonably be inferred about explanations for the gender pay gap?",
+  "choices": {
+    "A": "The gender pay gap is fully explained by women's voluntary occupational choices and preferences.",
+    "B": "Controlling for occupation and education eliminates the gender pay gap entirely, showing that direct discrimination plays no role.",
+    "C": "The gender pay gap is unlikely to have a single simple explanation and may reflect the interaction of multiple structural and social factors.",
+    "D": "The gender pay gap is caused solely by employers paying women less than men for identical work."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes multiple overlapping potential explanations: direct wage discrimination, occupational segregation, structural barriers shaping occupational sorting, and the structure of work hours penalizing caregivers. It also notes that each partial explanation raises further questions. This complexity implies the gap reflects multiple interacting factors rather than any single cause. C is the most reasonable inference. A is contradicted—the passage says occupational sorting may itself reflect structural barriers, not only free choice. B is contradicted—controlling for those factors 'narrows but does not eliminate' the gap. D is contradicted—the passage offers occupational segregation and work-hours structure as additional explanations beyond direct discrimination."
+}

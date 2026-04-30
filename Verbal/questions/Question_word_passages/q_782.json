@@ -1,0 +1,15 @@
+{
+  "id": "q_782",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "While researching a topic, a student has taken the following notes:\n- The Marshall Plan (1948–1952) provided approximately $13 billion in U.S. aid to rebuild Western European economies after World War II.\n- European industrial production rose by 35% above pre-war levels by 1951.\n- The plan also served U.S. strategic interests by stabilizing democracies and reducing the appeal of communist parties in Western Europe.\n- Some historians argue the plan's economic impact was modest compared to European self-recovery.\n- The Soviet Union rejected the plan and pressured Eastern Bloc countries to do the same.\n\nThe student wants to describe the Marshall Plan in a way that acknowledges both its intended goals and a scholarly qualification. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Marshall Plan provided $13 billion in aid to rebuild Western European economies after World War II, but some historians argue that its economic impact was modest compared to European self-recovery.",
+    "B": "The Marshall Plan was rejected by the Soviet Union, which also pressured Eastern Bloc countries not to participate.",
+    "C": "European industrial production rose by 35% above pre-war levels by 1951, demonstrating the Marshall Plan's success.",
+    "D": "The Marshall Plan served U.S. strategic interests by stabilizing democracies and reducing the appeal of communist parties in Western Europe."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to describe the plan and acknowledge a scholarly qualification. A introduces the plan's goal (rebuilding economies, $13 billion) and immediately pairs it with the historians' qualification (modest impact compared to self-recovery). B mentions Soviet rejection—a note about geopolitical context, not the plan's goals or a scholarly qualification. C presents one statistic as proof of success without introducing the plan or any qualification. D mentions only one of the plan's purposes (strategic interest) without the economic aim or any qualification."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_483",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "easy",
+  "passage": "Microplastics—fragments of plastic smaller than five millimeters—have been detected in virtually every environment on Earth, from the deepest ocean trenches to the tops of remote mountains, and increasingly in human tissue, including blood, lung tissue, and the placenta. Microplastics enter the environment from multiple sources: the breakdown of larger plastic items, synthetic textiles that shed fibers during washing, and industrial pellets used in manufacturing. Their small size makes them easy for organisms to ingest, and they have been found in the digestive systems of marine animals ranging from plankton to whales.",
+  "question": "According to the passage, which of the following is true of microplastics?",
+  "choices": {
+    "A": "They are found only in aquatic environments because water accelerates the breakdown of larger plastics.",
+    "B": "They enter the environment exclusively from the breakdown of large plastic waste.",
+    "C": "They have been detected in both environmental and biological contexts, including human tissue.",
+    "D": "Scientists have established that microplastic ingestion causes serious disease in marine mammals."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage explicitly states microplastics have been detected in 'virtually every environment on Earth' and also in human tissue including blood, lung tissue, and the placenta. C accurately reflects both findings. A is contradicted—the passage says microplastics have been found from ocean trenches to mountain tops, not only in aquatic environments. B is contradicted—the passage lists multiple sources including synthetic textiles and industrial pellets. D goes beyond the passage; the passage notes microplastics have been found in digestive systems but does not claim scientists have established causation for disease."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_553",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The island of Nauru in the Pacific Ocean provides an extreme cautionary tale about resource dependency. During the mid-twentieth century, Nauru became one of the world's wealthiest countries per capita due to its enormous phosphate deposits, which were mined and exported as fertilizer. Nauru invested little of this wealth in economic diversification or education. By the 1990s, the phosphate was nearly exhausted, and Nauru's economy collapsed. Much of the island's surface had been rendered uninhabitable by mining. Today, Nauru's population suffers from extremely high rates of diabetes and obesity—partly attributed to the replacement of traditional diets with imported processed food during the boom years—and the country has become heavily dependent on foreign aid.",
+  "question": "Based on the passage, what can most reasonably be inferred about the consequences of Nauru's approach to its phosphate wealth?",
+  "choices": {
+    "A": "Nauru's prosperity during the boom years demonstrates that reliance on a single natural resource is a sustainable development strategy.",
+    "B": "The failure to diversify the economy or invest in education during the boom years left Nauru without the foundation for long-term prosperity once the resource was exhausted.",
+    "C": "Nauru's health problems arose independently of its economic history and would have occurred regardless of the phosphate boom.",
+    "D": "Foreign aid has successfully restored Nauru's economy to its previous prosperity."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage directly states that Nauru 'invested little of this wealth in economic diversification or education' and then traces the collapse that followed resource exhaustion. B correctly infers the causal relationship between the failure to diversify during the boom and the subsequent collapse. A is directly contradicted by the outcome described. C is contradicted—the passage specifically attributes health problems partly to 'replacement of traditional diets with imported processed food during the boom years,' linking the health crisis to the economic history. D is not supported—the passage describes Nauru as currently dependent on foreign aid, not as having recovered."
+}

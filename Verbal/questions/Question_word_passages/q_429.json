@@ -1,0 +1,16 @@
+{
+  "id": "q_429",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The novelist's prose style in her later work became increasingly lapidary—each sentence cut and polished until nothing remained that was not essential, the way a gem cutter removes every facet of stone that does not serve the final form.",
+  "question": "As used in the passage, 'lapidary' most nearly means",
+  "choices": {
+    "A": "relating to the cutting and polishing of gemstones as a craft or profession.",
+    "B": "highly refined and precise in expression; concise to the point of appearing carved.",
+    "C": "overly formal and lacking in emotional warmth.",
+    "D": "written on stone or another hard, permanent material."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'lapidary' is used as a metaphor: the novelist's sentences are 'cut and polished' like gemstones—meaning the prose style is highly refined, precise, and stripped of everything non-essential. B captures this figurative sense. A is the literal, occupational sense of a lapidary (gem cutter)—the passage uses this meaning only as a comparison, not to describe the novelist's profession. C introduces an emotional coldness sense not implied. D is the literal stone-inscription sense (e.g., lapidary inscriptions)—a real usage but not the one in this context."
+}

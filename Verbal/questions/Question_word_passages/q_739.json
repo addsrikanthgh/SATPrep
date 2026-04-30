@@ -1,0 +1,16 @@
+{
+  "id": "q_739",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The article argued that contemporary architects must balance functionality with aesthetic innovation, and that _______ the needs of occupants above all else.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "they must prioritize",
+    "B": "prioritizing",
+    "C": "to prioritize",
+    "D": "the prioritization of"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence uses 'that...and that' to introduce two parallel subordinate clauses. The first clause after 'that' is 'contemporary architects must balance...' which has a subject ('contemporary architects') and modal verb ('must balance'). The second clause after 'and that' must be parallel in structure—it needs a subject and a verb. 'They must prioritize' (A) supplies the necessary subject ('they,' referring to architects) and modal verb ('must prioritize'), creating a parallel structure with the first clause. 'Prioritizing' (B) is a gerund, which would not complete a full clause after 'that.' 'To prioritize' (C) is an infinitive and similarly cannot complete a full clause. 'The prioritization of' (D) is a noun phrase that breaks the parallel structure of the two 'that' clauses."
+}

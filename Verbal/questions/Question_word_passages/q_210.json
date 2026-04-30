@@ -1,0 +1,16 @@
+{
+  "id": "q_210",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "easy",
+  "passage": "A cardiology study measured resting heart rate (RHR) among 320 adults grouped by weekly aerobic exercise frequency. Participants who exercised zero days per week had an average RHR of 78 beats per minute (bpm). Those who exercised 1–2 days per week averaged 73 bpm. Participants exercising 3–4 days per week averaged 65 bpm, and those exercising 5 or more days per week averaged 58 bpm.",
+  "question": "A cardiologist claims that more frequent aerobic exercise is associated with a lower resting heart rate. Which data from the study most directly supports this claim?",
+  "choices": {
+    "A": "Participants who exercised five or more days per week had the lowest average RHR in the study, at 58 bpm.",
+    "B": "RHR decreased consistently with each increase in exercise frequency: 78 bpm for non-exercisers, 73 bpm for 1–2 days, 65 bpm for 3–4 days, and 58 bpm for 5 or more days per week.",
+    "C": "Participants who did not exercise had an average RHR of 78 bpm.",
+    "D": "The study enrolled 320 adults across four exercise frequency categories."
+  },
+  "correct_answer": "B",
+  "explanation": "The cardiologist's claim is that more frequent exercise is consistently associated with a lower RHR—a trend claim. B describes the full pattern of declining RHR across all four frequency categories, providing the strongest and most direct support. A and C each identify only a single group's data point (the most active and the sedentary, respectively) and cannot alone establish a consistent association across all exercise levels. D is a sample description that provides no evidence about the exercise–RHR relationship."
+}

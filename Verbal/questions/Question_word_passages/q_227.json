@@ -1,0 +1,16 @@
+{
+  "id": "q_227",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "easy",
+  "passage": "Coral reefs cover less than one percent of the ocean floor. Yet they support an estimated 25 percent of all marine species, providing feeding grounds, nurseries, and shelter for fish, invertebrates, and countless microorganisms. This disproportionate ecological role has led scientists to call reefs the 'rainforests of the sea'—a comparison that captures both their extraordinary biological richness and their alarming vulnerability to warming and acidification.",
+  "question": "What function does the sentence \"Yet they support an estimated 25 percent of all marine species\" serve in the passage?",
+  "choices": {
+    "A": "It explains why coral reefs occupy less than one percent of the ocean floor.",
+    "B": "It establishes a striking contrast between the reefs' small geographic extent and their outsized ecological importance.",
+    "C": "It introduces the threat posed by ocean warming and acidification to coral reefs.",
+    "D": "It provides the scientific definition of a coral reef ecosystem."
+  },
+  "correct_answer": "B",
+  "explanation": "The word 'Yet' signals a contrast: the preceding sentence established that coral reefs cover a tiny fraction of the ocean floor, and this sentence immediately counters that smallness with a large number (25% of marine species). The function is to create a dramatic contrast that underscores the reefs' disproportionate importance relative to their size. B correctly identifies this contrast function. A inverts cause and effect—the sentence does not explain why reefs are small; it highlights what they do despite being small. C introduces a topic (warming and acidification) that appears only in the final sentence. D is incorrect; the sentence provides no definition."
+}

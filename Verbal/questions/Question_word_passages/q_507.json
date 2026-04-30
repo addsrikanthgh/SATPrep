@@ -1,0 +1,16 @@
+{
+  "id": "q_507",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The practice of prescribing antibiotics for viral infections—which antibiotics cannot treat—is a significant driver of antibiotic resistance. When antibiotics are used unnecessarily, bacteria that happen to carry resistance genes survive and multiply. Over time, resistant strains become dominant in the population. The consequences are serious: infections that were once easily treated now require last-resort drugs with significant side effects, and some are becoming untreatable.\n\nText 2: Reducing unnecessary antibiotic prescriptions is a shared goal, but the problem is more complicated than simply blaming physicians for poor prescribing decisions. Many patients strongly pressure doctors for antibiotics and may leave or give negative reviews if they don't receive them. In health systems where doctors are evaluated partly on patient satisfaction scores, prescribing an antibiotic is often a rational response to institutional incentives, even when it is not medically indicated. Solving antibiotic resistance therefore requires reforming the incentive structures that make overprescription rational, not just educating doctors.",
+  "question": "How does Text 2 build on or modify the argument made in Text 1?",
+  "choices": {
+    "A": "Text 2 contradicts Text 1 by arguing that antibiotic resistance is not caused by overprescription.",
+    "B": "Text 2 agrees that overprescription drives resistance but shifts responsibility from physicians to broader systemic incentives.",
+    "C": "Text 2 argues that patient satisfaction scores are the sole cause of antibiotic resistance.",
+    "D": "Text 2 argues that antibiotic resistance cannot be solved and that efforts to reduce prescribing are futile."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 identifies unnecessary antibiotic prescribing as a driver of resistance. Text 2 accepts this premise but argues that overprescription is often rational given institutional incentive structures, and that solving the problem requires reforming those structures. B correctly identifies this as an agreement on the problem with a modified view of causation and solution. A is wrong—Text 2 does not dispute that overprescription causes resistance. C is too narrow—patient satisfaction is one factor among several institutional incentives mentioned. D introduces a pessimistic claim Text 2 does not make."
+}

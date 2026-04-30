@@ -1,0 +1,16 @@
+{
+  "id": "q_904",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Zero-waste packaging initiatives, which aim to eliminate single-use plastics by substituting biodegradable or reusable alternatives, have gained popularity among retailers and consumers alike. These programs reduce plastic waste in landfills and oceans, decrease dependence on petroleum-derived materials, and offer consumers a more transparent supply chain. Early adopters among major grocery chains have reported strong consumer approval ratings.\n\nText 2: Biodegradable packaging is not as environmentally benign as it appears. Many materials marketed as 'biodegradable' only break down under specific industrial composting conditions—high temperature, controlled moisture—that are not present in typical landfills or marine environments. Without access to appropriate composting infrastructure, biodegradable packaging may persist in the environment as long as conventional plastic. The environmental benefit depends entirely on whether the necessary disposal infrastructure exists.",
+  "question": "Based on the texts, which of the following would the author of Text 2 most likely say about Text 1's claims regarding biodegradable packaging?",
+  "choices": {
+    "A": "The environmental claims are valid because biodegradable packaging always breaks down faster than conventional plastic.",
+    "B": "The environmental claims are overstated because the benefits of biodegradable packaging depend on disposal infrastructure that may not be available.",
+    "C": "Consumer approval of zero-waste initiatives proves that biodegradable packaging reduces plastic pollution.",
+    "D": "Zero-waste packaging initiatives should be rejected because they increase dependence on petroleum."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 argues that the environmental benefits of biodegradable packaging are conditional on proper composting infrastructure. It directly complicates Text 1's claims by showing that the benefits may not materialize without specific conditions. B correctly captures this conditionality. A contradicts Text 2, which disputes the claim that biodegradable packaging always breaks down faster. C mistakes consumer approval for environmental proof—Text 2 argues benefits depend on infrastructure, not popularity. D inverts Text 1's claim; Text 1 says zero-waste initiatives decrease petroleum dependence, not increase it."
+}

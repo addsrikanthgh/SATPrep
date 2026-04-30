@@ -1,0 +1,16 @@
+{
+  "id": "q_733",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The novel's three central themes—identity, loss, and belonging—are explored through both _______ and the nonlinear structure of the narrative.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "lyrical imagery",
+    "B": "imagery that is lyrical in nature",
+    "C": "the use of lyrical imagery",
+    "D": "lyrically imagistic passages"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence uses 'both X and Y' structure, where Y is 'the nonlinear structure of the narrative.' For parallel structure, X must match Y in grammatical form. Y is a noun phrase: 'the nonlinear structure of the narrative.' Among the options, A ('lyrical imagery') is a noun phrase that creates a clean, parallel 'both X and Y' construction: 'both lyrical imagery and the nonlinear structure.' B is a wordy noun phrase; while grammatically parallel, it is unnecessarily verbose. C ('the use of lyrical imagery') is also a noun phrase and parallel, but 'lyrical imagery' is more concise and direct. D ('lyrically imagistic passages') changes the meaning. Between A and C, A is the most concise and cleanly parallel choice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_137",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "In Toni Morrison's Beloved, memory is not a passive repository of past events but an active, destabilizing force. The protagonist Sethe describes her traumatic recollections as 'rememory'—experiences so saturated with pain that they take on a physical presence, occupying specific locations in the landscape and ambushing those who encounter them unprepared. For Morrison, the past does not recede; it persists, encroaching on the present with the insistence of a living thing.",
+  "question": "As used in the passage, \"saturated\" most nearly means",
+  "choices": {
+    "A": "obscured",
+    "B": "soaked",
+    "C": "charged",
+    "D": "destroyed"
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence describes recollections 'saturated with pain' to the degree that they acquire a physical presence. In this figurative context, 'saturated' means fully charged or permeated—with pain acting as the permeating substance. 'Charged' (C) captures this sense of being intensely filled with an emotional quality. 'Soaked' (B) is the most literal meaning of 'saturated' (as in water absorption) but is too physical and fails to convey the emotional intensity the passage requires. 'Obscured' (A) implies something is hidden or unclear, the opposite of the vivid persistence the passage describes. 'Destroyed' (D) contradicts the passage, which emphasizes persistence, not destruction."
+}

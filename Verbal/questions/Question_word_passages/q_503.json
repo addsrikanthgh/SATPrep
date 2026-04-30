@@ -1,0 +1,16 @@
+{
+  "id": "q_503",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The concept of 'implicit bias'—the idea that unconscious associations can influence behavior in ways that disadvantage members of certain groups—has been enormously influential in diversity training and anti-discrimination policy over the past two decades. The Implicit Association Test (IAT), which purports to measure such bias, has been administered millions of times and is widely cited as evidence that most people harbor unconscious racial and gender biases regardless of their stated views.\n\nText 2: Meta-analyses of the implicit bias research have raised serious questions about whether IAT scores predict discriminatory behavior. A 2019 synthesis of over 400 studies found that the correlation between IAT scores and actual behavior was very weak—meaning that knowing someone's IAT score tells you relatively little about how they will act in any given situation. Some researchers have argued that the IAT measures something real but that individual-level scores are too noisy to be useful, and that organizational interventions based on the IAT may have little effect on real-world discrimination.",
+  "question": "The author of Text 2 would most likely characterize the use of the IAT described in Text 1 as:",
+  "choices": {
+    "A": "well-supported by empirical evidence demonstrating strong links between IAT scores and discriminatory behavior",
+    "B": "potentially based on a measure that does not reliably predict individual behavior, making its policy applications questionable",
+    "C": "wholly invalid because no evidence of implicit bias in any form has ever been found",
+    "D": "limited in scope because the IAT has only been administered to a small sample of test-takers"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 presents evidence that IAT scores weakly predict actual behavior and suggests that 'organizational interventions based on the IAT may have little effect.' This directly undermines the policy applications described in Text 1, where the IAT is widely used in training and policy. B captures this specific critique. A is the opposite of what Text 2 argues. C overstates Text 2's critique—some researchers in Text 2 'argued that the IAT measures something real,' so the author does not deny all validity. D is contradicted by Text 1, which states the test has been administered 'millions of times.'"
+}

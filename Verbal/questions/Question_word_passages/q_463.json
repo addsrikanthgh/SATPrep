@@ -1,0 +1,16 @@
+{
+  "id": "q_463",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Many ancient cultures independently developed calendar systems to track agricultural seasons and religious observances. The Babylonians developed a lunisolar calendar; the Maya created an extraordinarily precise 365-day solar calendar; and the ancient Egyptians used a 365-day calendar divided into twelve months of thirty days each, with five extra days added at the end of the year. _______, the ancient Chinese calendar combined solar and lunar elements and is still used today to determine traditional festival dates.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "However",
+    "B": "Additionally",
+    "C": "Therefore",
+    "D": "That is"
+  },
+  "correct_answer": "B",
+  "explanation": "'Additionally' correctly signals that the third sentence adds another example to the list already established in the second sentence (Babylonian, Maya, Egyptian calendars). The sentence about the Chinese calendar is another item in the same list. 'However' implies a contrast, but the Chinese calendar is not contrasted with the others—it is another similar example. 'Therefore' implies the Chinese calendar exists as a result of the others, which is not the relationship. 'That is' implies a restatement, not an addition."
+}

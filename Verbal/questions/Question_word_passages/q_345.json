@@ -1,0 +1,16 @@
+{
+  "id": "q_345",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The philosopher William James distinguished between two types of knowledge: 'knowledge-about,' obtained through description and analysis—knowing facts about Paris—and 'knowledge-by-acquaintance,' obtained through direct experience—having lived in Paris. James argued that no amount of knowledge-about can substitute for knowledge-by-acquaintance, because direct experience gives us immediate, qualitative access to something that descriptions can only approximate.",
+  "question": "Based on the passage, what can most reasonably be inferred about James's view of the relationship between reading about an experience and having it?",
+  "choices": {
+    "A": "James believed that reading can provide knowledge equivalent to direct experience if the description is sufficiently detailed.",
+    "B": "James would likely hold that reading about grief, love, or physical pain, however detailed, cannot fully substitute for the direct experience of those states.",
+    "C": "James argued that knowledge-about is superior to knowledge-by-acquaintance because it is more transferable across contexts.",
+    "D": "James believed that most people overestimate the value of direct experience and underestimate the power of analytical knowledge."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that 'no amount of knowledge-about can substitute for knowledge-by-acquaintance' and that descriptions can only 'approximate' direct experience. Applied to emotional or physical experiences like grief, love, or pain—which are paradigm cases of qualitative, direct experience—James's view implies that reading about them cannot fully substitute for having them. B accurately extends James's principle to a logical implication. A directly contradicts James's view that knowledge-about cannot substitute for acquaintance. C reverses James's hierarchy—he values acquaintance over description, not the other way around. D attributes to James the view that direct experience is overvalued—the opposite of his actual position."
+}

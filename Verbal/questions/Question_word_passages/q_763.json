@@ -1,0 +1,16 @@
+{
+  "id": "q_763",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The placebo effect has long been dismissed as a nuisance variable in clinical trials—a confounding factor that researchers must control for rather than study. But a growing body of research treats the placebo effect as a genuine physiological phenomenon worthy of investigation in its own right. Studies have shown that placebos can trigger measurable changes in brain activity, hormone levels, and even immune function. Intriguingly, some patients experience significant relief even when told explicitly that they are taking a placebo—so-called 'open-label placebos'—suggesting that the effect does not depend entirely on patient deception. These findings raise the possibility that placebo mechanisms could be deliberately harnessed as therapeutic tools.",
+  "question": "The author's discussion of 'open-label placebos' in the passage primarily serves to",
+  "choices": {
+    "A": "challenge the assumption that deception is required for the placebo effect to occur, strengthening the case for using placebos therapeutically.",
+    "B": "provide evidence that patients in clinical trials cannot be trusted to report their symptoms accurately.",
+    "C": "argue that open-label placebos are more effective than double-blind placebos in all medical contexts.",
+    "D": "introduce a new definition of placebo that replaces the traditional understanding of the term."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage has been building toward the argument that placebos are genuine physiological phenomena that could be used therapeutically. The mention of open-label placebos—which work even without deception—removes the objection that any therapeutic use of placebos would require lying to patients. A accurately identifies this rhetorical function: it challenges the deception requirement, supporting the broader therapeutic argument. B introduces a claim about patient reporting accuracy not present in the passage. C makes a comparative effectiveness claim not supported or stated in the passage. D is not what the passage does—it does not redefine the term placebo."
+}

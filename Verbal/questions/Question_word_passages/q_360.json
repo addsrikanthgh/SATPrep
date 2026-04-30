@@ -1,0 +1,16 @@
+{
+  "id": "q_360",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "In the aftermath of the 2008 financial crisis, economists and policymakers debated whether central banks had kept interest rates too low for too long in the preceding years, inflating asset price bubbles. The counterargument—associated with Ben Bernanke and others—was that monetary policy is too blunt an instrument for managing asset prices: raising interest rates enough to deflate a potential bubble would also slow the broader economy and potentially cause the very recession it was meant to prevent. Better, this view held, to use macroprudential regulation—capital requirements, lending standards, leverage limits—targeted directly at the risky financial behaviors driving the bubble.",
+  "question": "Based on the passage, what can most reasonably be inferred about the position associated with Bernanke regarding the proper tools for managing financial bubbles?",
+  "choices": {
+    "A": "Bernanke argued that interest rates should be raised aggressively whenever asset prices increase.",
+    "B": "Bernanke's position implies that targeted regulatory tools are more appropriate than broad monetary policy for preventing asset bubbles, because interest rate increases affect the entire economy, not just the risky behavior in question.",
+    "C": "Bernanke agreed that low interest rates were the primary cause of the 2008 financial crisis.",
+    "D": "Bernanke opposed all forms of financial regulation and believed markets should self-correct."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes Bernanke's view as holding that monetary policy is 'too blunt' for asset price management and that macroprudential regulation (targeted capital requirements, lending standards, leverage limits) is the appropriate tool. The reasoning is that interest rates affect the whole economy while macroprudential tools can be directed at specific risky behaviors. B correctly infers the implication: targeted regulation fits the problem better than broad monetary policy. A directly contradicts Bernanke's position—he argued against raising rates to address bubbles. C misrepresents Bernanke—the passage presents him as skeptical that interest rates should have been the instrument, not as admitting low rates caused the crisis. D is unsupported and directly contradicted—Bernanke explicitly favored macroprudential regulation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_694",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The lymphatic system is often described as the body's 'hidden circulatory system.' It consists of a network of vessels and lymph nodes that collect interstitial fluid—fluid that leaks out of blood capillaries into the spaces between cells—and return it to the bloodstream. Without this return function, tissues would swell with excess fluid, a condition known as lymphedema. The lymphatic system also plays a central role in immunity: lymph nodes filter lymph fluid and contain concentrations of white blood cells that detect and respond to pathogens. Additionally, specialized lymphatic vessels in the small intestine, called lacteals, absorb dietary fats and fat-soluble vitamins and transport them into the bloodstream, bypassing the portal vein.",
+  "question": "According to the passage, what is the role of lacteals in the lymphatic system?",
+  "choices": {
+    "A": "They absorb dietary fats and fat-soluble vitamins from the small intestine and transport them into the bloodstream.",
+    "B": "They filter lymph fluid in the small intestine to remove pathogens before it reaches the bloodstream.",
+    "C": "They collect excess interstitial fluid from intestinal tissues to prevent swelling in the abdominal region.",
+    "D": "They produce white blood cells that help the immune system respond to intestinal infections."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explicitly states that lacteals 'absorb dietary fats and fat-soluble vitamins and transport them into the bloodstream, bypassing the portal vein.' A directly reflects this stated function. B describes the filtering function of lymph nodes, not lacteals—the passage does not say lacteals filter pathogens. C describes the general fluid-collection function of the lymphatic system, not the specific function of lacteals as described. D describes the function of lymph nodes (containing white blood cells), not lacteals."
+}

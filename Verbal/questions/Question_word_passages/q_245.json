@@ -1,0 +1,16 @@
+{
+  "id": "q_245",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "Three principles guided the architect's philosophy: economy of material, honesty of structure, and the belief—articulated most clearly in her 1998 manifesto—that beauty is never ornamental but always functional.",
+  "question": "Which choice correctly explains the punctuation of this sentence?",
+  "choices": {
+    "A": "The colon after 'philosophy' is incorrect because the following list contains elements that are not grammatically parallel.",
+    "B": "The dashes around 'articulated most clearly in her 1998 manifesto' are incorrect because a parenthetical phrase may not appear inside a list item.",
+    "C": "The colon correctly introduces the list, and the paired dashes correctly enclose a nonessential parenthetical phrase within the third list item, functioning like parentheses without disrupting the list structure.",
+    "D": "The colon should be replaced with a semicolon because the list that follows contains three items rather than two."
+  },
+  "correct_answer": "C",
+  "explanation": "The colon follows a complete independent clause and correctly introduces the three-item list. Within the third list item, the dashes enclose a nonessential explanatory phrase ('articulated most clearly in her 1998 manifesto'), functioning equivalently to parentheses. Because the third item already participates in the comma-separated list structure, using parentheses or commas for the internal phrase could cause confusion; dashes provide unambiguous demarcation. C correctly identifies both punctuation features. A is incorrect—the three list items ('economy of material,' 'honesty of structure,' and 'the belief that...') are parallel noun phrases. B is a fabricated rule; parenthetical phrases within list items are common and acceptable. D is incorrect; the number of list items does not determine whether a colon or semicolon is used."
+}

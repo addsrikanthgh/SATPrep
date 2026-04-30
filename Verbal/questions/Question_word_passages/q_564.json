@@ -1,0 +1,16 @@
+{
+  "id": "q_564",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The box jellyfish, found primarily in the waters of northern Australia and Southeast Asia, is considered by many marine biologists to be the most venomous marine animal in the world. Unlike the bell-and-tentacle form of typical jellyfish, the box jellyfish has a cube-shaped body and four clusters of eyes—some of which have a lens, cornea, and retina comparable in complexity to human eyes. Box jellyfish are also active swimmers rather than passive drifters, and they are among the few invertebrates known to exhibit complex predatory behavior, navigating toward light-colored objects that may represent prey. Their stings can cause cardiac arrest in humans within minutes.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "warn swimmers that box jellyfish are extremely dangerous and should never be approached",
+    "B": "describe the distinctive characteristics of the box jellyfish that set it apart from typical jellyfish",
+    "C": "argue that the box jellyfish's eye structure proves that complex vision evolved multiple times independently",
+    "D": "compare the venom potency of box jellyfish to other venomous marine species"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes several distinctive features of the box jellyfish: its cube shape, complex eyes, active swimming behavior, predatory behavior, and deadly venom. The overall structure is descriptive—presenting characteristics that distinguish this animal. B correctly identifies this descriptive purpose. A is a safety warning purpose not supported by the passage's objective, informational tone. C is a specific evolutionary argument the passage does not make. D implies a comparative venomous species analysis; the passage mentions venom but does not compare it to other species."
+}

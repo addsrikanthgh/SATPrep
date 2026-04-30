@@ -1,0 +1,16 @@
+{
+  "id": "q_132",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The committee reviewed three proposals: one from the engineering department, led by Dr. Chen; one from the marketing team, led by Ms. Okafor; and one from the external consultants, represented by a three-person team.",
+  "question": "Which choice best explains why semicolons rather than commas are used to separate the items in the list above?",
+  "choices": {
+    "A": "Semicolons signal that each item in the list is an independent clause expressing a complete thought.",
+    "B": "Semicolons are required because a colon already appears earlier in the sentence, so additional commas would be confusing.",
+    "C": "Semicolons are used because each item in the list already contains a comma, making additional commas ambiguous as list separators.",
+    "D": "Semicolons indicate that the three proposals were submitted at different times and evaluated separately."
+  },
+  "correct_answer": "C",
+  "explanation": "When items in a list contain internal commas (here, each item includes an appositive phrase such as 'led by Dr. Chen'), using commas as list separators would create ambiguity about where one item ends and the next begins. Semicolons act as 'super-commas' that clearly mark the boundaries between list items containing internal commas (C). A is incorrect: the items are not independent clauses—they are noun phrases. B is incorrect: the presence of a colon earlier in the sentence is not the reason for using semicolons in the list; the internal commas within each item are. D is unsupported by any information in the sentence."
+}

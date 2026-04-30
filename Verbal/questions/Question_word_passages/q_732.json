@@ -1,0 +1,16 @@
+{
+  "id": "q_732",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The data collected over the past five years _______ a clear trend toward increased average temperatures in the region.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "show",
+    "B": "shows",
+    "C": "is showing",
+    "D": "has showed"
+  },
+  "correct_answer": "A",
+  "explanation": "The word 'data' is the plural form of 'datum.' In scientific and formal academic writing, 'data' is treated as a plural noun and requires a plural verb. 'Show' (A) is the plural present tense form and correctly agrees with the plural subject 'data.' 'Shows' (B) is singular and incorrect with 'data' in formal usage. 'Is showing' (C) is singular progressive. 'Has showed' (D) is singular present perfect. Note: In informal usage, 'data' is sometimes treated as singular, but the standard formal convention—as tested on the SAT—treats it as plural."
+}

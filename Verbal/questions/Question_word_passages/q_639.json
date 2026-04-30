@@ -1,0 +1,16 @@
+{
+  "id": "q_639",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The judge's ruling was _______ in its reasoning: while the outcome was straightforward, the opinion drew on constitutional law, international human rights precedents, and statutory interpretation—an unusually rich intellectual exercise for what was procedurally a minor case.",
+  "question": "Which word best fills the blank?",
+  "choices": {
+    "A": "capacious",
+    "B": "perfunctory",
+    "C": "laconic",
+    "D": "superficial"
+  },
+  "correct_answer": "A",
+  "explanation": "'Capacious' means spacious, wide-ranging, or capable of holding a great deal—here used metaphorically to describe reasoning that drew on multiple legal frameworks and intellectual traditions despite the case's minor procedural status. Perfunctory (done with minimal effort, carelessly) is the opposite of a rich, multi-framework analysis. Laconic (brief, using few words) describes style/length, not intellectual breadth. Superficial (shallow, not thorough) directly contradicts 'unusually rich intellectual exercise.'"
+}

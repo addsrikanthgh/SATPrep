@@ -1,0 +1,16 @@
+{
+  "id": "q_185",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Critics of the sharing economy tend to focus on its disruption of existing industries: taxi medallion owners displaced by Uber, independent hotels undercut by Airbnb. These harms are real. But this framing turns the question of the sharing economy's value into a question about its impact on incumbents—the people and businesses already positioned in the market—rather than into a question about its impact on consumers and workers previously excluded from those markets or unable to afford their prices.",
+  "question": "What function does the sentence \"These harms are real\" serve in the passage?",
+  "choices": {
+    "A": "It introduces the author's central argument that the sharing economy has caused irreparable damage to existing industries.",
+    "B": "It concedes the validity of critics' concerns before redirecting attention to a broader evaluative framework.",
+    "C": "It provides statistical evidence supporting the claim that taxi and hotel industries have suffered economically.",
+    "D": "It signals that the passage will defend the sharing economy against all charges of harm."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence 'These harms are real' is a concession placed immediately before a pivotal 'But'—a classic rhetorical move in which the author grants opponents a valid point in order to then argue that the framing of that point is too narrow. The concession makes the subsequent critique more credible by not dismissing critics outright (B). A misidentifies the sentence as the author's central argument; it is a concession, and the author's argument is the critique of framing that follows. C incorrectly says the sentence provides statistical evidence—it makes no numerical claims. D contradicts the sentence's meaning; acknowledging 'These harms are real' is the opposite of defending the sharing economy against all charges."
+}

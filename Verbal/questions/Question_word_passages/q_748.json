@@ -1,0 +1,16 @@
+{
+  "id": "q_748",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Historians of science have proposed the concept of 'tacit knowledge' to explain why scientific breakthroughs often cluster geographically. Tacit knowledge is practical expertise that is difficult to transmit through written instructions alone—it must be learned through direct observation of and collaboration with experienced practitioners. When physicist Enrico Fermi moved from Europe to the United States, he brought with him decades of laboratory intuition that could not be reduced to journal articles; his students at the University of Chicago became unusually productive physicists at a rate that exceeded what could be attributed to their formal training alone. This pattern—disproportionate scientific output clustered around a single master practitioner—has been observed across fields from chemistry to biology to economics.",
+  "question": "Based on the passage, what can most reasonably be inferred about why scientific breakthroughs cluster geographically?",
+  "choices": {
+    "A": "Proximity to experienced scientists enables transmission of practical knowledge that cannot be fully conveyed through formal instruction or publications.",
+    "B": "Universities in certain cities receive more government funding, allowing them to attract the best researchers from around the world.",
+    "C": "Scientific breakthroughs cluster geographically because the best equipment is concentrated in only a few locations worldwide.",
+    "D": "Scientists working alone consistently produce more significant breakthroughs than those working in collaborative environments."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explicitly argues that tacit knowledge—practical expertise that cannot be transmitted in writing—must be learned through direct collaboration with experienced practitioners. It gives Fermi as an example of a master practitioner whose presence elevated the productivity of nearby students. A directly captures this inference: physical proximity allows knowledge transfer that publications cannot provide. B is not mentioned—government funding is not discussed. C is also not mentioned—equipment concentration is not the explanation offered. D contradicts the passage, which specifically describes productive collaborative environments around master practitioners."
+}

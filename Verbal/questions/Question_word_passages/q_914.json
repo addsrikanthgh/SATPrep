@@ -1,0 +1,16 @@
+{
+  "id": "q_914",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The 'resource curse' hypothesis holds that countries with abundant natural resource wealth—particularly oil and minerals—tend to have weaker economic growth, less democratic governance, and higher rates of conflict than comparable countries without such resources. Oil revenue insulates governments from their citizens' taxation, reducing accountability; resource booms attract rent-seeking rather than productive enterprise; and natural resource wealth fuels armed group financing in fragile states.\n\nText 2: Some economists have challenged the resource curse as a statistical artifact. Studies purporting to show a negative correlation between resource wealth and economic or democratic outcomes often fail to control for the pre-existing institutional quality of countries. Nations with weak institutions before resource discovery tend to manage windfalls poorly, while those with strong institutions—Norway, Botswana—have used resource wealth to fund development. The curse, in this view, is one of weak institutions, not resources per se.",
+  "question": "Based on the texts, what is the key point of disagreement between the two texts?",
+  "choices": {
+    "A": "Whether oil or mineral wealth is more likely to cause political instability",
+    "B": "Whether resource wealth itself causes poor outcomes, or whether weak prior institutions are the actual driver",
+    "C": "Whether Norway and Botswana should be considered resource-rich nations",
+    "D": "Whether democratic governance is more important than economic growth for developing nations"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 argues that resource wealth itself generates negative outcomes through specific mechanisms (reduced accountability, rent-seeking, conflict financing). Text 2 argues that the negative correlation disappears when controlling for prior institutional quality—that weak institutions, not resources, are the true cause. B correctly identifies this as the core disagreement. A narrows to oil vs. minerals, which neither text specifically debates. C is irrelevant—both texts accept Norway and Botswana as resource examples. D introduces a comparison (democracy vs. growth) that neither text specifically debates."
+}

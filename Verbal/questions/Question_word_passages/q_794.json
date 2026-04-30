@@ -1,0 +1,15 @@
+{
+  "id": "q_794",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Natural language processing (NLP) is a field of artificial intelligence focused on enabling computers to understand and generate human language.\n- Early NLP systems relied on hand-coded grammatical rules and struggled with ambiguity and context.\n- Modern NLP systems use large language models (LLMs) trained on vast amounts of text to predict likely word sequences.\n- LLMs have achieved near-human performance on several language benchmarks, including reading comprehension and question answering.\n- Critics note that LLMs sometimes generate confident but factually incorrect responses, a phenomenon called 'hallucination.'\n\nThe student wants to compare early NLP systems with modern ones and note a key limitation of the modern approach. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "While early NLP systems relied on hand-coded rules and struggled with ambiguity, modern large language models trained on vast text datasets have reached near-human performance on language benchmarks—though they can also generate confident but incorrect responses.",
+    "B": "Natural language processing is a field of AI focused on enabling computers to understand and generate human language.",
+    "C": "Large language models have achieved near-human performance on reading comprehension and question answering benchmarks.",
+    "D": "LLMs sometimes produce 'hallucinations'—confident but factually incorrect responses."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to compare early and modern NLP and note a key limitation of the modern approach. A contrasts the two approaches (hand-coded rules and ambiguity problems vs. data-trained LLMs and near-human performance) and ends with the hallucination limitation. It accomplishes all three elements: comparison + limitation. B defines NLP broadly without comparing or noting a limitation. C reports only modern LLM success without early NLP comparison or limitation. D presents only the hallucination problem without the comparison."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_350",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The Fermi Paradox refers to the apparent contradiction between the high probability estimates for the existence of extraterrestrial civilizations—based on the vast number of stars and planets in the galaxy and the relative ease with which life appears to have arisen on Earth—and the complete absence of confirmed contact or observable evidence of such civilizations. Physicist Enrico Fermi captured the paradox in a simple question: 'Where is everybody?' Proposed resolutions range from the pessimistic 'Great Filter' hypothesis—that some step in the development of technological civilization is extraordinarily rare or lethal—to the optimistic hypothesis that interstellar travel is simply far harder than we imagine and that signals exist but we have not yet detected them.",
+  "question": "Based on the passage, what can most reasonably be inferred about the significance of the Fermi Paradox for assessments of humanity's future?",
+  "choices": {
+    "A": "The Fermi Paradox proves that humans are the only intelligent species in the universe.",
+    "B": "If the Great Filter hypothesis is correct and the filter lies ahead of us rather than behind us, the absence of alien civilizations would suggest humanity faces an existential barrier it has not yet encountered.",
+    "C": "The Fermi Paradox demonstrates that interstellar communication is technologically impossible.",
+    "D": "The absence of detected alien signals proves that the optimistic resolution—signals exist but are undetected—is incorrect."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes the Great Filter as 'some step in development that is extraordinarily rare or lethal.' If the filter lies ahead—meaning most civilizations are destroyed before reaching interstellar communication—then the absence of alien civilizations has dire implications for humanity. B correctly extrapolates the logical implication of the Great Filter being ahead rather than behind. A overstates—the passage presents the paradox as unresolved, not proven. C attributes to the paradox a technological conclusion the passage does not make. D misrepresents the relationship—the absence of signals is compatible with both the 'filter ahead' and 'signals undetected' explanations; it does not disprove the optimistic hypothesis."
+}

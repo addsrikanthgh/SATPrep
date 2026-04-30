@@ -1,0 +1,16 @@
+{
+  "id": "q_728",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The study compared two approaches: administering the drug daily versus _______ it weekly in higher doses.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "administering",
+    "B": "to administer",
+    "C": "administration of",
+    "D": "administered"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence lists two parallel approaches separated by 'versus.' The first approach is expressed with a gerund: 'administering the drug daily.' To maintain parallel structure, the second approach must also use a gerund. 'Administering' (A) correctly matches the gerund form of the first element. 'To administer' (B) is an infinitive, which breaks parallelism. 'Administration of' (C) is a noun phrase, which also breaks parallelism with the gerund. 'Administered' (D) is a past participle form that is not parallel to the gerund."
+}

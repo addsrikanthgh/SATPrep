@@ -1,0 +1,16 @@
+{
+  "id": "q_907",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Remote work, enabled by video conferencing and cloud collaboration tools, has become a permanent feature of the modern workplace. Studies consistently show that remote workers report higher job satisfaction, lower commute-related stress, and productivity levels comparable to or exceeding those of in-office workers. Employers benefit from reduced office costs and access to a wider talent pool unconstrained by geography.\n\nText 2: The narrative of universal remote work success deserves scrutiny. Studies showing high remote worker productivity often rely on self-reported metrics, and workers who prefer remote work are likely to perform better in it—which does not mean all workers perform better remotely. Furthermore, remote work concentrates benefits among knowledge workers while leaving out workers in healthcare, logistics, retail, and manufacturing, who cannot work remotely. Policy discussions about 'the future of work' that focus exclusively on remote work risk ignoring the majority of the workforce.",
+  "question": "Based on the texts, which of the following best characterizes how the author of Text 2 would view Text 1?",
+  "choices": {
+    "A": "As an accurate and comprehensive analysis of remote work that applies to all workers equally",
+    "B": "As overgeneralizing benefits from a subset of workers—knowledge workers—to the workforce as a whole",
+    "C": "As contradicted by evidence showing that remote workers consistently underperform in-office workers",
+    "D": "As correctly identifying the main disadvantage of remote work, which is reduced talent pool diversity"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 explicitly argues that remote work benefits 'concentrate among knowledge workers' while excluding workers in sectors that cannot work remotely. Text 1 describes remote work benefits without this qualification. B correctly captures Text 2's objection: the claims in Text 1 apply to a subset (knowledge workers) but are framed as universal. A is the opposite of Text 2's critique. C misrepresents Text 2, which challenges self-reported metrics and self-selection but does not claim remote workers underperform. D inverts Text 1's actual claim, which says remote work expands the talent pool."
+}

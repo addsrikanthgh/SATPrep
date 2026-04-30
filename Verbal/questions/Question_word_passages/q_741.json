@@ -1,0 +1,16 @@
+{
+  "id": "q_741",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "When Mount Tambora erupted in 1815, it ejected an estimated 100 cubic kilometers of ash and gas into the atmosphere. The eruption was so powerful that it lowered global temperatures by an average of 0.4 to 0.7 degrees Celsius for the following year—1816 became known in North America and Europe as 'The Year Without a Summer.' Crop failures across the Northern Hemisphere led to the worst famine of the nineteenth century. In Switzerland, the cold and darkness of 1816 kept the poet Percy Bysshe Shelley and his companions indoors, where Mary Shelley began writing what would become Frankenstein.",
+  "question": "Based on the passage, what can most reasonably be inferred about the eruption of Mount Tambora?",
+  "choices": {
+    "A": "Its effects extended far beyond the immediate region of the eruption, influencing global climate and human events across multiple continents.",
+    "B": "It was the largest volcanic eruption in recorded history and has never been equaled in scale.",
+    "C": "The famine that followed was caused primarily by the ash that fell directly on agricultural fields rather than by temperature changes.",
+    "D": "Mary Shelley intentionally chose to set Frankenstein in a cold climate to reflect her experience during the Year Without a Summer."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes effects that were worldwide: global temperature drop, crop failures across the Northern Hemisphere, famine in the nineteenth century, and even the writing of Frankenstein in Switzerland. This supports inferring that Tambora's effects were global, not local. A is the most reasonable inference. B is not supported—the passage gives no comparison to other eruptions and does not claim Tambora is the largest ever recorded. C distorts the mechanism; the passage says temperature reduction caused crop failures, not direct ash fall. D reads intent into Mary Shelley's choices that the passage does not support—the passage only says she was kept indoors, not that she intentionally reflected the climate in her novel's setting."
+}

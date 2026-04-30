@@ -1,0 +1,16 @@
+{
+  "id": "q_235",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Contemporary supply chains depend on a principle called 'just-in-time' inventory: goods are ordered and delivered precisely when needed rather than stockpiled. The efficiency gains are real and significant. Under just-in-time logistics, companies hold less inventory, pay lower storage costs, and reduce waste from unsold goods. The fragility exposed during global disruptions, however, is equally real: a single delayed shipment can halt a production line, and there is no buffer stock to absorb the shock.",
+  "question": "What function does the sentence \"The efficiency gains are real and significant\" serve in the passage?",
+  "choices": {
+    "A": "It provides specific data on the cost savings achieved through just-in-time inventory systems.",
+    "B": "It concedes the genuine advantages of just-in-time logistics before the passage pivots to examine their trade-off with fragility.",
+    "C": "It refutes criticism of just-in-time inventory by asserting that its benefits outweigh its risks.",
+    "D": "It concludes the author's argument that supply chains should continue using just-in-time principles."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence acknowledges just-in-time efficiency as genuine ('real and significant') before the passage uses the word 'however' in the final sentence to pivot to the system's fragility. This is a classic concession structure: grant the merits, then identify the countervailing cost. B correctly identifies this as a concession that sets up the pivot to fragility. A is incorrect—the sentence makes no reference to specific data; those details appear in the following sentence. C misidentifies the sentence's function; it does not refute criticism or weigh benefits against risks. D misidentifies the sentence as a conclusion; it appears mid-passage and is followed by a 'however' pivot, not a closing argument."
+}

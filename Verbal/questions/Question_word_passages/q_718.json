@@ -1,0 +1,16 @@
+{
+  "id": "q_718",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The writer and activist bell hooks argued that mainstream feminism in the United States has historically centered the experiences and concerns of white, middle-class women while marginalizing or ignoring the distinct experiences of women of color and working-class women. She proposed an intersectional approach that examines how race, class, and gender oppression interact and reinforce one another, rather than treating gender as the sole axis of women's experience.\n\nText 2: Kimberlé Crenshaw, a legal scholar, introduced the term 'intersectionality' to describe how overlapping social identities—particularly race and gender—create overlapping systems of discrimination. Her original analysis focused on Black women employees who fell through the gaps of legal protections because their claims did not fit neatly into either race discrimination or sex discrimination categories, since those categories were implicitly defined around the experiences of Black men and white women respectively.",
+  "question": "Which choice best describes the relationship between the ideas in Text 1 and Text 2?",
+  "choices": {
+    "A": "Both texts address the inadequacy of single-axis frameworks for understanding the experiences of women of color, though they approach the issue from different disciplinary perspectives.",
+    "B": "Text 1 argues that race and class intersect with gender, while Text 2 argues that gender is the primary determinant of discrimination for all women regardless of race.",
+    "C": "Text 2 introduces intersectionality as a concept that challenges the framework proposed by hooks in Text 1.",
+    "D": "Text 1 focuses on legal discrimination, while Text 2 focuses on cultural and social representations of women."
+  },
+  "correct_answer": "A",
+  "explanation": "Both texts address the inadequacy of focusing on a single axis of identity (gender alone for feminism; race or sex alone in law) when analyzing the experiences of women of color. hooks (Text 1) comes from a cultural/activist perspective; Crenshaw (Text 2) comes from a legal perspective. A correctly identifies the shared concern and the different disciplinary angles. B misrepresents Text 2, which argues the opposite—single-category frameworks were inadequate, not that gender is primary. C misrepresents the relationship—Crenshaw's intersectionality is aligned with, not opposed to, hooks's critique. D swaps the actual focus of each text."
+}

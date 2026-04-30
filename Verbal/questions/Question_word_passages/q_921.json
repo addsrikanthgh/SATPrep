@@ -1,0 +1,16 @@
+{
+  "id": "q_921",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Each of the laboratory's twelve centrifuges ______ calibrated every six months to ensure accurate results.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject of the sentence is 'Each,' which is a singular indefinite pronoun. Even though it is followed by the prepositional phrase 'of the laboratory's twelve centrifuges,' the subject remains 'Each.' Singular subjects require singular verbs. 'Is' is the correct singular present tense form. 'Are' and 'were' are plural or past plural. 'Have been' is also grammatically possible but inconsistent with the present-tense context established by 'every six months.' 'Is' is the correct and consistent choice."
+}

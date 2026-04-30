@@ -1,0 +1,16 @@
+{
+  "id": "q_989",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is researching research ethics in human subjects research and has taken the following notes:\n- The Nuremberg Code (1947), developed after Nazi medical experiments, established informed consent as a fundamental requirement for human research.\n- The Tuskegee Syphilis Study (1932–1972) enrolled African American men with syphilis without informing them of their diagnosis or providing them with available treatment; the study continued even after penicillin became standard treatment in 1947.\n- The Belmont Report (1979), issued in part as a response to Tuskegee, established three ethical principles for human research: respect for persons (autonomy), beneficence, and justice.\n- IRBs (Institutional Review Boards) were established following the Belmont Report to review research protocols before studies begin.\n- Contemporary research ethicists debate whether current IRB review processes adequately protect vulnerable populations, including prisoners, children, and economically disadvantaged communities.",
+  "question": "The student wants to explain how historical abuses in human subjects research directly shaped the development of modern ethical oversight systems. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Contemporary research ethicists continue to debate whether IRBs adequately protect vulnerable populations such as prisoners and economically disadvantaged communities.",
+    "B": "The Belmont Report established the three core principles of research ethics—respect for persons, beneficence, and justice—that guide institutional review today.",
+    "C": "The Tuskegee Syphilis Study, in which African American men were deliberately denied treatment for decades, prompted the Belmont Report (1979) and the creation of IRBs—demonstrating how documented abuse drove the institutionalization of ethical oversight.",
+    "D": "Informed consent, first codified in the 1947 Nuremberg Code, remains the foundational requirement for ethical human subjects research."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to explain how historical abuses directly shaped modern oversight systems. C connects a specific historical abuse (Tuskegee) to the specific modern oversight responses it prompted (Belmont Report, IRBs) and explicitly labels this causal relationship ('demonstrating how documented abuse drove the institutionalization of ethical oversight'). A focuses on current debates about IRB adequacy—not the historical → oversight causal chain. B describes the Belmont Report's principles without connecting them to the historical abuse that caused them. D focuses on the Nuremberg Code and informed consent without tracing to modern oversight institutions."
+}

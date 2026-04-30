@@ -1,0 +1,16 @@
+{
+  "id": "q_977",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Critics of the expanding university system in the late twentieth century argued that 'credential inflation' devalued degrees by flooding the market with graduates: if everyone holds a bachelor's degree, it no longer distinguishes its holder. Defenders responded that rising credential requirements reflect genuinely rising skill demands in the economy. A third perspective notes that the relationship runs in both directions—employers raise credential requirements not only because jobs have become more complex, but also because when more workers hold degrees, employers use credentials as a screening device even for jobs that haven't changed. This dynamic arguably creates a self-reinforcing cycle in which credential requirements rise independently of actual job skill requirements.",
+  "question": "The author's discussion of the 'third perspective' primarily serves to",
+  "choices": {
+    "A": "resolve the debate between critics and defenders by endorsing the third perspective as the definitive explanation.",
+    "B": "introduce a more nuanced view that explains credential inflation as a feedback loop that operates partly independently of actual job skill requirements.",
+    "C": "argue that employers should be prohibited from using educational credentials as hiring criteria.",
+    "D": "summarize the conclusions of a specific economic study on credential inflation."
+  },
+  "correct_answer": "B",
+  "explanation": "The third perspective introduced in the passage complicates both the critics' and the defenders' accounts by showing that credential requirements can rise because more workers hold degrees and employers use credentials as a screening device—not only because jobs demand more skill. This third view frames the dynamic as a self-reinforcing feedback cycle that can operate independently of actual skill requirements. B correctly identifies that the third perspective adds nuance and introduces the feedback loop explanation. A overstates—the passage introduces but does not explicitly endorse the third perspective as definitive. C implies a policy argument not present in the passage. D implies a specific study, which the passage does not cite."
+}

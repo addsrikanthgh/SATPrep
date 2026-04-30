@@ -1,0 +1,16 @@
+{
+  "id": "q_685",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Unlike traditional oil paints, which dry through oxidation over days or weeks, acrylic paints dry by water evaporation and can be ready to overcoat within minutes. This fast drying time gives acrylic painters flexibility—mistakes can be covered quickly—but it also requires a different technical approach. Wet-on-wet blending, which oil painters use to create smooth transitions between colors while the paint remains workable, is difficult with acrylics unless retarding mediums are added to slow drying. Conversely, acrylics are highly versatile in terms of surface compatibility: they can be applied to canvas, wood, paper, and even certain plastics, whereas oil paints typically require a specially primed surface.",
+  "question": "According to the passage, which of the following is presented as an advantage of acrylic paint over oil paint?",
+  "choices": {
+    "A": "Acrylics can be applied to a wider range of surfaces without special preparation.",
+    "B": "Acrylics remain workable for longer periods, making wet-on-wet blending easier.",
+    "C": "Acrylics produce smoother color transitions than oil paints without the use of mediums.",
+    "D": "Acrylics have a higher pigment concentration, resulting in more vibrant colors."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explicitly states that acrylics can be applied to canvas, wood, paper, and certain plastics, while oil paints typically require a specially primed surface. A accurately captures this stated advantage. B is the opposite of what the passage says—acrylics dry fast, making wet-on-wet blending harder, not easier. C is not stated; the passage says smooth transitions are difficult with acrylics. D is not mentioned anywhere in the passage."
+}

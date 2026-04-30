@@ -1,0 +1,16 @@
+{
+  "id": "q_347",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Research in behavioral economics has documented the 'sunk cost fallacy'—the tendency to continue investing in a losing course of action because of past investments rather than expected future returns. The rational course, economists argue, is to ignore sunk costs and evaluate decisions only on the basis of future costs and benefits. Yet evolutionary psychologists have proposed that the sunk-cost tendency may not be irrational in the broader sense: in environments of scarcity, abandoning a partially completed project might signal low status or unreliability to social partners, and the social costs of that signal could exceed the direct costs of continuing.",
+  "question": "Based on the passage, what can most reasonably be inferred about the authors' view of the sunk-cost fallacy?",
+  "choices": {
+    "A": "The sunk-cost tendency is always irrational and should be eliminated through cognitive training.",
+    "B": "The sunk-cost tendency may have been adaptive in ancestral social environments even though it often leads to economically suboptimal decisions in modern contexts.",
+    "C": "Evolutionary psychology has proven that sunk costs should be included in standard economic decision models.",
+    "D": "Economists and evolutionary psychologists agree that the sunk-cost tendency is rational."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents two perspectives: economists call the sunk-cost tendency irrational (it ignores future returns), and evolutionary psychologists propose it may have had social-adaptive value in scarcity environments. The passage presents both views without resolving them. B correctly synthesizes: the tendency may have been adaptive ancestrally (social signaling benefit) even if it is economically suboptimal in modern contexts. A overstates—the passage presents the evolutionary case as a qualification, not a refutation. C overstates the evolutionary psychologists' proposal—they propose a possible adaptive explanation, not a proof that sunk costs should be incorporated into economic models. D claims the two camps agree, when the passage presents them as offering competing framings."
+}

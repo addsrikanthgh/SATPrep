@@ -1,0 +1,16 @@
+{
+  "id": "q_356",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "When a corporation announces a stock buyback—repurchasing its own shares from the open market—the remaining shares become a larger percentage of total ownership, so earnings per share rise even if total earnings are unchanged. Critics argue that buybacks are therefore a financial sleight of hand: they make a company look more profitable on a per-share basis without any underlying improvement in its actual business. Proponents counter that returning capital to shareholders when internal investment opportunities are limited is the efficient thing to do, and that shareholders who prefer to reinvest can do so.",
+  "question": "Based on the passage, what can most reasonably be inferred about how critics and proponents of buybacks differ in their assessment?",
+  "choices": {
+    "A": "Critics and proponents agree that buybacks are always the most efficient use of corporate capital.",
+    "B": "Critics focus on the misleading optical effect of buybacks on per-share metrics, while proponents emphasize the efficient return of capital when no better investment opportunities exist.",
+    "C": "Critics argue that buybacks are illegal, while proponents argue they are legal but unethical.",
+    "D": "Both sides agree that earnings per share is the only metric that matters for evaluating corporate performance."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents two specific perspectives: critics say buybacks inflate per-share metrics without improving underlying business (an optical/cosmetic critique), and proponents say buybacks efficiently return capital when internal investment opportunities are limited (an allocation-efficiency defense). B accurately summarizes this difference. A says both sides agree buybacks are always most efficient—only the proponents make a conditional efficiency argument. C introduces legality and ethics claims not present in the passage. D attributes to both sides an agreement about earnings per share that neither explicitly endorses—critics' point is precisely that EPS can be misleading."
+}

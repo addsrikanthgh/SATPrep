@@ -1,0 +1,16 @@
+{
+  "id": "q_180",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Economists studying aid effectiveness have documented a pattern they call the 'resource curse': countries that discover large reserves of oil, gas, or minerals frequently experience weaker economic growth, higher inequality, and more political instability than comparable countries without such resources. The proposed mechanisms vary: sudden resource revenues may crowd out manufacturing and agriculture by appreciating the exchange rate; governments may become less accountable when they can fund operations through resource extraction rather than taxation; and resource wealth may attract rent-seeking behavior that diverts talent and capital from productive enterprise. Crucially, the curse is not universal—Norway and Botswana have managed resource wealth successfully—suggesting that institutional quality mediates outcomes.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "Countries should refuse to develop natural resource reserves to avoid the economic and political consequences of the resource curse.",
+    "B": "The resource curse proves that economic development is better achieved through manufacturing than through natural resource extraction.",
+    "C": "The fact that Norway and Botswana escaped the resource curse suggests that the relationship between resource wealth and negative outcomes depends on factors beyond the presence of resources themselves.",
+    "D": "Taxation is a more effective mechanism for funding government operations than natural resource extraction in all economic contexts."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage ends by noting that the resource curse is 'not universal' and that Norway and Botswana succeeded, then states this suggests 'institutional quality mediates outcomes.' The direct inference is that the presence of resources is not automatically determinative—outcomes depend on other factors such as institutions (C). A makes a prescriptive recommendation that the passage does not support; it describes problems without recommending resource rejection. B draws a comparative conclusion about manufacturing versus resource extraction that the passage raises as one possible mechanism, not as a proven conclusion. D makes a universal claim about taxation that far exceeds what the passage says—the taxation point is offered as one of several mechanisms explaining the curse, not as a universal principle."
+}

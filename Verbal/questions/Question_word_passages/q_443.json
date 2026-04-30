@@ -1,0 +1,16 @@
+{
+  "id": "q_443",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "Marcus Aurelius _______ Roman emperor from 161 to 180 CE—is remembered as one of the last great Stoic philosophers.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "Aurelius, Roman",
+    "B": "Aurelius—Roman",
+    "C": "Aurelius; Roman",
+    "D": "Aurelius: Roman"
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'Roman emperor from 161 to 180 CE' is a nonrestrictive appositive. The sentence uses an em dash at the end to close the parenthetical phrase ('—is remembered'). When the closing punctuation of a parenthetical phrase is an em dash, the opening punctuation must also be an em dash for consistency. B correctly pairs the opening em dash. A uses a comma to open but an em dash to close—mixing two different parenthetical systems, which is incorrect. C uses a semicolon, which would separate independent clauses. D uses a colon, which would introduce a list or definition."
+}

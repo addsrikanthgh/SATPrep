@@ -1,0 +1,16 @@
+{
+  "id": "q_223",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Early theories of memory treated it as a recording device—a passive system that stored experiences the way a camera stores images. Subsequent research demolished this metaphor. Memories are not retrieved intact; they are reconstructed each time they are accessed, and that reconstruction is vulnerable to suggestion, emotion, and context. Eyewitness testimony, once regarded as the gold standard of courtroom evidence, has been shown in hundreds of studies to be surprisingly unreliable.",
+  "question": "What function does the sentence \"Subsequent research demolished this metaphor\" serve in the passage?",
+  "choices": {
+    "A": "It introduces a new theory of memory that the passage will develop in detail.",
+    "B": "It marks a pivotal shift from presenting an outdated model to explaining evidence that overturned it.",
+    "C": "It explains why eyewitness testimony has been found unreliable in laboratory studies.",
+    "D": "It concedes that the camera metaphor remains partially useful despite its limitations."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence acts as a hinge: it closes the description of the old recording-device model and signals that the passage is now pivoting to the research findings that undermined it. Everything that follows describes what that research revealed—reconstruction, vulnerability to suggestion, and unreliable eyewitness testimony. B correctly identifies this pivot function. A is partly plausible but imprecise; the sentence does not itself 'introduce' a new theory—it signals the collapse of the old one, with the new theory emerging in the sentences that follow. C incorrectly attributes the sentence's function to an explanation of eyewitness unreliability, which comes later and as a consequence. D contradicts the word 'demolished,' which is absolute, not qualified."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_389",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a paper about the benefits of bilingualism. The student has taken the following notes:\n- Studies suggest that bilingual individuals switch between tasks more efficiently than monolingual individuals.\n- Bilingual children develop a stronger awareness of language as an arbitrary system—understanding, for example, that the word 'dog' could just as easily have been called something else.\n- Research published in Annals of Neurology found that bilingualism delayed the onset of Alzheimer's symptoms by an average of 4.5 years in patients who developed the disease.\n- The cognitive benefits of bilingualism appear to be strongest in individuals who actively use both languages regularly.\n- Some researchers have questioned whether the 'bilingual advantage' in task-switching is robust, noting that publication bias may inflate reported effects.",
+  "question": "Which choice most effectively uses the notes to present the case for bilingual education while acknowledging a significant qualification?",
+  "choices": {
+    "A": "Bilingualism has many cognitive benefits, including better task-switching and delayed Alzheimer's onset.",
+    "B": "Bilingualism is associated with stronger task-switching efficiency, greater metalinguistic awareness, and a 4.5-year average delay in Alzheimer's onset—benefits that appear strongest when both languages are used regularly—though some researchers caution that publication bias may overstate the task-switching advantage.",
+    "C": "Some researchers question whether bilingual advantages in task-switching are real, so more research is needed before drawing conclusions about bilingual education.",
+    "D": "Bilingual individuals show cognitive differences from monolinguals, and learning a second language is generally considered valuable."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes the three main benefits (task-switching, metalinguistic awareness, Alzheimer's delay with the 4.5-year figure), the qualifying condition (benefits strongest with regular use of both languages), and the significant caveat (publication bias may overstate task-switching effects). This directly accomplishes the goal of making the case while acknowledging a qualification. A presents two benefits without the metalinguistic awareness note, the regular-use condition, or the publication bias caveat. C foregrounds the caveat so prominently that it undermines rather than qualifies the case—the opposite of what the question asks. D is too vague and introduces no specific data."
+}

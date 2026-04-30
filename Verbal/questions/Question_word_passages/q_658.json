@@ -1,0 +1,16 @@
+{
+  "id": "q_658",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The new regulations require all vendors to disclose their supply chain practices _______ vendors who cannot demonstrate compliance will be removed from the approved supplier list.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "practices;",
+    "B": "practices,",
+    "C": "practices:",
+    "D": "practices"
+  },
+  "correct_answer": "A",
+  "explanation": "Both clauses are independent: 'The new regulations require all vendors to disclose their supply chain practices' and 'vendors who cannot demonstrate compliance will be removed from the approved supplier list.' A semicolon (A) correctly joins two independent clauses without a coordinating conjunction. A comma alone (B) creates a comma splice. A colon (C) would imply the second clause explains or defines what 'disclosing supply chain practices' means, but the second clause introduces a consequence about non-compliant vendors—a related but separate idea better joined by a semicolon. No punctuation (D) is a run-on."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_496",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "easy",
+  "passage": "Biomimicry is the design approach of drawing inspiration from biological structures and processes to solve human engineering challenges. The velcro fastener was inspired by the way burr seeds attach to clothing and animal fur using tiny hooks. The bullet train's famously quiet nose was redesigned after engineers studied the kingfisher bird, whose beak allows it to enter water with minimal splash—and thus minimal air resistance. More recently, researchers have developed stronger adhesives by studying the structure of gecko toe pads, which cling to surfaces without glue through millions of tiny hair-like structures that exploit molecular forces.",
+  "question": "According to the passage, which of the following is an example of biomimicry?",
+  "choices": {
+    "A": "A materials scientist develops a synthetic fiber stronger than any found in nature by combining multiple polymers.",
+    "B": "A marine biologist studies whale behavior to understand how whales navigate using echolocation.",
+    "C": "An engineer redesigns an adhesive by studying the microscopic structure of gecko toe pads.",
+    "D": "A botanist identifies the mechanism by which burr seeds develop hooks over the course of evolution."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage explicitly states that researchers developed stronger adhesives by studying gecko toe pads—a direct application of biological design to engineering. C matches this example. A describes synthetic innovation without biological inspiration. B describes studying whale behavior for biological understanding, not for engineering application. D describes biological research (understanding the evolutionary mechanism), not engineering design inspired by that biology."
+}

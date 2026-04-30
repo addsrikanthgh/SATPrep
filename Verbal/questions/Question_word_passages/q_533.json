@@ -1,0 +1,16 @@
+{
+  "id": "q_533",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The policy applies to all employees _______ work more than twenty hours per week.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "who",
+    "B": "whom",
+    "C": "which",
+    "D": "whose"
+  },
+  "correct_answer": "A",
+  "explanation": "'Who' introduces a relative clause modifying 'employees' and serves as the subject of the verb 'work' in that clause. When the relative pronoun is the subject of its clause, 'who' is correct. A is correct. B ('whom') is the object form and is used when the relative pronoun is the object of a verb or preposition within its clause—here, the pronoun is the subject of 'work.' C ('which') refers to things or animals, not people. D ('whose') is a possessive relative pronoun; the sentence requires a subject pronoun, not a possessive."
+}

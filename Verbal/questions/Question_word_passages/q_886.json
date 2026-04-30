@@ -1,0 +1,16 @@
+{
+  "id": "q_886",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Mangrove forests are coastal ecosystems found in tropical and subtropical regions where freshwater rivers meet the sea. Their dense root systems stabilize shorelines against erosion and filter pollutants from runoff before they reach the ocean. Mangroves provide nursery habitat for a wide range of commercially important fish and crustacean species. They also sequester carbon at rates comparable to tropical rainforests, storing it in their waterlogged soils. Despite these benefits, mangrove forests have declined significantly over recent decades due to coastal development, shrimp farming, and pollution.",
+  "question": "According to the passage, which of the following is a benefit that mangrove forests provide?",
+  "choices": {
+    "A": "Providing food sources that supply coastal populations with more than half their caloric needs",
+    "B": "Filtering pollutants from runoff before they reach the ocean",
+    "C": "Generating sufficient rainfall to sustain tropical vegetation in dry seasons",
+    "D": "Producing oxygen at rates significantly higher than terrestrial forests"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that mangrove root systems 'filter pollutants from runoff before they reach the ocean.' B is directly supported. A introduces a specific caloric statistic not mentioned in the passage. C describes a rainfall generation function not attributed to mangroves in the passage. D introduces an oxygen production comparison not made anywhere in the passage."
+}

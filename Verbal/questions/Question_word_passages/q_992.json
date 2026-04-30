@@ -1,0 +1,16 @@
+{
+  "id": "q_992",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching the economics of minimum wage policy and has taken the following notes:\n- Classical economic theory predicts that a minimum wage set above the equilibrium wage will reduce employment by making labor more expensive for employers.\n- Economist David Card and Alan Krueger's 1994 study of New Jersey and Pennsylvania fast food industries found no evidence of employment loss following a minimum wage increase.\n- Card and Krueger's methodology—comparing employment in two neighboring states before and after a policy change—became influential as a 'natural experiment' approach to policy evaluation.\n- Subsequent meta-analyses of minimum wage studies find mixed results: some find small negative employment effects, others find no significant effect, and effects tend to vary by local labor market conditions.\n- In 2021, Card was awarded the Nobel Prize in Economics for his work on natural experiments, including the minimum wage research.",
+  "question": "The student wants to present Card and Krueger's study as a methodological contribution to economics, not just a finding about minimum wage. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Card and Krueger's 1994 study found that a minimum wage increase in New Jersey did not reduce employment in the fast food industry, contradicting classical economic predictions.",
+    "B": "Meta-analyses of minimum wage research show mixed results, with employment effects varying by local labor market conditions—a complexity the original Card and Krueger study did not fully anticipate.",
+    "C": "Card and Krueger's comparison of New Jersey and Pennsylvania before and after a minimum wage change established an influential 'natural experiment' methodology for evaluating policies—a contribution the Nobel Committee recognized when awarding Card the 2021 Economics Prize.",
+    "D": "Classical economic theory predicts that minimum wage laws above the market equilibrium will reduce employment, but empirical research has often failed to confirm this prediction."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to present Card and Krueger's contribution as methodological. C focuses specifically on the natural experiment methodology, describes what made it methodologically influential (comparing neighboring states before/after a policy change), and connects it to the Nobel recognition—all emphasizing the methodological contribution. A presents only the empirical finding (no employment loss), not the methodological innovation. B shifts focus to subsequent meta-analyses and complications, not Card and Krueger's methodological contribution. D discusses the classical prediction vs. empirical gap broadly, without highlighting Card and Krueger's specific methodological innovation."
+}

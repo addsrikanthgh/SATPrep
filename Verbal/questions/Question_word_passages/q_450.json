@@ -1,0 +1,16 @@
+{
+  "id": "q_450",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The new zoning law affects only properties built before 1980 _______ properties constructed after that date are exempt from the new regulations.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "1980, properties",
+    "B": "1980; properties",
+    "C": "1980: properties",
+    "D": "1980 properties"
+  },
+  "correct_answer": "B",
+  "explanation": "Two independent clauses—'The new zoning law affects only properties built before 1980' and 'properties constructed after that date are exempt from the new regulations'—are joined without a coordinating conjunction. A semicolon is the correct punctuation. B is correct. A creates a comma splice. C uses a colon; while 'the second clause explains the first' logic could make this borderline, the two clauses contrast rather than the second elaborating the first ('only before 1980' vs. 'after that date are exempt'), making semicolon more appropriate. D creates a run-on sentence."
+}

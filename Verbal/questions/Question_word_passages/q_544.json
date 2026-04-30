@@ -1,0 +1,16 @@
+{
+  "id": "q_544",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The monarch butterfly's migratory journey between its summer breeding grounds in Canada and the United States and its winter roosts in the oyamel fir forests of central Mexico spans up to 4,500 kilometers. No individual butterfly makes the round trip: the northward spring migration requires three or four successive generations, each one living only a few weeks. Yet somehow each fall, the final generation of the year navigates to the same overwintering forest—a forest none of them has ever visited.",
+  "question": "Based on the passage, what can most reasonably be inferred about the monarch butterfly's navigational ability?",
+  "choices": {
+    "A": "Monarch butterflies rely on older, experienced butterflies to guide them to the overwintering forest each fall.",
+    "B": "The navigational information required to reach the overwintering forest must be encoded genetically, since the fall generation could not have learned the route from experience.",
+    "C": "Monarch butterflies navigate by following the same rivers and mountain ranges that their ancestors used.",
+    "D": "The migration pattern is learned over a butterfly's lifetime through repeated practice journeys."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage establishes that no individual butterfly makes the full round trip, that the fall generation has never visited the overwintering forest, and yet they navigate there successfully. The only logical inference is that the navigational information is innate (genetically encoded), since the butterflies could not have learned it from experience or from older butterflies (no individual survives to teach them). B correctly makes this inference. A is contradicted—no individual survives the round trip, so there are no 'experienced' butterflies to follow. C is possible speculation but is not supported by the passage. D directly contradicts the passage, which establishes the fall generation has never made the journey before."
+}

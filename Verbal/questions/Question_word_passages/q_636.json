@@ -1,0 +1,16 @@
+{
+  "id": "q_636",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The biographer admitted that the subject's private correspondence revealed a far more _______ figure than the heroic public image suggested: petty jealousies, calculated betrayals of allies, and a vanity that demanded constant reassurance all emerged from the letters with uncomfortable clarity.",
+  "question": "Which word best fills the blank?",
+  "choices": {
+    "A": "flawed",
+    "B": "steadfast",
+    "C": "magnanimous",
+    "D": "principled"
+  },
+  "correct_answer": "A",
+  "explanation": "'Flawed' captures a person with serious character deficiencies—jealousy, betrayal, vanity—contrasted with an admirable public image. The passage explicitly contrasts 'heroic public image' with the private reality. Steadfast (loyal, unwavering) describes the public image, not the private reality revealed by the letters. Magnanimous (noble, generous) is also consistent with the heroic image, not the petty, vain person in the letters. Principled (guided by strong moral principles) similarly contradicts the calculated betrayals."
+}

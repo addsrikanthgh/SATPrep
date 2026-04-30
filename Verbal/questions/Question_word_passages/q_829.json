@@ -1,0 +1,16 @@
+{
+  "id": "q_829",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The young diplomat's approach to the negotiation was _______ compared to her more senior colleagues: while the veterans moved carefully through procedural channels, she directly proposed solutions that cut through months of stalled discussion.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "audacious",
+    "B": "circumspect",
+    "C": "deferential",
+    "D": "equivocal"
+  },
+  "correct_answer": "A",
+  "explanation": "'Audacious' means showing a willingness to take bold risks—directly proposing solutions that cut through procedural delays is audacious compared to the careful procedural approach of veterans. 'Circumspect' means cautious and considering all circumstances before acting—the opposite of her direct, bold approach. 'Deferential' means showing respect and submission—again the opposite; she was not following her seniors' lead but cutting past them. 'Equivocal' means unclear or uncertain—but her approach was decisive and direct, not ambiguous."
+}

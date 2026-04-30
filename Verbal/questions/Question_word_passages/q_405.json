@@ -1,0 +1,16 @@
+{
+  "id": "q_405",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Economists studying minimum wage increases analyzed employment data from 138 counties that straddled state borders where one state raised its minimum wage while the neighboring state did not. They compared quarterly employment growth in the restaurant industry—a sector with many minimum-wage workers—across both sides of each border. The study found no statistically significant difference in restaurant employment growth between the higher-wage and lower-wage counties. However, average worker earnings in the higher-wage counties increased by an average of 7% relative to the lower-wage counties over the same period.",
+  "question": "A researcher claims that minimum wage increases raise worker income without reducing employment in the restaurant sector. Which evidence from the passage best supports this claim?",
+  "choices": {
+    "A": "No statistically significant employment difference was found between higher- and lower-wage counties, and average worker earnings in higher-wage counties rose 7% more than in lower-wage counties.",
+    "B": "The study analyzed 138 counties straddling state borders.",
+    "C": "The restaurant industry employs many minimum-wage workers.",
+    "D": "Quarterly employment data were used rather than annual data."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly supports both parts of the researcher's claim: no employment reduction (no significant difference in growth rates) and higher worker income (7% earnings increase in higher-wage counties). Together these two findings constitute the complete evidence for the claim. B describes the study scale—methodology, not a finding. C provides context for why restaurants were chosen but is not a finding about wages or employment. D describes a methodological choice (data frequency) that does not itself support the claim about employment and earnings."
+}

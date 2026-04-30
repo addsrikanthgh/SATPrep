@@ -1,0 +1,16 @@
+{
+  "id": "q_455",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The software update improved processing speed _______ but it also introduced a bug that caused the application to crash when handling large files.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "speed, but",
+    "B": "speed but",
+    "C": "speed; but",
+    "D": "speed: but"
+  },
+  "correct_answer": "A",
+  "explanation": "Two independent clauses ('The software update improved processing speed' and 'it also introduced a bug...') are joined by the coordinating conjunction 'but.' When a coordinating conjunction joins two independent clauses, a comma precedes it. A correctly places the comma before 'but.' B omits the comma—required before a coordinating conjunction joining two independent clauses. C uses a semicolon before 'but'; a semicolon is used without a coordinating conjunction, not with one. D uses a colon, which is incorrect before a coordinating conjunction."
+}

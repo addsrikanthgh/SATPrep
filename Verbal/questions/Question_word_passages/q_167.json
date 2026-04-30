@@ -1,0 +1,16 @@
+{
+  "id": "q_167",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Mangrove forests occupy the boundary between land and sea along tropical and subtropical coastlines, anchored in saline mud by dense root systems that can trap and stabilize sediment. Because they absorb the energy of incoming waves and storm surge, mangroves reduce coastal erosion and protect inland communities from flooding. They are also among the most carbon-dense ecosystems on Earth, storing carbon in both their living biomass and the waterlogged, low-oxygen sediments beneath them. Despite these services, mangrove forests have been cleared at a rate of roughly 1–2% per year over the past four decades, primarily to make way for shrimp farms and coastal development.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "Shrimp farming is the most environmentally destructive industry currently operating in tropical coastal regions.",
+    "B": "The continued loss of mangrove forests likely increases both coastal flood risk and atmospheric carbon dioxide levels.",
+    "C": "Tropical governments have failed to implement any meaningful policies to protect mangrove forests from destruction.",
+    "D": "Mangrove forests are more effective at carbon storage than tropical rainforests because of their waterlogged sediments."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage establishes that mangroves reduce flooding and store large amounts of carbon. It then states that mangroves are being cleared at 1–2% per year. The inference follows directly: losing mangroves removes both flood protection and carbon storage, which would increase flood risk and release stored carbon into the atmosphere (B). A makes a comparative claim about shrimp farming's relative destructiveness that the passage does not support—shrimp farms are listed as one cause alongside coastal development. C makes a policy claim about governments that the passage never addresses. D makes a comparative claim about mangroves versus rainforests that is not made or supported by the passage."
+}

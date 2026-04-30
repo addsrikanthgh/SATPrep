@@ -1,0 +1,16 @@
+{
+  "id": "q_970",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The concept of a 'scientific consensus' is often misunderstood in public discourse. Consensus does not mean unanimity—there are always outlier scientists who dissent. Rather, it means that the overwhelming weight of evidence, as assessed by experts in the field, supports a particular conclusion. Manufactured doubt—the deliberate promotion of fringe dissent to create the impression of scientific controversy where little genuine controversy exists—has been documented in campaigns around tobacco, lead, and climate change. Understanding the difference between normal scientific debate and manufactured controversy is essential for interpreting science communication accurately.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A concept is defined, a misunderstanding of it is addressed, a related deceptive practice is described, and the practical stakes of understanding the concept are stated.",
+    "B": "Two scientific debates are described and their outcomes are compared.",
+    "C": "A historical narrative traces how scientific consensus formed around tobacco, lead, and climate change.",
+    "D": "Scientific consensus is praised as the most reliable method of producing knowledge, and its critics are refuted."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage follows a four-part structure: (1) notes a misunderstanding of scientific consensus; (2) defines what consensus actually means; (3) describes manufactured doubt as a practice that exploits the misunderstanding; (4) states why understanding the difference matters. A correctly maps this structure. B implies a comparison of two debates, which does not occur. C describes a historical narrative, but the passage only mentions tobacco, lead, and climate as examples, not as a historical narrative. D implies the passage argues for consensus and refutes critics, but the passage is explanatory, not argumentative."
+}

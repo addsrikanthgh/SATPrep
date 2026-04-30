@@ -1,0 +1,16 @@
+{
+  "id": "q_432",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The sociologist described modern bureaucracy as a system that operates through impersonal rules rather than individual discretion—a structure that, paradoxically, produces both extraordinary efficiency and a peculiar form of moral abdication, as each official can claim to be merely executing the rule rather than authoring the outcome.",
+  "question": "As used in the passage, 'abdication' most nearly means",
+  "choices": {
+    "A": "the formal resignation of a monarch from a throne.",
+    "B": "the renunciation or abandonment of a responsibility or duty.",
+    "C": "a deliberate refusal to comply with instructions from above.",
+    "D": "the transfer of authority from one institution to another."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'moral abdication' describes how bureaucratic officials escape personal moral responsibility by claiming to merely follow rules rather than author outcomes—a renunciation or abandonment of moral responsibility. B captures this. A is the specific sense of a monarch abdicating—the passage uses 'abdication' metaphorically, not in a royal context. C introduces deliberate non-compliance—the opposite of executing rules. D describes institutional transfer—not the sense of individual responsibility abandonment."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_441",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The treaty, which had been negotiated over three years _______ was signed by representatives of all twelve nations at a ceremony in Geneva.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "years, was",
+    "B": "years was",
+    "C": "years; was",
+    "D": "years: was"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'which had been negotiated over three years' is a nonrestrictive relative clause modifying 'the treaty.' Nonrestrictive clauses must be set off with commas at both ends. The clause opens with a comma after 'treaty' and must close with a comma after 'years' before 'was.' A correctly places the closing comma. B omits the comma, leaving the clause improperly closed. C uses a semicolon, which incorrectly separates the clause from the main clause as if it were an independent clause. D uses a colon, which does not introduce a list or explanation here."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_657",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The organization's three founding principles—equity, transparency _______ and accountability—guided every decision made during the merger negotiations.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "transparency,",
+    "B": "transparency;",
+    "C": "transparency:",
+    "D": "transparency—"
+  },
+  "correct_answer": "A",
+  "explanation": "The three principles are listed inside an em-dash parenthetical. Within such a parenthetical, items in a series are separated by standard commas. A comma (A) correctly separates 'transparency' from 'and accountability' in the series inside the em dashes. A semicolon (B) would be used if the items contained internal commas, which they don't. A colon (C) is incorrect in this position. Another em dash (D) would signal closing the parenthetical, which comes after 'accountability,' not after 'transparency.'"
+}

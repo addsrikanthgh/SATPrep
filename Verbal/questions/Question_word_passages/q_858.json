@@ -1,0 +1,16 @@
+{
+  "id": "q_858",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The bridge, which was built in 1887 ______ has been designated a historic landmark and is no longer open to vehicular traffic.",
+  "question": "Which choice correctly closes the nonrestrictive clause?",
+  "choices": {
+    "A": "The bridge, which was built in 1887, has been designated a historic landmark",
+    "B": "The bridge, which was built in 1887 has been designated a historic landmark",
+    "C": "The bridge which was built in 1887, has been designated a historic landmark",
+    "D": "The bridge which was built in 1887 has been designated a historic landmark"
+  },
+  "correct_answer": "A",
+  "explanation": "A nonrestrictive relative clause ('which was built in 1887') must be enclosed in commas on both sides. A correctly places commas before 'which' and after '1887': 'The bridge, which was built in 1887, has been...' B places a comma before 'which' but omits the closing comma—incomplete enclosure. C places only the closing comma, omitting the opening one—also incorrect. D omits both commas, treating the clause as restrictive (as if there were multiple bridges and this clause specifies which one), but 'the bridge' is already a specific reference."
+}

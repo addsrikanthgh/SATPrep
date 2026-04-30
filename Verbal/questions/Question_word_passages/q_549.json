@@ -1,0 +1,16 @@
+{
+  "id": "q_549",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In the eighteenth century, Samuel Johnson compiled the first comprehensive English dictionary, a project he initially estimated would take three years but that took nearly nine. Johnson worked largely alone, assisted by six amanuenses who copied out the quotations he selected to illustrate each word's meanings. The French Académie française, working collectively over decades, had produced France's definitive dictionary, and Johnson was expected to do the same. That Johnson succeeded in doing so largely solo—producing more than 40,000 entries—struck contemporaries and later historians as a remarkable individual achievement.",
+  "question": "Based on the passage, what can most reasonably be inferred about why Johnson's dictionary was considered a remarkable achievement?",
+  "choices": {
+    "A": "Because Johnson's dictionary contained more entries than any dictionary ever compiled by a national academy",
+    "B": "Because Johnson completed the project in significantly less time than the French Académie française",
+    "C": "Because producing such a comprehensive reference work had previously required the collective effort of an institution, making Johnson's largely solo achievement exceptional",
+    "D": "Because Johnson's dictionary was the first dictionary of any language ever compiled"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage explicitly compares Johnson's solo effort to the institutional effort of the French Académie, and states that 'contemporaries and later historians' found the solo achievement remarkable. The implied basis for that assessment is that comparable work had previously required institutional collective effort. C correctly captures this inference. A is not supported—the passage does not say Johnson's dictionary had more entries than any academy's. B is not supported—the passage doesn't compare timelines between Johnson and the Académie. D is contradicted by context—the French dictionary existed before Johnson's, so his was not the first dictionary of any language."
+}

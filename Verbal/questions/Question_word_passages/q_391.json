@@ -1,0 +1,16 @@
+{
+  "id": "q_391",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay arguing that machine learning in criminal justice raises serious concerns about fairness. The student has taken the following notes:\n- Risk assessment algorithms (such as COMPAS) are used in some U.S. jurisdictions to inform bail, sentencing, and parole decisions.\n- A 2016 ProPublica investigation found that COMPAS incorrectly flagged Black defendants as higher risk at roughly twice the rate it incorrectly flagged white defendants.\n- The algorithm's developers argued that COMPAS is 'equally accurate' across racial groups in the sense that its overall recidivism prediction rates are comparable.\n- Statisticians have shown that equal overall accuracy and equal false positive rates across demographic groups cannot both be achieved simultaneously if base rates (actual recidivism rates) differ between groups—a mathematical constraint known as the 'impossibility theorem.'\n- Critics argue that using racially disparate risk scores as inputs to judicial decisions automates and legitimizes existing racial inequities in the justice system.",
+  "question": "Which choice most effectively uses the notes to explain why the fairness debate over risk assessment algorithms is not simply a matter of fixing a biased tool?",
+  "choices": {
+    "A": "COMPAS has been shown to produce racially disparate results, and critics argue it should not be used in criminal sentencing.",
+    "B": "The debate over algorithmic fairness in criminal justice is not reducible to fixing a biased tool: statisticians have established that equal overall accuracy and equal false positive rates across groups with different base rates cannot both be achieved simultaneously, meaning the COMPAS developers' claim of 'equal accuracy' and ProPublica's finding of disparate false positives are both technically correct—revealing an irreducible mathematical tension, not just a broken algorithm.",
+    "C": "Because COMPAS incorrectly labels Black defendants as high-risk at twice the rate of white defendants, it is a biased tool that should be replaced.",
+    "D": "Risk assessment algorithms are used in bail, sentencing, and parole decisions, which raises questions about fairness and the role of technology in the justice system."
+  },
+  "correct_answer": "B",
+  "explanation": "B integrates the ProPublica finding, the developers' equal-accuracy claim, and the statistical impossibility theorem to explain why the debate is not simply about a broken tool—it reflects an irreducible mathematical tension. This directly addresses the question's framing ('not simply a matter of fixing a biased tool'). A presents only the disparity and the critics' recommendation without the impossibility theorem. C frames COMPAS as a 'biased tool that should be replaced'—exactly the simplistic framing the question asks the student to go beyond. D is too vague, mentioning fairness concerns without engaging any of the specific technical or mathematical details."
+}

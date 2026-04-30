@@ -1,0 +1,16 @@
+{
+  "id": "q_563",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Theodor Adorno and Max Horkheimer's Dialectic of Enlightenment, written in exile in Los Angeles during World War II, argued that the Enlightenment project—the application of reason to liberate humanity from myth and superstition—had produced its own form of barbarism. Reason, they argued, when fully instrumentalized—reduced to calculating the most efficient means to any given end, without reference to the ends themselves—loses its capacity for self-reflection and critique. The result is not liberation but a 'totally administered world' in which human beings are efficiently managed by systems of economic and cultural power. The culture industry—Hollywood movies, popular music, mass journalism—was, for Adorno and Horkheimer, not a sphere of freedom but a mechanism of ideological pacification, training consumers to accept the existing social order as natural and inevitable.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that Hollywood films and popular music are artistically inferior to classical forms of art and literature",
+    "B": "explain Adorno and Horkheimer's argument that Enlightenment reason, when reduced to instrumental calculation, produces domination rather than liberation, particularly through cultural industry",
+    "C": "defend the Enlightenment against critics who argued that reason inevitably leads to totalitarianism",
+    "D": "compare Adorno and Horkheimer's ideas to those of other Frankfurt School theorists to determine which thinker had the most original contribution"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains Adorno and Horkheimer's core argument: instrumentalized reason produces a 'totally administered world,' and the culture industry functions as ideological pacification. The purpose is explanatory—presenting their thesis. B accurately captures this. A misrepresents the critique—Adorno and Horkheimer's argument is about ideological function, not aesthetic quality. C reverses the passage's direction—the passage explains a critique of the Enlightenment, not a defense of it. D introduces a comparison with other Frankfurt School theorists that the passage does not make."
+}

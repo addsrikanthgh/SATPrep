@@ -1,0 +1,16 @@
+{
+  "id": "q_717",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Photovoltaic solar panels convert sunlight directly into electricity through the photovoltaic effect. As sunlight strikes silicon cells, photons knock electrons loose, generating an electric current. Over the past decade, the cost of solar panels has fallen by more than 80%, making solar energy increasingly competitive with fossil fuels on a cost-per-kilowatt-hour basis.\n\nText 2: Despite falling costs, solar energy faces a fundamental challenge: the sun only shines during daylight hours, and its output varies with weather and season. To provide reliable baseload power, solar installations require either grid-scale energy storage (such as battery arrays) or backup from dispatchable power sources. Current battery storage technology remains expensive at the scale required to fully buffer intermittency, limiting solar's ability to fully displace fossil fuels without substantial investment in storage infrastructure.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 highlights an economic strength of solar energy; Text 2 identifies a technical limitation that complicates solar's ability to serve as a complete replacement for fossil fuels.",
+    "B": "Text 2 challenges the cost figures presented in Text 1 by arguing that solar energy is still more expensive than fossil fuels when storage costs are included.",
+    "C": "Both texts argue that solar energy is already fully capable of replacing fossil fuels as a primary power source.",
+    "D": "Text 2 discusses wind energy as a complementary source that can offset the limitations described in Text 1."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 describes the declining cost of solar panels as a key economic advantage. Text 2 acknowledges falling costs but introduces the intermittency problem—solar only works when the sun shines, and storage is still expensive—limiting its ability to fully replace fossil fuels. A accurately captures this structure: economic strength (Text 1) paired with technical limitation (Text 2). B goes beyond what Text 2 says—it notes that storage is expensive, but it doesn't recalculate the cost-per-kilowatt-hour figures from Text 1. C misrepresents both texts—neither claims solar can already fully replace fossil fuels; Text 2 explicitly says it cannot without storage investment. D is incorrect—Text 2 mentions backup from dispatchable sources but never discusses wind energy."
+}

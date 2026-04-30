@@ -1,0 +1,16 @@
+{
+  "id": "q_817",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A public policy analyst argues that cash transfer programs—which give direct monetary payments to low-income households without restrictions on how the money is spent—are more effective at reducing poverty than in-kind benefit programs such as food stamps or housing vouchers.",
+  "question": "Which finding would most directly support the analyst's argument?",
+  "choices": {
+    "A": "'In a study comparing households receiving cash transfers to those receiving equivalent in-kind benefits, the cash transfer households spent their resources more efficiently, covering a wider range of needs and reporting higher overall wellbeing at the same cost to the program.'",
+    "B": "'Enrollment rates in government benefit programs are lower among eligible households than policymakers intended, partly because of complex application requirements.'",
+    "C": "'Housing voucher programs have reduced homelessness in several major U.S. cities by enabling recipients to afford market-rate apartments.'",
+    "D": "'Low-income households typically spend the majority of their income on food, housing, and transportation, leaving little for savings or emergency expenses.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The analyst argues that cash transfers are more effective at reducing poverty than in-kind benefits. A directly supports this with a head-to-head comparison showing that cash transfer households covered more needs and reported higher wellbeing at equivalent cost—supporting the efficiency and effectiveness argument. B addresses enrollment barriers—a problem with in-kind programs but not a direct comparison of outcomes. C shows a benefit of housing vouchers specifically—which would support in-kind programs rather than the analyst's cash-transfer argument. D describes low-income spending patterns—contextual information, not evidence comparing program effectiveness."
+}

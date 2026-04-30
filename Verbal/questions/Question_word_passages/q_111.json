@@ -1,0 +1,16 @@
+{
+  "id": "q_111",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "The human gut contains approximately 38 trillion microbial cells—roughly equal in number to the body's own cells—forming a complex community known as the microbiome. Research has demonstrated that this microbial community plays a far more active role in human biology than previously recognized. Gut bacteria produce vitamins, regulate hormone levels, and train the immune system to distinguish between harmless substances and genuine threats. Disruptions to the microbiome, whether caused by antibiotics, diet, or illness, have been associated with conditions ranging from inflammatory bowel disease to anxiety disorders.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The human gut contains as many microbial cells as the body has human cells, which poses potential health risks.",
+    "B": "The microbiome is a complex community of bacteria whose disruption is the primary cause of inflammatory diseases.",
+    "C": "The human microbiome plays an active and wide-ranging role in biological processes, and disturbances to it can have significant health consequences.",
+    "D": "Antibiotics are harmful because they disrupt the gut microbiome, which is essential for vitamin production and immune function."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage makes two main points: the microbiome actively participates in diverse biological functions (vitamin production, hormone regulation, immune training), and disruptions to it are associated with a range of health problems. C captures both dimensions. A reduces the passage to a single fact about cell counts and adds an unsupported risk framing. B overstates the claim—the passage says disruptions are 'associated with' inflammatory conditions, not that the microbiome is their 'primary cause.' D focuses only on antibiotics, which appear only as one of three examples in the final sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_876",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The novelist began her career writing short stories for literary magazines, slowly building a readership over the course of a decade. ______, she published her debut novel, which became an international bestseller and was translated into thirty languages.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "In contrast",
+    "B": "Eventually",
+    "C": "Furthermore",
+    "D": "Nonetheless"
+  },
+  "correct_answer": "B",
+  "explanation": "'Eventually' signals that the second event happened after a period of time—she spent years building a readership and eventually published a bestselling novel. The sequence (years of short stories → eventual novel publication) is temporal. 'In contrast' signals opposition, but the second sentence continues and extends her career rather than contrasting it. 'Furthermore' adds an additional point simultaneously, but 'eventually' is needed to signal the temporal sequence from years of effort to the later achievement. 'Nonetheless' signals a concession or contrast despite an obstacle."
+}

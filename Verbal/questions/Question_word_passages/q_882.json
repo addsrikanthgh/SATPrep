@@ -1,0 +1,16 @@
+{
+  "id": "q_882",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "Historians have long debated the causes of the Bronze Age Collapse around 1200 BCE, which saw the near-simultaneous destruction of Mycenaean Greece, the Hittite Empire, Ugarit, and other Mediterranean civilizations within a few decades. Early theories pointed to a single cause, such as an invasion by the 'Sea Peoples' described in Egyptian records. More recent scholarship emphasizes a systems collapse model, in which multiple stressors—including prolonged drought, earthquakes, disrupted trade networks, and internal rebellions—combined to overwhelm interconnected societies that had no resilience against cascading failures. The Sea Peoples, in this view, were as much refugees of the collapse as its cause.",
+  "question": "Which choice best describes the main purpose of the passage?",
+  "choices": {
+    "A": "To argue that earthquakes were the primary cause of the Bronze Age Collapse",
+    "B": "To present the evolution of scholarly thinking about the Bronze Age Collapse from single-cause to multi-factor explanations",
+    "C": "To defend Egyptian records of the Sea Peoples as reliable historical evidence",
+    "D": "To demonstrate that interconnected societies are always more vulnerable to collapse than isolated ones"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage traces a shift in historical scholarship from single-cause explanations (Sea Peoples) to a systems collapse model involving multiple stressors. B accurately describes this purpose. A misidentifies earthquakes as the focus; the passage presents earthquakes as one of several stressors, not the primary cause. C defends nothing about Egyptian records; it actually complicates their interpretation. D makes a universal claim about interconnected vs. isolated societies that goes beyond what the passage asserts."
+}

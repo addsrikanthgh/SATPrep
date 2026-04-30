@@ -1,0 +1,16 @@
+{
+  "id": "q_397",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay about the economics of remote work. The student has taken the following notes:\n- A 2021 Stanford study by Nicholas Bloom found that hybrid workers (2–3 days in office) had the same productivity as fully in-office workers, but hybrid arrangements reduced attrition by 35%.\n- A survey by McKinsey found that 87% of workers offered flexible work options chose to use them.\n- Remote and hybrid work reduces commuting costs for workers and reduces commercial real estate costs for employers.\n- Some managers report difficulty maintaining team cohesion and mentoring junior employees in remote environments.\n- Cities with high concentrations of office workers—such as San Francisco and New York—have experienced significant declines in demand for downtown commercial real estate and retail since 2020.",
+  "question": "Which choice most effectively uses the notes to argue that the economics of remote work favor employees and employers at the cost of certain third parties?",
+  "choices": {
+    "A": "Remote work is popular: 87% of workers with flexible options choose to use them, and hybrid arrangements are as productive as in-office work.",
+    "B": "Remote and hybrid work benefits both employees (lower commuting costs, high adoption) and employers (reduced real estate costs, 35% lower attrition with no productivity loss), but these gains have come at a cost to downtown commercial districts in major cities, where reduced office demand has depressed real estate values and retail since 2020.",
+    "C": "Remote work has its drawbacks, including difficulty with team cohesion and mentoring, which is why some companies require employees to return to the office.",
+    "D": "Cities like San Francisco and New York have seen declining downtown real estate demand since 2020 because so many workers shifted to remote work during the pandemic."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes both sides of the 'employees and employers benefit / third parties bear costs' framing: employee benefits (lower commuting costs, 87% adoption), employer benefits (real estate costs, 35% lower attrition, same productivity), and the third-party cost (downtown real estate and retail decline in cities). This directly accomplishes the essay's goal. A presents worker preference and productivity data but omits employer benefits and the city-level costs. C focuses only on the drawbacks (cohesion, mentoring) without addressing the economic benefits to employees and employers—missing the framing the essay requires. D covers only the downtown decline without the employee/employer benefit data."
+}

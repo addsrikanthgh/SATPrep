@@ -1,0 +1,16 @@
+{
+  "id": "q_877",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Most contemporary historians reject the 'great man' theory of history, which attributes major historical changes to the exceptional decisions of individual leaders. ______, they emphasize structural forces—economic systems, demographic trends, and geographic constraints—as the primary drivers of historical change.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "For instance",
+    "B": "Instead",
+    "C": "In addition",
+    "D": "As a consequence"
+  },
+  "correct_answer": "B",
+  "explanation": "'Instead' signals a substitution or alternative—historians reject one framework (great man theory) and in its place emphasize structural forces. The transition correctly captures the replacement of one explanatory model with another. 'For instance' introduces an example, but the second sentence is not an example of rejecting great man theory; it is the alternative theory they endorse. 'In addition' adds a complementary point, but the second sentence describes a replacement, not an addition. 'As a consequence' implies the structural emphasis was caused by the rejection, which is roughly accurate but overstates the causal relationship; 'instead' more precisely captures the substitution."
+}

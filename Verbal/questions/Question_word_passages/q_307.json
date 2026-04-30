@@ -1,0 +1,16 @@
+{
+  "id": "q_307",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nThe discovery of fossilized dinosaur eggs with embryos, first made in abundance in Mongolia's Gobi Desert in the 1990s, transformed paleontologists' understanding of dinosaur reproduction. The nesting sites revealed that some species, like the oviraptor, brooded their eggs in a posture nearly identical to modern birds—sitting atop a clutch with arms draped around the eggs. This evidence contributed to the now-dominant view that birds are living dinosaurs, descendants of theropod dinosaurs rather than merely dinosaurs' evolutionary cousins.\n\nText 2:\nWhile the dinosaur-bird link is well established, paleontologist Paul Sereno has cautioned against treating modern birds as a simple window into dinosaur behavior. Birds have been evolving independently for roughly 150 million years since the line split from non-avian dinosaurs, and many behaviors we observe in modern birds may be avian innovations with no direct dinosaur precedent. Using birds to reconstruct dinosaur behavior is, Sereno argues, a useful but imperfect heuristic.",
+  "question": "How does the argument in Text 2 relate to the reasoning in Text 1?",
+  "choices": {
+    "A": "Text 2 disputes the claim that birds are descended from theropod dinosaurs.",
+    "B": "Text 2 accepts the evolutionary link between birds and dinosaurs but cautions that 150 million years of independent bird evolution limits the reliability of using modern birds to infer dinosaur behavior.",
+    "C": "Text 2 argues that the brooding posture observed in oviraptors was an innovation unique to birds and did not exist in non-avian dinosaurs.",
+    "D": "Text 2 fully supports Text 1's use of modern birds as a guide to dinosaur behavior."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 explicitly states that 'the dinosaur-bird link is well established'—accepting the evolutionary claim in Text 1—but then argues that the 150 million years of independent bird evolution means modern bird behaviors may not reflect ancestral dinosaur behaviors. B accurately captures this accept-but-qualify structure. A is incorrect—Text 2 opens by granting the link. C makes a specific claim about oviraptors not found in Text 2. D is the opposite of Text 2's caution about using birds as a window into dinosaur behavior."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_679",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The invasive cane toad was intentionally introduced in Australia in 1935 to control the native cane beetle population, which was devastating sugar cane crops. _______ the toads proved largely ineffective at controlling the beetles, since they prefer to hunt on the ground rather than climb the sugar cane stalks where beetles feed.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Unfortunately,",
+    "B": "Similarly,",
+    "C": "Therefore,",
+    "D": "Indeed,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes the intended purpose of the cane toad introduction (to control beetles). The second reveals that this purpose was not achieved, and explains why. This is a concessive or ironic contrast: a deliberate intervention failed to accomplish its stated goal. 'Unfortunately' (A) correctly signals that the second sentence introduces a negative or disappointing outcome relative to the intentions described in the first sentence. 'Similarly' (B) would suggest the second sentence mirrors the first, which it does not. 'Therefore' (C) would imply the ineffectiveness was a logical result of the intention, which is backwards. 'Indeed' (D) reinforces, which is opposite to the relationship here."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_962",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "For decades, the standard treatment for peptic ulcers was antacids and dietary changes, based on the assumption that excess stomach acid was the sole cause. In the early 1980s, Australian physicians Barry Marshall and Robin Warren proposed that a bacterium, Helicobacter pylori, was responsible for most ulcers—a claim met with widespread skepticism from the medical establishment. In a dramatic demonstration of his conviction, Marshall drank a solution containing H. pylori, developed gastritis, and then cured himself with antibiotics. The discovery eventually earned Marshall and Warren the Nobel Prize in Physiology or Medicine in 2005 and fundamentally changed ulcer treatment to antibiotic-based therapy.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A scientific hypothesis is presented, evidence against it is reviewed, and it is ultimately rejected.",
+    "B": "A prevailing medical assumption is described, a challenge to that assumption is introduced, and the passage traces the eventual acceptance of the challenge.",
+    "C": "Two competing theories of disease causation are compared and evaluated for their scientific merit.",
+    "D": "A biography of Barry Marshall is presented, focusing on his early life and medical training."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage begins with the prevailing assumption (acid causes ulcers), then introduces Marshall and Warren's challenge (bacteria cause ulcers), describes resistance from the establishment, relates the dramatic proof (Marshall drinking H. pylori), and concludes with the eventual acceptance (Nobel Prize, changed treatment). This arc—prevailing assumption → challenge → acceptance—matches B. A is incorrect because the hypothesis (bacterial cause) is accepted, not rejected. C is incorrect because only one competing explanation is given serious attention in the narrative structure. D is incorrect—the passage focuses on the discovery, not Marshall's personal biography."
+}

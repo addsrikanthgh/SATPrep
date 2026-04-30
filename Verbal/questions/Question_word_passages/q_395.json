@@ -1,0 +1,16 @@
+{
+  "id": "q_395",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the science of color vision. The student has taken the following notes:\n- The human eye contains three types of cone cells, each sensitive to different wavelengths: short (blue), medium (green), and long (red).\n- Color perception arises not from the activation of individual cones but from the brain's comparison of the relative signals from all three types.\n- Colorblindness most commonly results from having only two functional cone types, making it difficult to distinguish certain wavelength combinations—most often red and green.\n- Some women carry four types of cone cells (tetrachromacy) and may be capable of distinguishing colors invisible to people with standard trichromatic vision.\n- The mantis shrimp has sixteen types of photoreceptors, yet research suggests it processes color less precisely than humans, possibly using a 'yes/no' detection mechanism rather than comparison.",
+  "question": "Which choice most effectively uses the notes to explain what color perception reveals about the relationship between hardware and processing in vision?",
+  "choices": {
+    "A": "The human eye has three types of cone cells, and some women may have four, while the mantis shrimp has sixteen.",
+    "B": "Color perception depends not on the number of photoreceptor types but on how the brain processes their signals: humans use three cone types and comparison-based processing to achieve nuanced color vision, while the mantis shrimp's sixteen photoreceptors—processed through a simpler 'yes/no' mechanism rather than comparison—yield less precise discrimination.",
+    "C": "Colorblindness occurs when someone has only two functional cone types, making it hard to tell red from green.",
+    "D": "The mantis shrimp has sixteen photoreceptors, which shows that more hardware does not always mean better vision."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes the notes to make the conceptual point that the relationship between hardware (number of photoreceptor types) and vision quality depends on processing (comparison vs. yes/no detection). It integrates: human trichromacy + comparison processing → nuanced color vision; mantis shrimp 16 receptors + yes/no processing → less precise discrimination. This directly addresses the essay goal about 'hardware and processing.' A lists the photoreceptor numbers without explaining what they reveal about hardware vs. processing. C presents only the colorblindness note and does not address processing at all. D identifies the insight from the mantis shrimp note alone but fails to integrate the human color vision mechanism for a full comparison."
+}

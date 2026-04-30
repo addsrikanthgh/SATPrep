@@ -1,0 +1,16 @@
+{
+  "id": "q_669",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The Roman aqueducts moved millions of gallons of water daily to supply the city of Rome. _______ engineers had to construct long bridges and tunnels to maintain a steady, slight downhill gradient across varied terrain.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "To accomplish this,",
+    "B": "In contrast,",
+    "C": "As a result,",
+    "D": "Instead,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence states the goal (moving millions of gallons). The second describes the engineering method used to achieve it (bridges and tunnels to maintain gradient). 'To accomplish this' (A) signals that the second sentence describes the means or method by which the goal in the first sentence was achieved—a purpose/method relationship. 'In contrast' (B) and 'Instead' (D) both signal contradiction or replacement, which is incorrect—the engineering is not opposed to the goal. 'As a result' (C) would imply the bridges and tunnels are a consequence of the water transport, which reverses the means/end relationship."
+}

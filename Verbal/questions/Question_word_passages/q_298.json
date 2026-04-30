@@ -1,0 +1,16 @@
+{
+  "id": "q_298",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The popularity of 'brain training' apps—software programs claiming to improve general cognitive abilities such as memory, attention, and processing speed—has grown rapidly despite mixed scientific support. Proponents point to lab studies showing performance gains on the specific tasks trained by the app. _______, researchers have found little evidence that improvements on these narrow tasks transfer to broader real-world cognitive performance, a phenomenon known in psychology as 'transfer of training.'",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Moreover,",
+    "B": "In response to this,",
+    "C": "Critics, however,",
+    "D": "As evidence of this,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage presents proponents' claim (lab performance gains) and then introduces the opposing view (lack of transfer to real-world cognition). The transition must signal that this is a contrasting counter-claim from skeptics or critics. 'Critics, however' (C) accurately labels the source of the competing evidence as critics and uses 'however' to signal the adversative relationship. 'Moreover' (A) would suggest the lack of transfer evidence adds to and supports the proponents' position—the opposite of what occurs. 'In response to this' (B) implies the researchers found their evidence as a deliberate response to the proponents' claims—an unsupported causal relationship. 'As evidence of this' (D) would imply the researchers' findings support the proponents' claims—which reverses the relationship."
+}

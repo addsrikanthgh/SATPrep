@@ -1,0 +1,16 @@
+{
+  "id": "q_642",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The committee's final report, which took eighteen months to complete _______ recommended sweeping changes to the city's zoning laws and infrastructure budget.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "complete,",
+    "B": "complete;",
+    "C": "complete:",
+    "D": "complete"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'which took eighteen months to complete' is a nonrestrictive relative clause—additional information that is not essential to identifying the subject. Nonrestrictive clauses are set off by commas on both sides. A correctly closes the nonrestrictive clause with a comma before the main verb 'recommended.' A semicolon (B) would incorrectly separate the subject from its verb. A colon (C) would be incorrect here. No punctuation (D) leaves the nonrestrictive clause open without proper separation."
+}

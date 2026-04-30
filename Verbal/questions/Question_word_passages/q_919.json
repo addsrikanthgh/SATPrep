@@ -1,0 +1,16 @@
+{
+  "id": "q_919",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Archaeologists have long believed that the ancient city of Cahokia, near present-day St. Louis, was abandoned around 1350 CE following environmental degradation caused by the city's rapid population growth. Intensive agriculture depleted soils, deforestation increased flooding, and the concentration of thousands of people accelerated the spread of disease. The city, once the largest urban center north of Mexico, was empty long before Europeans arrived.\n\nText 2: Recent archaeological and paleoclimatological research has revisited the abandonment of Cahokia. New data suggest that the city's decline began earlier than previously thought, around 1200 CE, and that climate shifts—specifically, a prolonged cooling period associated with the beginning of the Little Ice Age—played a larger role than internal environmental degradation. The causes of Cahokia's decline may be more complex than a single story of self-inflicted environmental collapse.",
+  "question": "Which statement best describes how Text 2 relates to Text 1?",
+  "choices": {
+    "A": "Text 2 confirms Text 1's timeline of abandonment, placing it firmly around 1350 CE.",
+    "B": "Text 2 challenges Text 1's explanation by suggesting an earlier timeline and a larger role for external climate factors.",
+    "C": "Text 2 argues that Cahokia was never truly abandoned, contradicting Text 1's main claim.",
+    "D": "Text 2 provides additional evidence that intensive agriculture was the sole cause of Cahokia's decline."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 directly challenges two elements of Text 1: the timeline (decline began around 1200, not 1350) and the cause (climate factors, not just internal environmental degradation). B accurately identifies both challenges. A is incorrect—Text 2 proposes an earlier, not confirmed, timeline. C overstates—Text 2 revises the explanation for decline, not the fact of abandonment. D contradicts Text 2, which de-emphasizes intensive agriculture as the primary cause."
+}

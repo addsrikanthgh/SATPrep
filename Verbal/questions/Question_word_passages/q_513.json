@@ -1,0 +1,16 @@
+{
+  "id": "q_513",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The philosopher Peter Singer has argued that citizens of wealthy nations have a moral obligation to donate a significant portion of their income to reduce global poverty. His argument rests on the premise that if we can prevent something bad from happening without sacrificing anything of comparable moral importance, we ought to do it. Since the suffering caused by extreme poverty is morally very bad and donating relatively modest sums can prevent it, those who fail to donate are morally responsible for the suffering their inaction allows to continue.\n\nText 2: Critics of Singer's position, including the philosopher Susan Wolf, have argued that his framework collapses the distinction between the supererogatory—actions that are morally praiseworthy but not required—and the obligatory. Wolf argues that a life devoted entirely to maximizing aggregate welfare would be impoverished; it would leave no room for the kinds of personal commitments and projects that make life worth living. Morality must leave room for each person to pursue a meaningful life, which cannot be defined purely as an optimizing algorithm for global welfare.",
+  "question": "Which statement best characterizes the central disagreement between Singer and Wolf as presented in the two texts?",
+  "choices": {
+    "A": "Singer and Wolf disagree about whether global poverty causes serious suffering.",
+    "B": "Singer holds that failure to donate to reduce poverty is morally obligatory, while Wolf argues that extensive charitable giving is praiseworthy but not required because morality must leave room for personal projects.",
+    "C": "Wolf agrees with Singer's premises but rejects his conclusion that donations are effective at reducing poverty.",
+    "D": "Singer argues that morality permits individuals to pursue personal projects, while Wolf argues that all personal activity must serve global welfare."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 presents Singer's argument that not donating is a moral failing—i.e., donating is obligatory. Text 2 presents Wolf's counter that extensive giving is supererogatory (praiseworthy but not required) and that a life of total self-sacrifice is itself problematic. B accurately identifies this as the core disagreement. A is not the debate—neither text questions whether poverty causes serious suffering. C misrepresents Wolf's critique—she challenges the obligatory nature of the demand, not the effectiveness of donations. D reverses Singer's and Wolf's positions."
+}

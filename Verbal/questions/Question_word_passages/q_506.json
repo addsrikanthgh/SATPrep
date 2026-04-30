@@ -1,0 +1,16 @@
+{
+  "id": "q_506",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The replication crisis in psychology has exposed a troubling pattern: many celebrated findings—from ego depletion to power poses to certain priming effects—have failed to replicate when researchers attempt to reproduce them with larger, better-controlled samples. The problem appears systemic. Practices such as p-hacking (testing multiple analyses and reporting only those that reach statistical significance), small sample sizes, and publication bias toward positive results have inflated the published record with unreliable findings.\n\nText 2: Commentators on the replication crisis sometimes overstate the scope of the problem. While replication failures are genuine and important, not all findings in psychology have been equally affected. Core areas of cognitive psychology—perception, memory, attention—have generally held up well, as have many clinical intervention studies. The crisis is most acute in certain subfields of social psychology, particularly those relying on subtle behavioral measures in laboratory settings. Treating psychology as a whole as invalidated would be a serious misreading of the evidence.",
+  "question": "Based on both texts, which statement would both authors most likely accept?",
+  "choices": {
+    "A": "The replication crisis has invalidated all published research in psychology.",
+    "B": "Methodological problems such as p-hacking and small samples have contributed to unreliable findings in some areas of psychology.",
+    "C": "Core areas of cognitive psychology have failed to replicate as often as social psychology findings.",
+    "D": "Publication bias is the only cause of replication failures in psychology."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 explicitly names p-hacking, small samples, and publication bias as systemic causes of unreliable findings. Text 2 acknowledges 'replication failures are genuine and important.' Both authors therefore agree that methodological problems have caused unreliable findings in at least some areas. B captures this shared agreement. A is contradicted by Text 2, which says not all areas have been equally affected and that treating psychology as invalidated would be a 'serious misreading.' C is the opposite of what Text 2 claims—it says cognitive psychology 'held up well.' D is too narrow—Text 1 lists multiple causes, not just publication bias."
+}

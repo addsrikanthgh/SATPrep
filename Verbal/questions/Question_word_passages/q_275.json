@@ -1,0 +1,16 @@
+{
+  "id": "q_275",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "Volcanic soil, known as andisol, is among the most fertile on Earth. Eruptions deposit layers of mineral-rich ash and lava that weather into soils with excellent water retention, high nutrient content, and a texture that supports robust root development. This fertility explains why densely populated communities have historically formed around volcanoes despite the obvious risks. In Indonesia, Japan, and Central America, volcanic highlands support some of the highest agricultural population densities in the world, as farmers weigh the consistent productivity of the soil against the infrequent but potentially catastrophic risk of eruption.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Volcanic eruptions are so infrequent that communities near volcanoes face essentially no meaningful risk.",
+    "B": "The extraordinary agricultural fertility of volcanic soil has historically drawn dense human settlement to volcanic regions despite the associated dangers.",
+    "C": "Indonesia, Japan, and Central America have the highest overall population densities in the world because of their volcanic geography.",
+    "D": "Volcanic soil is fertile primarily because of its water retention, which is more important than its nutrient content."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains why volcanic soil is fertile, then uses that fertility to explain the counterintuitive pattern of dense settlement near volcanoes, framed explicitly as a risk-benefit tradeoff. B captures both the fertility explanation and the settlement pattern it produces. A contradicts the passage, which describes the volcanic risk as 'potentially catastrophic.' C overstates the claim—the passage says volcanic highlands in those countries have high agricultural population densities, not that those countries have the world's highest overall densities. D makes a comparative claim about water retention versus nutrients that the passage does not make; it lists both as features without ranking them."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_408",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Researchers compared two approaches to teaching reading comprehension to fourth graders: explicit strategy instruction (teaching specific skills like summarizing, predicting, and questioning) and extended reading time (dedicating more class time to independent reading with teacher guidance). After one school year, students in explicit strategy groups scored 8 percentile points higher on standardized comprehension tests than those in extended reading groups. However, students in the extended reading groups showed significantly greater gains in reading fluency and vocabulary breadth. A follow-up assessment two years later found that the comprehension advantage of the explicit strategy group had largely disappeared, while the extended reading group's vocabulary gains were maintained.",
+  "question": "An educator claims that extended reading produces more durable long-term benefits than explicit strategy instruction. Which evidence from the passage most directly supports this claim?",
+  "choices": {
+    "A": "The explicit strategy group's comprehension advantage largely disappeared at the two-year follow-up, while the extended reading group's vocabulary gains were maintained.",
+    "B": "Explicit strategy students scored 8 percentile points higher on comprehension tests after one year.",
+    "C": "Extended reading groups received more class time for independent reading with teacher guidance.",
+    "D": "Both groups were fourth graders assessed over one school year."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly supports the 'more durable long-term benefits' claim: explicit strategy gains faded at two years while vocabulary gains from extended reading persisted—evidence that extended reading's benefits are more durable. B shows explicit strategy's short-term advantage, which actually supports the opposing view. C describes the instructional approach, not its outcomes. D describes the study population and timeframe—methodology, not a finding about durability."
+}

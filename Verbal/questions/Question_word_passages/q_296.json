@@ -1,0 +1,16 @@
+{
+  "id": "q_296",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Traditional drug development typically spends years generating hypotheses and running small-scale experiments before committing to full clinical trials—a linear process designed to filter out unlikely candidates early. Machine learning models trained on molecular databases can now predict with reasonable accuracy which compounds are likely to bind to a specific protein target, compressing what once took years of laboratory screening into days of computational analysis. _______, these models can identify promising drug candidates, but they cannot predict how a compound will behave inside a living body, meaning human-led clinical validation remains indispensable.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Furthermore,",
+    "B": "To be sure,",
+    "C": "As a result,",
+    "D": "For this reason,"
+  },
+  "correct_answer": "B",
+  "explanation": "The preceding sentences describe ML's impressive screening capability. The following sentence grants ML can identify candidates ('to be sure') but immediately qualifies that clinical validation remains necessary. The structure is a concessive acknowledgment followed by a limitation. 'To be sure' (B) is a standard English concessive phrase that signals 'I acknowledge this is true, but here is an important qualification.' 'Furthermore' (A) would suggest the limitation adds to and reinforces the ML capability—incorrect since it qualifies it. 'As a result' (C) would imply the limitation is a consequence of ML's speed—not the logical relationship. 'For this reason' (D) would imply the need for clinical validation is caused by ML's predictive power—which inverts the relationship."
+}

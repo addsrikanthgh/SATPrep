@@ -1,0 +1,16 @@
+{
+  "id": "q_415",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A behavioral economics experiment gave 300 participants a choice between receiving $50 immediately or $60 in one month. Participants were randomly assigned to one of three framing conditions: a neutral frame ('receive $60 in 30 days'), a loss frame ('lose the opportunity to receive $60'), or a reminder frame (a text message sent 25 days later reminding them of their choice). Under neutral framing, 54% chose the delayed $60. Under loss framing, 71% chose the delayed option. In the reminder condition, 68% followed through with the delayed option even if they had initially chosen it under neutral framing.",
+  "question": "A researcher claims that how a delayed reward is framed has a larger effect on initial decision-making than on follow-through. Which data best supports this claim?",
+  "choices": {
+    "A": "Loss framing increased the initial choice of the delayed option from 54% to 71% (a 17-point increase), while the reminder condition achieved only a 68% follow-through rate—a smaller absolute effect on behavior.",
+    "B": "54% of participants chose the delayed $60 under neutral framing.",
+    "C": "300 participants were randomly assigned to three conditions.",
+    "D": "The delayed reward was $60, compared to $50 immediately."
+  },
+  "correct_answer": "A",
+  "explanation": "A compares the framing effect on initial decisions (neutral 54% → loss frame 71%, a 17-point shift) with the follow-through rate (68% with reminder), showing that framing at the decision point produced a larger behavioral shift than the reminder intervention. This supports the claim that framing affects initial decision-making more than follow-through. B gives only the neutral-frame baseline—one data point without comparison. C describes random assignment—methodology. D describes the reward amounts—context."
+}

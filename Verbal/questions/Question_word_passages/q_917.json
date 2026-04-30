@@ -1,0 +1,16 @@
+{
+  "id": "q_917",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Proponents of strict originalism in constitutional interpretation argue that judges should apply the Constitution according to the meaning its words had when the relevant provision was ratified. This approach constrains judicial discretion, ensures democratic accountability (since changes to the Constitution require democratic processes), and avoids the charge that unelected judges are substituting their own policy preferences for the law.\n\nText 2: Originalism faces a fundamental methodological challenge: the historical evidence about what constitutional provisions meant to their ratifiers is frequently incomplete, contested, and internally inconsistent. Originalist judges must often choose among multiple competing historical interpretations, and this choice inevitably involves contemporary judgment. Critics argue that invoking historical authority as a constraint on discretion may, in practice, simply obscure discretion behind a historical narrative that is itself constructed to reach preferred outcomes.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to Text 1's claim that originalism constrains judicial discretion?",
+  "choices": {
+    "A": "By agreeing that originalism constrains discretion and arguing that this is harmful to constitutional democracy",
+    "B": "By arguing that historical evidence is so clear and consistent that originalism resolves every constitutional question without discretion",
+    "C": "By arguing that the historical evidence required for originalism is often contested, meaning that originalist judges must still exercise discretion in choosing among competing interpretations",
+    "D": "By claiming that judges should entirely disregard historical meaning and apply constitutional provisions based on current social values"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 directly challenges the claim that originalism constrains discretion by arguing that historical evidence is 'frequently incomplete, contested, and internally inconsistent,' requiring judges to choose among competing interpretations—a choice that involves contemporary judgment and may obscure rather than eliminate discretion. C accurately captures this. A accepts the constraint claim—which Text 2 disputes—and adds a new objection about democracy not in the passage. B is the opposite of Text 2's argument. D introduces a living-constitutionalist alternative that Text 2 does not advocate."
+}

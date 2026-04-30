@@ -1,0 +1,16 @@
+{
+  "id": "q_283",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Spending time in natural environments has been shown to reduce levels of cortisol, the hormone associated with stress. _______, a 2019 study found that urban residents who spent at least two hours per week in parks or forests reported significantly higher overall well-being scores than those who spent less time outdoors.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Consequently,",
+    "B": "Although,",
+    "C": "Supporting this,",
+    "D": "In contrast,"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence makes a general claim about nature reducing stress, and the second sentence provides a study that corroborates this claim. 'Supporting this' (C) accurately signals that the second sentence offers evidence in support of the preceding claim. 'Consequently' (A) signals that the second sentence is a result caused by the first—inappropriate here because the study supports the claim, it is not caused by it. 'Although' (B) introduces a contrast or concession, which is incorrect since both sentences point in the same direction. 'In contrast' (D) signals opposition—also incorrect since the study aligns with, not contradicts, the first sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_367",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The octopus's distributed nervous system is one of the most unusual in the animal kingdom. Roughly two-thirds of its approximately 500 million neurons are located not in its central brain but in its eight arms, each of which can process sensory information and execute motor commands semi-independently. An octopus can lose an arm and the arm will continue to react to stimuli for up to an hour. This distribution of neural control allows the octopus to coordinate complex movements across eight limbs simultaneously without routing every decision through the central brain—a feat of parallel processing that engineers studying soft robotics have found deeply instructive.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the octopus is the most intelligent invertebrate.",
+    "B": "describe the octopus's unusual distributed nervous system and explain how this architecture enables complex, parallel limb coordination.",
+    "C": "compare the octopus's neural architecture unfavorably with vertebrate centralized nervous systems.",
+    "D": "provide a history of how scientists discovered the octopus's semi-independent arm neurons."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes where the neurons are distributed (arms vs. central brain), provides evidence of the arms' semi-independence (the severed arm example), and explains the functional benefit (parallel limb coordination without routing everything through the central brain). B accurately captures both the description and functional explanation. A makes a comparative intelligence claim not present in the passage. C makes a comparative claim between the octopus and vertebrates—the passage does not frame the distributed system as unfavorable or compare it negatively to vertebrate systems. D attributes a historical discovery narrative to the passage, which is not its focus."
+}

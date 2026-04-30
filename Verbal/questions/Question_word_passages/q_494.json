@@ -1,0 +1,16 @@
+{
+  "id": "q_494",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "easy",
+  "passage": "Coral reefs occupy less than one percent of the ocean floor yet support an estimated twenty-five percent of all marine species—a biodiversity concentration that has earned them the nickname 'rainforests of the sea.' This extraordinary biodiversity is partly a function of the physical complexity of the reef itself: the three-dimensional structure of coral provides a vast array of microhabitats, shelter, and feeding opportunities for fish, invertebrates, and other organisms. Reefs also protect coastlines by absorbing wave energy that would otherwise erode shorelines and damage coastal communities.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Coral reefs are threatened primarily by climate change, which raises ocean temperatures and causes coral bleaching.",
+    "B": "Coral reefs are disproportionately important to marine biodiversity and coastal protection relative to the small area they occupy.",
+    "C": "The physical structure of coral is the only reason coral reefs support so many species.",
+    "D": "Coral reefs are found in approximately twenty-five percent of the world's oceans."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage focuses on how much coral reefs provide (25% of marine species, coastline protection) relative to how little space they occupy (less than 1% of the ocean floor). B captures this disproportionate importance. A introduces climate change and coral bleaching, which are not discussed anywhere in the passage. C is too narrow and absolute—the passage says the physical complexity is 'partly' the reason, and also mentions reefs are ecosystems with feeding opportunities. D misreads the statistics—25% refers to marine species, not the percentage of the ocean where reefs are found."
+}

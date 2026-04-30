@@ -1,0 +1,16 @@
+{
+  "id": "q_451",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The three most cited reasons for employee turnover are inadequate compensation _______ poor management, and limited opportunities for advancement.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "compensation, poor",
+    "B": "compensation; poor",
+    "C": "compensation: poor",
+    "D": "compensation poor"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence lists three items in a simple series: 'inadequate compensation, poor management, and limited opportunities for advancement.' The first comma separates the first and second items. A correctly uses a comma. B uses a semicolon to separate items in a simple list—semicolons are used in lists only when the items themselves contain commas. C uses a colon in the middle of a list, which is incorrect—colons can introduce a list but not separate items within it. D has no punctuation between the first and second list items."
+}

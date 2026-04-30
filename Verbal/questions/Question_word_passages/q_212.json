@@ -1,0 +1,16 @@
+{
+  "id": "q_212",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A microbiology study tested four concentrations of a new antibiotic against a bacterial strain and measured survival rates after 24 hours. At 2 mg/L, 64% of bacteria survived. At 4 mg/L, 41% survived. At 8 mg/L, 19% survived, and at 16 mg/L, 6% survived. A separate experiment found that exposing bacteria to concentrations below 4 mg/L for repeated cycles induced resistance mutations in 18% of tested colonies, compared with fewer than 1% for concentrations above 8 mg/L.",
+  "question": "A clinician argues that using sub-therapeutic antibiotic doses not only fails to eliminate bacteria but also promotes the development of resistance. Which data from the study most directly supports both parts of this argument?",
+  "choices": {
+    "A": "At a concentration of 16 mg/L, only 6% of bacteria survived, confirming that sufficiently high doses are effective.",
+    "B": "At concentrations below 4 mg/L, 64% or more of bacteria survived AND 18% of colonies developed resistance mutations, compared with fewer than 1% at concentrations above 8 mg/L.",
+    "C": "Bacterial survival rates declined progressively from 64% at 2 mg/L to 6% at 16 mg/L.",
+    "D": "Concentrations of 4 mg/L or lower failed to reduce bacterial survival below 41%."
+  },
+  "correct_answer": "B",
+  "explanation": "The clinician's argument has two parts: (1) low doses fail to eliminate bacteria, and (2) low doses promote resistance. B is the only choice that addresses both parts simultaneously—it reports high survival (64%+) at low concentrations AND reports the dramatically higher resistance mutation rate (18% vs. <1%) at those same concentrations. C addresses only survival rates and says nothing about resistance development. A focuses on the high-dose outcome, which supports effective elimination but is irrelevant to the sub-therapeutic dose argument. D identifies sub-therapeutic failure in survival but omits the resistance development data entirely."
+}

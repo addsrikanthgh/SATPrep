@@ -1,0 +1,16 @@
+{
+  "id": "q_199",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The historian's account of the trial was meticulous in its documentation of primary sources, _______ she interviewed surviving witnesses, combed through unpublished court records, and cross-referenced her findings with contemporaneous newspaper accounts.",
+  "question": "Which choice most effectively completes the sentence while maintaining standard English conventions?",
+  "choices": {
+    "A": "therefore",
+    "B": "for",
+    "C": "however,",
+    "D": "she"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence contains two independent clauses: 'The historian's account... was meticulous in its documentation of primary sources' and 'she interviewed surviving witnesses, combed through unpublished court records, and cross-referenced her findings...' The second clause explains the reason the first clause is true—the account was meticulous because she did these things. The coordinating conjunction 'for' (B) introduces a cause or reason and is appropriate for joining two independent clauses without a comma error. 'Therefore' (A) is a conjunctive adverb; used after a comma to join two independent clauses, it creates a comma splice—a sentence boundary error. 'However,' (C) indicates contrast, which the passage does not support, and would also create a comma splice. 'She' (D) creates a comma splice by joining two independent clauses with only a comma and no conjunction."
+}

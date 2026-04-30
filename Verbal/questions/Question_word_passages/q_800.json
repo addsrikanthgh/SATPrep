@@ -1,0 +1,15 @@
+{
+  "id": "q_800",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Noise pollution refers to unwanted or harmful levels of sound in the environment.\n- It is caused by traffic, industrial machinery, construction, aircraft, and recreational activities.\n- Studies have linked chronic exposure to noise pollution with elevated blood pressure, sleep disruption, increased stress hormone levels, and cardiovascular disease.\n- The World Health Organization estimates that noise pollution contributes to approximately 12,000 premature deaths per year in Western Europe alone.\n- Mitigation strategies include sound barriers along highways, noise insulation in buildings, and regulations capping permissible decibel levels in urban areas.\n\nThe student wants to describe a cause-and-effect relationship between noise pollution and human health, and note that solutions exist. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Chronic exposure to noise pollution causes elevated blood pressure, sleep disruption, and cardiovascular disease—contributing to an estimated 12,000 premature deaths annually in Western Europe—though solutions such as sound barriers, building insulation, and decibel regulations offer means of mitigation.",
+    "B": "Noise pollution is caused by traffic, industrial machinery, construction, aircraft, and recreational activities.",
+    "C": "The World Health Organization estimates that noise pollution contributes to 12,000 premature deaths per year in Western Europe.",
+    "D": "Noise pollution can be mitigated through sound barriers, building insulation, and urban decibel regulations."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal requires a cause-effect relationship (noise → health consequences) and a note that solutions exist. A presents the health effects (blood pressure, sleep, cardiovascular disease), quantifies the mortality impact (12,000 premature deaths in Western Europe), and then notes mitigation strategies (barriers, insulation, regulations). B covers only causes of noise pollution—no health effects or solutions. C gives only the mortality statistic—no mechanisms or solutions. D covers only mitigation strategies—no cause-effect relationship with health."
+}

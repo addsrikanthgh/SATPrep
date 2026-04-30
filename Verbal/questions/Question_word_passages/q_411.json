@@ -1,0 +1,16 @@
+{
+  "id": "q_411",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A survey of 850 college students examined the relationship between sleep duration and GPA. Students sleeping fewer than 6 hours per night had an average GPA of 2.84; those sleeping 6–7 hours averaged 3.08; and those sleeping 8 or more hours averaged 3.24. The researchers also found that sleep-deprived students were 60% more likely to report missing class and 45% more likely to report difficulty concentrating during lectures.",
+  "question": "Which finding most directly supports the idea that sleep deprivation affects academic performance through behavioral as well as cognitive pathways?",
+  "choices": {
+    "A": "Sleep-deprived students were 60% more likely to miss class (behavioral) and 45% more likely to report difficulty concentrating (cognitive).",
+    "B": "Students sleeping fewer than 6 hours had an average GPA of 2.84.",
+    "C": "Students sleeping 8 or more hours averaged the highest GPA at 3.24.",
+    "D": "The survey included 850 college students."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly identifies both a behavioral pathway (missing class) and a cognitive pathway (difficulty concentrating), supporting the claim that sleep deprivation operates through two distinct mechanisms. B and C show the GPA outcome but do not distinguish behavioral from cognitive pathways. D describes sample size—methodology."
+}

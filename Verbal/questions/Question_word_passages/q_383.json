@@ -1,0 +1,16 @@
+{
+  "id": "q_383",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about the role of microorganisms in ocean carbon cycling. The student has taken the following notes:\n- The ocean absorbs approximately 25–30% of the carbon dioxide emitted by human activities each year.\n- Phytoplankton—microscopic photosynthetic organisms—fix carbon dioxide through photosynthesis, producing about half of Earth's oxygen.\n- When phytoplankton die, some of the carbon they contain sinks to the deep ocean as particles—a process called the 'biological pump.'\n- The biological pump removes an estimated 5–12 billion tons of carbon from the surface ocean each year.\n- Changes in ocean temperature and nutrient availability affect phytoplankton populations and therefore the efficiency of the biological pump.",
+  "question": "Which choice most effectively uses the notes to explain phytoplankton's dual importance to Earth's carbon and oxygen systems?",
+  "choices": {
+    "A": "Phytoplankton are very important to the ocean and affect how much carbon dioxide is in the atmosphere.",
+    "B": "Phytoplankton produce roughly half of Earth's oxygen through photosynthesis and, through the biological pump, remove an estimated 5–12 billion tons of carbon from the surface ocean annually—making them central to both global oxygen production and carbon removal.",
+    "C": "The ocean absorbs a large portion of human carbon emissions, partly because of phytoplankton, which are microscopic organisms.",
+    "D": "Because ocean temperatures are rising, phytoplankton populations may change, which could affect the biological pump."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes two specific roles: oxygen production (half of Earth's supply) and the biological pump (5–12 billion tons of annual carbon removal), connecting both directly to phytoplankton's dual importance. This integrates three of the notes into a precise, parallel statement. A is vague and relies on no specific data. C mentions the ocean's carbon absorption and phytoplankton but describes phytoplankton only as 'microscopic organisms,' omitting the specific oxygen and biological pump data. D focuses only on the future risk from temperature change (one note), omitting the current dual importance the question asks about."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_520",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Proponents of universal basic income (UBI)—a regular, unconditional cash payment to all citizens—argue that it would eliminate poverty, reduce inequality, and provide workers with the freedom to pursue education, caregiving, or entrepreneurship without the fear of destitution. Unlike means-tested welfare programs, UBI is universal and unconditional, eliminating the bureaucratic overhead, stigma, and coverage gaps that characterize the current system.\n\nText 2: Critics of universal basic income point out that its fiscal costs are enormous. A UBI large enough to replace existing poverty-prevention programs in the United States would require trillions of dollars annually, necessitating either very large tax increases or cuts to other programs—including Medicare and Medicaid—that the poor rely on. Some economists argue that UBI is a bad trade: it substitutes universal but inadequate payments for targeted but more generous support for those who need it most.",
+  "question": "How do the two texts differ in their assessment of universal basic income?",
+  "choices": {
+    "A": "Text 1 focuses on the potential benefits of UBI and the limitations of current welfare programs, while Text 2 focuses on fiscal costs and the risk that UBI could reduce targeted support for the poorest.",
+    "B": "Both texts agree that UBI should replace all existing welfare programs immediately.",
+    "C": "Text 2 argues that UBI would eliminate poverty, while Text 1 argues it would increase inequality.",
+    "D": "Text 1 argues UBI is too expensive, while Text 2 argues it is not expensive enough."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 presents positive arguments for UBI (eliminating poverty, reducing inequality, freedom, eliminating welfare bureaucracy). Text 2 raises fiscal cost concerns and argues UBI might substitute inadequate universal payments for more generous targeted support—potentially harming the poorest. A accurately captures both the positive emphasis of Text 1 and the fiscal/distributional concerns of Text 2. B is not supported—Text 1 does not call for immediate replacement, and Text 2 explicitly opposes replacing targeted programs. C reverses the arguments. D reverses them completely."
+}

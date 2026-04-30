@@ -1,0 +1,16 @@
+{
+  "id": "q_370",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The concept of 'moral luck' was introduced into philosophy by Thomas Nagel and Bernard Williams to describe the unsettling phenomenon in which people are held morally responsible for outcomes they could not fully control. A driver who runs a red light and kills a pedestrian is judged far more harshly than an equally reckless driver who ran the same light with no one in the intersection—even though the recklessness was identical. This asymmetry troubles philosophers because it suggests that our moral assessments are heavily influenced by factors external to the agent's will, which seems to conflict with the Kantian intuition that genuine moral responsibility requires control over one's actions.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that drivers who cause accidents should not be held legally responsible.",
+    "B": "introduce the concept of moral luck, illustrate it with an example, and explain why it creates a philosophical tension with standard notions of moral responsibility.",
+    "C": "compare Nagel's and Williams's differing definitions of moral luck.",
+    "D": "prove that Kantian ethics is more reliable than consequentialist ethics for evaluating moral responsibility."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces the concept of moral luck (Nagel and Williams), illustrates it with the parallel red-light drivers example, and then explains the philosophical tension: moral judgments affected by uncontrolled external factors conflict with the Kantian requirement that genuine moral responsibility requires control. B accurately describes this three-part structure. A attributes a legal claim to the passage that it does not make—it is a philosophical analysis, not a policy argument. C suggests the passage distinguishes Nagel's and Williams's definitions—the passage does not compare their views. D claims the passage proves Kantian superiority over consequentialism—the passage invokes Kant as the source of a tension, not as a conclusion."
+}

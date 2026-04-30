@@ -1,0 +1,16 @@
+{
+  "id": "q_371",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The discovery of exoplanets—planets orbiting stars other than our sun—was long assumed to be practically impossible. A star's light output is billions of times greater than the reflected light of an orbiting planet, making direct imaging nearly hopeless with any foreseeable technology. Instead, astronomers developed indirect detection methods: the 'radial velocity' method, which detects the tiny wobble a planet induces in its host star's motion, and the 'transit' method, which detects the slight dimming of starlight when a planet passes across the star's face. Together, these methods have confirmed more than 5,000 exoplanets to date.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that direct imaging of exoplanets is impossible and should not be pursued.",
+    "B": "explain why direct imaging of exoplanets is impractical and describe the indirect methods that have instead enabled confirmed discoveries.",
+    "C": "compare the habitability of different exoplanets discovered using the two described methods.",
+    "D": "provide a historical timeline of every major exoplanet discovered since 1995."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains the difficulty of direct imaging (star too bright relative to planet), then introduces the radial velocity and transit methods as the practical alternatives that have yielded over 5,000 confirmed exoplanets. B accurately identifies this two-part structure: limitation of direct imaging + explanation of successful indirect methods. A overstates—the passage says direct imaging is 'nearly hopeless with any foreseeable technology,' not impossible in principle, and makes no advocacy claim. C introduces habitability comparisons not present in the passage. D describes a timeline not present in the passage—it provides a total count (5,000), not a historical timeline."
+}

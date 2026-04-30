@@ -1,0 +1,16 @@
+{
+  "id": "q_236",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "In late nineteenth-century Paris, the Impressionist painters were consistently rejected by the Salon—the official annual exhibition that controlled access to buyers, critics, and institutional prestige. Rather than continue appealing to a jury that found their work unfinished, they organized their own exhibition in 1874. The move was not merely a logistical workaround. It was a declaration that the criteria by which the Salon judged painting—finish, historical subject matter, academic draughtsmanship—were themselves contestable, not natural or universal standards of quality. In challenging the gatekeeper, the Impressionists implicitly challenged the gate.",
+  "question": "What function does the sentence \"The move was not merely a logistical workaround\" serve in the passage?",
+  "choices": {
+    "A": "It describes the financial motivations behind the Impressionists' decision to organize their own exhibition.",
+    "B": "It signals that the author will reframe the Impressionists' independent exhibition as carrying deeper ideological significance than a practical solution.",
+    "C": "It concedes that the independent exhibition failed to achieve recognition for the Impressionist painters.",
+    "D": "It introduces the specific criteria used by the Salon to evaluate paintings."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence explicitly rejects a reductive reading of the event (mere logistics) and prepares the reader for the deeper interpretation the author provides in the next sentence—that the Impressionists were contesting the Salon's very standards, not just bypassing its gatekeeping. The function is to signal an interpretive upgrade: the act was more significant than it appears. B captures this reframing function. A is incorrect—the sentence says nothing about financial motivations. C misrepresents the sentence as a concession about failure; the passage does not claim the exhibition failed. D misattributes the Salon criteria introduction to this sentence; that content appears in the following sentence."
+}

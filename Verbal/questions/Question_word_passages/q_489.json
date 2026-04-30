@@ -1,0 +1,16 @@
+{
+  "id": "q_489",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "The concept of 'urban heat islands' describes the phenomenon by which cities are significantly warmer than the surrounding rural landscape, with average temperature differences of 1–7°C commonly observed. The primary driver is the replacement of vegetation with dark, heat-absorbing surfaces like asphalt and roofing materials, combined with the reduction of evapotranspiration—the cooling process by which plants release moisture into the air. Waste heat from vehicles, air conditioners, and industrial processes adds further to urban warming. Heat islands disproportionately harm low-income urban residents, who are less likely to have air conditioning and are more likely to live in neighborhoods with fewer trees and more impervious surfaces.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Urban heat islands are caused primarily by waste heat from vehicles and industrial facilities and affect all urban residents equally.",
+    "B": "Urban heat islands result from multiple factors associated with urban development and have disproportionate health consequences for low-income residents.",
+    "C": "The best way to reduce urban heat island effects is to require buildings to use lighter-colored roofing materials.",
+    "D": "Urban heat islands create warmer conditions that benefit cities in cold climates but harm cities in warm climates."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes multiple causes of urban heat islands (dark surfaces, reduced evapotranspiration, waste heat) and specifically notes that the effects fall disproportionately on low-income residents. B accurately captures both the multicausal explanation and the equity dimension. A is too narrow and incorrect—the passage lists waste heat as one of three factors, and explicitly states the impacts are unequal. C introduces a policy recommendation not discussed in the passage. D introduces a geographic distinction (cold vs. warm cities) not made in the passage."
+}

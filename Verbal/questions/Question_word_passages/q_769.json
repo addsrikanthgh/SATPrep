@@ -1,0 +1,16 @@
+{
+  "id": "q_769",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Soil is not simply dirt. It is a complex ecosystem in which bacteria, fungi, protozoa, nematodes, earthworms, and other organisms interact with decomposing organic matter, minerals, water, and air. A single teaspoon of healthy soil may contain billions of bacteria and miles of fungal filaments. Fungi form symbiotic relationships with plant roots—called mycorrhizae—in which fungi extend the plant's effective root system and receive sugars in return. Healthy soil structure, created by the activities of these organisms and by the binding of organic matter, allows water to infiltrate and be retained rather than running off. Degraded soils—compacted, stripped of organic matter, or depleted of their microbial communities—lose this structure and become vulnerable to erosion, flooding, and desertification.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain that soil is a living ecosystem whose health depends on complex biological interactions, and that degradation of those interactions has serious consequences.",
+    "B": "argue that modern agricultural practices are entirely responsible for global soil degradation and must be abandoned.",
+    "C": "describe the lifecycle of fungi from spore germination to the formation of mycorrhizal networks.",
+    "D": "compare the biological diversity of soil to the biological diversity of ocean ecosystems."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage opens by reframing soil as a complex ecosystem, describes its biological components and interactions, and concludes by explaining how degradation of those interactions leads to erosion and desertification. A captures this explanatory arc from biological richness to the consequences of degradation. B attributes a specific cause (modern agriculture) and a prescriptive recommendation (abandon it) that the passage does not make. C narrows the focus to fungi alone, which is one element among many discussed. D claims a comparative analysis with ocean ecosystems, which the passage does not make."
+}

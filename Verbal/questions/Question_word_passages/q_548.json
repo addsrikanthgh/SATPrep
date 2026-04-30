@@ -1,0 +1,16 @@
+{
+  "id": "q_548",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Studies of long-duration spaceflight have documented significant physiological changes in astronauts: bone density decreases as the skeleton no longer bears weight, muscle mass atrophies, and cardiovascular fitness declines. Fluid shifts from the lower body toward the head, increasing intracranial pressure and causing visual disturbances that have been observed in a substantial fraction of long-duration astronauts. Exercise countermeasures—two or more hours of daily resistance and aerobic training—can slow but not entirely prevent these changes. The cumulative physiological burden of a multi-year mission to Mars could present serious challenges to crew performance upon arrival.",
+  "question": "Based on the passage, what can most reasonably be inferred about a crewed mission to Mars?",
+  "choices": {
+    "A": "A multi-year Mars mission would be physiologically safe because the astronauts would have access to the same exercise equipment used on the International Space Station.",
+    "B": "The physiological changes documented in spaceflight suggest that astronauts arriving at Mars after a long mission might have reduced physical and cognitive capacity precisely when mission-critical tasks demand peak performance.",
+    "C": "Exercise countermeasures can entirely prevent the physiological effects of long-duration spaceflight on a Mars mission.",
+    "D": "The visual disturbances caused by fluid shifts would be the only significant physiological concern on a Mars mission."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage documents serious physiological declines (bone density, muscle mass, cardiovascular fitness, visual disturbances) and states that exercise 'can slow but not entirely prevent these changes,' and that 'cumulative physiological burden...could present serious challenges to crew performance upon arrival.' B correctly infers that astronauts might be physically and cognitively compromised at arrival—precisely when they need to perform demanding tasks. A is directly contradicted—exercise slows but does not prevent the changes. C is explicitly contradicted. D is too narrow—the passage documents multiple physiological changes, not just visual disturbances."
+}

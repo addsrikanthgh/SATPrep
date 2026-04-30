@@ -1,0 +1,16 @@
+{
+  "id": "q_675",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Beethoven composed his Ninth Symphony while almost completely deaf, relying on his memory of sounds and his understanding of musical structure. _______ the symphony's premiere in 1824 was met with thunderous applause; according to contemporary accounts, Beethoven had to be turned around by a soloist to see the audience's reaction because he could not hear it himself.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Remarkably,",
+    "B": "As a result,",
+    "C": "However,",
+    "D": "In contrast,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes the extraordinary circumstances under which Beethoven composed (near-total deafness). The second describes the triumphant outcome of that composition (thunderous applause at the premiere). The transition signals that what follows is an impressive or unexpected result given the circumstances. 'Remarkably' (A) correctly introduces the striking outcome given the difficult conditions described in the first sentence. 'As a result' (B) could work causally but 'Remarkably' better captures the tone of contrast between impairment and triumph. 'However' (C) and 'In contrast' (D) imply contradiction, which doesn't fit—the success at the premiere isn't contradicting the deafness."
+}

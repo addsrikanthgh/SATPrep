@@ -1,0 +1,16 @@
+{
+  "id": "q_238",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "easy",
+  "passage": "Nikola Tesla and Thomas Edison are often portrayed as bitter rivals who embodied two irreconcilable visions of electrical power. Edison championed direct current (DC), which he had built a business empire around; Tesla advocated for alternating current (AC), which could be transmitted over long distances far more efficiently. History records Tesla as the technical victor: AC became the global standard. What history sometimes forgets is that the outcome was determined as much by investors, infrastructure costs, and public perception campaigns as by the underlying physics.",
+  "question": "What function does the sentence \"History records Tesla as the technical victor: AC became the global standard\" serve in the passage?",
+  "choices": {
+    "A": "It refutes the claim that Edison and Tesla had different visions of electrical power.",
+    "B": "It establishes the conventional historical outcome before the passage complicates it by highlighting the non-technical factors that shaped that outcome.",
+    "C": "It argues that Tesla's victory over Edison was due primarily to his superior engineering skill.",
+    "D": "It introduces the role of investor funding in determining the outcome of the AC/DC debate."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence presents the commonly accepted narrative outcome (Tesla won; AC became standard) precisely so the following sentence can complicate it by pointing to the investors, infrastructure, and public perception campaigns that actually drove the result. The function is to state the conventional story as a stepping stone to the passage's more nuanced point. B correctly identifies this set-up-then-complicate function. A contradicts the passage, which explicitly describes their different visions. C misidentifies the sentence's function—the passage argues the opposite, that the outcome was not mainly a technical victory. D misattributes the investor content to this sentence; it appears in the next sentence."
+}

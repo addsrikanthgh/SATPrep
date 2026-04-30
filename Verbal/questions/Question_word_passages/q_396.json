@@ -1,0 +1,16 @@
+{
+  "id": "q_396",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about the history of antibiotics. The student has taken the following notes:\n- Alexander Fleming discovered penicillin in 1928 when he observed that a mold (Penicillium notatum) had killed bacteria in a contaminated petri dish.\n- Fleming's discovery was not immediately developed into a usable treatment; Howard Florey and Ernst Chain led the development of purified penicillin as a medicine in the early 1940s.\n- Penicillin was used widely in World War II and dramatically reduced deaths from infected wounds and bacterial diseases.\n- Fleming warned in his 1945 Nobel Prize lecture that misuse of penicillin could lead to resistant bacteria.\n- Today, antibiotic-resistant bacteria (sometimes called 'superbugs') cause an estimated 1.27 million deaths annually worldwide.",
+  "question": "Which choice most effectively uses the notes to show that Fleming's 1945 warning was prophetic?",
+  "choices": {
+    "A": "Fleming discovered penicillin in 1928 and warned in his 1945 Nobel lecture that misuse could produce resistant bacteria.",
+    "B": "Fleming's 1945 Nobel lecture warning that penicillin misuse could produce resistant bacteria proved prophetic: today, antibiotic-resistant bacteria cause an estimated 1.27 million deaths annually worldwide.",
+    "C": "Penicillin was developed into a usable medicine by Howard Florey and Ernst Chain in the 1940s and saved many lives during World War II.",
+    "D": "Antibiotic resistance is a serious global health problem caused by the overuse of antibiotics since penicillin's discovery."
+  },
+  "correct_answer": "B",
+  "explanation": "B directly links Fleming's warning (misuse → resistant bacteria) to the present-day outcome (1.27 million annual deaths), creating the before-and-after structure needed to show the warning was 'prophetic.' A states the warning but does not connect it to the present-day outcome that makes it prophetic. C focuses on Florey, Chain, and WWII—relevant historical context but not the prophecy-fulfillment comparison the question requires. D describes antibiotic resistance generally without attributing the warning to Fleming or connecting it to his specific prediction."
+}

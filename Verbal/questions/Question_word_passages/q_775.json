@@ -1,0 +1,16 @@
+{
+  "id": "q_775",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The paradox of tolerance, first articulated by philosopher Karl Popper, holds that a society committed to tolerance must be intolerant of intolerance itself. Popper argued that if a tolerant society extends tolerance to intolerant groups without limit, those groups can exploit tolerance to suppress dissent and ultimately destroy the conditions that make tolerance possible. Critics have challenged this reasoning on procedural grounds: who decides what counts as 'intolerant,' and doesn't the authority to suppress intolerance itself become a mechanism for abuse? Proponents respond that Popper's paradox does not advocate suppression as a first resort—he explicitly stated that speech and discussion should be met with rational counterargument—but that some forms of intolerance may eventually require legal prohibition when they threaten to undermine democratic institutions.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "present Popper's paradox of tolerance, describe the criticisms leveled against it, and explain how proponents have responded to those criticisms.",
+    "B": "argue that Popper's paradox of tolerance is definitively correct and should serve as the basis for international free-speech law.",
+    "C": "trace Popper's intellectual biography and explain how his experiences during World War II shaped his philosophical views.",
+    "D": "compare the paradox of tolerance with other philosophical paradoxes to evaluate which is most practically significant."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage follows a claim-critique-response structure: it presents Popper's argument (tolerance must be intolerant of intolerance), states critics' procedural objections (who decides? risk of abuse?), and then explains how proponents clarify the position (rational counterargument first; legal prohibition only when institutions are threatened). A accurately describes this three-part structure. B advocates for the paradox as definitive and as a basis for law—the passage does not take a side. C describes a biographical account that the passage does not provide. D claims a comparison with other philosophical paradoxes, which the passage does not perform."
+}

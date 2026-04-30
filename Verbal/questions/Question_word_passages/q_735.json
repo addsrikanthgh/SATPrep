@@ -1,0 +1,16 @@
+{
+  "id": "q_735",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The organization's most pressing priorities are expanding rural healthcare access, reducing administrative costs, and _______ community trust in the medical system.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "rebuilding",
+    "B": "to rebuild",
+    "C": "the rebuilding of",
+    "D": "rebuilt"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence lists three parallel items as subject complements after 'are.' The first two are gerund phrases: 'expanding...access' and 'reducing...costs.' The third item must match this form. 'Rebuilding' (A) is a gerund that correctly continues the parallel series. 'To rebuild' (B) is an infinitive, which breaks the parallel structure. 'The rebuilding of' (C) shifts the structure to a noun phrase with an article, breaking parallelism. 'Rebuilt' (D) is a past participle, which is not grammatically parallel to the gerunds."
+}

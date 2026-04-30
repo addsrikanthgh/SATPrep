@@ -1,0 +1,16 @@
+{
+  "id": "q_420",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A study examined the relationship between public library access and community economic indicators across 500 U.S. counties. Counties with at least one public library per 20,000 residents had median household incomes 8% higher and poverty rates 6 percentage points lower than counties with fewer libraries per capita, even after controlling for urban/rural classification, prior income levels, and educational attainment. The researchers also found that counties with higher library usage (measured by annual checkouts per capita) showed stronger correlations with lower poverty rates than counties with high library presence but low usage.",
+  "question": "Which evidence most directly supports the conclusion that library usage, not just library availability, is the variable most associated with economic outcomes?",
+  "choices": {
+    "A": "Counties with high library usage showed stronger correlations with lower poverty rates than counties with high library presence but low usage.",
+    "B": "Counties with at least one library per 20,000 residents had incomes 8% higher and poverty rates 6 points lower.",
+    "C": "The study controlled for urban/rural classification and prior income levels.",
+    "D": "500 U.S. counties were included in the study."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly contrasts high-presence/low-usage counties with high-usage counties and shows that usage, not just presence, correlates most strongly with lower poverty—making the distinction between availability and active usage. B shows the presence-income link but does not distinguish usage from mere availability. C describes methodological controls—relevant to validity but not a finding. D describes sample size—methodology."
+}

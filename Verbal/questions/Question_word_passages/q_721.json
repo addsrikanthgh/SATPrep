@@ -1,0 +1,16 @@
+{
+  "id": "q_721",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Each of the students in the advanced seminar _______ required to submit a research proposal by the end of the semester.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "is",
+    "B": "are",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'Each,' not 'students.' 'Each' is an indefinite pronoun that is always singular and requires a singular verb. The prepositional phrase 'of the students in the advanced seminar' is an intervening phrase that does not change the subject. 'Is' (A) correctly agrees with the singular subject 'Each.' 'Are' (B) and 'were' (C) are plural verbs that do not agree. 'Have been' (D) is plural and also shifts tense unnecessarily."
+}

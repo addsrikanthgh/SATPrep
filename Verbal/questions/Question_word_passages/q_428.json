@@ -1,0 +1,16 @@
+{
+  "id": "q_428",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "Critics of the policy argued that the new regulations were punitive in intent, designed not so much to change behavior as to impose costs on an industry that the regulators had decided to penalize.",
+  "question": "As used in the passage, 'punitive' most nearly means",
+  "choices": {
+    "A": "corrective; aimed at improving future behavior through constructive feedback.",
+    "B": "inflicting punishment; intended to penalize rather than to remedy.",
+    "C": "financially beneficial; generating revenue for the government.",
+    "D": "bureaucratically complex; difficult to administer in practice."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, critics describe the regulations as 'punitive' because they appear designed to impose costs rather than change behavior—meaning they function as punishment rather than reform. B captures this. A is the opposite—'corrective' describes the improvement-focused intent the critics say the regulations lack. C introduces a revenue-generation sense not implied. D introduces administrative complexity not implied by 'punitive.'"
+}

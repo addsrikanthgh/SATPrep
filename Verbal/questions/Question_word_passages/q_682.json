@@ -1,0 +1,16 @@
+{
+  "id": "q_682",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The placebo effect—improvement in patients who receive an inert treatment—has long been regarded as a nuisance in clinical research, a confounding variable to be controlled. More recently, however, researchers have begun studying the placebo effect as a subject of inquiry in its own right. Neuroimaging studies show that genuine biochemical changes occur in placebo responders: the brain releases endogenous opioids and dopamine in patterns that mirror the activity produced by active analgesics. These findings suggest that the therapeutic relationship between patient and provider, patient expectations, and the ritual of treatment all have measurable physiological effects. Some researchers now argue that deliberately harnessing the placebo effect—even with the patient's knowledge—could enhance outcomes across a wide range of conditions.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Recent neuroimaging research has overturned earlier dismissals of the placebo effect by demonstrating that it produces real biochemical changes, suggesting it could be deliberately used to improve clinical outcomes.",
+    "B": "The placebo effect has made clinical drug trials unreliable because patients who receive inert treatments cannot be distinguished from those receiving active medication.",
+    "C": "Endogenous opioids and dopamine are the primary drivers of therapeutic outcomes across most medical treatments, whether active or placebo.",
+    "D": "Researchers now believe that patient expectations are more important to recovery than the pharmacological effects of medication."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage traces a shift in how researchers view the placebo effect: from a confound to be eliminated to a subject of study with genuine physiological mechanisms, and ultimately to a potential therapeutic tool. A captures this arc accurately. B exaggerates a concern about trial reliability, which is not the passage's focus—the passage is about studying the placebo effect, not about trial methodology problems. C overstates the passage's claims; it says opioids and dopamine are released in placebo responders, not that they drive all therapeutic outcomes. D is a distortion; the passage does not conclude that patient expectations matter more than pharmacological effects."
+}

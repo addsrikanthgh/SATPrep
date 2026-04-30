@@ -1,0 +1,16 @@
+{
+  "id": "q_156",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The replication crisis in psychology—the finding that many landmark studies cannot be reproduced by independent researchers—has led some scientists to call for stricter publication standards. Studies with small sample sizes, multiple hypothesis tests, and outcomes reported only when statistically significant are particularly vulnerable to producing false positives that appear credible but reflect noise rather than genuine effects.\n\nText 2: Critics of the replication crisis narrative argue that it overstates the problem. Not all psychological research is equally susceptible to replication failure; large-scale studies with pre-registered hypotheses and transparent data sharing replicate at high rates. Treating the entire field as compromised because of failures in a subset of studies promotes unwarranted skepticism about psychological science broadly.",
+  "question": "How does the author of Text 2 respond to the concern raised in Text 1?",
+  "choices": {
+    "A": "By arguing that statistical significance is a reliable standard for distinguishing genuine effects from noise.",
+    "B": "By contending that stricter publication standards would damage the field more than the replication failures themselves.",
+    "C": "By distinguishing between types of studies and arguing that generalizing from flawed ones misrepresents the field as a whole.",
+    "D": "By denying that any replication failures have occurred and attributing the crisis to media sensationalism."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 raises a concern about certain types of studies (small samples, multiple tests, selective reporting) producing false positives. Text 2 responds by introducing a distinction—not all studies share these flaws—and arguing that inferring a crisis for the whole field from a subset of flawed studies is an unwarranted overgeneralization. This matches C exactly. A is not Text 2's argument; it never defends statistical significance as reliable. B introduces a claim about publication standards damaging the field that Text 2 does not make. D is directly contradicted by Text 2, which acknowledges that replication failures exist ('failures in a subset of studies') rather than denying them."
+}

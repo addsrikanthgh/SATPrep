@@ -1,0 +1,16 @@
+{
+  "id": "q_285",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "The sociologist Émile Durkheim proposed that suicide rates, often understood as deeply personal acts, varied systematically across social groups—a finding he used to argue that individual behavior is shaped by social forces invisible to the individuals themselves. He found that Protestants had higher suicide rates than Catholics, single people higher rates than married people, and soldiers higher rates than civilians. _______, Durkheim concluded that social integration—the degree to which individuals are bonded to a community—acts as a protective factor, with high integration reducing suicide risk and social isolation increasing it.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Despite these patterns,",
+    "B": "Contradicting his hypothesis,",
+    "C": "On the basis of these patterns,",
+    "D": "Even so,"
+  },
+  "correct_answer": "C",
+  "explanation": "The preceding sentences describe the empirical patterns Durkheim observed (Protestants vs. Catholics, single vs. married, soldiers vs. civilians). The following sentence presents the conclusion he drew from those patterns. The relationship is one of induction—conclusion drawn from evidence. 'On the basis of these patterns' (C) precisely signals that Durkheim's conclusion was grounded in the observed data. 'Despite these patterns' (A) would suggest the conclusion contradicts the patterns—incorrect since Durkheim drew his conclusion from them. 'Contradicting his hypothesis' (B) would indicate that the data undermined his argument, which is the opposite of what happened. 'Even so' (D) signals concession despite an obstacle—inappropriate because no obstacle is present."
+}

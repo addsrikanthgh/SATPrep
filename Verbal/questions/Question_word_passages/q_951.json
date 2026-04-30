@@ -1,0 +1,16 @@
+{
+  "id": "q_951",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Historians of science have debated whether Isaac Newton's discovery of calculus was truly independent of Gottfried Leibniz's parallel discovery in the late seventeenth century. Both men developed the fundamental tools of calculus—differentiation and integration—and the bitter priority dispute between their supporters occupied decades of intellectual energy. Modern scholarship generally holds that the two developments were indeed independent, with Newton working earlier but Leibniz publishing first. The modern notation for calculus, universally used today, derives from Leibniz, not Newton.",
+  "question": "Based on the passage, what can most reasonably be inferred about the relationship between priority of discovery and lasting influence in science?",
+  "choices": {
+    "A": "Newton's earlier development of calculus ensured that his notation became the standard used by mathematicians and scientists today.",
+    "B": "The scientist who publishes first always receives the greatest historical recognition for a discovery.",
+    "C": "Being first to discover something does not guarantee that one's formulation of that discovery will be the one adopted by later practitioners.",
+    "D": "Leibniz's calculus was superior to Newton's because it was published before Newton's work."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage states that Newton worked earlier but Leibniz published first, and that today's universally used calculus notation derives from Leibniz, not Newton. This implies that Newton's priority of discovery did not determine which version was adopted—Leibniz's later publication became the standard. C is the most reasonable inference about the relationship between being first and lasting influence. A is directly contradicted—modern notation comes from Leibniz. B is an overgeneralization and is not fully supported—the passage shows Newton's earlier discovery did not secure lasting notational influence. D conflates publication timing with quality, which the passage does not support."
+}

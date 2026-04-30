@@ -1,0 +1,16 @@
+{
+  "id": "q_840",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The composer's late quartets were _______ by audiences during her lifetime, but in subsequent generations they came to be recognized as among the most original works of the twentieth century.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "neglected",
+    "B": "revered",
+    "C": "systematized",
+    "D": "excerpted"
+  },
+  "correct_answer": "A",
+  "explanation": "'Neglected' means not given proper attention or appreciation—the contrast with subsequent generations recognizing the works as masterpieces is a classic 'neglected in her time, celebrated later' narrative. 'Revered' means deeply respected and admired—this is what the works became in later generations, not what they were during her lifetime. 'Systematized' means organized according to a system—entirely irrelevant to how audiences received music. 'Excerpted' means taken in portions or quoted—also irrelevant to audience reception."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_712",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Archaeological evidence suggests that Neanderthals—long portrayed as brutish predecessors to modern humans—were capable of symbolic behavior. Discoveries of perforated shells apparently used as jewelry, evidence of pigment use for body decoration, and the creation of complex tools indicate a level of cognitive sophistication previously attributed only to Homo sapiens. Some researchers argue that Neanderthals independently developed these capacities before any contact with modern humans.\n\nText 2: A competing interpretation of the same evidence holds that the symbolic artifacts attributed to Neanderthals postdate evidence of Homo sapiens' arrival in Europe, suggesting that Neanderthals may have acquired these behaviors through contact with and imitation of modern humans rather than independent invention. On this view, the 'symbolic revolution' was a product of Homo sapiens culture that Neanderthals adopted rather than originated.",
+  "question": "Which choice best describes the disagreement between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 argues that Neanderthal symbolic behaviors were independently developed, while Text 2 argues they may have been learned from contact with Homo sapiens.",
+    "B": "Text 1 argues that symbolic artifacts are the most important evidence of intelligence, while Text 2 argues that tool complexity is a more reliable indicator.",
+    "C": "Text 2 disputes the authenticity of the symbolic artifacts described in Text 1, arguing that they were not created by Neanderthals at all.",
+    "D": "Both texts agree that Neanderthals developed symbolic behavior independently, but disagree about when this development occurred."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 argues for independent development of symbolic behavior by Neanderthals before contact with modern humans. Text 2 proposes an alternative: the behaviors may postdate Homo sapiens' arrival and could reflect cultural transmission rather than independent invention. A accurately captures this core disagreement. B is not supported—neither text argues about what type of evidence is most reliable for measuring intelligence. C misrepresents Text 2, which disputes the origin of the behaviors, not the authenticity of the artifacts—it accepts they exist but questions who inspired them. D contradicts the texts—Text 2 specifically argues against independent development."
+}

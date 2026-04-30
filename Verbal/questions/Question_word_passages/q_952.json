@@ -1,0 +1,16 @@
+{
+  "id": "q_952",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Bees detect the polarization patterns of sunlight to navigate, even on overcast days. Clouds scatter sunlight but do not fully eliminate its polarization signature; small patches of blue sky, or the light transmitted through thin clouds, retain detectable polarization patterns that bees can read as a compass. This ability allows bees to forage and return to their hives even in conditions that would disorient navigators relying solely on the sun's direct position.",
+  "question": "Based on the passage, what can most reasonably be inferred about bee navigation on overcast days?",
+  "choices": {
+    "A": "Bees cannot navigate effectively on overcast days because clouds block sunlight entirely.",
+    "B": "Bees are still able to navigate on overcast days because they can detect polarization patterns even when direct sunlight is obscured.",
+    "C": "Bees rely on landmarks on overcast days rather than light-based navigation.",
+    "D": "The polarization of sunlight is only detectable on clear, sunny days."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that clouds scatter but do not fully eliminate polarization patterns, and that bees can read these patterns 'even on overcast days' to navigate. B directly reflects this explicit information plus the implied conclusion that overcast conditions do not prevent bee navigation. A contradicts the passage—clouds do not block polarization entirely. C introduces landmarks, which the passage does not mention. D contradicts the passage—polarization remains detectable through clouds or thin cloud cover."
+}

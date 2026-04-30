@@ -1,0 +1,16 @@
+{
+  "id": "q_927",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Whoever ______ the most volunteer hours by the end of the fiscal year will receive a recognition award at the annual gala.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "log",
+    "B": "logs",
+    "C": "logged",
+    "D": "logging"
+  },
+  "correct_answer": "B",
+  "explanation": "'Whoever' is the subject of the dependent clause 'Whoever ______ the most volunteer hours by the end of the fiscal year,' which functions as the subject of the main verb 'will receive.' 'Whoever' is a singular indefinite pronoun, requiring a singular present-tense verb: 'logs.' 'Log' is first-person or plural. 'Logged' is past tense, which is inconsistent with the future-oriented context. 'Logging' is a gerund or present participle, not a finite verb."
+}

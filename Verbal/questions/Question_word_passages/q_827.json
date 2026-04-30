@@ -1,0 +1,16 @@
+{
+  "id": "q_827",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "After reviewing the contradictory eyewitness accounts, the detective concluded that the timeline of events remained _______, and any attempt to establish a definitive sequence would require additional physical evidence.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "ambiguous",
+    "B": "coherent",
+    "C": "incriminating",
+    "D": "meticulous"
+  },
+  "correct_answer": "A",
+  "explanation": "'Ambiguous' means unclear or having more than one possible interpretation, which fits the situation: contradictory accounts make the timeline unclear. 'Coherent' means logical and consistent—contradictory accounts would produce an incoherent timeline, not a coherent one. 'Incriminating' means suggesting guilt—a description of evidence, not of a timeline's clarity. 'Meticulous' means extremely careful and precise—a positive quality, not a problem requiring additional evidence."
+}

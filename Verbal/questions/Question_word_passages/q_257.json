@@ -1,0 +1,16 @@
+{
+  "id": "q_257",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Maria Sibylla Merian, the seventeenth-century naturalist and illustrator traveled to Suriname at the age of fifty-two to study tropical insects, becoming one of the first Europeans to document metamorphosis from direct observation.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "Insert a comma after 'illustrator' to close the nonrestrictive appositive 'the seventeenth-century naturalist and illustrator.'",
+    "B": "Remove the comma after 'Merian' because the phrase 'the seventeenth-century naturalist and illustrator' is essential for identifying who Maria Sibylla Merian was.",
+    "C": "Insert a semicolon after 'illustrator' to separate the appositive from the main clause.",
+    "D": "Remove the comma after 'insects' because no comma should precede a participial phrase that modifies the subject."
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'the seventeenth-century naturalist and illustrator' is a nonrestrictive appositive that renames 'Maria Sibylla Merian.' Nonrestrictive appositives must be enclosed by commas on both sides. An opening comma appears after 'Merian,' but the closing comma after 'illustrator' is missing. Inserting it correctly completes the appositive enclosure and separates it from the main verb 'traveled.' A is correct. B is incorrect; appositives following proper nouns are typically nonrestrictive because the proper noun already identifies the person uniquely. C is incorrect; a semicolon cannot separate an appositive from the word it modifies. D is incorrect; a comma before a trailing participial phrase ('becoming one of the first Europeans...') is standard and appropriate."
+}

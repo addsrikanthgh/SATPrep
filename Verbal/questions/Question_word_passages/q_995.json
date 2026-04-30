@@ -1,0 +1,16 @@
+{
+  "id": "q_995",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is researching the biology of extremophiles and has taken the following notes:\n- Extremophiles are organisms that thrive in conditions—extreme temperatures, acidity, salinity, pressure, or radiation—that are lethal to most life forms.\n- Tardigrades (water bears) can survive temperatures from near absolute zero to over 150°C, radiation 1,000 times the dose lethal to humans, complete desiccation, and even the vacuum of outer space.\n- Thermophilic bacteria thrive in boiling water and are found in deep-sea hydrothermal vents and geothermal hot springs such as Yellowstone.\n- The discovery of extremophiles in environments once considered uninhabitable has expanded scientists' understanding of where life can exist.\n- Astrobiologists cite extremophiles as evidence that life might survive in extreme environments on other planets or moons, such as the subsurface oceans of Europa.",
+  "question": "The student wants to introduce the concept of extremophiles and provide an example that illustrates the most remarkable range of conditions any single organism can survive. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Extremophiles are organisms adapted to thrive in conditions lethal to most life; among the most remarkable is the tardigrade, which can survive near-absolute-zero temperatures, intense radiation, complete desiccation, and even the vacuum of outer space.",
+    "B": "Thermophilic bacteria discovered in deep-sea hydrothermal vents and Yellowstone hot springs have thrived in boiling water, illustrating that life can exist in conditions once considered uninhabitable.",
+    "C": "The existence of extremophiles has led astrobiologists to propose that life might exist in extreme extraterrestrial environments such as the subsurface oceans of Jupiter's moon Europa.",
+    "D": "Extremophiles are found across a wide range of hostile environments, from deep-sea vents to geothermal hot springs to the vacuum of outer space."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to introduce extremophiles and give the most remarkable single-organism example. A defines extremophiles, then specifically highlights tardigrades and lists the breadth of extreme conditions they survive—combining introduction with the most impressive single-organism example in the notes. B introduces thermophiles, not tardigrades, and doesn't provide as broad a range of conditions for one organism. C focuses on astrobiology implications rather than introducing extremophiles and exemplifying survival range. D is too vague—it doesn't name a specific organism or describe a remarkable range."
+}

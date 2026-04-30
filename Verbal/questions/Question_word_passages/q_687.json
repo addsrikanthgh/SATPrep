@@ -1,0 +1,16 @@
+{
+  "id": "q_687",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The baobab tree, found across sub-Saharan Africa, Madagascar, and parts of Australia, can store thousands of liters of water in its swollen trunk—an adaptation to the prolonged dry seasons of the savanna. Baobabs can live for thousands of years; some specimens in Africa are estimated to be over 2,000 years old. The tree produces large, woody fruits that are high in vitamin C and are consumed by humans and animals alike, while its bark can be used to make rope and cloth. Local communities have long relied on the baobab not just as a food source but as a meeting place and landmark. Despite its cultural and ecological significance, baobab populations across Africa have suffered significant die-offs in recent decades, with researchers attributing the losses to rising temperatures and shifting precipitation patterns associated with climate change.",
+  "question": "According to the passage, what have researchers identified as the cause of recent baobab die-offs?",
+  "choices": {
+    "A": "Rising temperatures and changes in precipitation patterns linked to climate change",
+    "B": "Overharvesting of baobab fruit and bark by local communities for food and materials",
+    "C": "Competition from invasive tree species introduced to the savanna in the twentieth century",
+    "D": "Extended dry seasons that have always been characteristic of the savanna ecosystem"
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explicitly states that researchers attribute baobab die-offs to 'rising temperatures and shifting precipitation patterns associated with climate change.' A directly reflects this. B inverts the passage's framing—local communities are described as relying on the baobab, but they are not identified as a cause of die-offs. C is not mentioned in the passage; no invasive species are discussed. D conflates the baobab's adaptation to prolonged dry seasons (a historical feature the tree survives by storing water) with the cause of the die-offs, which is described as a recent change driven by climate, not the ordinary dry seasons the tree evolved to tolerate."
+}

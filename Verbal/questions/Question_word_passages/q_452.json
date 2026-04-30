@@ -1,0 +1,16 @@
+{
+  "id": "q_452",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "Scientists have observed that juvenile salmon, after spending their first year in freshwater _______ instinctively navigate toward the ocean.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "freshwater, instinctively",
+    "B": "freshwater instinctively",
+    "C": "freshwater; instinctively",
+    "D": "freshwater: instinctively"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'after spending their first year in freshwater' is a nonessential introductory participial phrase that modifies 'juvenile salmon.' In this sentence structure, the phrase is embedded in the middle of the main clause ('Scientists have observed that juvenile salmon... instinctively navigate'), making it a parenthetical that should be set off by commas. The phrase opened with a comma after 'salmon' (implied before 'after'); the closing comma after 'freshwater' is required. A correctly closes the parenthetical. B omits the comma. C uses a semicolon, which would separate independent clauses. D uses a colon inappropriately mid-sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_422",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "Scientists studying migratory bird routes found that many species follow corridors that have remained largely stable for thousands of years, even as the landscapes beneath them have changed dramatically—a finding that speaks to the remarkable fidelity of these routes across generations.",
+  "question": "As used in the passage, 'fidelity' most nearly means",
+  "choices": {
+    "A": "accuracy of sound reproduction in audio equipment.",
+    "B": "faithfulness or strict adherence to an original pattern over time.",
+    "C": "loyalty to a person, such as a partner or leader.",
+    "D": "precision in scientific measurement."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'fidelity' describes how migration routes are maintained accurately across generations despite changing landscapes—meaning strict adherence to the original pattern. B captures this sense of faithful adherence to an established course. A is the audio/hi-fi sense. C is the interpersonal loyalty sense. D is the measurement precision sense. None of these other senses fit the context of inherited behavioral patterns."
+}

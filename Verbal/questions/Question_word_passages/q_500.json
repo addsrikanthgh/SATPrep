@@ -1,0 +1,16 @@
+{
+  "id": "q_500",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "The welfare state—a system of government programs providing social insurance against unemployment, illness, old age, and poverty—developed unevenly across industrialized countries in the twentieth century. Scholars have proposed competing explanations for this variation. The 'power resources' theory, associated with Gösta Esping-Andersen, argues that strong left-wing political parties and labor unions were the key drivers of expansive welfare states; countries with strong organized labor saw more generous programs. A competing 'varieties of capitalism' framework emphasizes how different types of market economies created different employer interests in social policy: employers in coordinated market economies with high-skill industries had reasons to support training subsidies and social insurance, while those in liberal market economies did not. A third tradition emphasizes the role of historical legacies and path dependence—the idea that early policy choices constrained later options regardless of political power balances.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "The welfare state was created by left-wing political parties and has been maintained primarily by organized labor in all industrialized countries.",
+    "B": "Scholars have proposed multiple competing theories to explain why welfare states developed differently across industrialized countries.",
+    "C": "The power resources theory is the most widely accepted explanation for welfare state development and has superseded all competing frameworks.",
+    "D": "The welfare state in all industrialized countries followed the same pattern of development, driven by universal forces of industrialization."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents three distinct scholarly theories (power resources, varieties of capitalism, path dependence) and frames them as competing explanations for variation across countries. B accurately describes this structure. A is too narrow—it describes only the power resources theory and applies it universally, but the passage presents it as one competing explanation, not the consensus. C is contradicted—the passage presents three theories as competing, not one as definitively accepted. D is directly contradicted by the passage, which begins by emphasizing that welfare states 'developed unevenly.'"
+}

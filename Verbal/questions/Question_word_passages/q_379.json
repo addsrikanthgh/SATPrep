@@ -1,0 +1,16 @@
+{
+  "id": "q_379",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The historian Reinhart Koselleck argued that historical time is constituted by the interplay between what he called the 'space of experience' and the 'horizon of expectation.' The space of experience encompasses all that has been learned from the past and is sedimented into the present; the horizon of expectation is the anticipated future projected from the present. In premodern societies, he argued, these two dimensions were relatively close together: people expected the future to resemble the past. Modernity, Koselleck argued, is defined by the progressive widening of the gap between them—the future became increasingly unforeseeable and the pace of change accelerated—creating the characteristically modern sense of history as irreversible forward movement toward an open, uncertain horizon.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that premodern societies were superior because of their more stable expectations about the future.",
+    "B": "present Koselleck's theory of historical time, contrasting how premodern and modern societies relate to experience and expectation.",
+    "C": "compare the historical theories of Reinhart Koselleck and Michel Foucault.",
+    "D": "explain the specific historical events of modernity that caused the acceleration of change described by Koselleck."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces Koselleck's two concepts (space of experience, horizon of expectation), then contrasts how premodern societies (small gap, future resembles past) and modern societies (widening gap, open horizon) relate to these concepts. B accurately describes this theory-presentation-with-contrast structure. A makes a normative superiority claim about premodern societies—the passage does not evaluate which is superior. C introduces a comparison with Foucault not present—the passage discusses only Koselleck. D implies the passage identifies specific historical events causing modernity's acceleration—the passage describes the structural feature of modernity but does not cite specific triggering events."
+}

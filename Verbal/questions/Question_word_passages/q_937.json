@@ -1,0 +1,16 @@
+{
+  "id": "q_937",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "By the time the restoration team had finished cleaning the mural, decades of smoke and grime ______ layers of paint that had been applied by previous restorers.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "obscure",
+    "B": "had obscured",
+    "C": "obscured",
+    "D": "was obscuring"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence uses the past perfect 'had finished' in the adverbial clause ('By the time...had finished'), which establishes a reference point in the past. The obscuring by smoke and grime happened before or up to that reference point—which requires the past perfect 'had obscured.' The past perfect marks an event that was completed prior to another past event. 'Obscure' is present tense—inconsistent with a past narrative. 'Obscured' is simple past, which is possible but does not correctly signal that the obscuring was already completed relative to the restoration team's finishing. 'Was obscuring' is past progressive, implying ongoing action at the time of finishing—less precise than the past perfect."
+}

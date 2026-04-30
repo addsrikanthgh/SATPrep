@@ -1,0 +1,16 @@
+{
+  "id": "q_986",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is researching the philosophy of personal identity and has taken the following notes:\n- John Locke argued that personal identity consists in continuity of consciousness and memory, not in bodily or soul continuity.\n- On Locke's view, a person at time T2 is the same person as a person at time T1 if and only if the T2 person can remember experiences had by the T1 person.\n- Thomas Reid objected with the 'brave officer paradox': an old general can remember flogging as a boy-officer, the boy-officer can remember being flogged as a child, but the old general cannot remember being flogged as a child—creating an intransitive identity if Locke is correct.\n- Derek Parfit later argued that personal identity may not be what matters; two people could share enough psychological continuity that what we value about survival is preserved, even without strict identity.\n- Modern neuroscience shows that memory is reconstructive and unreliable, which some philosophers argue further undermines memory-based theories of identity.",
+  "question": "The student wants to present the most fundamental logical challenge to Locke's memory theory of personal identity. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Derek Parfit's work suggests that personal identity may not be the most important concept; what matters morally can be preserved through psychological continuity even without strict identity.",
+    "B": "Thomas Reid's brave officer paradox exposes a logical problem in Locke's theory: if personal identity requires memory, and memory chains are not transitive, then the same person can both be and not be identical to an earlier self—a contradiction.",
+    "C": "Locke argued that personal identity consists in memory continuity rather than bodily continuity, meaning that a person's identity persists as long as they can remember their past experiences.",
+    "D": "Modern neuroscience reveals that human memory is reconstructive and fallible, raising questions about whether memory-based theories of personal identity rest on a reliable foundation."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to present the most fundamental logical challenge to Locke's theory. The brave officer paradox (Reid) is described in the notes as exposing a logical contradiction: an intransitive identity chain means the theory generates the conclusion that the old general is and is not identical to the flogged child. B presents the paradox and explains why it is a logical challenge (intransitivity leading to contradiction). A presents Parfit's alternative framework, which does not directly challenge Locke's logic but sidesteps identity entirely. C simply restates Locke's theory without challenging it. D introduces the neuroscience challenge, which is an empirical concern but is described in the notes as a challenge 'some philosophers argue'—less direct and fundamental than Reid's formal logical paradox."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_749",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "For much of the twentieth century, the prevailing view in archaeology was that the Americas were first populated by a single migration of people who crossed a land bridge connecting Siberia and Alaska approximately 13,000 years ago and then rapidly spread southward through an ice-free corridor. This model was largely based on the 'Clovis first' hypothesis, named for a distinctive type of stone point found across North America. In recent decades, however, archaeological sites in South America have yielded evidence of human occupation predating the Clovis culture by at least 2,000 to 4,000 years. Genetic studies have added complexity: some Indigenous South American populations show genetic affinities with populations in Southeast Asia and Australia, suggesting a more complex and possibly multi-route settlement history.",
+  "question": "Based on the passage, what can most reasonably be inferred about the current understanding of how the Americas were first populated?",
+  "choices": {
+    "A": "The single-migration model is no longer sufficient to explain all of the available evidence, and the picture of early American settlement is more complex than previously thought.",
+    "B": "Archaeologists now agree that the Americas were populated by at least five separate migration waves from different continents.",
+    "C": "The Clovis first hypothesis has been completely confirmed by the genetic studies described in the passage.",
+    "D": "The land bridge crossing is now known to have occurred much later than 13,000 years ago based on the genetic evidence described."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage presents multiple lines of evidence (pre-Clovis archaeological sites, genetic affinities with Southeast Asia and Australia) that complicate the single-migration model. A is the most reasonable inference: the simple 'one migration, one route' model is not sufficient. B invents a specific number ('at least five') and specific continents not mentioned in the passage. C contradicts the passage; the genetic studies 'added complexity' rather than confirming Clovis first. D reverses the evidence—the passage says pre-Clovis sites show earlier occupation, not that the land bridge crossing was later than 13,000 years ago."
+}

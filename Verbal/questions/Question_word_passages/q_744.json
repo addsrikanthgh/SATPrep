@@ -1,0 +1,16 @@
+{
+  "id": "q_744",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The Japanese concept of ikigai roughly translates to 'reason for being' or 'that which makes life worth living.' It is often depicted as the intersection of four elements: what you love, what you are good at, what the world needs, and what you can be paid for. People who have found their ikigai are thought to experience a sense of purpose that sustains daily motivation and contributes to wellbeing and longevity. Research on the population of Okinawa, Japan—which has one of the highest concentrations of centenarians in the world—has cited ikigai, along with diet, social connection, and physical activity, as a possible contributing factor.",
+  "question": "Based on the passage, what can most reasonably be inferred about ikigai?",
+  "choices": {
+    "A": "It is not a single, definable factor but a convergence of meaningful activities and roles that together contribute to a sense of purpose.",
+    "B": "It is a uniquely Japanese concept with no parallel in Western psychology or philosophy.",
+    "C": "It has been scientifically proven to extend human lifespan by a measurable number of years.",
+    "D": "People who achieve ikigai are guaranteed a career that is both personally fulfilling and financially rewarding."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes ikigai as the intersection of four elements—not a single attribute but a convergence. A correctly infers that ikigai is this kind of multi-dimensional convergence of meaning and purpose. B makes a claim about Western parallels that the passage does not address. C overstates the passage—ikigai is cited as a 'possible contributing factor' to longevity in Okinawa, not scientifically proven to extend lifespan by a measurable number of years. D distorts the framework; the passage says one element is what you can be paid for, but finding ikigai does not 'guarantee' financial reward—it describes an ideal intersection, not a promise."
+}

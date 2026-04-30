@@ -1,0 +1,16 @@
+{
+  "id": "q_851",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The poets ______ work appeared in the anthology included figures from across the globe, representing traditions in Arabic, Urdu, and Japanese verse.",
+  "question": "Which choice correctly uses punctuation to show possession?",
+  "choices": {
+    "A": "The poets' work appeared in the anthology",
+    "B": "The poet's work appeared in the anthology",
+    "C": "The poets work appeared in the anthology",
+    "D": "The poets's work appeared in the anthology"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence refers to more than one poet (as confirmed by 'figures from across the globe'—plural). For plural nouns ending in 's,' the possessive is formed by adding only an apostrophe after the 's': poets'. A is correct. B ('poet's') is the singular possessive—correct form but wrong number; the passage refers to multiple poets. C omits the apostrophe entirely, which is incorrect for showing possession. D ('poets's') is not a standard English possessive form; plural nouns ending in 's' do not add 's after the apostrophe."
+}

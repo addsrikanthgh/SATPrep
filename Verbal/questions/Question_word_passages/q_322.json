@@ -1,0 +1,16 @@
+{
+  "id": "q_322",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The lead researcher, along with several graduate students, _______ the laboratory every morning at seven to begin the day's experiments.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "open",
+    "B": "opens",
+    "C": "are opening",
+    "D": "have opened"
+  },
+  "correct_answer": "B",
+  "explanation": "The grammatical subject is 'The lead researcher,' a singular noun. The phrase 'along with several graduate students' is a prepositional phrase that interrupts the subject-verb connection but does not make the subject plural. The correct verb must be third-person singular present: 'opens' (B). 'Open' (A) would be correct for a plural subject ('the researchers open') or imperative form, but not for the singular subject here. 'Are opening' (C) is plural progressive—incorrect agreement. 'Have opened' (D) is present perfect plural—incorrect agreement and shifts the tense away from the habitual present established by 'every morning.'"
+}

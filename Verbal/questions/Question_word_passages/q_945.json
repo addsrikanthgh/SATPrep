@@ -1,0 +1,16 @@
+{
+  "id": "q_945",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Antibiotic resistance occurs when bacteria evolve mechanisms to survive exposure to antibiotics that would otherwise kill them. The overuse of antibiotics in human medicine—including prescribing them for viral infections against which they have no effect—is a major driver of resistance. Agricultural use of antibiotics in livestock, often administered not to treat illness but to promote growth, also contributes significantly. Once a resistant strain emerges, it can spread rapidly through communities, hospitals, and internationally through travel.",
+  "question": "Based on the passage, what can most reasonably be inferred about the challenge of addressing antibiotic resistance?",
+  "choices": {
+    "A": "Antibiotic resistance could be fully eliminated if physicians stopped prescribing antibiotics for viral infections.",
+    "B": "Addressing antibiotic resistance requires changes in both medical prescribing practices and agricultural uses of antibiotics.",
+    "C": "Antibiotic resistance only spreads within hospitals and does not pose a risk in community settings.",
+    "D": "Resistant bacterial strains emerge only in livestock populations and are rarely transmitted to humans."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage identifies two major drivers of resistance: overuse in human medicine and agricultural use in livestock. This implies that addressing resistance requires changes in both domains. B is the most reasonable inference. A implies medical prescribing is the only necessary intervention, ignoring the agricultural driver also identified. C contradicts the passage, which explicitly states resistance 'can spread rapidly through communities, hospitals, and internationally.' D contradicts the passage, which describes emergence in both human medicine and agriculture, and spread through communities and travel."
+}

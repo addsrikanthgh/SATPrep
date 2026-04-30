@@ -1,0 +1,16 @@
+{
+  "id": "q_811",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A climate scientist argues that the frequency of extreme precipitation events—intense storms that deliver exceptionally high rainfall over short periods—has increased in most regions of the world as global average temperatures have risen.",
+  "question": "Which finding from a climate analysis would most directly support the scientist's argument?",
+  "choices": {
+    "A": "'Analysis of precipitation records from 1950 to 2020 across six continents found that events in the top 1% of daily rainfall intensity occurred 15–20% more frequently per decade of global temperature increase.'",
+    "B": "'Total annual precipitation has increased in some regions and decreased in others over the past century, with no consistent global trend.',",
+    "C": "'Flooding events have caused more economic damage over the past two decades than in earlier periods, partly reflecting increased development in flood-prone areas.'",
+    "D": "'Warmer ocean surface temperatures increase evaporation rates, adding more water vapor to the atmosphere and potentially intensifying precipitation events.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The scientist argues that extreme precipitation frequency has increased with rising temperatures. A directly supports this with historical records showing that top-1% rainfall events occurred 15–20% more frequently per degree of global temperature increase. B shows inconsistent trends in total precipitation—not extreme events or a link to temperature. C links flooding damage to development in flood-prone areas rather than to increased event frequency. D explains the mechanism by which warming could intensify precipitation but does not provide evidence that extreme events have actually become more frequent."
+}

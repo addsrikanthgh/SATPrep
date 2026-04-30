@@ -1,0 +1,16 @@
+{
+  "id": "q_655",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The geologist's findings presented a paradox _______ the rock layers, which should have been deposited horizontally, were tilted nearly vertical, suggesting a catastrophic tectonic event in the region's history.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "paradox:",
+    "B": "paradox,",
+    "C": "paradox;",
+    "D": "paradox—"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence names 'a paradox' and then the following clause defines what that paradox is. A colon (A) is the standard punctuation after a complete independent clause to introduce an explanation, definition, or elaboration. 'The rock layers...were tilted nearly vertical' is the content of the paradox. A comma (B) creates a comma splice. A semicolon (C) would work grammatically but the colon better signals the definitional relationship. An em dash (D) could work in informal contexts but the colon is more precise and conventional here."
+}

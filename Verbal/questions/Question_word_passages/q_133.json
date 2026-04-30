@@ -1,0 +1,16 @@
+{
+  "id": "q_133",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The Congress of Vienna (1814–1815) sought to restore a European order that the Napoleonic Wars had shattered. Metternich, representing Austria, championed a policy of legitimacy—the principle that hereditary monarchs displaced by revolution or conquest should be restored to their thrones. Critics of the settlement have argued that by enshrining the old order, the congress was merely arresting the course of liberalism and nationalism, forces that would return with redoubled intensity by 1848.",
+  "question": "As used in the passage, \"arresting\" most nearly means",
+  "choices": {
+    "A": "capturing",
+    "B": "halting",
+    "C": "alarming",
+    "D": "correcting"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'arresting the course of liberalism and nationalism' treats those movements as a flowing current being temporarily stopped. 'Halting' (B) best captures this sense of interrupting or suppressing a progressive movement. 'Capturing' (A) is the most familiar everyday meaning of 'arresting' (as in detaining a criminal), but 'capturing the course' of an ideology makes no logical sense here. 'Alarming' (C) is another common meaning (as in 'an arresting sight'), but to say the congress was 'alarming the course of liberalism' is grammatically incoherent. 'Correcting' (D) implies improvement, which contradicts the critics' negative assessment that the congress was trying to suppress inevitable historical forces."
+}

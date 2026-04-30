@@ -1,0 +1,16 @@
+{
+  "id": "q_820",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "easy",
+  "passage": "A student argues that the domestication of horses around 3500 BCE in the Eurasian steppes fundamentally transformed human civilization by enabling faster communication, larger trading networks, and military advantages that changed the political map of the ancient world.",
+  "question": "Which historical evidence would most directly support the student's argument?",
+  "choices": {
+    "A": "'Archaeological evidence shows that within 500 years of horse domestication in the Pontic Steppe, Yamnaya-culture populations rapidly expanded across Europe and Central Asia, with genetic and artifact evidence suggesting their languages, technologies, and social structures spread over thousands of kilometers—a dispersal unprecedented in pre-horse populations.'",
+    "B": "'Horses require approximately 20 pounds of forage per day and are well-suited to grassland environments but struggle in densely forested or mountainous terrain.',",
+    "C": "'The oldest known written records, found in Mesopotamia and dating to approximately 3100 BCE, consist primarily of administrative documents recording agricultural production.',",
+    "D": "'Cattle domestication, which preceded horse domestication by several thousand years, provided ancient peoples with a reliable source of meat, dairy, and draft power for agriculture.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The student argues that horse domestication transformed civilization by enabling faster movement, larger trading networks, and military advantages. A directly supports this by showing that within 500 years of horse domestication, Yamnaya populations expanded thousands of kilometers—spreading languages, technologies, and social structures in ways unprecedented before horses. This is evidence of the civilization-transforming impact the student argues. B describes horses' dietary needs and terrain limitations—logistical constraints, not civilization transformation. C describes early writing in Mesopotamia—unrelated to horse domestication's impact. D describes cattle domestication—a separate technology with different impacts."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_363",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The immune system faces a fundamental challenge that is sometimes called the 'tolerance problem': it must learn to attack foreign pathogens aggressively while leaving the body's own tissues entirely alone. Failure in one direction produces chronic infection; failure in the other produces autoimmune disease, in which the immune system destroys the body it is supposed to protect. The thymus—a small gland behind the sternum—solves part of this problem by selecting T cells. Immature T cells that react too weakly to any target are eliminated (positive selection), while those that react strongly to the body's own molecules are also eliminated (negative selection). Only cells passing both tests survive to enter circulation, where they form the adaptive immune response.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that autoimmune diseases are more dangerous than infectious diseases.",
+    "B": "describe the tolerance problem the immune system faces and explain how the thymus's selection process addresses it.",
+    "C": "compare the adaptive immune response unfavorably with the innate immune response.",
+    "D": "trace the evolutionary history of the thymus from simpler immune systems."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage opens by defining the tolerance problem (the immune system must attack pathogens but spare the body), describes what happens when it fails in either direction, and then explains how the thymus's positive and negative selection processes address this problem. B accurately captures both parts: problem definition and mechanistic explanation. A makes a comparative claim about disease danger that the passage does not make. C introduces a comparison between adaptive and innate immunity not present in the passage. D attributes an evolutionary history to the passage that does not appear in the text."
+}

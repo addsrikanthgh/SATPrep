@@ -1,0 +1,16 @@
+{
+  "id": "q_277",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "The political philosopher Hannah Arendt drew a sharp distinction between 'labor,' 'work,' and 'action' as three modes of human activity. Labor—the repetitive biological processes of sustaining life—leaves no durable trace. Work—the fabrication of objects—creates a stable human world that outlasts individuals. Action—participation in political life through speech and deed among equals—is the distinctively human activity through which individuals achieve a kind of immortality by entering the historical record. Arendt was deeply skeptical of modernity's tendency to reduce all human activity to labor: the reduction of citizens to consumers, of political engagement to economic interest, and of public life to private comfort.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Arendt argued that economic activity is the highest form of human achievement in modern democratic societies.",
+    "B": "Arendt distinguished three modes of human activity and warned that modernity's tendency to prioritize labor over work and action threatens the distinctively human dimensions of public life.",
+    "C": "Arendt believed that work—the fabrication of durable objects—is more important than political action for achieving historical immortality.",
+    "D": "Arendt's distinction between labor and work is primarily a critique of industrial capitalism's treatment of factory workers."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers Arendt's three-part distinction and her critique of modernity's reduction of all activity to labor. B captures both the tripartite framework and the normative warning about modernity's tendencies. A directly contradicts Arendt's position—she was skeptical of reducing citizens to consumers and political engagement to economic interest. C misrepresents her hierarchy; the passage presents action (political participation) as the distinctively human activity and source of immortality, with work as second. D narrows the critique to industrial capitalism's treatment of workers, which is not what the passage says—Arendt's concern is about the reduction of political life to consumption and private comfort."
+}

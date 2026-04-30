@@ -1,0 +1,16 @@
+{
+  "id": "q_230",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Behavioral economists have documented a phenomenon called 'present bias': people consistently prefer smaller rewards now over larger rewards later, even when the larger reward is clearly superior by any rational calculation. The puzzle is not that people prefer the present—that preference is understandable. The puzzle is that the size of the preference changes depending on when 'now' is. Asked today whether they prefer $100 in a year or $110 in a year and a day, most people choose the $110. Asked the same question when a year has passed—that is, when the $100 option is immediate—many of the same people switch their preference.",
+  "question": "What function does the sentence \"The puzzle is not that people prefer the present—that preference is understandable\" serve in the passage?",
+  "choices": {
+    "A": "It defines present bias as a universal and rational feature of human decision-making.",
+    "B": "It narrows the scope of the puzzle being discussed, redirecting attention from a predictable feature of preference to the more distinctive and puzzling reversal of preference over time.",
+    "C": "It concludes the author's explanation of why present bias is irrational.",
+    "D": "It provides an example of a situation in which choosing an immediate reward is the optimal decision."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence performs a precise narrowing function: it acknowledges that valuing the present is expected and unremarkable, then positions the real puzzle—the inconsistency of preferences as time passes—as what demands explanation. The phrase 'The puzzle is not...' explicitly rules out the obvious interpretation and redirects to the specific phenomenon (preference reversal) the passage goes on to illustrate. B accurately identifies this scope-narrowing redirection. A mischaracterizes the sentence; it does not call present bias rational. C misidentifies the sentence as a conclusion; it appears mid-passage and sets up the examples that follow. D says the sentence provides an example, which it does not—it makes a conceptual clarification."
+}

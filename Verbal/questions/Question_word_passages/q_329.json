@@ -1,0 +1,16 @@
+{
+  "id": "q_329",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Mariana told her supervisor that _______ planned to submit the quarterly report by Thursday morning.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "she",
+    "B": "her",
+    "C": "they",
+    "D": "their"
+  },
+  "correct_answer": "A",
+  "explanation": "The pronoun fills the subject position of the embedded clause 'that _______ planned to submit.' The subject of this clause refers back to 'Mariana' (a singular, feminine antecedent) and needs a subject pronoun. 'She' (A) is the correct singular feminine subject pronoun. 'Her' (B) is an object pronoun—incorrect in subject position. 'They' (C) is plural—incorrect agreement with singular 'Mariana.' 'Their' (D) is a plural possessive—incorrect both in agreement and in grammatical role (a subject, not a possessive, is needed)."
+}

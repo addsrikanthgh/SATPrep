@@ -1,0 +1,16 @@
+{
+  "id": "q_335",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "_______ speaking at the conference, Dr. Reyes outlined the key findings of her decade-long study on coral reef recovery.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "While",
+    "B": "When",
+    "C": "Because",
+    "D": "Before"
+  },
+  "correct_answer": "B",
+  "explanation": "The participial phrase 'speaking at the conference' describes what Dr. Reyes was doing when she 'outlined' her findings. The two actions—speaking and outlining—are simultaneous. 'When' (B) correctly introduces the temporal subordinating clause indicating the two events coincide. 'While' (A) is also used for simultaneous actions, but here the test is which is grammatically best in context: 'When speaking at the conference' describes the occasion during which the outlining happened, which is a natural reading. Both A and B are defensible, but 'When' is more precise for pinpointing the occasion. 'Because' (C) would suggest causation—incorrect, the outlining was not caused by speaking at a conference. 'Before' (D) would suggest the outlining happened before the speaking—incorrect given that the speaking is the occasion during which the findings were presented."
+}

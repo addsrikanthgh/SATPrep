@@ -1,0 +1,16 @@
+{
+  "id": "q_239",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Literary critics have long divided novels into 'character-driven' and 'plot-driven' works, as if these were separate, even competing properties. The distinction flatters neither category. A plot that characters do not care about is mere machinery; a character study in which nothing happens produces stasis rather than insight. The most enduring fiction refuses the distinction entirely: in Tolstoy, in Morrison, in García Márquez, plot is the revelation of character, and character is the engine of plot. The categories survive in workshops and syllabi largely because they are easy to teach, not because they describe how fiction actually works.",
+  "question": "What function does the sentence \"The distinction flatters neither category\" serve in the passage?",
+  "choices": {
+    "A": "It argues that plot-driven novels are superior to character-driven ones.",
+    "B": "It dismisses critics who analyze fiction as either character-driven or plot-driven.",
+    "C": "It signals that the author finds both halves of the conventional distinction inadequate, establishing the critical stance from which the rest of the argument proceeds.",
+    "D": "It introduces the novels of Tolstoy, Morrison, and García Márquez as examples of character-driven fiction."
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence follows the description of the conventional character/plot distinction and immediately declares that neither category in the dichotomy holds up well. This plants the author's evaluative stance—that the distinction is a poor analytical tool—and sets up the subsequent argument: plot without character is 'mere machinery,' character without plot is 'stasis,' and the best novels transcend the divide entirely. C correctly identifies the sentence's role in establishing the author's critical position. A is wrong because the sentence treats both categories as inadequate, not privileging one over the other. B is a distraction; the sentence critiques the distinction itself, not the people who use it. D misattributes the introduction of Tolstoy, Morrison, and García Márquez to this sentence; they appear later as examples."
+}

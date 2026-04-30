@@ -1,0 +1,16 @@
+{
+  "id": "q_648",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The company's most profitable product is its noise-canceling headphones _______ revenue from headphone sales exceeded all other product lines combined last year.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "headphones:",
+    "B": "headphones,",
+    "C": "headphones;",
+    "D": "headphones"
+  },
+  "correct_answer": "A",
+  "explanation": "The first clause makes a claim ('most profitable product'), and the second clause provides the specific evidence or explanation ('revenue exceeded all other lines'). This is a case for a colon: the second clause directly proves the first. A colon (A) correctly signals that what follows is an explanation or evidence for the preceding independent clause. A comma (B) creates a comma splice. A semicolon (C) could work grammatically but the colon better captures the explanatory relationship. No punctuation (D) is a run-on."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_144",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The philosopher's central argument—that moral obligations arise from rational agency, not from sentiment—drew immediate criticism from empiricists who believed that emotion was the foundation of ethical judgment.",
+  "question": "Which choice correctly uses punctuation in the sentence above?",
+  "choices": {
+    "A": "The philosopher's central argument—that moral obligations arise from rational agency, not from sentiment—drew immediate criticism from empiricists who believed that emotion was the foundation of ethical judgment.",
+    "B": "The philosopher's central argument, that moral obligations arise from rational agency, not from sentiment, drew immediate criticism from empiricists who believed that emotion was the foundation of ethical judgment.",
+    "C": "The philosopher's central argument—that moral obligations arise from rational agency, not from sentiment, drew immediate criticism from empiricists who believed that emotion was the foundation of ethical judgment.",
+    "D": "The philosopher's central argument—that moral obligations arise from rational agency—not from sentiment—drew immediate criticism from empiricists who believed that emotion was the foundation of ethical judgment."
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'that moral obligations arise from rational agency, not from sentiment' is a parenthetical appositive that explains 'the philosopher's central argument.' Because the parenthetical itself contains a comma (separating 'not from sentiment'), em dashes are the appropriate punctuation to mark the parenthetical's boundaries without confusion. A correctly places matching em dashes on both sides. C uses an em dash to open but a comma to close—mismatched punctuation that leaves the sentence's structure ambiguous. B uses commas for both boundaries, which is technically possible for a simple appositive but creates ambiguity here because the internal comma ('not from sentiment') blurs the list structure. D incorrectly inserts a third em dash mid-phrase, fragmenting the internal contrast."
+}

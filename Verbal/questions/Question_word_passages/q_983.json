@@ -1,0 +1,16 @@
+{
+  "id": "q_983",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is researching the economics of attention and digital media and has taken the following notes:\n- Economist Herbert Simon coined the term 'attention economy' in 1971, arguing that information abundance creates attention scarcity.\n- Digital platforms derive revenue primarily from advertising, which requires maximizing user engagement (time on platform).\n- Features such as infinite scroll, autoplay, and variable reward notifications are specifically designed to capture and sustain attention.\n- A 2018 study found that social media use is correlated with increased anxiety and depression in adolescents, though the causal direction is debated.\n- Some researchers argue that comparing platform design to slot machine mechanics ('intermittent reinforcement') accurately describes the psychological mechanisms exploited.",
+  "question": "The student wants to argue that digital platform design reflects deliberate choices to exploit psychological mechanisms for commercial gain, not accidental byproducts. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Herbert Simon observed in 1971 that information abundance creates attention scarcity—a foundational insight for understanding the modern digital economy.",
+    "B": "Social media use has been associated with increased anxiety and depression in adolescents, though researchers debate whether the relationship is causal or correlational.",
+    "C": "Features like infinite scroll, autoplay, and variable reward notifications are not accidental—they are purpose-built tools, some researchers argue explicitly modeled on slot machine intermittent reinforcement, deployed to capture attention and maximize the ad revenue that platforms depend on.",
+    "D": "Digital platforms earn revenue through advertising and must therefore maximize engagement; to accomplish this, they have developed numerous features intended to keep users on the platform."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to argue that platform features are deliberate exploitations of psychological mechanisms for commercial gain—not accidents. C integrates three relevant notes: the specific features (infinite scroll, autoplay, variable reward notifications), the slot machine intermittent reinforcement analogy that names the psychological mechanism, and the connection to advertising revenue. 'Not accidental' directly addresses the deliberateness claim, and 'purpose-built tools' reinforces intentionality. A introduces Simon's observation without connecting to deliberate design. B addresses the mental health correlation, which is relevant to harm but not the deliberateness-of-design argument. D describes the engagement motivation but does not address the psychological mechanism exploitation."
+}

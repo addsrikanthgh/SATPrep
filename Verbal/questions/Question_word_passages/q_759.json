@@ -1,0 +1,16 @@
+{
+  "id": "q_759",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Epigenetics refers to changes in gene expression that do not involve alterations to the underlying DNA sequence. Environmental factors—including diet, stress, and exposure to toxins—can cause chemical modifications to the proteins around which DNA is wrapped, affecting whether specific genes are 'turned on' or 'turned off.' Some epigenetic modifications appear to be heritable: studies in mice have shown that experiences such as exposure to a specific scent paired with stress can alter the olfactory sensitivity of offspring and even grandoffspring. If this transgenerational epigenetic inheritance holds for humans as well, it would mean that environmental exposures in one generation could influence the biology of descendants.",
+  "question": "Based on the passage, what can most reasonably be inferred about the relationship between environment and heredity suggested by epigenetics research?",
+  "choices": {
+    "A": "Environmental experiences may shape biology in ways that are passed to future generations, complicating the traditional view that only DNA sequence is inherited.",
+    "B": "Epigenetic research has confirmed that trauma and stress are always transmitted to children, making it impossible to break cycles of inherited suffering.",
+    "C": "If transgenerational epigenetic inheritance applies to humans, the effects would be permanent and unalterable across unlimited future generations.",
+    "D": "The epigenetic modifications described in the passage change the underlying DNA sequence, which is then transmitted to offspring."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes how environment can alter gene expression and suggests this may be heritable, which challenges the traditional view that only DNA sequence (genotype) is passed to offspring. A accurately captures this implication. B is too strong and deterministic—the passage says modifications 'appear to be heritable' in some experimental cases and does not claim environmental experiences are 'always' transmitted or that cycles are 'impossible to break.' C exaggerates permanence and scope—the passage does not describe effects as permanent or spanning unlimited generations. D directly contradicts the passage's definition: epigenetics involves changes in expression without altering the DNA sequence itself."
+}

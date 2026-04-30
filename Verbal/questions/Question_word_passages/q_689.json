@@ -1,0 +1,16 @@
+{
+  "id": "q_689",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "In the eighteenth and nineteenth centuries, European explorers and naturalists collected plant and animal specimens from across the globe and shipped them to institutions in London, Paris, and other metropolitan centers. This collecting enterprise was inseparable from colonial systems of extraction: local guides, laborers, and indigenous knowledge holders made the fieldwork possible, yet they were rarely credited in the publications that resulted. Natural history museums amassed enormous collections—many of which remain the basis for contemporary biological research—while the communities from whose territories the specimens were taken received no compensation or recognition. In recent decades, scholars and indigenous communities have called for the decolonization of natural history collections, arguing that institutions should acknowledge these histories, repatriate culturally significant specimens when appropriate, and restructure research partnerships to share credit and benefit more equitably.",
+  "question": "According to the passage, what is one argument made by those calling for the decolonization of natural history collections?",
+  "choices": {
+    "A": "Institutions should acknowledge the colonial histories of their collections and share credit and benefit more equitably with source communities.",
+    "B": "All natural history specimens collected during the colonial period should be immediately returned to the countries from which they were taken.",
+    "C": "Contemporary biological research is invalid because it depends on collections obtained through unethical means.",
+    "D": "European natural history museums should be closed and replaced by institutions based in formerly colonized countries."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explicitly lists the arguments of decolonization advocates: acknowledging histories, repatriating culturally significant specimens 'when appropriate,' and restructuring partnerships to share credit and benefit equitably. A accurately reflects these points, including the measured framing ('when appropriate'). B overstates the argument—the passage says 'repatriate culturally significant specimens when appropriate,' not all specimens should be immediately returned. C is not an argument made in the passage; the passage does not say research based on these collections is invalid. D is not mentioned; the passage does not call for closing or replacing institutions."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_849",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The report concluded that the program had achieved its primary goal ______ reducing infant mortality by 30 percent ______ while also noting that funding shortfalls had prevented the program from reaching several of its secondary targets.",
+  "question": "Which choice correctly punctuates the parenthetical elaboration?",
+  "choices": {
+    "A": "achieved its primary goal—reducing infant mortality by 30 percent—while also noting",
+    "B": "achieved its primary goal, reducing infant mortality by 30 percent, while also noting",
+    "C": "achieved its primary goal: reducing infant mortality by 30 percent, while also noting",
+    "D": "achieved its primary goal reducing infant mortality by 30 percent while also noting"
+  },
+  "correct_answer": "A",
+  "explanation": "'Reducing infant mortality by 30 percent' is a parenthetical that specifies what the primary goal was. Paired em dashes effectively enclose this explanatory phrase when it appears in mid-sentence with other clauses following. A correctly pairs the em dashes: '—reducing infant mortality by 30 percent—while.' B uses paired commas, which is also grammatically acceptable; however, because the sentence already uses commas in the following clause ('while also noting that...'), the em dashes in A prevent ambiguity about which commas are structural and which are parenthetical. C uses a colon before the phrase (incorrect—a colon cannot be closed by a comma to form a pair) and then a comma. D omits all punctuation, creating a confusing run-on."
+}

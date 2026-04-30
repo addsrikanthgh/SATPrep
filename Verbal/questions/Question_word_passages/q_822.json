@@ -1,0 +1,16 @@
+{
+  "id": "q_822",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "Although the professor's lecture on quantum entanglement was technically accurate, many students found the presentation _______, as the highly abstract concepts were introduced without concrete examples or analogies to anchor them.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "impenetrable",
+    "B": "superfluous",
+    "C": "contentious",
+    "D": "prescient"
+  },
+  "correct_answer": "A",
+  "explanation": "'Impenetrable' means impossible to understand or get through—used figuratively here to describe content that is incomprehensible because it lacks accessible anchors. The context specifies that abstract concepts were given with no examples or analogies, making comprehension difficult. 'Superfluous' means unnecessary or excessive—the problem is not that there is too much content but that it's too abstract. 'Contentious' means disputed or likely to cause argument—the issue is difficulty, not controversy. 'Prescient' means having knowledge of future events—entirely off-topic."
+}

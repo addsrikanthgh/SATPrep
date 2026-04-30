@@ -1,0 +1,16 @@
+{
+  "id": "q_906",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Medieval Islamic scholars made foundational contributions to mathematics, astronomy, medicine, and philosophy that were later transmitted to Europe through Latin translations made in Spain and Sicily. The ninth-century mathematician al-Khwarizmi developed algebra as a systematic discipline, and his name is the etymological root of the word 'algorithm.' Scholars such as Ibn Sina (Avicenna) and Ibn Rushd (Averroes) preserved and extended Greek philosophical and medical texts while making original contributions that would shape European intellectual life for centuries.\n\nText 2: While acknowledging medieval Islamic scholars' remarkable achievements, some historians caution against a 'transmission model' of intellectual history that presents them primarily as conduits through which Greek knowledge passed to Europe. This framing minimizes the originality of Islamic scholarship, reducing complex creative intellectual traditions to a relay race. Ibn Sina's Canon of Medicine was not merely a synthesis of Galen; it reflected original clinical observation, theoretical innovation, and a systematic approach to pharmacology that went far beyond anything in Greek sources.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to Text 1?",
+  "choices": {
+    "A": "By arguing that medieval Islamic scholars made no original contributions and were merely preserving Greek knowledge",
+    "B": "By agreeing with Text 1 entirely, since Text 1 does acknowledge original contributions from Islamic scholars",
+    "C": "By contending that while Text 1 acknowledges original contributions, its emphasis on transmission to Europe risks understating the independent value and originality of Islamic scholarship",
+    "D": "By claiming that European scholars made more significant contributions than Islamic scholars to the development of algebra and medicine"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 does not deny what Text 1 says, but argues that the 'transmission model'—framing Islamic scholarship primarily through its relay function to Europe—minimizes originality. Text 1 does acknowledge original contributions but is structured around how Islamic scholarship reached Europe. Text 2's author would likely find Text 1's framing problematic even though individual facts are accurate. C captures this nuanced critique. A inverts Text 2's argument—it explicitly praises Islamic scholarship's originality. B overstates agreement; Text 2's concern about framing applies to the approach Text 1 takes. D introduces a comparative claim about European vs. Islamic contributions that Text 2 does not make."
+}

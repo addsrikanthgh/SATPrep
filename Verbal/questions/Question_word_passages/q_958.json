@@ -1,0 +1,16 @@
+{
+  "id": "q_958",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "In many countries, the legal drinking age creates a sharp behavioral cutoff: individuals just below the minimum age cannot legally purchase alcohol, while those just above it can. Economists have used this 'regression discontinuity' design to study the causal effects of alcohol access, comparing outcomes for people just below and just above the legal threshold. Studies using this method have found that reaching the legal drinking age is associated with increased alcohol-related hospitalizations, fatal accidents, and criminal incidents in the days and months after the cutoff.",
+  "question": "Based on the passage, what can most reasonably be inferred about the relationship between alcohol access and negative outcomes?",
+  "choices": {
+    "A": "Negative outcomes such as accidents and hospitalizations are unrelated to alcohol access and occur at similar rates on both sides of the legal drinking age threshold.",
+    "B": "Gaining legal access to alcohol is associated with an increase in alcohol-related harms, suggesting that access itself—not just underlying traits of drinkers—plays a role in those harms.",
+    "C": "The legal drinking age is ineffective as a policy tool because people below the legal age have equivalent access to alcohol as those above it.",
+    "D": "Alcohol-related harms decrease immediately after people reach the legal drinking age because they no longer need to drink illegally."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes a study design that exploits the sharp threshold of legal drinking age to isolate the effect of legal access. It finds that reaching the legal age is associated with increased harms in the period following the cutoff. Because individuals just below and just above the threshold are otherwise similar (the design's strength), the increase in harms implies legal access itself—not pre-existing differences—contributes to negative outcomes. B is the most reasonable inference. A contradicts the findings directly. C introduces a claim about informal access not supported by the passage. D is directly contradicted—harms increase, not decrease, after reaching the legal age."
+}

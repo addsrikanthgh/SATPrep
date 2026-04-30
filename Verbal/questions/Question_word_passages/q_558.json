@@ -1,0 +1,16 @@
+{
+  "id": "q_558",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Although the terms 'weather' and 'climate' are often used interchangeably in everyday speech, they describe fundamentally different things. Weather refers to short-term atmospheric conditions—temperature, precipitation, humidity, and wind—at a specific location and time. Climate refers to the average patterns of weather in a region over long periods, typically thirty years or more. The distinction matters because a single cold winter in a region does not contradict climate trends; individual weather events occur against the backdrop of long-term climate patterns.",
+  "question": "Based on the passage, what can most reasonably be inferred about the relationship between weather and climate?",
+  "choices": {
+    "A": "Unusually cold weather in a single year is sufficient evidence to conclude that the region's climate is cooling.",
+    "B": "Weather events, being short-term and variable, cannot by themselves confirm or refute long-term climate trends.",
+    "C": "Climate describes daily temperature and precipitation at a specific location, while weather describes long-term averages.",
+    "D": "Scientists use weather data exclusively when studying climate, ignoring long-term patterns."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that 'a single cold winter in a region does not contradict climate trends' because weather is short-term and climate is long-term average. B correctly infers the logical implication of this distinction. A is directly contradicted—one cold winter does not indicate a cooling climate. C reverses the definitions given in the passage. D contradicts the passage, which defines climate as long-term patterns—not ignoring them."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_280",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "hard",
+  "passage": "The legal theorist Roberto Unger argued that modern societies are trapped in what he called 'false necessity': the mistaken belief that current social arrangements—markets, states, property rights, forms of democracy—are the only workable options rather than contingent historical constructions that could be redesigned. This belief, Unger contended, is reinforced by social science's tendency to develop theories of what exists rather than of what is possible. His project was to develop an 'empowered democracy' in which institutional arrangements are deliberately kept revisable, preventing any particular configuration of power from entrenching itself as the natural order.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Unger argued that current market and state institutions are the most efficient arrangements that human societies have discovered.",
+    "B": "Unger identified the belief that current social institutions are the only workable options as a form of false necessity, and proposed an 'empowered democracy' designed to keep institutional arrangements permanently revisable.",
+    "C": "Unger's primary contribution was a critique of social science methodology, arguing that empirical research is inherently unreliable.",
+    "D": "Unger claimed that property rights are the most important institution to redesign in order to achieve a more democratic society."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents two interrelated ideas: Unger's diagnosis (false necessity—treating contingent institutions as necessary) and his prescription (empowered democracy—keeping institutions revisable). B captures both. A directly contradicts Unger's position; he argues current arrangements are contingent, not optimal. C overstates the methodological critique—Unger criticizes social science's focus on the existing rather than the possible, but the passage does not say empirical research is inherently unreliable. D focuses narrowly on property rights, whereas Unger's argument, as presented, concerns the full range of 'markets, states, property rights, forms of democracy' without singling out property rights."
+}

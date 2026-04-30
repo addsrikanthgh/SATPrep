@@ -1,0 +1,16 @@
+{
+  "id": "q_183",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Mary Wollstonecraft's A Vindication of the Rights of Woman (1792) is frequently characterized as the founding text of modern feminism, but its argument is more complicated than this summary suggests. Wollstonecraft was not primarily interested in political equality in the narrow sense; she was most concerned with rationality. She argued that women appeared irrational not because they lacked the capacity for reason, but because their education deliberately cultivated sensibility, vanity, and emotional dependence at the expense of rational development. She did not call for women to be freed from domesticity so much as she called for the conditions under which rational virtue—which she valued in both men and women—could be developed in women as fully as in men.",
+  "question": "A student argues that Wollstonecraft attributed women's perceived irrationality to their upbringing rather than to any innate deficiency. Which quotation from the passage best supports this argument?",
+  "choices": {
+    "A": "\"Wollstonecraft was not primarily interested in political equality in the narrow sense; she was most concerned with rationality\"",
+    "B": "\"women appeared irrational not because they lacked the capacity for reason, but because their education deliberately cultivated sensibility, vanity, and emotional dependence at the expense of rational development\"",
+    "C": "\"She did not call for women to be freed from domesticity so much as she called for the conditions under which rational virtue could be developed in women as fully as in men\"",
+    "D": "\"A Vindication of the Rights of Woman (1792) is frequently characterized as the founding text of modern feminism\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student's argument requires evidence that Wollstonecraft located the cause of women's apparent irrationality in nurture (upbringing/education), not nature (innate deficiency). B provides exactly this: it explicitly contrasts lacking the capacity for reason (an innate deficiency) with being subject to an education that cultivated emotional dependence at the expense of rational development—placing responsibility on education, not innate capacity. A establishes Wollstonecraft's primary concern (rationality) but does not address the cause of apparent irrationality. C describes Wollstonecraft's prescriptive goal but not the causal attribution. D is a framing sentence about the text's reception, not an argument about causation."
+}

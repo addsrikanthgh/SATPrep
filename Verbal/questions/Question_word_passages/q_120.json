@@ -1,0 +1,16 @@
+{
+  "id": "q_120",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "easy",
+  "passage": "The CRISPR-Cas9 system has given geneticists an unprecedented ability to edit DNA with surgical precision. Unlike earlier gene-editing tools, which introduced changes at relatively unpredictable locations, CRISPR can be directed to a specific sequence with remarkable fidelity, cutting the double helix at an exact site. This precision has made the technology attractive for both basic research and potential therapeutic applications, though questions about off-target edits—unintended changes elsewhere in the genome—remain a subject of active investigation.",
+  "question": "As used in the passage, \"fidelity\" most nearly means",
+  "choices": {
+    "A": "loyalty",
+    "B": "accuracy",
+    "C": "speed",
+    "D": "durability"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'fidelity' describes CRISPR's ability to be directed to a specific DNA sequence—the sentence continues with 'cutting the double helix at an exact site,' indicating the word refers to precision or accuracy (B). 'Loyalty' (A) is the most common everyday meaning of fidelity but makes no sense in a scientific context describing a molecular tool's targeting capability. 'Speed' (C) is not supported—the passage does not compare editing speeds. 'Durability' (D) refers to longevity or resistance to wear, which is irrelevant to this sentence about targeting precision."
+}

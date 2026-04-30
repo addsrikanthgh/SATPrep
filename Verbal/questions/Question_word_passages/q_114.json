@@ -1,0 +1,16 @@
+{
+  "id": "q_114",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The expedition's records show that neither the cartographer nor the general ___ aware that the northern passage had already been charted by an earlier Portuguese expedition.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "has been",
+    "D": "being"
+  },
+  "correct_answer": "B",
+  "explanation": "In a 'neither...nor' construction, the verb agrees with the subject closest to it. The subject nearest the verb is 'the general' (singular), so the singular past-tense verb 'was' (B) is correct. 'Were' (A) would be appropriate if the closer subject were plural, but 'the general' is singular. 'Has been' (C) incorrectly shifts to the present perfect tense, which is inconsistent with the simple past context established by 'The expedition's records show that.' 'Being' (D) creates a sentence fragment with no finite verb."
+}

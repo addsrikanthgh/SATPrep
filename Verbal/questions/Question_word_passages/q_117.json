@@ -1,0 +1,16 @@
+{
+  "id": "q_117",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the economic consequences of the Black Death. While researching, the student finds the following information:\n\n- The Black Death killed between 30–60% of Europe's population between 1347 and 1351.\n- After the plague, surviving workers could demand higher wages because labor had become scarce.\n- Many landlords were forced to convert feudal obligations into cash rents.\n- Historian David Herlihy argued that the plague accelerated the end of serfdom in Western Europe.",
+  "question": "Which sentence most effectively synthesizes the notes to support the claim that the Black Death contributed to economic changes that weakened the feudal system?",
+  "choices": {
+    "A": "The Black Death killed up to 60% of Europe's population, making it one of the deadliest pandemics in human history.",
+    "B": "After the Black Death, surviving workers could demand higher wages while landlords converted feudal obligations into cash rents—developments historians such as David Herlihy argue accelerated the end of serfdom.",
+    "C": "Surviving workers after the Black Death were able to demand higher wages because labor had become scarce following the epidemic.",
+    "D": "David Herlihy argued that the Black Death accelerated the end of serfdom, a claim based on evidence that the plague killed between 30 and 60 percent of Europe's population."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's claim requires a sentence linking multiple economic changes to the weakening of feudalism. B synthesizes three notes—higher wages for workers, landlords' conversion of feudal obligations to cash rents, and Herlihy's historical conclusion—and explicitly connects them to the feudal system. A covers only one note (death toll) and says nothing about economic or feudal consequences. C covers only one note (wages) without connecting to feudalism. D pairs Herlihy's conclusion with only the death toll statistic, omitting the specific economic developments that support the argument."
+}

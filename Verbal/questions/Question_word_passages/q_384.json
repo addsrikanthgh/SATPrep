@@ -1,0 +1,16 @@
+{
+  "id": "q_384",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay arguing that the framing of 'addiction as a moral failure' has had measurable policy consequences. The student has taken the following notes:\n- For most of the twentieth century, substance addiction was classified primarily as a moral or legal problem, not a medical one.\n- Under this framing, incarceration rather than treatment was the dominant policy response to addiction.\n- Brain-imaging research since the 1990s has established that addiction involves measurable changes in dopamine signaling and prefrontal cortex regulation—changes consistent with a chronic disease model.\n- The U.S. incarcerated approximately 450,000 people for drug offenses in 2019, at an annual cost exceeding $30,000 per person.\n- Treatment programs for opioid use disorder (such as medication-assisted treatment) have shown 40–60% reductions in relapse rates.",
+  "question": "Which choice most effectively uses the notes to support the argument that the moral-failure framing has had costly and counterproductive policy consequences?",
+  "choices": {
+    "A": "Addiction was once seen as a moral failure, but scientists now know it involves brain changes, which is why treatment is better than jail.",
+    "B": "Because addiction was framed as a moral failure rather than a medical condition, the dominant policy response was incarceration—incarcerating approximately 450,000 people annually at over $30,000 each—rather than the treatment programs that have since demonstrated 40–60% reductions in relapse rates.",
+    "C": "Brain imaging has shown that addiction changes dopamine signaling, suggesting that the medical model of addiction is more scientifically accurate than the moral model.",
+    "D": "Treatment programs for opioid use disorder are effective and less expensive than incarceration, so policymakers should prefer them."
+  },
+  "correct_answer": "B",
+  "explanation": "B integrates the causal chain: moral-failure framing → incarceration as policy (450,000 people, $30,000 each) → contrast with the treatment alternative (40–60% relapse reduction). This directly supports the argument that the framing had costly and counterproductive consequences by quantifying the cost and contrasting it with treatment efficacy. A is too vague—'jail' and 'brain changes' are mentioned but no quantitative evidence is used. C presents only the scientific evidence for the medical model without connecting it to the policy consequences the argument requires. D presents a policy recommendation without grounding it in the causal argument about moral framing that the essay requires."
+}

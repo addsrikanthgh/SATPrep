@@ -1,0 +1,16 @@
+{
+  "id": "q_954",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Prior to the development of chemical fertilizers in the early twentieth century, agriculture was limited by the availability of nitrogen-rich soil amendments such as manure, crop rotation with legumes, and guano imported from Pacific islands. The Haber-Bosch process, developed around 1910, allowed atmospheric nitrogen to be converted into ammonia at industrial scale, making artificial fertilizer cheap and widely available. Agricultural historians estimate that the resulting increases in crop yields support roughly half of the world's current population.",
+  "question": "Based on the passage, what can most reasonably be inferred about global population size in the absence of the Haber-Bosch process?",
+  "choices": {
+    "A": "Global population would be the same today because other nitrogen sources such as manure and legumes would have fully compensated for the lack of chemical fertilizers.",
+    "B": "Global population would likely be significantly smaller today if the Haber-Bosch process had never been developed.",
+    "C": "The Haber-Bosch process had no meaningful impact on population growth because agricultural productivity was already sufficient before 1910.",
+    "D": "Global population would be larger today without the Haber-Bosch process because chemical fertilizers have reduced agricultural diversity."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that the Haber-Bosch process dramatically increased crop yields and that these increases 'support roughly half of the world's current population.' This directly implies that without the process, today's global population would be roughly half its current size—significantly smaller. B is the most reasonable inference. A contradicts the implication that prior nitrogen sources were limited and insufficient to support current population levels. C contradicts the passage's claim that the process enabled the yields that support half the population. D is not supported—the passage does not discuss any population-reducing effects of chemical fertilizers."
+}

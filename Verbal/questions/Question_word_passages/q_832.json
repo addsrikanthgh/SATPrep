@@ -1,0 +1,16 @@
+{
+  "id": "q_832",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The historian described the period between the two world wars as one of _______ stability: though Europe appeared calm on the surface, the unresolved grievances from the Treaty of Versailles and the economic devastation of the Great Depression created conditions that made another major conflict virtually inevitable.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "illusory",
+    "B": "durable",
+    "C": "unprecedented",
+    "D": "equitable"
+  },
+  "correct_answer": "A",
+  "explanation": "'Illusory' means based on illusion or false impression—the stability appeared real but was not genuine, which is precisely illusory. The context emphasizes the gap between appearance (calm) and underlying reality (inevitable conflict). 'Durable' means lasting over time—the opposite of what the historian describes; this 'stability' did not last. 'Unprecedented' means never before experienced—the sentence is not claiming this period of stability was historically unique. 'Equitable' means fair and just—irrelevant to the duration or genuineness of stability."
+}

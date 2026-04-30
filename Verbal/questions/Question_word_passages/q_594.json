@@ -1,0 +1,16 @@
+{
+  "id": "q_594",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report about deforestation in the Amazon rainforest. The student wants to explain why the Amazon is ecologically important and why its loss is a global concern. The student has gathered the following notes:\n- The Amazon rainforest covers approximately 5.5 million square kilometers and contains about 10% of all species on Earth.\n- The Amazon absorbs large quantities of carbon dioxide and stores an estimated 150 to 200 billion tons of carbon.\n- Deforestation of the Amazon has accelerated in recent decades, driven primarily by conversion to cattle ranching and soy agriculture.\n- When forests are cleared and burned, stored carbon is released as CO₂, contributing to global climate change.\n- The Amazon generates its own rainfall through a process called 'transpiration,' cycling water and influencing climate patterns across South America.",
+  "question": "Which choice most effectively uses the notes to explain why the Amazon is ecologically important and why its loss is a global concern?",
+  "choices": {
+    "A": "Deforestation in the Amazon has been driven primarily by conversion to cattle ranching and soy agriculture, raising questions about sustainable land use.",
+    "B": "The Amazon rainforest is ecologically vital—housing roughly 10% of Earth's species and storing up to 200 billion tons of carbon—and its destruction releases that stored carbon as CO₂, making Amazon deforestation a direct contributor to global climate change.",
+    "C": "The Amazon generates its own rainfall through transpiration, cycling water through the atmosphere in ways that influence climate patterns across South America.",
+    "D": "The Amazon covers approximately 5.5 million square kilometers, making it the largest tropical rainforest on Earth."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain ecological importance AND global concern. B does both: it establishes ecological importance (species richness, carbon storage) and explains why loss is a global concern (carbon released as CO₂ contributes to climate change). A focuses on drivers of deforestation, not ecological importance or global concern. C explains the transpiration/rainfall function but does not directly address global concern from deforestation. D provides a size fact without addressing ecological importance or global consequence."
+}

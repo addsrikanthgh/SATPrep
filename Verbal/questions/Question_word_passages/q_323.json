@@ -1,0 +1,16 @@
+{
+  "id": "q_323",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "Neither the senior engineers nor the project manager _______ aware of the discrepancy in the final report until a junior analyst flagged it during the review meeting.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence uses a 'neither...nor' construction. When 'neither...nor' connects two subjects, the verb agrees with the subject closer to it—in this case, 'the project manager,' a singular noun. The sentence describes a past event (before the analyst flagged it), so the past tense is required. 'Was' (B) is singular past—correct. 'Were' (A) is plural past—it would agree with 'the senior engineers' but not with the nearer singular subject 'the project manager.' 'Are' (C) is singular present—incorrect tense for a past event. 'Have been' (D) is present perfect—also incorrect tense given the past narrative context."
+}

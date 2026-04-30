@@ -1,0 +1,16 @@
+{
+  "id": "q_622",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The senator's speech was noteworthy less for what it said than for what it ________: by refusing to mention the scandal at all, she effectively signaled to her supporters that she considered the matter beneath her dignity.",
+  "question": "Which word most logically and precisely completes the sentence?",
+  "choices": {
+    "A": "elided",
+    "B": "proclaimed",
+    "C": "reiterated",
+    "D": "embellished"
+  },
+  "correct_answer": "A",
+  "explanation": "'Elided' means deliberately omitted or glossed over. The sentence describes what the speech was notable for not saying—the senator's deliberate omission of the scandal. 'Elided' precisely captures intentional omission that itself conveys meaning. Proclaimed means stated publicly and would contradict 'refusing to mention.' Reiterated means repeated something already said. Embellished means decorated or exaggerated, which also doesn't fit the context of omission."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_819",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A psychologist argues that exposure to nature—even brief experiences in natural settings—meaningfully reduces stress and improves mood, making access to parks and green spaces a public health concern.",
+  "question": "Which finding would most directly support the psychologist's argument?",
+  "choices": {
+    "A": "'Participants who walked for 50 minutes in a natural park setting showed significantly lower cortisol levels, reduced heart rates, and improved scores on self-reported stress measures compared to a matched group who walked for the same duration on a busy urban street.'",
+    "B": "'Green spaces in urban areas reduce local air temperature through evapotranspiration, mitigating the urban heat island effect and reducing energy demand for cooling.',",
+    "C": "'Access to public parks is distributed unequally across income levels in most American cities, with lower-income neighborhoods having fewer and lower-quality green spaces.',",
+    "D": "'Urban residents who report spending time outdoors regularly are more likely to meet recommended weekly physical activity guidelines than those who spend most of their time indoors.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The psychologist argues that nature exposure reduces stress and improves mood. A directly supports this with physiological and self-reported measures: lower cortisol, reduced heart rate, and improved stress scores after a park walk compared to an urban walk. B describes environmental benefits of green spaces (cooling) but not stress or mood effects. C describes unequal access to parks—relevant to the 'public health concern' aspect but not the psychological effect itself. D shows that outdoor time correlates with physical activity—relevant to general health but not specifically to stress reduction or mood."
+}

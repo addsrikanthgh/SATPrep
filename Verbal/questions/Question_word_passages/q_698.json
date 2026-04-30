@@ -1,0 +1,16 @@
+{
+  "id": "q_698",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "The water cycle describes the continuous movement of water through the environment. Water evaporates from oceans, lakes, and land surfaces when solar energy heats it to vapor. The vapor rises, cools at higher altitudes, and condenses around tiny particles of dust and salt to form clouds. When water droplets in clouds become heavy enough, they fall as precipitation—rain, snow, sleet, or hail, depending on temperature. Precipitation that falls on land either flows across the surface into streams and rivers (runoff), soaks into the ground (infiltration), or is taken up by plant roots and transpired back into the atmosphere. Each pathway eventually returns water to the oceans, completing the cycle.",
+  "question": "According to the passage, what happens to water vapor as it rises to higher altitudes?",
+  "choices": {
+    "A": "It cools and condenses around particles to form clouds.",
+    "B": "It is absorbed by the ozone layer and returned to the surface as acid rain.",
+    "C": "It combines with oxygen molecules to increase atmospheric humidity.",
+    "D": "It is converted by solar radiation into liquid water droplets before reaching cloud altitude."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage states directly: 'The vapor rises, cools at higher altitudes, and condenses around tiny particles of dust and salt to form clouds.' A accurately reflects this sequence. B introduces acid rain and the ozone layer, which are not mentioned in the passage. C describes a chemical reaction not discussed; the passage does not say vapor combines with oxygen. D reverses the sequence; the passage says vapor cools and then condenses, it does not say solar radiation converts vapor to liquid before cloud formation."
+}

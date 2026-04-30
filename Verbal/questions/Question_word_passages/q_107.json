@@ -1,0 +1,16 @@
+{
+  "id": "q_107",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "In her later novels, Edith Wharton depicts the drawing rooms of New York's Gilded Age elite with an almost surgical precision. Her prose dissects the unspoken rules governing social behavior: who may speak to whom, which silences carry approval, and which carry condemnation. Characters who transgress these invisible boundaries face no overt punishment; instead, they are gradually effaced from the social record—uninvited, unacknowledged, unremembered.",
+  "question": "As used in the passage, \"effaced\" most nearly means",
+  "choices": {
+    "A": "punished",
+    "B": "isolated",
+    "C": "erased",
+    "D": "criticized"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage explains that transgressing social boundaries results in being 'uninvited, unacknowledged, unremembered'—a complete removal from social existence. 'Erased' (C) best captures this sense of being wiped from the record. 'Punished' (A) implies explicit penalty, which the passage explicitly contrasts with effacement ('no overt punishment'). 'Isolated' (B) suggests physical separation, not erasure from memory or acknowledgment. 'Criticized' (D) is far too mild and contradicts 'unacknowledged.'"
+}

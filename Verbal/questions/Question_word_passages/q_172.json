@@ -1,0 +1,16 @@
+{
+  "id": "q_172",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Modernist poetry demanded readers who were willing to work. Eliot's The Waste Land opens with a dense collage of classical allusion, foreign-language fragments, and shifting perspectives that provide no interpretive guidance. Pound's Cantos accumulate historical, economic, and literary references across languages and centuries with no organizing narrative thread. These poems do not conceal their difficulty; they insist upon it. To read them passively—waiting for meaning to arrive—is to read them wrong.",
+  "question": "What function does the sentence \"These poems do not conceal their difficulty; they insist upon it\" serve in the passage?",
+  "choices": {
+    "A": "It introduces a contrast between modernist and earlier poetry by suggesting earlier poems were deliberately obscure.",
+    "B": "It summarizes the specific devices—allusion, fragmentation, and multilingualism—that produce difficulty in modernist poetry.",
+    "C": "It sharpens the characterization of modernist difficulty from a passive feature to an active, deliberate artistic choice.",
+    "D": "It concedes that modernist poetry is unnecessarily difficult before arguing that this difficulty is excusable."
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence performs a rhetorical upgrade: the preceding sentences have described difficulty as a byproduct of modernist techniques (allusions, fragments, shifting perspectives). This sentence reframes difficulty from a consequence into an intention—these poems don't merely produce difficulty, they demand it. The move from 'do not conceal' to 'insist upon' transforms difficulty from something passive (a feature the poet happens to create) to something active and deliberate (C). A introduces a comparison with earlier poetry that the passage never makes. B incorrectly says the sentence summarizes specific devices; it makes a characterization about the poems' relationship to difficulty, not a list of techniques. D introduces a concession-and-excuse structure that does not appear."
+}

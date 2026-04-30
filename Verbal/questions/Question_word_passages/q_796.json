@@ -1,0 +1,16 @@
+{
+  "id": "q_796",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Universal Basic Income (UBI) is a policy proposal in which all citizens receive a regular, unconditional cash payment from the government.\n- A 2021 UBI pilot in Stockton, California gave 125 randomly selected residents $500 per month for 24 months.\n- After 12 months, full-time employment among recipients rose from 28% to 40%, compared to a rise from 25% to 37% in the control group.\n- Recipients reported reduced anxiety, improved mental health, and more time for family and creative activities.\n- Critics argue that UBI programs are too expensive to scale nationally and that unconditional cash transfers reduce work incentives.",
+  "question": "The student wants to present the Stockton pilot's findings as a counterexample to the critics' argument about work incentives. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Contrary to critics' claims that unconditional cash transfers reduce work incentives, the Stockton UBI pilot found that full-time employment among recipients rose from 28% to 40% over 12 months—a greater absolute increase than in the control group.",
+    "B": "The Stockton pilot gave 125 residents $500 per month for 24 months, with results tracked against a control group.",
+    "C": "Critics argue that UBI is too expensive to scale nationally and that unconditional cash could reduce the motivation to work.",
+    "D": "Stockton UBI recipients reported reduced anxiety and improved mental health, as well as more time for family and creative activities."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to use the pilot's findings as a counterexample to the work-incentive critique. A explicitly names the critics' claim (unconditional cash reduces work incentives), then directly contradicts it with the employment data (28% → 40% rise in full-time employment, exceeding the control group). The structure—critics say X, but evidence shows Y—is precisely what a counterexample requires. B describes the pilot's design without making any argument. C restates the critics' position without providing the counterexample. D cites non-employment outcomes (mental health, family time) that do not address the work-incentive argument."
+}

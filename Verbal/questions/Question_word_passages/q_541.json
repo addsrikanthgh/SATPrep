@@ -1,0 +1,16 @@
+{
+  "id": "q_541",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The venom of the cone snail, a marine mollusk found in tropical oceans, contains hundreds of distinct peptide compounds called conotoxins. Each species of cone snail produces a unique cocktail of conotoxins tailored to paralyze its specific prey—fish, worms, or other mollusks. Because these peptides act on specific ion channels and receptors in the nervous system, pharmaceutical researchers have studied conotoxins as templates for developing pain medications and treatments for neurological disorders. One conotoxin-derived drug, ziconotide, is already approved for treating severe chronic pain.",
+  "question": "Based on the passage, what can most reasonably be inferred about why cone snail venom is of interest to pharmaceutical researchers?",
+  "choices": {
+    "A": "Because cone snails are easy to breed in captivity and can be harvested at low cost",
+    "B": "Because the targeted and specific action of conotoxins on the nervous system makes them promising models for drugs affecting the nervous system",
+    "C": "Because conotoxins are the only compounds known to target ion channels in the nervous system",
+    "D": "Because the high toxicity of conotoxins makes them effective as treatments for bacterial infections"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains that conotoxins 'act on specific ion channels and receptors in the nervous system' and that researchers study them 'as templates for developing pain medications and treatments for neurological disorders'—directly linking the specific mechanism to the pharmaceutical interest. B correctly infers this connection. A is not supported—the passage does not discuss ease of breeding or cost. C is too absolute—the passage does not claim conotoxins are the only such compounds. D introduces bacterial infections, which the passage does not discuss."
+}

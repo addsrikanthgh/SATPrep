@@ -1,0 +1,16 @@
+{
+  "id": "q_678",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The Mongol Empire at its height stretched from the Korean peninsula to the edges of Eastern Europe, making it the largest contiguous land empire in history. _______ its administrative and communication systems were remarkably sophisticated: a postal relay network called the yam allowed messages and goods to travel thousands of miles within days.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Correspondingly,",
+    "B": "Despite this,",
+    "C": "However,",
+    "D": "As a result,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes the vast size of the Mongol Empire. The second describes how its administrative systems matched that scale—a relay network allowing rapid communication across thousands of miles. The second sentence corresponds to or reflects the scale described in the first: the systems were as impressive as the territory was vast. 'Correspondingly' (A) signals that the second sentence presents something that matches or reflects the scale or nature of what was described in the first. 'Despite this' (B) and 'However' (C) both signal contrast or concession, but the administrative sophistication is presented as fitting the scale, not contradicting it. 'As a result' (D) would imply the postal network was a consequence of the size, which oversimplifies the relationship."
+}

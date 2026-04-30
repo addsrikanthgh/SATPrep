@@ -1,0 +1,16 @@
+{
+  "id": "q_469",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Standard economic models predict that when two countries trade freely, both benefit by specializing in goods they produce most efficiently and importing goods the other country produces more cheaply. This principle of comparative advantage, first formalized by David Ricardo in 1817, underpins much of modern international trade theory. _______, recent empirical work by economists Autor, Dorn, and Hanson has demonstrated that trade liberalization with China caused significant and persistent job losses in specific U.S. manufacturing regions, losses that were not offset by job creation in other sectors as the standard models predicted.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Similarly",
+    "B": "In practice, however,",
+    "C": "For this reason",
+    "D": "That said, moreover,"
+  },
+  "correct_answer": "B",
+  "explanation": "'In practice, however,' does two things: 'in practice' signals a shift from theoretical prediction to empirical reality, and 'however' signals that the empirical findings contradict the theoretical prediction. The third sentence presents real-world evidence that contradicts the standard models endorsed in the first two sentences. 'Similarly' implies the empirical work confirms the theory. 'For this reason' implies the job losses were caused by Ricardo's comparative advantage theory. 'That said, moreover' is awkward—these two transitions have conflicting logical functions (concession vs. addition)."
+}

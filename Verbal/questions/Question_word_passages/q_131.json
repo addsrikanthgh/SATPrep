@@ -1,0 +1,16 @@
+{
+  "id": "q_131",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Researchers have found that slow-wave sleep—the deep, dreamless phase that predominates in the first half of the night—plays a critical role in consolidating declarative memories, such as facts and events. During this phase, the hippocampus repeatedly reactivates neural patterns from recent learning, gradually transferring them to the cortex for long-term storage. When subjects were deprived of slow-wave sleep but permitted lighter sleep stages, their recall of material learned the previous day was significantly impaired.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "REM sleep, which occurs predominantly in the second half of the night, is more important for memory than slow-wave sleep.",
+    "B": "The cortex is where new memories are first formed before being transferred to the hippocampus for permanent storage.",
+    "C": "Losing slow-wave sleep likely impairs declarative memory more severely than losing an equivalent amount of light sleep.",
+    "D": "Individuals who sleep fewer than six hours per night are unable to consolidate any declarative memories."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage states that slow-wave sleep is critical for declarative memory consolidation, and that subjects who lost slow-wave sleep—even when lighter sleep was preserved—experienced significant recall impairment. It follows that losing slow-wave sleep harms declarative memory more than losing the same amount of lighter sleep stages would (C). A introduces REM sleep in a comparative claim the passage never makes—REM sleep is not mentioned. B reverses the passage's account: new memories form in the hippocampus and are transferred to the cortex, not vice versa. D overstates the conclusion; the passage describes significant impairment, not a total inability to consolidate memories, and it does not specify a six-hour threshold."
+}

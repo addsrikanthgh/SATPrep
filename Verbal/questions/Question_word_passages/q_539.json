@@ -1,0 +1,16 @@
+{
+  "id": "q_539",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The new traffic regulations require all cyclists to wear helmets, to use hand signals when turning, and _______ front and rear lights on their bicycles at night.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "operating",
+    "B": "to operate",
+    "C": "operate",
+    "D": "the operation of"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence contains a parallel series of three infinitives: 'to wear helmets, to use hand signals when turning, and ___ front and rear lights.' Parallelism requires that the third item match the form of the first two—infinitives with 'to.' B ('to operate') correctly continues the parallel infinitive series. A ('operating') is a gerund/participle, breaking the parallel. C ('operate') is a bare infinitive without 'to,' breaking the parallel. D ('the operation of') is a noun phrase, breaking the parallel."
+}

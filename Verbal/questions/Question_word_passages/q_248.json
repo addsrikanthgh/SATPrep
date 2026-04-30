@@ -1,0 +1,16 @@
+{
+  "id": "q_248",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The contract stipulated three conditions: that payment be made in full within thirty days, that all deliverables meet the agreed-upon specifications and that any disputes be submitted to binding arbitration.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "Insert a comma after 'specifications' to complete the serial comma pattern in the three-item list.",
+    "B": "Replace the colon with a semicolon because the list contains items that are full clauses.",
+    "C": "Remove the colon, since a colon may not precede a list introduced by 'that.'",
+    "D": "Replace the commas between list items with semicolons to separate items that are full clauses."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence lists three conditions as parallel 'that' clauses. The first two items are separated by a comma ('within thirty days,'), but the comma before the third item ('that any disputes...') is missing after 'specifications.' In standard English, a serial comma (Oxford comma) before the final item in a list of three or more is considered correct in most style guides, and its absence here creates a potential misreading. Inserting a comma after 'specifications' completes the parallel, unambiguous list structure. B is incorrect; colons, not semicolons, introduce lists, regardless of whether list items are clauses. C is incorrect—a colon may introduce a list of 'that' clauses following a complete main clause. D is incorrect because the items in this list do not contain internal commas, so the standard comma separator is sufficient."
+}

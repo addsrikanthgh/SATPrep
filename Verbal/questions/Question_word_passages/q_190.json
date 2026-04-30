@@ -1,0 +1,16 @@
+{
+  "id": "q_190",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay about the impact of the printing press on political authority in early modern Europe. The student wants to include a sentence that synthesizes the following notes:\n\n• Before the printing press, the Catholic Church and monarchies controlled the production and distribution of manuscripts, limiting the circulation of dissenting ideas.\n• After Gutenberg's press (c. 1440), printed texts could be produced rapidly and cheaply, making wide distribution possible.\n• Martin Luther's Ninety-Five Theses (1517) spread across Germany within weeks—a feat impossible without the printing press.\n• By the mid-sixteenth century, Protestant movements had taken hold across large parts of Europe, fragmenting the religious and political authority of Rome.",
+  "question": "Which choice most effectively synthesizes the notes into a single sentence for the student's essay?",
+  "choices": {
+    "A": "The printing press was invented by Gutenberg around 1440 and soon made books much cheaper to produce.",
+    "B": "Martin Luther posted his Ninety-Five Theses in 1517, an act that contributed to the fragmentation of Catholic authority in Europe.",
+    "C": "By enabling the rapid and inexpensive distribution of texts, the printing press undermined the manuscript monopoly of Church and Crown, facilitating the spread of ideas like Luther's that fractured Europe's religious and political unity.",
+    "D": "Before the printing press, monarchies and the Church controlled manuscripts, but afterward, Protestant movements emerged and changed European politics."
+  },
+  "correct_answer": "C",
+  "explanation": "An effective synthesis integrates the key ideas from all four notes into a coherent, precise sentence: the mechanism (rapid, inexpensive distribution), the prior condition it disrupted (Church and Crown manuscript monopoly), a concrete example (Luther), and the broader consequence (fracturing of religious and political authority). C accomplishes all of this clearly and economically. A covers only the invention and production cost, omitting the political and religious consequences. B focuses only on Luther and the immediate schism without connecting to the printing press as the enabling mechanism or to the pre-press manuscript monopoly. D connects the notes superficially with 'but afterward,' producing a vague summary that lacks precision about mechanism and causation."
+}

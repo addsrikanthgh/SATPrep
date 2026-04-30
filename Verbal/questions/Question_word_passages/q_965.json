@@ -1,0 +1,16 @@
+{
+  "id": "q_965",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The word 'quarantine' entered the English language from Venetian Italian in the fourteenth century. In response to the Black Death, the port city of Venice required ships arriving from plague-affected areas to anchor offshore and wait before passengers and crew could disembark. The waiting period was first thirty days—'trentino'—and was later extended to forty days, giving rise to 'quarantina,' from the Italian for forty ('quaranta'). The modern public health practice of isolating exposed individuals retains both the name and the core logic of the original Venetian policy.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain the medical effectiveness of quarantine as a public health tool.",
+    "B": "trace the historical origin and etymology of the word and practice of quarantine.",
+    "C": "argue that the Venetian quarantine was more effective than modern isolation protocols.",
+    "D": "provide a chronological history of the Black Death's spread through Europe."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage traces quarantine from its fourteenth-century Venetian origin, through the etymology (trentino → quarantina → quarantine), to its modern application, explaining both the word's derivation and how modern practice continues the original logic. B correctly identifies this as tracing historical origin and etymology. A focuses on medical effectiveness, which the passage does not evaluate. C makes a comparative argument not present in the passage. D focuses on the Black Death's spread, while the passage only mentions the plague as context for the origin of quarantine."
+}

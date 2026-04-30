@@ -1,0 +1,16 @@
+{
+  "id": "q_191",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Quantum entanglement describes a phenomenon in which two particles become correlated in such a way that the quantum state of each cannot be described independently of the other. This remains true regardless of the distance separating them, a feature that troubled Einstein, _______ it as 'spooky action at a distance' and arguing that quantum mechanics must be incomplete.",
+  "question": "Which choice most effectively completes the sentence while maintaining standard English conventions?",
+  "choices": {
+    "A": "he dismissed",
+    "B": "dismissing",
+    "C": "which he dismissed",
+    "D": "having dismissed"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence needs a participial phrase to follow 'Einstein' as an appositive that describes how Einstein reacted to entanglement. The structure 'a feature that troubled Einstein, dismissing it as...' uses a participial phrase ('dismissing it... and arguing that...') that grammatically modifies 'Einstein' and pairs with the second participial phrase 'arguing.' B ('dismissing') correctly produces two parallel participial phrases. A ('he dismissed') creates a comma splice—two independent clauses joined only by a comma, which is a sentence boundary error. C ('which he dismissed') creates a relative clause modifying 'Einstein' rather than describing his reaction in a parallel participial structure; it also makes 'and arguing that' a dangling participial. D ('having dismissed') implies the dismissal occurred before the troubling, creating an unnecessary and illogical temporal sequence."
+}

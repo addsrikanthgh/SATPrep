@@ -1,0 +1,16 @@
+{
+  "id": "q_453",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The foundation funds research in three areas _______ renewable energy, sustainable agriculture, and clean water access in developing regions.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "areas, renewable",
+    "B": "areas: renewable",
+    "C": "areas; renewable",
+    "D": "areas renewable"
+  },
+  "correct_answer": "B",
+  "explanation": "The main clause 'The foundation funds research in three areas' is a complete independent clause. It is followed by a list ('renewable energy, sustainable agriculture, and clean water access...') that elaborates on 'three areas.' A colon after a complete clause that introduces a list or direct explanation is correct. B is correct. A uses a comma, which is too weak to formally introduce an enumerated list after a complete clause. C uses a semicolon, which joins independent clauses—the list is not an independent clause. D has no punctuation before the list."
+}

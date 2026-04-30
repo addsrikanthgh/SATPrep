@@ -1,0 +1,16 @@
+{
+  "id": "q_439",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The experiment yielded ambiguous results: the treatment group showed improvement on some measures but not others, and the researchers could not determine whether the intervention had caused any effect or whether the observed changes fell within normal variation.",
+  "question": "As used in the passage, 'ambiguous' most nearly means",
+  "choices": {
+    "A": "open to more than one interpretation; unclear in meaning.",
+    "B": "deliberately misleading or dishonest.",
+    "C": "statistically significant at the standard confidence level.",
+    "D": "preliminary and likely to change with further data."
+  },
+  "correct_answer": "A",
+  "explanation": "In context, 'ambiguous' results are those that could be interpreted in more than one way—improvement on some measures but not others, and uncertainty about whether any real effect occurred. A captures this standard sense. B introduces deliberate deception—ambiguity in data is not the same as dishonesty. C is the opposite—statistically significant results are clear, not ambiguous. D introduces a preliminary/provisional sense, which is related but not what 'ambiguous' specifically means."
+}

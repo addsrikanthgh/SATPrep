@@ -1,0 +1,16 @@
+{
+  "id": "q_234",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "easy",
+  "passage": "The Sahara Desert was not always a desert. Between roughly 11,000 and 5,000 years ago, a period scientists call the African Humid Period, the Sahara was a verdant landscape dotted with lakes, rivers, and grasslands. Hippos lived in what is now the central Sahara, and rock art made by Neolithic inhabitants depicts cattle, giraffes, and hunters. The shift to hyperaridity was driven by changes in Earth's orbital cycle that reduced summer solar radiation over North Africa, weakening the monsoon system that had sustained the region's moisture.",
+  "question": "What function does the sentence \"Between roughly 11,000 and 5,000 years ago, a period scientists call the African Humid Period, the Sahara was a verdant landscape dotted with lakes, rivers, and grasslands\" serve in the passage?",
+  "choices": {
+    "A": "It explains the orbital changes that caused the Sahara to become a desert.",
+    "B": "It provides specific evidence substantiating the claim that the Sahara was not always a desert, giving the reader a concrete picture of its past environment.",
+    "C": "It challenges the scientific consensus that the Sahara has been a desert for millions of years.",
+    "D": "It introduces rock art as the primary source of evidence for the African Humid Period."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence immediately follows the opening claim ('The Sahara was not always a desert') and functions as the supporting evidence for that claim, specifying the time period and vividly describing the landscape. It substantiates the preceding assertion by giving it concrete detail. B accurately identifies this evidential-support function. A is incorrect—the orbital mechanism is described in the final sentence, not this one. C misrepresents the sentence; it does not challenge a consensus but rather supports the passage's opening claim with scientific detail. D incorrectly attributes the rock art introduction to this sentence; rock art appears in the following sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_761",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The blood-brain barrier is a highly selective membrane that separates circulating blood from the brain's extracellular fluid. It allows water, oxygen, and certain small molecules to pass while blocking many larger substances, including most bacteria and some drugs. This selectivity protects the brain from pathogens and toxins. However, the same barrier that guards the brain also prevents many potential therapeutic compounds from reaching brain tissue, posing a significant challenge for the treatment of brain tumors, Alzheimer's disease, and other neurological conditions. Researchers are exploring several strategies to overcome this barrier, including temporarily opening it with focused ultrasound and engineering drugs small enough to slip through.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "describe both the protective function of the blood-brain barrier and the challenges it poses for treating neurological diseases.",
+    "B": "argue that the blood-brain barrier should be surgically removed to make neurological treatments more effective.",
+    "C": "explain the chemical composition of the blood-brain barrier and how it was first discovered.",
+    "D": "compare the effectiveness of focused ultrasound with other methods of drug delivery to the brain."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explains the blood-brain barrier's protective selectivity and then pivots to describe how that same selectivity creates therapeutic challenges. The final sentences note current research directions. A accurately captures this two-part purpose: describing function and identifying the resulting challenge. B introduces an argument for removing the barrier that the passage does not make. C focuses on chemical composition and discovery history—neither of which the passage discusses. D claims to compare specific methods of drug delivery, but the passage only briefly mentions focused ultrasound and engineered drugs as areas of research without comparing their effectiveness."
+}

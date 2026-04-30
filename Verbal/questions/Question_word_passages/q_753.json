@@ -1,0 +1,16 @@
+{
+  "id": "q_753",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "The philosopher Immanuel Kant distinguished between acting morally and merely acting in accordance with duty. A shopkeeper who gives correct change not because it is right but because honest dealing is good for business is acting in accordance with duty—the action conforms to moral rules but is not done for moral reasons. Kant argued that only actions performed from duty—from respect for the moral law itself—have moral worth. An action has genuine moral worth only when it is done because it is right, not because of any consequences or personal benefits the actor expects to receive.",
+  "question": "Based on the passage, what can most reasonably be inferred about Kant's view of moral motivation?",
+  "choices": {
+    "A": "The reason behind an action is morally significant: an action done for self-interested reasons lacks moral worth even if its outcome is correct.",
+    "B": "Kant believed that consequences are the most important factor in determining whether an action is morally good.",
+    "C": "According to Kant, the shopkeeper who gives correct change for business reasons has behaved more morally than one who does so out of duty.",
+    "D": "Kant argued that most human beings are incapable of genuine moral action because they always act from self-interest."
+  },
+  "correct_answer": "A",
+  "explanation": "Kant's framework as described distinguishes between external conformity to moral rules and internal motivation from duty. An action is morally worthy only when motivated by respect for the moral law, not by consequences or self-interest. A correctly captures this: motivation matters; self-interested motivation undermines moral worth even if the outcome matches the rule. B is the opposite of Kant's view as described—the passage explicitly states that consequences do not confer moral worth. C inverts Kant's position; the shopkeeper acting for business reasons is given as the example of a case that lacks moral worth. D introduces a pessimistic claim about human nature that the passage does not make."
+}

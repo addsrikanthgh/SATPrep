@@ -1,0 +1,16 @@
+{
+  "id": "q_955",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Sign languages are not universal. Each country or region has its own distinct sign language with its own vocabulary, grammar, and syntax that developed independently over generations within deaf communities. American Sign Language (ASL), for example, is more closely related to French Sign Language than to British Sign Language, reflecting historical connections between American and French deaf education in the nineteenth century. Signed languages are fully expressive, grammatically complex languages capable of conveying any idea that spoken languages can convey.",
+  "question": "Based on the passage, what can most reasonably be inferred about a person fluent in ASL attempting to communicate with a deaf person in the United Kingdom?",
+  "choices": {
+    "A": "They would communicate easily because sign languages are universal and identical across all countries.",
+    "B": "They would likely face significant communication barriers because ASL and British Sign Language are distinct languages.",
+    "C": "They could communicate easily because ASL and British Sign Language share the same grammar, even if vocabulary differs.",
+    "D": "They would communicate better with a deaf person in the United Kingdom than with a deaf person in France, because ASL and British Sign Language share historical roots."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that sign languages are not universal, that each country has its own distinct sign language with its own vocabulary, grammar, and syntax, and that ASL is more closely related to French Sign Language than to British Sign Language. This implies that an ASL user would face significant communication barriers with a BSL user because the two languages are distinct. B correctly reflects this inference. A directly contradicts the passage's opening statement. C contradicts the passage, which says distinct sign languages have their own grammar and syntax. D is directly contradicted—ASL is more closely related to French Sign Language than to British Sign Language, so communication with a French deaf person would be easier, not a British one."
+}

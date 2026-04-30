@@ -1,0 +1,16 @@
+{
+  "id": "q_385",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the history and cultural significance of the spice trade. The student has taken the following notes:\n- Spices such as pepper, cinnamon, and nutmeg were among the most valuable trade commodities in the ancient and medieval world.\n- In fourteenth-century Europe, a pound of pepper could cost the equivalent of a laborer's weekly wage.\n- European demand for spices fueled the Age of Exploration: Vasco da Gama's 1498 voyage to India was explicitly motivated by seeking a direct sea route to spice-producing regions.\n- The spice trade created the first global trade networks, connecting Asia, the Middle East, Africa, and Europe centuries before industrialization.\n- Control over spice-producing islands—especially the Banda Islands in the Moluccas—was the primary objective of early Dutch and Portuguese colonial expansion in Southeast Asia.",
+  "question": "Which choice most effectively uses the notes to explain how the economic value of spices shaped world history?",
+  "choices": {
+    "A": "Spices were expensive in medieval Europe, and explorers like Vasco da Gama sailed to find them.",
+    "B": "The extraordinary economic value of spices—a pound of pepper once worth a laborer's weekly wage—drove European exploration, created the first global trade networks linking four continents, and motivated early colonial conquest of spice-producing regions in Southeast Asia.",
+    "C": "Spices were important to ancient and medieval trade, and the Dutch and Portuguese fought over the Banda Islands.",
+    "D": "Vasco da Gama sailed to India in 1498 to find spices, which shows how valuable they were to European merchants."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes three major historical consequences of spice value: European exploration (da Gama's voyage), global trade network creation, and colonial conquest of spice-producing regions—grounded in the price evidence (pepper's weekly-wage equivalent). It presents a coherent causal chain from economic value to world-historical consequences. A mentions two notes (expense, da Gama) but omits trade networks and colonial expansion. C mentions trade and the Banda Islands but lacks the price evidence and da Gama's voyage, and presents the notes as disconnected facts rather than a causal argument. D focuses only on da Gama's voyage and draws a weak inferential conclusion ('which shows'), without integrating the trade network or colonial expansion notes."
+}

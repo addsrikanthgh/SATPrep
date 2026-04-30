@@ -1,0 +1,16 @@
+{
+  "id": "q_470",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Cognitive load theory holds that working memory has a limited capacity: it can hold and process only a small amount of information at one time. Educational researchers have used this theory to argue that instruction should be designed to minimize unnecessary cognitive load—for instance, by presenting related text and diagrams together rather than separately. _______, recent work has suggested that some forms of 'desirable difficulty'—challenges that increase cognitive effort—actually improve long-term retention even if they slow initial learning.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "In addition",
+    "B": "Complicating this picture,",
+    "C": "As a direct result,",
+    "D": "To clarify,"
+  },
+  "correct_answer": "B",
+  "explanation": "'Complicating this picture,' correctly signals that the third sentence introduces evidence that challenges or nuances the clean pedagogical prescription described in the first two sentences (minimize cognitive load). The desirable difficulty research does not contradict cognitive load theory entirely but complicates its implications. 'In addition' implies the third sentence adds another point in support of the same argument. 'As a direct result' implies the desirable difficulty research was caused by the cognitive load theory work—no such causal link. 'To clarify' implies the third sentence explains or clears up confusion from the second, but it introduces a complication."
+}

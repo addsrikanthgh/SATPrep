@@ -1,0 +1,16 @@
+{
+  "id": "q_816",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A neuroscientist argues that bilingualism—speaking two languages fluently—provides cognitive benefits that extend beyond language itself, particularly improving executive function skills such as the ability to switch between tasks, inhibit distracting information, and maintain focus.",
+  "question": "Which finding would most directly support the neuroscientist's argument?",
+  "choices": {
+    "A": "'Bilingual adults outperformed monolingual adults on tasks requiring them to switch between conflicting classification rules, and fMRI imaging showed greater activation in prefrontal regions associated with cognitive control during these tasks.'",
+    "B": "'Children raised in bilingual households acquire both languages at the same developmental rate as monolingual children acquire a single language, despite having to process two linguistic systems.',",
+    "C": "'Bilingual individuals have larger vocabularies in total across their two languages than monolinguals, though their vocabulary in each individual language may be smaller.'",
+    "D": "'Research suggests that speaking multiple languages in adulthood is associated with delayed onset of Alzheimer's disease symptoms by an average of four to five years.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The neuroscientist argues that bilingualism improves executive function—specifically task switching, inhibition, and focus. A directly supports this: bilinguals outperformed monolinguals on a task-switching task and showed greater activation in cognitive control brain regions. This is direct behavioral and neural evidence for executive function benefits. B addresses language acquisition rates—interesting but not about executive function beyond language. C addresses vocabulary size—a language capacity finding, not executive function. D addresses dementia onset—a long-term cognitive aging finding, not the executive function skills the argument specifies."
+}

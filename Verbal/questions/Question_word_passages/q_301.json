@@ -1,0 +1,16 @@
+{
+  "id": "q_301",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1:\nThe shift to remote work during the pandemic demonstrated that productivity does not require physical co-location. Studies of firms that transitioned to fully remote operations showed output levels comparable to—and in some sectors higher than—pre-pandemic baselines. Proponents argue that remote work eliminates commuting time, reduces office overhead, and expands the talent pool beyond a single geographic location.\n\nText 2:\nRecent longitudinal research complicates the productivity narrative around remote work. While individual output on measurable tasks remained stable, metrics capturing collaborative innovation—new product ideas, cross-team problem-solving, and informal knowledge transfer—declined significantly over the two years following the pandemic transition. The researchers concluded that remote work may sustain routine production while gradually eroding the social infrastructure that generates organizational learning.",
+  "question": "How would the author of Text 2 most likely respond to the claim in Text 1 that productivity does not require physical co-location?",
+  "choices": {
+    "A": "By agreeing fully, since Text 2 also finds that output levels were comparable to pre-pandemic baselines.",
+    "B": "By conceding that routine output was maintained but arguing that the claim overlooks important declines in collaborative innovation and organizational learning.",
+    "C": "By arguing that co-location is required not for productivity but for workers' personal well-being.",
+    "D": "By rejecting Text 1's methodology on the grounds that output cannot be meaningfully measured."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 grants that 'individual output on measurable tasks remained stable'—which aligns with Text 1's productivity claim—but then emphasizes the decline in collaborative innovation and organizational learning as a qualification. This is a classic concede-but-qualify structure. B accurately captures this response. A overstates agreement—Text 2 qualifies the productivity claim, not fully endorses it. C introduces well-being as the concern, which Text 2 does not discuss. D attacks Text 1's methodology, which Text 2 does not do—it accepts measurable output data and questions what it misses."
+}

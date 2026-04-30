@@ -1,0 +1,16 @@
+{
+  "id": "q_918",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Traditional agricultural practices developed by Indigenous communities over millennia represent a sophisticated body of ecological knowledge about soil health, seed diversity, pest management, and water conservation. These practices, tailored to local conditions over generations, often produce resilient food systems that can withstand climate variability. Agricultural researchers should collaborate with Indigenous communities to integrate traditional ecological knowledge into modern farming practices.\n\nText 2: While Indigenous agricultural knowledge is genuinely valuable, calls for 'integration' must be approached with caution. Historical practices of extracting knowledge from Indigenous communities without consent, compensation, or credit—sometimes called 'biopiracy'—have caused real harm. Moreover, knowledge developed for specific ecological and social contexts may not transfer directly to other conditions. Authentic collaboration requires Indigenous communities to control how their knowledge is shared, applied, and attributed.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the call in Text 1 for researchers to integrate traditional knowledge into modern farming?",
+  "choices": {
+    "A": "By arguing that traditional knowledge is too context-specific to have any value for modern agriculture",
+    "B": "By supporting the goal of integration but arguing that it must be pursued through genuinely collaborative processes that respect Indigenous intellectual sovereignty",
+    "C": "By claiming that modern agricultural science is superior to traditional ecological knowledge in all respects",
+    "D": "By arguing that Indigenous communities should have no role in shaping how their knowledge is applied in modern contexts"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 validates the value of traditional knowledge but argues that 'integration' must be done carefully, with Indigenous communities controlling how their knowledge is shared and attributed. B correctly describes this as qualified support with process-focused conditions. A overstates—Text 2 says traditional knowledge is 'genuinely valuable' and notes the problem of context-specific transfer as a complication, not a disqualification. C contradicts Text 2's affirmation of traditional knowledge's value. D inverts Text 2's argument, which explicitly advocates for Indigenous community control."
+}

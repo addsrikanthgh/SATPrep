@@ -1,0 +1,16 @@
+{
+  "id": "q_421",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The architect's design was widely praised for its economy: every structural element served at least two functions, and the building achieved a striking visual effect without a single decorative feature added purely for appearance.",
+  "question": "As used in the passage, 'economy' most nearly means",
+  "choices": {
+    "A": "frugality of means; the efficient use of resources with nothing wasted.",
+    "B": "the financial system of a nation.",
+    "C": "a low price or inexpensive quality.",
+    "D": "a reduction in expenditure achieved through bargaining."
+  },
+  "correct_answer": "A",
+  "explanation": "In this context, 'economy' refers to the principle of doing more with less—using every element for multiple purposes and avoiding ornamental additions. This is the aesthetic or design sense of economy (efficient, spare use of means), not the financial or commercial senses in B, C, and D."
+}

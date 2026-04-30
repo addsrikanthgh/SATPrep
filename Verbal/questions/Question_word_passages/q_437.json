@@ -1,0 +1,16 @@
+{
+  "id": "q_437",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The poet's early work was derivative—skillfully constructed but drawing so heavily on the styles and imagery of her predecessors that it revealed little of an independent sensibility.",
+  "question": "As used in the passage, 'derivative' most nearly means",
+  "choices": {
+    "A": "highly technical; requiring specialized knowledge to appreciate.",
+    "B": "lacking originality; based too closely on existing models.",
+    "C": "formally correct but emotionally cold.",
+    "D": "complex and multi-layered in meaning."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'derivative' describes work that draws too heavily on predecessors and lacks an independent sensibility—the standard critical sense of lacking originality by imitating existing sources too closely. B captures this. A introduces technical complexity—not what 'derivative' means. C introduces emotional coldness, not mentioned in the passage. D introduces layered complexity—the opposite direction from the concern about imitation."
+}

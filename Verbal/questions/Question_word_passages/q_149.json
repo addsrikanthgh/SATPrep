@@ -1,0 +1,16 @@
+{
+  "id": "q_149",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A longitudinal study tracked 3,800 individuals over 20 years and examined the relationship between income level and self-reported life satisfaction. Among participants in the lowest income quartile, average life satisfaction scores increased from 4.2 to 5.1 (on a 10-point scale) as income doubled. Among participants in the second quartile, doubling income raised scores from 5.6 to 6.2. In the third quartile, doubling income raised scores from 6.5 to 6.8. Among participants in the highest income quartile, doubling income produced no statistically significant change in satisfaction scores.",
+  "question": "A researcher claims that additional income produces diminishing improvements in life satisfaction as income increases. Which pattern in the data most directly supports this claim?",
+  "choices": {
+    "A": "Participants in the lowest income quartile reported the lowest initial life satisfaction scores.",
+    "B": "Participants in the highest quartile reported no significant change in satisfaction from doubling their income.",
+    "C": "The gain in satisfaction from doubling income decreased with each successive income quartile: 0.9, 0.6, 0.3, and 0 points.",
+    "D": "Life satisfaction scores in the third quartile rose from 6.5 to 6.8 after income doubled."
+  },
+  "correct_answer": "C",
+  "explanation": "The researcher's claim requires showing a pattern of diminishing returns across income levels—each successive doubling of income produces smaller gains. C explicitly describes this declining pattern across all four quartiles (0.9 → 0.6 → 0.3 → 0), which is the most direct and complete support for the claim. B identifies a single data point (no change at the top quartile) that supports only one part of the pattern. A describes initial scores, not the impact of income change, so it does not support the diminishing returns claim. D provides only one quartile's data point in isolation, which cannot establish a trend."
+}

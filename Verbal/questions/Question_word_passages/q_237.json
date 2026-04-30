@@ -1,0 +1,16 @@
+{
+  "id": "q_237",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Soil erosion is typically discussed as a developing-world problem: images of sub-Saharan Africa or South Asian hillsides stripped bare by deforestation and overgrazing. This framing is misleading. The United States loses approximately 1.7 billion tons of topsoil annually, much of it from the Corn Belt—the result of monoculture farming, limited crop rotation, and the drainage of moisture-retaining wetlands. Topsoil that took centuries to form disappears within a generation of intensive cultivation.",
+  "question": "What function does the sentence \"This framing is misleading\" serve in the passage?",
+  "choices": {
+    "A": "It summarizes the environmental damage caused by deforestation and overgrazing.",
+    "B": "It alerts the reader that the preceding geographic framing of soil erosion is inaccurate, redirecting attention to a counterexample the passage will then present.",
+    "C": "It introduces the role of monoculture farming in accelerating erosion in developing countries.",
+    "D": "It provides evidence that soil erosion is exclusively a product of developed-world agricultural practices."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence directly challenges the geographic framing established in the preceding sentence (soil erosion as a developing-world problem) and sets up the pivot to the United States example that follows. Its function is to flag an error in the dominant framing and prepare the reader for the corrective evidence. B accurately identifies this challenge-and-redirect function. A misattributes the summary role to this sentence; that content was in the preceding sentence. C misidentifies the sentence's function—monoculture farming is mentioned in the following sentence, and it concerns the U.S., not developing countries. D distorts the sentence's meaning; the passage does not claim erosion is exclusively a developed-world issue."
+}

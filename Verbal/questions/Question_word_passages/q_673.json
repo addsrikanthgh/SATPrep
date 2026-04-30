@@ -1,0 +1,16 @@
+{
+  "id": "q_673",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "The discovery of high-temperature superconductivity in certain copper-oxide compounds in the 1980s defied theoretical predictions, since existing models held that superconductivity could only occur at temperatures far colder. _______ decades of subsequent research have failed to produce a widely accepted theoretical explanation for why these materials exhibit superconductivity at such relatively high temperatures.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "To this day,",
+    "B": "Therefore,",
+    "C": "For example,",
+    "D": "Nevertheless,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes an anomalous discovery in the 1980s that defied theory. The second describes the current state of understanding: after decades, there is still no accepted explanation. 'To this day' (A) signals temporal continuation from a past event to the present—it indicates that the problem noted in the first sentence remains unresolved. 'Therefore' (B) would imply the lack of theoretical explanation follows logically from the discovery, but the relationship is temporal persistence of a puzzle, not a logical consequence. 'For example' (C) would introduce an illustration of the first claim. 'Nevertheless' (D) would signal that the second sentence continues despite something in the first, which is not the correct framing."
+}

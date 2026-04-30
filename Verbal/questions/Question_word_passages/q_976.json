@@ -1,0 +1,16 @@
+{
+  "id": "q_976",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The Coriolis effect causes moving objects on Earth—including air masses, ocean currents, and long-range projectiles—to be deflected from straight-line paths due to Earth's rotation. In the Northern Hemisphere, objects are deflected to the right relative to their direction of motion; in the Southern Hemisphere, to the left. This deflection drives the characteristic spiral patterns of tropical cyclones: counterclockwise in the Northern Hemisphere, clockwise in the Southern Hemisphere. The Coriolis effect is negligible at small scales, such as water draining in a sink, though this myth is widely believed.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain the physics of Earth's rotation and derive the mathematical equations governing deflection.",
+    "B": "describe the Coriolis effect, its real-world consequences, and correct a common misconception about its scale.",
+    "C": "argue that the Coriolis effect is the primary driver of weather patterns around the world.",
+    "D": "compare hurricane formation in the Northern and Southern Hemispheres."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage defines the Coriolis effect, explains its direction in each hemisphere, notes its role in cyclone formation, and concludes by correcting the misconception about sink draining. B correctly captures all three functions: describe, illustrate real consequences, correct misconception. A implies mathematical derivation, which the passage does not include. C implies an argument about weather primacy, which the passage does not make—it describes one effect. D implies a systematic comparison of cyclone formation that is broader than what the passage does."
+}

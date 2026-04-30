@@ -1,0 +1,16 @@
+{
+  "id": "q_700",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "The sociologist Robert Merton coined the concept of the 'self-fulfilling prophecy' to describe situations in which a false belief, by altering behavior, causes itself to become true. His canonical example was the bank run: if depositors believe (even without evidence) that a bank is about to fail, they rush to withdraw their funds, causing the very failure they feared. The concept has since been applied far beyond banking. In education, research has shown that teachers who are told (incorrectly) that certain students are high-potential subsequently treat those students differently—giving them more attention, harder work, and more positive feedback—with the result that those students actually perform better on subsequent tests. This 'Pygmalion effect' suggests that beliefs about a person's potential can produce measurable changes in that person's actual performance, independent of the initial accuracy of the belief.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Merton's concept of the self-fulfilling prophecy—illustrated by bank runs and educational research—shows that false beliefs can produce the outcomes they predict by altering behavior.",
+    "B": "The Pygmalion effect proves that teacher expectations are the single most powerful determinant of student academic performance.",
+    "C": "Merton's theory applies primarily to economic contexts, since financial markets are uniquely susceptible to belief-driven behavior changes.",
+    "D": "Self-fulfilling prophecies are always harmful, as they cause false beliefs to override accurate assessments in critical domains like banking and education."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage introduces Merton's concept, explains the mechanism (false belief alters behavior, which causes the belief to become true), and illustrates it with two examples: bank runs and the Pygmalion effect in education. A captures the concept, both examples, and the mechanism accurately. B overstates the educational research; the passage says teacher expectations affect performance, not that they are 'the single most powerful determinant.' C contradicts the passage, which expands the concept beyond economics to education. D introduces a value judgment ('always harmful') not found in the passage; the Pygmalion effect in the passage example produces a positive outcome (students actually perform better)."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_400",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay about why scientific consensus on climate change has not translated into proportional policy action. The student has taken the following notes:\n- Over 97% of actively publishing climate scientists agree that human activities are causing climate change.\n- A 2021 Pew Research survey found that only 65% of U.S. adults believe climate change is mostly due to human activity.\n- Fossil fuel industry groups spent an estimated $2 billion on climate lobbying between 2000 and 2016, and some groups funded researchers to manufacture scientific uncertainty.\n- Research on motivated reasoning shows that people are more likely to accept scientific findings that align with their prior political or economic beliefs.\n- Even among Americans who accept the scientific consensus, climate change ranks consistently below economic concerns, healthcare, and immigration as a policy priority.",
+  "question": "Which choice most effectively uses the notes to argue that the gap between scientific consensus and policy action reflects multiple, interacting causes rather than a single explanation?",
+  "choices": {
+    "A": "Most Americans accept that climate change is human-caused, but it ranks low as a policy priority, which explains the gap between scientific consensus and policy action.",
+    "B": "The gap between scientific consensus on climate change and policy action cannot be explained by any single cause: manufactured uncertainty from fossil fuel lobbying has suppressed public acceptance of the consensus, motivated reasoning means that even accurate information is filtered through prior beliefs, and even among those who accept the science, economic concerns consistently outrank climate as a policy priority.",
+    "C": "Fossil fuel companies have spent billions lobbying against climate policy and funding researchers to create doubt, which is the main reason climate policy has lagged behind the science.",
+    "D": "Over 97% of climate scientists agree that human activity causes climate change, but only 65% of U.S. adults believe this, suggesting that science communication has failed."
+  },
+  "correct_answer": "B",
+  "explanation": "B integrates three distinct, interacting causes: manufactured uncertainty (fossil fuel lobbying and funded skepticism), motivated reasoning (people filter information through prior beliefs), and prioritization gaps (even believers rank climate below other concerns). The structure directly argues for 'multiple, interacting causes' as the question requires. A identifies only the prioritization gap note and presents it as a single explanation—contradicting the 'multiple causes' framing. C identifies only the lobbying cause and presents it as 'the main reason'—reducing to a single explanation rather than multiple causes. D focuses only on the science-vs.-public-belief gap and attributes it to science communication failure, a single-cause explanation not supported by the notes."
+}

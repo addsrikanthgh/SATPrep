@@ -1,0 +1,16 @@
+{
+  "id": "q_281",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "The Amazon rainforest contains more tree species per acre than any other forest on Earth. _______, a single hectare in the western Amazon can contain over 300 distinct tree species—more than in all of Europe combined.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Nevertheless,",
+    "B": "For example,",
+    "C": "By contrast,",
+    "D": "Therefore,"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence makes a general claim (Amazon contains more tree species per acre than any other forest), and the second sentence offers a specific statistic that illustrates that claim. 'For example' (B) is the correct transition because the second sentence provides a concrete example of the first sentence's generalization. 'Nevertheless' (A) signals contrast or concession—inappropriate here since the sentences agree. 'By contrast' (C) signals a comparison between two opposing things—not applicable when the second sentence supports the first. 'Therefore' (D) signals a logical conclusion from prior reasoning—incorrect because the second sentence is evidence for a claim, not a conclusion drawn from it."
+}

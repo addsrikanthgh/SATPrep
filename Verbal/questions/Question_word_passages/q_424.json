@@ -1,0 +1,16 @@
+{
+  "id": "q_424",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The committee's report was candid about the program's shortcomings, acknowledging three years of cost overruns and missed milestones that earlier reviews had glossed over.",
+  "question": "As used in the passage, 'candid' most nearly means",
+  "choices": {
+    "A": "photographed spontaneously without the subject's knowledge.",
+    "B": "frank and honest, not concealing or softening the truth.",
+    "C": "colorfully written and engaging in tone.",
+    "D": "neutral and objective in presenting both sides of a controversy."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the report is 'candid' because it openly acknowledges problems that previous reviews avoided ('glossed over'). This is the frank, honest sense—not hiding unpleasant truths. A is the photography sense of 'candid shot.' C introduces a stylistic quality not implied. D is a neutrality sense—the passage specifically says the report acknowledges shortcomings, not that it presents both sides evenhandedly."
+}

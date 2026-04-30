@@ -1,0 +1,16 @@
+{
+  "id": "q_666",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The philosopher Hannah Arendt argued that totalitarian regimes derive their power partly from atomizing individuals—severing the social bonds that allow people to act collectively. _______ she insisted that political freedom is not a private matter but can only exist in the shared public space between people.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Accordingly,",
+    "B": "However,",
+    "C": "For example,",
+    "D": "Despite this,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes Arendt's view that totalitarianism destroys social bonds. The second presents her related claim that freedom requires shared public space. This is a logical extension: if atomization destroys freedom, then freedom must depend on social connection—which is exactly what 'shared public space' provides. 'Accordingly' (A) signals that the second claim logically follows from and is consistent with the first. 'However' (B) would imply a contrast or reversal, but the claims reinforce each other. 'For example' (C) would introduce an illustration of the first claim, not a related theoretical position. 'Despite this' (D) implies concession, which does not fit."
+}

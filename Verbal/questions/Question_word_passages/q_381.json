@@ -1,0 +1,16 @@
+{
+  "id": "q_381",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a paper about the relationship between sleep deprivation and academic performance in high school students. The student has taken the following notes:\n- Studies show that teenagers need 8–10 hours of sleep per night for optimal brain function.\n- Most high school students in the United States average only 6.5–7 hours of sleep on school nights.\n- Sleep deprivation impairs working memory, attention, and the ability to consolidate new information.\n- A 2017 analysis found that later school start times—starting at 8:30 a.m. or later—were associated with improved grades, attendance, and mood.\n- The American Academy of Pediatrics recommends that middle and high schools start no earlier than 8:30 a.m.",
+  "question": "Which choice most effectively uses the notes to present the central problem and a research-backed solution?",
+  "choices": {
+    "A": "Teenagers in the United States are not getting enough sleep, and the American Academy of Pediatrics has issued a recommendation about school start times.",
+    "B": "Because most American high school students average far less sleep than the 8–10 hours needed for optimal cognition—impairing memory, attention, and learning—later school start times of 8:30 a.m. or later have been associated with measurable improvements in grades and attendance.",
+    "C": "Sleep deprivation affects working memory, and some doctors recommend later school start times.",
+    "D": "The American Academy of Pediatrics recommends that schools start no earlier than 8:30 a.m. because teenagers like to sleep late."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes the sleep gap (6.5–7 hours vs. 8–10 needed), the specific cognitive consequences (memory, attention, learning consolidation), and the research-backed solution (later start times, 8:30 a.m., linked to improved grades and attendance). It integrates multiple notes into a coherent cause-and-effect framing. A mentions the sleep deficit and the AAP recommendation but omits the cognitive consequences and the empirical evidence for the solution. C is vague—'some doctors recommend' understates the AAP recommendation and omits the empirical outcome data. D misrepresents the basis for the recommendation ('teenagers like to sleep late' is not what the notes say)."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_477",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "The concept of 'wilderness' as an area of land essentially untouched by human activity was central to the founding of the U.S. national park system in the late nineteenth century. _______, historians and Indigenous scholars have pointed out that the landscapes Americans called 'wilderness' were in fact actively managed by Native peoples for thousands of years before European colonization, through practices such as controlled burns, selective harvesting, and deliberate replanting.",
+  "question": "Which choice most effectively transitions between the first and second sentences?",
+  "choices": {
+    "A": "As a result,",
+    "B": "This view, however, has been challenged:",
+    "C": "In contrast,",
+    "D": "Similarly,"
+  },
+  "correct_answer": "B",
+  "explanation": "'This view, however, has been challenged:' is the best transition because it explicitly names the first sentence's claim ('this view'), signals a contrast ('however'), indicates that the challenge is ongoing ('has been challenged'), and uses a colon to introduce the evidence for that challenge (what historians and Indigenous scholars have argued). 'As a result' implies the second sentence is a consequence of the wilderness concept, which is backwards. 'In contrast' introduces a contrasting topic without explicitly linking back to the 'wilderness' idea. 'Similarly' implies the second sentence agrees with the first."
+}

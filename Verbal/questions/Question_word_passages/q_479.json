@@ -1,0 +1,16 @@
+{
+  "id": "q_479",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The gig economy has created flexible work arrangements that allow individuals to earn income on their own schedules through platforms such as ride-sharing services and delivery apps. For workers with caregiving responsibilities or other constraints on fixed-schedule employment, this flexibility can be genuinely valuable. _______, gig workers typically lack employer-provided health insurance, retirement plans, and unemployment protections—benefits that traditional employment relationships have historically provided.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Likewise",
+    "B": "For example",
+    "C": "On the other hand",
+    "D": "Therefore"
+  },
+  "correct_answer": "C",
+  "explanation": "'On the other hand' correctly signals the shift from the positive aspect of gig work (flexibility for those with caregiving constraints) to a contrasting negative aspect (lack of benefits). This is a balanced two-sided analysis, and 'on the other hand' is the standard signal for moving to the other side of a two-sided argument. 'Likewise' implies the third sentence adds another benefit, not a drawback. 'For example' implies the third sentence gives an example of flexibility, but it introduces a disadvantage. 'Therefore' implies the lack of benefits is a result of the flexibility, which is not the relationship."
+}

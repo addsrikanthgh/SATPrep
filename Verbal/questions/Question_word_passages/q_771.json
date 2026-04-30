@@ -1,0 +1,16 @@
+{
+  "id": "q_771",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Caffeine is the world's most widely consumed psychoactive substance. It works by blocking adenosine receptors in the brain. Adenosine is a byproduct of cellular activity that accumulates throughout the day; as it builds up, it binds to receptors and creates feelings of drowsiness and fatigue. Caffeine's molecular structure closely resembles adenosine's, allowing it to occupy the same receptors without activating them—effectively blocking the drowsiness signal. At the same time, dopamine and other stimulating neurotransmitters, no longer suppressed by adenosine activity, are free to circulate more freely, producing alertness and improved mood. The effect lasts several hours, depending on individual metabolism.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "explain the neurochemical mechanism by which caffeine produces its stimulating effects.",
+    "B": "argue that caffeine consumption is harmful and should be regulated by public health authorities.",
+    "C": "compare caffeine to other psychoactive substances in terms of its safety profile.",
+    "D": "describe the history of caffeine's discovery and spread throughout the world."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage moves from caffeine's basic description to the mechanism of adenosine accumulation, caffeine's receptor-blocking action, and the resulting increase in stimulating neurotransmitters. The whole passage explains how caffeine works neurochemically. A accurately states this purpose. B introduces a health policy argument not found in the passage. C describes a comparative analysis with other psychoactive substances, which the passage does not undertake. D traces historical discovery and spread, topics not mentioned in the passage."
+}

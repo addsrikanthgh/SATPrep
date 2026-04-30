@@ -1,0 +1,16 @@
+{
+  "id": "q_720",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Germ theory—the understanding that specific microorganisms cause specific diseases—is now the cornerstone of modern medicine. Before its establishment in the second half of the nineteenth century, the dominant explanation for epidemic disease was miasma theory: the belief that illness arose from 'bad air' produced by rotting organic matter and environmental filth. Though miasma theory identified the wrong cause, its proponents' advocacy for sanitation improvements—cleaning up sewage and refuse—actually reduced disease incidence significantly, even if for the wrong reasons.\n\nText 2: The success of sanitation reforms under miasma theory raises a philosophically interesting question about scientific progress. Standard accounts of scientific progress treat the replacement of a false theory by a true one as straightforwardly good. But miasma theory was practically successful even while being empirically false: it motivated interventions that worked. This suggests that the relationship between theoretical truth and practical efficacy is more complex than the standard account implies.",
+  "question": "What claim does Text 2 make about the situation described in Text 1?",
+  "choices": {
+    "A": "That the practical success of miasma theory despite its empirical falsity complicates standard accounts of the relationship between scientific truth and useful intervention.",
+    "B": "That miasma theory should be restored as a valid medical framework because it produced effective sanitation outcomes.",
+    "C": "That germ theory is also empirically false, just as miasma theory was, and that both theories should be abandoned.",
+    "D": "That the sanitation improvements described in Text 1 had no measurable effect on disease incidence and therefore do not support miasma theory's practical success."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 2 uses the case from Text 1 (miasma theory was false but the interventions it inspired worked) to make a philosophical point: that scientific progress is not simply 'true theory replaces false theory → effective practice.' The practical success of a false theory complicates the picture. A accurately captures this philosophical claim. B misrepresents Text 2—it doesn't advocate restoring miasma theory; it uses its historical success to make a philosophical point. C is not argued in Text 2, which accepts that germ theory replaced miasma theory as the correct framework. D directly contradicts Text 1 (which says sanitation reduced disease) and is not the argument of Text 2."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_839",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The treaty's provisions were deliberately _______ on several key points; both negotiating parties accepted the ambiguous language precisely because each side believed the vague terms could later be interpreted in its own favor.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "equivocal",
+    "B": "stringent",
+    "C": "immutable",
+    "D": "categorical"
+  },
+  "correct_answer": "A",
+  "explanation": "'Equivocal' means open to more than one interpretation and intentionally unclear—the sentence explicitly says the language was ambiguous and that each side expected to interpret it favorably. 'Equivocal' precisely names this deliberately ambiguous quality. 'Stringent' means strict and precise—the opposite of vague and open to interpretation. 'Immutable' means unchangeable—the issue is ambiguity, not permanence. 'Categorical' means absolute and clear—also the opposite of ambiguous."
+}

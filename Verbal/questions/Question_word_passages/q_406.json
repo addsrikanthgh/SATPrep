@@ -1,0 +1,26 @@
+{
+  "id": "q_406",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "A psychology study examined the relationship between social media use and loneliness in adults aged 18–35. Participants completed daily surveys for 30 days, recording hours of passive social media consumption (scrolling without posting), active engagement (posting, messaging, commenting), and self-reported loneliness scores. Results showed that each additional hour of passive consumption per day was associated with a 0.4-point increase in loneliness scores (on a 10-point scale), while each additional hour of active engagement was associated with a 0.3-point decrease in loneliness scores. These associations held after controlling for baseline loneliness, age, and living situation.",
+  "passage_note": "The table below shows mean daily social media use and loneliness scores by user type.",
+  "table": {
+    "headers": ["User Type", "Passive hrs/day", "Active hrs/day", "Loneliness score (mean)"],
+    "rows": [
+      ["Mostly passive", "2.8", "0.3", "6.7"],
+      ["Balanced", "1.2", "1.1", "4.9"],
+      ["Mostly active", "0.4", "2.6", "3.8"],
+      ["Low use overall", "0.5", "0.4", "4.1"]
+    ]
+  },
+  "question": "Which data from the table best supports the study's finding that the type of social media use matters more than total use for loneliness outcomes?",
+  "choices": {
+    "A": "Mostly passive users had higher loneliness scores (6.7) than low-use users (4.1) despite similar active engagement, while mostly active users had the lowest scores (3.8) despite much higher total use than low-use users.",
+    "B": "Balanced users averaged 1.2 hours of passive use and 1.1 hours of active use per day.",
+    "C": "Mostly passive users averaged 2.8 hours of passive use per day.",
+    "D": "Low-use users had a mean loneliness score of 4.1."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly supports the 'type matters more than total' argument by comparing groups with different use compositions: mostly passive users (low total active use, high passive) scored higher on loneliness than low-use users (low total), showing that passive use raises loneliness beyond what total use predicts. Meanwhile, mostly active users (high total use, but active) scored lower than low-use users, showing that active engagement is protective even at high totals. This comparison isolates type as the differentiating variable. B describes balanced users' averages—a single group's data without a comparison. C gives only passive hours for mostly passive users—no comparison. D gives only the low-use loneliness score—no comparison."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_433",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The field expedition proved more arduous than anticipated: the team faced steep terrain, unpredictable weather, and equipment failures that turned what had been planned as a two-week survey into a month-long ordeal.",
+  "question": "As used in the passage, 'arduous' most nearly means",
+  "choices": {
+    "A": "requiring great effort and endurance; very difficult.",
+    "B": "dangerous and likely to result in injury.",
+    "C": "poorly organized and administratively confused.",
+    "D": "tedious and repetitive but not especially challenging."
+  },
+  "correct_answer": "A",
+  "explanation": "In context, 'arduous' describes the expedition's difficulty—steep terrain, bad weather, equipment failures that extended it greatly. This is the standard sense of arduous: requiring great effort and endurance. B introduces physical danger, which the passage does not specifically mention. C introduces organizational failure—the passage cites external conditions, not planning failures. D introduces tedium as the opposite of challenge—'arduous' implies demanding difficulty, not mere repetition."
+}

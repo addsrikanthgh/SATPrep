@@ -1,0 +1,16 @@
+{
+  "id": "q_221",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "easy",
+  "passage": "The Amazon River basin contains approximately 10% of all species on Earth. This staggering figure does not simply reflect the region's size; scientists attribute its extraordinary biodiversity to the basin's layered habitat structure, its relatively stable climate over millions of years, and the vast network of rivers that have acted as both barriers and corridors for speciation. No other terrestrial ecosystem comes close to matching this density of life.",
+  "question": "What function does the sentence \"This staggering figure does not simply reflect the region's size\" serve in the passage?",
+  "choices": {
+    "A": "It questions the accuracy of the 10% biodiversity estimate.",
+    "B": "It redirects the reader from a surface-level explanation toward a more nuanced account of the basin's biodiversity.",
+    "C": "It introduces a comparison between the Amazon basin and other large ecosystems.",
+    "D": "It concedes that the Amazon basin's size is its most important ecological characteristic."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence follows the statistic about species richness and immediately tells the reader that size alone is insufficient as an explanation—thereby redirecting attention to the deeper factors (habitat layering, climate stability, river networks) that the passage then explains. This makes B correct: the sentence steers the reader toward a more nuanced account. A is wrong because the sentence does not dispute the statistic. C is incorrect because no comparison to other ecosystems appears in this sentence; that appears in the final sentence. D misrepresents the sentence's direction—it explicitly says size is NOT simply the explanation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_284",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Roman concrete—known as opus caementicium—was made by mixing volcanic ash called pozzolana with seawater and lime. Modern engineers have long marveled at the durability of Roman harbor structures, many of which have remained intact for two millennia. _______, modern Portland cement, while stronger initially, deteriorates significantly when exposed to seawater over decades.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Furthermore,",
+    "B": "By contrast,",
+    "C": "Therefore,",
+    "D": "For instance,"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage contrasts Roman concrete's extraordinary seawater durability with modern Portland cement's seawater deterioration. The transition introduces the foil—modern cement—in opposition to the remarkable Roman material. 'By contrast' (B) correctly signals this direct comparison between two materials with opposing properties. 'Furthermore' (A) would signal an addition to the same line of thought—incorrect since modern cement's weakness contrasts with Roman concrete's strength. 'Therefore' (C) would imply that modern cement's deterioration is a consequence of the Roman structures' durability—a causal link that doesn't exist. 'For instance' (D) would imply modern Portland cement is an example of the marveled-at durability, which is the opposite of what the sentence says."
+}

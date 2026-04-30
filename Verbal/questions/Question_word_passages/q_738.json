@@ -1,0 +1,16 @@
+{
+  "id": "q_738",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "Not until the publication of the final report did the extent of the financial irregularities _______ apparent to shareholders.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "become",
+    "B": "became",
+    "C": "becomes",
+    "D": "had become"
+  },
+  "correct_answer": "A",
+  "explanation": "When a sentence begins with a negative adverbial 'Not until...' construction, subject-verb inversion occurs: the auxiliary verb moves before the subject. The sentence structure is 'Not until X did [subject] [base verb].' In this inverted construction, the auxiliary 'did' already carries the past tense, and the main verb must appear in the base (infinitive) form. 'Become' (A) is the base form and correctly follows the inverted auxiliary 'did.' 'Became' (B) would create a double past-tense error ('did...became'). 'Becomes' (C) is third-person singular present. 'Had become' (D) is the past perfect, which does not work with the 'did + base verb' inversion structure."
+}

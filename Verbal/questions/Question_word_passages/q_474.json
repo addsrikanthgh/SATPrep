@@ -1,0 +1,16 @@
+{
+  "id": "q_474",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "In classical conditioning, a neutral stimulus acquires the power to elicit a response by being repeatedly paired with a stimulus that naturally produces that response. Pavlov's famous experiments demonstrated that dogs could be conditioned to salivate at the sound of a bell that had previously been paired with food. _______, contemporary researchers have shown that humans can be classically conditioned to respond emotionally to neutral images, sounds, or even brand logos when those stimuli are repeatedly associated with positive or negative experiences—a finding with obvious implications for advertising.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "As a counterpoint,",
+    "B": "Extending this principle,",
+    "C": "Despite this,",
+    "D": "First,"
+  },
+  "correct_answer": "B",
+  "explanation": "'Extending this principle' correctly signals that the third sentence takes Pavlov's foundational example and applies the same classical conditioning principle to a new domain (human emotional responses and advertising). The relationship is one of extension—the principle is the same but applied more broadly. 'As a counterpoint' implies the contemporary research contradicts classical conditioning, which it does not—it confirms and extends it. 'Despite this' implies the contemporary findings hold true despite Pavlov's experiments, which implies opposition where there is continuity. 'First' implies the third sentence begins a sequence, but no sequence has been introduced."
+}

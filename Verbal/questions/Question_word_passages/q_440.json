@@ -1,0 +1,16 @@
+{
+  "id": "q_440",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "The theorist's framework was provocative in that it inverted the conventional relationship between infrastructure and culture: rather than treating physical systems like roads and ports as neutral conduits for social activity, it argued that infrastructure actively shapes the forms of life that develop around it.",
+  "question": "As used in the passage, 'conduits' most nearly means",
+  "choices": {
+    "A": "systems of governance or political authority.",
+    "B": "channels or means through which something flows or passes; neutral passages.",
+    "C": "barriers that restrict or redirect the flow of activity.",
+    "D": "specialized tools designed for a specific professional purpose."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the conventional view treats infrastructure as 'neutral conduits'—passive channels through which social activity flows, without themselves shaping that activity. B captures this sense of a neutral passage or channel. A introduces governance—not what 'conduit' means. C introduces barriers, which is the opposite of a conduit (a conduit allows passage; a barrier restricts it). D introduces specialized tools—not what a conduit is."
+}

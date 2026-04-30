@@ -1,0 +1,16 @@
+{
+  "id": "q_142",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Ralph Ellison's Invisible Man opens with the narrator's declaration that he is invisible—not because he lacks a physical body, but because people refuse to see him. He elaborates: 'When they approach me they see only my surroundings, themselves, or figments of their imagination—indeed, everything and anything except me.' The narrator does not present this invisibility as a source of weakness. Instead, he has retreated underground, where he lives surrounded by 1,369 light bulbs, their brilliance fueled by electricity siphoned from a power company. His invisible existence, he insists, is a state of hibernation, not defeat—a preparation for some future act of emergence.",
+  "question": "A reader claims that the narrator of Invisible Man frames his marginalization as a temporary condition rather than a permanent defeat. Which quotation from the passage most directly supports this claim?",
+  "choices": {
+    "A": "\"he is invisible—not because he lacks a physical body, but because people refuse to see him\"",
+    "B": "\"When they approach me they see only my surroundings, themselves, or figments of their imagination\"",
+    "C": "\"His invisible existence, he insists, is a state of hibernation, not defeat—a preparation for some future act of emergence\"",
+    "D": "\"he has retreated underground, where he lives surrounded by 1,369 light bulbs\""
+  },
+  "correct_answer": "C",
+  "explanation": "The reader's claim requires evidence that the narrator views his condition as temporary and not a final defeat. C provides precisely this: the narrator explicitly contrasts 'hibernation' with 'defeat' and describes his state as preparation for 'some future act of emergence'—both of which signal temporariness and future possibility. A and B describe the nature of his invisibility but say nothing about whether it is temporary or permanent. D describes the narrator's physical circumstances but offers no indication of his attitude toward the duration or permanence of his condition."
+}

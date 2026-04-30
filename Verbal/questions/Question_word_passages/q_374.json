@@ -1,0 +1,16 @@
+{
+  "id": "q_374",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Controlled burns—intentional fires set under managed conditions—have been used by indigenous communities in North America, Australia, and Africa for thousands of years to manage vegetation, clear land for agriculture, and maintain the habitat mosaics that many wildlife species require. European colonization suppressed these practices, and twentieth-century fire management in the United States adopted a policy of complete fire suppression—extinguishing all fires as quickly as possible. This policy, while well-intentioned, allowed fuel loads to accumulate over decades. The result has been catastrophically large wildfires that cause far greater ecological and economic damage than the frequent, lower-intensity burns that historically kept fuel loads in check.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "A scientific experiment is described, followed by its unexpected results.",
+    "B": "A historical practice is introduced, the policy that replaced it is described, and the negative consequences of that replacement are explained.",
+    "C": "Two competing fire management philosophies are presented as equally valid alternatives.",
+    "D": "Statistical evidence is used to demonstrate that controlled burns reduce wildfire risk."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage moves through three stages: traditional indigenous controlled burning (historical practice) → European suppression and twentieth-century total suppression policy (replacement) → accumulation of fuel loads and catastrophic wildfires (negative consequences). B accurately captures this three-stage chronological-causal structure. A describes a scientific experiment, which is not the structure—the passage is historical analysis. C presents two philosophies as equally valid; the passage clearly presents the suppression policy as having caused harm. D attributes statistics to the passage; the passage is descriptive and analytical, with no quantitative data."
+}

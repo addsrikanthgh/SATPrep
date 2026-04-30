@@ -1,0 +1,16 @@
+{
+  "id": "q_812",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "A sociologist argues that social media use is associated with increased political polarization among adults in the United States, not because of the content users consume, but because of the medium's structural incentives—such as engagement algorithms—that amplify emotionally charged content regardless of its political orientation.",
+  "question": "Which finding would most directly support the sociologist's argument about structural incentives rather than content?",
+  "choices": {
+    "A": "'An audit of Facebook's recommendation algorithm found that it consistently promoted content generating high emotional engagement—including both left-leaning and right-leaning outrage—over factually accurate but emotionally neutral posts, regardless of the user's political affiliation.'",
+    "B": "'Surveys found that heavy social media users were more likely to believe political misinformation than light users, suggesting that exposure to false content drives polarization.'",
+    "C": "'Democrats and Republicans who used social media heavily reported less trust in the opposing party than those who used social media infrequently.'",
+    "D": "'Researchers found that users who followed primarily conservative sources on Twitter held more extreme political views than those who followed primarily moderate sources.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The sociologist's specific claim is that structural incentives (engagement algorithms) drive polarization, not the content itself. A directly supports this: it shows that the algorithm promoted high-engagement emotional content from both political directions, regardless of political affiliation—demonstrating the structural mechanism the sociologist describes. B attributes polarization to exposure to false content—a content-based explanation, not structural incentives. C shows polarization correlating with social media use but does not identify the mechanism (structural vs. content). D shows an effect of content consumption (following conservative sources), not of structural algorithmic incentives."
+}

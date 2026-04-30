@@ -1,0 +1,16 @@
+{
+  "id": "q_393",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay about the psychological effects of social media use on adolescents. The student has taken the following notes:\n- A 2018 study found that adolescents who spent more than three hours per day on social media reported higher rates of depression and anxiety than those who spent less time.\n- Correlational studies cannot establish causation: adolescents who are already anxious or depressed may seek social media as a coping mechanism.\n- Longitudinal studies tracking the same individuals over time show smaller effects than cross-sectional studies comparing different groups at one time.\n- Social media use appears to have more negative effects on girls than on boys, particularly regarding body image and social comparison.\n- Researchers Jean Twenge and Jonathan Haidt argue that the rise of smartphones and social media is the primary driver of a documented decline in teen mental health since 2012.",
+  "question": "Which choice most effectively uses the notes to present a balanced assessment of the evidence linking social media to adolescent mental health?",
+  "choices": {
+    "A": "Social media is harmful to teenagers, especially girls, and researchers like Twenge and Haidt have documented a decline in teen mental health since 2012.",
+    "B": "Although evidence links high social media use—particularly for girls—to increased depression and anxiety, the relationship is complicated: longitudinal studies show smaller effects than cross-sectional ones, and causation is uncertain because anxious adolescents may also seek social media, making it difficult to determine whether social media causes mental health problems or reflects them.",
+    "C": "Researchers disagree about whether social media is harmful to teens, so no conclusions can be drawn.",
+    "D": "Jean Twenge and Jonathan Haidt argue that smartphones are the main cause of declining teen mental health since 2012, which is supported by correlational studies showing higher anxiety among heavy users."
+  },
+  "correct_answer": "B",
+  "explanation": "B synthesizes the correlational evidence (high use linked to depression/anxiety, stronger for girls), the key methodological qualifications (longitudinal vs. cross-sectional differences, reverse causation possibility), and presents a balanced picture without either dismissing the evidence or overstating it. A treats the evidence as settled ('social media is harmful') and omits the methodological qualifications. C overstates the uncertainty ('no conclusions can be drawn') and discards the quantitative evidence entirely. D presents Twenge and Haidt's claim uncritically as the conclusion without mentioning the reverse-causation issue or the longitudinal-vs.-cross-sectional distinction."
+}

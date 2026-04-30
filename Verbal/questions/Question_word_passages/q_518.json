@@ -1,0 +1,16 @@
+{
+  "id": "q_518",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: Ancient Roman concrete, known as opus caementicium, was used to construct some of the most enduring structures in history, including the Pantheon and the port structures at Caesarea Maritima. Modern engineers have long been puzzled by the durability of Roman concrete, much of which has survived two millennia of exposure to seawater—while modern Portland cement typically begins to deteriorate within decades under similar conditions.\n\nText 2: A 2023 study published in Science Advances identified the chemical mechanism behind Roman concrete's longevity. Researchers found that the Romans used 'hot mixing'—combining volcanic ash with lime and seawater under high heat—which created tiny calcium-aluminum-silicate-hydrate crystals within the concrete. When seawater infiltrated cracks in the material, these crystals continued to grow and fill the cracks, effectively self-healing the concrete. Portland cement lacks this self-healing mechanism, which explains its comparatively rapid deterioration.",
+  "question": "How does Text 2 relate to the puzzle raised in Text 1?",
+  "choices": {
+    "A": "Text 2 argues that Roman concrete is no more durable than modern concrete when tested under controlled conditions.",
+    "B": "Text 2 provides a specific chemical explanation for the durability of Roman concrete that engineers in Text 1 found puzzling.",
+    "C": "Text 2 contradicts Text 1 by arguing that the Pantheon was built with Portland cement, not Roman concrete.",
+    "D": "Text 2 focuses on explaining why Portland cement was invented to replace Roman concrete techniques."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 identifies the puzzle (Roman concrete is far more durable than modern cement, but engineers don't know why). Text 2 directly answers this puzzle with the 2023 study's findings about hot mixing and self-healing calcium crystals. B correctly describes this relationship. A is contradicted by both texts, which agree Roman concrete is more durable. C fabricates a factual contradiction—Text 2 says nothing about Portland cement in the Pantheon. D mischaracterizes Text 2's focus—it explains Roman concrete's mechanism, not the invention of Portland cement."
+}

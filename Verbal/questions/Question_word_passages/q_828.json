@@ -1,0 +1,16 @@
+{
+  "id": "q_828",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "While philosophers have long debated whether moral obligations can be _______ from reason alone, Kant insisted that the categorical imperative—universalizable maxims—provided a purely rational foundation for ethics, independent of experience, desire, or cultural tradition.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "derived",
+    "B": "alleviated",
+    "C": "supplanted",
+    "D": "accrued"
+  },
+  "correct_answer": "A",
+  "explanation": "'Derived' means obtained or developed from a source or through a process—here, deriving moral obligations through reason alone is precisely what Kant claimed was possible. The philosophical debate is about whether reason alone can be the source of moral obligations. 'Alleviated' means lessened or relieved—unrelated to deriving obligations. 'Supplanted' means replaced—the sentence is about the source (reason), not about replacing something. 'Accrued' means accumulated over time—used for interest or benefits, not for deriving ethical principles."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_667",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Traditional economic models have treated environmental degradation as an 'externality'—a cost imposed on society that is not reflected in the market price of goods. _______ proponents of ecological economics argue that this framing itself is flawed, maintaining that natural systems are not external to the economy but are the very foundation upon which all economic activity depends.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "More recently,",
+    "B": "For instance,",
+    "C": "Consequently,",
+    "D": "Similarly,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes the traditional economic approach. The second presents a newer, contrasting perspective from ecological economics that challenges the traditional framing. 'More recently' (A) correctly signals a temporal shift from an older model to a more recent critique, and implies development or contrast without explicitly naming it—which fits a debate between established and newer frameworks. 'For instance' (B) would introduce an example of the externality framing, not a challenge to it. 'Consequently' (C) would imply the critique follows as a logical effect of the traditional model, which misrepresents the relationship. 'Similarly' (D) implies parallel views, but the ecological economists are directly challenging the traditional view."
+}

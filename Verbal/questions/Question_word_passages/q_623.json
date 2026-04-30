@@ -1,0 +1,16 @@
+{
+  "id": "q_623",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "Historians of science have noted that major paradigm shifts rarely occur through the simple _______ of new evidence; more often, they require a generational turnover in which practitioners trained in the old framework retire and are replaced by younger scientists whose professional identities are not invested in defending it.",
+  "question": "Which word most precisely conveys the meaning needed in context?",
+  "choices": {
+    "A": "accumulation",
+    "B": "distortion",
+    "C": "suppression",
+    "D": "fabrication"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence describes the naive model of how scientific change happens—through evidence adding up—and then contrasts it with the more complex sociological reality. 'Accumulation of new evidence' is the standard description of how evidence-based paradigm change is supposed to work. Distortion implies evidence being misrepresented, suppression implies it being hidden, and fabrication implies inventing evidence—all of which would undermine the scientific process being described rather than represent the naïve but legitimate model."
+}

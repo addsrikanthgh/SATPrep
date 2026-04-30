@@ -1,0 +1,16 @@
+{
+  "id": "q_321",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The committee has reviewed all the submitted proposals and _______  its decision to fund three of the seven projects presented.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "announced",
+    "B": "have announced",
+    "C": "are announcing",
+    "D": "were announcing"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'the committee,' a collective noun that takes a singular verb in American English. 'Has reviewed' (earlier in the sentence) is singular past perfect, and the parallel verb completing the second clause should also be singular simple past: 'announced' (A). 'Have announced' (B) is plural present perfect—incorrect agreement and tense. 'Are announcing' (C) is plural present progressive—incorrect agreement and tense. 'Were announcing' (D) is plural past progressive—incorrect agreement."
+}

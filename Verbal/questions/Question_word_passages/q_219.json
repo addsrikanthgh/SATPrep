@@ -1,0 +1,16 @@
+{
+  "id": "q_219",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A geriatric study followed 1,600 adults over age 65 for 8 years, assessing objectively measured sleep quality (on a validated index, with higher scores indicating better sleep) and scores on a standardized cognitive function test. Participants in the lowest sleep quality quartile (scores 0–25) showed an average annual cognitive decline of 4.8 points. The second quartile (26–50) showed a decline of 3.1 points per year. The third quartile (51–75) showed a decline of 1.7 points per year. The highest sleep quality quartile (76–100) showed a decline of 0.9 points per year. Among participants taking sleep medications, decline rates were elevated within every sleep quality quartile by an average of 0.6 points per year.",
+  "question": "A neurologist claims that improving sleep quality may slow cognitive decline in older adults, but that the benefit could be partially offset by sleep medication use. Which data from the study most directly supports both parts of this claim?",
+  "choices": {
+    "A": "The lowest sleep quality quartile showed the fastest cognitive decline at 4.8 points per year, while the highest quartile showed the slowest at 0.9 points per year.",
+    "B": "The progressive decline in cognitive decline rates across sleep quality quartiles (4.8, 3.1, 1.7, and 0.9 points per year) and the elevation of decline rates by 0.6 points per year in medication users across all quartiles together support both the protective effect of sleep quality and the offsetting effect of medication.",
+    "C": "Among participants taking sleep medications, cognitive decline rates were elevated by an average of 0.6 points per year.",
+    "D": "The cognitive decline rate in the highest sleep quality quartile (0.9 points per year) was more than five times slower than in the lowest quartile (4.8 points per year)."
+  },
+  "correct_answer": "B",
+  "explanation": "The neurologist's claim has two components: (1) better sleep quality is associated with slower cognitive decline, and (2) sleep medication use partially offsets this benefit. B is the only choice that addresses both—it cites the declining rate pattern across all four sleep quality quartiles (supporting part 1) AND the consistent 0.6-point elevation in decline among medication users within every quartile (supporting part 2). A and D address only part 1 (the sleep quality–cognitive decline relationship) with no mention of medication effects. C addresses only part 2 (the medication offset) without establishing the sleep quality–cognitive decline pattern."
+}

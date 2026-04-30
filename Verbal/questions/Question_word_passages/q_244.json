@@ -1,0 +1,16 @@
+{
+  "id": "q_244",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The report, which was commissioned by the city council, recommends expanding the public transit network; however, it does not specify a funding source.",
+  "question": "Which choice correctly explains the punctuation in the sentence above?",
+  "choices": {
+    "A": "The semicolon before 'however' is incorrect; 'however' is a coordinating conjunction and should be preceded only by a comma.",
+    "B": "The comma after 'council' should be removed because the relative clause 'which was commissioned by the city council' is essential to identifying which report is being discussed.",
+    "C": "The semicolon before 'however' and the comma after it are both correct: the semicolon joins two independent clauses, and 'however' is a conjunctive adverb that requires a comma after it when used in this position.",
+    "D": "The commas around 'which was commissioned by the city council' are unnecessary because the clause provides new information rather than modifying 'report.'"
+  },
+  "correct_answer": "C",
+  "explanation": "When a conjunctive adverb like 'however,' 'therefore,' or 'moreover' is used to join two independent clauses, it must be preceded by a semicolon (which separates the clauses) and followed by a comma (which sets the adverb off from the second clause). The construction here—'; however,'—is the standard correct form. C accurately explains both punctuation marks. A incorrectly calls 'however' a coordinating conjunction; it is a conjunctive adverb, which requires semicolon–comma framing when joining clauses. B is incorrect because 'which was commissioned by the city council' is a nonessential (nonrestrictive) relative clause—it adds information about a report already identified—and nonessential clauses are correctly set off by commas. D mischaracterizes the clause; providing additional information is precisely the function of a nonessential clause."
+}

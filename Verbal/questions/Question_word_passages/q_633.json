@@ -1,0 +1,16 @@
+{
+  "id": "q_633",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "hard",
+  "passage": "The novelist was deliberately _______ about the ending, leaving the central question—whether the protagonist had truly reformed or was merely performing redemption for an audience—unresolved, trusting readers to make their own judgments.",
+  "question": "Which word best fills the blank in context?",
+  "choices": {
+    "A": "equivocal",
+    "B": "didactic",
+    "C": "conclusive",
+    "D": "moralizing"
+  },
+  "correct_answer": "A",
+  "explanation": "'Equivocal' means deliberately ambiguous or open to more than one interpretation—precisely what the passage describes: leaving the central question unresolved for readers to interpret. This is contrasted with the idea of providing a definitive answer. Didactic (intended to teach a moral lesson) is the opposite of trusting readers to decide—it implies authorial guidance. Conclusive (providing a definitive answer) directly contradicts 'unresolved.' Moralizing (making moral judgments) similarly contradicts leaving things open."
+}

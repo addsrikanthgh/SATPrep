@@ -1,0 +1,16 @@
+{
+  "id": "q_187",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The delegation submitted four recommendations to the council: first, that the treaty be renegotiated; second, that inspections be conducted quarterly; third, that penalties for non-compliance be strengthened; and fourth, that an independent arbitration panel be established.",
+  "question": "Which choice correctly explains the punctuation of the sentence above?",
+  "choices": {
+    "A": "The semicolons between the four recommendations should be replaced with commas, since each recommendation is a short phrase that does not require a stronger separator.",
+    "B": "The colon after 'council' is incorrect because a colon must be followed immediately by a noun phrase or a quotation, not a list of clauses.",
+    "C": "The semicolons correctly function as list separators between items that are themselves full clauses, preventing ambiguity that would arise from using commas within a list of clauses.",
+    "D": "The semicolons are unnecessary because none of the individual recommendations contains internal commas."
+  },
+  "correct_answer": "C",
+  "explanation": "Each of the four recommendations is a full dependent clause ('that the treaty be renegotiated,' etc.). When list items are clauses—rather than simple noun phrases—semicolons are the appropriate separator to clearly distinguish the boundaries between items and prevent run-on confusion. C accurately describes this function. A incorrectly suggests that only 'short phrases' require commas; the issue is that full clauses are more clearly separated by semicolons. B is incorrect; a colon may correctly introduce a list of clauses following a complete clause, which is what occurs here ('The delegation submitted four recommendations to the council' is a complete clause). D is incorrect; semicolons are preferred for lists of clauses regardless of whether internal commas are present."
+}

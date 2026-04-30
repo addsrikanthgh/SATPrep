@@ -1,0 +1,16 @@
+{
+  "id": "q_693",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "Agroforestry—the intentional integration of trees and shrubs into crop and livestock systems—has attracted growing interest as an approach that can simultaneously address food security, climate adaptation, and biodiversity conservation. Trees in agricultural landscapes provide shade that moderates soil and air temperature, root systems that reduce erosion and improve water infiltration, and nitrogen-fixing species that reduce fertilizer requirements. Economically, diversified agroforestry systems can reduce the volatility of farm income by providing multiple revenue streams that do not all peak or fail simultaneously. Critics, however, note that agroforestry requires long planning horizons and significant up-front investment in knowledge and labor, and that smallholder farmers in low-income countries—often the primary target of agroforestry promotion programs—may lack the resources or tenure security needed to make the necessary long-term commitments.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Agroforestry offers multiple ecological and economic benefits, but barriers related to resources and planning may limit its adoption by the smallholder farmers it is intended to help.",
+    "B": "Agroforestry is superior to conventional agriculture in every measurable dimension and should be adopted universally as a replacement for monoculture farming.",
+    "C": "The primary benefit of agroforestry is economic, since diversified revenue streams protect farmers from market volatility more effectively than any other agricultural approach.",
+    "D": "Because agroforestry requires long planning horizons, it is only suitable for large commercial farms with the capital to sustain multi-year projects."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage presents multiple benefits of agroforestry (ecological, economic) and then raises the critics' concern that smallholder farmers—the intended beneficiaries—may face barriers to adoption. A captures both sides: the benefits and the practical barriers. B is extreme ('superior in every dimension,' 'should be adopted universally')—the passage's measured tone and inclusion of criticism does not support this. C is too narrow; the passage lists ecological benefits alongside economic ones and doesn't rank them. D misrepresents the critics' point; they note planning and resource challenges for smallholders, but the passage does not say agroforestry is 'only suitable' for large farms."
+}

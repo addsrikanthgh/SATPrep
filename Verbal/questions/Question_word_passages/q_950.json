@@ -1,0 +1,16 @@
+{
+  "id": "q_950",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The Great Pacific Garbage Patch is not a dense island of trash but a diffuse area in the North Pacific Ocean where ocean currents concentrate plastic debris. Much of the plastic is in the form of microplastics—small fragments invisible to the naked eye—rather than large identifiable objects. The patch is difficult to clean up because the plastic is dispersed over millions of square kilometers of open ocean and is mixed throughout the water column, not just floating on the surface. Marine organisms ingest microplastics, and the particles have been detected in fish consumed by humans.",
+  "question": "Based on the passage, what can most reasonably be inferred about public perceptions of the Great Pacific Garbage Patch?",
+  "choices": {
+    "A": "The public likely has an accurate picture of the Garbage Patch as a diffuse field of microplastics rather than a visible island of trash.",
+    "B": "People may imagine the Garbage Patch as a solid, visible mass of trash floating on the ocean, when in reality much of it consists of invisible microplastic fragments dispersed through the water.",
+    "C": "The Great Pacific Garbage Patch is too small to attract public attention, as it covers only a small area of the Pacific Ocean.",
+    "D": "Because the plastic in the Garbage Patch is invisible, it poses no risk to marine organisms."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage takes care to explain that the Garbage Patch is 'not a dense island of trash'—implying that this is a common misconception to be corrected. It then explains that most plastic is in the form of microplastics invisible to the naked eye. This implies that the general public likely imagines a visible island of trash (the misconception the passage corrects), whereas the reality is a diffuse field of invisible microplastics. B correctly identifies this inference about public perception. A is the opposite—the passage's correction implies most people do not have an accurate picture. C contradicts the passage, which describes a patch covering millions of square kilometers. D contradicts the passage, which states marine organisms ingest microplastics."
+}

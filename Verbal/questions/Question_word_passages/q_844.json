@@ -1,0 +1,16 @@
+{
+  "id": "q_844",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The company's three primary products—industrial sensors, data analytics software, and remote monitoring systems—are sold exclusively to clients in the energy sector ______ a market that has grown substantially over the past decade.",
+  "question": "Which choice correctly punctuates the appositive at the end of the sentence?",
+  "choices": {
+    "A": "are sold exclusively to clients in the energy sector, a market that has grown substantially over the past decade.",
+    "B": "are sold exclusively to clients in the energy sector: a market that has grown substantially over the past decade.",
+    "C": "are sold exclusively to clients in the energy sector; a market that has grown substantially over the past decade.",
+    "D": "are sold exclusively to clients in the energy sector—a market that has grown substantially over the past decade."
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'a market that has grown substantially over the past decade' is a nonrestrictive appositive renaming 'the energy sector.' At the end of a sentence, a nonrestrictive appositive is typically set off by a comma: '...in the energy sector, a market that has...' A correctly uses a comma. B uses a colon, which introduces an explanation or list—the phrase is a renaming appositive, not an explanation. C uses a semicolon, which would require two independent clauses, but 'a market that...' is not an independent clause. D uses an em dash; while em dashes can set off appositives, the sentence already contains paired em dashes around the list ('—industrial sensors...systems—'), and adding a third em dash would create visual inconsistency and potential ambiguity. A comma is the correct and unambiguous choice."
+}

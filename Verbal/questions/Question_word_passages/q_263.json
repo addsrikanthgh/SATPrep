@@ -1,0 +1,16 @@
+{
+  "id": "q_263",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "The mantis shrimp possesses sixteen types of photoreceptors in its eyes, compared to the three that humans have. This extraordinary visual apparatus allows it to detect ultraviolet, visible, and polarized light simultaneously. Researchers initially assumed that having so many photoreceptors would give mantis shrimp superior color discrimination, but experiments revealed something unexpected: mantis shrimp are actually worse at distinguishing between similar colors than humans. Their visual system appears to work not by comparing signals from different receptors—as human color vision does—but by using each receptor type as an independent filter, allowing for rapid classification of objects rather than fine color analysis.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The mantis shrimp's sixteen photoreceptor types give it the most sophisticated color discrimination of any animal on Earth.",
+    "B": "Despite having far more photoreceptors than humans, the mantis shrimp uses its visual system for rapid object classification rather than fine color discrimination, contrary to initial expectations.",
+    "C": "Researchers have determined that the number of photoreceptors in an animal's eye does not affect its visual capabilities.",
+    "D": "Human color vision is superior to that of mantis shrimp in all measurable respects."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents three key ideas: the mantis shrimp has many more photoreceptors than humans; initial expectations of superior color discrimination turned out to be wrong; and the actual function of the visual system is rapid classification rather than fine color analysis. B captures all three points and the element of surprise ('contrary to initial expectations'). A states the opposite of what the passage finds—mantis shrimp are actually worse at color discrimination than humans. C overgeneralizes; the passage describes one case, not a universal principle. D is an overstatement—the passage finds humans better at color discrimination but does not claim human vision is superior in all measurable respects."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "q_784",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "While researching a topic, a student has taken the following notes:\n- The Voting Rights Act of 1965 (VRA) prohibited discriminatory voting practices and authorized federal oversight of elections in states with a history of voter suppression.\n- The act significantly increased Black voter registration in Southern states within the first few years of passage.\n- In Shelby County v. Holder (2013), the Supreme Court struck down the VRA's coverage formula, effectively eliminating federal preclearance requirements.\n- Following the 2013 ruling, several states enacted new voting restrictions, including stricter ID requirements and reduced polling hours.\n- Proponents of the restrictions argue they prevent voter fraud; critics argue they disproportionately burden minority voters.\n\nThe student wants to describe a cause-and-effect relationship between the Shelby County decision and subsequent state actions. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "After the Supreme Court eliminated the VRA's preclearance requirements in Shelby County v. Holder (2013), several states enacted stricter voting restrictions, including tighter ID requirements and reduced polling hours.",
+    "B": "The Voting Rights Act of 1965 prohibited discriminatory voting practices and significantly increased Black voter registration in Southern states.",
+    "C": "Proponents of the new voting restrictions argue they prevent voter fraud, while critics argue they disproportionately burden minority voters.",
+    "D": "The Voting Rights Act of 1965 authorized federal oversight of elections in states with a history of voter suppression."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to describe a cause-and-effect relationship between the Shelby County decision and subsequent state actions. A directly establishes the cause (elimination of preclearance) and effect (states enacted stricter voting restrictions) with specific examples. B describes the VRA's original passage and early success—the historical background, not the cause-effect chain requested. C presents the debate over new restrictions without establishing the causal link to the Shelby County ruling. D describes one element of the VRA's original provisions—again, historical background rather than the requested cause-effect relationship."
+}

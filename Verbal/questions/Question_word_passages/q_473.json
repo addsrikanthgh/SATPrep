@@ -1,0 +1,16 @@
+{
+  "id": "q_473",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Many seabird species are highly sensitive to ocean surface temperatures because their prey fish aggregate near thermal boundaries in the water. When ocean temperatures rise, these thermal boundaries shift, and the fish move with them. _______, breeding colonies of seabirds have been recorded abandoning traditional nesting sites and relocating hundreds of miles to follow the shifting prey distribution.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Instead",
+    "B": "As a result",
+    "C": "Nevertheless",
+    "D": "Similarly"
+  },
+  "correct_answer": "B",
+  "explanation": "'As a result' correctly signals that the third sentence describes the behavioral consequence (seabirds relocating) of the chain of causes laid out in the first two sentences (rising temperatures → fish moving). This is a causal chain: temperature rise causes fish movement causes seabird relocation. 'Instead' implies the third sentence describes an alternative to what was described—seabirds relocating is not an alternative but a consequence. 'Nevertheless' implies the relocation occurs despite the fish movement, which contradicts the logic. 'Similarly' implies a parallel example, but the third sentence is a result, not a comparison."
+}

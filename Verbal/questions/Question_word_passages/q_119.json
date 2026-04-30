@@ -1,0 +1,16 @@
+{
+  "id": "q_119",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Before Gutenberg's printing press, the reproduction of texts was a slow, expensive process controlled almost entirely by monasteries and cathedral schools. A single handwritten copy of the Bible might take a monk years to complete and cost as much as a modest house. By 1500, European presses had produced more than twenty million books, making printed materials available to literate urban populations at a fraction of their previous cost. Martin Luther's Ninety-Five Theses, posted in 1517, were printed and distributed across Germany within weeks.",
+  "question": "Which conclusion is most directly supported by the passage?",
+  "choices": {
+    "A": "The printing press was the primary cause of the Protestant Reformation, without which Luther's challenge to the Church would have failed.",
+    "B": "The rapid distribution of Luther's Ninety-Five Theses suggests that the printing press enabled his ideas to reach a broad audience far more quickly than would have been possible before its invention.",
+    "C": "Most Europeans were literate by 1500 and therefore capable of reading and responding to printed religious arguments.",
+    "D": "Monasteries lost their authority over religious life once the printing press made it possible for individuals to read the Bible independently."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage establishes that the printing press dramatically reduced the cost and time of text distribution, then notes that Luther's Theses spread across Germany within weeks. The inference in B—that this speed helped Luther's ideas reach a broad audience—follows directly from these two points. A overclaims by calling the press 'the primary cause' of the Reformation, a causal argument the passage does not make. C misreads the passage, which specifies printed materials reached 'literate urban populations,' not that most Europeans were literate. D introduces a conclusion about monastic authority that the passage never supports."
+}

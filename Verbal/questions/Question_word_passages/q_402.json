@@ -1,0 +1,16 @@
+{
+  "id": "q_402",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Researchers studying urban heat islands measured surface temperatures across 40 cities of varying sizes in the continental United States during July. They found that cities with more than 500,000 residents had an average surface temperature 4.7°F higher than surrounding rural areas, while cities with fewer than 100,000 residents showed an average difference of only 1.9°F. The researchers also found that cities with urban tree canopy coverage exceeding 25% of their area showed heat island effects roughly 30% smaller than cities of similar size with less than 10% canopy coverage.",
+  "question": "A city planner argues that expanding tree canopy is more effective at reducing urban heat than managing city population size. Which data from the passage best supports this argument?",
+  "choices": {
+    "A": "Cities with canopy coverage above 25% showed heat island effects 30% smaller than similar-sized cities with less than 10% coverage.",
+    "B": "Large cities (500,000+ residents) showed surface temperatures 4.7°F above rural surroundings.",
+    "C": "The study measured temperatures across 40 cities during July.",
+    "D": "Small cities showed an average heat island difference of only 1.9°F."
+  },
+  "correct_answer": "A",
+  "explanation": "A provides direct quantitative evidence that canopy coverage—a manageable policy variable—produces a measurable 30% reduction in heat island effect even within the same population-size category, supporting the claim that canopy matters more than population size. B shows the population-size effect but actually supports the alternative view (population size matters). C describes methodology and provides no evidence for or against either position. D shows the small-city effect, which is a population-size result and also does not directly compare canopy vs. population as policy levers."
+}

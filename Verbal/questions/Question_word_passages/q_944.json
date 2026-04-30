@@ -1,0 +1,16 @@
+{
+  "id": "q_944",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Unlike bones, which preserve well in archaeological sites over thousands of years, soft tissue—muscle, skin, and organs—decomposes quickly under most conditions. Exceptional preservation occurs in specific environments: extremely cold temperatures (permafrost), highly acidic bog water, extreme aridity, or submersion in oxygen-depleted anaerobic conditions. Discoveries of soft tissue in these settings have provided unprecedented insights into the anatomy, diet, and health of ancient individuals in ways that skeletal remains alone cannot.",
+  "question": "Based on the passage, what can most reasonably be inferred about what archaeologists know about ancient human anatomy?",
+  "choices": {
+    "A": "Archaeologists have a comprehensive understanding of ancient human anatomy because bones preserve well.",
+    "B": "Exceptional preservation environments, though rare, have contributed disproportionately to our understanding of ancient anatomy beyond what skeletons reveal.",
+    "C": "Cold temperatures are the only environmental condition that can preserve soft tissue from ancient periods.",
+    "D": "Soft tissue preservation is now common due to advances in excavation and conservation technology."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that soft tissue preservation requires rare exceptional conditions, but when it does occur, it provides 'unprecedented insights' into anatomy 'in ways that skeletal remains alone cannot.' This implies that these rare finds have contributed uniquely and disproportionately to anatomical knowledge beyond what the more common skeletal record reveals. B is the most reasonable inference. A overstates—the passage implies skeletal remains alone have significant limits. C contradicts the passage, which lists four preservation conditions including cold, acid, aridity, and anaerobic conditions. D is not supported—the passage attributes preservation to environmental conditions, not technology."
+}

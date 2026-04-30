@@ -1,0 +1,16 @@
+{
+  "id": "q_531",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "By the time the documentary premiered at the festival, the filmmakers _______ editing the final cut for nearly six months.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "had been",
+    "C": "have been",
+    "D": "are"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence establishes a past reference point ('By the time the documentary premiered') and describes an action that was ongoing up to that past reference point. This calls for the past perfect progressive tense: 'had been editing.' B is correct. A ('were') is simple past progressive and does not correctly convey duration up to the past reference point. C ('have been') is present perfect progressive, which is inconsistent with the past reference point ('premiered'). D ('are') is simple present tense, which is inconsistent with the past context."
+}

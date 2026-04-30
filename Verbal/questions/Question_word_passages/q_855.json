@@ -1,0 +1,16 @@
+{
+  "id": "q_855",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The childrens' museum opened a new interactive wing focused on environmental science, drawing record attendance in its first month.",
+  "question": "Which choice corrects the punctuation error in the underlined phrase?",
+  "choices": {
+    "A": "The childrens' museum",
+    "B": "The children's museum",
+    "C": "The childrens museum",
+    "D": "The childrens's museum"
+  },
+  "correct_answer": "B",
+  "explanation": "'Children' is an irregular plural noun that does not end in 's.' For irregular plurals that do not end in 's,' the possessive is formed by adding 's: children's. B is correct. A ('childrens'') incorrectly treats 'children' as a regular plural ending in 's' and adds only an apostrophe—'childrens' is not a word. C omits the apostrophe entirely. D ('childrens's') invents a nonexistent form."
+}

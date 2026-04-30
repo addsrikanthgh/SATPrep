@@ -1,0 +1,16 @@
+{
+  "id": "q_681",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Coral bleaching occurs when water temperatures rise above the range that coral-dwelling algae can tolerate. The algae, called zooxanthellae, provide corals with up to 90% of their energy through photosynthesis. When temperatures spike, corals expel the algae, turning white. Without the algae, corals can survive for a time on stored nutrients, but if normal temperatures do not return within weeks, the corals die. Bleaching events have increased dramatically in frequency and severity since the 1980s, with the Great Barrier Reef experiencing mass bleaching events in 2016, 2017, 2020, and 2022.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Coral bleaching is a temperature-driven process in which corals lose their algae, and repeated bleaching events have become an increasingly severe threat to reef ecosystems.",
+    "B": "Zooxanthellae algae are the primary energy source for corals and are essential to the health of reef systems worldwide.",
+    "C": "The Great Barrier Reef has been more severely affected by coral bleaching than any other reef system in the world.",
+    "D": "Rising ocean temperatures caused by climate change have made coral survival impossible in most regions of the Pacific Ocean."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explains the mechanism of bleaching (temperature rise causes algae expulsion, which can kill corals) and notes the increasing frequency of bleaching events, including at the Great Barrier Reef. A captures both the explanation of the process and the trend of increasing severity, making it the most complete summary of the main idea. B focuses only on the algae's role and omits the trend of bleaching events. C overstates the comparison with other reefs—the passage does not claim the Great Barrier Reef is most affected worldwide. D is an unsupported extreme claim; the passage says corals can survive if temperatures return to normal."
+}

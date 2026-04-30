@@ -1,0 +1,16 @@
+{
+  "id": "q_188",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The success of the abolitionist movement in Britain owed much to its effective marshaling of public sentiment. Leaders such as William Wilberforce understood that legal change required not merely parliamentary arithmetic but a transformation of moral imagination on a national scale. Pamphlets, sermons, and personal testimonies of formerly enslaved people were deployed to render the abstract suffering of distant victims vivid and proximate to audiences who had never encountered slavery directly.",
+  "question": "As used in the passage, \"proximate\" most nearly means",
+  "choices": {
+    "A": "exaggerated",
+    "B": "justifiable",
+    "C": "immediate",
+    "D": "documented"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage says pamphlets and testimonies were used to make distant suffering 'vivid and proximate'—the goal being to close the psychological and emotional distance between British audiences and the reality of slavery. 'Proximate' in this context means brought close, made to feel near or immediate. 'Immediate' (C) captures this sense of closeness and directness. 'Exaggerated' (A) implies distortion or amplification, which the passage does not suggest—the goal was authentic vividness, not exaggeration. 'Justifiable' (B) means defensible or warranted, which is irrelevant to the concept of psychological distance. 'Documented' (D) implies providing written records or proof, which misses the emotional proximity the sentence is describing."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_653",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The mountain summit was shrouded in cloud _______ the hikers decided to turn back before reaching the top.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "cloud, so",
+    "B": "cloud; so",
+    "C": "cloud so",
+    "D": "cloud: so"
+  },
+  "correct_answer": "A",
+  "explanation": "Two independent clauses joined by a coordinating conjunction (here, 'so') require a comma before the conjunction. 'The mountain summit was shrouded in cloud' and 'the hikers decided to turn back before reaching the top' are both independent clauses. A correctly inserts a comma before 'so.' A semicolon before a coordinating conjunction (B) is nonstandard—semicolons are used without a coordinating conjunction. No punctuation (C) creates a run-on. A colon before 'so' (D) is incorrect."
+}

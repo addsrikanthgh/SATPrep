@@ -1,0 +1,16 @@
+{
+  "id": "q_801",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A student argues that urbanization does not necessarily reduce a city's biodiversity when green spaces are deliberately integrated into urban planning. The student cites a study showing that cities with extensive park networks and greenway corridors sustained bird species richness comparable to nearby rural areas.",
+  "question": "Which quotation from a wildlife biology report would most directly support the student's argument?",
+  "choices": {
+    "A": "'Cities that preserved at least 20% of their land area as connected green space maintained bird diversity levels within 10% of adjacent undeveloped land.'",
+    "B": "'Urban bird populations are dominated by a small number of generalist species adapted to human-modified environments, while specialist species requiring forest interiors are largely absent.'",
+    "C": "'The primary driver of biodiversity loss globally is habitat destruction, which is accelerated by agricultural expansion rather than urban growth.'",
+    "D": "'Bird surveys conducted in downtown cores recorded the lowest species richness of any land-use category studied.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The student argues that deliberate green space integration can preserve biodiversity in cities. A directly supports this by showing that cities with sufficient connected green space maintained bird diversity comparable to undeveloped land—exactly the claim the student makes. B undermines the argument by suggesting urban bird diversity is limited to generalists, not comparable to rural richness. C shifts the focus to agriculture and does not support the urban planning argument. D provides counter-evidence by showing low biodiversity in urban cores."
+}

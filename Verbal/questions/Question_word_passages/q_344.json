@@ -1,0 +1,16 @@
+{
+  "id": "q_344",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The Columbian Exchange—the transfer of plants, animals, diseases, and people between the Americas and the Old World following Columbus's voyages—had consequences that were not symmetrical. The Americas received horses, cattle, smallpox, measles, and influenza. The Old World received maize, potatoes, tomatoes, cacao, and tobacco. Within a century, the potato and maize transformed diets across Europe, Africa, and Asia, supporting population growth in regions where caloric agriculture had previously been limited. The diseases, by contrast, killed an estimated 50 to 90 percent of the indigenous population of the Americas—demographic losses that reshaped the entire social and political landscape of the hemisphere.",
+  "question": "Based on the passage, what can most reasonably be inferred about the long-term demographic effects of the Columbian Exchange?",
+  "choices": {
+    "A": "The population losses in the Americas were offset by population gains in the Old World driven by new crops, resulting in an approximately equal global demographic impact.",
+    "B": "While calorie-rich American crops contributed to population growth in the Old World, the diseases introduced into the Americas caused catastrophic population collapse among indigenous peoples.",
+    "C": "The primary demographic effect of the exchange was the migration of Europeans to fill the population gap left by disease deaths in the Americas.",
+    "D": "The Columbian Exchange had equal devastating effects on both the Americas and the Old World."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage directly describes population growth in the Old World (driven by maize and potatoes) and catastrophic population collapse in the Americas (50–90% from disease). B synthesizes these two contrasting demographic effects accurately. A introduces the idea of demographic 'offset' or balance between the two regions, which the passage does not suggest—the two effects are described as asymmetric, not canceling. C introduces a claim about European migration that the passage does not make. D directly contradicts the passage, which emphasizes the asymmetry ('not symmetrical') and describes the Old World effects as broadly positive."
+}

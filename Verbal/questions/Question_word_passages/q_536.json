@@ -1,0 +1,16 @@
+{
+  "id": "q_536",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Each of the students _______ expected to complete the reading before the first class session.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "'Each' is an indefinite pronoun that is always singular in standard English, regardless of the prepositional phrase that follows it ('of the students'). The verb must therefore be singular. B ('is') is correct. A ('are') and C ('were') are plural. D ('have been') is plural and shifts tense unnecessarily."
+}

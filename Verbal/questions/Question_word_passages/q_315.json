@@ -1,0 +1,16 @@
+{
+  "id": "q_315",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1:\nThe sociologist C. Wright Mills introduced the concept of the 'sociological imagination'—the ability to see the relationship between individual experience and the larger social and historical forces that shape it. A person who loses their job during a mass recession, Mills argued, experiences a private trouble; but unemployment affecting millions during an economic collapse is a public issue, and understanding it requires examining the structures of the economy, not just the decisions of individuals.\n\nText 2:\nThe psychologist Martin Seligman's research on 'learned helplessness' and later 'learned optimism' focused on how individuals' explanatory styles—the way they habitually explain events—affect their resilience, productivity, and mental health. People who attribute negative events to permanent, pervasive, and personal causes tend toward depression and passivity; those who attribute them to temporary, specific, and external causes tend toward greater resilience. Seligman argued that individuals can learn to adopt more optimistic explanatory styles through cognitive interventions.",
+  "question": "What is a key difference in the focus of Mills (Text 1) and Seligman (Text 2)?",
+  "choices": {
+    "A": "Mills focuses on how social and historical structures shape individual experience, while Seligman focuses on how individuals' internal explanatory styles shape their responses to adversity.",
+    "B": "Both Mills and Seligman argue that individual psychology is the primary driver of social outcomes.",
+    "C": "Mills argues that individual decisions are more important than social structures, while Seligman argues that social structures determine individual psychology.",
+    "D": "Mills and Seligman agree that cognitive interventions are the best approach to addressing unemployment and economic hardship."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 (Mills) directs attention upward and outward—from individual troubles to the social structures and historical forces producing them. Text 2 (Seligman) directs attention inward—to how individuals' internal explanatory habits shape their responses, and how cognitive interventions can change those habits. A accurately captures this contrast between structural/social focus and individual/psychological focus. B reverses Mills's position—he explicitly argues individual explanations are insufficient and social structures must be examined. C reverses both positions. D attributes to Mills a claim about cognitive interventions he does not make—his work is about sociological analysis, not therapeutic intervention."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_866",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Physical exercise has been shown to improve cardiovascular health, reducing the risk of heart disease and stroke. ______, regular physical activity is associated with improved mental health outcomes, including reduced rates of depression and anxiety.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "In contrast",
+    "B": "Moreover",
+    "C": "Therefore",
+    "D": "On the other hand"
+  },
+  "correct_answer": "B",
+  "explanation": "'Moreover' adds a further point in the same direction—the second sentence adds another benefit of exercise beyond the cardiovascular benefits already mentioned. 'In contrast' signals an opposing idea, but the second sentence supports, rather than opposes, the first. 'Therefore' implies the second is a logical result of the first, but mental health benefits are additional benefits, not consequences of cardiovascular benefits. 'On the other hand' signals a contrast or alternative perspective, not an additional supporting point."
+}

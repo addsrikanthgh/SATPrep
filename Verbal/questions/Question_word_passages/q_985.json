@@ -1,0 +1,16 @@
+{
+  "id": "q_985",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is researching the history of public libraries in the United States and has taken the following notes:\n- The Boston Public Library, founded in 1848, is generally considered the first large publicly funded municipal library in the United States.\n- The library was established on the principle that all citizens should have free access to knowledge, regardless of income.\n- Andrew Carnegie funded the construction of 2,509 library buildings worldwide between 1883 and 1929, including 1,679 in the United States.\n- Carnegie believed libraries were opportunities for self-improvement; he described them as 'the best gift' a wealthy person could give a community.\n- Today, American public libraries serve over 300 million visits per year and provide free internet access, job training resources, and social services in addition to books.",
+  "question": "The student wants to highlight the democratic founding principle of public libraries in the United States. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Andrew Carnegie funded over 1,600 library buildings in the United States between 1883 and 1929, believing libraries offered communities the best opportunity for self-improvement.",
+    "B": "The Boston Public Library, established in 1848, was founded on the democratic principle that all citizens—regardless of income—should have free access to knowledge.",
+    "C": "American public libraries today serve more than 300 million visits annually, offering not only books but also free internet access, job training, and social services.",
+    "D": "Public libraries have expanded their services significantly since the nineteenth century, when they were primarily collections of books available to local residents."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to highlight the democratic founding principle of public libraries. B directly uses the two relevant notes: the founding of the Boston Public Library and the specific principle—free access for all citizens regardless of income. This is the clearest and most direct statement of the democratic founding principle. A focuses on Carnegie's philanthropy and self-improvement philosophy, not the founding democratic principle. C describes contemporary services, not founding principles. D is vague and does not include any specific founding principle."
+}

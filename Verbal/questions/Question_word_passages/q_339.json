@@ -1,0 +1,16 @@
+{
+  "id": "q_339",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The technician who repaired the broken server and restored the lost files _______ praised publicly at the company's quarterly meeting.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "are",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject is 'The technician,' a singular noun. The relative clause 'who repaired the broken server and restored the lost files' adds information about the technician but does not make the subject plural. The sentence is in the past tense (the praise occurred at a past meeting). 'Was' (B) is singular past—correct. 'Were' (A) is plural past—incorrect. 'Are' (C) is present tense—incorrect. 'Have been' (D) is present perfect—incorrect tense."
+}

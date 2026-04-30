@@ -1,0 +1,16 @@
+{
+  "id": "q_873",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Traditional watercolor painting requires artists to work from light to dark, applying transparent washes and allowing each layer to dry before adding the next. ______, oil painting allows artists to work in any order, including adding light colors over dark ones, because oil pigments are opaque.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "Furthermore",
+    "B": "By contrast",
+    "C": "Therefore",
+    "D": "Subsequently"
+  },
+  "correct_answer": "B",
+  "explanation": "'By contrast' signals that the second sentence describes a situation that differs from the first—watercolor requires light-to-dark, while oil allows any order. The two sentences compare opposing characteristics of the two media. 'Furthermore' adds a complementary or additional point—the second sentence is not an additional feature of watercolor but a feature of a different medium that contrasts with it. 'Therefore' implies causation—oil painting's flexibility is not caused by watercolor's constraints. 'Subsequently' signals a time sequence, which is irrelevant."
+}

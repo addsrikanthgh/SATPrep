@@ -1,0 +1,16 @@
+{
+  "id": "q_252",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The physicist's most celebrated work, On the Dynamics of Moving Bodies, was published in 1905 alongside three other landmark papers, all of which appeared in the same volume of Annalen der Physik.",
+  "question": "Which choice correctly explains the punctuation of this sentence?",
+  "choices": {
+    "A": "The commas around 'On the Dynamics of Moving Bodies' are incorrect because titles of published works should be enclosed in quotation marks, not set off by commas.",
+    "B": "The commas around 'On the Dynamics of Moving Bodies' correctly set off a nonrestrictive appositive that identifies the physicist's most celebrated work.",
+    "C": "The comma after '1905' should be removed because no comma should separate a verb phrase from the conjunction 'alongside.'",
+    "D": "The commas around 'all of which appeared in the same volume of Annalen der Physik' indicate an essential clause and should be removed."
+  },
+  "correct_answer": "B",
+  "explanation": "The title 'On the Dynamics of Moving Bodies' is an appositive that renames 'most celebrated work.' Because the subject ('The physicist's most celebrated work') is already specific, the title adds explanatory rather than identifying information—making it nonrestrictive and requiring commas on both sides. B correctly identifies this as a nonrestrictive appositive. A confuses formatting conventions (italics or quotation marks for titles) with sentence-level punctuation rules; regardless of how a title is formatted, a nonrestrictive appositive is still set off by commas. C is incorrect; the comma after '1905' correctly sets off a participial phrase ('alongside three other landmark papers, all of which...'). D is incorrect; 'all of which appeared in the same volume of Annalen der Physik' is a nonrestrictive relative clause—it adds information about already-identified papers—and is correctly enclosed by commas."
+}

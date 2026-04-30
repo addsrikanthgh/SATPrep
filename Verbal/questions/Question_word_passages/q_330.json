@@ -1,0 +1,16 @@
+{
+  "id": "q_330",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "By the time the storm reached the coast, the evacuation team _______ more than four thousand residents to higher ground.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "moved",
+    "B": "has moved",
+    "C": "had moved",
+    "D": "was moving"
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence contains a time clause: 'By the time the storm reached the coast.' This construction ('by the time + simple past') signals a past action completed before another past action. The correct tense for the earlier-completed action is past perfect ('had moved'). 'Had moved' (C) correctly indicates that the evacuation was completed before the storm arrived. 'Moved' (A) is simple past, which does not signal the completed-before relationship. 'Has moved' (B) is present perfect—incorrect tense in a past-tense narrative. 'Was moving' (D) is past progressive, which implies the action was ongoing at the time the storm arrived—contradicting the 'by the time' construction, which implies completion."
+}

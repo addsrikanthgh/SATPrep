@@ -1,0 +1,16 @@
+{
+  "id": "q_703",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: The domestication of dogs from wolves began at least 15,000 years ago, making dogs the oldest domesticated animals. The process was likely gradual, with wolves that were less fearful of humans gaining access to food scraps near human settlements and gradually evolving into a distinct population. Over thousands of generations, these proto-dogs became increasingly attuned to human social cues.\n\nText 2: Dogs demonstrate a remarkable ability to follow human pointing gestures and gaze direction to locate hidden food—a skill that wolves, even when raised by humans from birth, perform far less reliably. Researchers have proposed that this sensitivity to human communicative cues may reflect a genetic change that occurred during domestication, suggesting that dogs are not simply tame wolves but represent a genuinely distinct behavioral phenotype.",
+  "question": "Which choice best describes how the information in Text 2 relates to Text 1?",
+  "choices": {
+    "A": "Text 2 provides evidence of a specific behavioral difference between dogs and wolves that supports Text 1's claim that domestication produced lasting changes in dogs.",
+    "B": "Text 2 contradicts Text 1 by showing that wolves can acquire the same social skills as dogs when raised in human environments.",
+    "C": "Text 2 focuses on a behavioral trait that is unrelated to the domestication process described in Text 1.",
+    "D": "Text 2 suggests that the timeline for dog domestication proposed in Text 1 is too recent by several thousand years."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 describes dog domestication as a gradual evolutionary process in which dogs became attuned to human social cues. Text 2 describes a specific, well-documented behavioral difference (following human pointing and gaze) that wolves lack even when raised by humans, and links it to genetic changes from domestication. Text 2 thus provides concrete evidence for the claim in Text 1 that dogs became uniquely attuned to humans through domestication. A accurately captures this supportive relationship. B directly contradicts Text 2, which says wolves raised by humans 'perform far less reliably.' C is incorrect—the social-cue sensitivity is directly related to the domestication process described in Text 1. D is not relevant—Text 2 makes no claims about the timeline of domestication."
+}

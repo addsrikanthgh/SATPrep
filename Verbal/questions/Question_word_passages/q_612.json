@@ -1,0 +1,16 @@
+{
+  "id": "q_612",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A researcher studying charter school outcomes argued that, on average, charter schools do not outperform traditional public schools when student socioeconomic backgrounds are properly controlled for. The researcher cited several large-scale studies showing that initial performance advantages for charter school students disappear once researchers account for the fact that charter students tend to come from more engaged, higher-motivated families.",
+  "question": "Which finding, if true, would most directly challenge the researcher's conclusion?",
+  "choices": {
+    "A": "A lottery-based study—in which researchers compared students who won spots in oversubscribed charter schools to equally motivated students who applied but lost the lottery—found significant and persistent academic gains for charter school attendees.",
+    "B": "Charter school teachers are, on average, less experienced than traditional public school teachers.",
+    "C": "The proportion of charter school students who qualify for free or reduced lunch is roughly similar to the proportion in traditional public schools.",
+    "D": "Charter schools spend, on average, slightly less per pupil than traditional public schools."
+  },
+  "correct_answer": "A",
+  "explanation": "The researcher's conclusion is that charter advantages disappear when controlling for family motivation. A directly challenges this using a lottery-based design—the gold standard for controlling for selection effects, since lottery losers are as motivated as lottery winners—yet still finds charter school gains. This means the gains cannot be attributed to family motivation. B might weaken charter quality claims but doesn't address the researcher's specific methodological argument. C addresses socioeconomic balance, not the motivation confound. D addresses funding, not the researcher's claim."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_893",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The gig economy—characterized by short-term contracts and freelance work rather than permanent employment—has grown substantially in recent decades, enabled by digital platforms that connect workers with customers. Proponents argue that gig work offers flexibility and autonomy that traditional employment does not, allowing workers to set their own hours and combine multiple income streams. Critics contend that gig workers lack the protections afforded to employees—including health insurance, unemployment benefits, minimum wage guarantees, and retirement contributions—and that the flexibility narrative often obscures the precarious conditions experienced by workers who depend on gig income for their primary livelihood. The legal status of gig workers—employee or independent contractor—remains actively contested in courts and legislatures across multiple countries.",
+  "question": "What is the main idea of the passage?",
+  "choices": {
+    "A": "Gig workers are consistently better off than traditional employees because of the flexibility and autonomy they enjoy.",
+    "B": "Digital platforms have made gig work the dominant form of employment in most developed economies.",
+    "C": "The gig economy offers flexibility but raises significant concerns about worker protections, and its legal implications remain unresolved.",
+    "D": "Governments should reclassify gig workers as employees to ensure they receive the same protections as traditional workers."
+  },
+  "correct_answer": "C",
+  "explanation": "C captures the passage's balanced structure: the growth and flexibility benefits (proponents' view), the worker protection concerns (critics' view), and the unresolved legal status. A presents only the proponents' view as the conclusion—the passage also presents significant counterarguments. B makes an unsupported comparative claim about dominance in developed economies. D is a policy recommendation not made in the passage, which presents the legal debate as ongoing rather than advocating a particular resolution."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_777",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The global garment industry is one of the most labor-intensive sectors in the world economy, employing approximately 75 million workers—the majority of them women—across South and Southeast Asia, sub-Saharan Africa, and Central America. Brands based in wealthy countries typically outsource production to factories in countries where wages are low and regulations are weak. This model has been criticized for perpetuating poverty wages and unsafe conditions: the 2013 Rana Plaza collapse in Bangladesh, which killed more than 1,100 garment workers, brought global attention to the human cost of cheap fashion. In response, some brands have adopted voluntary codes of conduct and third-party auditing. Critics argue, however, that voluntary measures are insufficient and that legally binding international standards are needed to hold brands accountable.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "It describes the structure of the global garment industry, identifies a major criticism of that structure, notes industry responses, and argues that those responses are inadequate.",
+    "B": "It argues that consumers are solely responsible for the poor conditions in garment factories because they demand cheap clothing.",
+    "C": "It compares the wages and working conditions of garment workers in Bangladesh with those in sub-Saharan Africa.",
+    "D": "It traces the history of the global garment industry from its origins in the nineteenth century to the present."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage follows a describe → criticize → respond → challenge-response structure: it describes the industry's model, criticizes it (via Rana Plaza), notes the industry's response (codes of conduct, auditing), and ends with critics calling those responses insufficient. A accurately captures this four-part structure. B attributes sole blame to consumers, which the passage does not do—it focuses on brands' outsourcing decisions and regulatory inadequacy. C describes a comparative analysis between specific countries, which the passage does not perform. D traces historical origins, which the passage does not address."
+}

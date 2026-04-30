@@ -1,0 +1,16 @@
+{
+  "id": "q_267",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "The history of musical notation is largely the history of successive attempts to capture in writing what resists writing. Pitch can be notated with reasonable precision; rhythm can be encoded in symbols; but dynamics, timbre, articulation, and the subtle variations in tempo that make a performance expressive remain only approximately notatable. Even the most detailed score is a set of instructions that performers are expected to interpret, not a recording of sound. This gap between notation and performance is not a deficiency to be eliminated but a generative space—the place where interpretation, tradition, and individual musical personality operate.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Musical notation is primarily a recording technology that has become increasingly accurate over centuries.",
+    "B": "Musical notation can encode pitch and rhythm with precision but is fundamentally unable to capture all aspects of sound.",
+    "C": "The gap between musical notation and performance is an inherent and productive feature of music rather than a flaw to be corrected.",
+    "D": "Performers who deviate from the written score are violating the composer's intentions."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage acknowledges notation's partial capacities but builds toward its main point: the gap between notation and performance is 'a generative space' where interpretation and musical personality operate—not a deficiency. C captures this positive reframing of the gap as the central idea. A mischaracterizes the passage, which describes notation as instructional rather than as a recording technology. B describes a supporting point (notation's limitations) but not the passage's ultimate conclusion, which reframes the gap as productive rather than merely problematic. D contradicts the passage, which says performers are 'expected to interpret' the score—implying interpretation is intended, not a violation."
+}

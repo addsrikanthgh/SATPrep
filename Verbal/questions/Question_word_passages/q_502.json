@@ -1,0 +1,16 @@
+{
+  "id": "q_502",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The city of Amsterdam's network of canals, constructed primarily in the seventeenth century, was an extraordinary feat of hydraulic engineering that enabled the city to expand onto reclaimed land. The canal ring allowed goods to be transported directly to warehouses by water, reducing the cost of moving cargo and making Amsterdam one of the world's great commercial centers during the Dutch Golden Age.\n\nText 2: While the canals undoubtedly facilitated trade, historians have questioned whether they alone account for Amsterdam's commercial dominance in the seventeenth century. The city's success depended equally on institutional innovations such as the establishment of the Amsterdam Exchange Bank in 1609, which provided stable currency and credit, and the Amsterdam stock exchange, one of the earliest in the world. Infrastructure enabled growth, but financial instruments made that growth transformative.",
+  "question": "Based on the texts, how do the two authors' views of Amsterdam's seventeenth-century success differ?",
+  "choices": {
+    "A": "Text 1 attributes Amsterdam's success primarily to canal infrastructure, while Text 2 argues that financial institutions were equally or more important.",
+    "B": "Text 1 dismisses the role of the canal system, while Text 2 credits the canals as the sole cause of Amsterdam's rise.",
+    "C": "Both texts agree that Amsterdam's success was primarily the result of military strength during the Dutch Golden Age.",
+    "D": "Text 2 argues that the canal network was not built until the eighteenth century, contradicting Text 1's timeline."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 focuses on the canals as the driver of Amsterdam's commercial success, while Text 2 explicitly argues that financial institutions (the Exchange Bank, the stock exchange) were equally important and that infrastructure alone does not explain the transformation. A accurately captures this contrast. B misrepresents Text 1 (which celebrates the canals) and reverses Text 2's position. C introduces military strength, which neither text mentions. D fabricates a timeline disagreement—Text 2 does not dispute when the canals were built."
+}

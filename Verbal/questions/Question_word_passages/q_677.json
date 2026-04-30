@@ -1,0 +1,16 @@
+{
+  "id": "q_677",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Research on narrative persuasion has found that people who become deeply absorbed in a fictional story often update their real-world beliefs to align with the story's perspective, even when the story contains factual inaccuracies. _______ factual corrections presented in dry, argumentative formats are frequently less effective at changing minds than vivid anecdotal stories, even when the evidence strongly favors the factual account.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "Along the same lines,",
+    "B": "On the other hand,",
+    "C": "For this reason,",
+    "D": "Nevertheless,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence establishes that narrative immersion can shape beliefs, even overriding accuracy. The second presents a parallel finding: factual corrections in argumentative format lose out to vivid anecdotes. Both sentences make the same broader point—narrative is more persuasive than factual argumentation. 'Along the same lines' (A) correctly signals that the second sentence extends the same pattern described in the first, adding a parallel finding. 'On the other hand' (B) signals contrast, but the two sentences are not contradictory. 'For this reason' (C) would imply the second sentence is a consequence of the first, but they are parallel findings from different contexts. 'Nevertheless' (D) implies the second finding holds despite the first, which misrepresents the relationship."
+}

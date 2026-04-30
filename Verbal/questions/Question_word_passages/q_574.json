@@ -1,0 +1,16 @@
+{
+  "id": "q_574",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Black holes are regions of space where gravity is so extreme that nothing—not even light—can escape. They form when massive stars collapse at the end of their lives under their own gravity. The boundary beyond which escape is impossible is called the event horizon. At the center of a black hole lies a singularity, a point where density becomes infinite and the known laws of physics break down. Despite their name and popular image as destructive cosmic vacuum cleaners, most black holes remain in place; it is only material that strays within the event horizon that is captured.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that black holes pose a danger to nearby star systems and that their formation should be studied for safety reasons",
+    "B": "explain what black holes are, how they form, and correct a common misconception about how they behave",
+    "C": "describe the mathematical equations that physicists use to model the interior of a black hole",
+    "D": "compare the size and mass of different categories of black holes"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage defines black holes, explains their formation, introduces key terms (event horizon, singularity), and closes by correcting the misconception that they are roaming 'vacuum cleaners.' B accurately captures this definitional, explanatory, and corrective structure. A is incorrect—no safety argument is made. C is incorrect—no mathematical equations are described. D is incorrect—no size/mass comparison of categories is presented."
+}

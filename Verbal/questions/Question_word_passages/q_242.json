@@ -1,0 +1,16 @@
+{
+  "id": "q_242",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The novelist's prose—spare, precise, and deliberately unsentimental—earned her a devoted following among readers who preferred substance over style.",
+  "question": "Which choice correctly explains the use of the dashes in this sentence?",
+  "choices": {
+    "A": "The dashes are incorrect; commas should be used to set off all appositives in formal writing.",
+    "B": "The dashes enclose a nonessential appositive phrase that elaborates on 'prose,' and their use is appropriate here because the enclosed phrase itself contains commas.",
+    "C": "The dashes indicate a strong pause before a concluding remark and should be replaced with a colon since only one dash can appear in a sentence.",
+    "D": "The dashes are unnecessary because the phrase 'spare, precise, and deliberately unsentimental' is essential to the sentence's meaning."
+  },
+  "correct_answer": "B",
+  "explanation": "When a nonessential appositive or parenthetical phrase contains internal commas, dashes—rather than commas—are the preferred enclosure to prevent ambiguity about where the phrase begins and ends. The phrase 'spare, precise, and deliberately unsentimental' is a comma-separated list, so enclosing it in dashes avoids confusion. B correctly explains this function. A is incorrect because dashes, commas, and parentheses are all valid ways to set off nonessential appositives; the choice among them depends on context and clarity. C is incorrect—a sentence may contain more than one em dash, and this is a standard paired-dash construction. D is incorrect because the phrase is nonessential (the core sentence 'The novelist's prose earned her a devoted following' is complete without it)."
+}

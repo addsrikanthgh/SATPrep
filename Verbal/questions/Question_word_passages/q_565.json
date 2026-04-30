@@ -1,0 +1,16 @@
+{
+  "id": "q_565",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Supporters of charter schools argue that they introduce market competition into public education, forcing traditional public schools to improve or lose students. They also highlight cases where individual charters—particularly those serving low-income urban students—have produced impressive academic outcomes. Critics counter that the evidence on charter schools in the aggregate is mixed: large-scale studies find that charters as a sector perform no better on average than traditional public schools, while also drawing resources and motivated families away from the schools that serve the remaining students. The debate has become so ideologically charged that policymakers on both sides often talk past each other, selectively citing evidence that supports their predetermined positions.",
+  "question": "How is the passage primarily organized?",
+  "choices": {
+    "A": "The passage argues in favor of charter schools by presenting evidence of their superior academic outcomes.",
+    "B": "The passage presents arguments on both sides of the charter school debate and concludes by noting the ideological polarization that impedes productive discussion.",
+    "C": "The passage presents a historical overview of how charter schools were first established and how they have evolved.",
+    "D": "The passage focuses primarily on explaining the funding mechanisms of charter schools and how they affect traditional public school budgets."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents supporters' arguments, then critics' arguments, then ends with a meta-observation about the debate's ideological polarization. B accurately captures this balanced, then analytical, structure. A is incorrect—the passage presents both sides, not just the pro-charter view. C is incorrect—no historical origin account is given. D is incorrect—funding mechanisms are mentioned briefly (resources drawn away) but are not the focus."
+}

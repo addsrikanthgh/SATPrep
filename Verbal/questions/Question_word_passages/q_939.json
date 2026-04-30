@@ -1,0 +1,16 @@
+{
+  "id": "q_939",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "Every student in the advanced mathematics course ______ required to submit a proof for each theorem covered in the unit.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "'Every' is a determiner that makes its noun phrase singular and requires a singular verb. 'Every student' is singular, requiring 'is.' 'Are' is plural. 'Were' is plural past tense. 'Have been' is plural present perfect. Even though 'students' as a class is being discussed, 'every student' grammatically requires a singular verb in Standard English."
+}

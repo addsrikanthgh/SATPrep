@@ -1,0 +1,16 @@
+{
+  "id": "q_821",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The committee's decision to postpone the vote was largely _______ by the unexpected revelation that two key pieces of evidence had been withheld from the initial deliberations.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "precipitated",
+    "B": "mitigated",
+    "C": "undermined",
+    "D": "circumvented"
+  },
+  "correct_answer": "A",
+  "explanation": "'Precipitated' means brought about suddenly or caused to happen. The revelation of withheld evidence caused or triggered the decision to postpone, making 'precipitated' the most precise and logical choice. 'Mitigated' means reduced in severity—the revelation did not soften the decision. 'Undermined' means weakened or eroded—while it might apply loosely, the sentence describes something that caused the decision, not something that weakened it. 'Circumvented' means found a way around something—irrelevant here."
+}

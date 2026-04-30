@@ -1,0 +1,16 @@
+{
+  "id": "q_913",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The obesity epidemic is primarily a product of individual dietary and lifestyle choices. People consume more calories than they expend, driven by preferences for high-calorie, low-nutrient foods. Effective interventions must focus on education, personal responsibility, and individual behavior change—teaching people to make healthier choices and supporting them in doing so.\n\nText 2: Framing obesity as primarily a product of individual choice ignores decades of research showing that the food environment heavily shapes food behavior. Low-income neighborhoods frequently have limited access to fresh produce but dense concentrations of fast-food outlets—a pattern not driven by consumer preference but by economic incentives for retailers and real-estate pricing. Individuals making 'choices' are doing so within environments that have been designed in ways that systematically favor high-calorie foods. Effective obesity policy must address these structural conditions.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to Text 1's proposed interventions?",
+  "choices": {
+    "A": "By agreeing that education and behavior change are the most effective tools for reducing obesity rates",
+    "B": "By arguing that Text 1's individual-focused interventions are insufficient because they do not address the structural food environment that shapes choices",
+    "C": "By contending that obesity is entirely caused by environmental factors and that individual behavior is irrelevant",
+    "D": "By arguing that obesity rates are low in low-income neighborhoods because residents make better food choices"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 argues that the food environment—not individual preferences alone—shapes food behavior, and that policy must address structural conditions. It would view Text 1's individual-focused education and behavior change interventions as insufficient because they leave the structural environment unchanged. B correctly captures this. A contradicts Text 2's position entirely. C overstates—Text 2 argues that structure heavily shapes behavior but does not claim individual behavior is irrelevant. D contradicts both texts and introduces claims not supported by either."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_456",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The report emphasized a single overriding concern _______ the long-term sustainability of the pension system in the face of an aging population.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "concern, the",
+    "B": "concern: the",
+    "C": "concern; the",
+    "D": "concern the"
+  },
+  "correct_answer": "B",
+  "explanation": "The main clause 'The report emphasized a single overriding concern' is complete, and what follows ('the long-term sustainability...') is a noun phrase that names or defines that concern. A colon after a complete clause that introduces a restatement, definition, or elaboration is correct. B is correct. A uses a comma, which can introduce an appositive but is weaker than a colon for a formally announced single item. C uses a semicolon, which joins independent clauses—'the long-term sustainability...' is not an independent clause. D has no punctuation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_881",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Deserts cover about one-third of Earth's land surface and are defined not by heat but by aridity—specifically, receiving less than 250 millimeters of rainfall annually. Antarctica qualifies as a cold desert under this definition. Desert ecosystems, though appearing barren, support highly specialized plant and animal life. Many desert organisms have evolved remarkable adaptations to conserve water: cacti store moisture in their thick stems, and the Saharan silver ant can withstand body temperatures that would kill most other insects.",
+  "question": "What is the main idea of the passage?",
+  "choices": {
+    "A": "Deserts are defined by low rainfall rather than high temperature, and the organisms that inhabit them are adapted to survive in these arid conditions.",
+    "B": "The Saharan silver ant is the most heat-resistant organism on Earth.",
+    "C": "Antarctica receives very little annual rainfall, making it one of Earth's coldest environments.",
+    "D": "Desert plants and animals have developed strategies to conserve water that scientists hope to replicate in agriculture."
+  },
+  "correct_answer": "A",
+  "explanation": "A states the two central ideas of the passage: the definition of deserts (aridity, not heat) and the adaptations of desert organisms. B focuses on only one supporting detail (the silver ant), not the main idea. C picks out a supporting detail about Antarctica and misstates its significance in the passage. D introduces the idea of agricultural replication, which is not mentioned in the passage."
+}

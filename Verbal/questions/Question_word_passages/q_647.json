@@ -1,0 +1,16 @@
+{
+  "id": "q_647",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "Critics have argued that the policy's unintended consequences—rising prices for low-income consumers _______ declining investment in affected industries—outweigh its intended benefits.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "consumers,",
+    "B": "consumers;",
+    "C": "consumers:",
+    "D": "consumers—"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence lists two consequences set off by a pair of em dashes: 'rising prices for low-income consumers' and 'declining investment in affected industries.' Within a parenthetical set off by em dashes, items in a series are separated by commas as normal. A comma (A) correctly separates the two items in the list inside the em-dash parenthetical. A semicolon (B) would be too heavy a separator within a list. A colon (C) introduces a further specification, which is not the case here. Another em dash (D) would incorrectly suggest closing the parenthetical early."
+}

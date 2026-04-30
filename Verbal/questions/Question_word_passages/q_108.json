@@ -1,0 +1,16 @@
+{
+  "id": "q_108",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The transcontinental railroad was completed in 1869, it immediately transformed commerce across the continent. Goods that once took months to transport by wagon now arrived within days, and the populations of western cities grew rapidly in the years that followed.",
+  "question": "Which choice best corrects the underlined sentence: \"The transcontinental railroad was completed in 1869, it immediately transformed commerce across the continent\"?",
+  "choices": {
+    "A": "The transcontinental railroad was completed in 1869, it immediately transformed commerce across the continent.",
+    "B": "The transcontinental railroad was completed in 1869; it immediately transformed commerce across the continent.",
+    "C": "The transcontinental railroad was completed in 1869, immediately transforming commerce across the continent, it reshaped trade.",
+    "D": "The transcontinental railroad, completed in 1869, it immediately transformed commerce across the continent."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses ('The transcontinental railroad was completed in 1869' and 'it immediately transformed commerce across the continent') are joined only by a comma, which is not sufficient. Choice B corrects the error by replacing the comma with a semicolon, which properly connects two closely related independent clauses. Choice A (NO CHANGE) retains the comma splice. Choice C introduces a participial phrase but then creates a new comma splice. Choice D creates an ungrammatical construction with a redundant subject pronoun 'it' following a noun phrase."
+}

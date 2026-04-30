@@ -1,0 +1,16 @@
+{
+  "id": "q_724",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The award was given to _______ the committee felt had contributed most significantly to the advancement of the field.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "whoever",
+    "B": "whomever",
+    "C": "who",
+    "D": "whom"
+  },
+  "correct_answer": "A",
+  "explanation": "The choice between 'whoever' and 'whomever' depends on the grammatical role of the pronoun within its own clause—not on the preposition or verb that governs the entire noun clause. The clause is 'whoever the committee felt had contributed most significantly.' If we identify the subject of 'had contributed,' it is 'whoever'—the clause needs a subject pronoun. 'The committee felt' is a parenthetical that can be removed: 'the award was given to whoever had contributed most significantly.' Since 'whoever' functions as the subject of 'had contributed,' the subject form 'whoever' (A) is correct. 'Whomever' (B) and 'whom' (D) are object forms and would be incorrect here."
+}

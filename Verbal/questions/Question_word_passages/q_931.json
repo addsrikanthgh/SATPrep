@@ -1,0 +1,16 @@
+{
+  "id": "q_931",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The architect's design called for tall windows that would allow sunlight ______ deep into the building's interior.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "penetrating",
+    "B": "penetrate",
+    "C": "to penetrate",
+    "D": "penetrated"
+  },
+  "correct_answer": "C",
+  "explanation": "The verb 'allow' takes a direct object (sunlight) followed by an infinitive: 'allow [noun] to [verb].' This is the standard construction: 'allow sunlight to penetrate.' 'To penetrate' is the correct infinitive form. 'Penetrating' would create 'allow sunlight penetrating,' which is not standard—allow requires the infinitive, not a participle. 'Penetrate' without 'to' is used after verbs like 'make,' 'let,' and 'have' (bare infinitive), but 'allow' requires 'to.' 'Penetrated' is past tense, grammatically incompatible here."
+}

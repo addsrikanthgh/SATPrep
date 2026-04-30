@@ -1,0 +1,16 @@
+{
+  "id": "q_524",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "Between you and _______, the committee's final decision surprised nearly everyone who had followed the negotiations closely.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "I",
+    "B": "me",
+    "C": "myself",
+    "D": "we"
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'between you and ___' requires an object pronoun because both 'you' and the second pronoun are objects of the preposition 'between.' The object form of 'I' is 'me.' B is correct. A ('I') is a subject pronoun and is grammatically incorrect as the object of a preposition. C ('myself') is a reflexive/intensive pronoun and should not be used where a simple object pronoun ('me') is required. D ('we') is a subject pronoun, also incorrect here."
+}

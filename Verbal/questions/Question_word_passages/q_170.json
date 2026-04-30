@@ -1,0 +1,16 @@
+{
+  "id": "q_170",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "W.E.B. Du Bois introduced the concept of 'double consciousness' in The Souls of Black Folk (1903) to describe the psychological experience of African Americans living in a society that denied their full humanity. He wrote: 'It is a peculiar sensation, this double-consciousness, this sense of always looking at one's self through the eyes of others, of measuring one's soul by the tape of a world that looks on in amused contempt and pity.' Du Bois argued that this duality—simultaneously inhabiting one's own identity while seeing oneself through a hostile external gaze—was not a personal failing but a structural condition produced by racism. The striving to reconcile these two selves, he suggested, was the defining challenge of African American life.",
+  "question": "A student claims that Du Bois viewed double consciousness as a socially imposed condition rather than a psychological weakness. Which quotation from the passage best supports this claim?",
+  "choices": {
+    "A": "\"It is a peculiar sensation, this double-consciousness, this sense of always looking at one's self through the eyes of others\"",
+    "B": "\"measuring one's soul by the tape of a world that looks on in amused contempt and pity\"",
+    "C": "\"this duality...was not a personal failing but a structural condition produced by racism\"",
+    "D": "\"The striving to reconcile these two selves...was the defining challenge of African American life\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's claim requires evidence that Du Bois attributed double consciousness to social forces (not individual weakness). C directly states his position: double consciousness 'was not a personal failing but a structural condition produced by racism'—explicitly rejecting the psychological weakness interpretation and assigning causal responsibility to social structures. A describes the experience of double consciousness but does not address its cause or whether it is a personal failing. B describes the hostile external gaze but does not explicitly assign structural causation. D describes the challenge it poses but likewise does not address whether it is a personal failing or a structural imposition."
+}

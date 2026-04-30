@@ -1,0 +1,16 @@
+{
+  "id": "q_915",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Artificial intelligence systems trained on large datasets of human-generated text are capable of producing writing that is difficult to distinguish from human authorship. These systems raise profound questions about creativity and authorship—if an AI can produce a compelling poem, a persuasive essay, or a plausible news article, what role does human authorship play? Some argue that such systems demonstrate that creativity is ultimately pattern recognition and recombination, processes that need not be uniquely human.\n\nText 2: Large language models do not understand what they write. They produce statistically plausible sequences of text based on patterns in training data, but they have no model of the world, no intentions, and no genuine communicative purpose. The philosophical question of whether pattern-generated text is 'creative' seems secondary to the practical concern: readers encountering AI-generated text may be misled about the existence of an authorial perspective, a genuine point of view, or reliable knowledge—none of which the system possesses.",
+  "question": "Based on the texts, how would the author of Text 2 most likely evaluate the philosophical question raised in Text 1?",
+  "choices": {
+    "A": "As the central issue in evaluating AI-generated text, more important than questions about deception or misleading readers",
+    "B": "As a question worth exploring but secondary to the more pressing concern about readers being misled about authorial perspective and knowledge",
+    "C": "As a question that AI systems have already definitively answered by demonstrating that creativity is pattern recognition",
+    "D": "As irrelevant because large language models have already been proven incapable of producing human-quality writing"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 explicitly says the question of whether pattern-generated text is 'creative' 'seems secondary' to the practical concern about readers being misled. B correctly captures this hierarchy—acknowledging the philosophical question while deprioritizing it in favor of a practical concern. A inverts the priority Text 2 establishes. C is the opposite of Text 2's position—it implies AI has settled the question affirmatively. D contradicts both texts; Text 1 says AI writing is hard to distinguish from human writing, and Text 2 does not dispute this."
+}

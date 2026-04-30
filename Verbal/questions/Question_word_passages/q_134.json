@@ -1,0 +1,16 @@
+{
+  "id": "q_134",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "In his 1967 essay 'The Death of the Author,' Roland Barthes argued that once a literary text is released, the author's intentions become irrelevant to its interpretation. Meaning, Barthes contended, is produced not by the author but by the reader in the act of reading. To grant the author authority over a text's meaning is, in Barthes's formulation, to impose a final signified—a single, authoritative interpretation that forecloses the text's openness to multiple readings. Barthes saw this foreclosure as a form of tyranny, and he celebrated the 'death' of the author as the birth of the reader's interpretive freedom.",
+  "question": "A student argues that Barthes viewed authorial authority as fundamentally incompatible with interpretive plurality. Which quotation from the passage best supports this argument?",
+  "choices": {
+    "A": "\"once a literary text is released, the author's intentions become irrelevant to its interpretation\"",
+    "B": "\"Meaning, Barthes contended, is produced not by the author but by the reader in the act of reading\"",
+    "C": "\"To grant the author authority over a text's meaning is, in Barthes's formulation, to impose a final signified—a single, authoritative interpretation that forecloses the text's openness to multiple readings\"",
+    "D": "\"Barthes saw this foreclosure as a form of tyranny, and he celebrated the 'death' of the author as the birth of the reader's interpretive freedom\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument requires evidence that Barthes saw authorial authority and multiple interpretations as mutually exclusive. C directly provides this: granting the author authority 'forecloses the text's openness to multiple readings'—an explicit statement of incompatibility between authorial control and interpretive plurality. A states that authorial intentions are irrelevant after publication but does not address the relationship between authority and plurality. B identifies the reader as meaning-maker but does not connect this to the exclusion of multiple readings. D frames the argument in terms of tyranny and freedom but is more general and less precisely linked to the concept of 'interpretive plurality' than C."
+}

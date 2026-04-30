@@ -1,0 +1,16 @@
+{
+  "id": "q_884",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "medium",
+  "passage": "The 'Anthropocene' is a proposed geological epoch defined by the significant and lasting impact of human activities on Earth's geology and ecosystems. Scientists debate the epoch's formal start date: some propose the Industrial Revolution of the mid-eighteenth century, citing fossil fuel combustion and its effects on atmospheric carbon; others propose the mid-twentieth century, pointing to the distinctive radioactive signature of nuclear weapons testing preserved in sediment layers worldwide. What is not disputed is the scale of human influence: humans have altered over half of Earth's ice-free land surface, and human-produced nitrogen fertilizer now accounts for nearly half of all nitrogen in the tissues of living organisms.",
+  "question": "What is the main idea of the passage?",
+  "choices": {
+    "A": "The concept of the Anthropocene recognizes the profound and widespread impact of humans on Earth, though scientists disagree about when this epoch should be said to have begun.",
+    "B": "Nuclear weapons testing is the most reliable indicator of the beginning of human impact on Earth.",
+    "C": "The Industrial Revolution marked the moment when human activity first began to affect Earth's geology.",
+    "D": "Human nitrogen fertilizers are the most significant driver of ecosystem change in the Anthropocene."
+  },
+  "correct_answer": "A",
+  "explanation": "A captures both central ideas: the undisputed scale of human influence and the scholarly debate about the epoch's start date. B privileges one proposed start date over the others and overstates its reliability. C privileges the Industrial Revolution proposal while implying it is the accepted answer—the passage presents it as one of two debated options. D elevates one supporting detail (nitrogen fertilizers) to the status of main idea and introduces a causal claim not made in the passage."
+}

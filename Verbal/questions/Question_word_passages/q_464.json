@@ -1,0 +1,16 @@
+{
+  "id": "q_464",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Proponents of nuclear energy argue that it provides reliable, carbon-free baseload power and that modern reactor designs are far safer than the generation of plants responsible for past accidents. Critics acknowledge that nuclear generates less carbon than fossil fuels. _______, they argue that the unresolved problem of long-term waste storage and the catastrophic potential of even low-probability accidents make nuclear an unacceptable risk compared to rapidly improving renewable alternatives.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "Similarly",
+    "B": "For this reason",
+    "C": "Nevertheless",
+    "D": "In addition"
+  },
+  "correct_answer": "C",
+  "explanation": "'Nevertheless' correctly signals a concessive contrast: the critics have acknowledged a point in nuclear's favor (second sentence) but are about to argue that this concession does not change their opposition (third sentence). This is the classic 'although X is true, Y is still the case' structure. 'Similarly' implies the third sentence agrees with the second. 'For this reason' implies the waste storage concerns follow logically from the low-carbon acknowledgment, which is not the relationship. 'In addition' implies the third sentence is adding another point without contrast to the second."
+}

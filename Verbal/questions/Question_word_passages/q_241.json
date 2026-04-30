@@ -1,0 +1,16 @@
+{
+  "id": "q_241",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "The expedition team packed three essential items: a compass, a water filtration system, and a topographic map.",
+  "question": "Which choice correctly explains the use of the colon in this sentence?",
+  "choices": {
+    "A": "The colon is incorrect because a colon may only introduce a single item, not a list.",
+    "B": "The colon correctly introduces a list that specifies what the 'three essential items' are, following a complete independent clause.",
+    "C": "The colon should be replaced with a semicolon to properly separate the introductory clause from the list.",
+    "D": "The colon is unnecessary because the sentence already uses commas to separate the list items."
+  },
+  "correct_answer": "B",
+  "explanation": "A colon is correctly used to introduce a list when it follows a complete independent clause (here, 'The expedition team packed three essential items'). The colon signals that what follows will specify or elaborate on the subject of that clause. B accurately describes this function. A is incorrect—a colon may introduce lists of multiple items. C is incorrect; a semicolon joins two independent clauses and cannot introduce a list in the way a colon does. D confuses two different punctuation functions: the commas separate the list items, while the colon introduces the list itself—both are necessary and serve distinct roles."
+}

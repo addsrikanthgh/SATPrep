@@ -1,0 +1,16 @@
+{
+  "id": "q_716",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The widespread adoption of antibiotics in the twentieth century dramatically reduced mortality from bacterial infections. Antibiotics transformed once-fatal diseases like pneumonia and tuberculosis into treatable conditions and made modern surgeries and cancer chemotherapy possible by preventing the infections that would otherwise kill patients during recovery.\n\nText 2: The overuse and misuse of antibiotics in both medicine and agriculture has accelerated the emergence of antibiotic-resistant bacteria. Each year, an estimated 700,000 people die globally from infections caused by drug-resistant organisms—a figure that some models project will rise to 10 million annually by 2050 if current trends continue. Public health officials warn that without new antibiotics and stewardship programs to limit unnecessary use, medicine may be entering a 'post-antibiotic era' in which common infections become untreatable again.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 describes the transformative benefits of antibiotics; Text 2 describes a serious threat to those benefits created by the overuse of the same drugs.",
+    "B": "Text 2 argues that the benefits of antibiotics described in Text 1 were exaggerated, since mortality from bacterial infections remained high throughout the twentieth century.",
+    "C": "Both texts argue that antibiotic resistance is the primary cause of high bacterial infection mortality, both historically and today.",
+    "D": "Text 2 introduces an alternative to antibiotic therapy that is expected to replace the treatments described in Text 1 by 2050."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 presents the benefits of antibiotics (reduced mortality, safer surgeries). Text 2 presents the threat posed by resistance created through overuse of those same drugs. A correctly captures this ironic relationship: the same drugs that provided the benefits now face a threat created by their overuse. B contradicts Text 1, which describes reduced mortality as a proven benefit. C misrepresents both texts—Text 1 does not mention antibiotic resistance at all; Text 2 does, but Text 1 does not. D is not supported—Text 2 does not introduce an alternative to antibiotics; it warns of a crisis and calls for stewardship."
+}

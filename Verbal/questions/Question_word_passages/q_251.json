@@ -1,0 +1,16 @@
+{
+  "id": "q_251",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "easy",
+  "passage": "After completing the final experiment, the lab technician documented her results, filed the necessary paperwork, and submitted the report to her supervisor.",
+  "question": "Which choice correctly explains the punctuation of the sentence above?",
+  "choices": {
+    "A": "The comma after 'experiment' is incorrect because introductory prepositional phrases should not be set off by commas.",
+    "B": "The commas between 'results,' 'paperwork,' and before 'submitted' form an incorrect serial comma in a list of only two items.",
+    "C": "The comma after 'experiment' correctly sets off the introductory participial phrase, and the commas between list items correctly separate the three actions in the series.",
+    "D": "The comma after 'paperwork' should be removed because the conjunction 'and' already signals the final item in the series."
+  },
+  "correct_answer": "C",
+  "explanation": "A comma after an introductory participial phrase ('After completing the final experiment') is standard and correct. The three verbs ('documented,' 'filed,' 'submitted') form a series of three actions, and the commas between them—including the serial comma before 'and submitted'—correctly separate the items. C accurately describes both features. A is incorrect—introductory phrases are conventionally followed by a comma. B is incorrect; the series contains three actions, not two. D reflects a common misconception: the serial comma before 'and' in a three-item list is considered correct (and often required) in standard English style guides."
+}

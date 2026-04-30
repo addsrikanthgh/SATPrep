@@ -1,0 +1,16 @@
+{
+  "id": "q_709",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Literary critics in the New Critical tradition argued that the meaning of a text is fully contained within the text itself—in its images, structure, irony, and paradox. Biographical information about the author and historical context were, for these critics, irrelevant at best and distracting at worst. They coined the term 'intentional fallacy' to describe the error of treating the author's stated or inferred intentions as authoritative evidence of a text's meaning.\n\nText 2: Theorists working in the tradition of historical contextualism argue that literary texts cannot be adequately understood apart from their historical moment of production. On this view, the language of a text is not a timeless formal structure but a historically situated speech act, and understanding what it means requires understanding the specific conventions, debates, and concerns of the period in which it was written.",
+  "question": "Which choice best describes the fundamental disagreement between the perspectives in Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 holds that meaning is internal to the text and independent of historical context, while Text 2 holds that meaning requires situating the text within its historical moment.",
+    "B": "Text 1 argues that authors should avoid embedding biographical details in their work, while Text 2 argues that such details are the most important element of literary interpretation.",
+    "C": "Both texts agree that historical context is relevant to literary meaning but disagree about which historical period is most relevant.",
+    "D": "Text 1 focuses on poetry, while Text 2 focuses on prose fiction, making direct comparison of their claims difficult."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 (New Criticism) explicitly argues that meaning is in the text and that context/biography are irrelevant. Text 2 (historical contextualism) explicitly argues that meaning requires historical situating. This is a direct, fundamental disagreement about the source of literary meaning. A accurately captures this. B misrepresents Text 1—it doesn't address advice to authors, it addresses how critics should interpret. C is incorrect—the texts do not agree on the relevance of historical context; Text 1 explicitly dismisses it. D is not supported—neither text restricts its claims to a particular genre."
+}

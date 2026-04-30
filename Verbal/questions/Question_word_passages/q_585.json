@@ -1,0 +1,16 @@
+{
+  "id": "q_585",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an essay about food insecurity in the United States. The student wants to highlight that food insecurity disproportionately affects certain populations and to identify a specific structural barrier contributing to this disparity. The student has gathered the following notes:\n- In 2022, 12.8% of U.S. households experienced food insecurity—defined as lacking consistent access to adequate food.\n- Rates of food insecurity are significantly higher among Black and Hispanic households than among white non-Hispanic households.\n- 'Food deserts'—areas with limited access to affordable, nutritious food—are more common in low-income urban and rural communities.\n- Participation in SNAP (Supplemental Nutrition Assistance Program) reduces food insecurity but does not eliminate it.\n- Children in food-insecure households show higher rates of developmental delays and health problems.",
+  "question": "Which choice most effectively uses the notes to highlight that food insecurity disproportionately affects certain populations and identify a specific structural barrier?",
+  "choices": {
+    "A": "Food insecurity affects 12.8% of all U.S. households, indicating that hunger remains a significant challenge across American society.",
+    "B": "Children in food-insecure households are at elevated risk for developmental delays and health problems, making food insecurity a significant concern for child welfare advocates.",
+    "C": "Food insecurity falls disproportionately on Black and Hispanic households, and the concentration of food deserts—areas with limited access to affordable nutritious food—in low-income communities of color represents a structural barrier that perpetuates this disparity.",
+    "D": "Although SNAP reduces food insecurity, it does not eliminate it, suggesting that benefit levels may be insufficient to meet the full needs of participating households."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to establish disproportionate impact on certain populations AND identify a structural barrier. C does both: it names the racial disparity and identifies food deserts as the structural barrier, explicitly connecting the two. A states overall prevalence without addressing disproportionate impact or structural barriers. B focuses on children and developmental effects—not the demographic disparity or a structural barrier. D focuses on SNAP's limitations, not on who bears disproportionate burden or the food desert structural barrier."
+}

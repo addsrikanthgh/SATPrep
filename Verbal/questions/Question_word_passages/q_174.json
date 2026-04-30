@@ -1,0 +1,16 @@
+{
+  "id": "q_174",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "Researchers analyzed the reading habits of 6,000 adults in a national survey. Among respondents who reported reading for pleasure daily, 78% scored in the top quartile on a vocabulary assessment and 71% scored in the top quartile on an empathy measure. Among respondents who read for pleasure weekly but not daily, 54% scored in the top vocabulary quartile and 58% scored in the top empathy quartile. Among respondents who read rarely or never, only 29% scored in the top vocabulary quartile and 34% scored in the top empathy quartile. Researchers cautioned that the survey was correlational and could not establish whether reading caused these outcomes or whether people with stronger vocabularies and greater empathy were simply more inclined to read.",
+  "question": "A researcher claims that greater reading frequency is associated with both stronger vocabulary and greater empathy. Which data from the passage most directly supports this claim?",
+  "choices": {
+    "A": "Among respondents who read rarely or never, only 29% scored in the top vocabulary quartile and 34% in the top empathy quartile.",
+    "B": "The survey included 6,000 adults and used both vocabulary and empathy assessments.",
+    "C": "Across all three reading frequency groups, the percentage of top-quartile scorers increased consistently with reading frequency on both the vocabulary and empathy measures.",
+    "D": "Researchers cautioned that the survey was correlational and could not establish causation."
+  },
+  "correct_answer": "C",
+  "explanation": "The claim requires evidence that more reading is associated with better outcomes on both measures. C captures the full pattern across all three groups—the consistent increase in top-quartile scores with each step up in reading frequency on both measures—which is the most direct and comprehensive support for a claim about frequency and association. A identifies only the lowest-frequency group's scores, which is one data point within the pattern but not the full association across groups. B provides methodological context, not evidence of the association. D explicitly undermines causal claims and is therefore counterproductive to supporting the researcher's association claim (though it appropriately only claims association, not causation)."
+}

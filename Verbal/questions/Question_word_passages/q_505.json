@@ -1,0 +1,16 @@
+{
+  "id": "q_505",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: In 1962, Rachel Carson's Silent Spring documented the devastating effects of pesticides—particularly DDT—on bird populations, catalyzing the modern environmental movement and leading to the eventual banning of DDT in the United States in 1972. Carson's book is widely credited with demonstrating that human chemical use could have cascading, system-wide effects on ecosystems, and with establishing the principle that the burden of proof for safety should rest with those who introduce new chemicals into the environment.\n\nText 2: Some historians of science have noted that while Silent Spring was enormously influential as a work of advocacy, it was selective in its use of evidence. Carson emphasized cases where DDT use had been harmful and gave less attention to evidence of its benefits. The global phase-out of DDT has been associated by some public health researchers with a resurgence of malaria in parts of sub-Saharan Africa, raising the question of whether the long-term consequences of DDT bans were adequately weighed.",
+  "question": "Both texts discuss Rachel Carson's Silent Spring, but they differ in their focus. How do they differ?",
+  "choices": {
+    "A": "Text 1 focuses on Silent Spring's scientific errors, while Text 2 acknowledges its influence.",
+    "B": "Text 1 focuses on Silent Spring's impact and legacy, while Text 2 raises concerns about its selective use of evidence and the consequences of DDT bans.",
+    "C": "Both texts agree that Silent Spring's advocacy against DDT produced exclusively positive environmental and public health outcomes.",
+    "D": "Text 2 argues that Silent Spring should not have been published because it lacked scientific evidence."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 focuses on the positive impact of Silent Spring (catalyzing the environmental movement, establishing precautionary principles). Text 2 raises a critique: that Carson's evidence was selective and that the DDT phase-out may have had harmful public health consequences. B accurately captures this difference in emphasis. A reverses the positions—Text 1 celebrates the book, not criticizes it. C is contradicted by Text 2, which raises negative consequences of the DDT phase-out. D overstates Text 2's critique—it does not call for suppression of the book, only questions its evidence and consequences."
+}

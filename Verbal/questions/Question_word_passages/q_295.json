@@ -1,0 +1,16 @@
+{
+  "id": "q_295",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The Gilded Age in the United States (roughly 1870–1900) was a period of extraordinary economic growth driven by industrialization, railroad expansion, and immigration. Per capita income roughly doubled, new consumer goods became available to middle-class families, and major cities transformed almost beyond recognition. _______, this prosperity was distributed in a deeply unequal fashion, with a small number of industrial titans accumulating vast fortunes while workers in factories and mines labored in dangerous conditions for wages barely sufficient to survive.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Similarly,",
+    "B": "In addition,",
+    "C": "Yet,",
+    "D": "Therefore,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes the prosperity and growth of the Gilded Age, then pivots to the deeply unequal distribution of that prosperity. The transition must signal a contrast between the apparent success and the underlying inequality. 'Yet' (C) precisely signals that the following qualification is in tension with the preceding positive picture. 'Similarly' (A) would imply the inequality parallels the growth in a like manner—incorrect. 'In addition' (B) would suggest inequality is simply another feature of the era being added to the list of positives—it misses the adversative quality of the contrast. 'Therefore' (D) would imply the inequality was a logical result drawn from the growth—while partially true, 'therefore' would not convey the contrast with the positive framing established in the first two sentences."
+}

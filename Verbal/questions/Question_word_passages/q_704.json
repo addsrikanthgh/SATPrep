@@ -1,0 +1,16 @@
+{
+  "id": "q_704",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Proponents of performance-based teacher pay argue that linking teacher salaries to student test score gains would attract talented individuals to the profession and motivate teachers to work more effectively. They point to evidence from certain corporate and government settings suggesting that performance incentives can improve output quality.\n\nText 2: A large-scale randomized experiment conducted in Nashville found that offering teachers bonuses of up to $15,000 for improving student test scores produced no significant gains in student achievement compared to a control group. The researchers concluded that teachers were already working at or near maximum effort and that incentive pay did not change instructional quality.",
+  "question": "The findings described in Text 2 would most directly challenge which assumption underlying the argument in Text 1?",
+  "choices": {
+    "A": "That teachers have unused capacity to improve student outcomes that financial incentives would motivate them to deploy.",
+    "B": "That student test scores are a valid and reliable measure of student learning and teacher effectiveness.",
+    "C": "That talented individuals would find teaching more attractive if salaries were higher overall.",
+    "D": "That performance pay systems have been successfully implemented in corporate and government contexts."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 2's key finding is that teachers were 'already working at or near maximum effort,' which means the assumption behind performance pay—that teachers have untapped effort that money would motivate—was not supported. A correctly identifies this as the undermined assumption. B is about the validity of test scores as a metric; Text 2 does not challenge measurement validity. C is about overall salary levels; Text 2 is about performance bonuses, not base salary. D concerns corporate and government contexts, not the findings about teachers specifically—Text 2 does not address non-education settings."
+}

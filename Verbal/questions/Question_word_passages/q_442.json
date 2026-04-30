@@ -1,0 +1,16 @@
+{
+  "id": "q_442",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The study identified three primary barriers to adoption _______ cost, complexity, and lack of technical support.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "adoption, cost",
+    "B": "adoption: cost",
+    "C": "adoption; cost",
+    "D": "adoption cost"
+  },
+  "correct_answer": "B",
+  "explanation": "A colon is used after a complete independent clause ('The study identified three primary barriers to adoption') to introduce a list or elaboration. B correctly uses a colon. A uses a comma, which is insufficient to introduce a formal list after a complete clause—it creates a comma splice between the main clause and the list. C uses a semicolon, which joins two independent clauses; what follows the blank is not an independent clause but a list. D has no punctuation, making 'cost' seem like a continuation of the main clause rather than the beginning of the list."
+}

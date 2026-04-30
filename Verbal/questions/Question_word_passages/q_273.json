@@ -1,0 +1,16 @@
+{
+  "id": "q_273",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Microfinance—the provision of small loans to entrepreneurs in developing economies who lack access to conventional banking—was once celebrated as a revolutionary tool for poverty reduction. Early studies suggested dramatic improvements in income and welfare among borrowers. More rigorous randomized controlled trials conducted in the 2010s found much more modest effects: small loans did help recipients smooth consumption and manage financial shocks, but they rarely produced the transformative income growth that early advocates had claimed. Researchers concluded that microfinance is a useful financial service rather than a poverty cure, and that its benefits depend heavily on the local economic environment and the borrower's existing capabilities.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Microfinance has been definitively proven to be ineffective and should be discontinued as a development strategy.",
+    "B": "Once hailed as a poverty cure, microfinance has been found by rigorous research to offer modest, context-dependent benefits rather than transformative income growth.",
+    "C": "Randomized controlled trials are the only valid method for evaluating the effectiveness of development programs.",
+    "D": "Microfinance succeeds most reliably when loans are provided to large-scale business owners rather than small entrepreneurs."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage traces the evolution of understanding about microfinance: from early optimism to more rigorous findings of modest, context-dependent benefits. B accurately captures this arc. A overstates the conclusion—the passage says microfinance is 'a useful financial service' with real benefits, not that it is ineffective or should be discontinued. C makes a methodological claim about evaluation approaches that, while implied by the passage's preference for RCTs, is not the central idea—it is a background detail. D introduces a claim about large-scale versus small entrepreneurs that the passage does not make."
+}

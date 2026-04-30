@@ -1,0 +1,16 @@
+{
+  "id": "q_599",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an analytical essay about how urban planning decisions can perpetuate or reduce economic inequality. The student wants to present a specific historical example of a planning decision that worsened inequality and explain the mechanism by which it did so. The student has gathered the following notes:\n- In the mid-twentieth century, urban renewal programs in many American cities demolished low-income and minority neighborhoods to build highways, government buildings, and stadiums.\n- These projects displaced hundreds of thousands of residents—disproportionately Black and low-income—often to areas with fewer jobs and services.\n- The Federal Housing Administration's 'redlining' policies officially denied mortgage insurance in minority-populated areas, preventing Black Americans from building home equity in the postwar period.\n- Modern transit-oriented development has been associated with gentrification, raising rents in neighborhoods near new transit stations and displacing existing low-income residents.\n- Inclusionary zoning—requiring developers to include affordable units in new developments—is one policy tool used to mitigate displacement.",
+  "question": "Which choice most effectively uses the notes to present a specific historical example of a planning decision that worsened inequality and explain the mechanism?",
+  "choices": {
+    "A": "Inclusionary zoning policies that require developers to include affordable units in new developments represent one tool planners have used to mitigate the displacement associated with urban development.",
+    "B": "Mid-twentieth century urban renewal programs demolished low-income and minority neighborhoods to build highways and other infrastructure, displacing hundreds of thousands of predominantly Black and low-income residents to areas with fewer economic opportunities—directly worsening inequality by stripping these communities of established social networks and proximity to jobs.",
+    "C": "Transit-oriented development has been linked to gentrification, as rising property values near new transit stations can displace lower-income residents who had previously lived in those neighborhoods.",
+    "D": "Federal Housing Administration redlining policies systematically denied mortgage insurance in minority neighborhoods, illustrating how federal policy can widen racial wealth gaps."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is a specific historical example AND the mechanism by which it worsened inequality. B provides the specific historical example (urban renewal demolitions) and explains the mechanism (displacement of Black and low-income residents to areas with fewer economic opportunities, stripping social networks and job proximity). A describes a remedial policy, not a planning decision that worsened inequality. C describes a contemporary concern (transit gentrification) without explaining the historical example and mechanism as specifically. D describes redlining (a specific historical example) but focuses on the policy without fully tracing the mechanism of inequality worsening as richly as B."
+}

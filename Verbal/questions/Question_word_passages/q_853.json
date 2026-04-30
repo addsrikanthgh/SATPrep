@@ -1,0 +1,16 @@
+{
+  "id": "q_853",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The research team concluded ______ their three-year study that urban green spaces reduce stress-related cortisol levels in nearby residents by measurable amounts.",
+  "question": "Which choice correctly punctuates the phrase after 'concluded'?",
+  "choices": {
+    "A": "The research team concluded, after their three-year study, that urban green spaces reduce stress-related cortisol levels in nearby residents by measurable amounts.",
+    "B": "The research team concluded after their three-year study, that urban green spaces reduce stress-related cortisol levels in nearby residents by measurable amounts.",
+    "C": "The research team concluded; after their three-year study, that urban green spaces reduce stress-related cortisol levels in nearby residents by measurable amounts.",
+    "D": "The research team concluded after their three-year study that urban green spaces reduce stress-related cortisol levels in nearby residents by measurable amounts."
+  },
+  "correct_answer": "D",
+  "explanation": "The phrase 'after their three-year study' is an adverbial phrase modifying 'concluded.' When an adverbial phrase appears between a verb and its object clause, it is generally not set off by commas—the phrase is restrictive (essential to understanding when the conclusion was reached) and flows naturally: 'concluded after their three-year study that...' D correctly omits commas. A inserts commas around the adverbial phrase, treating it as a parenthetical; while this is sometimes done for long phrases, here it creates a subtle break between 'concluded' and 'that' that implies 'that' begins a new element rather than completing the verb's object. B places only a comma before 'that,' which separates the object 'that' clause from its verb. C inserts a semicolon, which is clearly incorrect."
+}

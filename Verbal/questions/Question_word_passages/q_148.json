@@ -1,0 +1,16 @@
+{
+  "id": "q_148",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, it is now recognized as a genuine physiological phenomenon with measurable neurochemical underpinnings. Studies have shown that patients who receive placebos exhibit real changes in brain activity and neurotransmitter levels.",
+  "question": "Which choice best corrects the underlined portion: \"The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, it is now recognized\"?",
+  "choices": {
+    "A": "The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, it is now recognized",
+    "B": "The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, is now recognized",
+    "C": "The placebo effect once dismissed as a nuisance variable, to be controlled away in clinical trials, it is now recognized",
+    "D": "The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials; it is now recognized"
+  },
+  "correct_answer": "B",
+  "explanation": "The original sentence contains a pronoun restatement error: after the long participial phrase 'once dismissed as a nuisance variable to be controlled away in clinical trials,' the subject 'The placebo effect' is incorrectly restated with the pronoun 'it.' This creates a grammatically broken construction. B removes the redundant 'it,' leaving 'The placebo effect...is now recognized' as a clean subject-verb structure with the participial phrase as a modifier. A (NO CHANGE) retains the pronoun restatement error. C misplaces the comma and retains the error. D adds a semicolon but also retains the pronoun 'it,' creating a different problem: the first clause ('The placebo effect...in clinical trials') lacks a verb."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_990",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching the science of memory consolidation and has taken the following notes:\n- Memory consolidation is the process by which newly acquired information is stabilized and integrated into long-term memory.\n- During slow-wave sleep, the hippocampus replays memories from the day, transferring information to the neocortex for long-term storage.\n- Studies show that sleeping soon after learning improves retention compared to staying awake for an equivalent period.\n- REM sleep is associated with the consolidation of procedural memory (motor skills) and emotional processing of memories.\n- Sleep deprivation before learning impairs the hippocampus's ability to encode new information, reducing the capacity to form new memories by up to 40%.",
+  "question": "The student wants to present evidence that sleep plays an active role in memory formation—not merely a passive rest period. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Memory consolidation transfers newly learned information from the hippocampus to the neocortex for long-term storage, a process that occurs during sleep.",
+    "B": "Sleep deprivation before learning can reduce the brain's capacity to form new memories by up to 40%, suggesting that adequate sleep is important for academic performance.",
+    "C": "During slow-wave sleep, the hippocampus actively replays the day's memories, transferring them to the neocortex; during REM sleep, procedural and emotional memories are further processed—showing that sleep is not passive rest but a period of active neural work central to memory formation.",
+    "D": "Studies comparing retention after sleep versus equivalent periods of wakefulness consistently show that sleeping soon after learning improves memory retention."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to argue that sleep is active, not merely passive rest. C combines two notes describing distinct active processes during different sleep stages (hippocampal replay during slow-wave sleep; procedural/emotional processing during REM) and explicitly frames this as evidence against the 'passive rest' view. The combination of specific active mechanisms and the direct statement that sleep is 'not passive rest but a period of active neural work' most effectively serves this goal. A describes memory consolidation during sleep but does not contrast with the passive rest misconception. B focuses on the consequence of sleep deprivation rather than active sleep processes. D presents behavioral evidence but does not describe the active mechanisms that argue against passive rest."
+}

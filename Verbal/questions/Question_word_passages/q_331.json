@@ -1,0 +1,16 @@
+{
+  "id": "q_331",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The principal, not the teachers, _______ responsible for approving changes to the school's academic calendar.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The grammatical subject is 'The principal,' a singular noun. The phrase 'not the teachers' is a parenthetical that contrasts with the subject but does not change the subject's number. The simple present 'is' (B) correctly agrees with the singular subject in the present-tense context. 'Are' (A) would agree with a plural subject. 'Were' (C) is plural past—incorrect agreement and tense. 'Have been' (D) is plural present perfect—incorrect agreement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_854",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The committee reviewed four proposals ______ each presenting a different approach to reducing municipal water consumption ______ ultimately recommending the one that combined incentive pricing with infrastructure investment.",
+  "question": "Which choice correctly punctuates the participial phrases?",
+  "choices": {
+    "A": "reviewed four proposals—each presenting a different approach to reducing municipal water consumption—ultimately recommending",
+    "B": "reviewed four proposals, each presenting a different approach to reducing municipal water consumption, ultimately recommending",
+    "C": "reviewed four proposals: each presenting a different approach to reducing municipal water consumption, ultimately recommending",
+    "D": "reviewed four proposals each presenting a different approach to reducing municipal water consumption ultimately recommending"
+  },
+  "correct_answer": "B",
+  "explanation": "Two participial phrases modify the subject 'The committee': 'each presenting a different approach...' (modifying 'four proposals') and 'ultimately recommending...' Both are nonrestrictive and should be set off. B uses commas, which is the conventional punctuation for participial phrases: 'reviewed four proposals, each presenting..., ultimately recommending.' A uses paired em dashes around only the first phrase, which is valid for a single parenthetical but creates an inconsistency since 'ultimately recommending' would then be unpaired. C uses a colon, which is incorrect for introducing a participial phrase. D omits all punctuation, creating an unparseable string."
+}

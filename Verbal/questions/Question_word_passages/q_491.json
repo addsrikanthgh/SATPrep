@@ -1,0 +1,16 @@
+{
+  "id": "q_491",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "easy",
+  "passage": "Bioluminescence—the production of light by living organisms through chemical reactions—occurs in a remarkable range of species, including fireflies, deep-sea fish, jellyfish, fungi, and certain species of bacteria. In marine environments, bioluminescence is especially widespread; it has been estimated that more than seventy-five percent of deep-sea creatures produce light. The chemical reaction typically involves a compound called luciferin reacting with oxygen in the presence of an enzyme called luciferase, releasing energy as visible light. Organisms use bioluminescence for a variety of purposes, including attracting prey, communicating with potential mates, and deterring predators.",
+  "question": "According to the passage, which of the following is true of bioluminescence?",
+  "choices": {
+    "A": "It is found exclusively in marine organisms living in the deep ocean.",
+    "B": "It involves a chemical reaction between luciferin and oxygen facilitated by an enzyme.",
+    "C": "It serves primarily as a defensive mechanism against predators.",
+    "D": "It is produced by fewer than half of deep-sea species."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that bioluminescence typically involves 'a compound called luciferin reacting with oxygen in the presence of an enzyme called luciferase.' B directly reflects this description. A is contradicted—the passage lists fireflies, fungi, and bacteria, none of which are deep-sea marine organisms. C is too narrow—the passage lists three purposes (attracting prey, communicating with mates, deterring predators) without singling out defense as primary. D is directly contradicted—the passage states more than seventy-five percent of deep-sea creatures produce light."
+}

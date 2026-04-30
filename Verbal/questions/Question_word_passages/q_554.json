@@ -1,0 +1,16 @@
+{
+  "id": "q_554",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Sharks have changed relatively little over the past 400 million years compared to most other vertebrate groups. Often called 'living fossils,' they predate the dinosaurs by more than 200 million years and survived all five major mass extinction events in Earth's history, including the Cretaceous-Paleogene extinction that wiped out the non-avian dinosaurs. Sharks occupy the top of marine food chains in most oceans, and their populations play a critical role in regulating the abundance of species below them.",
+  "question": "Based on the passage, what can most reasonably be inferred about sharks?",
+  "choices": {
+    "A": "Sharks are ecologically unimportant because they have remained unchanged for so long.",
+    "B": "Sharks' extraordinary durability across geological time likely reflects a highly successful biological design suited to their ecological role.",
+    "C": "Sharks are vulnerable to extinction because they have not evolved to adapt to changing environments.",
+    "D": "Sharks became apex predators only after the mass extinction of the dinosaurs eliminated competing species."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes sharks as having survived 400 million years, five mass extinctions, and remaining ecologically dominant as apex predators. The most reasonable inference is that this long-term success reflects a successful biological design. B correctly captures this inference. A is directly contradicted—the passage emphasizes their ecological importance as top predators. C is directly contradicted—having survived five mass extinctions is evidence of exceptional resilience, not vulnerability. D is not supported—the passage says sharks predate the dinosaurs and survived the extinction; it does not claim they became apex predators only after it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_153",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The concept of terra nullius—the legal fiction that Australia was uninhabited land, belonging to no one, at the time of British colonization—served as the foundation for dispossessing Aboriginal peoples of their territories. For over two centuries, Australian courts upheld this doctrine. In 1992, the High Court of Australia's Mabo decision formally overturned terra nullius, recognizing that Aboriginal and Torres Strait Islander peoples had maintained legal systems and land relationships prior to British arrival. The decision did not undo two centuries of dispossession, but it opened pathways for native title claims that had previously been legally inconceivable.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the Mabo decision was insufficient because it did not restore land to Aboriginal communities.",
+    "B": "explain how a legal doctrine was used to justify dispossession and how it was eventually overturned.",
+    "C": "compare the legal systems of Aboriginal peoples with those of British colonizers to show their incompatibility.",
+    "D": "describe the political controversies surrounding the Mabo decision and its reception in Australian society."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage traces the arc of terra nullius: its function as justification for dispossession, its long judicial history, and its eventual overturning in the 1992 Mabo decision, along with the limited but real consequence of opening native title claims. This is an explanatory purpose—establishing what the doctrine was and how it ended (B). A introduces an evaluative argument about the decision's sufficiency that the passage does not make; it notes that dispossession was not undone but frames the decision's opening of new pathways without condemning it as inadequate. C is unsupported; no comparison of legal systems is made. D describes political controversy, which the passage does not address."
+}

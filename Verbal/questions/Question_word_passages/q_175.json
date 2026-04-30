@@ -1,0 +1,16 @@
+{
+  "id": "q_175",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The Roman Senate's authority during the late Republic was largely customary rather than constitutional. No written law explicitly granted senators the power they wielded over foreign policy, public finance, and military appointments. Their power derived instead from prestige, precedent, and the collective deference of magistrates who regarded the Senate's opinions as binding even when they technically were not. It was an arrangement that functioned well so long as all parties accepted its implicit premises—and that became increasingly precarious once ambitious individuals like Sulla and Julius Caesar chose to treat senatorial norms as negotiable.",
+  "question": "As used in the passage, \"precarious\" most nearly means",
+  "choices": {
+    "A": "complex",
+    "B": "corrupt",
+    "C": "unstable",
+    "D": "outdated"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage describes an arrangement that worked when its 'implicit premises' were accepted, but that became 'precarious' once ambitious individuals began treating its norms as negotiable. The context indicates the arrangement became liable to collapse or failure—it depended entirely on voluntary compliance. 'Unstable' (C) captures this sense of being vulnerable to disruption. 'Complex' (A) does not fit; the passage describes a fragile, not a complicated, arrangement. 'Corrupt' (B) implies moral wrongdoing, which the passage does not assert—Sulla and Caesar challenged norms, but the passage frames this as defection from consensus, not corruption per se. 'Outdated' (D) implies the arrangement had become obsolete, which is not the passage's argument; it became fragile due to defectors, not age."
+}

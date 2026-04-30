@@ -1,0 +1,16 @@
+{
+  "id": "q_147",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Antibiotic-resistant bacteria have emerged as one of the most serious threats to global public health. The overuse of antibiotics in medicine and agriculture has accelerated the natural selection of resistant strains. _______, international health organizations have called for strict limitations on antibiotic prescribing and a complete ban on the prophylactic use of antibiotics in livestock.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Similarly,",
+    "B": "In response,",
+    "C": "Nevertheless,",
+    "D": "For example,"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences establish a problem (antibiotic resistance caused by overuse). The third sentence describes actions taken to address that problem. 'In response' (B) correctly signals that the actions described are a reaction to the problem identified. 'Similarly' (A) would imply the third sentence is analogous to the second, but it describes a different type of event (a policy response, not another cause). 'Nevertheless' (C) signals contrast or concession, misrepresenting a response as a contradiction. 'For example' (D) would imply the third sentence is an illustration of overuse, but calling for restrictions is a response to overuse, not an example of it."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_352",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "In the decades following World War II, urban planners in the United States demolished hundreds of mixed-use neighborhoods in the name of 'slum clearance,' replacing dense residential areas with superblocks of high-rise public housing isolated from street life, commercial activity, and transit. The intention was to provide modern, sanitary housing; the result, critics such as Jane Jacobs argued, was the destruction of functioning social ecosystems—networks of neighbors, shopkeepers, and street characters that provided informal surveillance, childcare, and community support. Many of these housing projects were later demolished themselves after they became centers of concentrated poverty and crime.",
+  "question": "Based on the passage, what can most reasonably be inferred about the urban planning approach described?",
+  "choices": {
+    "A": "Urban planners deliberately sought to destroy social networks in the neighborhoods they cleared.",
+    "B": "The social value embedded in dense, mixed-use neighborhoods was not adequately understood or valued in the planning process, leading to interventions that improved physical conditions while dismantling informal community infrastructure.",
+    "C": "Jane Jacobs agreed that high-rise public housing was a better solution than mixed-use neighborhoods and only criticized its implementation.",
+    "D": "The high-rise housing projects described were eventually demolished solely because of poor construction quality."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage contrasts planners' intentions (modern, sanitary housing) with the actual outcome (destruction of social ecosystems, concentrated poverty). This gap between intent and outcome implies that planners did not understand or account for the informal social value of the neighborhoods they cleared. B accurately infers this planning blind spot. A attributes deliberate malice to planners—the passage says their intention was to provide good housing, not to destroy social networks. C misrepresents Jacobs's position—she criticized the entire approach as destroying functioning ecosystems, not just its implementation. D introduces construction quality as the reason for demolition, when the passage attributes the failure to social and community factors."
+}

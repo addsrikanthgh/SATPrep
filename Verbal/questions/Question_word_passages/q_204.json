@@ -1,0 +1,16 @@
+{
+  "id": "q_204",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "Researchers studied 1,200 adults aged 40–65 and recorded their serum vitamin D levels (in ng/mL) alongside bone mineral density (BMD) scores. Participants with vitamin D levels below 12 ng/mL had an average BMD score of 0.71 g/cm². Those with levels of 12–20 ng/mL had an average score of 0.79 g/cm². Participants with levels of 20–30 ng/mL had an average score of 0.88 g/cm², and those with levels above 30 ng/mL had an average score of 0.94 g/cm². The researchers noted that participants who exercised more than three times per week had higher BMD scores within every vitamin D category.",
+  "question": "A physician claims that vitamin D supplementation, which raises serum vitamin D levels, is likely to improve bone mineral density. Which finding from the study most directly supports this claim?",
+  "choices": {
+    "A": "Participants who exercised more than three times per week had higher BMD scores within every vitamin D category.",
+    "B": "Participants with vitamin D levels above 30 ng/mL had the highest average BMD scores in the study at 0.94 g/cm².",
+    "C": "BMD scores increased progressively with each higher vitamin D level category, from 0.71 g/cm² for the lowest category to 0.94 g/cm² for the highest.",
+    "D": "The study enrolled 1,200 adults between the ages of 40 and 65."
+  },
+  "correct_answer": "C",
+  "explanation": "The physician's claim rests on a positive relationship between higher vitamin D levels and better bone density. C describes the complete monotonic increase in BMD across all four vitamin D categories, establishing a consistent association that directly supports the claim. B identifies only the highest group's result and cannot alone establish the broader relationship. A introduces exercise as a separate variable and says nothing specific about the vitamin D–BMD relationship. D is a sample description with no relevance to the claim."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_110",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Early economic theories treated labor as simply another commodity—a resource to be bought and sold like iron or grain, with no claims that markets could not override. The labor reform movements of the nineteenth century challenged this framework, arguing that labor could never be reduced to a commodity because workers, unlike raw materials, are human beings whose dignity must be recognized. This argument eventually found expression in law: the Clayton Antitrust Act of 1914 declared explicitly that 'the labor of a human being is not a commodity or article of commerce.'",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that early economic theories were fundamentally flawed and should be rejected by modern economists",
+    "B": "describe how a prevailing economic concept was contested and ultimately codified as legal principle",
+    "C": "explain the specific provisions of the Clayton Antitrust Act and their long-term impact on American labor law",
+    "D": "compare the working conditions of nineteenth-century laborers with those of workers in earlier eras"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage follows a three-part arc: an economic view (labor as commodity), a challenge to that view (labor reform movements), and the legal outcome (the Clayton Act). Choice B captures this structure—a concept was contested and then encoded in law. Choice A overstates the passage's stance; the author describes the debate without prescribing rejection of early theories. Choice C is too narrow; the Clayton Act appears only in the final sentence as an outcome, and its provisions are not analyzed. Choice D makes a comparison between eras that the passage never makes."
+}

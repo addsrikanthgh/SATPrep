@@ -1,0 +1,16 @@
+{
+  "id": "q_872",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Evolutionary biology holds that natural selection favors traits that increase reproductive success. ______, it might seem puzzling that altruistic behaviors—such as warning calls that alert group members to predators at the caller's own risk—would persist across generations.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "Given this framework",
+    "B": "Despite this finding",
+    "C": "In summary",
+    "D": "By contrast"
+  },
+  "correct_answer": "A",
+  "explanation": "'Given this framework' signals that the second sentence follows logically within the context established by the first—the puzzle of altruism is puzzling precisely because of what evolutionary biology says about natural selection. The transition correctly establishes the first sentence as the context that makes the second sentence surprising. 'Despite this finding' signals a contradiction to an empirical finding, but the first sentence is a theoretical principle, not a finding. 'In summary' signals a conclusion of prior statements, but the passage is introducing, not summarizing. 'By contrast' signals opposition between the two sentences, but they are logically connected rather than opposed."
+}

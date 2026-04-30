@@ -1,0 +1,16 @@
+{
+  "id": "q_192",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The economic concept of 'path dependence' holds that outcomes are shaped not only by current conditions but by the historical sequence of events that preceded them. The canonical example is the QWERTY keyboard layout, designed in the 1870s to reduce typewriter jams by separating commonly paired letters. Though the mechanical problem has long been obsolete, the layout persists because switching costs—retraining millions of typists, replacing hardware—make deviation from the established standard prohibitively expensive. Path dependence thus explains why economically inferior solutions can persist indefinitely once they achieve sufficient adoption.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the QWERTY keyboard should be replaced with a more efficient design.",
+    "B": "define path dependence and illustrate it with a concrete historical example.",
+    "C": "trace the full history of keyboard design from typewriters to modern computers.",
+    "D": "challenge economists who believe that markets always produce optimal outcomes."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage opens with a definition of path dependence, offers the QWERTY keyboard as a concrete example, and then returns to the broader concept by explaining what the example illustrates. The structure is: definition → example → restatement of concept. B accurately captures this structure. A misidentifies the passage's purpose; it uses QWERTY to explain path dependence, not to advocate for keyboard reform. C overstates the scope; the passage mentions only the 1870s origin without tracing subsequent keyboard history. D involves a potential implication of path dependence theory but is not what the passage argues—it never explicitly critiques market optimality claims."
+}

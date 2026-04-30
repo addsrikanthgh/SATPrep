@@ -1,0 +1,16 @@
+{
+  "id": "q_838",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The software engineer worked to _______ the bug that was causing the application to crash intermittently, spending two days tracing through thousands of lines of code to find its source.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "isolate",
+    "B": "replicate",
+    "C": "publicize",
+    "D": "automate"
+  },
+  "correct_answer": "A",
+  "explanation": "'Isolate' in debugging means to identify and pinpoint a specific problem by narrowing it down from surrounding code—which is what tracing through thousands of lines to find the source describes. 'Replicate' means to reproduce the bug intentionally—a diagnostic step, but 'tracing through code to find its source' describes locating, not reproducing. 'Publicize' means to make widely known—the opposite of an internal debugging process. 'Automate' means to make something happen automatically—irrelevant to finding a bug's source."
+}

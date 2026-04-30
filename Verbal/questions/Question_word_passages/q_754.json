@@ -1,0 +1,16 @@
+{
+  "id": "q_754",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "The development of the smallpox vaccine by Edward Jenner in 1796 was based on an observation: milkmaids who contracted cowpox—a mild, related disease—seemed to be immune to smallpox. Jenner hypothesized that deliberate infection with cowpox could confer protection against smallpox. He tested this by infecting a child with cowpox and then, weeks later, exposing the child to smallpox material; the child did not develop the disease. Jenner's method spread rapidly and was eventually adopted globally. In 1980, the World Health Organization declared smallpox eradicated—the only human infectious disease to have been fully eliminated through human intervention.",
+  "question": "Based on the passage, what can most reasonably be inferred about Jenner's approach to developing the smallpox vaccine?",
+  "choices": {
+    "A": "He drew on practical observation of patterns in the natural world to form and test a hypothesis that ultimately led to a major medical breakthrough.",
+    "B": "Jenner's experiment would be considered ethically unacceptable by modern standards because it involved exposing a child to a potentially fatal disease without informed consent.",
+    "C": "The success of Jenner's method was primarily due to advances in microscopy that allowed him to identify the cowpox virus under magnification.",
+    "D": "Jenner's work was immediately accepted by the global medical community and implemented worldwide within a decade of his initial experiment."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes Jenner's method: observation of a pattern (milkmaids immune to smallpox after cowpox), hypothesis formation, and experimental test. This is a reasoning process from natural observation to hypothesis to intervention. A accurately captures this empirical, observation-driven approach. B raises a valid modern ethical concern but is not what the passage asks us to infer—the question asks what can be inferred about Jenner's approach, and the ethical dimension is not addressed in the passage. C is incorrect—Jenner's work predated germ theory and virology; there is no mention of microscopy. D overstates the timeline; the passage says his method 'spread rapidly' but does not say worldwide implementation happened within a decade."
+}

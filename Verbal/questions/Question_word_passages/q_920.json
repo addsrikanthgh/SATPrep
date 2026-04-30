@@ -1,0 +1,16 @@
+{
+  "id": "q_920",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The use of solitary confinement in prisons—the practice of isolating individuals in small cells for twenty-two to twenty-four hours a day—is defended by corrections officials as a necessary tool for managing dangerous or disruptive inmates and protecting the safety of other prisoners and staff. Without the threat of this sanction, they argue, order within prisons cannot be maintained.\n\nText 2: A substantial body of psychiatric research has documented severe psychological harm associated with prolonged solitary confinement, including anxiety, depression, hallucinations, and suicidal ideation. These effects appear even in individuals with no prior mental health conditions. Critically, studies of prison systems that have dramatically reduced solitary confinement—including in several Scandinavian countries and some U.S. states—have not found evidence that its reduction compromises institutional safety or increases violence. The security justification, while intuitively compelling, is not well supported by evidence.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the argument made in Text 1?",
+  "choices": {
+    "A": "By agreeing that safety concerns justify solitary confinement when used on a temporary basis",
+    "B": "By arguing that the psychological harms of solitary confinement are exaggerated and do not outweigh its security benefits",
+    "C": "By contending that the security justification for solitary confinement is not supported by evidence from systems that have reduced its use without increasing violence",
+    "D": "By claiming that prisons should have no authority to manage dangerous inmates and that all restrictions are unjustified"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 directly addresses Text 1's security justification by citing evidence from prison systems that reduced solitary confinement without compromising safety. This empirical evidence undermines the necessity argument in Text 1. C accurately captures this counter-evidence strategy. A misrepresents Text 2, which does not distinguish temporary use as acceptable. B inverts Text 2's position—it argues the psychological harms are real and substantial. D overstates Text 2's position far beyond what it claims."
+}

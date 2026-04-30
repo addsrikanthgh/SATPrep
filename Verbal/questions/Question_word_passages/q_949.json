@@ -1,0 +1,16 @@
+{
+  "id": "q_949",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The 'paradox of tolerance,' formulated by philosopher Karl Popper, argues that a society that is tolerant without limit will eventually have its tolerance seized and destroyed by the intolerant. Popper concluded that in order to maintain a tolerant society, the society must retain the right to be intolerant of intolerance—to suppress movements that threaten tolerance itself. He was careful to note, however, that this response should be exercised only when such movements have abandoned rational argument for violence or intimidation, not merely because their ideas are offensive or unpopular.",
+  "question": "Based on the passage, what can most reasonably be inferred about Popper's view of political tolerance?",
+  "choices": {
+    "A": "Popper believed that all offensive or unpopular ideas should be suppressed to protect a tolerant society.",
+    "B": "Popper believed that tolerance is unconditional and that no movement should ever be restricted, regardless of its behavior.",
+    "C": "Popper believed that tolerance has defensible limits, but that those limits should be triggered by violence or intimidation rather than by the mere offensiveness of ideas.",
+    "D": "Popper argued that intolerant movements should always be suppressed before they have an opportunity to act, as a preventive measure."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage explicitly states that Popper argued society must be 'intolerant of intolerance,' but his qualification was that this response should be exercised only against movements that 'abandoned rational argument for violence or intimidation, not merely because their ideas are offensive or unpopular.' C accurately captures this qualified view—limits exist but are triggered by conduct, not ideas. A contradicts the explicit qualification about 'offensive or unpopular' ideas. B contradicts the core of Popper's argument—he does argue for defensible limits. D contradicts the passage's emphasis on waiting until movements abandon rational argument for violence, implying a reactive rather than purely preventive response."
+}

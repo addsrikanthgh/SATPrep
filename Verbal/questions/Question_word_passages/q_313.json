@@ -1,0 +1,16 @@
+{
+  "id": "q_313",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1:\nMigrating birds are known to use multiple navigational cues, including the position of the sun, star patterns at night, and the smell of ocean air. However, one of the most studied mechanisms is magnetoreception—the ability to sense Earth's magnetic field. Behavioral experiments have shown that birds will reorient their migration direction when exposed to artificially altered magnetic fields, suggesting an internal magnetic compass plays a central role in long-distance navigation.\n\nText 2:\nThe biological mechanism underlying bird magnetoreception remains debated. One leading hypothesis involves cryptochrome proteins in the eye, which may undergo quantum-mechanical reactions triggered by magnetic fields to provide directional information. A competing hypothesis holds that magnetite crystals in the beak serve as the primary detector. Recent research has found evidence supporting both mechanisms in different species, leading some scientists to propose that birds may possess two separate magnetoreception systems for different navigational purposes.",
+  "question": "How do the two texts relate to each other?",
+  "choices": {
+    "A": "Text 1 establishes that birds have a magnetic compass, and Text 2 explores the competing biological hypotheses about how that compass works.",
+    "B": "Text 2 contradicts Text 1 by showing that birds do not actually use magnetic fields to navigate.",
+    "C": "Text 1 describes the quantum-mechanical mechanism behind magnetoreception, and Text 2 tests this mechanism in behavioral experiments.",
+    "D": "Both texts argue that magnetite crystals in the beak are the primary source of bird magnetoreception."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 provides behavioral evidence that birds use a magnetic compass (they reorient when magnetic fields are altered). Text 2 then explores the unresolved question of the biological mechanism—cryptochrome proteins vs. magnetite crystals, or possibly both. A correctly describes this complementary two-text structure: Text 1 establishes the phenomenon, Text 2 digs into the mechanism. B is incorrect—Text 2 does not dispute magnetic navigation, it investigates how it works. C reverses the roles: Text 1 describes behavioral experiments, and Text 2 describes the quantum-mechanical hypothesis. D attributes a specific conclusion (magnetite as primary) to both texts, but Text 1 does not discuss mechanisms, and Text 2 presents magnetite as one of two competing hypotheses, not the conclusion."
+}

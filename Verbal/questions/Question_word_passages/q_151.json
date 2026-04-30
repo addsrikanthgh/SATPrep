@@ -1,0 +1,16 @@
+{
+  "id": "q_151",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "medium",
+  "passage": "Ocean acidification occurs when seawater absorbs carbon dioxide from the atmosphere, producing carbonic acid that lowers the ocean's pH. Since the Industrial Revolution, surface ocean pH has dropped from 8.2 to approximately 8.1—a shift that represents a roughly 26% increase in acidity. While this change may seem small, it has significant biological consequences. Organisms that build shells and skeletons from calcium carbonate—including corals, oysters, and many species of plankton—find it increasingly difficult to calcify in more acidic conditions. Because these organisms form the foundation of marine food webs, the effects of acidification are expected to cascade through entire ocean ecosystems.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "The Industrial Revolution is primarily responsible for the decline of coral reefs and shellfish populations worldwide.",
+    "B": "A relatively small measurable drop in ocean pH is producing significant biological consequences that threaten marine food webs.",
+    "C": "Ocean acidification poses a threat exclusively to organisms that build calcium carbonate structures, leaving most marine species unaffected.",
+    "D": "Scientists are uncertain whether the 26% increase in ocean acidity is large enough to meaningfully impact marine life."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage makes two central points: the pH change is numerically modest yet biologically significant, and by threatening calcifying organisms at the base of food webs, its effects spread widely. B captures both dimensions. A introduces a causal claim (Industrial Revolution is 'primarily responsible') that overstates what the passage says, and limits the effect to specific species rather than ecosystems. C contradicts the passage, which explicitly states that effects will 'cascade through entire ocean ecosystems.' D contradicts the passage's clear assertion that the change 'has significant biological consequences'—no uncertainty is expressed."
+}

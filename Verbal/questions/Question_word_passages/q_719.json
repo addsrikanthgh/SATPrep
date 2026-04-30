@@ -1,0 +1,16 @@
+{
+  "id": "q_719",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1: The great auk was a flightless seabird native to the North Atlantic that was driven to extinction in 1844, primarily by hunting. Sailors and hunters prized the birds for their feathers, meat, and oil, and collected their eggs. The last known pair was killed on the island of Eldey, Iceland.\n\nText 2: In recent years, advances in ancient DNA sequencing and gene editing technology have led scientists to propose 'de-extinction' projects for several species, including the great auk. By extracting DNA from preserved specimens and editing the genome of a closely related living species, researchers believe it may eventually be possible to produce an animal with many of the great auk's characteristics. Critics argue that the resources spent on de-extinction could be better used to protect currently endangered species.",
+  "question": "Which choice best describes the relationship between Text 1 and Text 2?",
+  "choices": {
+    "A": "Text 1 describes the extinction of a species; Text 2 describes scientific proposals to reverse that extinction and a critique of those proposals.",
+    "B": "Text 2 provides historical context that explains why the great auk described in Text 1 was hunted to extinction by humans.",
+    "C": "Both texts argue that de-extinction is scientifically feasible and should be pursued as a conservation priority.",
+    "D": "Text 2 focuses on the legal and ethical barriers that have prevented the great auk's extinction, as described in Text 1."
+  },
+  "correct_answer": "A",
+  "explanation": "Text 1 gives the historical account of the great auk's extinction. Text 2 describes modern proposals to revive the species through genetic technology and includes a critique of those proposals. A accurately captures this narrative arc: extinction described in Text 1, revival efforts discussed in Text 2 along with criticism. B inverts the relationship—Text 2 looks forward to proposed revival, not backward to historical causes. C misrepresents both texts—neither argues de-extinction should be a priority; Text 2 presents both the proposals and the critique. D is incoherent—Text 2 discusses revival proposals, not barriers to extinction."
+}

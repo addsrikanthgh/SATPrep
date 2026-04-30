@@ -1,0 +1,16 @@
+{
+  "id": "q_654",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The scholar noted that medieval illuminated manuscripts were not merely decorative objects _______ they served as memory-training tools, helping readers internalize complex theological arguments through visual cues.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "objects;",
+    "B": "objects,",
+    "C": "objects:",
+    "D": "objects"
+  },
+  "correct_answer": "C",
+  "explanation": "The first clause makes a claim ('not merely decorative objects'), and the second clause explains what they actually were and why ('they served as memory-training tools'). This is a classic colon context: the second independent clause explains or elaborates on the first. A colon (C) correctly signals this explanatory relationship. A semicolon (A) would work grammatically but doesn't capture the explanatory relationship as precisely. A comma alone (B) creates a comma splice. No punctuation (D) is a run-on."
+}

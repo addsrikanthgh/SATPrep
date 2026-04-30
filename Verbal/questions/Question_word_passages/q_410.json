@@ -1,0 +1,16 @@
+{
+  "id": "q_410",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A public health study examined vaccination rates and measles incidence across 200 school districts over a ten-year period. Districts where vaccination rates fell below 90% experienced measles outbreaks at a rate 14 times higher than districts maintaining rates above 95%. Districts that fell below 90% and then restored rates above 95% through targeted outreach campaigns saw outbreak rates return to baseline within two years. The researchers noted that many of the low-vaccination districts were clustered geographically, suggesting that local exemption policies and social network effects contributed to vaccination rate declines.",
+  "question": "Which data most directly supports the conclusion that the relationship between vaccination rates and outbreak risk is reversible through targeted intervention?",
+  "choices": {
+    "A": "Districts that fell below 90% and then restored rates above 95% through outreach campaigns saw outbreak rates return to baseline within two years.",
+    "B": "Districts with rates below 90% had outbreak rates 14 times higher than those above 95%.",
+    "C": "Low-vaccination districts were geographically clustered.",
+    "D": "The study examined 200 school districts over ten years."
+  },
+  "correct_answer": "A",
+  "explanation": "A directly addresses reversibility: the same districts that had high outbreak rates returned to baseline after targeted intervention restored vaccination rates, showing the relationship can be reversed. B demonstrates the vaccination-outbreak relationship exists but does not speak to reversibility. C provides a geographic clustering note relevant to causes but not to reversibility. D describes study scale—methodology, not a finding about reversibility."
+}

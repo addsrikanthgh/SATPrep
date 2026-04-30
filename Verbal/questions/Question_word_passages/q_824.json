@@ -1,0 +1,16 @@
+{
+  "id": "q_824",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The scientist's findings, which contradicted decades of established research, were initially met with _______ from the broader scientific community; colleagues questioned her methods and doubted her conclusions before her replication studies eventually validated the work.",
+  "question": "Which choice completes the text with the most logical and precise word or phrase?",
+  "choices": {
+    "A": "skepticism",
+    "B": "reverence",
+    "C": "indifference",
+    "D": "consensus"
+  },
+  "correct_answer": "A",
+  "explanation": "'Skepticism' means doubt or disbelief, especially a cautious attitude toward claims that have not yet been verified. The context—colleagues questioning methods and doubting conclusions before validation—describes skepticism precisely. 'Reverence' means deep respect or admiration—opposite of questioning and doubting. 'Indifference' means lack of interest or concern—but the colleagues were actively questioning her, not ignoring her. 'Consensus' means general agreement—which the scientist was challenging, not receiving."
+}

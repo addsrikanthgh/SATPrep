@@ -1,0 +1,16 @@
+{
+  "id": "q_959",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Sociologists studying 'cultural capital'—a concept developed by Pierre Bourdieu—argue that middle- and upper-class families transmit not only financial resources to their children but also familiarity with the cultural codes, aesthetic preferences, and social behaviors valued by elite institutions. Children who grow up attending museums, classical concerts, and discussing art and literature at home develop an ease with these cultural forms that signals class membership to gatekeepers at universities and employers. First-generation college students, by contrast, may lack this cultural fluency, making institutional navigation harder even when academic preparation is equivalent.",
+  "question": "Based on the passage, what can most reasonably be inferred about why first-generation college students may face disadvantages even if they are academically well-prepared?",
+  "choices": {
+    "A": "First-generation college students are less intelligent than their peers from higher-income families.",
+    "B": "First-generation college students may struggle because academic ability alone is insufficient—success in elite institutions also rewards cultural familiarity that is unevenly distributed across social classes.",
+    "C": "Elite universities intentionally exclude first-generation students regardless of their academic credentials.",
+    "D": "Cultural capital can be acquired quickly by any student who attends a single museum visit or concert."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains that elite institutions value 'cultural codes, aesthetic preferences, and social behaviors' transmitted through upper-class upbringing, and that first-generation students 'may lack this cultural fluency, making institutional navigation harder even when academic preparation is equivalent.' This implies that academic preparation alone is not sufficient—cultural familiarity also matters and is unequally distributed. B correctly reflects this inference. A is not supported and is contradicted by the framing—the passage attributes the disadvantage to cultural capital, not intelligence. C overstates—the passage describes subtle cultural signaling and gatekeeping, not explicit intentional exclusion. D contradicts the passage, which implies cultural capital is built through years of childhood exposure, not a single visit."
+}

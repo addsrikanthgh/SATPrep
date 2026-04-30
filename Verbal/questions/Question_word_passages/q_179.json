@@ -1,0 +1,16 @@
+{
+  "id": "q_179",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Hannah Arendt's concept of the 'banality of evil,' developed in Eichmann in Jerusalem (1963), argued that Adolf Eichmann—far from being a monstrous ideological fanatic—was a disturbingly ordinary bureaucrat who organized the deportation of Jews to death camps primarily through careerism and thoughtlessness rather than ideological hatred. Arendt's argument provoked fierce criticism: survivors and scholars accused her of minimizing perpetrator responsibility and exonerating Nazi perpetrators. Yet the concept has also generated enduring scholarly influence, precisely because its discomfort forces readers to confront how atrocity can be sustained not only by hatred but by the more ordinary failures of moral imagination.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "refute the criticisms of Arendt's argument by demonstrating that her account of Eichmann was factually accurate.",
+    "B": "present Arendt's concept of the banality of evil, note the controversy it generated, and explain why it has remained intellectually significant.",
+    "C": "argue that Nazi perpetrators were motivated by thoughtlessness rather than ideology, supporting Arendt's position.",
+    "D": "compare Arendt's interpretation of Eichmann with those of her critics to determine whose account is more historically accurate."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage follows a three-part structure: introducing Arendt's argument, summarizing the criticism it received, and explaining its enduring influence despite controversy. B accurately describes all three parts without taking sides. A is incorrect—the passage does not refute criticisms; it reports them and then explains the concept's influence. C would require the passage to endorse Arendt's position, but it presents both sides neutrally while explaining the concept's value. D implies a resolution—determining which account is more accurate—but the passage makes no such judgment."
+}

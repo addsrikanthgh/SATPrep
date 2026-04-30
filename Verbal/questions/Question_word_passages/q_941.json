@@ -1,0 +1,16 @@
+{
+  "id": "q_941",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Fiber optic cables transmit data as pulses of light rather than electrical signals, which allows them to carry vastly more data over longer distances with far less signal degradation than copper cables. However, fiber optic cables are fragile, expensive to install, and require specialized splicing equipment when cut or damaged. In many rural and developing regions, copper infrastructure installed decades ago remains the primary means of internet delivery, even as fiber networks expand in dense urban areas.",
+  "question": "Based on the passage, what can most reasonably be inferred about internet infrastructure in rural areas?",
+  "choices": {
+    "A": "Rural areas have faster internet speeds than urban areas because copper cables transmit signals without degradation.",
+    "B": "Rural areas are likely to have slower or less capable internet connections than urban areas, partly because replacing existing copper infrastructure with fiber is costly.",
+    "C": "Fiber optic cables are being rapidly installed in rural areas around the world, eliminating the copper infrastructure gap within the next decade.",
+    "D": "Rural residents prefer copper-based internet connections because they are more reliable than fiber optic networks."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that fiber offers superior data capacity and distance, but it is expensive to install; and that rural areas continue to rely on older copper infrastructure 'even as fiber networks expand in dense urban areas.' This implies urban areas are getting faster fiber while rural areas remain on slower copper, and the cost/fragility of fiber creates barriers to replacing existing copper infrastructure. B is the most reasonable inference. A contradicts the passage—copper has more signal degradation than fiber. C is not supported—the passage says fiber is expanding in urban areas and that copper remains in rural regions. D introduces preference claims not in the passage."
+}

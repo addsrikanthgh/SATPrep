@@ -1,0 +1,16 @@
+{
+  "id": "q_336",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The engineer who designed both the suspension bridge and the adjoining overpass _______ now retired and living in Portugal.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject is 'The engineer,' a singular noun. The relative clause 'who designed both the suspension bridge and the adjoining overpass' modifies 'engineer' but does not change the subject's number. 'Is' (B) is singular present—correct. 'Are' (A) and 'have been' (D) are plural. 'Were' (C) is past tense—the sentence uses 'now,' indicating the present state."
+}

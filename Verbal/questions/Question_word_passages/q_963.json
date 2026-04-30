@@ -1,0 +1,16 @@
+{
+  "id": "q_963",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Although the Turing Test is widely cited as a benchmark for machine intelligence, Alan Turing himself had more modest intentions. In his 1950 paper, Turing was not attempting to define intelligence; he was attempting to replace the philosophically fraught question 'Can machines think?' with a more tractable operational question: can a machine fool a human interrogator into believing it is human? Turing acknowledged this substitution explicitly and did not claim the imitation game was equivalent to thought. Subsequent researchers who treat passing the Turing Test as evidence of genuine intelligence are arguably misreading the original proposal.",
+  "question": "The author's discussion of Alan Turing's original intentions primarily serves to",
+  "choices": {
+    "A": "prove that artificial intelligence research has made no meaningful progress since 1950.",
+    "B": "correct a common misinterpretation of what the Turing Test was designed to measure.",
+    "C": "argue that the Turing Test is the most rigorous benchmark for evaluating machine intelligence.",
+    "D": "summarize the history of artificial intelligence from Turing's original paper to the present day."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage argues that the Turing Test is widely cited as a benchmark for intelligence, but that this is a misreading—Turing was replacing a philosophical question with an operational one and did not claim the test measured genuine thought. The discussion of Turing's intentions is specifically aimed at correcting the common misinterpretation that passing the test equals genuine intelligence. B accurately describes this purpose. A is not supported—the passage makes no claim about AI progress. C is directly contradicted—the passage argues the test measures imitation, not genuine intelligence. D describes a history of AI, which the passage does not provide."
+}

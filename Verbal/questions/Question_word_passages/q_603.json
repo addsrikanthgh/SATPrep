@@ -1,0 +1,16 @@
+{
+  "id": "q_603",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A psychologist published a study arguing that increased social media use among teenagers directly causes higher rates of depression and anxiety. The study measured social media use through self-reported daily hours and assessed mental health through standardized questionnaires. Critics questioned whether the relationship was causal or merely correlational, suggesting that adolescents who already feel depressed may use social media more—not the reverse.",
+  "question": "Which finding, if true, would most directly weaken the psychologist's causal claim?",
+  "choices": {
+    "A": "A longitudinal study found that increases in social media use did not precede increases in depression symptoms; instead, increases in depression symptoms preceded increases in social media use.",
+    "B": "Teenagers who use social media for more than four hours daily report higher rates of loneliness than those who use it for fewer than two hours.",
+    "C": "The standardized mental health questionnaires used in the study have been validated in multiple prior studies.",
+    "D": "Social media companies have developed tools that alert users when their daily usage exceeds a set threshold."
+  },
+  "correct_answer": "A",
+  "explanation": "The causal claim is that social media use causes depression. A directly weakens this by showing the temporal direction is reversed—depression precedes increased social media use, supporting the critics' alternative explanation. B strengthens the association (though not causation). C supports the methodology but doesn't address causality. D is about industry responses and is irrelevant to the causal claim."
+}

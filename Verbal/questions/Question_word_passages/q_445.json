@@ -1,0 +1,16 @@
+{
+  "id": "q_445",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The companys new policy requires all employees to submit expense reports within 30 days of travel _______ failure to comply will result in reimbursement being denied.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "travel, failure",
+    "B": "travel; failure",
+    "C": "travel: failure",
+    "D": "travel failure"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence contains two independent clauses: 'The company's new policy requires all employees to submit expense reports within 30 days of travel' and 'failure to comply will result in reimbursement being denied.' Two independent clauses may be joined with a semicolon. B correctly uses a semicolon. A creates a comma splice—a comma alone cannot join two independent clauses without a coordinating conjunction. C uses a colon, which introduces an elaboration or list after a complete clause; while arguably borderline here, the second clause is a separate consequence, not a direct elaboration of the first, making a semicolon more appropriate. D has no punctuation between two independent clauses—a run-on sentence."
+}

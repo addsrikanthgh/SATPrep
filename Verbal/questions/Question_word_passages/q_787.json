@@ -1,0 +1,16 @@
+{
+  "id": "q_787",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "While researching a topic, a student has taken the following notes:\n- The philosopher Peter Singer argues that affluent individuals have a moral obligation to donate to effective charities until doing so causes them significant harm.\n- Singer's argument is based on the premise that if we can prevent something bad from happening without sacrificing anything of comparable moral importance, we ought to do it.\n- Critics argue Singer's standard is too demanding—it would require most people to give away the majority of their income.\n- Philosopher Susan Wolf argues that a morally good person is not one who acts only on impartial moral principles, but also one who pursues personal projects and commitments that make life meaningful.\n- Singer has acknowledged that even if his standard is correct, realistic giving targets of 10% of income represent a meaningful and practical starting point.",
+  "question": "Which choice most effectively uses the notes to present Singer's argument and the main philosophical objection to it?",
+  "choices": {
+    "A": "Peter Singer argues that affluent people are morally obligated to donate to charity until giving causes them significant harm, a standard critics call too demanding because it would require most people to donate the majority of their income.",
+    "B": "Singer has acknowledged that a 10% giving target is a practical starting point, even if his full standard requires much more.",
+    "C": "Philosopher Susan Wolf argues that a morally good person also pursues personal projects and commitments, not only impartial moral principles.",
+    "D": "Singer's argument rests on the premise that we ought to prevent bad things when doing so requires no comparable sacrifice."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to present Singer's argument and the main philosophical objection. A states Singer's position (donate until significant harm) and immediately follows with the critics' objection (too demanding; would require donating most income). It accomplishes both parts of the goal. B addresses Singer's acknowledgment of a practical compromise—a nuance, not his core argument or the main objection. C presents Wolf's alternative vision of morality without connecting it to Singer's argument or identifying it as an objection to Singer specifically. D gives only Singer's premise without the objection."
+}

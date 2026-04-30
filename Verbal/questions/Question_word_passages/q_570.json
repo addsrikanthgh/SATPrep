@@ -1,0 +1,16 @@
+{
+  "id": "q_570",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The human gut contains approximately 100 trillion microorganisms—bacteria, viruses, fungi, and other microbes—collectively called the gut microbiome. In recent years, research has linked the composition of this microbial community to a remarkable range of health conditions, including obesity, type 2 diabetes, inflammatory bowel disease, and even mental health disorders. The gut-brain axis—a bidirectional communication system linking gut microbiota and the central nervous system via neural, hormonal, and immune pathways—may help explain associations between gut microbiome disruptions and conditions such as depression and anxiety. However, many of these associations are correlational rather than causal, and the field is still in early stages; researchers caution against overstating what is currently known.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "prove that gut microbiome disruptions directly cause depression and anxiety",
+    "B": "describe the emerging and promising but still-incomplete research on the gut microbiome's associations with various health conditions",
+    "C": "recommend dietary changes that individuals can make to improve their gut microbiome",
+    "D": "compare the effectiveness of pharmaceutical versus dietary interventions for gut microbiome-related conditions"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage introduces the microbiome, describes health associations, explains the gut-brain axis mechanism, and then qualifies by noting that associations are 'correlational rather than causal' and the field is 'in early stages.' B accurately captures this balanced, informative-but-qualified structure. A is directly contradicted—the passage says associations are correlational, not causal. C is incorrect—no dietary recommendations are made. D is incorrect—no comparison of pharmaceutical and dietary interventions is presented."
+}

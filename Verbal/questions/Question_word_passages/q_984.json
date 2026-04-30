@@ -1,0 +1,16 @@
+{
+  "id": "q_984",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is researching the science of bird migration and has taken the following notes:\n- Many migratory bird species travel thousands of miles between breeding and wintering grounds each year, often following the same routes across generations.\n- Birds navigate using multiple cues: the sun's position, star patterns, Earth's magnetic field, and landmarks.\n- Magnetoreception in birds is thought to rely on cryptochrome proteins in the eye that detect magnetic field direction; the exact mechanism remains under active investigation.\n- Climate change has shifted the timing of peak insect abundance in some regions; if birds arrive on schedule but insects have already peaked, chick survival declines.\n- Long-distance migratory species are among the most rapidly declining bird groups globally, with population losses exceeding 50% in some species over the past 50 years.",
+  "question": "The student wants to explain why climate change poses a particular threat to migratory birds. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Migratory birds rely on multiple navigation systems—including the sun, stars, Earth's magnetic field, and landmarks—to travel thousands of miles between breeding and wintering grounds each year.",
+    "B": "Climate change threatens migratory birds by disrupting the synchrony between their arrival times and the peak abundance of the insects their chicks depend on for food, a mismatch that reduces chick survival.",
+    "C": "Long-distance migratory species have experienced population declines exceeding 50% over the past 50 years, making them among the most threatened groups of birds globally.",
+    "D": "Birds use cryptochrome proteins in the eye to detect Earth's magnetic field for navigation, though the precise mechanism by which this magnetoreception works is still being investigated."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to explain why climate change poses a particular threat. B directly draws on the climate-specific note: the disruption of timing synchrony between bird arrival and insect peak abundance, reducing chick survival. This mechanism is specific to climate change's threat and is clearly stated. A describes navigation systems, which are not specifically threatened by climate change. C presents population decline statistics but does not explain why climate change is the specific cause. D explains the magnetic navigation mechanism, not a climate threat."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_946",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Urban heat islands form when large areas of pavement, rooftops, and reduced vegetation absorb and retain solar heat, raising local temperatures several degrees above surrounding rural areas. This effect is most pronounced at night, when surfaces release the heat absorbed during the day. Cities with higher tree canopy cover experience less severe heat island effects; trees provide shade, reducing surface temperatures, and release water vapor through evapotranspiration, cooling the air. However, tree planting in urban areas is uneven: wealthier neighborhoods typically have significantly more tree cover than lower-income ones.",
+  "question": "Based on the passage, what can most reasonably be inferred about the health risks of urban heat islands?",
+  "choices": {
+    "A": "Heat-related health risks from urban heat islands are distributed equally across all income levels in cities.",
+    "B": "Urban tree planting programs are ineffective at reducing nighttime temperatures.",
+    "C": "Lower-income urban residents are likely to experience more severe heat exposure than higher-income residents in the same city.",
+    "D": "Rural residents experience more heat-related health risks than urban residents because rural areas lack paved surfaces."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage states that tree canopy cover reduces the urban heat island effect, but that wealthier neighborhoods have significantly more tree cover than lower-income ones. This implies that lower-income neighborhoods experience more severe heat island effects and, by extension, more severe heat exposure—a health risk inference that follows directly from combining these two facts. C is the most reasonable inference. A contradicts the passage—income-based disparities in tree cover imply unequal heat exposure. B contradicts the passage, which says trees reduce heat island effects including at night. D contradicts the passage, which states cities have higher temperatures than rural areas."
+}

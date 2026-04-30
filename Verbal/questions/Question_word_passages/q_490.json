@@ -1,0 +1,16 @@
+{
+  "id": "q_490",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "hard",
+  "passage": "The historian Jared Diamond famously argued in Guns, Germs, and Steel that the differential conquest of the world by European civilizations resulted not from any intrinsic cultural or intellectual superiority but from geographic and environmental advantages: Europe and western Asia happened to have domesticable plants and animals, east-west oriented landmasses that facilitated crop diffusion, and dense agricultural populations that generated epidemic diseases to which Europeans had developed partial immunity. Critics have raised several objections. Some argue that Diamond's framework is environmentally deterministic—reducing human history to geography and biology at the expense of politics, institutions, and contingency. Others note that his account relies on selective evidence and glosses over countercases where geography did not clearly predict outcomes.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Diamond proved that geography is the only factor needed to explain why European civilizations came to dominate other parts of the world.",
+    "B": "Diamond offered a geographic explanation for European dominance, but critics have questioned whether his framework is overly deterministic and selectively evidenced.",
+    "C": "Critics of Diamond's work agree that geography plays no meaningful role in explaining differences between civilizations.",
+    "D": "Diamond's work has been universally praised as the definitive account of why some civilizations were more successful than others."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage summarizes Diamond's geographic argument and then presents two lines of criticism: environmental determinism and selective evidence. B accurately captures both the argument and the critique. A overstates Diamond's claims—the passage does not say Diamond proved geography is the only factor, and A ignores the criticism entirely. C misrepresents the critics—they question whether geography is the only factor, not whether it plays 'any meaningful role.' D contradicts the passage, which devotes the entire second half to criticism of Diamond's work."
+}

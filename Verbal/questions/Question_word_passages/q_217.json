@@ -1,0 +1,16 @@
+{
+  "id": "q_217",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "easy",
+  "passage": "A municipal waste management report tracked recycling rates and remaining landfill capacity across six comparable cities. City A had a 15% recycling rate and 6.8 years of remaining landfill capacity. City B had 28% and 11.2 years. City C had 37% and 14.5 years. City D had 45% and 18.3 years. City E had 58% and 22.1 years. City F had 70% and 28.6 years.",
+  "question": "A city planner claims that higher municipal recycling rates are associated with greater remaining landfill capacity. Which data from the report most directly supports this claim?",
+  "choices": {
+    "A": "City F, which had the highest recycling rate (70%), also had the most remaining landfill capacity at 28.6 years.",
+    "B": "City A, with the lowest recycling rate of 15%, had only 6.8 years of landfill capacity remaining.",
+    "C": "Across all six cities, remaining landfill capacity increased alongside recycling rate—from 6.8 years at 15% recycling to 28.6 years at 70%.",
+    "D": "Cities with recycling rates above 50% had more than 20 years of landfill capacity remaining."
+  },
+  "correct_answer": "C",
+  "explanation": "The planner's claim requires evidence of a consistent positive association between recycling rate and landfill capacity across cities. C describes the full pattern across all six data points, showing that capacity and recycling rate increased together in every case—the most direct and complete evidence. A and B each present only one data point and cannot alone establish a multi-city association. D covers only a subset of cities (those above 50%) and does not establish the relationship across the full range of recycling rates."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_492",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "medium",
+  "passage": "The human circadian rhythm—the approximately 24-hour internal clock that regulates sleep-wake cycles, hormone release, and body temperature—is primarily synchronized by light exposure, particularly to the short-wavelength blue light that is abundant in natural daylight. Photoreceptive cells in the retina called intrinsically photosensitive retinal ganglion cells (ipRGCs) detect light and signal the brain's suprachiasmatic nucleus, the master circadian pacemaker. Exposure to bright blue-wavelength light in the evening delays the circadian clock because the system interprets such light as an indication that it is still daytime. This is the mechanism behind the well-documented finding that exposure to electronic screens before bed disrupts sleep onset and sleep quality.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "The human circadian rhythm is entirely controlled by hormone release and body temperature fluctuations, not by light.",
+    "B": "The circadian rhythm is synchronized by light through a specific retinal pathway, and exposure to blue light in the evening disrupts this system by mimicking daylight.",
+    "C": "Electronic screen use before bed causes permanent damage to the retinal cells responsible for detecting light.",
+    "D": "The suprachiasmatic nucleus is a brain structure that regulates only hormone release, not the sleep-wake cycle."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains the mechanism by which light synchronizes the circadian clock via ipRGCs and the suprachiasmatic nucleus, and then explains why evening blue light (including from screens) disrupts sleep. B accurately captures the mechanism and the practical consequence. A is directly contradicted—the passage says the clock is primarily synchronized by light. C goes far beyond the passage; no claim about permanent retinal damage is made. D contradicts the passage, which explicitly states the suprachiasmatic nucleus regulates sleep-wake cycles."
+}

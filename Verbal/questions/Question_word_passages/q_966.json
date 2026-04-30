@@ -1,0 +1,16 @@
+{
+  "id": "q_966",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Research in behavioral economics has identified a phenomenon called 'status quo bias': people have a strong tendency to prefer the current state of affairs to any change, even when the change would objectively benefit them. This bias appears in diverse contexts—from retirement savings (workers who must actively opt into a pension plan save less than those automatically enrolled who must opt out) to organ donation (countries with opt-out policies have dramatically higher donor rates than opt-in countries). Behavioral economists argue this shows that 'default' settings wield outsized influence on decisions once assumed to be the product of rational deliberation.",
+  "question": "The author's discussion of retirement savings and organ donation primarily serves to",
+  "choices": {
+    "A": "argue that governments should mandate automatic retirement enrollment and opt-out organ donation.",
+    "B": "illustrate the concept of status quo bias with concrete real-world examples from different domains.",
+    "C": "compare the effectiveness of retirement savings policies in different countries.",
+    "D": "explain why behavioral economics is a more rigorous field than classical economics."
+  },
+  "correct_answer": "B",
+  "explanation": "The examples of retirement savings and organ donation follow the definition of status quo bias and serve as concrete illustrations of how the phenomenon manifests in real-world policy contexts. They are used as examples, not as arguments for specific policies. B correctly identifies the rhetorical function. A goes further than the passage—the passage describes the finding, not a policy recommendation. C focuses on comparative country analysis, but the passage uses these examples to illustrate a concept, not compare country policies. D makes a claim about the rigor of behavioral economics, which the passage does not address."
+}

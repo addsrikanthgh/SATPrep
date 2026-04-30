@@ -1,0 +1,16 @@
+{
+  "id": "q_631",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "Unlike the previous administration, which had pursued an _______ foreign policy—intervening in conflicts on multiple continents and maintaining a global network of military bases—the new government pledged to limit its international commitments to those directly affecting national security.",
+  "question": "Which word best completes the sentence?",
+  "choices": {
+    "A": "expansive",
+    "B": "isolationist",
+    "C": "restrained",
+    "D": "defensive"
+  },
+  "correct_answer": "A",
+  "explanation": "'Expansive' (wide-ranging, extending over a large area or many domains) describes the previous administration's policy of intervening in multiple continents and maintaining global bases. The contrast with the new government's 'limited commitments' makes the previous policy's broad, interventionist nature clear. Isolationist (avoiding foreign involvement) is the opposite of the described policy. Restrained (limited, controlled) describes the new policy, not the previous one. Defensive (protecting against attack) doesn't capture the active, global interventionism described."
+}

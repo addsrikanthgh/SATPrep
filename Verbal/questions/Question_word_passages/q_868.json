@@ -1,0 +1,16 @@
+{
+  "id": "q_868",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The Amazon rainforest generates its own rainfall through the release of water vapor from trees—a process known as evapotranspiration. ______, large-scale deforestation disrupts this cycle, causing rainfall reductions even in areas far from the deforested land.",
+  "question": "Which choice most effectively transitions from the first sentence to the second?",
+  "choices": {
+    "A": "However",
+    "B": "For this reason",
+    "C": "Likewise",
+    "D": "In addition"
+  },
+  "correct_answer": "B",
+  "explanation": "'For this reason' indicates that the second sentence is a consequence of or logically follows from the first—because forests generate rainfall through evapotranspiration, removing them disrupts this cycle, causing rainfall reduction. The first sentence establishes the mechanism; the second explains what happens when that mechanism is disrupted. 'However' signals contrast, but the two sentences are causally related. 'Likewise' signals similarity or analogy—the second is a consequence, not a parallel case. 'In addition' adds another point in the same direction, but the second sentence is a consequence of removing the process described in the first."
+}

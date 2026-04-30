@@ -1,0 +1,16 @@
+{
+  "id": "q_254",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The new transit line will serve four neighborhoods, Riverside, Millbrook, East Canton, and Harborview, reducing commute times for approximately 80,000 residents.",
+  "question": "Which edit to the sentence best follows standard English punctuation conventions?",
+  "choices": {
+    "A": "No edit is needed; the commas correctly set off the four neighborhood names as a nonrestrictive list.",
+    "B": "Replace the commas around the neighborhood list with dashes or parentheses to clearly distinguish the list from the surrounding sentence structure.",
+    "C": "Replace the commas between neighborhood names with semicolons to properly separate items in a geographic list.",
+    "D": "Remove all commas from the sentence since neighborhood names in a series do not require punctuation."
+  },
+  "correct_answer": "B",
+  "explanation": "The four neighborhood names form a parenthetical list ('Riverside, Millbrook, East Canton, and Harborview') that is itself set off from the main clause by commas. However, because the list items are also separated by commas, the sentence becomes ambiguous: readers cannot easily tell where the list ends and the surrounding sentence resumes. Replacing the enclosing commas with dashes (—Riverside, Millbrook, East Canton, and Harborview—) or parentheses makes the boundary clear and eliminates the ambiguity. B correctly identifies this problem and its solution. A is incorrect because the current punctuation is ambiguous. C would introduce semicolons between the list items, which is unnecessary since none of the items contains internal commas. D is incorrect; list items in a series require commas."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_338",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The council asked both the mayor and the deputy mayor to submit _______ budget recommendations before the end of the month.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "his",
+    "B": "her",
+    "C": "their",
+    "D": "its"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent of the possessive pronoun is 'both the mayor and the deputy mayor'—a compound subject referring to two people. 'Their' (C) is the correct plural possessive pronoun for a compound antecedent. 'His' (A) is singular masculine—incorrect for two people. 'Her' (B) is singular feminine—also incorrect. 'Its' (D) is singular neuter, typically used for non-human entities—incorrect for two people."
+}

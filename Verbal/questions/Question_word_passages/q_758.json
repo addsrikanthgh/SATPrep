@@ -1,0 +1,16 @@
+{
+  "id": "q_758",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "Framing effects occur when the way a choice is presented influences the decision made, even when the underlying options are logically equivalent. In a classic study, Amos Tversky and Daniel Kahneman presented subjects with a scenario involving a disease outbreak that was projected to kill 600 people. One group was told that Program A would save 200 people, while Program B had a one-third chance of saving 600 and a two-thirds chance of saving none. The second group was told the same programs using survival framing: Program A would result in 400 deaths, and Program B had a one-third chance of no deaths and a two-thirds chance of 600 deaths. Mathematically, both frames described identical outcomes. However, when choices were framed in terms of gains (lives saved), most people chose the certain option; when framed in terms of losses (deaths), most people chose the risky option.",
+  "question": "Based on the passage, what can most reasonably be inferred about human decision-making under risk?",
+  "choices": {
+    "A": "People's choices between certain and risky options are influenced by how outcomes are described rather than by the actual probabilities and payoffs involved.",
+    "B": "Most people are consistently risk-averse and will always choose the certain outcome regardless of how the options are framed.",
+    "C": "Framing effects are limited to medical decisions and do not extend to financial or other domains of choice.",
+    "D": "Tversky and Kahneman's study proved that human decision-making is entirely irrational and that mathematical reasoning has no role in real choices."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage shows that mathematically identical options produced different choices depending on whether outcomes were framed as gains or losses. This directly supports inferring that how options are described—not just the underlying probabilities—shapes decisions. A is the most reasonable inference. B is contradicted by the passage: when outcomes were framed as losses, most people chose the risky option, showing risk-seeking behavior under loss framing. C restricts the scope of framing effects to medical decisions—the passage does not make this limitation, and the result is presented as a general finding about human decision-making. D overstates; the study shows predictable biases, not that all human reasoning is irrational or that mathematical reasoning plays no role."
+}

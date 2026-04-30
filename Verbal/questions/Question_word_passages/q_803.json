@@ -1,0 +1,16 @@
+{
+  "id": "q_803",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "Researchers studying workplace productivity noted that employees in open-plan offices reported higher levels of distraction and interruption than those in private offices or cubicles. Based on this finding, the researchers concluded that open-plan designs may reduce rather than increase collaboration.",
+  "question": "Which finding from a follow-up study would most directly support the researchers' conclusion?",
+  "choices": {
+    "A": "'In a sample of 1,000 workers, those in open-plan offices had 73% fewer face-to-face interactions and 67% more electronic communications than those in enclosed offices—suggesting that open plans drive communication to lower-quality digital channels.'",
+    "B": "'Open-plan offices reduce real estate costs by approximately 30% compared to partitioned office configurations of equivalent square footage.'",
+    "C": "'Workers in private offices reported the highest satisfaction with their physical workspace environment across all office configurations studied.'",
+    "D": "'Cross-departmental friendships were more common among employees who worked in open-plan offices than those in closed offices, according to a workplace survey.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The conclusion is that open-plan designs reduce rather than increase collaboration. A directly supports this by showing that open-plan workers had fewer face-to-face interactions and more digital communications—the opposite of the anticipated collaborative benefit. B addresses cost savings—irrelevant to the collaboration question. C reports worker satisfaction with private offices but does not address collaboration frequency or quality. D contradicts the conclusion by showing open plans increased cross-departmental friendships, suggesting a social benefit."
+}

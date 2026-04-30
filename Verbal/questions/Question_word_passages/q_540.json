@@ -1,0 +1,16 @@
+{
+  "id": "q_540",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The team of engineers, together with the project manager and the lead architect, _______ scheduled to present the revised blueprints to the city council next Tuesday.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "are",
+    "B": "is",
+    "C": "were",
+    "D": "have been"
+  },
+  "correct_answer": "B",
+  "explanation": "The grammatical subject is 'The team of engineers.' 'Team' is a collective noun treated as singular in American English when it refers to the group acting as a unit. The phrases 'together with the project manager and the lead architect' are parenthetical additions introduced by 'together with'—they do not change the grammatical subject or its number. The singular verb 'is' is required. B is correct. A ('are') is plural. C ('were') is past tense and plural. D ('have been') is present perfect plural."
+}

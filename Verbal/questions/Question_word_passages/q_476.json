@@ -1,0 +1,16 @@
+{
+  "id": "q_476",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Unlike most metals, which are found in Earth's crust in the form of ores, gold is often found in nearly pure form as nuggets or grains in riverbeds and alluvial deposits. This accessibility made gold one of the first metals worked by ancient peoples. _______, gold's resistance to corrosion and its warm luster made it the material of choice for ritual and prestige objects across many early civilizations, from Mesopotamia to the Andes.",
+  "question": "Which choice most effectively transitions between the second and third sentences?",
+  "choices": {
+    "A": "However",
+    "B": "As a result",
+    "C": "In addition",
+    "D": "Although"
+  },
+  "correct_answer": "C",
+  "explanation": "'In addition' correctly signals that the third sentence adds a second reason (resistance to corrosion and luster) why gold was valued, on top of the first reason discussed (accessibility and early adoption). The sentence adds a complementary point. 'However' implies the third sentence contrasts with the second, but being resistant to corrosion is not a contrast to being accessible. 'As a result' implies the ritual use was caused by gold's early adoption—while related, the sentence introduces an additional property, not a pure consequence. 'Although' is a subordinating conjunction, not a sentence-opening transition."
+}

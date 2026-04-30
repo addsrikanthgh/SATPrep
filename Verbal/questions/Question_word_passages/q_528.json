@@ -1,0 +1,16 @@
+{
+  "id": "q_528",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The data _______ that the proposed intervention reduced hospitalizations by fourteen percent in the first year, though researchers caution that longer follow-up is needed to confirm the trend.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "suggests",
+    "B": "suggest",
+    "C": "are suggesting",
+    "D": "have suggested"
+  },
+  "correct_answer": "A",
+  "explanation": "The word 'data' is technically the plural of 'datum,' but in modern standard American English, particularly in scientific and journalistic contexts, 'data' is increasingly treated as a collective noun taking a singular verb. On the SAT, when 'data' is used as a collective noun referring to a body of information treated as a unit, the singular verb is preferred. A ('suggests') is singular and correct in this context. B ('suggest') would be correct if 'data' were strictly treated as plural, but the SAT tests the more current standard American usage treating 'data' as singular in such contexts. C ('are suggesting') is plural and uses an unnecessary progressive form. D ('have suggested') is plural and shifts to present perfect unnecessarily."
+}

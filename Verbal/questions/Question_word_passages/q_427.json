@@ -1,0 +1,16 @@
+{
+  "id": "q_427",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "easy",
+  "passage": "The new CEO moved quickly to consolidate the company's operations, merging three regional divisions into a single unit and centralizing purchasing decisions that had previously been left to individual managers.",
+  "question": "As used in the passage, 'consolidate' most nearly means",
+  "choices": {
+    "A": "to make something physically stronger by reinforcing its structure.",
+    "B": "to combine separate things into a unified whole and concentrate control.",
+    "C": "to analyze and evaluate a company's financial accounts.",
+    "D": "to negotiate a settlement between competing parties."
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the CEO consolidated by merging divisions and centralizing decisions—combining previously separate units and concentrating authority. B captures both the combining and the centralizing sense. A is the structural reinforcement sense (e.g., 'consolidate a position on a hillside'). C is a financial audit sense unrelated to the passage. D is a negotiation sense unrelated to the passage."
+}

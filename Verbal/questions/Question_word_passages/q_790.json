@@ -1,0 +1,15 @@
+{
+  "id": "q_790",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Agroecology is an approach to farming that applies ecological principles to agricultural systems.\n- It emphasizes biodiversity, soil health, and the reduction of chemical inputs.\n- A 2021 meta-analysis found that agroecological practices increased yields by an average of 19% in smallholder farming systems in low- and middle-income countries.\n- The same meta-analysis found that agroecological farms had significantly higher biodiversity than conventional farms in the same regions.\n- Critics of agroecology argue that it cannot produce enough food to feed the world's growing population at large scale.\n\nThe student wants to summarize the main finding of the meta-analysis and note the key criticism of agroecology. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "A 2021 meta-analysis found that agroecological practices increased yields by 19% and improved biodiversity in smallholder systems, though critics argue the approach cannot produce sufficient food at large scale.",
+    "B": "Agroecology applies ecological principles to farming, emphasizing biodiversity, soil health, and reduced chemical inputs.",
+    "C": "Critics argue that agroecology cannot feed the world's growing population because it relies on small-scale farming techniques.",
+    "D": "The 2021 meta-analysis found that agroecological farms had significantly higher biodiversity than conventional farms in the same regions."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to summarize the meta-analysis's main finding and note the key criticism. A covers both the yield finding (19% increase) and the biodiversity finding from the meta-analysis, then immediately notes the critics' objection (insufficient food at scale). B defines agroecology generally—it gives no meta-analysis findings or criticism. C presents only the criticism without the meta-analysis findings. D presents only the biodiversity finding from the meta-analysis, omitting the yield result and the criticism."
+}

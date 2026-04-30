@@ -1,0 +1,16 @@
+{
+  "id": "q_891",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "The concept of 'nudge theory,' developed by behavioral economists Richard Thaler and Cass Sunstein, holds that the way choices are presented—the 'choice architecture'—can significantly influence decisions without restricting options or changing incentives. Classic examples include placing healthier foods at eye level in cafeterias, enrolling employees in retirement savings plans by default (with opt-out rather than opt-in procedures), and printing energy usage comparisons on utility bills. Critics raise concerns that nudges manipulate behavior without transparency, that their effects are often modest in magnitude, and that they may distract policymakers from structural reforms needed to address systemic problems. Proponents argue that nudges are low-cost, preserve individual freedom, and are particularly valuable in domains where people consistently make choices against their own expressed long-term preferences.",
+  "question": "Which choice best describes what the passage presents about nudge theory?",
+  "choices": {
+    "A": "Nudge theory is a discredited approach to behavioral economics that has been replaced by more effective policy tools.",
+    "B": "Nudge theory uses choice architecture to influence behavior without restricting options, and its merits and limitations are actively debated.",
+    "C": "Nudge theory achieves large, measurable changes in behavior that traditional policy instruments cannot match.",
+    "D": "Nudge theory works primarily by restricting unhealthy choices to steer consumers toward better options."
+  },
+  "correct_answer": "B",
+  "explanation": "B accurately describes the passage: it explains what nudge theory is (using choice architecture), gives examples, and then presents both critics' objections and proponents' defenses. A describes the theory as discredited—the passage presents ongoing debate, not dismissal. C overstates the theory's effectiveness—critics explicitly note that effects are 'often modest in magnitude.' D contradicts the passage's definition, which specifies that nudges do not restrict options."
+}

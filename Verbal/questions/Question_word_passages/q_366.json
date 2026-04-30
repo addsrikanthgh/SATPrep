@@ -1,0 +1,16 @@
+{
+  "id": "q_366",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Traditional economic models treat firms as unified actors pursuing profit maximization. This assumption is mathematically tractable and generates clean, testable predictions. The behavioral theory of the firm, developed by Herbert Simon and later Richard Cyert and James March, challenged this view by treating firms as coalitions of individuals with partially conflicting goals—managers pursuing career security, workers pursuing wages and conditions, shareholders pursuing returns. Rather than maximizing profit, these coalitions achieve a shifting 'satisficing' equilibrium—each subgroup accepting outcomes that are good enough given what others are willing to accept. The result is a theory that is messier and harder to model than profit maximization but that better describes the actual decision-making processes observable inside organizations.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "advocate for replacing all economic models with behavioral approaches.",
+    "B": "contrast the assumptions and predictions of traditional profit-maximization models with the behavioral theory of the firm, which treats firms as coalitions achieving satisficing equilibria.",
+    "C": "argue that shareholders always have more power than managers and workers in determining firm behavior.",
+    "D": "explain why mathematical tractability is the most important criterion for evaluating economic theories."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly contrasts two frameworks: the traditional model (firms as unified profit-maximizers, mathematically tractable) and the behavioral theory (firms as coalitions satisficing among competing interests, messier but more descriptively accurate). B accurately identifies this contrast as the passage's primary purpose. A overstates—the passage describes the behavioral theory as 'messier' and harder to model, not as a universal replacement for economic models. C attributes a power hierarchy to the passage that it does not state—the passage lists managers, workers, and shareholders as coalition members without establishing dominance. D attributes to the passage an argument about tractability as the primary criterion—the passage notes tractability as a feature of the traditional model but does not advocate for it as the top criterion."
+}

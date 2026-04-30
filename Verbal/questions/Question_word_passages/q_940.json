@@ -1,0 +1,16 @@
+{
+  "id": "q_940",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The scientist ______ the dataset would reveal significant trends was disappointed to find that the results were inconclusive.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "who expected",
+    "B": "whom expected",
+    "C": "expecting",
+    "D": "expected"
+  },
+  "correct_answer": "A",
+  "explanation": "'Who' is the correct relative pronoun when the pronoun functions as the subject of the relative clause. In 'who expected the dataset would reveal...,' 'who' is the subject of 'expected.' The test: 'The scientist [who] expected...' → the scientist is doing the expecting, so the subject form 'who' is correct. 'Whom' is the object form—'whom' would be correct if the pronoun were the object of a verb or preposition, but here it is the subject. 'Expecting' creates a participial phrase, which is acceptable but changes the structure slightly; however, 'who expected' is the cleaner and more precise relative clause. 'Expected' would need 'had' or 'who' before it to complete the clause, and alone it creates an ambiguous modifier."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_300",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Classical economic theory assumes that individuals make rational decisions by accurately calculating the costs and benefits of their options. Behavioral economists have demonstrated that human decision-making systematically deviates from this model: people are loss-averse, susceptible to framing effects, and heavily influenced by defaults. _______, acknowledging these deviations does not necessarily require abandoning rational-choice frameworks altogether; researchers such as Richard Thaler have argued that these predictable biases can themselves be modeled and incorporated into more realistic theoretical accounts.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Therefore,",
+    "B": "Similarly,",
+    "C": "That said,",
+    "D": "As an illustration,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage first states behavioral economics' critique of rational-choice theory, then qualifies that critique by noting the deviations can be modeled within updated frameworks. The relationship is concessive: the critique is granted, but something important remains true despite it. 'That said' (C) is a standard concessive phrase meaning 'acknowledging all that, the following point still holds'—exactly the move the third sentence makes. 'Therefore' (A) would imply the ability to model biases is a conclusion drawn from the critique—incorrect; it is a qualification of the critique. 'Similarly' (B) would imply the qualification parallels the critique—the two are in tension, not in parallel. 'As an illustration' (D) would imply Thaler's argument illustrates the behavioral critique—incorrect; it qualifies the strength of that critique."
+}

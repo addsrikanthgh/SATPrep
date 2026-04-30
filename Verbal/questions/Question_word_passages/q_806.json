@@ -1,0 +1,16 @@
+{
+  "id": "q_806",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "medium",
+  "passage": "A historian argues that economic inequality in medieval European cities was greater than commonly assumed, challenging the popular image of medieval towns as relatively egalitarian communities compared to modern cities.",
+  "question": "Which finding from an analysis of historical tax records would most directly support the historian's argument?",
+  "choices": {
+    "A": "'Analysis of fifteenth-century tax registers in Florence and Bruges reveals that the wealthiest 5% of households controlled more than 60% of assessed taxable wealth, a concentration comparable to modern inequality levels in many countries.'",
+    "B": "'Property tax records from medieval German towns show that guild membership was required to own a business, limiting economic mobility for immigrants and non-citizens.'",
+    "C": "'Medieval European cities had substantially smaller populations than modern cities, with even the largest, such as Paris and Venice, containing fewer than 200,000 inhabitants in 1400.'",
+    "D": "'Records from medieval London show that craft guilds regulated wages and prices, providing a degree of economic stability not found in unregulated modern labor markets.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The historian argues that medieval urban inequality was greater than commonly assumed and comparable to modern inequality. A directly supports this with data showing that the wealthiest 5% controlled over 60% of wealth—explicitly compared to modern inequality levels—from historical tax records. B describes barriers to economic mobility but does not quantify inequality levels or compare them to modern cities. C addresses population size, which is irrelevant to the inequality argument. D describes guild regulation as providing stability—potentially arguing against, not for, high inequality."
+}

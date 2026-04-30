@@ -1,0 +1,16 @@
+{
+  "id": "q_353",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The philosopher of science Karl Popper argued that a theory is scientific only if it is 'falsifiable'—capable of being proved wrong by some possible observation or experiment. This criterion was designed to distinguish genuine science from what Popper considered pseudo-sciences, particularly Freudian psychoanalysis and Marxist historical theory. Popper's objection was not that these theories were obviously false but that they were structured to accommodate any possible evidence: every outcome could be reinterpreted as consistent with the theory, meaning no observation could in principle refute them.",
+  "question": "Based on the passage, what can most reasonably be inferred about a theory that claims to explain every possible outcome?",
+  "choices": {
+    "A": "Such a theory is the most powerful kind of scientific theory because it has no empirical exceptions.",
+    "B": "According to Popper, a theory that explains every possible outcome is scientifically suspect because it cannot in principle be disproven and therefore makes no genuinely testable claims.",
+    "C": "Popper argued that the ability to explain every outcome is the defining mark of a good scientific theory.",
+    "D": "A theory that explains every possible outcome is acceptable as science if it was developed by a credentialed scientist."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains that Popper's criterion distinguishes science from pseudo-science via falsifiability. His specific criticism of Freudian and Marxist theories was that they could accommodate any evidence—meaning no observation could refute them. By extension, any theory claiming to explain every possible outcome shares this structure and would be 'scientifically suspect' by Popper's criterion. B correctly applies Popper's logic. A inverts Popper's argument—he considered such theories less scientific, not more powerful. C directly contradicts the passage. D introduces credentials as a criterion for scientific validity, which Popper's argument does not use."
+}

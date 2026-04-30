@@ -1,0 +1,16 @@
+{
+  "id": "q_774",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Jazz emerged in New Orleans in the late nineteenth and early twentieth centuries at the intersection of African musical traditions—polyrhythm, call-and-response, improvisation—and European harmonic structures. The city's unique cultural mix of Creole, African American, and European communities created a space for these elements to blend. Early jazz spread northward during the Great Migration, when hundreds of thousands of African Americans moved from the South to cities like Chicago and New York. As the music moved, it changed: bebop in the 1940s pushed jazz toward greater complexity and virtuosity; cool jazz in the 1950s slowed the tempo and smoothed the timbre; free jazz in the 1960s abandoned conventional structure altogether. Each new style both built on and rebelled against what came before.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "trace the origins of jazz and describe how it evolved through successive stylistic movements.",
+    "B": "argue that bebop represents the highest artistic achievement in the history of jazz.",
+    "C": "compare the musical structures of African and European musical traditions in detail.",
+    "D": "explain why jazz has declined in popularity since the 1960s."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage describes jazz's origins in New Orleans, explains how it spread north with the Great Migration, and then traces its evolution through bebop, cool jazz, and free jazz. A accurately captures this origin-plus-evolution narrative. B attributes a value judgment about bebop that the passage does not make. C claims a detailed comparison of African and European musical structures, but the passage only briefly names distinguishing elements before moving to the broader historical narrative. D introduces a narrative of decline that is not in the passage—the passage ends with free jazz in the 1960s without discussing decline."
+}

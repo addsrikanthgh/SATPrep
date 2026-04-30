@@ -1,0 +1,16 @@
+{
+  "id": "q_948",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "easy",
+  "passage": "Humans are capable of perceiving sounds between roughly 20 Hz and 20,000 Hz, but this range narrows significantly with age. By adulthood, most people cannot hear sounds above 15,000 to 16,000 Hz, and by later adulthood, the upper limit may drop further to around 8,000 to 12,000 Hz. This age-related hearing loss, called presbycusis, primarily affects high-frequency sounds and is caused by the gradual loss of hair cells in the cochlea, which do not regenerate.",
+  "question": "Based on the passage, what can most reasonably be inferred about teenagers hearing a tone that most adults cannot hear?",
+  "choices": {
+    "A": "Teenagers cannot hear high-frequency tones because their cochlear hair cells are fully developed.",
+    "B": "Teenagers are likely to hear certain high-frequency sounds that older adults cannot, because their upper hearing limit has not yet declined with age.",
+    "C": "The ability to hear high-frequency sounds is unrelated to age and depends entirely on individual variation.",
+    "D": "Adults over the age of 40 are completely deaf to any sound above 8,000 Hz."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explains that the upper frequency limit of hearing declines progressively with age, starting in adulthood. Teenagers have not yet experienced this age-related decline, so their upper hearing range is closer to the full 20,000 Hz maximum. B is the most reasonable inference. A contradicts the passage—cochlear hair cells are associated with the ability to hear, not the inability; full development means better high-frequency hearing. C contradicts the passage, which directly attributes the narrowing of the hearing range to age-related processes. D overstates—the passage says the upper limit may drop to around 8,000–12,000 Hz in later adulthood, not that adults are completely deaf to those frequencies at age 40."
+}

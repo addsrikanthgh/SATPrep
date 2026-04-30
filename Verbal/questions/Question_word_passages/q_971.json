@@ -1,0 +1,16 @@
+{
+  "id": "q_971",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "In classical rhetoric, the appeal to authority (argumentum ad verecundiam) was considered a legitimate form of argumentation—citing credible, knowledgeable sources as evidence for a claim. In modern informal logic textbooks, however, it is frequently listed as a fallacy. The tension is resolved by noting that appeals to authority are only fallacious when the authority cited lacks relevant expertise, is not representative of expert consensus, or has a conflict of interest. A relevant, credible, and unbiased expert is, by contrast, legitimate evidence in most contexts—though in technical scientific domains, the standard shifts further toward citing peer-reviewed evidence rather than individual authority.",
+  "question": "The author's discussion of classical versus modern treatments of the appeal to authority primarily serves to",
+  "choices": {
+    "A": "argue that classical rhetoric is superior to modern informal logic in all respects.",
+    "B": "introduce an apparent contradiction and then resolve it by identifying the conditions under which authority appeals are legitimate or fallacious.",
+    "C": "explain why scientists should rely exclusively on peer review and ignore expert testimony.",
+    "D": "summarize the history of rhetoric from ancient Greece to the present day."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage sets up a tension: classical rhetoric treats appeals to authority as legitimate, while modern logic lists them as a fallacy. The passage then resolves this apparent contradiction by identifying the conditions (irrelevant authority, non-representative, conflict of interest) that make such appeals fallacious, and the conditions under which they remain legitimate. B accurately describes this structure. A claims classical rhetoric is superior, which the passage does not argue. C overstates—the passage recommends peer-reviewed evidence in technical scientific contexts specifically, not a blanket rejection of expert testimony. D promises a historical survey, which the passage does not provide."
+}

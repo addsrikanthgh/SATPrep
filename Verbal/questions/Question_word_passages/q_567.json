@@ -1,0 +1,16 @@
+{
+  "id": "q_567",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The mantis shrimp is a small crustacean found in tropical and subtropical marine environments, and it is remarkable in several ways. Its striking coloration makes it one of the most visually impressive creatures in the ocean. More remarkably, the mantis shrimp possesses the most complex visual system of any known animal: it has sixteen types of photoreceptors, compared to three in humans, allowing it to perceive wavelengths of light from deep ultraviolet to far red. Perhaps most impressively, the mantis shrimp is equipped with powerful appendages called dactyl clubs, which it can swing at speeds comparable to a bullet and with a force sufficient to crack aquarium glass. Scientists study these clubs for insights into engineering impact-resistant materials.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "warn aquarium owners about the dangers of housing mantis shrimp in glass tanks",
+    "B": "describe several remarkable physical and sensory characteristics of the mantis shrimp",
+    "C": "argue that the mantis shrimp's visual system is more evolutionarily advanced than any other animal's",
+    "D": "explain the chemical composition of the mantis shrimp's dactyl clubs"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents three remarkable attributes: coloration, visual system, and striking appendages. It is organized descriptively, cataloging unusual features. B correctly identifies this descriptive purpose. A is a practical safety warning, not the passage's purpose—the glass-cracking detail is incidental. C is an evolutionary argument the passage does not make—it describes complexity without making a claim about evolutionary advancement. D is too narrow—the chemical composition is not discussed; the passage focuses on mechanical properties."
+}

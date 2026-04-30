@@ -1,0 +1,16 @@
+{
+  "id": "q_465",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "The Stanford prison experiment, conducted by Philip Zimbardo in 1971, is frequently cited in psychology textbooks as evidence that ordinary people placed in positions of institutional authority will behave cruelly toward those they supervise. _______, archival research published in 2019 revealed that Zimbardo had actively coached the 'guards' to behave harshly and had dismissed participants who resisted the experiment's escalating violence, raising fundamental questions about what the study actually demonstrated.",
+  "question": "Which choice most effectively transitions between the first and second sentences?",
+  "choices": {
+    "A": "In support of this",
+    "B": "More recently, however,",
+    "C": "As a result,",
+    "D": "Indeed,"
+  },
+  "correct_answer": "B",
+  "explanation": "'More recently, however,' does two things simultaneously: it signals a temporal shift (the 2019 research came after Zimbardo's 1971 experiment) and a contrast (the new evidence challenges the textbook interpretation). The second sentence directly undermines the first sentence's established interpretation. 'In support of this' implies the second sentence confirms the textbook interpretation—it does the opposite. 'As a result' implies the archival research caused the textbook citations, which is backwards. 'Indeed' implies the second sentence reinforces the first."
+}

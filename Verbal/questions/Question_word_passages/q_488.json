@@ -1,0 +1,16 @@
+{
+  "id": "q_488",
+  "domain": "Information and Ideas",
+  "skill": "central idea and details",
+  "difficulty": "easy",
+  "passage": "Between 1845 and 1852, a devastating blight caused by the water mold Phytophthora infestans destroyed potato crops throughout Ireland. Because the rural poor subsisted almost entirely on the potato, the failure of successive harvests led to mass starvation. Roughly one million people died of starvation and disease, and another million or more emigrated—reducing Ireland's population by approximately twenty-five percent. The British government's response was widely criticized as inadequate; during the famine, Ireland continued to export significant quantities of food to England, as landlords collected rents and merchants sold grain abroad despite the mass starvation.",
+  "question": "According to the passage, which of the following contributed to the severity of the Irish famine?",
+  "choices": {
+    "A": "The British government immediately banned all food exports from Ireland to prioritize domestic consumption.",
+    "B": "The rural poor grew a variety of crops in addition to potatoes, which provided some protection against the blight.",
+    "C": "The rural poor depended almost entirely on the potato for sustenance, leaving them with no alternative food source when the crop failed.",
+    "D": "The blight was caused by a fungal infection that destroyed all plant crops, not just potatoes."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage explicitly states that 'the rural poor subsisted almost entirely on the potato,' which is why crop failure led to mass starvation. C directly reflects this stated cause. A is directly contradicted—the passage states that Ireland continued to export food during the famine. B is contradicted—the passage implies reliance was on the potato alone, not multiple crops. D is factually incorrect per the passage—only the potato crop is described as destroyed by the blight."
+}

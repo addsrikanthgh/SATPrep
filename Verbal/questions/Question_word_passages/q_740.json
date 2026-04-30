@@ -1,0 +1,16 @@
+{
+  "id": "q_740",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The results of the experiment, which took place over six months in three different laboratories, _______ published in a peer-reviewed journal last spring.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "were",
+    "B": "was",
+    "C": "has been",
+    "D": "is"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The results,' which is plural. The relative clause 'which took place over six months in three different laboratories' modifies a noun within the subject phrase but does not change the subject, which remains 'results.' 'Were' (A) correctly agrees with the plural subject 'results.' 'Was' (B) is singular. 'Has been' (C) is singular present perfect and also fails to agree with the plural subject. 'Is' (D) is singular present tense and is inconsistent with the past-time context established by 'last spring.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_690",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "Sourdough bread is leavened not by commercial yeast but by a fermented starter culture containing wild yeasts and lactic acid bacteria. The bacteria produce lactic and acetic acids as byproducts of fermentation, giving sourdough its characteristic tangy flavor. Fermentation also partially breaks down gluten and phytic acid, a compound found in wheat bran that binds to minerals and reduces their absorption. Because of this, some researchers have suggested that traditionally fermented sourdough may be more digestible and nutritionally accessible than bread made with commercial yeast. However, the degree to which these benefits are preserved in commercially produced 'sourdough' breads—many of which use added acids to mimic the flavor without true fermentation—is an open question.",
+  "question": "According to the passage, which of the following is a claimed benefit of traditionally fermented sourdough over commercial-yeast breads?",
+  "choices": {
+    "A": "Fermentation breaks down compounds that can reduce the absorption of nutrients from the bread.",
+    "B": "Sourdough bread contains no gluten, making it suitable for people with celiac disease.",
+    "C": "The lactic acid bacteria in sourdough starter prevent the growth of harmful pathogens in the digestive tract.",
+    "D": "Sourdough bread has a longer shelf life than commercial bread because of its high acid content."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage states that fermentation partially breaks down phytic acid, which binds to minerals and reduces their absorption, suggesting improved nutritional accessibility. A accurately reflects this mechanism. B is incorrect—the passage says gluten is partially broken down, not eliminated, and does not claim sourdough is gluten-free or suitable for celiac disease. C is not stated in the passage; the bacteria's effect on pathogens is not discussed. D is not mentioned; shelf life is not addressed in the passage."
+}

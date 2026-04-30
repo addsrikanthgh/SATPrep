@@ -1,0 +1,16 @@
+{
+  "id": "q_168",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The discovery of the Rosetta Stone in 1799 provided scholars with a text inscribed in three scripts—ancient Egyptian hieroglyphics, Demotic script, and ancient Greek—which ___ eventually enable Jean-François Champollion to decode hieroglyphics in 1822.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "would",
+    "B": "will",
+    "C": "shall",
+    "D": "should"
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence describes a past discovery (1799) and a subsequent past event (Champollion's decoding in 1822). When narrating a future action relative to a past point in time, English uses 'would'—the past equivalent of 'will'—to indicate that the action was yet to come from the perspective of that past moment. 'Would' (A) correctly expresses this future-in-the-past relationship. 'Will' (B) expresses a future action from the present's perspective and is inconsistent with the past-tense context. 'Shall' (C) is a modal expressing intention or futurity, typically reserved for first-person subjects and formal contexts; it cannot function as a past-tense future here. 'Should' (D) carries a sense of obligation or expectation, which does not fit the factual, completed historical sequence being described."
+}

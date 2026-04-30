@@ -1,0 +1,16 @@
+{
+  "id": "q_519",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The novelist Toni Morrison argued that African American literature should not define itself primarily by its relationship to a white readership. In her critical essay 'Unspeakable Things Unspoken,' Morrison challenged what she called the 'canonical' approach—one that treats African American texts as supplements to, or departures from, an implicitly white-normative tradition. She insisted instead on the autonomy and self-sufficiency of Black literary traditions, which she saw as having their own formal innovations, aesthetic principles, and cultural logic irreducible to their relationship with white American culture.\n\nText 2: The literary scholar Henry Louis Gates Jr. proposed the concept of 'Signifyin(g)'—a distinctly African American rhetorical and literary practice of revising, inverting, and playing with prior texts, both Black and white. Gates argued that African American literature is characterized by a practice of double-voiced revision: Black texts simultaneously speak to and 'signify upon' the dominant literary tradition, transforming it from within. Far from being separate from Western literary tradition, African American literature is in constant, dynamic, and creative dialogue with it.",
+  "question": "How do Morrison's and Gates's approaches to African American literature, as described in the two texts, differ?",
+  "choices": {
+    "A": "Morrison argues that African American literature should completely ignore Western literary tradition, while Gates argues it should replicate it without revision.",
+    "B": "Morrison emphasizes the autonomy of African American literary traditions from a white-normative canon, while Gates describes African American literature as engaging in dynamic, transformative dialogue with the Western tradition.",
+    "C": "Both Morrison and Gates argue that African American literature is primarily defined by its rejection of white literary norms.",
+    "D": "Gates argues that African American literature has no distinctive aesthetic of its own, while Morrison argues the opposite."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 presents Morrison's argument for the self-sufficiency and autonomy of Black literary traditions—distinct and not defined by the dominant canon. Text 2 presents Gates's 'Signifyin(g)' framework, which sees Black literature as in 'constant, dynamic, and creative dialogue' with the Western tradition. B accurately describes this difference: Morrison emphasizes independence, Gates emphasizes engaged transformation. A misrepresents both—Morrison says 'self-sufficiency,' not 'complete ignorance,' and Gates says creative revision, not replication. C misrepresents Gates—he describes creative dialogue, not rejection. D is the opposite of Gates's argument, which celebrates distinctive African American rhetorical practice."
+}

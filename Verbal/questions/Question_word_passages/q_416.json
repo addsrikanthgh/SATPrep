@@ -1,0 +1,16 @@
+{
+  "id": "q_416",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "A neuroscience team studied the effects of bilingual experience on executive function in children aged 5–7. They administered tasks measuring cognitive flexibility (ability to switch between rules), inhibitory control (ability to suppress a prepotent response), and working memory. Bilingual children outperformed monolingual children on cognitive flexibility tasks by a statistically significant margin (effect size d = 0.42) and on inhibitory control tasks (d = 0.38). No significant difference was found in working memory scores. The researchers noted that bilingual children in their sample had used both languages daily since before age 3.",
+  "question": "Based on the data, a scientist argues that early bilingual experience selectively strengthens certain executive functions rather than improving executive function globally. Which evidence best supports this conclusion?",
+  "choices": {
+    "A": "Bilingual children showed significant advantages in cognitive flexibility (d = 0.42) and inhibitory control (d = 0.38) but no significant difference in working memory scores.",
+    "B": "Bilingual children outperformed monolingual children on cognitive flexibility tasks.",
+    "C": "The bilingual children had used both languages daily since before age 3.",
+    "D": "The study measured three components of executive function."
+  },
+  "correct_answer": "A",
+  "explanation": "A presents the differential pattern—advantages in two measures but not a third—which is precisely the evidence for selective rather than global improvement. If bilingualism improved executive function globally, all three measures would show advantages. The null result on working memory is critical to the 'selective' argument. B shows only one advantage without the null result that makes it 'selective.' C describes the language exposure history—relevant context but not the pattern of results. D describes the study design—methodology."
+}

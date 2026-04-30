@@ -1,0 +1,16 @@
+{
+  "id": "q_608",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "Marine biologists studying deep-sea hydrothermal vent ecosystems proposed that chemosynthetic bacteria—which derive energy from hydrogen sulfide rather than sunlight—form the base of the food chain in these environments, supporting complex communities of organisms that are entirely independent of photosynthesis. They further argued that these ecosystems demonstrate that life can exist without any reliance on solar energy.",
+  "question": "Which finding, if true, would most directly challenge the claim that vent ecosystems are entirely independent of solar energy?",
+  "choices": {
+    "A": "Hydrothermal vent ecosystems support organisms such as tube worms and crabs not found elsewhere in the ocean.",
+    "B": "Analysis reveals that a significant proportion of the organic carbon consumed by vent organisms originates from surface waters, where it was produced through photosynthesis and sank to the deep ocean floor.",
+    "C": "Chemosynthetic bacteria at hydrothermal vents can grow at temperatures exceeding 100°C, suggesting adaptation to extreme thermal conditions.",
+    "D": "Hydrothermal vent communities have been discovered at depths greater than 3,000 meters, where no sunlight penetrates."
+  },
+  "correct_answer": "B",
+  "explanation": "The claim is complete independence from solar energy. B directly challenges this by showing that a significant portion of organic carbon in vent ecosystems comes from photosynthetically produced material that sinks from the sunlit surface—meaning the ecosystem is not entirely solar-independent. A supports the claim of a distinct ecosystem but doesn't address solar independence. C describes thermal adaptations but doesn't address solar energy dependence. D supports solar independence by confirming light-free environment, but doesn't test the food web's actual carbon sources."
+}

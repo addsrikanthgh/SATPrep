@@ -1,0 +1,16 @@
+{
+  "id": "q_181",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Proponents of geoengineering argue that solar radiation management—techniques that would reflect a small fraction of sunlight back into space, for example by injecting sulfate aerosols into the stratosphere—could provide a rapid and relatively inexpensive means of reducing global temperatures while societies transition to clean energy. Modeling studies suggest that global temperature increases could be substantially reduced within years of deployment.\n\nText 2: Critics of solar radiation management warn that its apparent advantages mask serious risks. Regional precipitation patterns could be severely disrupted, causing droughts in some areas while alleviating heat in others. Termination shock—the rapid temperature rebound that would occur if aerosol injection were suddenly halted—could be more catastrophic than the gradual warming it was meant to prevent. Most critically, solar radiation management does nothing to address the underlying cause of climate change: rising atmospheric CO₂ concentrations.",
+  "question": "Based on the two texts, Text 2 most directly challenges Text 1's argument by",
+  "choices": {
+    "A": "disputing the modeling studies cited in Text 1 and arguing that they overestimate the temperature reductions achievable through aerosol injection.",
+    "B": "arguing that solar radiation management's apparent benefits are accompanied by distributional harms, withdrawal risks, and a failure to address the root cause.",
+    "C": "contending that the cost of solar radiation management makes it impractical as a climate solution for developing nations.",
+    "D": "proposing that carbon capture and storage is a superior alternative to solar radiation management."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 presents solar radiation management as rapid, inexpensive, and temperature-reducing. Text 2 challenges each dimension: the speed advantage is undermined by termination shock risk, regional precipitation disruption creates distributional harms, and CO₂ concentrations continue to rise (failure to address root cause). B accurately characterizes this multi-dimensional challenge. A is incorrect; Text 2 does not dispute the modeling studies directly—it raises different concerns about risks and root causes. C introduces cost and developing nations, neither of which is mentioned in either text. D proposes an alternative, but Text 2 never mentions carbon capture or suggests an alternative strategy."
+}

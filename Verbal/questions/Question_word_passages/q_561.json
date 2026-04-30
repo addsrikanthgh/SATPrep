@@ -1,0 +1,16 @@
+{
+  "id": "q_561",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "When we think of invasive species, we often picture organisms introduced by humans—zebra mussels transported in ballast water, kudzu vine brought over as ornamental plantings. Less recognized is the phenomenon of 'range expansion': species that expand their geographic ranges on their own in response to changing conditions, particularly shifting temperatures. The coyote, once confined to the American Southwest and Great Plains, has expanded its range to include nearly every U.S. state and much of Canada over the past century. Unlike accidental introductions, range expansion is a natural process, though it can have similarly dramatic ecological effects on communities that have not evolved alongside the arriving species.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that invasive species should be eradicated from ecosystems they have entered without human assistance",
+    "B": "introduce the concept of range expansion as a distinct and underrecognized phenomenon related to but different from accidental species introductions",
+    "C": "compare the ecological effects of invasive species and range-expanding species and determine which is more harmful",
+    "D": "explain why the coyote is the most ecologically significant species in North America"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage opens by noting a gap in common understanding (range expansion is 'less recognized'), defines the concept, provides an example (coyotes), and distinguishes it from accidental introductions. The primary purpose is to introduce and explain range expansion as a distinct concept. B correctly captures this. A introduces a policy argument the passage does not make. C implies a comparison of harm levels, which the passage does not make. D overstates the coyote's significance—the passage uses it only as an example."
+}

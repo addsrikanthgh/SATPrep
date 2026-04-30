@@ -1,0 +1,16 @@
+{
+  "id": "q_910",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The sharing economy—platforms that enable the temporary sharing or rental of assets such as cars (Uber, Lyft) or homes (Airbnb)—was initially celebrated as a model that would reduce consumption, increase asset utilization, and build community trust through peer-to-peer exchange. Early advocates argued that sharing platforms enabled people to monetize underused assets while reducing the total number of cars and apartments needed.\n\nText 2: Empirical research has complicated the early optimism about sharing platforms. Studies of ride-hailing apps suggest that they increase total vehicle miles traveled by inducing trips that would not otherwise have occurred and by pulling riders away from public transit. Research on short-term rental platforms shows they reduce long-term rental housing supply in cities, contributing to rising rents. Far from reducing consumption, sharing platforms may accelerate it.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the claims made in Text 1?",
+  "choices": {
+    "A": "By agreeing that sharing platforms reduce consumption and improve asset utilization",
+    "B": "By arguing that the empirical outcomes of sharing platforms contradict the theoretical benefits that advocates predicted",
+    "C": "By contending that sharing platforms have no effect on transportation or housing markets",
+    "D": "By arguing that Uber and Airbnb should be replaced by government-run alternatives"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 directly addresses the specific theoretical benefits described in Text 1 (reduced consumption, better asset utilization) and presents empirical evidence showing the opposite—more vehicle miles traveled, reduced housing supply, possible acceleration of consumption. B correctly characterizes this as empirical findings contradicting theoretical predictions. A is the opposite of Text 2's position. C contradicts Text 2, which argues these platforms have significant negative market effects. D introduces a policy prescription Text 2 does not make."
+}

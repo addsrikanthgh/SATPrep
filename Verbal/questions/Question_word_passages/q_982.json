@@ -1,0 +1,16 @@
+{
+  "id": "q_982",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is researching the history and impact of the Green Revolution and has taken the following notes:\n- The Green Revolution, spanning roughly 1950–1970, introduced high-yielding variety (HYV) seeds, synthetic fertilizers, and irrigation infrastructure to developing countries.\n- Norman Borlaug, often called the 'father of the Green Revolution,' developed high-yielding wheat varieties that were credited with preventing famine in South Asia.\n- Between 1960 and 1990, wheat yields in developing countries more than doubled, and rice yields increased by approximately 50%.\n- Critics argue the Green Revolution increased dependence on chemical inputs, contributed to soil degradation, and widened economic inequality by favoring larger farmers who could afford the new technology.\n- Borlaug received the Nobel Peace Prize in 1970; the Nobel Committee cited his work as having saved over a billion people from starvation.",
+  "question": "The student wants to introduce Norman Borlaug and describe his contribution to the Green Revolution. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "The Green Revolution doubled wheat yields and increased rice yields by 50% in developing countries between 1960 and 1990, a transformation that relied on synthetic fertilizers and irrigation infrastructure.",
+    "B": "Norman Borlaug, awarded the Nobel Peace Prize in 1970 for work the Nobel Committee credited with saving over a billion people from starvation, developed the high-yielding wheat varieties that became central to the Green Revolution.",
+    "C": "Critics of the Green Revolution argue that it increased chemical dependence and soil degradation and that its benefits were unevenly distributed, favoring wealthier farmers.",
+    "D": "The Green Revolution introduced high-yielding seeds and modern agricultural technology to developing countries over a period spanning roughly 1950 to 1970."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to introduce Borlaug and describe his contribution. B identifies Borlaug by name, describes his specific contribution (high-yielding wheat varieties), and establishes his significance using the Nobel Prize recognition. It directly accomplishes both tasks: introduction and description of contribution. A focuses on yield statistics without introducing Borlaug at all. C introduces critics of the Green Revolution—not Borlaug's contribution. D provides a general overview of the Green Revolution without mentioning Borlaug."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_635",
+  "domain": "Craft and Structure",
+  "skill": "words in context",
+  "difficulty": "medium",
+  "passage": "Opponents of the dam project argued that the environmental impact assessment had been _______ in scope—examining only the effects on aquatic species directly downstream while ignoring the broader watershed implications, the displacement of indigenous communities upstream, and the long-term sedimentation effects.",
+  "question": "Which word best fills the blank?",
+  "choices": {
+    "A": "circumscribed",
+    "B": "comprehensive",
+    "C": "transparent",
+    "D": "rigorous"
+  },
+  "correct_answer": "A",
+  "explanation": "'Circumscribed' means limited or restricted in scope—the assessment examined only a narrow range of effects while ignoring many others. This is precisely what the opponents are criticizing. Comprehensive (thorough, covering all aspects) is the opposite of what they are complaining about. Transparent (open, clear) refers to process, not scope. Rigorous (thorough and demanding) also implies thoroughness—the opposite of the criticism being made."
+}

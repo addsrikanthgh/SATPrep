@@ -1,0 +1,16 @@
+{
+  "id": "q_768",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "In many accounts of scientific progress, paradigm shifts are portrayed as the result of a lone genius seeing what no one else could see—Newton under the apple tree, Darwin returning from the Galapagos. The historian of science Robert Merton challenged this myth with the concept of 'multiples': independent, near-simultaneous discoveries made by different scientists working separately. Calculus was developed independently by Newton and Leibniz; natural selection was formulated independently by Darwin and Alfred Russel Wallace; oxygen was isolated independently by Scheele and Priestley. Merton argued that when the intellectual infrastructure—available data, instruments, and theoretical frameworks—is ready for a discovery, the discovery becomes nearly inevitable, and it will be made by whoever happens to be in position.",
+  "question": "The author's description of 'multiples' in the passage primarily serves to",
+  "choices": {
+    "A": "provide evidence for Merton's argument that scientific discoveries are shaped by the readiness of the intellectual environment rather than the uniqueness of individual genius.",
+    "B": "demonstrate that Newton was less original than commonly believed because Leibniz discovered calculus first.",
+    "C": "argue that priority disputes between scientists who make simultaneous discoveries should be resolved in favor of the lesser-known scientist.",
+    "D": "suggest that Merton's research invalidated all prior histories of science because they overstated individual contributions."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage builds toward Merton's thesis: when conditions are ripe, discovery is nearly inevitable and will be made by whoever is in position. The list of multiples (Newton/Leibniz, Darwin/Wallace, Scheele/Priestley) serves as evidence for this thesis by showing that major discoveries were made independently and near-simultaneously—consistent with a structural rather than individual-genius explanation. A accurately identifies this function. B attributes a comparative priority judgment (Leibniz first) and a claim about Newton's originality that the passage does not make. C raises an ethical claim about priority disputes that the passage does not address. D asserts that Merton's work 'invalidated all prior histories,' an extreme claim not made in the passage."
+}

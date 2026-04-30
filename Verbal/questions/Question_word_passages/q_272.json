@@ -1,0 +1,16 @@
+{
+  "id": "q_272",
+  "domain": "Information and Ideas",
+  "skill": "central idea",
+  "difficulty": "easy",
+  "passage": "Sharks have been patrolling Earth's oceans for approximately 450 million years, surviving four of the five major mass extinction events that have reset life on Earth. Their longevity is often attributed to their adaptability: cartilaginous skeletons that are lighter and more flexible than bone, electrosensory organs that can detect the faint electric fields produced by prey, and highly efficient metabolisms that allow some species to go weeks without feeding. Despite this resilience, sharks now face threats from overfishing, bycatch, and the practice of finning that have reduced many shark populations by more than 70 percent over the past 50 years.",
+  "question": "What is the central idea of the passage?",
+  "choices": {
+    "A": "Sharks are the most intelligent predators in the ocean due to their electrosensory organs.",
+    "B": "Sharks are ancient, highly adaptable survivors that are now nevertheless threatened by human activities.",
+    "C": "The main reason sharks have survived so long is their cartilaginous skeletons, which are superior to bony structures.",
+    "D": "All shark species have experienced population declines of more than 70 percent in the past half century."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents sharks as ancient and adaptable survivors (450 million years, four extinction events, multiple biological adaptations) and then pivots to the modern threats they face from human activity. B captures this contrast between ancient resilience and modern vulnerability. A attributes intelligence as the key trait, which the passage does not claim—it describes electrosensory organs for detecting prey, not general intelligence. C narrows the explanation of longevity to one feature (cartilage) when the passage lists multiple adaptations. D overstates the passage; it says 'many shark populations' have declined, not all shark species."
+}

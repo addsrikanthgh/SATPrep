@@ -1,0 +1,16 @@
+{
+  "id": "q_780",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "In literary theory, the term 'unreliable narrator' refers to a narrator whose credibility is compromised by self-interest, limited knowledge, psychological distortion, or deliberate deception. The concept was formalized by Wayne Booth in 1961, though the technique predates its theoretical articulation by centuries. Unreliable narrators require active reading: when a narrator's account contains internal contradictions, implausible rationalizations, or details that undercut their stated interpretation, readers must construct an alternative account of what 'actually happened' beneath the surface narrative. The technique allows authors to explore themes of self-deception, memory distortion, and the gap between perception and reality. Famous examples include Stevens in Kazuo Ishiguro's The Remains of the Day, who slowly reveals that his dedication to duty came at the cost of his emotional life.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "define the unreliable narrator as a literary technique, explain how it works, and illustrate its thematic uses with an example.",
+    "B": "argue that Kazuo Ishiguro is the greatest practitioner of the unreliable narrator technique in contemporary fiction.",
+    "C": "trace the historical development of narrative theory from ancient literature to Wayne Booth's 1961 formalization.",
+    "D": "compare unreliable narrators to reliable narrators in terms of reader engagement and emotional impact."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage defines the unreliable narrator, explains what compromises credibility, describes how readers must engage with such texts, identifies the thematic territory the technique enables, and ends with the Ishiguro example. A captures this definition → explanation → illustration structure. B attributes a superlative value judgment about Ishiguro that the passage does not make. C describes an extended historical account; the passage only briefly notes the technique predates Booth without tracing the full history. D describes a comparative analysis between reliable and unreliable narrators, which the passage does not perform."
+}

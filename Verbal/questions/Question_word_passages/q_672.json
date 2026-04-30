@@ -1,0 +1,16 @@
+{
+  "id": "q_672",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "easy",
+  "passage": "Mangrove forests provide crucial coastal protection by absorbing wave energy and reducing erosion. _______ they serve as nursery habitats for hundreds of marine species, supporting the productivity of nearby fisheries.",
+  "question": "Which choice most effectively transitions between the two sentences?",
+  "choices": {
+    "A": "In addition,",
+    "B": "However,",
+    "C": "Therefore,",
+    "D": "On the other hand,"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence describes one benefit of mangrove forests (coastal protection). The second adds another distinct benefit (nursery habitat for marine species). Both sentences contribute positive information about mangroves—this is an additive relationship. 'In addition' (A) correctly signals that a second, separate benefit is being introduced. 'However' (B) and 'On the other hand' (D) both signal contrast, which is incorrect—neither sentence contradicts the other. 'Therefore' (C) would imply the nursery function is a consequence of the coastal protection function, which is not the logical relationship."
+}

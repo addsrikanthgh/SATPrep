@@ -1,0 +1,16 @@
+{
+  "id": "q_896",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "easy",
+  "passage": "The Coriolis effect describes how Earth's rotation causes moving objects—including air masses and ocean currents—to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere. This deflection results from the fact that different latitudes on Earth rotate at different linear speeds: points near the equator move much faster than points near the poles. The Coriolis effect shapes the direction of global wind patterns, ocean gyres, and hurricane rotation. It is also responsible for trade winds, which historically enabled sailing ships to cross the Atlantic Ocean by following a southern route from Europe to the Americas and a northern route on the return.",
+  "question": "According to the passage, which of the following is an effect of the Coriolis effect?",
+  "choices": {
+    "A": "It causes ocean temperatures near the equator to be significantly warmer than those near the poles.",
+    "B": "It causes moving air masses and ocean currents to deflect in opposite directions in the Northern and Southern Hemispheres.",
+    "C": "It reduces the rotational speed of Earth near the equator, affecting the length of days.",
+    "D": "It creates the jet stream that carries weather systems across continents in predictable paths."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage explicitly states that the Coriolis effect causes 'moving objects—including air masses and ocean currents—to deflect to the right in the Northern Hemisphere and to the left in the Southern Hemisphere.' B correctly summarizes this as deflection in opposite directions in the two hemispheres. A describes temperature patterns, which are not attributed to the Coriolis effect in the passage. C inverts the passage's logic—the Coriolis effect results from different rotational speeds, it does not reduce them. D mentions the jet stream, which the passage does not discuss."
+}

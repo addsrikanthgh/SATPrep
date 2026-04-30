@@ -1,0 +1,16 @@
+{
+  "id": "q_140",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "A persistent assumption in behavioral economics holds that people are reliably risk-averse: given a choice between a certain gain and a gamble with the same expected value, most individuals will choose certainty. Prospect theory, developed by Daniel Kahneman and Amos Tversky, largely confirmed this intuition for gains. What the theory also revealed, however, was that the same individuals who shy away from risk when facing potential gains actively seek risk when facing potential losses. People will gamble to avoid a certain loss even when the expected value of the gamble is worse than accepting the loss outright.",
+  "question": "The structure of the passage is best described as",
+  "choices": {
+    "A": "an introduction of a theory followed by a summary of the experimental methods used to test it.",
+    "B": "a statement of a widely held assumption followed by a more precise account that both confirms and complicates it.",
+    "C": "a comparison of two competing theories about human decision-making under conditions of uncertainty.",
+    "D": "an argument that behavioral economists have overestimated the role of risk aversion in human decision-making."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage begins with a broad assumption (people are risk-averse), confirms part of it via prospect theory (true for gains), then introduces a complication (for losses, people become risk-seeking). The structure is: assumption → partial confirmation → complication (B). A is incorrect; no experimental methods are described. C is incorrect; only one theory (prospect theory) is discussed, not two competing theories. D overstates the passage's position—it does not argue that economists have overestimated risk aversion, only that risk aversion does not apply uniformly to losses."
+}

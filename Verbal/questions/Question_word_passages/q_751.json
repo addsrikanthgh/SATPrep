@@ -1,0 +1,16 @@
+{
+  "id": "q_751",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "medium",
+  "passage": "Sleep scientists distinguish between two major types of sleep: rapid eye movement (REM) sleep, associated with vivid dreaming, and non-REM sleep, which includes the deep, restorative stages of slow-wave sleep. Throughout the night, people cycle through these stages approximately every 90 minutes. Early cycles contain more slow-wave sleep; later cycles contain more REM sleep. Slow-wave sleep is associated with memory consolidation and physical restoration—growth hormone is predominantly released during this stage—while REM sleep appears critical for emotional processing and certain types of learning. When people are deprived of sleep, slow-wave sleep is prioritized in the recovery period, suggesting the body treats it as the more urgent deficit.",
+  "question": "Based on the passage, what can most reasonably be inferred about the purpose of prioritizing slow-wave sleep during recovery from sleep deprivation?",
+  "choices": {
+    "A": "The body treats physical restoration and memory consolidation as more immediately pressing needs than emotional processing.",
+    "B": "REM sleep is not actually necessary for health and can be permanently replaced by slow-wave sleep without consequence.",
+    "C": "People who sleep fewer than eight hours per night will never experience REM sleep and will have impaired emotional processing.",
+    "D": "The 90-minute sleep cycle is disrupted permanently once a person has experienced sleep deprivation."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage states that when recovering from sleep deprivation, slow-wave sleep—associated with physical restoration and memory consolidation—is prioritized. This implies the body treats these functions as more urgent than the REM-associated functions (emotional processing, certain learning). A is the most reasonable inference. B is not supported—the passage does not say REM is unnecessary; it says slow-wave is prioritized first, not that REM can be eliminated. C is extreme and not implied—the passage does not claim that under-eight-hour sleepers never reach REM. D is not mentioned; the passage describes a single recovery pattern, not permanent disruption of sleep cycles."
+}

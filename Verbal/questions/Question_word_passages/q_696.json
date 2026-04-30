@@ -1,0 +1,16 @@
+{
+  "id": "q_696",
+  "domain": "Information and Ideas",
+  "skill": "central ideas and details",
+  "difficulty": "hard",
+  "passage": "When biologists study the fitness costs of a particular trait, they ask: what does this trait cost the organism in terms of survival or reproduction? Every trait maintained by natural selection must confer benefits that, at minimum, offset these costs; traits that impose net costs will, over generations, be eliminated or reduced by selection. The peacock's tail presents a classic example of this trade-off. The enormous ornamental tail that makes males attractive to peahens also makes them more visible to predators and impairs their ability to escape. The theory of sexual selection, developed by Darwin and elaborated by later biologists, holds that such costly traits are maintained because females consistently prefer males bearing them—meaning the reproductive benefit of attracting mates outweighs the survival cost. This model has been supported by numerous studies demonstrating that more ornamented males have higher mating success, even when their survival rates are lower than those of less ornamented competitors.",
+  "question": "Which choice best states the main idea of the passage?",
+  "choices": {
+    "A": "Sexual selection explains how costly traits like the peacock's tail persist in a population when the reproductive benefits of the trait outweigh its survival costs.",
+    "B": "Darwin's theory of natural selection cannot account for the existence of traits that reduce an organism's chance of survival.",
+    "C": "The peacock's tail demonstrates that natural selection always prioritizes reproductive success over survival, regardless of ecological context.",
+    "D": "Biologists have found no reliable evidence that ornamental traits improve mating success in species where they also reduce survival."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage explains the concept of fitness costs, applies it to the peacock's tail as an example of a survival cost, and then explains sexual selection theory as the mechanism that maintains costly ornamental traits when reproductive benefits are sufficient. A correctly captures the core argument. B mischaracterizes the passage—sexual selection is presented as an extension of evolutionary theory, not a refutation of natural selection. C is too absolute ('always prioritizes reproductive success'); the passage describes a cost-benefit balance, not a universal priority rule. D directly contradicts the passage, which cites 'numerous studies demonstrating that more ornamented males have higher mating success.'"
+}

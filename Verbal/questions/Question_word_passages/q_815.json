@@ -1,0 +1,16 @@
+{
+  "id": "q_815",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence",
+  "difficulty": "hard",
+  "passage": "An art historian argues that the Impressionist painters of the 1870s were not simply exploring new aesthetic possibilities but were responding to specific technological and social changes—including the invention of portable paint tubes and the expansion of the railway—that made outdoor painting practical for the first time.",
+  "question": "Which piece of evidence would most directly support the art historian's argument?",
+  "choices": {
+    "A": "'Before commercially available portable paint tubes (introduced around 1841) and third-class railway fares, French artists could not easily transport materials to outdoor locations; the rapid increase in plein air painting in the 1850s–1870s closely parallels the adoption of both innovations.'",
+    "B": "'Impressionist paintings are characterized by loose brushwork, visible paint texture, and an interest in capturing the effects of light at particular moments rather than achieving photographic realism.'",
+    "C": "'The Impressionists were rejected by the official Salon in 1874 and organized their own independent exhibition, marking a significant break from the academic art establishment.'",
+    "D": "'Photography, invented in the 1830s, gradually freed painters from the obligation to produce accurate representational images, enabling greater experimentation with abstraction and subjective perception.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The historian's specific argument is that paint tubes and railway expansion made outdoor painting practical and drove the Impressionist movement. A directly supports this causal claim by connecting the innovations (portable paint tubes c. 1841, third-class rail fares) to the timing of the rise in plein air painting. B describes Impressionist stylistic characteristics without addressing technological drivers. C describes institutional conflict with the Salon—not the technological and social change argument. D attributes stylistic change to photography rather than to portable paint and rail, a different causal argument."
+}

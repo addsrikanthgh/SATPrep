@@ -1,0 +1,16 @@
+{
+  "id": "q_973",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Photosynthesis occurs in two main stages. In the light-dependent reactions, which take place in the thylakoid membranes of the chloroplast, light energy is captured and used to split water molecules, releasing oxygen as a byproduct and producing energy carriers ATP and NADPH. In the light-independent reactions (also called the Calvin cycle), which take place in the stroma, these energy carriers power the conversion of carbon dioxide into glucose. Together, the two stages transform light energy and inorganic molecules into the chemical energy stored in sugar.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that photosynthesis is more important than cellular respiration for sustaining life.",
+    "B": "describe the two main stages of photosynthesis and explain how they work together to produce glucose.",
+    "C": "compare photosynthesis in plants to photosynthesis in single-celled algae.",
+    "D": "explain why some plants cannot perform photosynthesis in low-light conditions."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage describes each of the two stages of photosynthesis (light-dependent reactions, then the Calvin cycle), including where each takes place and what each accomplishes, then concludes with how they work together. B accurately describes this as both descriptive and explanatory. A implies a comparative argument about biological processes, which the passage does not make. C implies a comparison between plant types, which the passage does not perform. D addresses a specific limitation of photosynthesis in low light, which the passage does not discuss."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_375",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "The Atacama Desert in northern Chile is one of the driest places on Earth; some weather stations in the desert's core have never recorded rain. Yet life is not absent. Certain cacti, insects, and lizards have evolved remarkable adaptations to extract moisture from coastal fog that rolls inland from the Pacific Ocean—a phenomenon called camanchaca. 'Fog catchers'—mesh nets stretched across hillsides—have been used by local communities to harvest this moisture for drinking water. Recent engineering projects have scaled up this technology into large-scale fog collection arrays capable of supplying water to small villages entirely dependent on fog as their freshwater source.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that the Atacama Desert should be developed as a major agricultural region.",
+    "B": "describe the extreme aridity of the Atacama, explain how life and human communities have adapted to extract moisture from coastal fog, and describe a technological application of this adaptation.",
+    "C": "compare the Atacama Desert unfavorably with other deserts in terms of biological diversity.",
+    "D": "explain the meteorological causes of the camanchaca fog phenomenon in technical detail."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage covers four elements: the extreme aridity, biological adaptations to fog (cacti, insects, lizards), traditional human fog-catching, and modern scaled-up engineering applications. B accurately summarizes all four elements as describing aridity, natural and human adaptation, and technological application. A introduces an agricultural development argument not present in the passage. C introduces a comparative biological diversity claim not present—the passage mentions life exists but makes no comparison with other deserts. D focuses on meteorological explanation, but the passage only names the phenomenon (camanchaca) without explaining its meteorological causes in detail."
+}

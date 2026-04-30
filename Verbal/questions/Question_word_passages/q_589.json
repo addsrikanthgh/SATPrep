@@ -1,0 +1,16 @@
+{
+  "id": "q_589",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an analytical essay about the legacy of the Green Revolution. The student wants to make a claim that captures both the significant achievement of the Green Revolution and a serious unintended consequence that qualifies that achievement. The student has gathered the following notes:\n- The Green Revolution (1940s–1970s) introduced high-yield crop varieties, synthetic fertilizers, and irrigation to developing countries, dramatically increasing agricultural output.\n- Between 1960 and 1985, cereal production in Asia doubled; the Green Revolution is credited with preventing famine for hundreds of millions of people.\n- The Green Revolution's benefits were unevenly distributed: wealthier farmers who could afford inputs benefited most, while many smallholder farmers were left behind or displaced.\n- Heavy use of synthetic fertilizers led to nitrogen runoff, creating 'dead zones' in coastal waters due to eutrophication.\n- The new high-yield varieties required more water than traditional varieties, contributing to groundwater depletion in several regions.",
+  "question": "Which choice most effectively uses the notes to make a claim capturing both a significant achievement and a serious unintended consequence?",
+  "choices": {
+    "A": "The Green Revolution doubled cereal production in Asia between 1960 and 1985, demonstrating that agricultural science can solve the problem of world hunger.",
+    "B": "Although the Green Revolution dramatically increased crop yields and is credited with preventing mass famine, its reliance on synthetic fertilizers and intensive irrigation produced significant environmental damage, including nitrogen-driven coastal dead zones and groundwater depletion.",
+    "C": "The Green Revolution's benefits were unevenly distributed, favoring wealthy farmers with access to inputs while leaving smallholder farmers behind.",
+    "D": "High-yield crop varieties introduced during the Green Revolution required substantially more water than traditional varieties, a demand that strained water resources in several developing regions."
+  },
+  "correct_answer": "B",
+  "explanation": "The goal is to capture both the significant achievement and a serious unintended consequence. B does this precisely: the first clause acknowledges the achievement (yield increases, famine prevention) and the second acknowledges multiple unintended environmental consequences (dead zones, groundwater depletion). A presents only the achievement and overstates it ('solved world hunger'). C focuses on the equity problem, not an environmental unintended consequence, and does not include the achievement. D presents only one environmental consequence without acknowledging the significant achievement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_398",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay about the historiography of the American Civil War. The student has taken the following notes:\n- In the decades after the Civil War, the 'Lost Cause' interpretation emerged, portraying Confederate secession as motivated primarily by states' rights rather than the defense of slavery.\n- Historians such as James McPherson have documented that Confederate declarations of secession explicitly cited the preservation of slavery as the central cause.\n- For much of the twentieth century, textbooks in Southern states presented the Lost Cause narrative, shaping how multiple generations understood the war.\n- A 2020 survey found that 48% of Americans believed states' rights, rather than slavery, was the primary cause of the Civil War.\n- Historians widely regard the Lost Cause as a form of revisionist mythology with measurable effects on public memory and education policy.",
+  "question": "Which choice most effectively uses the notes to explain how the Lost Cause narrative has shaped public memory despite its lack of historical support?",
+  "choices": {
+    "A": "The Lost Cause portrays Confederate secession as being about states' rights rather than slavery, but historians disagree with this interpretation.",
+    "B": "Despite historians' consensus—supported by Confederate secession documents themselves—that slavery was the central cause of the Civil War, the Lost Cause narrative's long entrenchment in Southern textbooks has shaped public memory to the extent that 48% of Americans still believe states' rights was the primary cause.",
+    "C": "Many Americans believe the Civil War was about states' rights rather than slavery, which shows that history education has failed to correct popular misconceptions.",
+    "D": "James McPherson has documented that Confederate declarations of secession cited slavery explicitly, which contradicts the Lost Cause interpretation taught in many Southern schools."
+  },
+  "correct_answer": "B",
+  "explanation": "B integrates the historical consensus (historians + secession documents establish slavery as the cause), the educational mechanism (Southern textbook entrenchment), and the measured outcome (48% of Americans still believe the states' rights version), creating a causal chain that explains how a historically unsupported narrative shaped public memory. A is vague—'historians disagree' understates the strength of historical consensus and omits the educational mechanism and the survey data. C presents the survey result and a conclusion ('history education has failed') but does not explain the specific mechanism (Lost Cause in Southern textbooks) that connects the narrative to the outcome. D mentions McPherson's evidence and Southern schools but does not integrate the survey data or construct the full causal explanation."
+}

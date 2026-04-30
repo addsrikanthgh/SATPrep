@@ -1,0 +1,16 @@
+{
+  "id": "q_302",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "easy",
+  "passage": "Text 1:\nSome researchers propose that the primary driver of innovation is individual genius—the rare person who sees connections others miss and produces breakthroughs through solitary reflection. Historical examples often cited include Newton formulating calculus in isolation during the plague years, Darwin assembling his theory of natural selection over decades of private contemplation, and Einstein developing special relativity largely alone.\n\nText 2:\nScientific historians have increasingly challenged the 'lone genius' narrative by examining the correspondence, notebooks, and laboratory records of celebrated scientists. Newton's 'solitary' plague years included intensive correspondence with several mathematicians. Darwin relied on an extensive global network of correspondents supplying specimens and observations. Even Einstein's work was deeply informed by conversations with his Zurich study group and colleagues at the patent office.",
+  "question": "Based on both texts, what is the primary relationship between their arguments?",
+  "choices": {
+    "A": "Text 2 fully confirms the argument in Text 1 by providing additional historical examples.",
+    "B": "Text 2 challenges Text 1's examples by providing historical evidence that the individuals cited as 'lone geniuses' were more socially embedded than the narrative suggests.",
+    "C": "Text 2 agrees with Text 1 that Newton, Darwin, and Einstein were exceptional but argues they should not be used as models for modern scientists.",
+    "D": "Text 1 and Text 2 address entirely different subjects and cannot be meaningfully compared."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 presents Newton, Darwin, and Einstein as examples of the lone genius model. Text 2 directly examines each of those same individuals and provides evidence that each was embedded in networks of collaboration, correspondence, and conversation. B correctly describes this direct counter-argument to Text 1's specific examples. A is incorrect—Text 2 challenges, not confirms, Text 1. C introduces a prescriptive claim about modern scientists that neither text makes. D is incorrect—both texts explicitly discuss the same figures and the same question about the source of innovation."
+}

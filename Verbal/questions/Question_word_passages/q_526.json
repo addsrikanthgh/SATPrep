@@ -1,0 +1,16 @@
+{
+  "id": "q_526",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "Having reviewed the financial statements, the discrepancy in the third-quarter revenue figures _______ immediately apparent to the auditors.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "became",
+    "B": "was made",
+    "C": "made",
+    "D": "had been made"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Having reviewed the financial statements' is a dangling modifier unless the subject of the main clause is the entity doing the reviewing—here, 'the auditors.' However, the sentence as constructed places 'the discrepancy' as the subject of the main clause, creating a dangling modifier. Among the choices given, only A ('became') produces a grammatically and logically coherent sentence: the discrepancy became apparent to the auditors (the auditors reviewed the statements; the discrepancy became apparent to them as a result). B and D use passive constructions that are awkward and do not fix the modifier problem. C ('made') is transitive and requires an object that is not present. A is the best choice."
+}

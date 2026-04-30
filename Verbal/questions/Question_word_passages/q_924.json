@@ -1,0 +1,16 @@
+{
+  "id": "q_924",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "medium",
+  "passage": "The ecologist and her graduate students spent two weeks in the field, ______ water samples from seventeen wetland sites across the delta.",
+  "question": "Which choice completes the text so that it conforms to the conventions of Standard English?",
+  "choices": {
+    "A": "collected",
+    "B": "collecting",
+    "C": "to collect",
+    "D": "having collected"
+  },
+  "correct_answer": "B",
+  "explanation": "'Collecting' is the present participle that forms a participial phrase modifying 'the ecologist and her graduate students'—it describes an activity occurring simultaneously with or as part of the main verb ('spent'). 'Collecting water samples' is the ongoing activity that characterized the field work. 'Collected' would create a second independent past-tense verb, making the sentence a comma splice. 'To collect' is an infinitive of purpose, which could work grammatically but is less idiomatic and implies the purpose of the trip, not the activity during it. 'Having collected' is a perfect participle suggesting the collecting preceded the field work, which is illogical."
+}

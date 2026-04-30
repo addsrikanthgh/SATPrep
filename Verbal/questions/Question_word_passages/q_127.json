@@ -1,0 +1,16 @@
+{
+  "id": "q_127",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "hard",
+  "passage": "The influence of Surrealism on twentieth-century literature, evident in the dreamlike sequences and irrational juxtapositions that characterize the work of writers from Borges to Toni Morrison, ___ a subject of ongoing scholarly debate.",
+  "question": "Which choice best completes the sentence?",
+  "choices": {
+    "A": "remain",
+    "B": "remains",
+    "C": "have remained",
+    "D": "are remaining"
+  },
+  "correct_answer": "B",
+  "explanation": "The grammatical subject of the sentence is 'The influence' (singular), not the plural nouns ('sequences,' 'juxtapositions,' 'writers') that appear in the long participial phrase interrupting the main clause. A singular verb 'remains' (B) is therefore correct. A ('remain') treats the subject as plural—a common error caused by the proximity of plural nouns in the intervening phrase. C ('have remained') uses a plural present-perfect form, incorrect for a singular subject. D ('are remaining') uses a progressive aspect that is grammatically inappropriate for a stative predicate like 'a subject of ongoing debate.'"
+}

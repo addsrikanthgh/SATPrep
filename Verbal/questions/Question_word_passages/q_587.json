@@ -1,0 +1,16 @@
+{
+  "id": "q_587",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is writing a report on migration patterns of monarch butterflies. The student wants to convey the remarkable scale and precision of the monarch migration. The student has gathered the following notes:\n- Monarch butterflies migrate annually between their overwintering grounds in the mountains of central Mexico and their summer breeding grounds across the United States and Canada—a journey of up to 3,000 miles.\n- No individual monarch makes the round trip; it takes 3–4 generations to complete a full cycle.\n- The overwintering generation, called the Migratory Generation or 'Super Generation,' lives 6–8 months—much longer than the 2–6 week lifespan of summer generations.\n- Monarchs navigate using a time-compensated sun compass—an internal clock linked to the sun's position.\n- The monarch population has declined by more than 80% over the past 20 years due to habitat loss and milkweed decline.",
+  "question": "Which choice most effectively uses the notes to convey the remarkable scale and precision of the monarch migration?",
+  "choices": {
+    "A": "Monarch butterflies migrate up to 3,000 miles between Mexico and North America using a time-compensated sun compass to navigate with remarkable precision.",
+    "B": "The monarch butterfly population has declined by more than 80% over the past two decades as a result of habitat loss and the decline of milkweed plants.",
+    "C": "Because no individual monarch makes the full round trip, it takes three to four generations to complete a single migratory cycle.",
+    "D": "The Migratory Generation of monarch butterflies lives for six to eight months—far longer than the two-to-six-week lifespan of summer generations."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to convey scale (distance) and precision (navigation). A directly combines the 3,000-mile scale with the time-compensated sun compass precision—achieving both aspects of the goal. B focuses on population decline, which is neither scale nor precision of migration. C describes the multi-generational structure—interesting but not directly about scale or navigation precision. D focuses on lifespan differences, which relates to the biology of migration but not its scale or navigational precision."
+}

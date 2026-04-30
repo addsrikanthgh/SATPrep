@@ -1,0 +1,16 @@
+{
+  "id": "q_998",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "easy",
+  "passage": "A student is researching the history of the internet and has taken the following notes:\n- ARPANET, funded by the U.S. Department of Defense, first transmitted data between computers at UCLA and Stanford in 1969.\n- Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN, creating the system of hyperlinks and web pages that made the internet widely accessible to non-technical users.\n- The number of internet users worldwide grew from approximately 16 million in 1995 to over 5 billion in 2023.\n- The internet has enabled unprecedented global communication, e-commerce, and access to information, but has also introduced challenges including cybercrime, misinformation, and digital inequality.\n- In many low-income countries, fewer than 30% of citizens have reliable internet access, compared to over 90% in many high-income countries.",
+  "question": "The student wants to distinguish between the invention of the internet and the invention of the World Wide Web. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "The internet's origins trace to ARPANET's first data transmission in 1969, while the World Wide Web—the system of hyperlinked web pages that brought the internet to general users—was invented separately by Tim Berners-Lee in 1989.",
+    "B": "Tim Berners-Lee invented the World Wide Web at CERN in 1989, creating a system of hyperlinks and web pages that transformed how people access and share information.",
+    "C": "The number of internet users grew from approximately 16 million in 1995 to over 5 billion in 2023, reflecting the World Wide Web's role in making the internet accessible to a global mass audience.",
+    "D": "The internet has enabled global communication and commerce but has also introduced challenges including cybercrime, misinformation, and persistent digital inequality between high- and low-income countries."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to distinguish between the internet and the World Wide Web as separate inventions. A draws on both the ARPANET note (internet origin, 1969) and the Berners-Lee note (WWW, 1989), explicitly framing them as distinct and explaining how they differ (ARPANET = internet infrastructure; WWW = hyperlinked pages that brought access to general users). B describes only the WWW, not the distinction. C focuses on user growth statistics, not the historical distinction between the two inventions. D describes internet impacts broadly without addressing the internet/WWW distinction."
+}

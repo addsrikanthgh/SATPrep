@@ -1,0 +1,16 @@
+{
+  "id": "q_571",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "easy",
+  "passage": "Earthquakes occur when tectonic plates—massive sections of Earth's lithosphere—suddenly slip past one another along fault lines. The point underground where the slip begins is called the focus, or hypocenter. The point on the surface directly above the focus is the epicenter. Seismic waves radiate outward from the focus in all directions. Two main types of seismic waves—P-waves, which compress rock in the direction of travel, and S-waves, which shake rock perpendicular to the direction of travel—move at different speeds, allowing scientists to use the difference in their arrival times at seismic stations to calculate the earthquake's location.",
+  "question": "The primary purpose of the passage is to",
+  "choices": {
+    "A": "argue that governments should invest more resources in earthquake prediction technology",
+    "B": "define key terms related to earthquakes and explain how seismic wave properties allow scientists to locate earthquake origins",
+    "C": "describe the most destructive earthquake ever recorded and explain why it caused such widespread damage",
+    "D": "compare earthquake activity in different tectonic regions to identify the most geologically active areas"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage defines tectonic plates, fault lines, focus, epicenter, P-waves, and S-waves, and explains how the difference in wave arrival times allows earthquake location. B accurately describes this definitional and explanatory structure. A is incorrect—no policy argument about funding is made. C is incorrect—no specific historical earthquake is discussed. D is incorrect—no comparison of tectonic regions is made."
+}

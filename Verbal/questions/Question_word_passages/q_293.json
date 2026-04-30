@@ -1,0 +1,16 @@
+{
+  "id": "q_293",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Early linguistic anthropologists assumed that the language a person speaks determines the thoughts they can think—a view known as linguistic determinism. This strong version of the hypothesis has been largely discredited; speakers of languages without a future tense still plan for the future, and people without a word for a color can still perceive it. _______, more nuanced research suggests that language does influence thought in measurable ways, affecting how quickly people categorize perceptions, how accurately they remember events, and what distinctions they habitually notice.",
+  "question": "Which choice most effectively completes the passage by providing an appropriate transition?",
+  "choices": {
+    "A": "Therefore,",
+    "B": "In other words,",
+    "C": "Nevertheless,",
+    "D": "As a result,"
+  },
+  "correct_answer": "C",
+  "explanation": "The passage presents the strong version of linguistic determinism as discredited, then pivots to research showing that language does influence thought in subtler ways. The relationship is a concession: strong determinism is wrong, but that does not mean language has no effect—it does, just more modestly. 'Nevertheless' (C) perfectly captures this 'even after the preceding counter-evidence, this milder claim still holds' structure. 'Therefore' (A) would imply the nuanced research is a conclusion drawn from the discrediting evidence—incorrect; the nuanced evidence is separate. 'In other words' (B) would signal a restatement—but the nuanced view is not a restatement of the discredited strong view. 'As a result' (D) would suggest the nuanced findings were caused by the discrediting of strong determinism—incorrect causal framing."
+}

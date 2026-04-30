@@ -1,0 +1,16 @@
+{
+  "id": "q_115",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A 2021 survey of 4,200 U.S. adults examined the relationship between educational attainment and civic participation. Among respondents with less than a high school diploma, 28% reported voting in the most recent local election. That figure rose to 41% among high school graduates, 57% among those with a bachelor's degree, and 71% among those with a graduate degree. Survey researchers noted, however, that the relationship between education and voting was significantly weaker in communities with robust neighborhood organizing programs, where participation rates across all education levels converged near 65%.",
+  "question": "A researcher claims that higher education levels reliably predict greater civic participation. Which detail in the passage most directly challenges this claim?",
+  "choices": {
+    "A": "The survey examined 4,200 U.S. adults and tracked voting in local elections.",
+    "B": "Graduate degree holders reported voting at a rate 43 percentage points higher than those without a high school diploma.",
+    "C": "In communities with neighborhood organizing programs, participation rates across all education levels converged near 65%.",
+    "D": "High school graduates voted at a rate 13 percentage points higher than those without a diploma."
+  },
+  "correct_answer": "C",
+  "explanation": "The researcher argues that education level reliably predicts participation. C directly challenges this by showing that when neighborhood organizing programs are present, education level loses its predictive power—people across all education levels vote at similar rates (~65%). This breaks the reliable education-participation link. A is a methodological detail that neither supports nor challenges the claim. B and D both show higher-education groups voting more than lower-education groups, which actually supports the researcher's claim rather than challenging it."
+}

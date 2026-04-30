@@ -1,0 +1,16 @@
+{
+  "id": "q_550",
+  "domain": "Information and Ideas",
+  "skill": "inference",
+  "difficulty": "hard",
+  "passage": "The transition to agriculture from hunter-gatherer lifestyles, which began independently in multiple regions around 10,000 years ago, is often framed as an unambiguous advance in human welfare. Archaeological and paleoanthropological evidence complicates this picture. Skeletal remains from early agricultural communities show increased rates of dental disease, malnutrition-related bone lesions, and infectious disease compared to hunter-gatherer populations. Average stature declined in many early agricultural societies. Nonetheless, agriculture supported much higher population densities than foraging, enabling the eventual emergence of cities, trade networks, and civilization.",
+  "question": "Based on the passage, what can most reasonably be inferred about the transition to agriculture?",
+  "choices": {
+    "A": "The transition to agriculture was uniformly beneficial for human health and represents clear progress over the hunter-gatherer lifestyle.",
+    "B": "While agriculture allowed for higher population densities and eventual civilization, it appears to have initially worsened the health of individual people.",
+    "C": "Hunter-gatherers never experienced disease or malnutrition, while agricultural societies always suffered from both.",
+    "D": "The decline in average stature in early agricultural societies demonstrates that agriculture was a net negative for humanity."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage presents a tension: agriculture enabled higher population density and civilization (population-level benefit) but skeletal evidence shows increased disease and malnutrition and reduced stature (individual health cost). B correctly captures this tradeoff—population-level gains but individual health costs. A is contradicted by the archaeological evidence of worsened health. C is too absolute—the passage does not claim hunter-gatherers had no disease or that agricultural societies always suffered equally; it presents comparative evidence. D draws a 'net negative' conclusion that the passage does not support—the passage presents both costs and benefits."
+}

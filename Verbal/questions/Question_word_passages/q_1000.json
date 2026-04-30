@@ -1,0 +1,16 @@
+{
+  "id": "q_1000",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is researching the concept of 'creative destruction' in economics and has taken the following notes:\n- Joseph Schumpeter coined the term 'creative destruction' in 1942 to describe the process by which innovation continuously disrupts existing industries, displacing established firms and workers while creating new economic activity.\n- Schumpeter saw creative destruction as the 'essential fact about capitalism'—the engine of long-run economic growth despite the short-run disruption it causes.\n- Historical examples include the automobile displacing horse-and-buggy industries, digital streaming displacing DVD rental companies like Blockbuster, and e-commerce displacing traditional retail.\n- Critics argue that creative destruction disproportionately harms vulnerable workers who lack the skills or resources to transition to new industries, creating persistent regional economic inequality.\n- Economists debate the appropriate policy response: some argue markets should adjust with minimal intervention; others argue for 'adjustment assistance'—retraining programs and income support for displaced workers.",
+  "question": "The student wants to present Schumpeter's view of creative destruction as essential to capitalism while acknowledging the human costs that critics identify. Which choice most effectively uses the notes to accomplish this goal?",
+  "choices": {
+    "A": "Schumpeter considered creative destruction the 'essential fact about capitalism' and the engine of long-run growth, yet critics note that this process can impose severe and unequal burdens on workers who lack the skills or resources to transition to the new industries that emerge.",
+    "B": "Creative destruction has historically displaced entire industries: automobiles ended horse-and-buggy trades, streaming services made Blockbuster obsolete, and e-commerce has continued to erode traditional retail.",
+    "C": "Economists disagree about whether governments should intervene to assist workers displaced by creative destruction, with some favoring minimal market intervention and others supporting retraining programs and income support.",
+    "D": "Schumpeter coined the term 'creative destruction' in 1942 to describe how innovation disrupts existing industries, a concept that has influenced economic thought for more than eight decades."
+  },
+  "correct_answer": "A",
+  "explanation": "The goal is to present Schumpeter's positive view and acknowledge the human costs critics identify—both elements are required. A directly quotes Schumpeter's characterization ('essential fact about capitalism,' engine of long-run growth) and then pivots with 'yet critics note' to the specific human cost (disproportionate burden on workers lacking transition resources). This directly accomplishes both parts of the goal. B presents historical examples of disruption without addressing Schumpeter's view or critics' concerns. C presents the policy debate, which is downstream of the Schumpeter-vs.-critics framing requested. D introduces Schumpeter and his coinage without addressing his positive view of the process or critics' concerns."
+}

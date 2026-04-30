@@ -1,0 +1,16 @@
+{
+  "id": "q_448",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The director insisted that the film's ending remain ambiguous _______ she believed audiences should be allowed to reach their own interpretations rather than have the meaning presented to them explicitly.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "ambiguous, she",
+    "B": "ambiguous; she",
+    "C": "ambiguous: she",
+    "D": "ambiguous—she"
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence has two independent clauses: 'The director insisted that the film's ending remain ambiguous' and 'she believed audiences should be allowed to reach their own interpretations...' A semicolon correctly joins them without a coordinating conjunction. B is correct. A creates a comma splice. C uses a colon—a colon would be appropriate if the second clause directly explains or lists what is in the first, but this is a causal elaboration connected by 'she believed,' making a semicolon more appropriate. D uses an em dash, which can join independent clauses but is typically used for dramatic interruption or contrast; while not strictly wrong, it is less conventional here than the semicolon."
+}

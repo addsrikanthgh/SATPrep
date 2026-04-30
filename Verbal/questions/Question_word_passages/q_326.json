@@ -1,0 +1,16 @@
+{
+  "id": "q_326",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage",
+  "difficulty": "easy",
+  "passage": "The students who scored highest on the entrance exam _______ offered full scholarships to cover their tuition and housing.",
+  "question": "Which choice best completes the sentence according to standard English conventions?",
+  "choices": {
+    "A": "was",
+    "B": "were",
+    "C": "has been",
+    "D": "is"
+  },
+  "correct_answer": "B",
+  "explanation": "The subject is 'The students,' a plural noun. The relative clause 'who scored highest on the entrance exam' modifies 'students' but does not change the subject's plurality. The verb must be plural past tense to match the context: 'were' (B). 'Was' (A) and 'is' (D) are singular—incorrect for a plural subject. 'Has been' (C) is singular present perfect—incorrect agreement and tense."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_454",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The ancient city's water system—an engineering achievement that predated Roman aqueducts by several centuries _______ supplied water to an estimated population of 80,000 people.",
+  "question": "Which choice correctly punctuates the sentence?",
+  "choices": {
+    "A": "centuries, supplied",
+    "B": "centuries—supplied",
+    "C": "centuries; supplied",
+    "D": "centuries supplied"
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'an engineering achievement that predated Roman aqueducts by several centuries' is a nonrestrictive appositive enclosed in em dashes. The opening em dash appears after 'system.' When a parenthetical is opened with an em dash, it must be closed with another em dash—not a comma, semicolon, or no punctuation. B correctly closes the em-dash pair. A uses a comma to close an em-dash opening—mixing two different parenthetical systems. C uses a semicolon, which would separate independent clauses. D omits any closing punctuation, leaving the parenthetical improperly closed."
+}
