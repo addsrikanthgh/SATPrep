@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "sentence boundaries",
   "difficulty": "medium",
-  "passage": "The transcontinental railroad was completed in 1869, it immediately transformed commerce across the continent. Goods that once took months to transport by wagon now arrived within days, and the populations of western cities grew rapidly in the years that followed.",
+  "passage": "*The transcontinental railroad was completed in 1869, it immediately transformed commerce across the continent.* Goods that once took months to transport by wagon now arrived within days, and the populations of western cities grew rapidly in the years that followed.",
   "question": "Which choice best corrects the underlined sentence: \"The transcontinental railroad was completed in 1869, it immediately transformed commerce across the continent\"?",
   "choices": {
     "A": "The transcontinental railroad was completed in 1869, it immediately transformed commerce across the continent.",

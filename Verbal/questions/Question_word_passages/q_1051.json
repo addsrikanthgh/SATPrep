@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "grammar and usage (pronoun-antecedent agreement)",
   "difficulty": "medium",
-  "passage": "Vibrio cholerae, the bacterium responsible for cholera, can persist in aquatic environments for weeks without a host. Once they enter the human digestive system, however, they produce a toxin that disrupts fluid absorption in the intestines, leading to the severe dehydration characteristic of the disease.",
+  "passage": "Vibrio cholerae, the bacterium responsible for cholera, can persist in aquatic environments for weeks without a host. *Once they enter the human digestive system, however, they produce* a toxin that disrupts fluid absorption in the intestines, leading to the severe dehydration characteristic of the disease.",
   "question": "Which choice best corrects the pronoun error in the underlined portion of the passage?",
   "choices": {
     "A": "Once it enters the human digestive system, however, it produces",

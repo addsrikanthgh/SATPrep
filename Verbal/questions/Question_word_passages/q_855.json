@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "punctuation",
   "difficulty": "easy",
-  "passage": "The childrens' museum opened a new interactive wing focused on environmental science, drawing record attendance in its first month.",
+  "passage": "The *childrens'* museum opened a new interactive wing focused on environmental science, drawing record attendance in its first month.",
   "question": "Which choice corrects the punctuation error in the underlined phrase?",
   "choices": {
     "A": "The childrens' museum",

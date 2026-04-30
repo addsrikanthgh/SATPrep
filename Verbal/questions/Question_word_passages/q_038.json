@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "punctuation",
   "difficulty": "medium",
-  "passage": "Deep-sea hydrothermal vents, discovered in 1977 near the Galápagos Rift, host ecosystems unlike any previously known _______ rather than relying on photosynthesis, the organisms that thrive here derive energy from chemosynthesis, converting hydrogen sulfide released by the vents into organic compounds.",
+  "passage": "Deep-sea hydrothermal vents, discovered in 1977 near the Galápagos Rift, host ecosystems unlike any previously *known _______ rather than relying* on photosynthesis, the organisms that thrive here derive energy from chemosynthesis, converting hydrogen sulfide released by the vents into organic compounds.",
   "question": "Which choice correctly punctuates the underlined portion to form a complete and standard sentence?",
   "choices": {
     "A": "known, rather than relying",

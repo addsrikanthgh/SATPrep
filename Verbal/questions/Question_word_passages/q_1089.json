@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "grammar and usage (pronoun-antecedent agreement)",
   "difficulty": "medium",
-  "passage": "The review panel assessed fifteen grant proposals over two days of deliberation. In their final report, the panel noted that they had identified three proposals that merited full funding, while seven others showed sufficient promise to warrant a second review.",
+  "passage": "The review panel assessed fifteen grant proposals over two days of deliberation. In their final report, *the panel noted that they had identified* three proposals that merited full funding, while seven others showed sufficient promise to warrant a second review.",
   "question": "Which choice best corrects the pronoun inconsistency in the second sentence?",
   "choices": {
     "A": "the panel noted that it had identified",

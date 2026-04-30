@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "sentence boundaries",
   "difficulty": "medium",
-  "passage": "Franz Kafka wrote most of his major work in German, yet he lived his entire life in Prague. Although he published relatively little during his lifetime, he instructed his friend Max Brod to destroy his manuscripts after his death, Brod refused to comply, and the world gained The Trial, The Castle, and Amerika.",
+  "passage": "Franz Kafka wrote most of his major work in German, yet he lived his entire life in Prague. Although he published relatively little during his lifetime, *he instructed his friend Max Brod to destroy his manuscripts after his death, Brod refused to comply, and the world gained The Trial, The Castle, and Amerika.*",
   "question": "Which choice best corrects the underlined portion: \"he instructed his friend Max Brod to destroy his manuscripts after his death, Brod refused to comply, and the world gained The Trial, The Castle, and Amerika\"?",
   "choices": {
     "A": "he instructed his friend Max Brod to destroy his manuscripts after his death, Brod refused to comply, and the world gained The Trial, The Castle, and Amerika.",

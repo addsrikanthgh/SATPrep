@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "grammar and usage (pronoun-antecedent agreement)",
   "difficulty": "medium",
-  "passage": "The surgical team had prepared for the procedure for weeks, reviewing the imaging studies and consulting with specialists in three different fields. When they finally entered the operating room, each member took their assigned position and waited for the attending surgeon to begin.",
+  "passage": "The surgical team had prepared for the procedure for weeks, reviewing the imaging studies and consulting with specialists in three different fields. When they finally entered the operating room, each member took *their* assigned position and waited for the attending surgeon to begin.",
   "question": "Which choice best corrects the underlined pronoun 'their' in the second sentence?",
   "choices": {
     "A": "his or her assigned position",

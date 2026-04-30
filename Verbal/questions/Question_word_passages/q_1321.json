@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "grammar and usage (subject-verb agreement)",
   "difficulty": "medium",
-  "passage": "The jury has deliberated for eleven days without reaching a verdict, which legal analysts say suggest the evidence presented at trial may have been insufficient to establish guilt beyond a reasonable doubt. Jurors are expected to resume deliberations Monday morning.",
+  "passage": "The jury has deliberated for eleven days without reaching a verdict, *which legal analysts say suggest* the evidence presented at trial may have been insufficient to establish guilt beyond a reasonable doubt. Jurors are expected to resume deliberations Monday morning.",
   "question": "Is there a subject-verb agreement error in the underlined portion of the first sentence?",
   "choices": {
     "A": "Yes; 'suggest' should be 'suggests' because 'which' refers to the singular noun 'verdict.'",

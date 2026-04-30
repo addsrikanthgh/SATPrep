@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "grammar and usage (pronoun-antecedent agreement)",
   "difficulty": "hard",
-  "passage": "The committee reviewing the grant applications announced that they would release its final decisions by the end of the fiscal quarter. Each of the twelve proposals under consideration had been evaluated by three independent reviewers, whose scores were then averaged to produce a composite rating. Proposals receiving a composite rating below 7.0 were automatically eliminated from further consideration.",
+  "passage": "The committee reviewing the grant applications *announced that they would release its final decisions* by the end of the fiscal quarter. Each of the twelve proposals under consideration had been evaluated by three independent reviewers, whose scores were then averaged to produce a composite rating. Proposals receiving a composite rating below 7.0 were automatically eliminated from further consideration.",
   "question": "Which choice best corrects the pronoun error in the underlined portion of the passage?",
   "choices": {
     "A": "announced that it would release its final decisions",

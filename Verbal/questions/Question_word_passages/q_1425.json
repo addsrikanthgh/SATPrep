@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "sentence boundaries",
   "difficulty": "medium",
-  "passage": "The archaeologist spent six months excavating the site near the river delta she documented every artifact with photographs and written descriptions before removing anything from the ground. Her meticulous methodology was later praised in the peer review of her findings.",
+  "passage": "*The archaeologist spent six months excavating the site near the river delta she documented every artifact with photographs and written descriptions before removing anything from the ground.* Her meticulous methodology was later praised in the peer review of her findings.",
   "question": "Which choice best corrects the underlined portion of the passage to fix the sentence boundary error?",
   "choices": {
     "A": "The archaeologist spent six months excavating the site near the river delta; she documented every artifact with photographs and written descriptions before removing anything from the ground.",

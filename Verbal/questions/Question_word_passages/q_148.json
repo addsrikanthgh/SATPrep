@@ -3,7 +3,7 @@
   "domain": "Standard English Conventions",
   "skill": "sentence boundaries",
   "difficulty": "hard",
-  "passage": "The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, it is now recognized as a genuine physiological phenomenon with measurable neurochemical underpinnings. Studies have shown that patients who receive placebos exhibit real changes in brain activity and neurotransmitter levels.",
+  "passage": "*The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, it is now recognized* as a genuine physiological phenomenon with measurable neurochemical underpinnings. Studies have shown that patients who receive placebos exhibit real changes in brain activity and neurotransmitter levels.",
   "question": "Which choice best corrects the underlined portion: \"The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, it is now recognized\"?",
   "choices": {
     "A": "The placebo effect, once dismissed as a nuisance variable to be controlled away in clinical trials, it is now recognized",
