@@ -1,13 +1,14 @@
 "use client";
 
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import { useStudent } from "@/lib/student-context";
 
-
 type Status = { type: "success" | "error"; message: string } | null;
+type ImportError = { file: string; error: string };
+type Stats = { passageCount: number; blankCount: number } | null;
 
 export function DataManagementClient() {
-  const { student } = useStudent();
+  const { student, adminPassword, adminUnlocked } = useStudent();
 
   const [backupStatus, setBackupStatus] = useState<Status>(null);
   const [clearStatus, setClearStatus] = useState<Status>(null);
@@ -18,6 +19,9 @@ export function DataManagementClient() {
   const [passcodeStatus, setPasscodeStatus] = useState<Status>(null);
   const [importPasscode, setImportPasscode] = useState("");
   const [passcodeVerified, setPasscodeVerified] = useState(false);
+  const [stats, setStats] = useState<Stats>(null);
+  const [statsLoading, setStatsLoading] = useState(false);
+  const [passageImportErrors, setPassageImportErrors] = useState<ImportError[]>([]);
   const [clearing, setClearing] = useState(false);
   const [restoring, setRestoring] = useState(false);
   const [importingWords, setImportingWords] = useState(false);
@@ -28,6 +32,28 @@ export function DataManagementClient() {
   const fileInputRef = useRef<HTMLInputElement>(null);
   const wordsFileInputRef = useRef<HTMLInputElement>(null);
   const blanksFileInputRef = useRef<HTMLInputElement>(null);
+
+  useEffect(() => {
+    void fetchStats();
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  async function fetchStats() {
+    setStatsLoading(true);
+    try {
+      const response = await fetch("/api/admin/stats", {
+        headers: { "x-admin-passcode": adminPassword },
+      });
+      if (response.ok) {
+        const data = (await response.json()) as { passageCount: number; blankCount: number };
+        setStats(data);
+      }
+    } catch {
+      // silently fail — stats are informational
+    } finally {
+      setStatsLoading(false);
+    }
+  }
 
   async function handleBackup() {
     setBackupStatus(null);
@@ -304,6 +330,7 @@ export function DataManagementClient() {
 
   async function handleImportPassagesFromFolder() {
     setPassagesImportStatus(null);
+    setPassageImportErrors([]);
     setImportingPassages(true);
 
     try {
@@ -320,6 +347,7 @@ export function DataManagementClient() {
         skipped?: number;
         failed?: number;
         error?: string;
+        errors?: ImportError[];
       };
 
       if (!response.ok || !payload.success) {
@@ -334,6 +362,10 @@ export function DataManagementClient() {
         type: "success",
         message: `Passage import complete. Imported: ${payload.imported ?? 0}, Updated: ${payload.updated ?? 0}, Skipped: ${payload.skipped ?? 0}, Failed: ${payload.failed ?? 0}.`,
       });
+      if (payload.errors && payload.errors.length > 0) {
+        setPassageImportErrors(payload.errors);
+      }
+      void fetchStats();
     } catch {
       setPassagesImportStatus({ type: "error", message: "An error occurred while importing passages." });
     } finally {
@@ -341,8 +373,40 @@ export function DataManagementClient() {
     }
   }
 
+  if (!adminUnlocked) {
+    return (
+      <div className="flex flex-col items-center justify-center gap-3 py-20 text-center">
+        <p className="text-base font-semibold text-slate-700">Admin access required</p>
+        <p className="text-sm text-slate-500">
+          Enter the admin passcode via the <span className="font-medium">Admin</span> button in the sidebar to access this page.
+        </p>
+      </div>
+    );
+  }
+
   return (
     <div className="mx-auto flex w-full max-w-3xl flex-col gap-4 px-4 py-3 sm:px-6 sm:py-4 lg:px-8">
+      {/* Question Bank Stats */}
+      <section className="rounded-xl border border-blue-200 bg-blue-50 p-4 shadow-sm">
+        <h2 className="text-sm font-semibold text-blue-900">Question Bank</h2>
+        {statsLoading ? (
+          <p className="mt-1 text-sm text-blue-600">Loading stats…</p>
+        ) : stats ? (
+          <div className="mt-2 flex gap-6">
+            <div>
+              <p className="text-2xl font-bold text-blue-800">{stats.passageCount.toLocaleString()}</p>
+              <p className="text-xs text-blue-600">Passages</p>
+            </div>
+            <div>
+              <p className="text-2xl font-bold text-blue-800">{stats.blankCount.toLocaleString()}</p>
+              <p className="text-xs text-blue-600">Blank Questions</p>
+            </div>
+          </div>
+        ) : (
+          <p className="mt-1 text-sm text-blue-500">Stats unavailable.</p>
+        )}
+      </section>
+
       {student ? (
         <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">
           <p className="text-sm text-slate-500">
@@ -475,6 +539,38 @@ export function DataManagementClient() {
           <p className={`mt-2 text-sm ${passagesImportStatus.type === "success" ? "text-emerald-700" : "text-red-600"}`}>
             {passagesImportStatus.message}
           </p>
+        ) : null}
+        {passageImportErrors.length > 0 ? (
+          <div className="mt-3">
+            <p className="text-sm font-medium text-red-700">
+              Failed questions ({passageImportErrors.length}){passageImportErrors.length > 20 ? " — showing first 20" : ""}:
+            </p>
+            <div className="mt-1 max-h-64 overflow-y-auto rounded-md border border-red-200 bg-red-50">
+              <table className="w-full text-xs">
+                <thead>
+                  <tr className="border-b border-red-200 bg-red-100">
+                    <th className="px-3 py-2 text-left font-semibold text-red-800">File</th>
+                    <th className="px-3 py-2 text-left font-semibold text-red-800">Reason</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {passageImportErrors.slice(0, 20).map((err, i) => (
+                    <tr key={i} className="border-b border-red-100 last:border-0">
+                      <td className="px-3 py-1.5 font-mono text-red-700">{err.file}</td>
+                      <td className="px-3 py-1.5 text-red-600">{err.error}</td>
+                    </tr>
+                  ))}
+                  {passageImportErrors.length > 20 ? (
+                    <tr>
+                      <td colSpan={2} className="px-3 py-1.5 text-center text-red-500">
+                        …and {passageImportErrors.length - 20} more
+                      </td>
+                    </tr>
+                  ) : null}
+                </tbody>
+              </table>
+            </div>
+          </div>
         ) : null}
       </section>
 

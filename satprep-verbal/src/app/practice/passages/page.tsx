@@ -10,16 +10,6 @@ function PassageIcon() {
   );
 }
 
-function InfoIcon() {
-  return (
-    <svg viewBox="0 0 24 24" fill="none" className="h-4 w-4" aria-hidden="true">
-      <circle cx="12" cy="12" r="8" stroke="currentColor" strokeWidth="1.8" />
-      <path d="M12 10v5" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" />
-      <circle cx="12" cy="7.5" r="1" fill="currentColor" />
-    </svg>
-  );
-}
-
 export default function PassagePracticePage() {
   return (
     <AppShell
@@ -29,18 +19,6 @@ export default function PassagePracticePage() {
       headerIcon={<PassageIcon />}
       maxWidthClassName="max-w-5xl"
     >
-      <section className="mb-6 rounded-2xl border border-blue-100 bg-blue-50 p-4 text-sm text-blue-800 sm:p-5">
-        <div className="flex items-start gap-2.5">
-          <span className="mt-0.5 text-blue-600">
-            <InfoIcon />
-          </span>
-          <p>
-            Each passage appears only once per student profile. If you revisit a question later, the passage text remains
-            hidden and you can focus on test-day recall behavior.
-          </p>
-        </div>
-      </section>
-
       <PassagePracticeClient />
     </AppShell>
   );

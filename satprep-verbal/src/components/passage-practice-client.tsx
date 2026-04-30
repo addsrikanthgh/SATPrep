@@ -248,16 +248,6 @@ export function PassagePracticeClient() {
 
           {session && item ? (
             <SurfaceCard>
-              <div className="mb-4 flex flex-wrap gap-2 text-xs text-slate-600">
-                <span className="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1">Domain: {item.domain}</span>
-                <span className="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1">Skill: {item.skill}</span>
-                <span className="rounded-full border border-slate-200 bg-slate-50 px-2.5 py-1">Difficulty: {item.difficulty}</span>
-              </div>
-
-              <p className="mb-4 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-xs text-amber-800">
-                {item.readPolicy}
-              </p>
-
               {item.passage ? (
                 <article className="mb-5 rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-800 sm:p-5">
                   {item.passage}
@@ -331,34 +321,6 @@ export function PassagePracticeClient() {
               </button>
             </SurfaceCard>
           ) : null}
-        </div>
-
-        <div>
-          <SurfaceCard className="p-5 sm:p-6">
-            <h3 className="text-base font-semibold text-slate-900">What to expect</h3>
-            <ul className="mt-4 space-y-3.5 text-sm text-slate-600">
-              <li className="flex items-start gap-2.5">
-                <span className="mt-1 h-1.5 w-1.5 rounded-full bg-blue-600" />
-                <span>1 passage = 1 SAT-style question</span>
-              </li>
-              <li className="flex items-start gap-2.5">
-                <span className="mt-1 h-1.5 w-1.5 rounded-full bg-blue-600" />
-                <span>Timed-feel workflow with focused pacing</span>
-              </li>
-              <li className="flex items-start gap-2.5">
-                <span className="mt-1 h-1.5 w-1.5 rounded-full bg-blue-600" />
-                <span>Immediate answer explanations</span>
-              </li>
-              <li className="flex items-start gap-2.5">
-                <span className="mt-1 h-1.5 w-1.5 rounded-full bg-blue-600" />
-                <span>Performance insights by domain and skill</span>
-              </li>
-              <li className="flex items-start gap-2.5">
-                <span className="mt-1 h-1.5 w-1.5 rounded-full bg-blue-600" />
-                <span>Real SAT-style reading and reasoning practice</span>
-              </li>
-            </ul>
-          </SurfaceCard>
         </div>
       </div>
     </div>
