@@ -1,0 +1,16 @@
+{
+  "id": "q_1213",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Exhausted by decades of colonial exploitation and galvanized by independence movements across Asia and Africa, the nationalist movement swept rapidly through the political establishment of the small island nation in the early 1960s. Within three years, the country had its first democratically elected government.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Exhausted by decades of colonial exploitation and galvanized by independence movements across Asia and Africa, the island nation's people swept the nationalist movement rapidly through the country's political establishment in the early 1960s.",
+    "B": "The nationalist movement, exhausted by decades of colonial exploitation and galvanized by independence movements, swept through the political establishment.",
+    "C": "Exhausted and galvanized, the political establishment of the small island nation was swept by the nationalist movement in the early 1960s.",
+    "D": "No change; 'exhausted' and 'galvanized' describe the conditions leading to the nationalist movement's rise"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrases 'Exhausted by decades of colonial exploitation and galvanized by independence movements' describe the people of the island nation, who experienced the exhaustion and galvanization. As written, 'the nationalist movement' is the subject, implying the movement was exhausted and galvanized—not quite logical in the same way. Choice A restructures so the people are the subject, with the nationalist movement repositioned as an object. Choice B attaches the phrases to 'The nationalist movement,' which remains only partially logical. Choice C assigns the participial phrases to 'the political establishment,' changing the meaning. Choice D incorrectly argues the phrases describe causal conditions rather than a modifier attached to a specific noun."
+}

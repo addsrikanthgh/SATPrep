@@ -1,0 +1,16 @@
+{
+  "id": "q_1255",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The number of hours that emergency room physicians work per week, according to a new report from the American College of Emergency Physicians, remain unacceptably high across most major hospital systems in the country. The report calls for mandatory shift limits to reduce physician burnout.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The number of hours that emergency room physicians work per week, according to a new report, remains unacceptably high across most major hospital systems.",
+    "B": "The number of hours that emergency room physicians work per week, according to a new report, have remained unacceptably high across most major hospital systems.",
+    "C": "A number of hours that emergency room physicians work per week remain unacceptably high across most major hospital systems.",
+    "D": "No change; 'remain' correctly agrees with 'hours,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The number,' which is singular. 'Of hours that emergency room physicians work per week' is a prepositional phrase modifying 'number.' The parenthetical 'according to a new report from…' does not change the subject. The correct singular verb is 'remains.' Choice A uses 'remains.' Choice B changes to 'have remained,' a plural present perfect form—wrong in number and tense. Choice C changes 'The number' to 'A number'; 'a number of' does take a plural verb ('remain' would be correct with 'a number'), but this is a structural change, not a correction of the original sentence. Choice D incorrectly applies proximity agreement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1015",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Renaissance sculptors broke from the Gothic tradition of elongated, stylized figures in favor of naturalistic representations of the human body. *Studying ancient Greek and Roman statuary closely and experimenting with techniques for rendering musculature, drapery, and emotional expression in marble.* Donatello's David, cast in bronze in the early fifteenth century, exemplifies this renewed interest in classical ideals of bodily form.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Studying ancient Greek and Roman statuary closely and experimenting with techniques for rendering musculature, drapery, and emotional expression in marble.",
+    "B": "They studied ancient Greek and Roman statuary closely and experimented with techniques for rendering musculature, drapery, and emotional expression in marble.",
+    "C": "Ancient Greek and Roman statuary studied closely, experimenting with techniques for rendering musculature, drapery, and emotional expression in marble.",
+    "D": "Closely studying ancient Greek and Roman statuary, techniques for rendering musculature, drapery, and emotional expression in marble."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined portion is a sentence fragment—a gerund phrase with no main subject or finite verb. Choice B supplies a subject ('They,' referring to the sculptors named in the preceding sentence) and finite verbs ('studied,' 'experimented'), creating a complete independent clause. Choice A reproduces the original fragment. Choice C creates an absolute phrase ('Ancient Greek and Roman statuary studied closely') with no clear grammatical function, leaving the sentence without a main clause. Choice D presents 'techniques' as a noun without a predicate, producing another fragment."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1215",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Named after the nineteenth-century naturalist Charles Darwin, the Galapagos finches became a cornerstone of evolutionary biology after the publication of On the Origin of Species. The island finches exhibit adaptive radiation, with distinct beak morphologies corresponding to different ecological niches.",
+  "question": "Is there a modifier error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'Named after the nineteenth-century naturalist Charles Darwin' should follow 'finches' to make the attribution clear.",
+    "B": "Yes; 'Named after' implies the finches were given their name by Darwin himself, which is factually incorrect.",
+    "C": "Yes; 'the Galapagos finches' cannot be named after Darwin because 'named after' requires a human subject.",
+    "D": "No; 'Named after the nineteenth-century naturalist Charles Darwin' correctly modifies 'the Galapagos finches,' which is the subject of the main clause."
+  },
+  "correct_answer": "D",
+  "explanation": "The participial phrase 'Named after the nineteenth-century naturalist Charles Darwin' is a passive participial phrase that correctly modifies 'the Galapagos finches,' which is the subject of the main clause immediately following the comma. 'The Galapagos finches' can logically be named after someone—it is standard to say that a species or place was named after a person. Choice A incorrectly suggests the placement is wrong; the phrase already precedes its modified noun. Choice B raises a factual concern, not a grammatical error, and the phrase does not imply Darwin named them himself. Choice C incorrectly states that 'named after' requires a human subject. Choice D correctly identifies no error."
+}

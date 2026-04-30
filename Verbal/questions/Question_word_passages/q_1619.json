@@ -1,0 +1,16 @@
+{
+  "id": "q_1619",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Before Ignaz Semmelweis proposed handwashing in 1847, childbed fever killed between 10 and 35 percent of women in some Vienna maternity wards. Semmelweis demonstrated that mortality rates plummeted when physicians washed their hands with chlorinated lime solution before delivering babies. Despite this, his findings were largely rejected by the medical community, in part because germ theory had not yet been established and his proposed explanation was poorly received. He died in an asylum in 1865, his work unrecognized. Within two decades, Pasteur and Lister's work had provided the theoretical framework that made his findings comprehensible, and Semmelweis was posthumously celebrated as a pioneer.",
+  "question": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "A scientific discovery is introduced, the resistance it encountered is explained, and its eventual vindication is described.",
+    "B": "A public health crisis is described, its cause is identified, and a cure is proposed.",
+    "C": "Two competing medical theories are presented, and one is shown to be superior.",
+    "D": "A scientist's biography is summarized, focusing on his professional successes."
+  },
+  "correct_answer": "A",
+  "explanation": "The text follows a three-part arc: (1) it establishes Semmelweis's discovery and its demonstrated effectiveness; (2) it explains the resistance he faced and the failure of recognition during his lifetime; and (3) it describes his posthumous vindication once germ theory provided the theoretical framework. Choice A captures all three parts accurately. Choice B is incorrect because the text does not identify a 'cause' in the way a disease investigation would; it describes Semmelweis's intervention and the reception of his work. Choice C is incorrect because no two competing theories are laid out—Semmelweis had one practice (handwashing) and faced resistance, not a theory-versus-theory debate. Choice D is incorrect because the text focuses on professional failure and posthumous vindication, not 'professional successes.'"
+}

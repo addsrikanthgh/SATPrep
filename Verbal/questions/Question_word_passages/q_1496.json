@@ -1,0 +1,16 @@
+{
+  "id": "q_1496",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The bubonic plague, which swept through Eurasia in the mid-fourteenth century, killed an estimated one-third to one-half of Europe's population. This catastrophic mortality reshaped virtually every aspect of medieval society. Labor shortages gave surviving peasants unprecedented bargaining power, accelerating the decline of feudal serfdom. In the longer term, the plague may have contributed to the conditions that made the Renaissance possible—by eliminating the rigid hierarchy that had constrained intellectual and social mobility for centuries.",
+  "question": "What is the primary function of the third sentence ('Labor shortages gave surviving peasants...') in the passage?",
+  "choices": {
+    "A": "To provide a specific example of how the mortality described in the first sentence reshaped medieval society",
+    "B": "To explain why the plague killed one-third to one-half of Europe's population",
+    "C": "To introduce a new topic unrelated to the plague's social effects",
+    "D": "To contradict the claim that feudal serfdom declined in the medieval period"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence makes the broad claim that the plague's mortality 'reshaped virtually every aspect of medieval society.' The third sentence provides a concrete example of one such reshaping: labor shortages empowered peasants and accelerated the decline of serfdom. The third sentence thus supports the second sentence's broad claim by offering specific evidence of social transformation. Choice B is incorrect—the third sentence describes a social consequence of the death toll, not its epidemiological causes. Choice C is incorrect—the third sentence is directly about the plague's social effects. Choice D is incorrect—the third sentence asserts that serfdom declined, consistent with the broader argument about social transformation."
+}

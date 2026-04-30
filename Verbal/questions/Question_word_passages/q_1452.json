@@ -1,0 +1,16 @@
+{
+  "id": "q_1452",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The county health department released its annual report on air quality for the metropolitan area, the report found that ozone levels had exceeded federal safety standards on forty-seven days during the previous calendar year. Officials pledged to implement stricter vehicle emission testing.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The county health department released its annual report on air quality for the metropolitan area; the report found that ozone levels had exceeded federal safety standards on forty-seven days during the previous calendar year.",
+    "B": "The county health department released its annual report on air quality for the metropolitan area the report found that ozone levels had exceeded federal safety standards on forty-seven days during the previous calendar year.",
+    "C": "The county health department released its annual report on air quality for the metropolitan area: the report found that ozone levels had exceeded federal safety standards on forty-seven days.",
+    "D": "No change; the comma after 'metropolitan area' is correct because the second clause explains the contents of the report."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The county health department released its annual report on air quality for the metropolitan area' is a complete independent clause, and 'the report found that ozone levels had exceeded federal safety standards on forty-seven days during the previous calendar year' is a second complete independent clause. Choice A correctly uses a semicolon to join them. Choice B creates a fused sentence. Choice C uses a colon—less appropriate here because the second clause describes what the report found rather than defining or listing the 'annual report' introduced in the first clause. Choice D incorrectly defends the comma splice."
+}

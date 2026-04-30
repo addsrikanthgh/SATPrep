@@ -1,0 +1,16 @@
+{
+  "id": "q_1180",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The professor told the students who were struggling with the material to see her during office hours specifically. She believed that small-group or individual instruction would be far more effective than additional large-lecture sessions.",
+  "question": "The word 'specifically' in the first sentence creates ambiguity. Which choice most clearly conveys that office hours are the specific venue the professor wants students to use?",
+  "choices": {
+    "A": "The professor told the students who were struggling with the material to see her specifically during office hours.",
+    "B": "The professor specifically told the students who were struggling with the material to see her during office hours.",
+    "C": "The professor told the specifically struggling students to see her during office hours.",
+    "D": "No change; 'specifically' at the end of the clause modifies 'during office hours' through proximity"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'specifically' follows 'during office hours' and could modify either 'office hours' (those specific hours) or 'see her' (see her specifically, not someone else). Choice A places 'specifically' immediately before 'during office hours,' clarifying that office hours are the specific time intended. Choice B places 'specifically' before 'told,' implying she told them specifically rather than implying it. Choice C places 'specifically' before 'struggling,' creating 'specifically struggling students,' which is an awkward and logically unclear phrase. Choice D incorrectly accepts end-of-clause position as unambiguous."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1566",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A meteorologist analyzed average monthly precipitation (in millimeters) and wildfire incidents in a forested region over a single year.\n\n| Month | Avg. Precipitation (mm) | Wildfire Incidents |\n|---|---|---|\n| January | 88 | 2 |\n| February | 74 | 3 |\n| March | 61 | 6 |\n| April | 43 | 11 |\n| May | 22 | 18 |\n| June | 8 | 29 |\n| July | 4 | 34 |\n| August | 6 | 31 |\n| September | 19 | 22 |\n| October | 38 | 13 |\n| November | 55 | 5 |\n| December | 82 | 2 |\n\nThe meteorologist argued that lower monthly precipitation is strongly associated with higher wildfire incidence in this region.",
+  "question": "Which observation from the data most directly supports the meteorologist's argument?",
+  "choices": {
+    "A": "July has the highest wildfire incidence at 34 incidents.",
+    "B": "The months with the lowest precipitation (June: 8 mm, July: 4 mm, August: 6 mm) correspond to the months with the highest wildfire incidence (29, 34, and 31 incidents), while the months with the highest precipitation (January: 88 mm, December: 82 mm) have the lowest wildfire incidence (2 incidents each).",
+    "C": "Wildfire incidents increase from January through July and then decrease.",
+    "D": "February has more precipitation than March and also fewer wildfire incidents."
+  },
+  "correct_answer": "B",
+  "explanation": "The meteorologist's argument is a specific inverse relationship: lower precipitation is associated with higher wildfire incidence. The best support shows both ends of this relationship clearly. Choice B identifies both the dry, high-fire months (June, July, August) and the wet, low-fire months (January, December) together, directly illustrating the inverse relationship at both extremes. This double-ended comparison is the most complete support for the 'strong association' claim. Choice A notes only one data point (July's high incidence) without comparing it to precipitation. Choice C describes the temporal pattern (rise and fall) but doesn't explicitly link it to precipitation. Choice D makes a single-pair comparison that supports the trend but is far less comprehensive than Choice B."
+}

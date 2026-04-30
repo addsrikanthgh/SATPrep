@@ -1,0 +1,16 @@
+{
+  "id": "q_1075",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The grand jury convened for eleven weeks to evaluate the financial records submitted by the corporation. After extensive deliberation, they returned a no-bill decision, meaning that insufficient evidence existed to support an indictment.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "it",
+    "B": "those jurors",
+    "C": "the members",
+    "D": "No change; 'they' correctly refers to the individual jurors who make up the grand jury"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent 'The grand jury' is a collective noun. In formal American English, collective nouns functioning as a single unified body take singular verbs and singular pronouns. The first sentence treats the grand jury as a single institution ('The grand jury convened'), so the pronoun in the second sentence must be the singular 'it.' Choice A correctly substitutes 'it.' Choice B introduces a new noun phrase 'those jurors' that does not appear in the passage, which could introduce confusion and is unnecessarily wordy. Choice C similarly introduces 'the members,' a rephrasing not supported by the passage's established reference. Choice D incorrectly argues that 'they' is acceptable because juries are made up of individuals; while British English sometimes treats collective nouns as plural, American formal standard English treats them as singular when they act as a unified body."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1480",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Monarch butterflies undertake one of the most remarkable migrations in the animal kingdom, traveling up to three thousand miles from their summer breeding grounds in Canada and the United States to their overwintering sites in the mountains of central Mexico. No individual butterfly completes the entire round trip; it takes three to four generations to make the journey north and only one generation—the so-called 'super generation'—to make the return south. Scientists are still investigating how this super generation navigates to destinations none of them have ever seen.",
+  "question": "What is the primary function of the third sentence ('Scientists are still investigating...') in the passage?",
+  "choices": {
+    "A": "To summarize the full life cycle of the monarch butterfly",
+    "B": "To introduce an unresolved scientific question that adds to the sense of wonder established by the previous sentences",
+    "C": "To contradict the claim in the second sentence about generational differences",
+    "D": "To explain the mechanism by which the super generation navigates south"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences establish a remarkable biological fact: monarchs migrate three thousand miles, and one generation makes the entire return trip to a destination no member of that generation has ever visited. The third sentence does not resolve this mystery but rather highlights it explicitly—scientists are still investigating how the navigation works. Its function is to deepen the sense of wonder by pointing to an open, extraordinary question. Choice A is incorrect—the passage does not summarize the full life cycle; it focuses on migration. Choice C is incorrect—the third sentence does not contradict the second sentence. Choice D is incorrect—the third sentence states that the mechanism is unknown, not that it explains the mechanism."
+}

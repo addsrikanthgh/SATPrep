@@ -1,0 +1,16 @@
+{
+  "id": "q_1494",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Venus flytrap is one of the most recognizable carnivorous plants in the world, famous for its jaw-like leaves that snap shut to trap insects. Each trap can close in as little as one-tenth of a second when trigger hairs inside the leaf are stimulated twice in quick succession. This two-touch requirement prevents the plant from wasting energy closing on raindrops or windblown debris. After closure, digestive enzymes dissolve the prey over the course of five to twelve days.",
+  "question": "What is the primary function of the third sentence ('This two-touch requirement...') in the passage?",
+  "choices": {
+    "A": "To explain the evolutionary purpose of the two-stimulation mechanism described in the second sentence",
+    "B": "To introduce a new type of carnivorous plant for comparison",
+    "C": "To describe how digestive enzymes work inside the trap",
+    "D": "To contradict the claim that trigger hairs must be stimulated twice"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence describes the mechanical requirement for closure: trigger hairs must be stimulated twice in quick succession. The third sentence explains why this requirement exists—it prevents the plant from wasting energy on false triggers like raindrops or debris. This is a cause-and-effect or function-explanation relationship: the second sentence describes what happens, and the third sentence explains why that mechanism has adaptive value. Choice B is incorrect—no other plant is introduced. Choice C is incorrect—digestive enzymes are discussed in the fourth sentence. Choice D is incorrect—the third sentence does not dispute the two-touch requirement; it explains its purpose."
+}

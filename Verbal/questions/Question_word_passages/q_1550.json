@@ -1,0 +1,16 @@
+{
+  "id": "q_1550",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A public health study examined the relationship between access to green spaces (parks per 10,000 residents) and rates of depression diagnoses (per 1,000 residents) in six urban districts.\n\n| District | Parks per 10,000 Residents | Depression Diagnoses per 1,000 |\n|---|---|---|\n| District 1 | 0.8 | 94 |\n| District 2 | 1.4 | 87 |\n| District 3 | 2.1 | 79 |\n| District 4 | 3.0 | 68 |\n| District 5 | 1.9 | 83 |\n| District 6 | 2.7 | 71 |\n\nThe lead researcher asserted that green space access appears to be a protective factor against depression in urban populations.",
+  "question": "A skeptic argued that the data shows only correlation, not causation, and that the two districts that do not perfectly fit the trend (Districts 5 and 3) undermine the researcher's assertion. Which response would best counter the skeptic's argument?",
+  "choices": {
+    "A": "Districts 5 and 3 do undermine the trend, so the researcher should discard them from the analysis.",
+    "B": "The skeptic's causation point is valid, but the imperfect fit of Districts 3 and 5 does not undermine the assertion—both still follow the general negative relationship between green space and depression rates, and the researcher never claimed a perfect linear correlation.",
+    "C": "The data actually does show causation because the trend is consistent enough across the six districts.",
+    "D": "Districts 3 and 5 fit the trend perfectly because their values are between those of Districts 1 and 4."
+  },
+  "correct_answer": "B",
+  "explanation": "The skeptic raises two points: (1) the data shows only correlation, not causation, and (2) Districts 3 and 5 undermine the trend. Choice B addresses both carefully. The causation point is acknowledged as valid—observational data cannot establish causation—but the researcher's assertion of a 'protective factor' does not require causation; it only requires a consistent association. Regarding Districts 3 and 5: District 3 (2.1 parks, 79 depression) and District 5 (1.9 parks, 83 depression) are slightly out of order relative to each other, but both still fit within the broader negative relationship. The presence of minor deviations doesn't undermine the overall pattern across six data points. Choice A suggests discarding data, which would be scientifically inappropriate. Choice C overstates the data by claiming it shows causation. Choice D is factually misleading—being 'between' other values doesn't mean they 'fit perfectly.'"
+}

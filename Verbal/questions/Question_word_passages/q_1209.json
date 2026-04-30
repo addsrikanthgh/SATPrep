@@ -1,0 +1,16 @@
+{
+  "id": "q_1209",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Frustrated by the lack of transparency in the university's decision-making process, a formal petition demanding an independent review of the budget allocation procedures was submitted by a coalition of student government leaders. The petition collected over four thousand signatures within the first seventy-two hours.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Frustrated by the lack of transparency in the university's decision-making process, a coalition of student government leaders submitted a formal petition demanding an independent review of the budget allocation procedures.",
+    "B": "A formal petition, frustrated by the lack of transparency in the university's decision-making process, was submitted by student leaders.",
+    "C": "The university's budget allocation procedures, frustrated by a lack of transparency, were subject to a formal petition from student leaders.",
+    "D": "No change; 'frustrated' modifies the coalition of student leaders, who are mentioned in the passive construction"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Frustrated by the lack of transparency in the university's decision-making process' describes the student leaders who felt the frustration. As written, 'a formal petition' is the subject, implying the petition feels frustration—illogical. Choice A restructures with 'a coalition of student government leaders' as the subject. Choice B attaches the participial phrase to 'A formal petition,' making the error explicit. Choice C assigns frustration to 'The university's budget allocation procedures,' which is also illogical. Choice D incorrectly claims that referencing the coalition in the passive by-phrase resolves the dangling modifier."
+}

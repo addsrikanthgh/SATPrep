@@ -1,0 +1,16 @@
+{
+  "id": "q_1011",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Sleep researchers have established that insufficient sleep impairs cognitive performance across a wide range of tasks. *Chronic sleep deprivation disrupts the consolidation of new memories it also impairs executive function, reducing the brain's ability to plan and make decisions.* Even moderate sleep restriction of one to two hours per night can produce measurable decrements in attention and reaction time.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Chronic sleep deprivation disrupts the consolidation of new memories, it also impairs executive function, reducing the brain's ability to plan and make decisions.",
+    "B": "Chronic sleep deprivation disrupts the consolidation of new memories it also impairs executive function, reducing the brain's ability to plan and make decisions.",
+    "C": "Chronic sleep deprivation disrupts the consolidation of new memories; it also impairs executive function, reducing the brain's ability to plan and make decisions.",
+    "D": "Chronic sleep deprivation, disrupting the consolidation of new memories, it also impairs executive function, reducing the brain's ability to plan and make decisions."
+  },
+  "correct_answer": "C",
+  "explanation": "The underlined sentence is a fused sentence—two independent clauses run together without any punctuation. Choice C inserts a semicolon to correctly separate the two independent clauses. Choice A creates a comma splice. Choice B reproduces the original fused sentence. Choice D inserts a participial phrase ('disrupting the consolidation of new memories') between the subject and the second independent clause, but 'it' then reintroduces a subject for 'impairs,' creating an incoherent construction in which the sentence has no clear main predicate for 'Chronic sleep deprivation.'"
+}

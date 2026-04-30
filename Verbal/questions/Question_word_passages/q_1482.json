@@ -1,0 +1,16 @@
+{
+  "id": "q_1482",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Deep-sea hydrothermal vents, first discovered in 1977 near the Galápagos Rift, support thriving ecosystems in one of the most hostile environments on Earth. Unlike virtually all other ecosystems on the planet, vent communities do not depend on sunlight. Instead, bacteria at the base of the food chain convert hydrogen sulfide—a toxic gas released by the vents—into energy through a process called chemosynthesis. The discovery of these communities forced scientists to reconsider the minimum conditions necessary for life and expanded the range of environments where extraterrestrial life might be possible.",
+  "question": "What is the primary function of the second sentence ('Unlike virtually all other ecosystems...') in the passage?",
+  "choices": {
+    "A": "To provide a definition of chemosynthesis",
+    "B": "To highlight a key characteristic that makes hydrothermal vent ecosystems unusual compared to other ecosystems",
+    "C": "To explain how bacteria convert hydrogen sulfide into energy",
+    "D": "To summarize the scientific significance of the 1977 discovery"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence contrasts hydrothermal vent ecosystems with nearly all others by pointing out that they do not depend on sunlight—the fundamental energy source for most life on Earth. This contrast establishes the ecosystems as fundamentally different from the norm, which prepares the reader for the explanation of chemosynthesis in the third sentence and the broader significance described in the fourth. Choice A is incorrect—'chemosynthesis' is not even named in the second sentence. Choice C is incorrect—that explanation is provided in the third sentence. Choice D is incorrect—the summary of scientific significance appears in the fourth sentence, not the second."
+}

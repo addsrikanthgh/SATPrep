@@ -1,0 +1,16 @@
+{
+  "id": "q_1518",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Microplastics—particles of plastic smaller than five millimeters—have been found in virtually every environment on Earth, from the deep ocean floor to the peaks of the Himalayas. Scientists have detected microplastics in drinking water, sea salt, rainwater, and human blood. The health effects of microplastic exposure on humans remain poorly understood, partly because the research field is still young and partly because establishing causation from low-level chronic exposure is methodologically difficult. What is already clear is that the contamination is widespread enough to make complete avoidance essentially impossible for any individual.",
+  "question": "What is the primary function of the third sentence ('The health effects of microplastic exposure...') in the passage?",
+  "choices": {
+    "A": "To prove that microplastics cause serious health problems in humans",
+    "B": "To acknowledge the limits of current scientific knowledge about the human health implications of microplastic contamination",
+    "C": "To explain why microplastics are found at the peaks of the Himalayas",
+    "D": "To introduce a policy proposal for reducing microplastic contamination in drinking water"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences establish that microplastics are ubiquitous and that humans are exposed to them. The third sentence does not claim harm but instead carefully notes that the health effects 'remain poorly understood'—and explains why: the research field is young and causal attribution from low-level chronic exposure is methodologically hard. This is an epistemological limitation statement, acknowledging the boundaries of current knowledge. Choice A is incorrect—the third sentence does not establish causation; it notes the uncertainty. Choice C is incorrect—the distribution of microplastics is discussed in the first sentence. Choice D is incorrect—no policy proposal appears in the passage."
+}

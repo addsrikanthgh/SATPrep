@@ -1,0 +1,16 @@
+{
+  "id": "q_1240",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the chief financial officer nor the members of the audit committee was informed of the discrepancy before the quarterly report was filed. The omission triggered an internal investigation lasting several months.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Neither the chief financial officer nor the members of the audit committee were informed of the discrepancy before the quarterly report was filed.",
+    "B": "Neither the chief financial officer nor the members of the audit committee has been informed of the discrepancy.",
+    "C": "Neither the chief financial officer nor the members of the audit committee is informed of the discrepancy.",
+    "D": "No change; 'was informed' agrees with 'the chief financial officer,' the nearer singular subject"
+  },
+  "correct_answer": "A",
+  "explanation": "With neither/nor constructions, the verb agrees with the subject closest to it (the nearer subject rule). Here, the nearer subject is 'the members of the audit committee,' which is plural. Therefore, the plural verb 'were informed' is required. Choice A correctly uses 'were.' Choice B uses 'has been informed,' a present perfect singular verb—wrong in both tense and number for this context. Choice C uses 'is,' a present singular verb—also wrong in tense and number. Choice D incorrectly applies the nearer subject rule to 'the chief financial officer,' which is the farther, not nearer, subject."
+}

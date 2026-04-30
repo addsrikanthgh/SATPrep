@@ -1,0 +1,16 @@
+{
+  "id": "q_1003",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Psychologists define confirmation bias as the tendency to search for and interpret information in a way that confirms one's existing beliefs. *The bias operates largely unconsciously, people rarely recognize when they are selectively attending to supporting evidence.* This unconscious selectivity makes it especially difficult to correct through rational argument alone.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "The bias operates largely unconsciously, people rarely recognize when they are selectively attending to supporting evidence.",
+    "B": "The bias operates largely unconsciously; people rarely recognize when they are selectively attending to supporting evidence.",
+    "C": "The bias operates largely unconsciously, rarely recognizing when people are selectively attending to supporting evidence.",
+    "D": "The bias operates largely unconsciously, so that people rarely recognize when they are selectively attending to supporting evidence."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice B correctly separates them with a semicolon. Choice A reproduces the original error. Choice C replaces the second independent clause with a participial phrase, but 'rarely recognizing' now refers grammatically to 'the bias' rather than to people, inverting the intended meaning through a dangling modifier. Choice D inserts 'so that,' which implies the bias operates unconsciously in order that people will not recognize it—a purposive relationship the passage does not assert."
+}

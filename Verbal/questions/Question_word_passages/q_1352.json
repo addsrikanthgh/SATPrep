@@ -1,0 +1,16 @@
+{
+  "id": "q_1352",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "Recognized as one of the greatest chess players of the twentieth century, the retirement announcement of Garry Kasparov shocked the international chess community. He had been ranked number one in the world for twenty consecutive years.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "Recognized as one of the greatest chess players of the twentieth century, Garry Kasparov shocked the international chess community with his retirement announcement.",
+    "B": "Recognized as one of the greatest chess players of the twentieth century, the international chess community was shocked by Garry Kasparov's retirement announcement.",
+    "C": "The retirement announcement of Garry Kasparov, recognized as one of the greatest chess players, shocked the international chess community.",
+    "D": "No change; the participial phrase 'Recognized as one of the greatest' modifies 'Garry Kasparov,' who is identified through his retirement announcement."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a dangling modifier. The introductory participial phrase 'Recognized as one of the greatest chess players of the twentieth century' must modify the subject of the main clause. The subject of the main clause is 'the retirement announcement,' which cannot be 'recognized as one of the greatest chess players.' Garry Kasparov is the one recognized as a great player. Choice A places 'Garry Kasparov' as the subject, correctly resolving the dangling modifier. Choice B changes the subject to 'the international chess community,' which is also a dangling modifier—the community was not recognized as a great chess player. Choice C positions 'Garry Kasparov' possessively but still does not place him as the grammatical subject following the participial phrase. Choice D incorrectly defends the modifier."
+}

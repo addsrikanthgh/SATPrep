@@ -1,0 +1,16 @@
+{
+  "id": "q_1430",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The Supreme Court's 5–4 decision in the redistricting case immediately drew sharp criticism from voting rights organizations across the country they argued that the majority's reasoning would, if applied broadly, effectively nullify decades of legislative protections for minority voters.",
+  "question": "Which choice correctly fixes the sentence boundary error?",
+  "choices": {
+    "A": "The Supreme Court's 5–4 decision in the redistricting case immediately drew sharp criticism from voting rights organizations across the country; they argued that the majority's reasoning would, if applied broadly, effectively nullify decades of legislative protections for minority voters.",
+    "B": "The Supreme Court's 5–4 decision in the redistricting case immediately drew sharp criticism from voting rights organizations across the country, they argued that the majority's reasoning would, if applied broadly, effectively nullify decades of legislative protections.",
+    "C": "The Supreme Court's 5–4 decision in the redistricting case immediately drew sharp criticism from voting rights organizations across the country: they argued that the majority's reasoning would effectively nullify decades of legislative protections for minority voters.",
+    "D": "The Supreme Court's 5–4 decision in the redistricting case, immediately drawing sharp criticism from voting rights organizations across the country, they argued that the majority's reasoning would nullify decades of legislative protections."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a fused sentence—two independent clauses with no punctuation between them. 'The Supreme Court's 5–4 decision...immediately drew sharp criticism from voting rights organizations across the country' and 'they argued that the majority's reasoning would...effectively nullify decades of legislative protections for minority voters' are both complete independent clauses. Choice A uses a semicolon to correctly separate them. Choice B creates a comma splice. Choice C uses a colon—while colons can introduce explanatory clauses, the colon after 'country' would be more appropriate if the second clause directly defined or explained the criticism; here, a semicolon is more precise. Choice D creates an incoherent sentence with a dangling modifier."
+}

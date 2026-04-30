@@ -1,0 +1,16 @@
+{
+  "id": "q_1454",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The novelist submitted her manuscript to the publisher three days after the deadline, she had missed the original due date because a family emergency had kept her away from her work for two full weeks. Her editor agreed to extend the contract terms.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The novelist submitted her manuscript to the publisher three days after the deadline; she had missed the original due date because a family emergency had kept her away from her work for two full weeks.",
+    "B": "The novelist submitted her manuscript to the publisher three days after the deadline she had missed the original due date because a family emergency had kept her away from her work for two full weeks.",
+    "C": "The novelist submitted her manuscript three days after the deadline, a family emergency having kept her away from her work for two full weeks.",
+    "D": "No change; the comma after 'deadline' is correct because the second clause explains why the deadline was missed."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The novelist submitted her manuscript to the publisher three days after the deadline' is a complete independent clause, and 'she had missed the original due date because a family emergency had kept her away from her work for two full weeks' is a second complete independent clause. Choice A uses a semicolon to correctly join them. Choice B creates a fused sentence. Choice C uses an absolute phrase ('a family emergency having kept her...'), which is grammatically correct but makes a more substantial structural change. Choice D incorrectly defends the comma splice."
+}

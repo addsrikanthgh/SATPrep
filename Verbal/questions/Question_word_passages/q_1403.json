@@ -1,0 +1,16 @@
+{
+  "id": "q_1403",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The architect's proposal called for a dramatic redesign of the waterfront district. One that would replace the aging industrial warehouses with a mixed-use development featuring parks, residential towers, and a new home for the city's natural history museum, whose current building on Fifth Avenue has been declared structurally deficient.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The architect's proposal called for a dramatic redesign of the waterfront district—one that would replace the aging industrial warehouses with a mixed-use development featuring parks, residential towers, and a new home for the city's natural history museum, whose current building on Fifth Avenue has been declared structurally deficient.",
+    "B": "The architect's proposal called for a dramatic redesign of the waterfront district; one that would replace the aging industrial warehouses with a mixed-use development featuring parks, residential towers, and a new home for the city's natural history museum.",
+    "C": "The architect's proposal called for a dramatic redesign of the waterfront district. The plan would replace the aging industrial warehouses with a mixed-use development featuring parks, residential towers, and a new museum home.",
+    "D": "No change; 'One that would replace' begins a complete sentence because it contains a relative clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'One that would replace the aging industrial warehouses with a mixed-use development featuring parks, residential towers, and a new home for the city's natural history museum, whose current building on Fifth Avenue has been declared structurally deficient' is an appositive noun phrase fragment. 'One' is a pronoun standing in for 'redesign,' 'that would replace...' is a relative clause modifying it, but there is no main predicate—the phrase cannot stand alone. It must be attached to the preceding sentence. Choice A uses a dash to attach the appositive. Choice B uses a semicolon before the fragment—incorrect for a non-independent clause. Choice C converts the fragment into a full sentence with a new subject. Choice D incorrectly defends the fragment."
+}

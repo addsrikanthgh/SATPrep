@@ -1,0 +1,16 @@
+{
+  "id": "q_1148",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The committee agreed to review the proposal submitted by the vendor frequently. Members noted that such reviews were necessary to ensure compliance with the updated procurement standards.",
+  "question": "The word 'frequently' in the first sentence creates ambiguity. Which choice most clearly conveys that the reviews themselves will be frequent?",
+  "choices": {
+    "A": "The committee frequently agreed to review the proposal submitted by the vendor.",
+    "B": "The committee agreed to frequently review the proposal submitted by the vendor.",
+    "C": "The committee agreed to review the frequently submitted proposal by the vendor.",
+    "D": "No change; 'frequently' clearly modifies 'review' because it follows the verb phrase"
+  },
+  "correct_answer": "B",
+  "explanation": "As written, 'frequently' is a squinting modifier—it can modify either 'submitted' (the vendor submitted frequently) or 'review' (the committee will review frequently). The second sentence clarifies that the intent is frequent reviews. Choice B places 'frequently' immediately before 'review,' unambiguously modifying the reviewing action. Choice A places 'frequently' before 'agreed,' implying the committee frequently agreed. Choice C places 'frequently' before 'submitted,' implying the vendor submitted proposals frequently. Choice D incorrectly claims that position after the verb phrase is sufficient for clarity."
+}

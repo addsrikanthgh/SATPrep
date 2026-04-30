@@ -1,0 +1,16 @@
+{
+  "id": "q_1083",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The city council voted unanimously to approve the new zoning ordinance after months of public comment. In its official statement, the council emphasized that they remained open to revisiting specific provisions if new evidence emerged from the implementation period.",
+  "question": "Which choice best corrects the pronoun inconsistency in the second sentence?",
+  "choices": {
+    "A": "the council emphasized that it remained open",
+    "B": "the council emphasized that those members remained open",
+    "C": "the council emphasized that one remained open",
+    "D": "No change; shifting from 'its' to 'they' is acceptable because the council includes multiple members"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence opens by treating the city council as singular ('In its official statement'), but then inconsistently shifts to 'they' within the same sentence. The council must be treated as either singular or plural consistently throughout the passage. Because 'its' already establishes the singular treatment, 'they' must be corrected to 'it.' Choice A correctly aligns the pronoun with the established singular reference. Choice B introduces 'those members,' unnecessarily rephrasing the antecedent. Choice C uses the indefinite 'one,' which changes the meaning and does not refer back to the council. Choice D incorrectly justifies mixing singular and plural pronouns for the same antecedent by appealing to membership size; a collective noun must be treated consistently within a passage."
+}

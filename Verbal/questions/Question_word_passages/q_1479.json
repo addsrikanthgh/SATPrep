@@ -1,0 +1,16 @@
+{
+  "id": "q_1479",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Cognitive behavioral therapy, or CBT, is widely regarded as one of the most effective treatments for depression and anxiety disorders. The therapy teaches patients to identify and challenge distorted thought patterns that fuel negative emotions. Critics of CBT argue, however, that its focus on individual thought patterns ignores the social and economic conditions that contribute to mental illness. These critics contend that treating only cognition without addressing poverty, discrimination, or trauma is treating the symptom rather than the disease.",
+  "question": "What is the primary function of the third sentence ('Critics of CBT argue...') in the passage?",
+  "choices": {
+    "A": "To refute the claims made in the first two sentences entirely",
+    "B": "To introduce a counterargument that complicates the favorable portrait of CBT presented earlier",
+    "C": "To explain why CBT has become the dominant model of mental health treatment",
+    "D": "To provide evidence that CBT is ineffective for patients experiencing poverty or trauma"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences present CBT favorably—it is 'widely regarded' as effective and teaches patients to address distorted thinking. The third sentence introduces a critical perspective: that CBT's focus on individual cognition overlooks structural causes of mental illness. The word 'however' explicitly signals a shift to a counterargument. The function of this sentence is to complicate the earlier favorable portrait by presenting an opposing view. Choice A is too strong—'critics argue' introduces a counterargument, not a refutation of fact. Choice C is incorrect—the third sentence questions CBT, not explains its dominance. Choice D is incorrect—the sentence states a theoretical objection to CBT's scope, not empirical evidence of its ineffectiveness."
+}

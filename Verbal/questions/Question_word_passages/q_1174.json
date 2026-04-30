@@ -1,0 +1,16 @@
+{
+  "id": "q_1174",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The committee nearly recommended every proposal for approval during the first session. By the second session, however, members had grown more selective and rejected several submissions that had initially seemed promising.",
+  "question": "The word 'nearly' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The committee recommended nearly every proposal for approval during the first session.",
+    "B": "Nearly the committee recommended every proposal for approval during the first session.",
+    "C": "The committee recommended every nearly approved proposal during the first session.",
+    "D": "No change; 'nearly recommended' is a standard phrase meaning to come close to recommending"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that the committee recommended almost all of the proposals. 'Nearly' should modify 'every proposal,' indicating that nearly all were recommended. As written, 'nearly recommended' suggests the committee almost recommended but stopped short—meaning no recommendations were made, which contradicts the contrast in the second sentence. Choice A places 'nearly' before 'every proposal,' conveying the intended meaning. Choice B places 'nearly' before 'the committee,' implying the committee almost existed. Choice C places 'nearly' before 'approved,' creating an incoherent phrase. Choice D incorrectly accepts the current placement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1276",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "In the far corner of the archive room sits rows of cardboard boxes containing decades of unprocessed correspondence from former diplomats. Archivists estimate it will take several years to fully catalog and digitize the collection.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "In the far corner of the archive room sit rows of cardboard boxes containing decades of unprocessed correspondence from former diplomats.",
+    "B": "In the far corner of the archive room sits a row of cardboard boxes containing decades of unprocessed correspondence.",
+    "C": "Rows of cardboard boxes, containing decades of unprocessed correspondence from former diplomats, sits in the far corner of the archive room.",
+    "D": "No change; 'sits' correctly agrees with 'the archive room,' the singular noun nearest the verb in an inverted construction"
+  },
+  "correct_answer": "A",
+  "explanation": "This is an inverted sentence in which the verb precedes the subject. The true subject is 'rows of cardboard boxes,' which is plural. Therefore, the plural verb 'sit' is required. Choice A uses 'sit.' Choice B changes 'rows' to 'a row,' making the subject singular and using the singular 'sits'—internally consistent but changes the meaning. Choice C moves the subject to the front but uses 'sits' (singular) with the plural 'rows'—creating a new agreement error. Choice D incorrectly identifies 'the archive room' as the subject; it is part of the prepositional phrase 'in the far corner of the archive room.'"
+}

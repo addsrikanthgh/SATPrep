@@ -1,0 +1,16 @@
+{
+  "id": "q_1657",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is preparing a presentation arguing that cities should invest in urban tree canopy expansion. The student has gathered the following notes:\n\n• Trees reduce urban air temperatures by 2–8°C through shade and evapotranspiration (the 'urban cooling' effect).\n• Studies show that neighborhoods with more tree canopy have lower rates of heat-related illness and mortality during heat waves.\n• Urban trees absorb an estimated 711,000 metric tons of air pollutants annually in the United States.\n• Trees increase adjacent property values by 3–15% according to multiple real estate studies.\n• Initial planting and maintenance costs for urban trees average $250–$600 per tree over a ten-year period.",
+  "question": "The student wants to make the most compelling case for the public health benefits of urban trees specifically for city officials concerned about reducing healthcare costs. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Urban trees provide significant property value benefits, increasing adjacent real estate values by 3–15%, which can expand the city's tax base and offset public investment costs.",
+    "B": "Although urban trees cost $250–$600 each to plant and maintain over ten years, they reduce air temperatures by 2–8°C and increase property values by 3–15%.",
+    "C": "Urban trees directly reduce the health risks that strain city healthcare systems: they cool neighborhoods by 2–8°C, which studies link to lower rates of heat-related illness and mortality, and they absorb 711,000 metric tons of air pollutants annually across the United States.",
+    "D": "Urban trees absorb a substantial volume of air pollutants and have been shown to reduce urban temperatures, making them a cost-effective investment for cities with sufficient maintenance budgets."
+  },
+  "correct_answer": "C",
+  "explanation": "The goal is to make the case for public health benefits specifically to officials concerned about healthcare costs. Choice C does this most effectively by combining two health-relevant data points: temperature reduction (with the direct link to lower rates of heat-related illness and mortality—exactly the healthcare burden) and pollutant absorption (711,000 metric tons). Both statistics speak to population health outcomes that would reduce healthcare system burden. Choice A focuses on property values and tax base—economic, not healthcare, benefits. Choice B mentions costs and property values alongside temperature, but does not connect temperature reduction to health outcomes (the critical link for healthcare-cost-focused officials). Choice D is vague ('substantial volume,' 'cost-effective for cities with sufficient maintenance budgets') and does not directly cite the health outcome data that would resonate with healthcare-cost concerns."
+}

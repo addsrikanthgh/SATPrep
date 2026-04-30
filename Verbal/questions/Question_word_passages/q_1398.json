@@ -1,0 +1,16 @@
+{
+  "id": "q_1398",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The museum's new exhibition on ancient Mesopotamia features more than two hundred artifacts from the collections of four European institutions. Including several clay tablets inscribed with some of the earliest known examples of written language, dating to approximately 3200 BCE. The exhibition will travel to six cities over two years.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The museum's new exhibition on ancient Mesopotamia features more than two hundred artifacts from the collections of four European institutions, including several clay tablets inscribed with some of the earliest known examples of written language, dating to approximately 3200 BCE.",
+    "B": "The museum's new exhibition on ancient Mesopotamia features more than two hundred artifacts from four European institutions; including several clay tablets inscribed with some of the earliest known examples of written language.",
+    "C": "The museum's new exhibition on ancient Mesopotamia features more than two hundred artifacts. Among these are several clay tablets inscribed with some of the earliest known examples of written language, dating to approximately 3200 BCE.",
+    "D": "No change; 'Including several clay tablets' is a complete sentence that specifies key highlights of the exhibition."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Including several clay tablets inscribed with some of the earliest known examples of written language, dating to approximately 3200 BCE' is a participial phrase fragment. 'Including' is a present participle; there is no subject or main verb. This phrase adds specific examples of the artifacts and should be attached to the preceding sentence. Choice A attaches it with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect. Choice C converts the fragment into a full sentence by adding a subject ('Among these are...'). Choice D incorrectly defends the fragment as a complete sentence."
+}

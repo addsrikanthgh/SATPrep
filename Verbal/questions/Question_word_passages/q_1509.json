@@ -1,0 +1,16 @@
+{
+  "id": "q_1509",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The 2008 financial crisis was widely attributed to the collapse of the subprime mortgage market and the complex financial instruments built on top of it. What this explanation often underemphasizes is the extent to which the crisis was also a failure of regulatory oversight. Regulators at multiple agencies had access to data showing dangerous concentrations of mortgage risk but lacked either the authority or the institutional will to act. The lesson many reformers drew was that effective financial regulation requires not just legal authority but also the institutional culture and political independence to use it.",
+  "question": "What is the primary function of the second sentence ('What this explanation often underemphasizes...') in the passage?",
+  "choices": {
+    "A": "To provide a definition of the subprime mortgage market",
+    "B": "To signal that the passage will extend or correct the popular explanation given in the first sentence",
+    "C": "To argue that the 2008 financial crisis was caused by government intervention in the mortgage market",
+    "D": "To summarize the main conclusion of the passage"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence presents the popular explanation for the 2008 crisis: the collapse of the subprime mortgage market. The second sentence uses 'What this explanation often underemphasizes' to signal that the popular explanation is incomplete—the passage will supplement or correct it by emphasizing the regulatory failure angle. This is a pivot sentence that sets up the evidence in the third sentence and the broader lesson in the fourth. Choice A is incorrect—the subprime mortgage market is mentioned but not defined. Choice C is incorrect—the passage focuses on regulatory failure, not on government intervention in the market as a cause. Choice D is incorrect—the second sentence is a setup, not a conclusion."
+}

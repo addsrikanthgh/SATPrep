@@ -1,0 +1,16 @@
+{
+  "id": "q_1023",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An educational psychologist studied the effect of practice method on vocabulary retention. Students learned 40 new words using one of three methods and were tested one week later. Mean retention scores (out of 100) were: massed practice (single session), 51.3; interleaved practice (mixed random order across sessions), 67.4; and spaced practice (increasing time intervals between sessions), 79.1. The psychologist claimed that spaced practice is the most effective method for long-term vocabulary retention.",
+  "question": "Which choice most effectively uses data from the study to support the psychologist's claim?",
+  "choices": {
+    "A": "The spaced practice group achieved a mean retention score of 79.1, which was higher than both the interleaved group (67.4) and the massed practice group (51.3), demonstrating that spaced practice produced the highest score of the three methods.",
+    "B": "The standard deviation was lowest for the spaced practice group, indicating that spaced practice produces more consistent results than massed or interleaved practice.",
+    "C": "The massed practice group scored 51.3—nearly 28 points below the spaced practice group—suggesting that cramming is significantly less effective than distributed study.",
+    "D": "The interleaved practice group scored 67.4, outperforming the massed practice group by 16.1 points."
+  },
+  "correct_answer": "A",
+  "explanation": "The claim is that spaced practice is the MOST EFFECTIVE method—a superlative requiring comparison to both alternatives. Choice A directly supports this by citing the spaced group's score (79.1) and explicitly comparing it to both the interleaved group (67.4) and the massed group (51.3), establishing that spaced practice outperformed all others. Choice B discusses standard deviation (consistency), not mean retention scores, and does not address effectiveness. Choice C compares only massed to spaced, supporting that spaced beats massed but ignoring the comparison with interleaved. Choice D only compares interleaved to massed, providing no evidence about spaced practice at all."
+}

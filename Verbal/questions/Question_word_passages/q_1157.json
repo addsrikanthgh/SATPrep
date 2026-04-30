@@ -1,0 +1,16 @@
+{
+  "id": "q_1157",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "The researchers found fossil evidence of a previously unknown predatory dinosaur embedded in sandstone in the Gobi Desert using ground-penetrating radar. The species, which lived approximately 90 million years ago, appears to have been one of the largest terrestrial predators of its era.",
+  "question": "The phrase 'using ground-penetrating radar' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "Using ground-penetrating radar, the researchers found fossil evidence of a previously unknown predatory dinosaur embedded in sandstone in the Gobi Desert.",
+    "B": "The researchers found fossil evidence, using ground-penetrating radar, of a previously unknown predatory dinosaur embedded in sandstone in the Gobi Desert.",
+    "C": "The researchers found fossil evidence of a previously unknown predatory dinosaur, using ground-penetrating radar, embedded in sandstone in the Gobi Desert.",
+    "D": "No change; 'using ground-penetrating radar' modifies 'found,' and its end position is a standard adverbial placement"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'using ground-penetrating radar' follows 'in the Gobi Desert' and could be read as modifying 'sandstone' or 'the Gobi Desert'—as if the desert or the sandstone used the radar. The phrase should modify the researchers' act of finding. Choice A places the participial phrase at the beginning of the sentence, immediately before 'the researchers,' making it clear that the researchers used the radar. Choice B creates an interrupting clause that separates 'found' from 'fossil evidence' awkwardly. Choice C leaves the phrase in a position where it could still modify 'embedded' or 'sandstone.' Choice D incorrectly accepts end-of-sentence placement as unambiguous."
+}

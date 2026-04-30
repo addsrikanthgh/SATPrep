@@ -1,0 +1,16 @@
+{
+  "id": "q_1073",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Arctic fox is one of the most adaptable mammals in the world, capable of surviving temperatures as low as −70°C. Unlike many species, they can shift their diet entirely, moving from lemmings in summer to berries and marine carrion in winter.",
+  "question": "Which choice best corrects the pronoun error in the second sentence?",
+  "choices": {
+    "A": "it can shift its diet entirely",
+    "B": "they can shift their diets entirely",
+    "C": "it can shift their diet entirely",
+    "D": "No change; 'they' refers to arctic foxes as a species generally"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent established in the first sentence is 'The Arctic fox,' a singular noun. The second sentence then uses 'they' and 'their,' treating the antecedent as plural. While it is common in informal English to use a plural pronoun to refer generically to a species, the passage introduces the antecedent in singular form ('The Arctic fox is one of the most adaptable mammals'), establishing the singular frame. Choice A correctly aligns both pronouns—'it' and 'its'—with the singular antecedent. Choice B maintains the plural 'they/their,' which is inconsistent with the established antecedent. Choice C mixes singular 'it' with plural 'their,' creating a new inconsistency. Choice D incorrectly justifies the error by appealing to generic species reference, which does not override the singular antecedent already established."
+}

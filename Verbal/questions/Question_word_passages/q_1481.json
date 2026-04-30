@@ -1,0 +1,16 @@
+{
+  "id": "q_1481",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The introduction of the printing press in Europe in the fifteenth century is often credited with democratizing knowledge by making books affordable and widely available. Yet the immediate impact of printing was more complicated than this triumphalist narrative suggests. In the decades following Gutenberg's invention, books remained expensive, Latin-language texts dominated production, and literacy rates outside urban centers were still extremely low. The genuine expansion of reading across social classes did not occur until the eighteenth century, when cheaper paper, rising literacy, and vernacular publishing combined to transform print culture.",
+  "question": "What is the primary function of the second sentence ('Yet the immediate impact...') in the passage?",
+  "choices": {
+    "A": "To support the standard historical narrative introduced in the first sentence",
+    "B": "To signal that the passage will complicate or challenge the conventional view presented in the first sentence",
+    "C": "To provide specific data about book production in the fifteenth century",
+    "D": "To conclude the passage's argument about the printing press"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence presents the popular, celebratory account of the printing press as a democratizing force. The second sentence uses 'yet' to signal a pivot—the word explicitly marks a turn away from the previous claim. Its function is to announce that the passage will interrogate and complicate the narrative just established. This is a classic setup sentence that prepares the reader for the evidence and argument to follow in the third and fourth sentences. Choice A is incorrect—'yet' signals contrast, not support. Choice C is incorrect—the second sentence is a transitional claim, not a data point; the specific evidence comes in the third sentence. Choice D is incorrect—the second sentence appears early in the passage and sets up, rather than concludes, the argument."
+}

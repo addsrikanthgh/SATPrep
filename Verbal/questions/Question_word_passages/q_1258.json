@@ -1,0 +1,16 @@
+{
+  "id": "q_1258",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The committee's primary concern—not the funding shortfalls or the administrative bottlenecks—are the long-term sustainability of the program in the absence of federal matching grants. Without continued federal support, the program could face discontinuation as early as next fiscal year.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The committee's primary concern—not the funding shortfalls or the administrative bottlenecks—is the long-term sustainability of the program in the absence of federal matching grants.",
+    "B": "The committee's primary concern—not the funding shortfalls or the administrative bottlenecks—are the long-term sustainabilities of the program.",
+    "C": "The committee's primary concerns—not the funding shortfall or the administrative bottleneck—are the long-term sustainability of the program.",
+    "D": "No change; 'are' agrees with 'the funding shortfalls or the administrative bottlenecks,' which is the nearest phrase before the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The committee's primary concern,' a singular noun phrase. The dash-enclosed appositive 'not the funding shortfalls or the administrative bottlenecks' is parenthetical and does not change the subject. The singular verb 'is' is required. Choice A correctly uses 'is.' Choice B keeps the plural 'are' and changes 'sustainability' to 'sustainabilities,' a nonstandard plural that changes the meaning. Choice C pluralizes 'concern' and changes 'shortfalls' and 'bottlenecks' to singulars—a substantial structural change that doesn't directly correct the original error. Choice D incorrectly applies proximity agreement to the parenthetical appositive."
+}

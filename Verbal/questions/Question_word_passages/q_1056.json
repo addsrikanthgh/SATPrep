@@ -1,0 +1,16 @@
+{
+  "id": "q_1056",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The senator met privately with the foreign minister before the treaty ratification hearing. Although she had expressed reservations about the treaty's human rights provisions in earlier public statements, the meeting ended with both parties agreeing to support ratification.",
+  "question": "Which choice best corrects the ambiguous pronoun reference in the second sentence?",
+  "choices": {
+    "A": "Although the senator had expressed reservations about the treaty's human rights provisions in earlier public statements",
+    "B": "Although the latter had expressed reservations about the treaty's human rights provisions in earlier public statements",
+    "C": "Although one of them had expressed reservations about the treaty's human rights provisions in earlier public statements",
+    "D": "No change; 'she' refers to the senator, who is mentioned first in the passage"
+  },
+  "correct_answer": "A",
+  "explanation": "The pronoun 'she' is ambiguous because both 'the senator' and 'the foreign minister' are potential female antecedents introduced in the preceding sentence, and neither is explicitly identified by gender. Formal writing requires pronouns to refer unambiguously to a single antecedent. Choice A eliminates the ambiguity by naming the senator directly. Choice B uses 'the latter,' which technically refers to the foreign minister (the second of two subjects), but 'the former/latter' constructions are awkward in formal prose and require readers to track mention order. Choice C ('one of them') is vague and omits the identity that the sentence presumably intends to convey. Choice D incorrectly assumes that order of mention alone is sufficient to establish an unambiguous pronoun reference."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1551",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A technology analyst compiled data on the average customer satisfaction scores (out of 100) for four smartphone brands across three product categories.\n\n| Brand | Camera | Battery Life | Durability |\n|---|---|---|---|\n| Brand W | 88 | 74 | 79 |\n| Brand X | 79 | 91 | 83 |\n| Brand Y | 92 | 78 | 71 |\n| Brand Z | 75 | 88 | 90 |\n\nThe analyst claimed that no single brand leads in all three categories, and each brand has at least one category in which a competitor scores higher.",
+  "question": "Which observation from the table most directly supports the analyst's claim?",
+  "choices": {
+    "A": "Brand Y has the highest camera score (92), Brand X has the highest battery life score (91), and Brand Z has the highest durability score (90)—three different brands lead in the three categories.",
+    "B": "Brand W has a camera score of 88, which is higher than Brand X's camera score of 79.",
+    "C": "Brand Z has the lowest camera score at 75.",
+    "D": "Brand Y's durability score of 71 is the lowest across all brands in any single category."
+  },
+  "correct_answer": "A",
+  "explanation": "The analyst claims that no single brand leads in all three categories and each brand has at least one area where a competitor scores higher. Choice A directly demonstrates this by identifying the category leaders: Brand Y leads in camera (92), Brand X in battery life (91), and Brand Z in durability (90). Since three different brands lead in three different categories, no single brand dominates across all three—directly supporting the analyst's claim. Additionally, each leading brand can be seen to have lower scores in other categories. Choice B makes a narrow comparison between two brands in one category. Choice C identifies only Brand Z's weakness without addressing category leadership patterns. Choice D is a single data point that doesn't address the claim about no brand leading in all categories."
+}

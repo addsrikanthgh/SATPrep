@@ -1,0 +1,16 @@
+{
+  "id": "q_1211",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Convinced that rising sea levels would inundate low-lying coastal areas within decades, the construction of a series of tidal barriers was proposed by Dutch engineers as a long-term solution to protect major port cities. The engineering challenge was described as one of the most complex civil projects ever undertaken.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Convinced that rising sea levels would inundate low-lying coastal areas within decades, Dutch engineers proposed the construction of a series of tidal barriers as a long-term solution to protect major port cities.",
+    "B": "The construction of a series of tidal barriers, convinced that rising sea levels would inundate low-lying coastal areas, was proposed by Dutch engineers.",
+    "C": "Rising sea levels, convincing Dutch engineers of the danger, prompted the proposal for tidal barriers to protect major port cities.",
+    "D": "No change; 'convinced' modifies Dutch engineers, who are mentioned in the passive construction"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Convinced that rising sea levels would inundate low-lying coastal areas within decades' describes Dutch engineers, who hold the conviction. As written, 'the construction of a series of tidal barriers' is the subject, implying construction holds a belief—illogical. Choice A restructures with 'Dutch engineers' as the subject. Choice B attaches the phrase to 'The construction,' preserving the error. Choice C changes the subject to 'Rising sea levels' and rewrites using a different participial, losing the engineers' conviction. Choice D incorrectly argues that passive reference to engineers resolves a dangling modifier."
+}

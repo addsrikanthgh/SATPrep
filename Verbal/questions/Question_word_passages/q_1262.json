@@ -1,0 +1,16 @@
+{
+  "id": "q_1262",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "More than half of the nation's freshwater supply, according to recent assessments by the United States Geological Survey, originate from underground aquifers that are being depleted faster than they can be naturally recharged. The pace of depletion accelerated sharply after 1980.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "More than half of the nation's freshwater supply, according to recent assessments by the United States Geological Survey, originates from underground aquifers.",
+    "B": "More than half of the nation's freshwater supply, according to recent assessments by the United States Geological Survey, originate from underground aquifers—one that is being depleted faster than it can be naturally recharged.",
+    "C": "More than half of the nation's freshwater supplies originate from underground aquifers that are being depleted faster than they can be naturally recharged.",
+    "D": "No change; 'originate' correctly agrees with 'aquifers,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'More than half of the nation's freshwater supply.' When 'half of' precedes a noncount noun (such as 'supply'), the subject is treated as singular. Freshwater supply is a noncount noun here, making the subject singular. The singular verb 'originates' is correct. Choice A uses 'originates.' Choice B keeps 'originate' and changes 'aquifers' (plural) to a singular, creating a mismatch with the relative clause 'that are.' Choice C changes 'supply' to 'supplies,' making the noun countable and plural—which could take a plural verb, but this is a structural change rather than a correction. Choice D incorrectly applies proximity agreement."
+}

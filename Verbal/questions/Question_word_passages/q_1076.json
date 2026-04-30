@@ -1,0 +1,16 @@
+{
+  "id": "q_1076",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Researchers studying the migratory routes of monarch butterflies discovered that climate change has disrupted the timing of their journeys. The scientists published their findings in a landmark report, noting that they had shifted northward by nearly two weeks over the past four decades.",
+  "question": "The pronoun 'they' near the end of the passage is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "the scientists",
+    "B": "the findings",
+    "C": "the migration windows",
+    "D": "No change; 'they' unambiguously refers to the monarch butterflies introduced at the start of the passage"
+  },
+  "correct_answer": "C",
+  "explanation": "The pronoun 'they' could plausibly refer to 'the scientists,' 'their findings,' or the butterflies' migration windows—all of which are mentioned in the passage. In context, the claim that something 'had shifted northward by nearly two weeks' logically describes migration timing, not scientists or published findings. However, 'migration windows' is the intended antecedent and must be named explicitly because the pronoun 'they' has multiple grammatically possible antecedents in the same sentence. Choice A incorrectly identifies the scientists as what shifted northward. Choice B attributes the shift to the findings themselves, which makes no logical sense. Choice D incorrectly asserts unambiguous reference; 'monarch butterflies' were mentioned two sentences earlier and are not the nearest plausible antecedent in the final clause."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1167",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Recognized internationally as one of the foremost authorities on Byzantine art, the Dumbarton Oaks lecture series invited Dr. Papadopoulos to deliver the annual keynote address. Her talk focused on newly authenticated mosaic fragments from a sixth-century basilica in Constantinople.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Recognized internationally as one of the foremost authorities on Byzantine art, Dr. Papadopoulos was invited by the Dumbarton Oaks lecture series to deliver the annual keynote address.",
+    "B": "The Dumbarton Oaks lecture series, recognized internationally as one of the foremost authorities on Byzantine art, invited Dr. Papadopoulos.",
+    "C": "Dr. Papadopoulos, recognized internationally as one of the foremost authorities on Byzantine art, was invited and gave the keynote.",
+    "D": "No change; 'recognized' modifies Dr. Papadopoulos, who is the object of the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Recognized internationally as one of the foremost authorities on Byzantine art' describes Dr. Papadopoulos. As written, 'the Dumbarton Oaks lecture series' is the subject, implying the lecture series is the recognized authority—which is illogical. Choice A restructures the sentence with Dr. Papadopoulos as the subject, immediately following the participial phrase. Choice B attaches the phrase to the lecture series, reinforcing the error. Choice C is grammatically awkward and incomplete. Choice D incorrectly argues that the object of a sentence can be modified by a fronted participial phrase."
+}

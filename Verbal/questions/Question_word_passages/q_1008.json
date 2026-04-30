@@ -1,0 +1,16 @@
+{
+  "id": "q_1008",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Mary Shelley completed Frankenstein at the age of eighteen, making her one of the youngest authors of an enduring work of literary fiction. *The novel engages with Enlightenment anxieties about human ambition and scientific overreach, it also draws on Romantic skepticism about the limits of rationalism.* Scholars continue to debate whether the monster or Frankenstein himself is the novel's true protagonist.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "The novel engages with Enlightenment anxieties about human ambition and scientific overreach; it also draws on Romantic skepticism about the limits of rationalism.",
+    "B": "The novel engages with Enlightenment anxieties about human ambition and scientific overreach, it also draws on Romantic skepticism about the limits of rationalism.",
+    "C": "The novel engages with Enlightenment anxieties about human ambition and scientific overreach, drawing on Romantic skepticism also about the limits of rationalism.",
+    "D": "The novel engages with Enlightenment anxieties about human ambition and scientific overreach it also draws on Romantic skepticism about the limits of rationalism."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice A inserts a semicolon, correctly separating the two independent clauses. Choice B reproduces the original error. Choice C converts the second clause into a participial phrase but awkwardly repositions 'also,' creating an unnatural construction that obscures whether the additional skepticism is itself being drawn upon or is a secondary feature of the anxieties. Choice D removes the comma to create a fused sentence, which is also incorrect."
+}

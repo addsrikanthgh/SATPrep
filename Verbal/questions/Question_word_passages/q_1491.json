@@ -1,0 +1,16 @@
+{
+  "id": "q_1491",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "In 1962, Rachel Carson published Silent Spring, a book that documented the devastating effects of synthetic pesticides—particularly DDT—on bird populations and ecosystems. Carson's argument was methodical and devastating: she showed not only that pesticides were killing birds directly but that they bioaccumulated in food chains, making the problem effectively invisible until populations collapsed. The chemical industry responded with a fierce and well-funded disinformation campaign, attacking Carson's credentials and calling her work alarmist. Silent Spring is now widely credited as a founding text of the modern environmental movement and is often cited as a catalyst for the eventual ban on DDT in the United States.",
+  "question": "What is the primary function of the third sentence ('The chemical industry responded...') in the passage?",
+  "choices": {
+    "A": "To suggest that the chemical industry's criticism of Carson was scientifically well-founded",
+    "B": "To show that Carson's work had significant enough impact to provoke organized opposition",
+    "C": "To explain why DDT was eventually banned in the United States",
+    "D": "To undermine the credibility of Silent Spring as a scientific work"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence describes the chemical industry's fierce and well-funded response to Carson's book. In the context of the passage, this opposition serves as evidence of Silent Spring's significance—it was threatening enough to warrant an organized disinformation campaign. The sentence implicitly validates Carson's impact by showing that powerful interests mobilized against her. Choice A is incorrect—the phrase 'disinformation campaign' and 'attacking Carson's credentials' frame the response as unscrupulous, not scientifically credible. Choice C is incorrect—the DDT ban is mentioned in the fourth sentence; the third sentence does not explain the mechanism of the ban. Choice D is incorrect—the passage's framing frames the industry's attacks as illegitimate, not as a valid challenge to the book's quality."
+}

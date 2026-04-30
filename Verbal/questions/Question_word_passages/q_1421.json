@@ -1,0 +1,16 @@
+{
+  "id": "q_1421",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The paleontologist's team unearthed what appeared to be a nearly complete skeleton of a previously unknown theropod species in the Gobi Desert last summer, the discovery, if confirmed through further analysis, would represent one of the most significant paleontological finds in the region in over thirty years.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The paleontologist's team unearthed what appeared to be a nearly complete skeleton of a previously unknown theropod species in the Gobi Desert last summer; the discovery, if confirmed through further analysis, would represent one of the most significant paleontological finds in the region in over thirty years.",
+    "B": "The paleontologist's team unearthed what appeared to be a nearly complete skeleton of a previously unknown theropod species in the Gobi Desert last summer—a discovery that, if confirmed through further analysis, would represent one of the most significant paleontological finds in the region in over thirty years.",
+    "C": "The paleontologist's team unearthed what appeared to be a nearly complete skeleton of a previously unknown theropod species, and if confirmed, the discovery would represent one of the most significant paleontological finds in over thirty years.",
+    "D": "No change; the comma before 'the discovery' introduces an explanatory clause that evaluates the significance of what was found."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'in the Gobi Desert last summer,' the sentence continues with 'the discovery, if confirmed through further analysis, would represent one of the most significant paleontological finds in the region in over thirty years'—an independent clause with its own subject ('the discovery') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon. Choice B converts the second clause into an appositive ('a discovery that...would represent'), a more substantial but also grammatically valid restructuring. Choice C adds 'and' after the comma—also valid for joining two independent clauses. Choice A makes the minimal structural change. Choice D incorrectly defends the comma splice."
+}

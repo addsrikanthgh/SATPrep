@@ -1,0 +1,16 @@
+{
+  "id": "q_1567",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A development economist examined per capita GDP (in USD) and the Human Development Index (HDI, a composite measure of health, education, and standard of living on a 0–1 scale) for five countries.\n\n| Country | Per Capita GDP (USD) | HDI |\n|---|---|---|\n| Country A | 2,100 | 0.51 |\n| Country B | 8,400 | 0.68 |\n| Country C | 21,000 | 0.79 |\n| Country D | 47,000 | 0.89 |\n| Country E | 15,000 | 0.82 |\n\nThe economist argued that per capita GDP is positively correlated with HDI, but that the relationship is not perfectly linear.",
+  "question": "Which observation most precisely supports the economist's claim that the relationship exists but is not perfectly linear?",
+  "choices": {
+    "A": "Country E has a higher HDI (0.82) than Country C (0.79) despite having a lower per capita GDP ($15,000 vs. $21,000), showing that HDI and GDP do not track each other in perfect rank order.",
+    "B": "Country D has both the highest per capita GDP and the highest HDI.",
+    "C": "HDI increases as per capita GDP increases from Country A to Country D.",
+    "D": "Countries with higher GDP tend to have higher HDI scores."
+  },
+  "correct_answer": "A",
+  "explanation": "The economist makes a two-part claim: (1) per capita GDP and HDI are positively correlated, and (2) the relationship is not perfectly linear. Most of the data supports the positive correlation—A, B, D generally follow rank order. However, Country E ($15,000 GDP, HDI 0.82) and Country C ($21,000 GDP, HDI 0.79) are out of rank order: Country E has a lower GDP but a higher HDI than Country C. This deviation from perfect rank order supports the 'not perfectly linear' aspect of the claim. Choice A identifies this precise anomaly. Choices B, C, and D all address only the positive correlation aspect without capturing the imperfect linearity—they support only half of the economist's claim. The question asks specifically for what supports the non-linearity, making A the best answer."
+}

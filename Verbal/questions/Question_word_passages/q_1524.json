@@ -1,0 +1,16 @@
+{
+  "id": "q_1524",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The human immune system's ability to distinguish 'self' from 'non-self' is essential for fighting infection while avoiding attacks on the body's own tissues. When this system malfunctions and targets the body's own cells, the result is an autoimmune disorder. Lupus, rheumatoid arthritis, and type 1 diabetes are among the more than eighty recognized autoimmune conditions affecting millions of people worldwide. Researchers are investigating why the incidence of autoimmune disorders has been rising in industrialized countries over the past several decades, with hypotheses ranging from changes in gut microbiome composition to reduced childhood exposure to pathogens.",
+  "question": "What is the primary function of the third sentence ('Lupus, rheumatoid arthritis, and type 1 diabetes...') in the passage?",
+  "choices": {
+    "A": "To explain the mechanism by which the immune system distinguishes self from non-self",
+    "B": "To provide specific examples that illustrate the scope and variety of autoimmune disorders introduced in the second sentence",
+    "C": "To argue that autoimmune disorders are more common than infectious diseases",
+    "D": "To explain why autoimmune disorders are rising in industrialized countries"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence introduces the concept of autoimmune disorders as a malfunction of the immune system. The third sentence provides three well-known examples—lupus, rheumatoid arthritis, and type 1 diabetes—and notes that over eighty such conditions exist. This illustrative function gives the reader concrete reference points for the abstract concept introduced in the second sentence and conveys the scale of the problem. Choice A is incorrect—the distinction mechanism is described in the first sentence. Choice C is incorrect—no comparison with infectious diseases is made. Choice D is incorrect—the rise in autoimmune incidence is discussed in the fourth sentence."
+}

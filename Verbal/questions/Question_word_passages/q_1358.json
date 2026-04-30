@@ -1,0 +1,16 @@
+{
+  "id": "q_1358",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The expedition team reached base camp after a grueling three-day trek through the Himalayan foothills, they immediately set up their tents and began preparing equipment for the ascent. Weather conditions were expected to deteriorate by the following afternoon.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The expedition team reached base camp after a grueling three-day trek through the Himalayan foothills and immediately set up their tents and began preparing equipment for the ascent.",
+    "B": "The expedition team reached base camp after a grueling three-day trek through the Himalayan foothills; they immediately set up their tents and began preparing equipment for the ascent.",
+    "C": "The expedition team reached base camp after a grueling three-day trek; through the Himalayan foothills, they immediately set up their tents.",
+    "D": "No change; the comma appropriately links two actions performed by the same group in sequence."
+  },
+  "correct_answer": "B",
+  "explanation": "The original sentence is a comma splice—two independent clauses are joined by only a comma. Choice B uses a semicolon to correctly join the two related independent clauses. Choice A merges the two clauses into one by removing the subject 'they' from the second clause and making the actions parallel ('reached...and set up...and began')—grammatically correct and concise. Both A and B are valid corrections; B makes the minimal change (replacing the comma with a semicolon), which is typically the preferred approach on standardized tests. Choice C misplaces the semicolon after 'trek,' separating 'through the Himalayan foothills' from 'trek.' Choice D incorrectly defends the comma splice."
+}

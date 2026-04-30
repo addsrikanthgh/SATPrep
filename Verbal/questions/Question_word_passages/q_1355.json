@@ -1,0 +1,16 @@
+{
+  "id": "q_1355",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The architectural firm's proposal included three key innovations: a rooftop solar array capable of generating all of the building's electricity needs, a greywater recycling system, and a green roof insulation layer, these features were estimated to reduce the building's carbon footprint by sixty percent.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The architectural firm's proposal included three key innovations—a rooftop solar array capable of generating all of the building's electricity needs, a greywater recycling system, and a green roof insulation layer—features estimated to reduce the building's carbon footprint by sixty percent.",
+    "B": "The architectural firm's proposal included three key innovations: a rooftop solar array, a greywater recycling system, and a green roof insulation layer; these features were estimated to reduce the building's carbon footprint by sixty percent.",
+    "C": "The architectural firm's proposal included three key innovations: a rooftop solar array, a greywater recycling system, and a green roof insulation layer, these features reducing the building's carbon footprint by sixty percent.",
+    "D": "No change; a comma after a colon-introduced list may link additional information about that list."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence contains a comma splice. After listing the three innovations following the colon, the sentence continues with 'these features were estimated to reduce the building's carbon footprint by sixty percent'—a new independent clause joined to the list by only a comma. A semicolon is needed to correctly join the two independent clauses. Choice B uses a semicolon after 'green roof insulation layer' and before 'these features.' Choice A restructures the sentence with dashes to enclose the list and converts the second clause into an appositive noun phrase ('features estimated to...')—grammatically correct and elegant, but makes more significant structural changes. Choice C uses a participle after the list, creating a participial phrase. Choice D incorrectly defends the comma splice."
+}

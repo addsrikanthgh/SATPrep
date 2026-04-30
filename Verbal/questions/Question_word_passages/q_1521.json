@@ -1,0 +1,16 @@
+{
+  "id": "q_1521",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The concept of 'resilience' has become ubiquitous in fields ranging from ecology to psychology to urban planning. In its original ecological sense, resilience referred to a system's ability to return to its prior state after a disturbance. Critics have argued that as the concept migrated across disciplines, it lost much of its analytical precision and became a 'buzzword' that obscures more than it clarifies—particularly when applied to communities expected to 'bounce back' from disasters rooted in structural inequality. What the resilience framing risks normalizing, these critics contend, is the injustice of expecting vulnerable communities to adapt to conditions that more equitable policy could prevent.",
+  "question": "What is the primary function of the fourth sentence ('What the resilience framing risks normalizing...') in the passage?",
+  "choices": {
+    "A": "To provide a scientific definition of resilience for the reader",
+    "B": "To extend and sharpen the critics' argument by identifying the specific political danger of the resilience framing",
+    "C": "To defend the resilience concept against the critics introduced in the third sentence",
+    "D": "To explain how resilience is applied in the field of ecology"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence introduces critics who argue that 'resilience' has become a vague buzzword—particularly when applied to communities recovering from disasters rooted in structural inequality. The fourth sentence develops this critique further, identifying the specific political risk: that the resilience framing normalizes injustice by placing the burden of adaptation on vulnerable communities rather than addressing inequitable conditions. The fourth sentence sharpens the critics' argument from an epistemological complaint (loss of precision) to a political and ethical one (normalization of injustice). Choice A is incorrect—resilience is defined in the second sentence. Choice C is incorrect—the fourth sentence continues the critique, not a defense. Choice D is incorrect—the ecological application is described in the second sentence."
+}

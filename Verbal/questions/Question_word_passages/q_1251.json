@@ -1,0 +1,16 @@
+{
+  "id": "q_1251",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "One of the most surprising results from this year's longitudinal health study are the findings on the relationship between sleep duration and cognitive decline in adults over sixty. Researchers plan to publish a full analysis in a peer-reviewed journal next spring.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "One of the most surprising results from this year's longitudinal health study is the findings on the relationship between sleep duration and cognitive decline.",
+    "B": "One of the most surprising results from this year's longitudinal health study are the finding on the relationship between sleep duration and cognitive decline.",
+    "C": "One of the most surprising results from this year's longitudinal health study is the finding on the relationship between sleep duration and cognitive decline.",
+    "D": "No change; 'are' correctly agrees with 'results,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'One,' an indefinite pronoun that is always singular. 'Of the most surprising results…' is a prepositional phrase modifying 'One' and does not change the subject's number. The singular verb 'is' is required. Choice A uses 'is' and keeps 'findings' as the predicate noun. Choice B uses 'are' and changes 'findings' to 'finding,' neither of which is correct—the verb should be singular, and 'findings' is the more natural plural predicate noun here. Choice C uses 'is' and changes 'findings' to 'finding'—while 'is' is correct, changing the predicate noun to singular is unnecessary. Choice A preserves the original meaning with the correct singular verb. Choice D incorrectly applies proximity agreement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1572",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A clinical researcher compared the average recovery times (in days) of patients treated with three different therapies for a specific musculoskeletal injury, across two severity levels.\n\n| Therapy | Mild Injury (days) | Severe Injury (days) |\n|---|---|---|\n| Physical Therapy | 18 | 42 |\n| Surgery + Rehab | 31 | 28 |\n| Rest and Medication | 22 | 58 |\n\nThe researcher concluded that physical therapy is the best first-line treatment for mild injuries, while surgery with rehabilitation is preferable for severe injuries.",
+  "question": "Which finding from the table most directly supports the researcher's conclusion?",
+  "choices": {
+    "A": "Physical therapy has the shortest recovery time for mild injuries (18 days), and surgery with rehab has the shortest recovery time for severe injuries (28 days).",
+    "B": "Surgery with rehab takes 31 days for mild injuries, which is longer than both physical therapy (18 days) and rest and medication (22 days).",
+    "C": "Rest and medication has the longest recovery time for severe injuries at 58 days.",
+    "D": "Physical therapy recovers mild injuries 4 days faster than rest and medication."
+  },
+  "correct_answer": "A",
+  "explanation": "The researcher's conclusion has two parts: (1) physical therapy is best for mild injuries, and (2) surgery with rehab is best for severe injuries. 'Best' here means shortest recovery time. Choice A directly supports both parts: for mild injuries, physical therapy has the shortest time (18 days); for severe injuries, surgery with rehab has the shortest time (28 days)—both statements using the same metric (recovery days) and comparing across all three options implicitly. Choice B supports only part of the conclusion (showing surgery is not best for mild injuries) but doesn't address severe injuries. Choice C addresses only one therapy for severe injuries without comparing to the others. Choice D provides a partial comparison for mild injuries only, and doesn't address severe injuries at all."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1279",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The committee's decision to mandate annual cybersecurity training for all employees, regardless of department or seniority level, have been praised by the company's chief information security officer. Implementation of the new policy will begin in the first quarter.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The committee's decision to mandate annual cybersecurity training for all employees, regardless of department or seniority level, has been praised by the company's chief information security officer.",
+    "B": "The committee's decision to mandate annual cybersecurity training for all employees, regardless of department or seniority level, have been widely praised.",
+    "C": "The committee's decisions to mandate annual cybersecurity training for all employees have been praised by the company's chief information security officer.",
+    "D": "No change; 'have been praised' agrees with 'all employees,' the nearest plural noun phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The committee's decision,' a singular noun. The infinitive phrase 'to mandate annual cybersecurity training for all employees' and the parenthetical 'regardless of department or seniority level' modify 'decision' but do not change its number. The singular verb 'has been praised' is required. Choice A uses 'has been praised.' Choice B keeps 'have been praised,' preserving the error. Choice C pluralizes 'decision' to 'decisions' and uses the plural 'have been'—internally consistent but changes the meaning. Choice D incorrectly applies proximity agreement."
+}

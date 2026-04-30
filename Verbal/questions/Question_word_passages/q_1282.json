@@ -1,0 +1,16 @@
+{
+  "id": "q_1282",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "What remains most puzzling to materials scientists studying high-temperature superconductors are the precise mechanisms by which electron pairing persists above the predicted critical temperature. Several competing theoretical models have been proposed but none has achieved broad consensus.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "What remains most puzzling to materials scientists studying high-temperature superconductors is the precise mechanisms by which electron pairing persists above the predicted critical temperature.",
+    "B": "What remain most puzzling to materials scientists studying high-temperature superconductors are the precise mechanisms by which electron pairing persists above the predicted critical temperature.",
+    "C": "What remains most puzzling to materials scientists studying high-temperature superconductors are the precise mechanism by which electron pairing persists above the predicted critical temperature.",
+    "D": "No change; 'are' correctly agrees with 'the precise mechanisms,' which follows the verb as a predicate nominative"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is the noun clause 'What remains most puzzling to materials scientists studying high-temperature superconductors.' Noun clauses functioning as the subject take singular verbs. The clause's internal verb 'remains' is already singular and correct. The linking verb connecting the noun clause to its complement must also be singular: 'is,' not 'are.' The predicate nominative 'the precise mechanisms' is plural, but the verb must agree with the subject noun clause, which is singular. Choice A uses 'is.' Choice B changes 'remains' to 'remain'—this affects the internal verb of the clause. Choice C uses 'are' but changes 'mechanisms' to 'mechanism.' Choice D incorrectly argues the verb agrees with the predicate nominative."
+}

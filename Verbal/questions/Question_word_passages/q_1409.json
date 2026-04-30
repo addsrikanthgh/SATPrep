@@ -1,0 +1,16 @@
+{
+  "id": "q_1409",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "While examining the structural integrity of the nineteenth-century bridge, a series of hairline fractures in the main load-bearing beams was discovered by the engineering firm's inspection team. The firm recommended closing the bridge to heavy commercial vehicles immediately.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "While examining the structural integrity of the nineteenth-century bridge, the engineering firm's inspection team discovered a series of hairline fractures in the main load-bearing beams.",
+    "B": "While the structural integrity of the nineteenth-century bridge was being examined, a series of hairline fractures in the main load-bearing beams was discovered by the engineering firm's inspection team.",
+    "C": "A series of hairline fractures in the main load-bearing beams was discovered by the engineering firm's inspection team while examining the bridge's structural integrity.",
+    "D": "No change; 'a series of hairline fractures' is an acceptable passive subject that correctly follows the introductory phrase."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence contains a dangling modifier. The introductory clause 'While examining the structural integrity of the nineteenth-century bridge' implies that someone is examining the bridge, but the grammatical subject is 'a series of hairline fractures.' Hairline fractures cannot examine structural integrity; the inspection team did. Choice A correctly makes 'the engineering firm's inspection team' the subject of the main clause. Choice B converts the introductory clause into a full passive subordinate clause ('While the structural integrity...was being examined'), which avoids the dangling modifier. Choice C moves the clause to the end but still uses passive voice with the fractures as subject. Choice D incorrectly defends the dangling modifier."
+}

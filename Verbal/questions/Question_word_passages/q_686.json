@@ -1,7 +1,7 @@
 {
   "id": "q_686",
   "domain": "Information and Ideas",
-  "skill": "central ideas and details",
+  "skill": "central idea",
   "difficulty": "hard",
   "passage": "The concept of 'digital redlining' describes how algorithmic systems and infrastructure decisions can replicate or amplify historical patterns of racial and economic segregation in the digital age. The term draws a parallel with mid-twentieth-century redlining, the practice by which banks and government agencies denied mortgage loans and insurance to residents of neighborhoods marked in red on maps—neighborhoods that were predominantly Black. Scholars arguing for the existence of digital redlining point to examples such as differential broadband access in low-income areas, targeted advertising of predatory financial products to minority users, and algorithmic hiring filters trained on historical data reflecting past discriminatory practices. Critics of the concept, however, argue that the analogy obscures important distinctions: unlike historical redlining, which was often explicit policy, many algorithmic disparities emerge from neutral-seeming variables that produce discriminatory effects without any discriminatory intent.",
   "question": "Which choice best states the main idea of the passage?",

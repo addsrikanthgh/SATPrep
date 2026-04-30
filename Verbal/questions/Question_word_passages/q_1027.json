@@ -1,0 +1,16 @@
+{
+  "id": "q_1027",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An ecologist recorded native and invasive species counts at a degraded forest site before and during a five-year restoration program. Native plant species counts by year: Year 0 (pre-restoration), 12; Year 1, 14; Year 2, 18; Year 3, 24; Year 4, 31; Year 5, 40. Native animal species counts: Year 0, 18; Year 1, 20; Year 2, 25; Year 3, 31; Year 4, 38; Year 5, 47. Invasive species counts: Year 0, 31; Year 1, 27; Year 2, 22; Year 3, 16; Year 4, 9; Year 5, 4. The ecologist concluded that the program successfully increased native biodiversity while simultaneously reducing invasive species presence.",
+  "question": "Which choice most effectively uses data from the study to support the ecologist's conclusion?",
+  "choices": {
+    "A": "By Year 5, native plant species had increased from 12 to 40 and native animal species had increased from 18 to 47, while invasive species declined from 31 to just 4 over the same period.",
+    "B": "Native plant species increased by 28 over the five-year program, from 12 to 40, demonstrating substantial growth in plant biodiversity.",
+    "C": "Invasive species declined from 31 in Year 0 to 4 in Year 5—a reduction of 87%—demonstrating the program's effectiveness at suppressing invasive organisms.",
+    "D": "By Year 5, native plant species (40) outnumbered invasive species (4) by a factor of ten, indicating that native species now dominate the restored habitat."
+  },
+  "correct_answer": "A",
+  "explanation": "The ecologist's conclusion has two parts: increased native biodiversity AND reduced invasive species. Choice A supports both parts by citing the growth in both native plant species (12 to 40) and native animal species (18 to 47) alongside the decline in invasive species (31 to 4). Choice B supports only the native plant increase, ignoring native animals and invasive species. Choice C supports only the invasive species reduction, not the biodiversity increase. Choice D makes a Year 5 comparison between native plants and invasive species, but it does not document the change over time for either native animals or plants, so it only partially addresses the ecologist's claim."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1571",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An oceanographer measured the average population density of a zooplankton species (organisms per cubic meter) at five ocean depth zones.\n\n| Depth Zone | Avg. Zooplankton Density (organisms/m³) |\n|---|---|\n| Epipelagic (0–200m) | 1,840 |\n| Mesopelagic (200–1,000m) | 620 |\n| Bathypelagic (1,000–4,000m) | 91 |\n| Abyssopelagic (4,000–6,000m) | 14 |\n| Hadalpelagic (6,000m+) | 3 |\n\nThe oceanographer noted that population density declines precipitously with depth and that the rate of decline is not uniform—it is steepest in the upper zones.",
+  "question": "Which analysis best supports the oceanographer's observation that the rate of decline is steepest in the upper zones?",
+  "choices": {
+    "A": "The Epipelagic zone has by far the highest density at 1,840 organisms/m³.",
+    "B": "Density falls from 1,840 to 620 (a drop of 1,220) between the Epipelagic and Mesopelagic zones, while the drop from Bathypelagic to Abyssopelagic is only 77 (91 to 14)—confirming that the absolute decline is far greater in the upper zones.",
+    "C": "The Hadalpelagic zone has virtually no zooplankton at 3 organisms/m³.",
+    "D": "Each successive depth zone has fewer zooplankton than the previous one."
+  },
+  "correct_answer": "B",
+  "explanation": "The oceanographer's specific observation is about the rate of decline—the steepest decline occurs in the upper zones. To support this claim, the analysis must compare the magnitude of change between depth zones, particularly showing larger drops at the top versus smaller drops at the bottom. Choice B does this explicitly: the Epipelagic-to-Mesopelagic drop is 1,220 organisms/m³, while the Bathypelagic-to-Abyssopelagic drop is only 77—demonstrating that the upper-zone decline is dramatically steeper. Choice A identifies only the Epipelagic zone's density without discussing the rate of decline. Choice C notes only the terminal value. Choice D confirms the general downward trend but says nothing about whether the rate is uniform or non-uniform—it does not support the specific 'steepest in upper zones' claim."
+}

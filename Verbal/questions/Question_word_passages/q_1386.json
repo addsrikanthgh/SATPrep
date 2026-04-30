@@ -1,0 +1,16 @@
+{
+  "id": "q_1386",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The engineering team worked through the weekend to fix the critical server error, by Monday morning they had successfully deployed a patch that restored full functionality to all affected systems. Client satisfaction scores improved dramatically in the weeks that followed.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The engineering team worked through the weekend to fix the critical server error; by Monday morning they had successfully deployed a patch that restored full functionality to all affected systems.",
+    "B": "The engineering team worked through the weekend to fix the critical server error, and by Monday morning they had successfully deployed a patch that restored full functionality to all affected systems.",
+    "C": "The engineering team worked through the weekend to fix the critical server error. By Monday morning they had successfully deployed a patch that restored full functionality to all affected systems.",
+    "D": "No change; the comma correctly links the weekend effort to the successful result achieved by Monday morning."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. The first clause ('The engineering team worked through the weekend to fix the critical server error') and the second clause ('by Monday morning they had successfully deployed a patch that restored full functionality to all affected systems') are both complete sentences. Choice A uses a semicolon to join the two related independent clauses with minimal structural change. Choice B adds the coordinating conjunction 'and,' which is also grammatically correct for joining two independent clauses with a comma. Choice C uses a period, creating two separate sentences—also correct. Choice A is the most concise correction. Choice D incorrectly defends the comma splice."
+}

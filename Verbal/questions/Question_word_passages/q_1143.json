@@ -1,0 +1,16 @@
+{
+  "id": "q_1143",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The legislative caucus representing rural districts released its platform ahead of the budget negotiations, emphasizing infrastructure investment, broadband expansion, and agricultural support programs. During the floor debate, they argued that years of urban-focused appropriations had left rural communities structurally underfunded.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the legislators",
+    "B": "it",
+    "C": "those representatives",
+    "D": "No change; 'they' correctly refers to the caucus members who participated in the debate"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The legislative caucus' is singular, confirmed by 'its platform.' The second sentence uses 'they,' creating a number mismatch. Choice B replaces 'they' with 'it.' Choices A and C introduce new plural noun phrases not established as antecedents. Choice D incorrectly treats individual caucus members as the grammatical antecedent; the stated antecedent is the singular caucus."
+}

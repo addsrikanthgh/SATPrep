@@ -1,0 +1,16 @@
+{
+  "id": "q_1516",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The practice of triage—prioritizing patients for treatment based on the severity of their condition—was developed in the Napoleonic Wars by French military surgeon Dominique Jean Larrey. Larrey's innovation was to treat the most critically wounded first, regardless of rank or nationality, overturning the previous practice of treating officers and allies before enlisted men and enemies. Modern emergency medicine has refined triage into a standardized system used in hospitals, disaster response, and mass-casualty events worldwide. The basic ethical principle underlying triage—that medical care should be allocated on the basis of clinical need rather than social status—remains one of the foundational norms of medical ethics.",
+  "question": "What is the primary function of the fourth sentence ('The basic ethical principle...') in the passage?",
+  "choices": {
+    "A": "To provide biographical details about Dominique Jean Larrey",
+    "B": "To identify the enduring ethical principle that underlies the historical practice described in the passage and situate it within medical ethics",
+    "C": "To argue that the modern triage system is more ethical than Larrey's original approach",
+    "D": "To explain the technical protocols used in hospital triage today"
+  },
+  "correct_answer": "B",
+  "explanation": "The first three sentences trace the historical development and modern application of triage. The fourth sentence steps back to articulate the underlying ethical principle—need over status—and identifies it as a foundational norm of medical ethics. This gives the historical narrative a philosophical grounding and broader significance. Choice A is incorrect—biographical details about Larrey appear in the first two sentences. Choice C is incorrect—the fourth sentence does not compare the ethics of modern versus original triage. Choice D is incorrect—technical protocols are mentioned in the third sentence; the fourth sentence addresses ethics, not procedures."
+}

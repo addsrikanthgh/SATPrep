@@ -1,0 +1,16 @@
+{
+  "id": "q_1442",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The school's drama club performed the musical in front of sold-out audiences for eight consecutive nights, the cast included students from every grade level and three teachers who had agreed to take supporting roles. Reviews in the local newspaper were enthusiastic.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The school's drama club performed the musical in front of sold-out audiences for eight consecutive nights; the cast included students from every grade level and three teachers who had agreed to take supporting roles.",
+    "B": "The school's drama club performed the musical in front of sold-out audiences for eight consecutive nights the cast included students from every grade level and three teachers who had agreed to take supporting roles.",
+    "C": "The school's drama club performed the musical in front of sold-out audiences for eight consecutive nights: the cast included students from every grade level and three teachers who had agreed to take supporting roles.",
+    "D": "No change; the comma after 'nights' is correct because the second clause provides additional information about the performance."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The school's drama club performed the musical in front of sold-out audiences for eight consecutive nights' is a complete independent clause, and 'the cast included students from every grade level and three teachers who had agreed to take supporting roles' is a second complete independent clause. Choice A uses a semicolon to correctly join the two clauses. Choice B creates a fused sentence. Choice C uses a colon—while the second clause does provide additional information about the performance, a colon is most appropriate when the second clause directly defines or explains a noun in the first clause; here a semicolon is more suitable. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1344",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "Scientists now believe that the mass extinction event that ended the Cretaceous period was caused primarily by an asteroid impact. Rather than by the long-term volcanic activity that earlier researchers had proposed as the dominant cause. Both factors likely contributed.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "Scientists now believe that the mass extinction event that ended the Cretaceous period was caused primarily by an asteroid impact rather than by the long-term volcanic activity that earlier researchers had proposed as the dominant cause.",
+    "B": "Scientists now believe that the mass extinction event that ended the Cretaceous period was caused primarily by an asteroid impact; rather than by the long-term volcanic activity that earlier researchers had proposed.",
+    "C": "Scientists now believe that the Cretaceous extinction was caused by an asteroid impact. Rather than volcanic activity, which earlier researchers had proposed.",
+    "D": "No change; 'Rather than' may begin a sentence that provides an important contrast."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Rather than by the long-term volcanic activity that earlier researchers had proposed as the dominant cause' is a fragment—it is a prepositional phrase or comparative phrase that lacks both a subject and a verb and cannot stand alone as a sentence. It must be attached to the preceding sentence. Choice A merges the fragment with the preceding sentence, removing the period and allowing 'rather than' to function as a comparative phrase within the same sentence. Choice B uses a semicolon before 'rather than,' which is incorrect—semicolons join independent clauses. Choice C keeps a fragment beginning with 'Rather than' and adds an additional fragment. Choice D incorrectly defends the fragment as acceptable."
+}

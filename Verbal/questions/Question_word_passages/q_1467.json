@@ -1,0 +1,16 @@
+{
+  "id": "q_1467",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The marine biologist's fieldwork along the reef system yielded an unexpected result she observed two distinct populations of the same species exhibiting markedly different foraging behaviors, a finding that suggested the populations had been reproductively isolated for far longer than previously estimated.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The marine biologist's fieldwork along the reef system yielded an unexpected result; she observed two distinct populations of the same species exhibiting markedly different foraging behaviors, a finding that suggested the populations had been reproductively isolated for far longer than previously estimated.",
+    "B": "The marine biologist's fieldwork along the reef system yielded an unexpected result, she observed two distinct populations of the same species exhibiting markedly different foraging behaviors, a finding that suggested the populations had been reproductively isolated for far longer than previously estimated.",
+    "C": "The marine biologist's fieldwork along the reef system yielded an unexpected result: she observed two distinct populations of the same species exhibiting markedly different foraging behaviors, a finding that suggested the populations had been reproductively isolated for far longer than previously estimated.",
+    "D": "The marine biologist's fieldwork along the reef system yielded an unexpected result she observed two distinct populations of the same species exhibiting markedly different foraging behaviors. This finding suggested the populations had been reproductively isolated for far longer than previously estimated."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. The first clause ends with 'an unexpected result' and the second clause begins with 'she observed.' A colon is the best correction here because the second clause directly explains what the 'unexpected result' was—exactly the function a colon serves: to introduce an explanation or elaboration of a term named in the preceding independent clause. Choice A uses a semicolon, which is grammatically correct but less precise than a colon when the relationship is one of definition. Choice B creates a comma splice. Choice D is a valid structural fix but divides the sentence in a way that loses the tight connection between the result and its explanation."
+}

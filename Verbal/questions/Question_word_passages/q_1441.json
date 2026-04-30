@@ -1,0 +1,16 @@
+{
+  "id": "q_1441",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The expedition's leader had anticipated the storm the team had cached emergency supplies at three separate points along the route before the weather turned, ensuring that every member could reach shelter within four hours of being given the order to retreat.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The expedition's leader had anticipated the storm; the team had cached emergency supplies at three separate points along the route before the weather turned, ensuring that every member could reach shelter within four hours of being given the order to retreat.",
+    "B": "The expedition's leader had anticipated the storm, the team had cached emergency supplies at three separate points along the route before the weather turned, ensuring that every member could reach shelter within four hours.",
+    "C": "The expedition's leader had anticipated the storm: the team had cached emergency supplies at three separate points along the route before the weather turned.",
+    "D": "The expedition's leader had anticipated the storm, so the team had cached emergency supplies at three separate points along the route before the weather turned, ensuring every member could reach shelter within four hours."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'The expedition's leader had anticipated the storm' and 'the team had cached emergency supplies at three separate points along the route before the weather turned, ensuring that every member could reach shelter within four hours' are both complete independent clauses. Choice A uses a semicolon to correctly separate the two related independent clauses—the second clause explains the practical result of the leader's foresight. Choice B creates a comma splice. Choice C uses a colon but omits the key participial phrase. Choice D adds 'so,' implying a direct causal relationship that the original does not assert."
+}

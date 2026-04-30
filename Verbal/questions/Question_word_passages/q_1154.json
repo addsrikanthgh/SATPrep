@@ -1,0 +1,16 @@
+{
+  "id": "q_1154",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The audit team agreed to examine the financial records submitted by the contractor thoroughly. The lead auditor stated that a thorough review was essential given the complexity of the cost-sharing arrangements.",
+  "question": "The word 'thoroughly' is a squinting modifier. Which choice most clearly conveys that the examination will be thorough?",
+  "choices": {
+    "A": "The audit team thoroughly agreed to examine the financial records submitted by the contractor.",
+    "B": "The audit team agreed to thoroughly examine the financial records submitted by the contractor.",
+    "C": "The audit team agreed to examine the thoroughly submitted financial records by the contractor.",
+    "D": "No change; 'thoroughly' at the end of the clause clearly modifies 'examine' because it describes the manner of examination"
+  },
+  "correct_answer": "B",
+  "explanation": "As written, 'thoroughly' follows both 'submitted by the contractor' and the verb 'examine,' creating ambiguity about whether the records were thoroughly submitted or will be thoroughly examined. The context (audit review, the second sentence's emphasis on thoroughness) makes the intended meaning clear, but formal writing requires modifier placement that is unambiguous without reliance on context. Choice B places 'thoroughly' immediately before 'examine,' unambiguously modifying the examination. Choice A places it before 'agreed,' implying thorough agreement. Choice C places it before 'submitted,' suggesting the records were thoroughly submitted. Choice D incorrectly accepts end-of-clause position as unambiguous."
+}

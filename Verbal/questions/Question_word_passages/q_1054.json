@@ -1,0 +1,16 @@
+{
+  "id": "q_1054",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The investigation concluded that neither the principal investigator nor the research assistants assigned to the project had documented its approval of the critical procedural changes that preceded the data anomaly.",
+  "question": "Which choice best corrects the pronoun error in the passage?",
+  "choices": {
+    "A": "had documented their approval of the critical procedural changes",
+    "B": "had documented his or her approval of the critical procedural changes",
+    "C": "had documented one's approval of the critical procedural changes",
+    "D": "No change; 'its' agrees with 'neither,' which is always singular"
+  },
+  "correct_answer": "A",
+  "explanation": "In 'neither...nor' constructions, the pronoun—like the verb—agrees with the subject closest to it. The nearer subject here is 'the research assistants' (plural), which requires the plural possessive 'their.' Choice A correctly applies this proximity rule. Choice B uses 'his or her,' which would agree with the singular 'the principal investigator' (the farther subject), misapplying the proximity rule. Choice C uses 'one's,' an impersonal indefinite possessive that does not refer to the specific subjects named. Choice D is incorrect on two counts: 'neither' does not always require a singular pronoun—the pronoun must agree with the nearer element—and 'its' would be appropriate only if the nearer subject were singular and non-human, which it is not here."
+}

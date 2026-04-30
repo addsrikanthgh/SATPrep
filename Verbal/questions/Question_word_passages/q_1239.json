@@ -1,0 +1,16 @@
+{
+  "id": "q_1239",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The panel of independent economists have concluded that the proposed tariff increases would likely reduce consumer purchasing power by an average of three to five percent. The report, released last Thursday, drew swift criticism from several industry trade groups.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The panel of independent economists has concluded that the proposed tariff increases would likely reduce consumer purchasing power.",
+    "B": "The panel of independent economists have concluded, that the proposed tariff increases would likely reduce consumer purchasing power.",
+    "C": "The panels of independent economists has concluded that the proposed tariff increases would likely reduce consumer purchasing power.",
+    "D": "No change; 'have concluded' agrees with 'economists,' the nearest noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The panel,' a singular collective noun, not 'economists,' which is the object of the preposition 'of.' Prepositional phrases do not change the number of the subject. A panel acting as a single unit takes a singular verb: 'has concluded.' Choice A correctly uses the singular verb. Choice B adds an incorrect comma after 'concluded.' Choice C incorrectly pluralizes 'panel' while using a singular verb—an inconsistent construction. Choice D incorrectly applies proximity agreement, a rule that does not exist in standard English; the verb must agree with the grammatical subject, 'panel.'"
+}

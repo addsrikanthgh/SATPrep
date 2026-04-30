@@ -1,0 +1,16 @@
+{
+  "id": "q_1583",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Linguist Deborah Tannen has argued that men and women in American culture often have fundamentally different conversational goals, which she describes as 'report talk' and 'rapport talk.' Men, she suggests, tend to use conversation to convey information, demonstrate knowledge, or negotiate status—'report talk.' Women tend to use conversation to build and maintain connections, share feelings, and establish intimacy—'rapport talk.' Tannen acknowledges that these patterns are not universal: individual variation is enormous, and cultural context shapes communication styles significantly. Critics have argued that her framework risks reinforcing gender stereotypes by treating patterns observed in some populations as characteristic of all men or all women. Tannen has responded that describing observed patterns is distinct from prescribing behavior, and that her work aims to reduce conflict by helping people understand that communication differences do not necessarily signal bad intentions.",
+  "question": "A student claims that Tannen herself qualifies her gender-based communication framework to account for individual and cultural variation. Which quotation best supports this claim?",
+  "choices": {
+    "A": "\"Men, she suggests, tend to use conversation to convey information, demonstrate knowledge, or negotiate status.\"",
+    "B": "\"Tannen acknowledges that these patterns are not universal: individual variation is enormous, and cultural context shapes communication styles significantly.\"",
+    "C": "\"Critics have argued that her framework risks reinforcing gender stereotypes.\"",
+    "D": "\"Tannen has responded that describing observed patterns is distinct from prescribing behavior.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student claims that Tannen herself (not critics) qualifies her framework. The key word is 'herself'—the evidence must come from Tannen's own position, not critics'. Choice B is explicitly attributed to Tannen ('Tannen acknowledges') and directly states that her patterns are 'not universal' and that 'individual variation is enormous' and 'cultural context shapes communication styles significantly.' This is Tannen qualifying her own framework to account for both individual and cultural variation. Choice A presents Tannen's main claim rather than a qualification. Choice C presents critics' objections, not Tannen's own qualifications. Choice D presents Tannen's response to critics about describing vs. prescribing—relevant to her overall argument but not a qualification of the gender-based patterns themselves."
+}

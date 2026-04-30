@@ -1,0 +1,16 @@
+{
+  "id": "q_1471",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The judge's ruling was narrow in scope it applied only to plaintiffs who had filed claims before the statutory deadline and did not address the broader constitutional questions that civil liberties advocates had hoped the court would resolve.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The judge's ruling was narrow in scope; it applied only to plaintiffs who had filed claims before the statutory deadline and did not address the broader constitutional questions that civil liberties advocates had hoped the court would resolve.",
+    "B": "The judge's ruling was narrow in scope, it applied only to plaintiffs who had filed claims before the statutory deadline and did not address the broader constitutional questions that civil liberties advocates had hoped the court would resolve.",
+    "C": "The judge's ruling was narrow in scope: it applied only to plaintiffs who had filed claims before the statutory deadline and did not address the broader constitutional questions that civil liberties advocates had hoped the court would resolve.",
+    "D": "The judge's ruling, narrow in scope, applied only to plaintiffs who had filed claims before the statutory deadline and did not address the broader constitutional questions that civil liberties advocates had hoped the court would resolve."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. A colon is the best correction here because the second clause directly explains what it means for the ruling to be 'narrow in scope'—the colon introduces an explanation of the descriptor in the first clause. Choice A uses a semicolon, which is grammatically correct but less precise when the relationship between the clauses is one of definition or elaboration. Choice B creates a comma splice. Choice D is a valid structural rewrite that converts the sentence into a single independent clause but makes more substantial changes. Since the question asks for the best correction and the colon is the most semantically precise choice, C is correct."
+}

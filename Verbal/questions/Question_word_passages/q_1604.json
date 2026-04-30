@@ -1,0 +1,16 @@
+{
+  "id": "q_1604",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The paleontologist's discovery of a nearly complete skeleton of the ancient marine reptile upended the prevailing classification. For years, the specimen had been housed in a museum basement, its significance unrecognized. When finally examined using updated imaging techniques, the skeleton revealed morphological features that placed it outside the known family tree of ichthyosaurs entirely, suggesting a parallel and hitherto unsuspected lineage of marine reptiles.",
+  "question": "As used in the passage, 'hitherto' most nearly means",
+  "choices": {
+    "A": "permanently",
+    "B": "until now",
+    "C": "wrongly",
+    "D": "partially"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the discovery revealed 'a parallel and hitherto unsuspected lineage'—a lineage that had not been suspected before this discovery. 'Hitherto' is a formal adverb meaning 'up to this point in time' or 'until now.' Choice B, 'until now,' captures this: the lineage had been unsuspected up until this point. The word signals a before-and-after shift: before the discovery, the lineage was unknown; after the discovery, it is known. Choice A ('permanently') does not convey a temporal boundary at the present moment. Choice C ('wrongly') introduces an error judgment not implied by the passage. Choice D ('partially') implies incompleteness, not a temporal limitation."
+}

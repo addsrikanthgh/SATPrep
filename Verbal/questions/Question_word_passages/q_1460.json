@@ -1,0 +1,16 @@
+{
+  "id": "q_1460",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The regional food bank distributed over thirty thousand meals during the winter fundraising drive, this was the highest single-season total in the organization's twenty-year history.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The regional food bank distributed over thirty thousand meals during the winter fundraising drive; this was the highest single-season total in the organization's twenty-year history.",
+    "B": "The regional food bank distributed over thirty thousand meals during the winter fundraising drive this was the highest single-season total in the organization's twenty-year history.",
+    "C": "The regional food bank distributed over thirty thousand meals during the winter fundraising drive, which was the highest single-season total in the organization's twenty-year history.",
+    "D": "No change; the comma is correct because the second clause provides a follow-up fact about the same event."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a comma splice—two independent clauses joined by only a comma. 'The regional food bank distributed over thirty thousand meals during the winter fundraising drive' and 'this was the highest single-season total in the organization's twenty-year history' are both independent clauses. Choice A correctly uses a semicolon to join them—'this' in the second clause refers back to the meal count in the first, making the semicolon a natural and elegant choice. Choice B creates a fused sentence. Choice C converts the second clause into a relative clause ('which was the highest single-season total'), a valid structural fix. Choice D incorrectly defends the comma splice."
+}

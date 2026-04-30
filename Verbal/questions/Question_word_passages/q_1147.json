@@ -1,0 +1,16 @@
+{
+  "id": "q_1147",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Exhausted after three consecutive nights of fieldwork, the data were finally compiled by the graduate students into a preliminary report. The report was submitted to the principal investigator the following morning.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Exhausted after three consecutive nights of fieldwork, the graduate students finally compiled the data into a preliminary report.",
+    "B": "The data, exhausted after three consecutive nights of fieldwork, were finally compiled by the graduate students.",
+    "C": "After three consecutive nights of fieldwork and exhaustion, the data were compiled by the graduate students.",
+    "D": "No change; 'exhausted' modifies the understood subject of the sentence, which is the researchers"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Exhausted after three consecutive nights of fieldwork' must modify the subject of the main clause. As written, the subject is 'the data,' implying that the data were exhausted—a logical impossibility. Choice A restructures the sentence so that 'the graduate students,' who can be exhausted, immediately follow the participial phrase. Choice B preserves the error by keeping 'the data' as subject. Choice C removes the participial phrase entirely and replaces it with a wordy prepositional phrase that still doesn't clearly identify the exhausted party. Choice D incorrectly argues that an implied subject can be modified."
+}

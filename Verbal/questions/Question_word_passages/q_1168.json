@@ -1,0 +1,16 @@
+{
+  "id": "q_1168",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The defense team planned to challenge the witnesses who had changed their testimony carefully. The lead attorney believed that inconsistencies in the revised accounts would be enough to introduce reasonable doubt.",
+  "question": "The word 'carefully' in the first sentence creates ambiguity. Which choice most clearly conveys that the challenge itself will be carried out carefully?",
+  "choices": {
+    "A": "The defense team carefully planned to challenge the witnesses who had changed their testimony.",
+    "B": "The defense team planned to carefully challenge the witnesses who had changed their testimony.",
+    "C": "The defense team planned to challenge the carefully changed testimony of the witnesses.",
+    "D": "No change; 'carefully' modifies 'challenge' because it describes how the challenges will be conducted"
+  },
+  "correct_answer": "B",
+  "explanation": "As written, 'carefully' follows 'their testimony' and is a squinting modifier—it could modify 'changed their testimony carefully' (witnesses who carefully changed testimony) or 'challenge...carefully' (challenge carefully). Choice B places 'carefully' immediately before 'challenge,' unambiguously modifying how the challenge will be conducted. Choice A places 'carefully' before 'planned,' implying the team planned carefully rather than that it will challenge carefully. Choice C places 'carefully' before 'changed,' modifying the witnesses' act of changing. Choice D incorrectly treats end-of-sentence position as providing clear modification of 'challenge.'"
+}

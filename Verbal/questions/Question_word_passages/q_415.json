@@ -1,7 +1,7 @@
 {
   "id": "q_415",
   "domain": "Information and Ideas",
-  "skill": "command of evidence",
+  "skill": "command of evidence (textual)",
   "difficulty": "medium",
   "passage": "A behavioral economics experiment gave 300 participants a choice between receiving $50 immediately or $60 in one month. Participants were randomly assigned to one of three framing conditions: a neutral frame ('receive $60 in 30 days'), a loss frame ('lose the opportunity to receive $60'), or a reminder frame (a text message sent 25 days later reminding them of their choice). Under neutral framing, 54% chose the delayed $60. Under loss framing, 71% chose the delayed option. In the reminder condition, 68% followed through with the delayed option even if they had initially chosen it under neutral framing.",
   "question": "A researcher claims that how a delayed reward is framed has a larger effect on initial decision-making than on follow-through. Which data best supports this claim?",

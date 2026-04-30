@@ -1,0 +1,16 @@
+{
+  "id": "q_1613",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The clinical trial's results were striking but not definitive: the experimental drug reduced tumor size in 68% of participants, a rate far exceeding that of the control group. However, the study's authors were careful to qualify their findings, noting that the sample size was small and the follow-up period too brief to assess whether the tumor reduction was durable. They called for a larger, multi-site trial before any conclusions about the drug's efficacy could be drawn.",
+  "question": "As used in the passage, 'qualify' most nearly means",
+  "choices": {
+    "A": "improve or enhance",
+    "B": "make eligible",
+    "C": "limit or add reservations to",
+    "D": "publicly announce"
+  },
+  "correct_answer": "C",
+  "explanation": "In context, the authors 'qualify their findings' by noting the small sample size and brief follow-up period. 'Qualify' here means to add limitations, caveats, or reservations to a statement—to modify a claim by noting conditions under which it might not hold. Choice C, 'limit or add reservations to,' captures this meaning precisely. The qualifications (small sample, short follow-up) serve to prevent overinterpretation of the promising results. Choice A ('improve or enhance') is a common meaning of 'qualify' in other contexts (to qualify a skill is to improve it) but is inappropriate here. Choice B ('make eligible') is another common meaning (to qualify for a competition) but is also inappropriate. Choice D ('publicly announce') has no connection to the context."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1591",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Epidemiologist Geoffrey Rose developed what became known as the 'prevention paradox': a public health intervention that brings large benefits to a population may offer only small individual benefits to any particular person. The paradox arises because most disease in a population comes not from high-risk individuals but from the large number of people at moderate risk. Reducing blood pressure by a small amount across an entire population will prevent more heart attacks than identifying and treating the small group with dangerously high blood pressure—yet each individual who reduces their blood pressure by a small amount faces only a marginal reduction in their personal risk. Rose concluded that a 'sick population' approach—shifting the entire risk distribution—would always be more efficient than a 'high-risk' approach. However, the paradox creates a communication challenge: it is difficult to motivate healthy-seeming people to adopt preventive behaviors that confer only tiny individual benefits, even when the aggregate benefit to the population is large.",
+  "question": "A student argues that Rose's prevention paradox reveals a tension between what is most effective at the population level and what is motivating at the individual level. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"[A] public health intervention that brings large benefits to a population may offer only small individual benefits to any particular person.\"",
+    "B": "\"Rose concluded that a 'sick population' approach—shifting the entire risk distribution—would always be more efficient than a 'high-risk' approach.\"",
+    "C": "\"[T]he paradox creates a communication challenge: it is difficult to motivate healthy-seeming people to adopt preventive behaviors that confer only tiny individual benefits, even when the aggregate benefit to the population is large.\"",
+    "D": "\"Reducing blood pressure by a small amount across an entire population will prevent more heart attacks than identifying and treating the small group with dangerously high blood pressure.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument is specifically about a tension between population-level effectiveness and individual-level motivation. Choice C captures both sides of this tension simultaneously: it names the 'communication challenge' of motivating individuals (individual motivation issue) arising precisely from the gap between tiny individual benefits and large aggregate population benefit (population effectiveness issue). The phrase 'even when the aggregate benefit to the population is large' directly contrasts the individual motivational problem with the population-level benefit. Choice A defines the paradox but only establishes the large-population/small-individual split without addressing motivation. Choice B describes Rose's population-level conclusion without mentioning individual motivation. Choice D provides specific evidence for the population-level effectiveness but says nothing about individual motivation."
+}

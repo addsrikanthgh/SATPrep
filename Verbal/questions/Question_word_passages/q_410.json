@@ -1,7 +1,7 @@
 {
   "id": "q_410",
   "domain": "Information and Ideas",
-  "skill": "command of evidence",
+  "skill": "command of evidence (textual)",
   "difficulty": "medium",
   "passage": "A public health study examined vaccination rates and measles incidence across 200 school districts over a ten-year period. Districts where vaccination rates fell below 90% experienced measles outbreaks at a rate 14 times higher than districts maintaining rates above 95%. Districts that fell below 90% and then restored rates above 95% through targeted outreach campaigns saw outbreak rates return to baseline within two years. The researchers noted that many of the low-vaccination districts were clustered geographically, suggesting that local exemption policies and social network effects contributed to vaccination rate declines.",
   "question": "Which data most directly supports the conclusion that the relationship between vaccination rates and outbreak risk is reversible through targeted intervention?",

@@ -1,0 +1,16 @@
+{
+  "id": "q_1249",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The jury, after deliberating for three full days, have reached a unanimous verdict. The foreperson delivered the verdict to the court clerk, who read it aloud in open court.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The jury, after deliberating for three full days, has reached a unanimous verdict.",
+    "B": "The jury, after deliberating for three full days, have reached unanimous verdicts.",
+    "C": "The juries, after deliberating for three full days, have reached a unanimous verdict.",
+    "D": "No change; 'have reached' correctly agrees with 'jury,' which is a plural collective noun"
+  },
+  "correct_answer": "A",
+  "explanation": "In American English, collective nouns like 'jury' typically take singular verbs when the group is acting as a unit (as opposed to British English, which often uses plural verbs). Here, the jury reached a single unanimous verdict, acting collectively. The singular verb 'has reached' is standard in American English. Choice A uses 'has reached.' Choice B uses 'have reached' and changes 'a unanimous verdict' to 'unanimous verdicts,' which changes the meaning—a jury produces one verdict, not multiple. Choice C pluralizes 'jury' without fixing any actual agreement issue. Choice D incorrectly states 'jury' is plural; it is a singular collective noun in standard American English."
+}

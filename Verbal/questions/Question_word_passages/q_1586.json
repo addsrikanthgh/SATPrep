@@ -1,0 +1,16 @@
+{
+  "id": "q_1586",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The transition from hunter-gatherer societies to agricultural ones—known as the Neolithic transition—was once celebrated as a straightforward advance in human civilization. Recent archaeological and bioarchaeological research has complicated this narrative. Analysis of skeletal remains shows that early agricultural populations often displayed higher rates of malnutrition, infectious disease, and dental decay than their hunter-gatherer predecessors. The shift to a narrower diet of cultivated grains reduced dietary diversity and created vulnerability to crop failures. Hunter-gatherers, by contrast, consumed a wide variety of plant and animal foods and typically enjoyed more stable nutrition. Anthropologist Jared Diamond famously described agriculture as 'the worst mistake in the history of the human race,' a provocation meant to challenge the assumption that more complex technology always means a better life. Nevertheless, agriculture supported much larger and denser populations, which enabled the development of cities, specialization of labor, and the emergence of complex societies.",
+  "question": "A student argues that early agricultural populations were, in some respects, less healthy than the hunter-gatherer populations that preceded them. Which quotation best supports this claim?",
+  "choices": {
+    "A": "\"The transition from hunter-gatherer societies to agricultural ones...was once celebrated as a straightforward advance in human civilization.\"",
+    "B": "\"Analysis of skeletal remains shows that early agricultural populations often displayed higher rates of malnutrition, infectious disease, and dental decay than their hunter-gatherer predecessors.\"",
+    "C": "\"Jared Diamond famously described agriculture as 'the worst mistake in the history of the human race.'\"",
+    "D": "\"Agriculture supported much larger and denser populations, which enabled the development of cities, specialization of labor, and the emergence of complex societies.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student claims early agricultural populations were less healthy than hunter-gatherers in some respects. Choice B provides direct physical evidence from bioarchaeological research: skeletal remains show higher rates of malnutrition, infectious disease, and dental decay in agricultural populations compared to their hunter-gatherer predecessors. This is specific, empirical evidence of worse health outcomes. Choice A describes an outdated narrative being challenged, not evidence of health outcomes. Choice C is Diamond's provocative opinion, which is not the same as empirical health data from skeletal remains. Choice D describes population and social benefits of agriculture—positive consequences that don't address the health comparison."
+}

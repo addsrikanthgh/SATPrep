@@ -1,0 +1,16 @@
+{
+  "id": "q_1469",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The policy brief outlined three recommendations for improving rural broadband access: increasing federal subsidies for infrastructure construction in underserved counties, mandating that service providers offer low-income tiers to qualifying households, and establishing a regional oversight board to enforce compliance with service benchmarks.",
+  "question": "Which best describes the punctuation used in the passage?",
+  "choices": {
+    "A": "The colon should be replaced with a semicolon because 'increasing federal subsidies' begins a new independent clause.",
+    "B": "The passage is correct as written; the colon correctly follows a complete independent clause and introduces a list of the three recommendations.",
+    "C": "The colon should be replaced with a comma because the list is already clear from context.",
+    "D": "The colon should be replaced with a period, and the list should begin a new sentence."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage is correct as written. The colon follows 'three recommendations for improving rural broadband access,' a complete independent clause, and it introduces a formal list of three items. This is the standard and correct use of a colon: after a complete independent clause, to introduce a list or series. The three list items are correctly parallel gerund phrases ('increasing,' 'mandating,' 'establishing') separated by commas with 'and' before the final item. Choice A is incorrect—'increasing federal subsidies' is a gerund phrase, not an independent clause. Choice C would create ambiguity because removing the colon blurs the boundary between the introductory clause and the list. Choice D would create a sentence fragment."
+}

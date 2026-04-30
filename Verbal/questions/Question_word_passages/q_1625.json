@@ -1,0 +1,16 @@
+{
+  "id": "q_1625",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "The popular image of pirates as romantic outlaws has largely been constructed by fiction—novels like Treasure Island and films have shaped public imagination far more than historical records have. The actual history of piracy is considerably grimmer: a life of violence, disease, short life expectancy, and brutal punishment upon capture. Yet some historians have found within piracy a counterculture worth examining: pirate ships of the seventeenth and eighteenth centuries often operated as proto-democratic organizations, with elected captains, distributed shares of plunder, and codes of conduct that provided protections unusual for the era.",
+  "question": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "A popular misconception about pirates is introduced, the historical reality is shown to be harsher, and yet a qualified element of the popular image is given unexpected historical support.",
+    "B": "The history of piracy is described chronologically, from its origins to its decline.",
+    "C": "Two historians are described as disagreeing about whether piracy was violent or democratic.",
+    "D": "The cultural influence of piracy on literature and film is analyzed, with examples drawn from Treasure Island."
+  },
+  "correct_answer": "A",
+  "explanation": "The text follows a three-part movement: (1) it identifies the romantic outlaw image of pirates as a fictional construct; (2) it presents the harsher historical reality (violence, disease, short life); and (3) it introduces a qualified positive finding from historians—that pirate ships had proto-democratic features like elected captains and distributed shares. This last move is introduced with 'yet,' signaling a partial recovery of something interesting, which partially redeems the popular image—not the romantic adventure part, but the egalitarian part. Choice A captures all three movements accurately, including the 'qualified' nature of the recovery. Choice B is incorrect; the text is not chronological. Choice C is incorrect; no disagreement between two named historians is presented. Choice D is incorrect; the text doesn't analyze cultural influence or draw examples from Treasure Island beyond a brief mention."
+}

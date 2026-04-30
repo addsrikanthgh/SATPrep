@@ -1,0 +1,16 @@
+{
+  "id": "q_1172",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The researcher found evidence that the ancient settlement had been abandoned quickly in a layer of ash beneath the modern city streets. Ceramic vessels still contained food, and personal objects had been left in place as if their owners expected to return.",
+  "question": "The phrase 'in a layer of ash beneath the modern city streets' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "The researcher found, in a layer of ash beneath the modern city streets, evidence that the ancient settlement had been abandoned quickly.",
+    "B": "The researcher found evidence, in a layer of ash beneath the modern city streets, that the ancient settlement had been abandoned quickly.",
+    "C": "In a layer of ash beneath the modern city streets, the researcher found evidence that the ancient settlement had been abandoned quickly.",
+    "D": "No change; 'in a layer of ash beneath the modern city streets' modifies 'abandoned,' describing where the abandonment took place"
+  },
+  "correct_answer": "C",
+  "explanation": "As written, the prepositional phrase 'in a layer of ash beneath the modern city streets' appears at the end of the sentence, where it most naturally modifies 'abandoned quickly'—suggesting the settlement was abandoned in a layer of ash, which is awkward. The phrase should describe where the evidence was found. Choice C places the phrase at the beginning, clearly modifying the researcher's act of finding. Choice A interrupts 'found...evidence' with the phrase. Choice B places it after 'evidence,' creating a confusing structure where the phrase interrupts the that-clause. Choice D incorrectly accepts the phrase as modifying 'abandoned.'"
+}

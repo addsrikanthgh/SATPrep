@@ -1,0 +1,16 @@
+{
+  "id": "q_1623",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Critics of the sharing economy—companies like Airbnb and Uber—initially focused on consumer safety and regulatory fairness. More recently, the critique has deepened: researchers have documented that Airbnb reduces housing availability and raises rents in popular neighborhoods, while Uber and Lyft increase traffic congestion and reduce transit ridership in cities. Proponents argue that these platforms generate flexibility for workers and lower costs for consumers. The debate reveals a recurring tension in technology policy: innovations that benefit individual users can impose diffuse, harder-to-measure costs on communities.",
+  "question": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "An initial criticism of a technology is introduced, a stronger and more recent criticism is presented, a counterargument is acknowledged, and a broader generalization is drawn.",
+    "B": "Two opposing views on sharing economy platforms are presented, and the author concludes that the proponents are correct.",
+    "C": "The economic benefits of the sharing economy are described, followed by an analysis of why those benefits are overstated.",
+    "D": "A technological innovation is introduced, its rapid adoption is explained, and concerns about its future development are raised."
+  },
+  "correct_answer": "A",
+  "explanation": "The text has four distinct moves: (1) early critics focused on consumer safety and regulatory fairness; (2) more recent, deeper critiques cite housing, rents, congestion, and transit impacts; (3) proponents' counterargument about worker flexibility and lower consumer costs is acknowledged; (4) the passage closes with a broad generalization about the tension between individual user benefits and diffuse community costs. Choice A accurately captures all four movements. Choice B is incorrect because the author does not conclude that proponents are correct—the final sentence presents the tension as unresolved. Choice C is incorrect because the text does not begin with a description of benefits; it begins with criticisms. Choice D is incorrect because the text doesn't explain rapid adoption and doesn't focus on future development concerns."
+}

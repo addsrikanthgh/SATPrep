@@ -1,0 +1,16 @@
+{
+  "id": "q_1595",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "The sociologist C. Wright Mills introduced the concept of the 'sociological imagination' in 1959 to describe the capacity to understand personal experience in relation to broader social and historical forces. Mills argued that many problems people experience as private troubles—unemployment, divorce, anxiety—are actually public issues rooted in structural conditions. An unemployed person, for example, might blame themselves for their situation, but if millions of people are unemployed simultaneously, the cause must be sought in economic structures, not in individual failure. Mills was critical of what he called 'abstracted empiricism'—social science that accumulated data without addressing large questions of social structure and historical change—as well as 'grand theory'—social philosophy so abstract it lost contact with concrete social reality. He believed the task of sociology was to connect biography and history, to help individuals understand their lives as shaped by forces larger than themselves.",
+  "question": "A student argues that Mills believed sociology should reveal connections between individual lives and broader social forces, rather than focusing narrowly on either data collection or abstract theory. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"Mills argued that many problems people experience as private troubles—unemployment, divorce, anxiety—are actually public issues rooted in structural conditions.\"",
+    "B": "\"Mills was critical of what he called 'abstracted empiricism'...as well as 'grand theory'—social philosophy so abstract it lost contact with concrete social reality.\"",
+    "C": "\"He believed the task of sociology was to connect biography and history, to help individuals understand their lives as shaped by forces larger than themselves.\"",
+    "D": "\"An unemployed person...might blame themselves for their situation, but if millions of people are unemployed simultaneously, the cause must be sought in economic structures, not in individual failure.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument has three parts: sociology should (1) connect individual lives to broader forces, (2) not focus narrowly on data collection (abstracted empiricism), and (3) not focus narrowly on abstract theory (grand theory). A single quotation cannot fully address all three, but the question asks which most directly supports the argument. Choice C directly states Mills's vision for sociology: 'to connect biography and history, to help individuals understand their lives as shaped by forces larger than themselves.' The phrase 'connect biography and history' captures the individual-social connection, and the purpose statement ('to help individuals understand') confirms this is the core task. Choice B addresses the rejection of both abstracted empiricism and grand theory—supporting parts 2 and 3—but says nothing about what sociology should do instead. Choice A illustrates the personal-structural connection with an example. Choice C is the most direct and comprehensive support because it positively states the connecting task."
+}

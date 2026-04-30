@@ -1,0 +1,16 @@
+{
+  "id": "q_1627",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "Proponents of high-stakes standardized testing argue that uniform assessments create accountability, identify achievement gaps, and provide objective data for policy decisions. Critics respond that such tests narrow curriculum, incentivize 'teaching to the test,' and measure a limited range of cognitive skills while disadvantaging students whose backgrounds differ from those the tests were normed on. Defenders of testing counter that without standardized measures, education policy decisions risk being driven by anecdote and political interest rather than evidence. The dispute ultimately concerns not just measurement, but what schools are fundamentally for.",
+  "question": "What is the primary purpose of the final sentence of the text?",
+  "choices": {
+    "A": "To resolve the debate between proponents and critics by identifying the real source of disagreement",
+    "B": "To dismiss both sides of the debate as failing to address the most important issue",
+    "C": "To reframe the technical debate about testing as resting on a deeper, unresolved question about the purpose of education",
+    "D": "To argue that standardized tests are a poor way to determine what schools should be for"
+  },
+  "correct_answer": "C",
+  "explanation": "The final sentence—'The dispute ultimately concerns not just measurement, but what schools are fundamentally for'—serves to elevate the debate from a technical question (how to measure student learning) to a philosophical question (the purpose of education). This is a reframing move: rather than resolving the debate or dismissing either side, the sentence suggests the disagreement is rooted in a deeper, unresolved question about educational values. Choice C captures this accurately. Choice A says the sentence 'resolves' the debate, but it does not—it deepens the problem by identifying a foundational disagreement. Choice B says both sides are 'dismissed,' but the text is neutral and the final sentence does not criticize either side. Choice D makes a specific argument against standardized tests, but the sentence is a structural observation about the nature of the dispute, not an argument against testing."
+}

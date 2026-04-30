@@ -1,0 +1,16 @@
+{
+  "id": "q_1415",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Recognized internationally as one of the foremost experts on medieval Islamic architecture, the fellowship at the Institute for Advanced Study was awarded to Professor Leila Hassan by the selection committee following a competitive review process that lasted more than eight months.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "Recognized internationally as one of the foremost experts on medieval Islamic architecture, Professor Leila Hassan was awarded a fellowship at the Institute for Advanced Study following a competitive review process that lasted more than eight months.",
+    "B": "Recognized internationally as one of the foremost experts on medieval Islamic architecture, the selection committee awarded Professor Leila Hassan a fellowship at the Institute for Advanced Study.",
+    "C": "Professor Leila Hassan, recognized internationally as one of the foremost experts on medieval Islamic architecture, received a fellowship at the Institute for Advanced Study after a competitive review process lasting more than eight months.",
+    "D": "No change; 'the fellowship' is an acceptable passive subject that follows the introductory participial phrase."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a dangling modifier. The introductory participial phrase 'Recognized internationally as one of the foremost experts on medieval Islamic architecture' describes a person, but the grammatical subject of the main clause is 'the fellowship at the Institute for Advanced Study.' A fellowship cannot be recognized as an expert; Professor Hassan was. Choice A correctly makes 'Professor Leila Hassan' the subject of the main clause. Choice B makes 'the selection committee' the subject, but the selection committee is not the entity being recognized as an architectural expert—the modifier would still dangle. Choice C restructures the sentence with Professor Hassan as subject but in a non-participial form. Choice D incorrectly defends the dangling modifier."
+}

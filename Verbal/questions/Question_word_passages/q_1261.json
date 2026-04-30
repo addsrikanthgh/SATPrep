@@ -1,0 +1,16 @@
+{
+  "id": "q_1261",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Neither the director of research nor the members of the scientific advisory board were present at the press conference announcing the clinical trial results. A spokesperson read a prepared statement on their behalf.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'were present' should be 'was present' because 'the director of research' is the subject closest to the verb.",
+    "B": "Yes; 'were present' should be 'was present' because neither/nor constructions always take a singular verb.",
+    "C": "Yes; 'were present' should be 'was present' because collective nouns in neither/nor constructions take singular verbs.",
+    "D": "No; 'were present' correctly agrees with 'the members of the scientific advisory board,' the nearer plural subject in a neither/nor construction."
+  },
+  "correct_answer": "D",
+  "explanation": "In neither/nor constructions, the verb agrees with the nearer subject. The nearer subject is 'the members of the scientific advisory board,' which is plural. Therefore, the plural verb 'were present' is correct—there is no error. Choice A incorrectly applies the nearer-subject rule to 'the director of research,' the farther subject. Choice B incorrectly states that neither/nor constructions always take a singular verb. Choice C incorrectly applies a rule about collective nouns that is not relevant here. Choice D correctly identifies that 'were present' agrees with the nearer plural subject and that there is no error."
+}

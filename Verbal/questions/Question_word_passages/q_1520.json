@@ -1,0 +1,16 @@
+{
+  "id": "q_1520",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Vaccination is one of the most cost-effective public health interventions in history, estimated to prevent between two and three million deaths worldwide every year. Despite this record, vaccine hesitancy has grown in many countries, driven by social media misinformation, distrust of pharmaceutical companies, and a declining cultural memory of the diseases vaccines prevent. The irony is that vaccines' success has contributed to their own vulnerability: diseases like polio and measles, once feared by every parent, have become so rare that younger generations have no lived experience of their severity. This 'complacency effect' is well-documented in public health literature and is considered one of the primary drivers of declining vaccination rates.",
+  "question": "What is the primary function of the third sentence ('The irony is that vaccines' success...') in the passage?",
+  "choices": {
+    "A": "To provide statistical evidence for the effectiveness of vaccines",
+    "B": "To identify a self-undermining dynamic—vaccine success reducing vaccine acceptance—that explains part of the hesitancy described in the second sentence",
+    "C": "To argue that pharmaceutical companies are responsible for vaccine hesitancy",
+    "D": "To describe the symptoms of polio and measles"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence describes vaccine hesitancy and lists several contributing factors. The third sentence adds an additional, ironic explanatory factor: the very success of vaccines has made the diseases they prevent invisible, reducing the fear that motivated vaccination. 'The irony is that' signals this self-undermining dynamic—success breeding its own vulnerability. This is a specific causal mechanism contributing to the hesitancy described in the second sentence. Choice A is incorrect—statistical evidence is provided in the first sentence. Choice C is incorrect—pharma distrust is one of several factors listed in the second sentence, but the third sentence focuses on the complacency dynamic, not pharma criticism. Choice D is incorrect—no symptoms are described."
+}

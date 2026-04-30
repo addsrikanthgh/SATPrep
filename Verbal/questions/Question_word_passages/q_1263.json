@@ -1,0 +1,16 @@
+{
+  "id": "q_1263",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The research team's collection of soil samples from seventeen distinct microhabitats across the boreal forest region offer a uniquely comprehensive dataset for studying carbon sequestration. Ecologists hope the dataset will help refine current global carbon models.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The research team's collection of soil samples from seventeen distinct microhabitats across the boreal forest region offers a uniquely comprehensive dataset for studying carbon sequestration.",
+    "B": "The research team's collection of soil samples from seventeen distinct microhabitats across the boreal forest region have offered a uniquely comprehensive dataset.",
+    "C": "The research team's collections of soil samples from seventeen distinct microhabitats offer a uniquely comprehensive dataset for studying carbon sequestration.",
+    "D": "No change; 'offer' correctly agrees with 'samples,' the plural noun nearest the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The research team's collection,' a singular noun. The prepositional phrase 'of soil samples from seventeen distinct microhabitats across the boreal forest region' modifies 'collection' without changing the subject's number. The singular verb 'offers' is required. Choice A uses 'offers.' Choice B changes to 'have offered,' a plural present perfect verb—wrong in both number and tense. Choice C pluralizes 'collection' to 'collections' and keeps the plural 'offer'—internally consistent but changes the sentence's meaning. Choice D incorrectly applies proximity agreement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1308",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Among the evidence submitted to the arbitration panel by the plaintiff's legal team were a single internal memorandum, written in 2019, in which company executives explicitly acknowledged awareness of the product's safety defects. The defense argued the document had been mischaracterized.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Among the evidence submitted to the arbitration panel by the plaintiff's legal team was a single internal memorandum, written in 2019, in which company executives explicitly acknowledged awareness of the product's safety defects.",
+    "B": "Among the evidence submitted to the arbitration panel by the plaintiff's legal team were single internal memoranda, written in 2019, in which company executives acknowledged awareness of the defects.",
+    "C": "Among the evidences submitted to the arbitration panel by the plaintiff's legal team was a single internal memorandum in which company executives acknowledged safety defects.",
+    "D": "No change; 'were' correctly agrees with 'company executives,' the nearest plural noun in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "This is an inverted sentence beginning with a prepositional phrase. The true subject is 'a single internal memorandum,' a singular noun phrase. The singular verb 'was' is required. Choice A uses 'was.' Choice B keeps 'were' and pluralizes 'memorandum' to 'memoranda'—internally consistent but changes the subject from one document to several. Choice C changes 'evidence' to 'evidences,' a nonstandard usage (evidence is typically a mass/noncount noun) and uses 'was'—an unusual and unidiomatic change. Choice D incorrectly identifies 'company executives' as the subject; they are part of the relative clause."
+}

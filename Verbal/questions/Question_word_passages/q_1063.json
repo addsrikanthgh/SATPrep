@@ -1,0 +1,16 @@
+{
+  "id": "q_1063",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The wolf pack operates as a highly coordinated social unit, with each member fulfilling a specific role in the hunt. When they identify prey, the alpha pair typically initiates the chase while younger members flank the target, cutting off potential escape routes.",
+  "question": "Which choice best corrects the pronoun error in the second sentence?",
+  "choices": {
+    "A": "When it identifies prey, the alpha pair typically initiates the chase",
+    "B": "When this identifies prey, the alpha pair typically initiates the chase",
+    "C": "When those identify prey, the alpha pair typically initiates the chase",
+    "D": "No change; 'they' is acceptable when referring to a group of animals acting collectively"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent of 'they' is 'The wolf pack'—a singular collective noun. In formal American English, collective nouns are treated as singular and take singular pronouns. 'When it identifies prey' correctly treats the pack as the single coordinated unit described in the first sentence. Choice A makes this correction. Choice B ('this') is a singular demonstrative that avoids the number error but sounds awkward in reference to an already-identified subject noun. Choice C ('those') is a plural demonstrative that maintains the number error while also being more distant and less precise. Choice D is incorrect in formal writing; while colloquial usage may employ 'they' for animal groups, academic prose requires a singular pronoun for a singular collective noun."
+}

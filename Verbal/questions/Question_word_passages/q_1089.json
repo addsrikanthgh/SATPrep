@@ -1,0 +1,16 @@
+{
+  "id": "q_1089",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The review panel assessed fifteen grant proposals over two days of deliberation. In their final report, the panel noted that they had identified three proposals that merited full funding, while seven others showed sufficient promise to warrant a second review.",
+  "question": "Which choice best corrects the pronoun inconsistency in the second sentence?",
+  "choices": {
+    "A": "the panel noted that it had identified",
+    "B": "the panel noted that those reviewers had identified",
+    "C": "the panelists noted that they had identified",
+    "D": "No change; shifting from 'their' to 'they' is acceptable because 'their final report' and 'they had identified' both refer to the same group of panel members"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence opens by treating the panel as the subject in a way that is consistent with the collective noun ('In their final report, the panel noted'), but then uses 'they' in the subordinate clause, treating the panel as plural. The most direct correction is to replace 'they' with 'it,' treating the panel consistently as a singular collective noun throughout the sentence, as in Choice A. Choice B replaces 'the panel' with 'those reviewers,' introducing a new noun phrase and changing the singular antecedent to a plural one. Choice C reframes the entire sentence to use 'the panelists,' making the antecedent explicitly plural, which would then require 'their' at the beginning—this requires changes beyond the underlined portion. Choice D incorrectly claims that mixing 'their' and 'they' for the same antecedent is acceptable; consistency requires a single number treatment for a collective noun."
+}

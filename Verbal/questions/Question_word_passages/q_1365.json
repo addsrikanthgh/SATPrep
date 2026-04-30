@@ -1,0 +1,16 @@
+{
+  "id": "q_1365",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Although the negotiating teams reached a preliminary agreement on most terms by Thursday evening, the sticking point remained the proposed tariff schedule. Which the trade representatives from the developing-nation bloc argued was fundamentally unfair to agricultural exporters. Talks were expected to resume Friday morning.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "Although the negotiating teams reached a preliminary agreement on most terms by Thursday evening, the sticking point remained the proposed tariff schedule, which the trade representatives from the developing-nation bloc argued was fundamentally unfair to agricultural exporters.",
+    "B": "Although the negotiating teams reached a preliminary agreement on most terms by Thursday evening, the sticking point remained the proposed tariff schedule; which the trade representatives from the developing-nation bloc argued was fundamentally unfair.",
+    "C": "Although the negotiating teams reached a preliminary agreement by Thursday evening, the sticking point—the proposed tariff schedule—was fundamentally unfair to agricultural exporters according to the developing-nation bloc.",
+    "D": "No change; 'Which the trade representatives argued' begins a new sentence that contrasts with the preliminary agreement."
+  },
+  "correct_answer": "A",
+  "explanation": "The third sentence 'Which the trade representatives from the developing-nation bloc argued was fundamentally unfair to agricultural exporters' is a relative clause fragment—'which' is a relative pronoun that must be attached to the noun it modifies. 'Which' refers to 'the proposed tariff schedule' in the preceding sentence, so the relative clause must be attached to that sentence with a comma. Choice A correctly attaches the relative clause. Choice B uses a semicolon before 'which,' which is incorrect—a relative clause is not an independent clause. Choice C restructures the sentence more significantly with dashes. Choice D incorrectly defends beginning a standalone sentence with 'Which.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1016",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Unreliable narration is a technique in which the credibility of the narrator is compromised by limited knowledge, psychological instability, or deliberate deception. *In Henry James's The Turn of the Screw, the governess narrator reports seeing apparitions that no other character can confirm, the reader is left to determine whether the ghosts are real or projections of the narrator's disturbed mind.* The technique demands active interpretive participation from the reader.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "In Henry James's The Turn of the Screw, the governess narrator reports seeing apparitions that no other character can confirm; the reader is left to determine whether the ghosts are real or projections of the narrator's disturbed mind.",
+    "B": "In Henry James's The Turn of the Screw, the governess narrator reports seeing apparitions that no other character can confirm, the reader is left to determine whether the ghosts are real or projections of the narrator's disturbed mind.",
+    "C": "In Henry James's The Turn of the Screw, the governess narrator reports seeing apparitions that no other character can confirm, leaving the reader to determine whether the ghosts are real or projections of the narrator's disturbed mind.",
+    "D": "In Henry James's The Turn of the Screw, the governess narrator reports seeing apparitions that no other character can confirm; however, the reader is left to determine whether the ghosts are real or projections of the narrator's disturbed mind."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice A inserts a semicolon, correctly separating the two independent clauses and preserving the logical relationship between the narrator's unverifiable report and the reader's interpretive task. Choice B reproduces the original error. Choice C converts the second clause into a participial phrase ('leaving the reader'), which is grammatically acceptable but positions the reader's interpretive role as a mere byproduct of the narrator's action; the passage treats this role as an independent consequence, making the full independent clause in Choice A the more precise construction. Choice D inserts 'however,' which implies a contrast between the narrator's report and the reader's task—a relationship the passage does not establish."
+}

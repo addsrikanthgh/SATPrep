@@ -1,0 +1,16 @@
+{
+  "id": "q_1025",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A public health researcher tracked hospitalization outcomes among 10,000 confirmed COVID-19 cases over six months, grouped by vaccination status. Hospitalization rates were: unvaccinated (6,200 cases), 15.0%; partially vaccinated—one dose (1,800 cases), 7.0%; fully vaccinated—two doses (1,600 cases), 4.0%; and boosted—three or more doses (400 cases), 2.0%. The researcher concluded that vaccination significantly reduces hospitalization risk and that each additional dose is associated with a progressively lower hospitalization rate.",
+  "question": "Which choice most effectively uses data from the study to support the researcher's conclusion?",
+  "choices": {
+    "A": "Unvaccinated patients had 931 hospitalizations compared to only 8 among boosted patients, demonstrating a large absolute difference in total hospitalizations across the two groups.",
+    "B": "The hospitalization rate declined with each successive vaccination tier—from 15.0% among unvaccinated patients to 7.0%, 4.0%, and 2.0% across the partially vaccinated, fully vaccinated, and boosted groups—a more than sevenfold reduction from the unvaccinated to the boosted rate.",
+    "C": "Fully vaccinated patients had a hospitalization rate of 4.0% compared to 15.0% for unvaccinated patients, suggesting that completing a two-dose course substantially reduces hospitalization risk.",
+    "D": "Unvaccinated patients accounted for 6,200 of the 10,000 cases, representing the largest group in the study."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher's conclusion has two parts: vaccination reduces hospitalization risk AND each additional dose is associated with a lower rate. Choice B supports both by tracing the stepwise decline across all four vaccination tiers (15.0% → 7.0% → 4.0% → 2.0%) and quantifying the total reduction. Choice A compares raw hospitalization counts rather than rates, which is misleading given the groups' very different sizes. Choice C compares only two groups (unvaccinated vs. fully vaccinated), supporting the first part but not demonstrating the dose-dependent effect across all four tiers. Choice D discusses case counts rather than hospitalization rates, and addresses none of the researcher's conclusions."
+}

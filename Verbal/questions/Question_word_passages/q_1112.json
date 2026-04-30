@@ -1,0 +1,16 @@
+{
+  "id": "q_1112",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Head coach Rivera and assistant coach Thompson had collaborated on offensive scheme design throughout the championship season. After the team's loss in the conference finals, he accepted full responsibility in the post-game press conference, stating that the play-calling in the fourth quarter had been flawed.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Rivera",
+    "B": "Thompson",
+    "C": "the head coach",
+    "D": "No change; 'he' refers to the head coach, who bears ultimate responsibility by convention"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Rivera and Thompson are male, so 'he' could refer to either. While head coaches conventionally bear responsibility, the passage describes a shared collaboration and the pronoun is genuinely ambiguous at the grammatical level. Choice A names Rivera explicitly. Choice C uses 'the head coach,' a description that identifies Rivera but introduces a label not used in the passage. Choice D incorrectly treats an assumed organizational convention as sufficient to resolve a grammatical ambiguity within formal written English."
+}

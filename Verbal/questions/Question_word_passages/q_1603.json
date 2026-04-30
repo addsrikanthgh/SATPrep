@@ -1,0 +1,16 @@
+{
+  "id": "q_1603",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "For decades, the conventional wisdom in behavioral economics held that people are reliably averse to losses: losing $100 feels roughly twice as painful as gaining $100 feels pleasant. Recent studies, however, have complicated this picture, suggesting that loss aversion is more variable than previously thought—highly context-dependent and sensitive to factors such as cultural background, prior wealth, and whether the decision involves money or non-monetary goods.",
+  "question": "As used in the passage, 'averse' most nearly means",
+  "choices": {
+    "A": "indifferent",
+    "B": "attracted",
+    "C": "strongly opposed",
+    "D": "occasionally inclined"
+  },
+  "correct_answer": "C",
+  "explanation": "In context, people are described as 'reliably averse to losses,' meaning they strongly dislike or are opposed to experiencing losses. 'Loss aversion' is a well-established term in economics meaning a strong psychological resistance to losing. Choice C, 'strongly opposed,' captures this: being averse to something means having a strong disinclination or resistance toward it. Choice A ('indifferent') is the opposite—indifference implies no strong feeling, while 'averse' implies a strong negative feeling. Choice B ('attracted') is the opposite of 'averse.' Choice D ('occasionally inclined') is both weak and directionally incorrect—'averse' is a strong and consistent negative disposition."
+}

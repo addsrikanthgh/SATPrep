@@ -1,0 +1,16 @@
+{
+  "id": "q_1301",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The series of workshops on financial literacy, offered free of charge to residents of the city's lowest-income neighborhoods, have attracted more than five hundred participants in its first year. Organizers plan to expand the program to additional neighborhoods next year.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The series of workshops on financial literacy, offered free of charge to residents of the city's lowest-income neighborhoods, has attracted more than five hundred participants in its first year.",
+    "B": "The series of workshops on financial literacy, offered free of charge to city residents, have attracted more than five hundred participants.",
+    "C": "A series of workshops on financial literacy, offered free of charge to city residents, have attracted more than five hundred participants in their first year.",
+    "D": "No change; 'have attracted' correctly agrees with 'workshops,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The series,' a singular noun. Like 'species,' 'series' is the same in both singular and plural form, but here it is used in the singular sense (one coordinated series of workshops). The participial phrase 'offered free of charge to residents of the city's lowest-income neighborhoods' is a modifier and does not change the subject's number. The singular verb 'has attracted' is required. Choice A uses 'has attracted.' Choice B preserves 'have attracted.' Choice C changes 'The series' to 'A series' and uses 'have attracted'—'a series of' typically takes a singular verb, making this also wrong. Choice D incorrectly applies proximity agreement."
+}

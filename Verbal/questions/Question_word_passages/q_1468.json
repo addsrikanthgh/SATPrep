@@ -1,0 +1,16 @@
+{
+  "id": "q_1468",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The wildfire destroyed nearly four hundred acres of old-growth forest before firefighters contained it, the damage to the watershed was expected to affect downstream communities for years. Officials called it the worst fire in the county's recorded history.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The wildfire destroyed nearly four hundred acres of old-growth forest before firefighters contained it; the damage to the watershed was expected to affect downstream communities for years.",
+    "B": "The wildfire destroyed nearly four hundred acres of old-growth forest before firefighters contained it the damage to the watershed was expected to affect downstream communities for years.",
+    "C": "The wildfire destroyed nearly four hundred acres of old-growth forest before firefighters contained it: the damage to the watershed was expected to affect downstream communities for years.",
+    "D": "No change; 'the damage to the watershed' is a noun phrase that follows naturally after a comma."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The wildfire destroyed nearly four hundred acres of old-growth forest before firefighters contained it' and 'the damage to the watershed was expected to affect downstream communities for years' are both complete independent clauses. Choice A correctly uses a semicolon. Choice B creates a fused sentence. Choice C uses a colon—the second clause describes a consequence of the fire rather than directly explaining a term from the first clause; a semicolon is more appropriate. Choice D is incorrect—'the damage to the watershed was expected to affect downstream communities' is a complete independent clause with a full subject and predicate."
+}

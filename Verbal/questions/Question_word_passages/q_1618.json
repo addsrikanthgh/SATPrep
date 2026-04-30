@@ -1,0 +1,16 @@
+{
+  "id": "q_1618",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Many people assume that the ideal way to learn a new skill is to practice it in as realistic a context as possible from the beginning. Research on skill acquisition challenges this assumption. Studies show that highly variable practice—in which learners practice a skill under many different conditions—often produces better long-term retention and transfer to new situations than blocked practice, in which one condition is repeated until mastered before moving to the next. The initial performance of variable-practice learners may be worse, but their eventual mastery tends to be more robust.",
+  "question": "Which choice best describes the function of the last sentence in the text?",
+  "choices": {
+    "A": "It introduces a new argument that contradicts the main claim of the text.",
+    "B": "It acknowledges a potential objection to the main claim by noting a short-term disadvantage of variable practice, while reinforcing the long-term benefit.",
+    "C": "It summarizes the key finding of the studies cited in the previous sentence.",
+    "D": "It describes a limitation of the research that should make readers skeptical of the conclusion."
+  },
+  "correct_answer": "B",
+  "explanation": "The last sentence reads: 'The initial performance of variable-practice learners may be worse, but their eventual mastery tends to be more robust.' The sentence has two parts joined by 'but.' The first part ('initial performance may be worse') acknowledges what could be seen as a disadvantage or objection—a reader might reasonably ask, 'If variable practice is better, why do those learners perform worse at first?' The 'but' pivots to reinforce the main claim: long-term mastery is more robust. This structure acknowledges and counters a potential objection. Choice A is incorrect because the sentence supports, not contradicts, the main claim. Choice C is incorrect because the last sentence adds a new concession-and-reinforcement point, not a summary of what came before. Choice D is incorrect because the 'worse initial performance' is framed as a short-term tradeoff, not a reason to distrust the research."
+}

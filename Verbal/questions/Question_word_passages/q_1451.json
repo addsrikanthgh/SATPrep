@@ -1,0 +1,16 @@
+{
+  "id": "q_1451",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The energy company's decision to decommission its three oldest coal-fired plants drew praise from environmental groups it also drew fierce opposition from the communities built around those plants, where thousands of workers faced unemployment with few immediate alternatives.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The energy company's decision to decommission its three oldest coal-fired plants drew praise from environmental groups; it also drew fierce opposition from the communities built around those plants, where thousands of workers faced unemployment with few immediate alternatives.",
+    "B": "The energy company's decision to decommission its three oldest coal-fired plants drew praise from environmental groups, it also drew fierce opposition from the communities built around those plants, where thousands of workers faced unemployment.",
+    "C": "The energy company's decision to decommission its three oldest coal-fired plants drew praise from environmental groups but also fierce opposition from the communities built around those plants, where thousands of workers faced unemployment with few immediate alternatives.",
+    "D": "The energy company's decision to decommission its three oldest coal-fired plants, drawing praise from environmental groups, it also drew fierce opposition from communities where thousands of workers faced unemployment."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'The energy company's decision...drew praise from environmental groups' and 'it also drew fierce opposition from the communities built around those plants' are both complete independent clauses. Choice A uses a semicolon to correctly separate them—the semicolon highlights the irony of the decision receiving both praise and opposition. Choice B creates a comma splice. Choice C merges the two clauses into a single clause with a compound predicate by changing 'it also drew' to 'but also fierce opposition'—a valid fix but a more significant structural change. Choice D creates an incoherent sentence with a dangling participial phrase."
+}

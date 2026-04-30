@@ -1,0 +1,16 @@
+{
+  "id": "q_1113",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The multinational consumer goods corporation announced its intention to divest three underperforming business units as part of a strategic refocusing on its core portfolio. By the end of the fiscal year, they had completed two of the three divestitures ahead of schedule.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the buyers",
+    "B": "it",
+    "C": "corporate executives",
+    "D": "No change; 'they' refers to the corporation's leadership team"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The multinational consumer goods corporation' is singular, confirmed by 'its intention' and 'its core portfolio.' The second sentence uses the plural 'they,' creating a mismatch. Choice B replaces 'they' with 'it.' Choice A introduces 'the buyers,' reversing the logical subject of the divestiture actions. Choice C introduces a new noun phrase not established in the passage. Choice D incorrectly treats implied executives as the grammatical antecedent; the stated antecedent is the singular corporation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1655",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Early adopters of electric vehicles (EVs) were primarily motivated by environmental concerns. ______ market research indicates that the fastest-growing segment of new EV buyers is motivated primarily by the lower operating costs—cheaper fuel and reduced maintenance—relative to gasoline-powered vehicles.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Therefore,",
+    "B": "More recently,",
+    "C": "Similarly,",
+    "D": "In particular,"
+  },
+  "correct_answer": "B",
+  "explanation": "'More recently' is correct because the two sentences describe different time periods: early adopters (past) were motivated by environmental concerns, while the current fastest-growing segment is motivated by economics. 'More recently' signals a temporal shift to a later or current period and implicitly signals a contrast in motivation. Choice A ('Therefore') signals that lower operating costs are a logical consequence of early adoption by environmentalists, which is not the logical relationship here. Choice C ('Similarly') signals parallel information—that more recent buyers are also motivated by environmental concerns—which directly contradicts the second sentence's content (economic motivation). Choice D ('In particular') signals that the second sentence is a specific subset of the first sentence's claim, which is not the relationship: the recent buyers are a different group with different motivations."
+}

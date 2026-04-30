@@ -1,0 +1,16 @@
+{
+  "id": "q_1554",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An agricultural scientist studied crop yields (in metric tons per hectare) for three grain varieties under four irrigation levels.\n\n| Irrigation Level (mm/season) | Variety Alpha | Variety Beta | Variety Gamma |\n|---|---|---|---|\n| 200 | 2.4 | 1.8 | 3.1 |\n| 400 | 3.6 | 3.2 | 3.9 |\n| 600 | 4.8 | 4.7 | 4.2 |\n| 800 | 5.1 | 5.3 | 4.3 |\n\nThe scientist hypothesized that Variety Gamma would outperform the other varieties across all irrigation levels due to its drought-resistant genetics.",
+  "question": "Which observation most directly undermines the scientist's hypothesis?",
+  "choices": {
+    "A": "Variety Gamma yields 4.3 metric tons per hectare at 800 mm irrigation, which is less than both Variety Alpha (5.1) and Variety Beta (5.3) at the same irrigation level.",
+    "B": "Variety Gamma has the highest yield at the lowest irrigation level (3.1 at 200 mm), which suggests it performs best under limited water.",
+    "C": "Variety Alpha shows consistent improvement as irrigation increases.",
+    "D": "Variety Beta's yield at 800 mm irrigation (5.3) is the highest single value in the table."
+  },
+  "correct_answer": "A",
+  "explanation": "The scientist's hypothesis is that Variety Gamma would outperform the others 'across all irrigation levels.' To undermine this, the best evidence shows Gamma failing to outperform at one or more levels. Choice A does this precisely: at the highest irrigation level (800 mm), Gamma (4.3) falls below both Alpha (5.1) and Beta (5.3). This directly contradicts the 'across all levels' claim—Gamma does not universally dominate. Choice B actually supports the hypothesis by pointing to Gamma's advantage at low irrigation. Choice C addresses Variety Alpha's growth pattern, not Gamma's comparative performance. Choice D notes Beta's peak value but doesn't frame it as a challenge to the hypothesis about Gamma outperforming across all levels."
+}

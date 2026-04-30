@@ -1,0 +1,16 @@
+{
+  "id": "q_1021",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A microbiologist investigating E. coli growth rates documented colony counts after 24-hour incubations at six temperatures. The results were as follows: at 20°C, 1.2 × 10⁶ CFU/mL; at 25°C, 2.8 × 10⁶ CFU/mL; at 30°C, 5.4 × 10⁶ CFU/mL; at 37°C, 9.1 × 10⁶ CFU/mL; at 42°C, 3.7 × 10⁶ CFU/mL; and at 50°C, 0.4 × 10⁶ CFU/mL. The researcher concluded that bacterial growth rates increase as temperature rises toward an optimal point before declining sharply at higher temperatures.",
+  "question": "Which choice most effectively uses data from the study to support the researcher's conclusion?",
+  "choices": {
+    "A": "The colony count at 37°C was 9.1 × 10⁶ CFU/mL—the highest recorded—while counts at 42°C and 50°C fell sharply to 3.7 and 0.4 × 10⁶ CFU/mL respectively, and counts at lower temperatures rose steadily from 1.2 × 10⁶ CFU/mL at 20°C to 9.1 × 10⁶ CFU/mL at 37°C.",
+    "B": "The colony count at 20°C was only 1.2 × 10⁶ CFU/mL, demonstrating that bacterial growth is minimal at low temperatures.",
+    "C": "The colony count at 50°C was 0.4 × 10⁶ CFU/mL, confirming that extreme heat nearly eliminates bacterial growth.",
+    "D": "Colony counts increased from 1.2 × 10⁶ CFU/mL at 20°C to 2.8 × 10⁶ CFU/mL at 25°C, demonstrating steady growth across all temperature conditions."
+  },
+  "correct_answer": "A",
+  "explanation": "The researcher's conclusion has two parts: growth increases toward an optimal point AND then declines sharply at higher temperatures. Choice A is the only option that captures both parts—it establishes the rising trend from 20°C to 37°C and the subsequent sharp decline at 42°C and 50°C. Choice B only addresses low-temperature minimal growth. Choice C only describes the extreme-heat decline. Choice D misrepresents the data by claiming 'steady growth across all temperatures,' which is contradicted by the decline above 37°C."
+}

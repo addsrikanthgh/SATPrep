@@ -1,0 +1,16 @@
+{
+  "id": "q_1438",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The library's rare books collection contains over four thousand volumes, some of the most prized items are a first-edition folio of Shakespeare's plays, a handwritten letter by Benjamin Franklin, and an illustrated manuscript from the twelfth century.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The library's rare books collection contains over four thousand volumes; some of the most prized items are a first-edition folio of Shakespeare's plays, a handwritten letter by Benjamin Franklin, and an illustrated manuscript from the twelfth century.",
+    "B": "The library's rare books collection contains over four thousand volumes: some of the most prized items are a first-edition folio of Shakespeare's plays, a handwritten letter by Benjamin Franklin, and an illustrated manuscript from the twelfth century.",
+    "C": "The library's rare books collection contains over four thousand volumes some of the most prized items are a first-edition folio of Shakespeare's plays, a handwritten letter by Benjamin Franklin, and an illustrated manuscript from the twelfth century.",
+    "D": "No change; the comma after 'volumes' is correct because the second clause elaborates on the contents of the collection."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage contains a comma splice—two independent clauses joined by only a comma. 'The library's rare books collection contains over four thousand volumes' is a complete independent clause, and 'some of the most prized items are a first-edition folio...' is a second complete independent clause that specifies what the collection includes. A colon is the best choice here because the second clause directly elaborates on the first by providing specific examples of the collection mentioned. Choice B uses a colon. Choice A uses a semicolon—grammatically correct, but the colon better signals the explanatory/enumerating relationship. Choice C creates a fused sentence. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1630",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The spread of social media has fundamentally democratized public discourse. For most of human history, the ability to address a large audience was restricted to those with institutional resources—publishers, broadcasters, newspaper owners. Social media platforms have dissolved this barrier: anyone with a smartphone can now reach millions. Whatever concerns one might have about the quality of online discourse, this widening of access represents a genuine and historically unprecedented expansion of free expression.\n\nText 2: The claim that social media has democratized discourse mistakes access for power. While it is true that anyone can post content, the platforms' algorithmic systems heavily favor content that generates high engagement—typically outrage, conflict, and sensationalism. Well-resourced individuals and organizations can purchase amplification. The result is that the most consequential voices on social media are, once again, those with money and institutional backing.",
+  "question": "Which statement best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 1 and Text 2 agree that social media has changed public discourse but disagree about whether that change has been beneficial.",
+    "B": "Text 1 makes a broad claim about social media's democratizing effect, and Text 2 argues that the factual premise of that claim is false.",
+    "C": "Text 1 celebrates expanded access to social media as democratizing, while Text 2 challenges whether formal access translates into meaningful equal influence.",
+    "D": "Text 2 provides empirical data that directly refutes the statistics cited in Text 1."
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1's argument is built on access: anyone can now reach millions, and this is a genuine expansion of free expression. Text 2 concedes the access point ('it is true that anyone can post content') but argues it doesn't translate into equal influence because algorithms favor engagement-maximizing content and money buys amplification. Text 2 doesn't deny that access has widened; it challenges whether access equals power. This is precisely what Choice C states. Choice A says they agree social media has changed discourse—this is plausible—but the main disagreement is not about beneficial vs. harmful change; it's about whether the change is truly 'democratic.' Choice B says Text 2 argues the factual premise is false, but Text 2 actually concedes the access premise and challenges its meaning. Choice D is incorrect; neither text cites statistics, and Text 2 doesn't refute specific data from Text 1."
+}

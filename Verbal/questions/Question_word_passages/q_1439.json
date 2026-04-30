@@ -1,0 +1,16 @@
+{
+  "id": "q_1439",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Ecologists studying the coral reefs of the Indo-Pacific have documented a troubling pattern, bleaching events that once occurred once every twenty-five to thirty years now occur every five to six years on average, leaving the reefs insufficient time to recover between episodes.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "Ecologists studying the coral reefs of the Indo-Pacific have documented a troubling pattern: bleaching events that once occurred every twenty-five to thirty years now occur every five to six years on average, leaving the reefs insufficient time to recover between episodes.",
+    "B": "Ecologists studying the coral reefs of the Indo-Pacific have documented a troubling pattern bleaching events that once occurred every twenty-five to thirty years now occur every five to six years, leaving the reefs insufficient time to recover.",
+    "C": "Ecologists studying the coral reefs of the Indo-Pacific have documented a troubling pattern; bleaching events that once occurred every twenty-five to thirty years now occur every five to six years on average.",
+    "D": "No change; the comma after 'troubling pattern' is correct because it introduces a relative clause that defines the pattern."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a comma splice—two independent clauses joined by only a comma. 'Ecologists...have documented a troubling pattern' is a complete independent clause, and 'bleaching events that once occurred once every twenty-five to thirty years now occur every five to six years on average' is a second complete independent clause. The first clause ends with 'pattern,' which is a noun that the second clause directly defines. A colon is the best punctuation here because it introduces an explanation or definition of the 'troubling pattern' identified in the first clause. Choice A uses a colon. Choice B creates a fused sentence. Choice C uses a semicolon and omits the participial phrase. Choice D incorrectly defends the comma splice."
+}

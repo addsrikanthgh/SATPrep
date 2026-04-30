@@ -1,0 +1,16 @@
+{
+  "id": "q_1531",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The concept of 'structural racism' holds that racial inequality is perpetuated not primarily by the explicit prejudice of individuals but by policies, institutional practices, and social norms that produce racially disparate outcomes even in the absence of discriminatory intent. Housing policy provides a canonical example: the federal government's Home Owners' Loan Corporation in the 1930s systematically denied mortgage guarantees to neighborhoods with Black residents—a practice known as 'redlining'—which prevented generations of Black families from building home equity and wealth. Although redlining was outlawed decades ago, its wealth effects have compounded over generations through inheritance and neighborhood investment patterns. Understanding contemporary racial wealth gaps, advocates argue, requires tracing this historical chain of cause and effect rather than treating present-day disparities as reflecting individual choices alone.",
+  "question": "What is the primary function of the third sentence ('Although redlining was outlawed...') in the passage?",
+  "choices": {
+    "A": "To argue that contemporary racial wealth gaps have been fully addressed by the outlawing of redlining",
+    "B": "To explain how a historically outlawed practice continues to produce effects in the present through compounding wealth mechanisms",
+    "C": "To introduce the legal definition of redlining",
+    "D": "To describe the role of the Home Owners' Loan Corporation in the modern economy"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence describes redlining as a historical discriminatory practice that blocked Black families from building wealth. The third sentence acknowledges that redlining is now illegal ('although outlawed') but argues its effects persist through compounding wealth and neighborhood investment patterns. This is the key mechanism linking the historical practice to contemporary disparity—the past injustice has a present-day financial shadow. Choice A is the opposite of the third sentence's claim; it argues that effects persist despite the law change. Choice C is incorrect—redlining is described in the second sentence; the third sentence does not provide a legal definition. Choice D is incorrect—the Home Owners' Loan Corporation is mentioned in the second sentence as a historical actor; the third sentence concerns ongoing effects, not the HOLC's current role."
+}

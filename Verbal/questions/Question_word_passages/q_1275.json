@@ -1,0 +1,16 @@
+{
+  "id": "q_1275",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The statistics on childhood obesity in rural versus urban populations, as reported by the Centers for Disease Control and Prevention, paints a complex picture that defies simple explanations. Researchers caution against drawing broad policy conclusions without accounting for local socioeconomic factors.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The statistics on childhood obesity in rural versus urban populations, as reported by the Centers for Disease Control and Prevention, paint a complex picture that defies simple explanations.",
+    "B": "The statistic on childhood obesity in rural versus urban populations, as reported by the CDC, paints a complex picture that defies simple explanations.",
+    "C": "The statistics on childhood obesity in rural versus urban populations, as reported by the CDC, has painted a complex picture that defies simple explanations.",
+    "D": "No change; 'statistics' is a singular academic discipline noun that takes a singular verb"
+  },
+  "correct_answer": "A",
+  "explanation": "In this sentence, 'statistics' refers to a set of data points (plural), not the academic discipline. When 'statistics' means specific data or figures, it takes a plural verb. Therefore, the plural verb 'paint' is required. Choice A uses 'paint.' Choice B changes 'statistics' to the singular 'statistic,' which changes the meaning. Choice C uses 'has painted,' a singular present perfect form—wrong in number. Choice D incorrectly argues 'statistics' is always singular; it is singular only when referring to the academic field ('Statistics is a branch of mathematics'), not when referring to data."
+}

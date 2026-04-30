@@ -1,0 +1,16 @@
+{
+  "id": "q_1338",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The report detailed the company's environmental violations, these included improper disposal of chemical waste, unauthorized emissions, and failure to maintain required buffer zones near residential areas. Regulators proposed fines totaling twelve million dollars.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The report detailed the company's environmental violations, which included improper disposal of chemical waste, unauthorized emissions, and failure to maintain required buffer zones near residential areas.",
+    "B": "The report detailed the company's environmental violations; including improper disposal of chemical waste, unauthorized emissions, and failure to maintain required buffer zones.",
+    "C": "The report detailed the company's environmental violations, these included improper disposal of chemical waste, unauthorized emissions, and failure to maintain buffer zones.",
+    "D": "No change; using 'these' to introduce a clarifying list is an acceptable sentence structure."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice—two independent clauses ('The report detailed the company's environmental violations' and 'these included improper disposal of chemical waste, unauthorized emissions, and failure to maintain required buffer zones near residential areas') are joined by only a comma. Using a relative pronoun 'which' to replace 'these' converts the second clause into a relative clause modifying 'violations'—this is a clean, grammatically correct fix. Choice A uses 'which included.' Choice B converts the second part into a fragment starting with 'including'—a participial phrase with no independent clause to attach to. Choice C preserves the comma splice unchanged. Choice D incorrectly defends the comma splice."
+}

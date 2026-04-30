@@ -1,0 +1,16 @@
+{
+  "id": "q_1224",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The philosophy professor asked students who had completed the assigned readings to respond to the discussion prompt thoughtfully. She noted that shallow or formulaic responses would not receive full participation credit.",
+  "question": "The word 'thoughtfully' in the first sentence creates ambiguity. Which choice most clearly conveys that the response should be thoughtful?",
+  "choices": {
+    "A": "The philosophy professor asked students who had completed the assigned readings to thoughtfully respond to the discussion prompt.",
+    "B": "The philosophy professor thoughtfully asked students who had completed the assigned readings to respond to the discussion prompt.",
+    "C": "The philosophy professor asked thoughtfully completing students to respond to the discussion prompt.",
+    "D": "No change; 'thoughtfully' at the end of the clause clearly modifies 'respond' because thoughtfulness is a quality of response, not of asking"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'thoughtfully' appears at the end of the sentence and could modify 'respond to the discussion prompt' (respond thoughtfully) or 'asked…thoughtfully' (the professor asked thoughtfully). Choice A places 'thoughtfully' immediately before 'respond,' making it clear that students should craft thoughtful responses. Choice B places 'thoughtfully' before 'asked,' implying the professor thought carefully about how to issue the request. Choice C inserts 'thoughtfully' before 'completing,' creating 'thoughtfully completing students,' an incoherent phrase. Choice D incorrectly argues that pragmatic context resolves grammatical ambiguity."
+}

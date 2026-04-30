@@ -1,0 +1,16 @@
+{
+  "id": "q_1336",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The novelist's early manuscripts, stored in a waterproof box under the floorboards of her childhood home for more than thirty years, were discovered during renovations, they had been written in a distinctive purple ink that her editor immediately recognized.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The novelist's early manuscripts, stored in a waterproof box under the floorboards of her childhood home for more than thirty years, were discovered during renovations; they had been written in a distinctive purple ink that her editor immediately recognized.",
+    "B": "The novelist's early manuscripts, stored in a waterproof box under the floorboards of her childhood home for more than thirty years, were discovered during renovations, written in a distinctive purple ink that her editor immediately recognized.",
+    "C": "The novelist's early manuscripts were discovered during renovations, they had been stored for thirty years and written in purple ink.",
+    "D": "No change; a comma appropriately connects a main clause and a clause that provides additional detail."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice—two independent clauses are joined by only a comma. The second independent clause 'they had been written in a distinctive purple ink that her editor immediately recognized' requires stronger punctuation. A semicolon correctly joins the two related independent clauses. Choice A uses a semicolon. Choice B converts the second clause into a participial phrase ('written in a distinctive purple ink...'), which is grammatically correct but somewhat changes the emphasis—it implies the manuscripts were being discovered in the act of being written. Choice C simplifies but still uses a comma splice. Choice D incorrectly defends the comma splice."
+}

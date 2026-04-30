@@ -1,0 +1,16 @@
+{
+  "id": "q_1155",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Trained in classical ballet from the age of five, the choreography for the new production was developed by Alicia Vega over eighteen months of collaboration with the company's principal dancers. Critics praised the work's seamless integration of contemporary movement vocabulary with classical technique.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Trained in classical ballet from the age of five, Alicia Vega developed the choreography for the new production over eighteen months of collaboration with the company's principal dancers.",
+    "B": "The choreography, trained in classical ballet from the age of five, was developed by Alicia Vega.",
+    "C": "Having been developed by Alicia Vega, who was trained in classical ballet from the age of five, the choreography emerged.",
+    "D": "No change; 'trained in classical ballet' modifies Alicia Vega, who is named in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Trained in classical ballet from the age of five' describes Alicia Vega, a person who was trained. As written, the subject of the main clause is 'the choreography,' implying the choreography was trained in ballet. Choice A correctly places Alicia Vega as the subject, immediately following the participial phrase that describes her. Choice B places the participial phrase next to 'the choreography' as an appositive, creating the same logical error. Choice C restructures awkwardly with passive voice and embedded relative clause. Choice D incorrectly argues that naming a person elsewhere in the sentence satisfies the requirement that a participial phrase modify the subject."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1560",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A demographer studied annual birth rates (births per 1,000 population) in five regions and compared them to the average years of schooling among women aged 20–39 in each region.\n\n| Region | Avg. Years of Women's Schooling | Birth Rate (per 1,000) |\n|---|---|---|\n| Region A | 4.2 | 38 |\n| Region B | 7.8 | 27 |\n| Region C | 11.4 | 18 |\n| Region D | 9.1 | 22 |\n| Region E | 6.0 | 31 |\n\nThe demographer concluded that women's educational attainment is inversely related to birth rates.",
+  "question": "Which finding from the data best supports the demographer's conclusion?",
+  "choices": {
+    "A": "Region A has both the fewest average years of schooling (4.2) and the highest birth rate (38 per 1,000), while Region C has the most schooling (11.4 years) and the lowest birth rate (18 per 1,000).",
+    "B": "Region C has the highest average years of schooling among all five regions.",
+    "C": "Regions B, C, D, and E all have higher average years of schooling than Region A.",
+    "D": "The birth rate in Region A is more than twice the birth rate in Region C."
+  },
+  "correct_answer": "A",
+  "explanation": "The demographer's conclusion is an inverse relationship: higher women's education corresponds to lower birth rates. To most directly support an inverse relationship, the ideal evidence shows both the high-education/low-birth-rate and low-education/high-birth-rate extremes simultaneously. Choice A does exactly that—it identifies both extremes (Region A with the least schooling and highest birth rate; Region C with the most schooling and lowest birth rate) in a single comparison, directly illustrating the inverse relationship. Choice B identifies only one data point for education without mentioning birth rates. Choice C notes that four regions have more schooling than Region A but doesn't relate education to birth rates. Choice D compares only birth rates without connecting them to education levels."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1017",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "CRISPR-Cas9 has transformed genetic research by allowing scientists to edit DNA sequences with unprecedented speed and precision. *The system works by using a guide RNA to direct the Cas9 protein to a specific DNA location the protein then cuts the DNA strand, allowing researchers to delete, repair, or insert genetic material.* Since its adaptation for use in eukaryotic cells, CRISPR has been applied to disease-resistant crops and potential treatments for inherited disorders.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "The system works by using a guide RNA to direct the Cas9 protein to a specific DNA location; the protein then cuts the DNA strand, allowing researchers to delete, repair, or insert genetic material.",
+    "B": "The system works by using a guide RNA to direct the Cas9 protein to a specific DNA location, the protein then cuts the DNA strand, allowing researchers to delete, repair, or insert genetic material.",
+    "C": "The system works by using a guide RNA to direct the Cas9 protein to a specific DNA location the protein then cuts the DNA strand, allowing researchers to delete, repair, or insert genetic material.",
+    "D": "The system works by using a guide RNA to direct the Cas9 protein to a specific DNA location, and cutting the DNA strand, allowing researchers to delete, repair, or insert genetic material."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence is a fused sentence—two independent clauses run together without any punctuation. Choice A inserts a semicolon to correctly separate the two clauses describing sequential steps of the mechanism. Choice B creates a comma splice. Choice C reproduces the original fused sentence. Choice D replaces the second independent clause with a participial phrase ('and cutting'), removing the subject 'the protein'; this implies the system as a whole performs the cutting rather than the Cas9 protein specifically, obscuring the mechanistic detail the passage presents."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1281",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The number of applicants who meet the minimum qualifications for the advanced research fellowship have grown substantially over the past three years, reflecting an increase in doctoral graduates in STEM fields. Selection committees must now choose among a much larger and more qualified applicant pool.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The number of applicants who meet the minimum qualifications for the advanced research fellowship has grown substantially over the past three years.",
+    "B": "A number of applicants who meet the minimum qualifications for the advanced research fellowship have grown substantially over the past three years.",
+    "C": "The number of applicants who meets the minimum qualifications for the advanced research fellowship have grown substantially.",
+    "D": "No change; 'have grown' correctly agrees with 'applicants,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'the number of' is always singular and takes a singular verb—it refers to the count itself. This is distinct from 'a number of,' which is idiomatic for 'many' and takes a plural verb. Here, the subject is 'The number,' so the verb must be 'has grown.' Choice A correctly uses 'has grown.' Choice B changes 'The number of' to 'A number of,' which would take a plural verb—but this changes the sentence's meaning and focus. Choice C changes 'meet' to 'meets' in the relative clause (an unnecessary error correction) while keeping the plural 'have grown.' Choice D incorrectly applies proximity agreement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1648",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The city's three largest employers—a hospital network, a regional university, and a manufacturing conglomerate—all announced layoffs in the same quarter ______ raising fears among economists that the local labor market was facing a structural contraction rather than a temporary downturn.",
+  "question": "Which choice completes the text with the most appropriate punctuation?",
+  "choices": {
+    "A": "quarter,",
+    "B": "quarter;",
+    "C": "quarter.",
+    "D": "quarter:"
+  },
+  "correct_answer": "A",
+  "explanation": "A comma is correct here. The phrase 'raising fears among economists that...' is a participial phrase that modifies the preceding independent clause and explains the consequence or result of the layoffs. Participial phrases that follow an independent clause and express a result or consequence are set off with a comma. The structure is: [independent clause], [participial phrase explaining consequence]. Choice B (semicolon) would require what follows to be an independent clause, but 'raising fears...' is a participial phrase, not an independent clause. Choice C (period) would make 'raising fears...' a sentence fragment if it stood alone. Choice D (colon) is used to introduce a list or explanation, but the participial phrase here is a modifier, not a listed item or directly promised elaboration—a colon is incorrect in this position."
+}

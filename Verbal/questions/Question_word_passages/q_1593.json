@@ -1,0 +1,16 @@
+{
+  "id": "q_1593",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Philosopher Peter Singer's utilitarian argument for radical redistribution of wealth has challenged many readers' intuitions about the limits of moral obligation. Singer argues that if we can prevent something bad from happening—such as a child dying from a preventable disease—without sacrificing anything of comparable moral significance, we are morally required to do it. Applied globally, this reasoning implies that affluent individuals in wealthy countries are morally required to give away most of their wealth to effective charities, to the point where further giving would impose significant harm on themselves. Singer acknowledges that this conclusion seems demanding but argues that 'demandingness' is not a valid objection if the reasoning is correct: morality may require more of us than is comfortable. Critics have argued that Singer's framework fails to distinguish between positive duties (obligations to help) and negative duties (obligations not to harm), assigning excessive weight to the former. Singer responds that this distinction, while intuitively appealing, lacks a principled justification.",
+  "question": "A student argues that Singer's framework deliberately challenges the commonsense view that we have greater obligations not to harm others than to help them. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"Singer argues that if we can prevent something bad from happening...without sacrificing anything of comparable moral significance, we are morally required to do it.\"",
+    "B": "\"Singer acknowledges that this conclusion seems demanding but argues that 'demandingness' is not a valid objection if the reasoning is correct.\"",
+    "C": "\"Critics have argued that Singer's framework fails to distinguish between positive duties (obligations to help) and negative duties (obligations not to harm), assigning excessive weight to the former.\"",
+    "D": "\"Singer responds that this distinction, while intuitively appealing, lacks a principled justification.\""
+  },
+  "correct_answer": "D",
+  "explanation": "The student's argument is that Singer deliberately challenges the commonsense view distinguishing positive duties (help) from negative duties (not harm). The commonsense view is that not-harming duties are stronger. Choice D directly captures Singer's challenge to this: he responds that the intuitive distinction between positive and negative duties, 'while intuitively appealing, lacks a principled justification.' By denying that this distinction has principled grounding, Singer is explicitly rejecting the commonsense view the student identifies. Choice A states Singer's main utilitarian principle but doesn't specifically address the positive/negative duty distinction. Choice B discusses the 'demandingness' objection and Singer's response, not the duty distinction. Choice C describes critics' objection (about the positive/negative duty distinction) without presenting Singer's counter-challenge to that commonsense view."
+}

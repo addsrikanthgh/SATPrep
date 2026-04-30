@@ -1,0 +1,16 @@
+{
+  "id": "q_1437",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The semiconductor shortage that began in 2020 disrupted global supply chains across dozens of industries the most visible effects were felt in the automotive sector, where production fell by more than three million vehicles in a single year due to the inability to source critical microchips.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The semiconductor shortage that began in 2020 disrupted global supply chains across dozens of industries; the most visible effects were felt in the automotive sector, where production fell by more than three million vehicles in a single year due to the inability to source critical microchips.",
+    "B": "The semiconductor shortage that began in 2020 disrupted global supply chains across dozens of industries, the most visible effects were felt in the automotive sector, where production fell by more than three million vehicles in a single year.",
+    "C": "The semiconductor shortage that began in 2020 disrupted global supply chains: across dozens of industries the most visible effects were felt in the automotive sector, where production fell by more than three million vehicles.",
+    "D": "The semiconductor shortage, beginning in 2020, disrupted global supply chains across dozens of industries the most visible effects were felt in the automotive sector, where production fell by three million vehicles."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'The semiconductor shortage...disrupted global supply chains across dozens of industries' and 'the most visible effects were felt in the automotive sector, where production fell by more than three million vehicles in a single year' are both complete independent clauses. Choice A correctly uses a semicolon to separate them. The semicolon is especially apt because the second clause specifies where the disruptions described in the first clause were most evident. Choice B creates a comma splice. Choice C places a colon after 'industries' but 'across dozens of industries' is part of the first clause and should not be severed from it. Choice D retains the fused sentence structure."
+}

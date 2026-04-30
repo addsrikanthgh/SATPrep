@@ -1,0 +1,16 @@
+{
+  "id": "q_1384",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The marathon runner crossed the finish line nearly forty minutes after her personal best time, she had struggled with dehydration in the final six miles and nearly withdrew from the race at mile twenty-two. Medics were waiting at the finish line to assess her condition.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The marathon runner crossed the finish line nearly forty minutes after her personal best time; she had struggled with dehydration in the final six miles and nearly withdrew from the race at mile twenty-two.",
+    "B": "The marathon runner crossed the finish line nearly forty minutes after her personal best time, having struggled with dehydration in the final six miles and nearly withdrawing at mile twenty-two.",
+    "C": "The marathon runner, who had struggled with dehydration in the final six miles and nearly withdrew at mile twenty-two, crossed the finish line nearly forty minutes after her personal best time.",
+    "D": "No change; the comma separates two closely related observations about the same runner and is correct."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses ('The marathon runner crossed the finish line nearly forty minutes after her personal best time' and 'she had struggled with dehydration in the final six miles and nearly withdrew from the race at mile twenty-two') are joined by only a comma. Choice A uses a semicolon to correctly join the two related independent clauses. Choice B converts the second clause into a participial phrase ('having struggled with dehydration...'), which is also grammatically correct. Choice C restructures the sentence with a relative clause. Choice A makes the minimal structural change. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1617",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "In 1905, Albert Einstein published not one but four papers, any one of which would have secured his scientific reputation. The first explained Brownian motion; the second proposed the photon as a quantum of light; the third introduced special relativity; and the fourth derived the equation E = mc². Einstein was then an unknown twenty-six-year-old patent clerk with no academic position. The year is now called Einstein's annus mirabilis—his 'miracle year.'",
+  "question": "What is the primary purpose of this text?",
+  "choices": {
+    "A": "To argue that Einstein's productivity in 1905 resulted from his unusual working conditions as a patent clerk",
+    "B": "To explain the scientific content of Einstein's four 1905 papers in detail",
+    "C": "To highlight the extraordinary achievement of Einstein's 1905 papers and the remarkable circumstances under which they were produced",
+    "D": "To compare Einstein's 1905 publications with those of other physicists working at the same time"
+  },
+  "correct_answer": "C",
+  "explanation": "The text accomplishes two things: it catalogs Einstein's extraordinary scientific output in 1905 (four papers, any one of which would have secured his reputation) and emphasizes the remarkable circumstances (an unknown 26-year-old with no academic position). The concluding phrase 'miracle year' reinforces this sense of wonder. Choice C accurately captures both the achievement and the circumstances. Choice A introduces a causal argument about the patent clerk role that the text does not make—it mentions his job but does not argue it caused his productivity. Choice B is incorrect; the text only names the papers, not their scientific content in detail. Choice D introduces a comparison with other physicists that the text never makes."
+}

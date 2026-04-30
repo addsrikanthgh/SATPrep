@@ -1,0 +1,16 @@
+{
+  "id": "q_1238",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The graduate students studying immunology were advised by their mentor to read the primary literature before consulting review articles exclusively. The mentor emphasized that review articles can sometimes oversimplify or miss recent findings published in specialist journals.",
+  "question": "The word 'exclusively' in the first sentence creates ambiguity. Which choice most clearly conveys that students should read primary literature exclusively (not review articles) first?",
+  "choices": {
+    "A": "The graduate students studying immunology were advised by their mentor to read exclusively the primary literature before consulting review articles.",
+    "B": "The graduate students studying immunology were exclusively advised by their mentor to read the primary literature before consulting review articles.",
+    "C": "The exclusively studying graduate students in immunology were advised to read primary literature before review articles.",
+    "D": "No change; 'exclusively' at the end of the clause clearly limits the scope of the instruction to reading primary sources"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'exclusively' follows 'review articles,' where it could modify 'consulting review articles exclusively' (consult only review articles) or 'read the primary literature…exclusively' (read only primary literature). The second sentence confirms the concern is that students might over-rely on review articles—supporting the interpretation that primary literature should be read exclusively first. Choice A places 'exclusively' before 'the primary literature,' unambiguously specifying that primary literature alone should be consulted first. Choice B places 'exclusively' before 'advised,' implying the mentor alone gave this advice. Choice C creates 'exclusively studying graduate students,' an incoherent phrase. Choice D incorrectly accepts trailing placement."
+}

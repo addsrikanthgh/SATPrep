@@ -1,0 +1,16 @@
+{
+  "id": "q_1600",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "Literary critics have long debated whether Don Quixote, Cervantes's seventeenth-century novel, should be read as a parody of chivalric romances or as a more sincere, even affectionate, engagement with them. The novel's dual registers—mockery and celebration—are so seamlessly intertwined that scholars have found it difficult to resolve the question decisively. One view holds that Quixote's delusions, however laughable in their particulars, illuminate something genuine about the human need for idealism.",
+  "question": "As used in the passage, 'registers' most nearly means",
+  "choices": {
+    "A": "official records",
+    "B": "vocal ranges",
+    "C": "emotional or tonal modes",
+    "D": "mechanical indicators"
+  },
+  "correct_answer": "C",
+  "explanation": "In context, the novel's 'dual registers—mockery and celebration' refers to the two coexisting tonal or attitudinal modes in which the novel operates. 'Registers' here is a figurative use meaning distinct modes of expression or tone. Choice C, 'emotional or tonal modes,' captures this: mockery and celebration are two different tones or modes the text employs simultaneously. Choice A refers to an administrative or legal list—inappropriate in a literary context. Choice B refers to vocal pitch ranges in music—not applicable to a novel's overall tone. Choice D refers to a measuring device, also inapplicable."
+}

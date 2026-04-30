@@ -1,0 +1,16 @@
+{
+  "id": "q_1476",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The theater company's spring production sold out every performance for four consecutive weekends, the director attributed the run's success to both the quality of the ensemble cast and the decision to stage the play in the round, which created an unusually intimate audience experience.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The theater company's spring production sold out every performance for four consecutive weekends; the director attributed the run's success to both the quality of the ensemble cast and the decision to stage the play in the round, which created an unusually intimate audience experience.",
+    "B": "The theater company's spring production sold out every performance for four consecutive weekends the director attributed the run's success to both the quality of the ensemble cast and the decision to stage the play in the round.",
+    "C": "The theater company's spring production sold out every performance for four consecutive weekends: the director attributed the run's success to both the quality of the ensemble cast and the decision to stage the play in the round.",
+    "D": "No change; the comma after 'weekends' is acceptable because the second clause explains the success referred to in the first."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a comma splice—two independent clauses joined by only a comma. 'The theater company's spring production sold out every performance for four consecutive weekends' and 'the director attributed the run's success to both the quality of the ensemble cast and the decision to stage the play in the round' are both complete independent clauses. Choice A correctly uses a semicolon to join them. Choice B creates a fused sentence. Choice C uses a colon—the second clause attributes the success rather than directly defining a term in the first clause; a semicolon is more appropriate. Choice D incorrectly defends the comma splice."
+}

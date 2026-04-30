@@ -1,0 +1,16 @@
+{
+  "id": "q_1018",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The abolitionist movement in the United States drew from multiple ideological traditions, including evangelical Christianity, Enlightenment natural rights philosophy, and the testimonies of formerly enslaved people. *Frederick Douglass's autobiographical accounts were particularly powerful, his vivid first-person descriptions of slavery's brutality gave the movement a moral urgency that no abstract philosophical argument could match.* Douglass also argued, controversially for his time, that the Constitution could be interpreted as an antislavery document.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Frederick Douglass's autobiographical accounts were particularly powerful; his vivid first-person descriptions of slavery's brutality gave the movement a moral urgency that no abstract philosophical argument could match.",
+    "B": "Frederick Douglass's autobiographical accounts were particularly powerful, his vivid first-person descriptions of slavery's brutality gave the movement a moral urgency that no abstract philosophical argument could match.",
+    "C": "Frederick Douglass's autobiographical accounts were particularly powerful, and his vivid first-person descriptions of slavery's brutality gave the movement a moral urgency that no abstract philosophical argument could match.",
+    "D": "Frederick Douglass's autobiographical accounts, which were particularly powerful, his vivid first-person descriptions of slavery's brutality gave the movement a moral urgency that no abstract philosophical argument could match."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice A inserts a semicolon, correctly separating the two independent clauses; the semicolon also signals that the second clause explains why the accounts were particularly powerful, accurately reflecting the logical relationship. Choice B reproduces the original error. Choice C inserts 'and,' which is grammatically acceptable but treats the second clause as merely additive; because that clause provides the reason the accounts were powerful, the semicolon in Choice A more precisely conveys the explanatory connection. Choice D converts 'were particularly powerful' into a relative clause while retaining 'his vivid first-person descriptions' as a second subject, leaving the sentence without a main predicate for 'Frederick Douglass's autobiographical accounts.'"
+}

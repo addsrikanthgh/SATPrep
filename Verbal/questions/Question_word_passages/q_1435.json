@@ -1,0 +1,16 @@
+{
+  "id": "q_1435",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The governor signed three major pieces of education legislation in a single week the first overhauled the state's teacher certification requirements, the second increased per-pupil funding for districts below the median income threshold, and the third established a statewide early literacy initiative.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The governor signed three major pieces of education legislation in a single week; the first overhauled the state's teacher certification requirements, the second increased per-pupil funding for districts below the median income threshold, and the third established a statewide early literacy initiative.",
+    "B": "The governor signed three major pieces of education legislation in a single week: the first overhauled the state's teacher certification requirements, the second increased per-pupil funding for districts below the median income threshold, and the third established a statewide early literacy initiative.",
+    "C": "The governor signed three major pieces of education legislation in a single week, the first overhauled the state's teacher certification requirements, the second increased per-pupil funding, and the third established a statewide early literacy initiative.",
+    "D": "The governor signed three major pieces of education legislation in a single week. The first overhauled teacher certification requirements, the second increased per-pupil funding, and the third established a statewide early literacy initiative."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage is a fused sentence—two portions joined without any punctuation. The first portion ('The governor signed three major pieces of education legislation in a single week') sets up a list, and the second portion enumerates the three pieces. A colon is the best choice here because it introduces a list or explanation that directly elaborates on the noun introduced in the first clause—specifically, 'three major pieces of education legislation.' Choice B correctly uses a colon before the enumeration. Choice A uses a semicolon, which is grammatically correct but less precise than a colon for introducing an elaborating list. Choice C creates a comma splice between the setup clause and the list. Choice D uses a period but then begins a run-on list clause."
+}

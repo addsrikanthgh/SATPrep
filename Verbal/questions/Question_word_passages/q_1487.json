@@ -1,0 +1,16 @@
+{
+  "id": "q_1487",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "For most of human history, salt was among the most valuable commodities in the world. Ancient trade routes were built around its distribution, armies were paid in salt—the origin of the word 'salary'—and entire civilizations rose and fell based on access to salt deposits. Today, however, salt is so cheap and abundant that it is considered a trivial seasoning. This reversal in value, from precious resource to pantry staple, mirrors broader patterns in economic history in which technological change destroys the scarcity that once gave a commodity its worth.",
+  "question": "What is the primary function of the third sentence ('Today, however, salt is so cheap...') in the passage?",
+  "choices": {
+    "A": "To explain the technological changes that made salt less scarce",
+    "B": "To establish a contrast with the first two sentences that sets up the broader economic observation in the fourth sentence",
+    "C": "To argue that the modern food industry depends less on salt than previous centuries did",
+    "D": "To provide a definition of the word 'salary'"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences establish salt's extraordinary historical value—trade routes, military pay, civilizational rise and fall. The third sentence uses 'however' to pivot to the present day, where salt is trivial and cheap. This contrast is not the passage's final point; its function is to set up the fourth sentence's broader economic generalization about how technological change destroys the scarcity that creates value. The contrast between past and present is the evidence for the pattern described in the fourth sentence. Choice A is incorrect—the technological explanation is the fourth sentence's domain. Choice C is incorrect—the third sentence does not discuss the food industry. Choice D is incorrect—the word 'salary' is explained in the second sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1575",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "The philosopher Simone Weil argued that genuine attention—a quality she distinguished from mere concentration—was central to moral and spiritual life. For Weil, attention was not the forceful application of will to a problem but rather a receptive, waiting openness: 'Attention consists of suspending our thought, leaving it detached, empty, and ready to be penetrated by the object.' She believed that this form of attention was identical in structure to the love one might direct toward a suffering person, since both required the suspension of self to truly perceive the other. Weil also insisted that the practice of difficult academic subjects, even when students failed to grasp the material, cultivated this attentive capacity—the effort itself, not the solution, was the training. Critics of Weil's view have argued that she romanticizes passive receptivity and neglects the productive role of active, directed thought in solving real-world problems.",
+  "question": "A student argues that Weil's concept of attention emphasizes receptivity over effortful striving. Which quotation from the passage most directly supports this interpretation?",
+  "choices": {
+    "A": "\"[A]ttention was not the forceful application of will to a problem but rather a receptive, waiting openness.\"",
+    "B": "\"[T]he effort itself, not the solution, was the training.\"",
+    "C": "\"[B]oth required the suspension of self to truly perceive the other.\"",
+    "D": "\"[S]he romanticizes passive receptivity and neglects the productive role of active, directed thought.\""
+  },
+  "correct_answer": "A",
+  "explanation": "The student's interpretation is that Weil's concept emphasizes 'receptivity over effortful striving.' Choice A directly contrasts these two modes—it explicitly states that attention is 'not the forceful application of will' (effortful striving) but rather 'a receptive, waiting openness' (receptivity). This contrast between the two modes is precisely the student's claim. Choice B discusses the value of effort in academic study, which could seem to support 'effortful striving' rather than receptivity—it does not directly support the receptivity emphasis. Choice C discusses the suspension of self in relation to perceiving others, which is about the structure of attention, not specifically its receptive quality over striving. Choice D is the critics' view, not Weil's, and using a critical paraphrase to support Weil's position would be a misreading."
+}

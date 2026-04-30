@@ -1,0 +1,16 @@
+{
+  "id": "q_1642",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The committee reviewed three proposals ______ the first focused on infrastructure improvements, the second on workforce development, and the third on environmental sustainability.",
+  "question": "Which choice completes the text with the most appropriate punctuation?",
+  "choices": {
+    "A": "proposals,",
+    "B": "proposals:",
+    "C": "proposals;",
+    "D": "proposals—"
+  },
+  "correct_answer": "B",
+  "explanation": "A colon is the correct choice here because the first clause ('The committee reviewed three proposals') is an independent clause that introduces a list or explanation. A colon signals that what follows is directly promised or anticipated by the introductory clause. Choice A (comma) is incorrect because a comma cannot introduce a list that expands on a complete independent clause in this way. Choice C (semicolon) is incorrect because a semicolon joins two independent clauses of equal weight; it does not introduce a list. Choice D (dash) can sometimes introduce a list for emphasis, but the colon is the standard, formal choice when a complete introductory clause precedes a list or elaboration."
+}

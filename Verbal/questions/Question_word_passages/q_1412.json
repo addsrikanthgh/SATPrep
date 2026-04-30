@@ -1,0 +1,16 @@
+{
+  "id": "q_1412",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The landscape designer incorporated three water features into the central courtyard. Each one carefully positioned to maximize both visual impact and the sound of flowing water as experienced by visitors approaching from the main entrance. The completed courtyard won a regional design award.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The landscape designer incorporated three water features into the central courtyard, each one carefully positioned to maximize both visual impact and the sound of flowing water as experienced by visitors approaching from the main entrance.",
+    "B": "The landscape designer incorporated three water features into the central courtyard; each one carefully positioned to maximize visual impact and the sound of flowing water.",
+    "C": "The landscape designer incorporated three water features into the central courtyard. These were carefully positioned to maximize both visual impact and the sound of flowing water as experienced by visitors approaching from the main entrance.",
+    "D": "No change; 'Each one carefully positioned' is a complete sentence because it has 'each one' as its subject."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Each one carefully positioned to maximize both visual impact and the sound of flowing water as experienced by visitors approaching from the main entrance' is a noun phrase fragment. 'Each one' is the head noun, and 'carefully positioned' is a participial phrase modifying it—there is no main predicate verb. This appositive should be attached to the preceding sentence. Choice A attaches it with a comma. Choice B uses a semicolon before the fragment, which is incorrect. Choice C converts the fragment into a full sentence with 'These were carefully positioned.' Choice D incorrectly claims 'each one' as a subject makes the phrase a complete sentence."
+}

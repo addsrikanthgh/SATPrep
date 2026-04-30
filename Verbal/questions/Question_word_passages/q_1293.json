@@ -1,0 +1,16 @@
+{
+  "id": "q_1293",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Each of the paintings in the newly acquired collection of nineteenth-century French Impressionist works require individual climate-controlled storage conditions to prevent deterioration of the canvas and pigment. Museum conservation staff will assess each piece before installation.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Each of the paintings in the newly acquired collection of nineteenth-century French Impressionist works requires individual climate-controlled storage conditions.",
+    "B": "Each of the paintings in the newly acquired collection of nineteenth-century French Impressionist works require individually climate-controlled storage conditions.",
+    "C": "Every painting in the newly acquired collection of nineteenth-century French Impressionist works require individual climate-controlled storage conditions.",
+    "D": "No change; 'require' correctly agrees with 'paintings,' the plural noun in the prepositional phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'Each,' an indefinite pronoun that is always singular regardless of the plural noun in the 'of' phrase that follows. 'Each of the paintings' means each individual painting considered one at a time. The singular verb 'requires' is correct. Choice A uses 'requires.' Choice B keeps 'require' and changes 'individual' to 'individually'—still wrong in agreement. Choice C changes 'Each of the paintings' to 'Every painting,' which is also singular and would require 'requires'—but Choice C incorrectly uses 'require.' Choice D incorrectly applies proximity agreement to 'paintings.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1611",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The city's transportation department released its annual report on infrastructure conditions, noting that while the newest bridge had received exemplary ratings, several older overpasses exhibited alarming signs of spalling—the progressive flaking and breaking away of concrete from the surface. Engineers warned that if left unaddressed, spalling could compromise the structural integrity of the overpasses and require far costlier interventions down the line.",
+  "question": "As used in the passage, 'compromise' most nearly means",
+  "choices": {
+    "A": "negotiate",
+    "B": "reveal",
+    "C": "weaken or endanger",
+    "D": "improve"
+  },
+  "correct_answer": "C",
+  "explanation": "In context, spalling 'could compromise the structural integrity of the overpasses.' 'Compromise' is used here in its sense of damaging or weakening something, making it vulnerable or less reliable. Choice C, 'weaken or endanger,' captures this: the structural integrity would be undermined. This is a common usage of 'compromise' in safety and engineering contexts—to compromise a system means to undermine or damage its ability to function. Choice A ('negotiate') is the most familiar meaning of 'compromise' but is inappropriate here—structural integrity cannot negotiate. Choice B ('reveal') is a different word altogether. Choice D ('improve') is the opposite of what the passage describes."
+}

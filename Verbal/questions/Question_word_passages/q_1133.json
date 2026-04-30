@@ -1,0 +1,16 @@
+{
+  "id": "q_1133",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The American Medical Association updated its code of ethics for the first time in over a decade, adding new provisions addressing physician obligations in the context of artificial intelligence-assisted diagnosis. Under the revised code, they require physicians to disclose when AI systems have contributed to a clinical recommendation.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the doctors",
+    "B": "it",
+    "C": "those provisions",
+    "D": "No change; 'they' refers to the AMA's member physicians who are subject to the code"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The American Medical Association' is singular, confirmed by 'its code of ethics.' The second sentence uses 'they,' a plural pronoun, creating a mismatch. Choice B replaces 'they' with 'it,' restoring singular agreement. Choice A introduces 'the doctors,' which would make physicians require things of themselves, changing the meaning. Choice C introduces 'those provisions,' which would change who is doing the requiring. Choice D incorrectly treats implied member physicians as the grammatical antecedent."
+}

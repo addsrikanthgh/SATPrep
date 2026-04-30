@@ -1,0 +1,16 @@
+{
+  "id": "q_1342",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The construction crew worked through the night to repair the collapsed section of pipeline. Completing the repairs before the morning rush hour began. Residents in the affected area had water service restored by 6 a.m.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The construction crew worked through the night to repair the collapsed section of pipeline, completing the repairs before the morning rush hour began.",
+    "B": "The construction crew worked through the night to repair the collapsed section of pipeline. They completed the repairs before the morning rush hour began.",
+    "C": "The construction crew worked through the night to repair the collapsed section of pipeline; completing the repairs before the morning rush hour began.",
+    "D": "No change; 'Completing the repairs' is a complete sentence because it describes an action."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Completing the repairs before the morning rush hour began' is a participial phrase fragment—it has no subject and cannot stand alone as a sentence. It must be attached to the independent clause it modifies. Choice A attaches the participial phrase to the preceding independent clause with a comma, creating a properly structured sentence. Choice B converts the fragment into a full sentence by adding a subject ('They')—grammatically correct but slightly changes the structure of the passage by adding an extra sentence. Both A and B are correct, but A is the more elegant single-sentence solution and is the best choice. Choice C uses a semicolon before the participial phrase, which is incorrect—semicolons join independent clauses. Choice D incorrectly claims the fragment is a complete sentence."
+}

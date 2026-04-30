@@ -1,0 +1,16 @@
+{
+  "id": "q_1127",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The congressional oversight subcommittee released its interim report on pharmaceutical pricing practices, documenting cases in which drug prices had increased by more than 500 percent with no corresponding change in manufacturing costs. In the report, they recommended three legislative remedies and called for a follow-up hearing within ninety days.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the lawmakers",
+    "B": "it",
+    "C": "those staffers",
+    "D": "No change; 'they' refers to the subcommittee members who drafted the recommendations"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The congressional oversight subcommittee' is singular, confirmed by 'its interim report.' The second sentence uses 'they,' a plural pronoun, creating a mismatch. Choice B replaces 'they' with 'it.' Choices A and C introduce new noun phrases not established as antecedents. Choice D incorrectly treats individual subcommittee members as the grammatical antecedent; the stated antecedent is the singular subcommittee."
+}

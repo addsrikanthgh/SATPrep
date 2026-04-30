@@ -1,0 +1,16 @@
+{
+  "id": "q_1361",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The documentary examines the life of Nikola Tesla, a visionary inventor who held more than three hundred patents and who, despite his extraordinary contributions to electrical engineering, died alone in a New York hotel room with few assets and virtually no recognition from the institutions he had spent his career trying to impress, this was a tragic irony that the film explores with both sensitivity and depth.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The documentary examines the life of Nikola Tesla, a visionary inventor who held more than three hundred patents and who, despite his extraordinary contributions to electrical engineering, died alone in a New York hotel room with few assets and virtually no recognition from the institutions he had spent his career trying to impress—a tragic irony that the film explores with both sensitivity and depth.",
+    "B": "The documentary examines the life of Nikola Tesla, a visionary inventor who held more than three hundred patents and who died alone in a New York hotel room; this was a tragic irony that the film explores with both sensitivity and depth.",
+    "C": "The documentary examines the life of Nikola Tesla; a visionary inventor who, despite his contributions to electrical engineering, died alone with few assets and no recognition, a tragic irony the film explores.",
+    "D": "No change; 'this was a tragic irony' is a clause that may follow a long introductory clause with only a comma."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice. After the long relative clause describing Tesla's death, 'this was a tragic irony that the film explores with both sensitivity and depth' is an independent clause joined to the preceding independent clause by only a comma. The cleanest fix is to replace 'this was a tragic irony' with an appositive noun phrase ('a tragic irony') and attach it with a dash after the long preceding clause. Choice A achieves this. Choice B significantly shortens and alters the sentence while fixing the splice. Choice C introduces a semicolon in an incorrect location. Choice D incorrectly defends the comma splice."
+}

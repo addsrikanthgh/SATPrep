@@ -1,0 +1,16 @@
+{
+  "id": "q_1049",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Behavioral economists argue that people are not merely irrational but predictably irrational, making systematic errors in judgment that can be anticipated and, in some cases, corrected. Traditional economic models, however, assume that individuals weigh costs and benefits rationally, that preferences remain stable over time, and decisions are made free from cognitive bias.",
+  "question": "Which choice best corrects the sentence structure error in the second sentence?",
+  "choices": {
+    "A": "Traditional economic models, however, assume that individuals weigh costs and benefits rationally, that preferences remain stable over time, and that decisions are made free from cognitive bias.",
+    "B": "Traditional economic models, however, assume that individuals weigh costs and benefits rationally, preferences remain stable over time, and decisions are made free from cognitive bias.",
+    "C": "Traditional economic models, however, assume that individuals weigh costs and benefits rationally, that preferences remain stable over time, and making decisions free from cognitive bias.",
+    "D": "Traditional economic models, however, assume individuals weigh costs and benefits rationally, that preferences remain stable over time, and that decisions are made free from cognitive bias."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence contains a faulty parallelism error in a series of subordinate clauses following the verb 'assume': the first two items begin with the subordinating conjunction 'that' ('that individuals weigh,' 'that preferences remain'), but the third item omits it ('decisions are made'). In formal parallel structure, when 'that' is used to introduce the first clause in such a series, it must be repeated for each subsequent clause to maintain grammatical parallelism. Choice A corrects this by adding 'that' before the third clause. Choice B removes 'that' from all three clauses; while this produces a kind of consistency, it is less precise in formal academic writing and does not preserve the intended structure. Choice C replaces the third clause with a participial phrase ('making decisions'), breaking the noun-clause series. Choice D omits 'that' from the first clause only, creating an inconsistency between the first and subsequent elements."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1363",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The investment bank's internal audit revealed that the risk assessment models in use at the time of the 2008 collapse systematically underestimated the correlation between mortgage-backed securities and broader market downturns, consequently, regulators have since required financial institutions to use stress-testing protocols that account for systemic risk.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The investment bank's internal audit revealed that the risk assessment models in use at the time of the 2008 collapse systematically underestimated the correlation between mortgage-backed securities and broader market downturns; consequently, regulators have since required financial institutions to use stress-testing protocols that account for systemic risk.",
+    "B": "The investment bank's internal audit revealed that the risk assessment models systematically underestimated the correlation between mortgage-backed securities and broader market downturns, consequently regulators have required stress-testing protocols.",
+    "C": "The investment bank's internal audit revealed risk assessment model failures, consequently, financial institutions must now use stress-testing protocols for systemic risk.",
+    "D": "No change; 'consequently' may follow a comma when it introduces a result clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a comma splice. The word 'consequently' is a conjunctive adverb that signals a cause-effect relationship between two independent clauses. Like 'however,' 'therefore,' and 'nevertheless,' 'consequently' when used as a conjunctive adverb joining two independent clauses must be preceded by a semicolon. The original comma before 'consequently' is insufficient. Choice A uses a semicolon before 'consequently.' Choice B removes the comma after 'consequently,' making the error slightly worse. Choice C over-simplifies the sentence. Choice D incorrectly claims a comma before 'consequently' is sufficient when it joins two independent clauses."
+}

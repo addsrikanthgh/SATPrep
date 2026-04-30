@@ -1,0 +1,16 @@
+{
+  "id": "q_1057",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Amazon rain forest stores an estimated 150 to 200 billion metric tons of carbon and plays a critical role in stabilizing regional rainfall patterns. Scientists warn that if they continue to be cleared at current rates, the resulting release of stored carbon could significantly accelerate global warming.",
+  "question": "Which choice best corrects the pronoun error in the second sentence?",
+  "choices": {
+    "A": "if it continues to be cleared at current rates",
+    "B": "if those continue to be cleared at current rates",
+    "C": "if these continue to be cleared at current rates",
+    "D": "No change; 'they' refers to the individual trees that compose the rain forest"
+  },
+  "correct_answer": "A",
+  "explanation": "The grammatical antecedent of 'they' is 'The Amazon rain forest'—a singular noun. The plural pronoun 'they' does not agree with this singular antecedent. Choice A correctly uses the singular 'it.' Choice B ('those') and Choice C ('these') are plural demonstrative pronouns that also fail to match the singular subject. Choice D argues that 'they' refers to the individual trees; however, 'trees' is never explicitly stated as an antecedent in the passage—the subject introduced is 'The Amazon rain forest' (singular). Readers cannot be required to infer a plural antecedent that the passage does not name."
+}

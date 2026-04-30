@@ -1,0 +1,16 @@
+{
+  "id": "q_1264",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Forty percent of the sediment cores retrieved from the lake bed contain evidence of volcanic ash deposits dating to the late Pleistocene epoch. These deposits help researchers establish a precise chronological framework for the region's paleoclimate record.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'contain' should be 'contains' because 'forty percent' is a singular expression of quantity.",
+    "B": "Yes; 'contain' should be 'contains' because percentage subjects always take singular verbs.",
+    "C": "Yes; 'contain' should be 'contains' because the true subject is 'sediment cores,' which is countable.",
+    "D": "No; 'contain' correctly agrees with 'sediment cores,' the plural noun in the 'of' phrase, because the meaning is about individual countable items."
+  },
+  "correct_answer": "D",
+  "explanation": "When a fraction or percentage precedes 'of + noun,' the verb agrees with the noun in the 'of' phrase. Here, 'of the sediment cores' contains a plural countable noun ('cores'), so the plural verb 'contain' is correct. This is the standard rule for fractional subjects: fractions/percentages agree with the object of 'of' when that object is a countable plural noun. Choice D correctly identifies that 'contain' agrees with the plural 'sediment cores.' Choice A incorrectly claims percentage subjects are inherently singular. Choice B states an incorrect absolute rule. Choice C misidentifies the subject as 'sediment cores' without recognizing that the rule actually supports the plural verb."
+}

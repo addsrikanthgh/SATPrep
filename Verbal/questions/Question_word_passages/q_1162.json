@@ -1,0 +1,16 @@
+{
+  "id": "q_1162",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The investment bank agreed to disclose the structured products sold to retail clients fully. Regulators had pressed for complete transparency after several investors reported significant losses they had not anticipated.",
+  "question": "The word 'fully' in the first sentence creates ambiguity. Which choice most clearly conveys that the disclosure will be full?",
+  "choices": {
+    "A": "The investment bank agreed to fully disclose the structured products sold to retail clients.",
+    "B": "The investment bank fully agreed to disclose the structured products sold to retail clients.",
+    "C": "The investment bank agreed to disclose the fully sold structured products to retail clients.",
+    "D": "No change; 'fully' modifies 'disclose' because it describes the completeness of the disclosure action"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'fully' follows 'retail clients' and could modify either 'sold to retail clients' (products that were fully sold) or 'disclose' (disclose fully). The second sentence's context about transparency makes disclosure the intended meaning, but formal writing requires that the placement itself be unambiguous. Choice A places 'fully' immediately before 'disclose,' clearly modifying the disclosure. Choice B places 'fully' before 'agreed,' implying the bank agreed without reservation rather than that it agreed to provide full disclosure. Choice C places 'fully' before 'sold,' creating a new ambiguity. Choice D incorrectly accepts end-of-clause placement as unambiguous."
+}

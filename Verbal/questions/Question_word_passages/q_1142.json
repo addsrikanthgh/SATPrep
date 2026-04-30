@@ -1,0 +1,16 @@
+{
+  "id": "q_1142",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Architects Frank Gehry and Norman Foster have each produced buildings that radically challenged prevailing assumptions about form, materials, and urban context. At the international design conference in Barcelona, he presented a retrospective of his most controversial projects and discussed how professional criticism had shaped his subsequent work.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Gehry",
+    "B": "Foster",
+    "C": "the deconstructivist architect",
+    "D": "No change; 'he' clearly refers to Gehry, who is more associated with controversial formal experimentation"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Gehry and Foster are male, so 'he' could refer to either. Although Gehry is commonly associated with deconstructivism and formal controversy, the passage describes both architects as having challenged prevailing assumptions, offering no grammatical basis for distinguishing between them. Choice A names Gehry. Choice C introduces 'the deconstructivist architect,' a label not used in the passage. Choice D correctly identifies Gehry as the likely referent but incorrectly argues that stylistic reputation is sufficient to resolve grammatical ambiguity."
+}

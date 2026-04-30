@@ -1,0 +1,16 @@
+{
+  "id": "q_1337",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The city council approved the rezoning proposal after months of public debate. Which had been contentious enough to generate three separate petitions. Residents on both sides of the issue said they planned to monitor the plan's implementation closely.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The city council approved the rezoning proposal after months of public debate, which had been contentious enough to generate three separate petitions.",
+    "B": "The city council approved the rezoning proposal after months of public debate; which had been contentious enough to generate three separate petitions.",
+    "C": "The city council approved the rezoning proposal. After months of public debate which had been contentious enough to generate three separate petitions.",
+    "D": "No change; beginning a sentence with 'which' is an acceptable way to provide additional information."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Which had been contentious enough to generate three separate petitions' is a relative clause fragment—'which' is a relative pronoun that must be attached to the noun it modifies. Since 'which' refers to the 'public debate' in the preceding sentence, the relative clause must be attached to that sentence with a comma. Choice A correctly attaches the relative clause to the noun it modifies with a comma. Choice B uses a semicolon before 'which,' which is incorrect—semicolons join independent clauses, and a relative clause is not an independent clause. Choice C creates a new fragment. Choice D incorrectly defends beginning a standalone sentence with a relative pronoun."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1066",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The management consulting firm issued a statement confirming its acquisition of a regional data analytics company. Within days of the announcement, they had already begun integrating the acquired firm's technology infrastructure into their core service offerings.",
+  "question": "Which choice best corrects the inconsistent pronoun usage in the second sentence?",
+  "choices": {
+    "A": "it had already begun integrating the acquired firm's technology infrastructure into its core service offerings",
+    "B": "they had already begun integrating the acquired firm's technology infrastructure into its core service offerings",
+    "C": "it had already begun integrating the acquired firm's technology infrastructure into their core service offerings",
+    "D": "No change; large organizations are commonly referred to with both singular and plural pronouns depending on context"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent is 'The management consulting firm,' which was correctly referenced with the singular possessive 'its' in the first sentence. The second sentence inconsistently shifts to the plural 'they' and 'their,' treating the same singular noun as plural. Consistent pronoun reference requires maintaining the same number throughout. Choice A corrects both pronouns to singular: 'it had already begun' and 'its core service offerings.' Choice B corrects 'their' to 'its' but retains the inconsistent plural 'they,' leaving the inconsistency. Choice C corrects 'they' to 'it' but retains the inconsistent plural 'their.' Choice D incorrectly suggests that mixing singular and plural pronouns for the same antecedent is an acceptable stylistic practice; in formal writing, pronoun reference must be consistent."
+}

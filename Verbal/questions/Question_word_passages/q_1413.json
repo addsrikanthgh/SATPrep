@@ -1,0 +1,16 @@
+{
+  "id": "q_1413",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "To be licensed as a clinical social worker in most states, applicants must complete a master's degree from an accredited institution, accumulate a minimum number of supervised clinical hours, and pass a national licensing examination. With additional requirements varying by state, such as background checks or continuing education credits.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "To be licensed as a clinical social worker in most states, applicants must complete a master's degree from an accredited institution, accumulate a minimum number of supervised clinical hours, and pass a national licensing examination, with additional requirements varying by state, such as background checks or continuing education credits.",
+    "B": "To be licensed as a clinical social worker in most states, applicants must complete a master's degree, accumulate supervised clinical hours, and pass a licensing examination; with additional requirements varying by state.",
+    "C": "To be licensed as a clinical social worker, applicants must meet several requirements; additional state-specific requirements may include background checks or continuing education credits.",
+    "D": "No change; 'With additional requirements varying by state' is a complete sentence that provides important supplemental information."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'With additional requirements varying by state, such as background checks or continuing education credits' is a prepositional phrase fragment. It begins with 'With' (a preposition) and has no independent subject-verb structure. This phrase adds detail about state-specific variations on the licensing requirements and should be attached to the preceding sentence. Choice A attaches the prepositional phrase fragment to the end of the preceding sentence with a comma. Choice B uses a semicolon before the fragment, which is incorrect. Choice C significantly restructures the passage. Choice D incorrectly defends the fragment."
+}

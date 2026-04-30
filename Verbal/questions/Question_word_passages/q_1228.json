@@ -1,0 +1,16 @@
+{
+  "id": "q_1228",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The review panel just recommended three of the nineteen proposals for funding in the first cycle. The remaining sixteen proposals were eligible for resubmission in the next funding cycle with revisions.",
+  "question": "The word 'just' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The review panel recommended just three of the nineteen proposals for funding in the first cycle.",
+    "B": "Just the review panel recommended three of the nineteen proposals for funding in the first cycle.",
+    "C": "The review panel recommended three of just the nineteen proposals for funding in the first cycle.",
+    "D": "No change; 'just recommended' is a common phrase meaning 'recently recommended,' and this reflects the timing of the recommendation"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that only three proposals received funding—a small fraction. 'Just' should modify 'three,' expressing that the number was limited. As written, 'just recommended' means the recommendation happened recently or was barely made—neither of which conveys the sense of a small number. The second sentence, noting sixteen were eligible for resubmission, confirms that only three were chosen. Choice A places 'just' before 'three,' conveying the small number. Choice B places 'just' before 'the review panel,' implying the panel alone (not another body) made the recommendation. Choice C places 'just' before 'the nineteen,' limiting the pool of proposals. Choice D incorrectly defends 'just recommended' as idiomatic timing."
+}

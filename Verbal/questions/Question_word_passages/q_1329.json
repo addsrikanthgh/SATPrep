@@ -1,0 +1,16 @@
+{
+  "id": "q_1329",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The graduate students' union, in addition to faculty advisors from three departments and a student representative from the ombudsman's office, are demanding immediate changes to the university's academic grievance procedures. A campus-wide forum has been scheduled for next Friday.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The graduate students' union, in addition to faculty advisors from three departments and a student representative from the ombudsman's office, is demanding immediate changes to the university's academic grievance procedures.",
+    "B": "The graduate students' union, in addition to faculty advisors from three departments and a student representative, are demanding immediate changes to the grievance procedures.",
+    "C": "The graduate students' unions, in addition to faculty advisors from three departments, are demanding immediate changes to the university's academic grievance procedures.",
+    "D": "No change; 'are demanding' correctly agrees with 'faculty advisors' and 'a student representative,' a compound plural subject"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The graduate students' union,' a singular collective noun. The phrase 'in addition to faculty advisors from three departments and a student representative from the ombudsman's office' is a parenthetical addition—'in addition to' is not a coordinating conjunction and does not create a compound subject. The singular verb 'is demanding' is required. Choice A uses 'is demanding.' Choice B preserves 'are demanding.' Choice C pluralizes 'union' to 'unions' and uses 'are demanding'—changes the meaning. Choice D incorrectly argues the verb agrees with items in the parenthetical addition."
+}

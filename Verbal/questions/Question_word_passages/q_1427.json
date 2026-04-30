@@ -1,0 +1,16 @@
+{
+  "id": "q_1427",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The novelist refused to explain the ambiguous ending of her trilogy, she believed that literature's power resided precisely in its capacity to resist resolution and that readers who demanded clear answers were misunderstanding what fiction is for.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The novelist refused to explain the ambiguous ending of her trilogy; she believed that literature's power resided precisely in its capacity to resist resolution and that readers who demanded clear answers were misunderstanding what fiction is for.",
+    "B": "The novelist refused to explain the ambiguous ending of her trilogy she believed that literature's power resided precisely in its capacity to resist resolution and that readers who demanded clear answers were misunderstanding what fiction is for.",
+    "C": "The novelist refused to explain the ambiguous ending of her trilogy, believing that literature's power resided precisely in its capacity to resist resolution, and readers who demanded clear answers were misunderstanding what fiction is for.",
+    "D": "The novelist, refusing to explain the ambiguous ending of her trilogy, she believed that literature's power resided in its capacity to resist resolution."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a comma splice—two independent clauses joined by only a comma. 'The novelist refused to explain the ambiguous ending of her trilogy' is a complete independent clause, and 'she believed that literature's power resided precisely in its capacity to resist resolution and that readers who demanded clear answers were misunderstanding what fiction is for' is another. Choice A uses a semicolon to correctly join the two related independent clauses—the second clause explains the reason for the novelist's refusal, making the semicolon especially apt. Choice B removes the comma entirely, creating a fused sentence. Choice C creates an awkward structure that joins the clauses illogically. Choice D creates a comma splice with a dangling participial phrase."
+}

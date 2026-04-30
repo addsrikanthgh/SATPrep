@@ -1,0 +1,16 @@
+{
+  "id": "q_1490",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Soil erosion is one of the most significant threats to global food security. Each year, billions of tons of topsoil are lost to wind and water erosion, reducing the land's capacity to support crops. In the United States alone, the Natural Resources Conservation Service estimates that cropland loses approximately 1.7 billion tons of topsoil annually. Sustainable farming practices such as cover cropping, no-till agriculture, and contour plowing can dramatically slow erosion rates, but their adoption remains uneven.",
+  "question": "What is the primary function of the third sentence ('In the United States alone...') in the passage?",
+  "choices": {
+    "A": "To shift the passage's focus from a global problem to the specific role of the United States in causing it",
+    "B": "To provide a concrete national statistic that illustrates the scale of the global problem introduced in the second sentence",
+    "C": "To introduce the Natural Resources Conservation Service as the passage's primary source",
+    "D": "To argue that the United States has a greater soil erosion problem than any other country"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence makes a broad global claim about the loss of billions of tons of topsoil each year. The third sentence gives a specific U.S. statistic—1.7 billion tons annually—to make the scale of the global problem concrete and graspable. By anchoring the abstract global claim to a specific national number, the third sentence strengthens the reader's understanding of the magnitude of the issue. Choice A is incorrect—the passage continues to address global solutions in the fourth sentence; the third sentence is illustrative, not a shift in focus. Choice C is incorrect—introducing a source is incidental to the sentence's evidential function. Choice D is incorrect—the sentence does not make a comparative claim about the U.S. relative to other countries."
+}

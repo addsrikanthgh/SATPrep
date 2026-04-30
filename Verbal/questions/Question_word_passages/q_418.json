@@ -1,7 +1,7 @@
 {
   "id": "q_418",
   "domain": "Information and Ideas",
-  "skill": "command of evidence",
+  "skill": "command of evidence (textual)",
   "difficulty": "medium",
   "passage": "Researchers studying the opioid crisis analyzed prescription rates and overdose death rates by county across the United States from 2006 to 2018. They found that counties in the top quartile of opioid prescribing rates in 2006 had overdose death rates in 2018 that were 3.1 times higher than counties in the bottom quartile. However, several counties that aggressively reduced prescribing after 2012 saw overdose deaths continue to rise through 2016 before declining. These counties showed a surge in heroin and synthetic opioid (fentanyl) overdoses in the years immediately following prescription reductions.",
   "question": "A public health researcher argues that reducing opioid prescriptions alone is insufficient to reduce overdose deaths in the short term. Which evidence best supports this argument?",

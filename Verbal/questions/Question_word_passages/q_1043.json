@@ -1,0 +1,16 @@
+{
+  "id": "q_1043",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "Every student enrolled in the advanced chemistry seminar must submit their laboratory notebook for review by the end of Week 12. The notebook should document each experiment in detail, including the hypothesis, procedure, raw data, and analysis. Instructors will evaluate it based on the clarity of reasoning and the accuracy of recorded observations.",
+  "question": "Which choice identifies and corrects the pronoun-antecedent agreement error in the passage?",
+  "choices": {
+    "A": "Change 'their laboratory notebook' to 'his or her laboratory notebook' — 'every student' is singular, so the pronoun must also be singular.",
+    "B": "Change 'Instructors will evaluate it' to 'Instructors will evaluate them' — 'it' incorrectly refers to the singular notebook when multiple notebooks are implied.",
+    "C": "Change 'their laboratory notebook' to 'its laboratory notebook' — 'every student' requires a neuter pronoun.",
+    "D": "No correction is needed; the pronouns are already in agreement with their antecedents."
+  },
+  "correct_answer": "D",
+  "explanation": "No pronoun error exists in the passage. 'Every student' paired with 'their' is widely accepted in contemporary formal English as a gender-neutral singular construction; major style guides including the Chicago Manual of Style and APA endorse this usage. 'It' in the final sentence correctly refers to the singular 'laboratory notebook' mentioned in the previous sentence. Choice A incorrectly asserts that 'their' is an error; singular 'their' is standard. Choice B misidentifies a problem where none exists—'it' logically refers to the previously mentioned singular notebook, not to multiple notebooks. Choice C suggests the unnatural and unidiomatic 'its' as a replacement for 'their' when referring to a person."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1259",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "A group of researchers from four different universities have published a landmark study on the long-term neurological effects of repeated concussions in youth athletes. The study followed over three hundred participants for a period of ten years.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "A group of researchers from four different universities has published a landmark study on the long-term neurological effects of repeated concussions in youth athletes.",
+    "B": "A group of researchers from four different universities have published landmark studies on the long-term neurological effects of repeated concussions.",
+    "C": "Groups of researchers from four different universities has published a landmark study on the long-term neurological effects of repeated concussions.",
+    "D": "No change; 'have published' agrees with 'researchers,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'A group,' a singular collective noun. The prepositional phrase 'of researchers from four different universities' modifies 'group' but does not change its number. A group acting as a unit takes a singular verb: 'has published.' Choice A correctly uses 'has published.' Choice B keeps 'have published' and changes 'study' to 'studies,' which changes the meaning. Choice C pluralizes 'group' to 'Groups' while using the singular 'has published'—inconsistent. Choice D incorrectly applies proximity agreement."
+}

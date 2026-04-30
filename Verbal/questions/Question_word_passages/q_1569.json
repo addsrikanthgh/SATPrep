@@ -1,0 +1,16 @@
+{
+  "id": "q_1569",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A transportation engineer studied traffic accident rates (accidents per million vehicle miles traveled) on urban road segments with different posted speed limits.\n\n| Speed Limit (mph) | Accident Rate (per million VMT) | Fatal Accident Rate (per million VMT) |\n|---|---|---|\n| 25 | 1.8 | 0.04 |\n| 35 | 2.4 | 0.09 |\n| 45 | 3.1 | 0.18 |\n| 55 | 3.8 | 0.34 |\n| 65 | 4.2 | 0.61 |\n\nThe engineer argued that while overall accident rates increase modestly with speed limit, fatal accident rates rise disproportionately.",
+  "question": "Which analysis of the data best supports the engineer's specific claim about the disproportionate rise in fatal accident rates?",
+  "choices": {
+    "A": "The overall accident rate increases from 1.8 to 4.2 across the five speed limits—a factor of about 2.3 times—while the fatal accident rate increases from 0.04 to 0.61—a factor of more than 15 times—demonstrating a disproportionately larger increase in fatal accidents.",
+    "B": "Both accident rates increase as speed limits rise.",
+    "C": "The fatal accident rate at 65 mph (0.61) is much higher than at 25 mph (0.04).",
+    "D": "The overall accident rate nearly doubles from 25 mph to 65 mph."
+  },
+  "correct_answer": "A",
+  "explanation": "The engineer's specific claim is that fatal accident rates rise 'disproportionately' compared to overall accident rates. To evaluate this, one must compare the rates of increase of both variables. Choice A does this precisely: the overall accident rate increases by a factor of about 2.3× (from 1.8 to 4.2), while the fatal accident rate increases by a factor of more than 15× (from 0.04 to 0.61). This factor-comparison directly demonstrates the disproportionate rise in fatalities. Choice B merely confirms that both rates increase, without addressing whether the increases are proportional or disproportionate. Choice C identifies the endpoints for fatal accidents but doesn't compare them to the overall accident rate trajectory. Choice D notes only the doubling of overall rates without comparing it to the much larger increase in fatal rates."
+}

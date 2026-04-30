@@ -1,0 +1,16 @@
+{
+  "id": "q_1485",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The concept of 'cultural appropriation' has generated intense debate in academic and public discourse. Proponents of the term argue that it names a real harm: the adoption of elements from a marginalized culture by members of a dominant culture in ways that strip those elements of their original meaning and deny credit to their creators. Skeptics counter that all cultures have always borrowed from one another and that restricting cultural exchange by policing 'authenticity' risks reinforcing the very boundaries it claims to dismantle. A more productive framing, some scholars suggest, may be to ask not whether exchange occurred but under what conditions of power it did.",
+  "question": "What is the primary function of the fourth sentence ('A more productive framing...') in the passage?",
+  "choices": {
+    "A": "To dismiss both the proponent and skeptic positions as unworthy of serious consideration",
+    "B": "To propose an alternative analytical approach that moves beyond the binary debate described in the second and third sentences",
+    "C": "To provide a definition of cultural appropriation that both sides of the debate can accept",
+    "D": "To conclude that cultural exchange should always be permitted as long as credit is given"
+  },
+  "correct_answer": "B",
+  "explanation": "The second and third sentences present two opposing positions in a binary debate: proponents who argue appropriation causes real harm and skeptics who argue that restricting cultural exchange is itself problematic. The fourth sentence does not endorse either side; instead, it proposes a reframing—shifting the question from 'did exchange occur' to 'under what conditions of power did it occur.' This is a classic move in academic argument: transcending a binary by proposing a more nuanced framework. Choice A is incorrect—the fourth sentence does not dismiss either position. Choice C is incorrect—no definition is offered. Choice D is incorrect—the fourth sentence focuses on power conditions, not on whether credit is given."
+}

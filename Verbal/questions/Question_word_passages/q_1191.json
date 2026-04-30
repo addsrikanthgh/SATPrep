@@ -1,0 +1,16 @@
+{
+  "id": "q_1191",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Overlooking the river valley on three sides, the medieval fortress provided an unmatched strategic advantage to whichever army controlled it. Historians estimate it changed hands more than a dozen times over the three centuries of regional conflict.",
+  "question": "Is there a modifier error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'Overlooking the river valley on three sides' should follow 'fortress' rather than open the sentence.",
+    "B": "Yes; 'Overlooking the river valley' implies the fortress was watching, but buildings cannot overlook.",
+    "C": "Yes; 'on three sides' is misplaced and should appear immediately after 'valley.'",
+    "D": "No; 'Overlooking the river valley on three sides' correctly modifies 'the medieval fortress,' which is the subject of the main clause."
+  },
+  "correct_answer": "D",
+  "explanation": "The participial phrase 'Overlooking the river valley on three sides' is correctly placed before the noun it modifies: 'the medieval fortress.' The fortress is the subject of the main clause, and the phrase immediately precedes it, satisfying the grammatical requirement for participial modifiers. The verb 'overlook' is commonly used to describe the physical orientation of structures—it is standard English to say that a building overlooks a view. Choice A incorrectly suggests the placement is wrong. Choice B incorrectly interprets 'overlook' as implying intentional watching. Choice C identifies a non-existent problem with 'on three sides.' Choice D correctly identifies that no change is needed."
+}

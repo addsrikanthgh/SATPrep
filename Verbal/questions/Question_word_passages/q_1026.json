@@ -1,0 +1,16 @@
+{
+  "id": "q_1026",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A management researcher tracked three productivity metrics for employees at a technology company over one year, comparing full in-office, hybrid, and fully remote work arrangements. Results were as follows: full in-office workers completed an average of 23.4 tasks per week, received a mean manager performance rating of 7.1 out of 10, and had a 18% annual voluntary turnover rate; hybrid workers completed 27.8 tasks per week, received a 7.9 manager rating, and had an 11% turnover rate; fully remote workers completed 25.1 tasks per week, received a 6.8 manager rating, and had a 24% turnover rate. A reporter covering the study wrote that the data clearly show hybrid work outperforms both alternatives across all measured dimensions.",
+  "question": "Which choice most effectively uses data from the study to support the reporter's claim?",
+  "choices": {
+    "A": "Hybrid employees completed 27.8 tasks per week on average, more than both in-office employees (23.4) and remote employees (25.1), giving hybrid the highest task completion rate.",
+    "B": "Hybrid employees completed 27.8 tasks per week—more than in-office (23.4) and remote (25.1) workers—and also earned the highest manager rating (7.9 vs. 7.1 and 6.8) and experienced the lowest turnover rate (11% vs. 18% and 24%), outperforming both alternatives on every dimension measured.",
+    "C": "Fully remote employees had the highest annual turnover rate (24%) and the lowest manager rating (6.8), suggesting that fully remote work may be the least sustainable arrangement.",
+    "D": "Manager-rated performance scores ranged from 6.8 for remote employees to 7.9 for hybrid employees, a difference of 1.1 points."
+  },
+  "correct_answer": "B",
+  "explanation": "The reporter claims hybrid outperforms both alternatives 'across all measured dimensions.' Choice B is the only option that supports this comprehensively by citing all three metrics—task completion, manager ratings, and turnover rate—and showing hybrid outperformed both in-office and remote workers on every measure. Choice A supports only the task completion claim, ignoring the other two dimensions. Choice C focuses on remote employees' poor performance, not on hybrid's superiority across all dimensions relative to both alternatives. Choice D cites only the manager rating range and does not compare hybrid to both alternatives across all three metrics."
+}

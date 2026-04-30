@@ -1,0 +1,16 @@
+{
+  "id": "q_1070",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The museum's board of trustees announced its intention to acquire a collection of nineteenth-century American folk art valued at over $40 million. Critics questioned whether they had conducted sufficient due diligence on the provenance of several pieces before committing to the purchase.",
+  "question": "Which choice best corrects the inconsistent pronoun usage in the second sentence?",
+  "choices": {
+    "A": "Critics questioned whether it had conducted sufficient due diligence on the provenance of several pieces",
+    "B": "Critics questioned whether those had conducted sufficient due diligence on the provenance of several pieces",
+    "C": "Critics questioned whether each had conducted sufficient due diligence on the provenance of several pieces",
+    "D": "No change; 'they' appropriately refers to the board members as individuals, while 'its' referred to the board as an institution"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent 'The museum's board of trustees' was established as singular in the first sentence, correctly using 'its intention.' The second sentence inconsistently switches to 'they,' treating the same singular collective noun as plural. For formal consistency, the board must be treated as a single entity throughout. Choice A corrects 'they' to 'it,' maintaining the singular reference. Choice B uses 'those,' a plural demonstrative pronoun that perpetuates the error. Choice C uses 'each,' which is distributive and implies that individual board members separately conducted (or failed to conduct) due diligence, changing the intended meaning. Choice D incorrectly suggests that mixing singular and plural pronouns for the same antecedent is an acceptable distinction between 'institution' and 'members'; in formal writing, a collective noun must be treated consistently as either singular or plural throughout a passage."
+}

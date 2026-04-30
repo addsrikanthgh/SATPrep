@@ -1,0 +1,16 @@
+{
+  "id": "q_1093",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The student council approved its proposal to extend library hours through the end of the academic year. In a campus-wide announcement, they stated that the extended hours would be evaluated each semester and renewed only if usage data supported the cost.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the students",
+    "B": "those council members",
+    "C": "it",
+    "D": "No change; 'they' correctly refers to the council members as a group of individuals"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The student council' is a singular collective noun, confirmed by 'its proposal' in the first sentence. The second sentence incorrectly uses the plural 'they.' Choice C replaces it with 'it,' maintaining singular agreement. Choices A and B introduce new plural noun phrases not established as antecedents. Choice D incorrectly justifies a plural pronoun by referring to individual members; collective nouns acting as a unified body take singular pronouns in formal American English."
+}

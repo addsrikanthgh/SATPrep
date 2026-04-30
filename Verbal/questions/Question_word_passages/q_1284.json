@@ -1,0 +1,16 @@
+{
+  "id": "q_1284",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Three-quarters of the water in the municipal reservoir, which was constructed in the early twentieth century and has not undergone major structural renovations since 1987, originate from snowmelt in the adjacent mountain range. In drought years, the reservoir's capacity can fall below fifty percent.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'originate' should be 'originates' because 'water' is a noncount noun that takes a singular verb.",
+    "B": "Yes; 'originate' should be 'originates' because 'Three-quarters' is a fraction that takes a singular verb.",
+    "C": "Yes; 'originates' should be 'originate' because 'Three-quarters' is plural and always takes a plural verb.",
+    "D": "No; 'originates' is already the correct form—the sentence contains no subject-verb agreement error."
+  },
+  "correct_answer": "A",
+  "explanation": "With fractional expressions like 'three-quarters of,' the verb agrees with the noun in the 'of' phrase. The object of 'of' is 'the water in the municipal reservoir,' where 'water' is a noncount (mass) noun. Noncount nouns are grammatically singular, so the verb must be singular: 'originates.' The sentence uses 'originate,' which is the plural form—this is incorrect. Choice A correctly identifies the error. Choice B incorrectly states 'Three-quarters' itself determines singularity; it is the object of 'of' that determines number. Choice C incorrectly claims fractions always take plural verbs. Choice D incorrectly claims 'originates' is already present in the sentence."
+}

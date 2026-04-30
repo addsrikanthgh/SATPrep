@@ -1,0 +1,16 @@
+{
+  "id": "q_1539",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A researcher studying urban tree cover and ambient temperature collected data from five neighborhoods in a mid-sized city during a heat wave. The results are shown below.\n\n| Neighborhood | Tree Canopy Cover (%) | Average Temperature (°F) |\n|---|---|---|\n| Riverside | 42 | 88 |\n| Midtown | 28 | 93 |\n| Eastgate | 15 | 97 |\n| Hillcrest | 35 | 90 |\n| Southpark | 8 | 101 |\n\nThe researcher concluded that neighborhoods with greater tree canopy cover tend to have lower average temperatures during heat waves.",
+  "question": "Which finding from the table most directly supports the researcher's conclusion?",
+  "choices": {
+    "A": "Midtown has 28% canopy cover and a temperature of 93°F, while Eastgate has 15% canopy cover and a temperature of 97°F.",
+    "B": "Riverside and Hillcrest have similar temperatures, at 88°F and 90°F respectively.",
+    "C": "Southpark has the lowest canopy cover at 8% and the highest temperature at 101°F, while Riverside has the highest canopy cover at 42% and the lowest temperature at 88°F.",
+    "D": "Midtown has a higher canopy cover than Eastgate but a lower temperature than Hillcrest."
+  },
+  "correct_answer": "C",
+  "explanation": "The researcher's conclusion is that greater tree canopy cover correlates with lower temperatures. Choice C most directly supports this by comparing the two extreme cases in the data: Southpark, with the lowest canopy cover (8%), has the highest temperature (101°F), while Riverside, with the highest canopy cover (42%), has the lowest temperature (88°F). This contrast provides the strongest evidence for the directional relationship between canopy cover and temperature across the full range of the data. Choice A offers a valid supporting comparison but covers only a portion of the range. Choice B compares temperatures without referencing canopy cover differences. Choice D makes a confusing cross-comparison that does not cleanly support the conclusion."
+}

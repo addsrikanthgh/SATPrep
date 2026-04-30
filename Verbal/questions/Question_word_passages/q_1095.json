@@ -1,0 +1,16 @@
+{
+  "id": "q_1095",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The pharmaceutical company completed its Phase III clinical trial for a new cholesterol-lowering drug and submitted a new drug application to the FDA. Within six months, they received conditional approval pending additional post-market surveillance data.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the regulators",
+    "B": "those executives",
+    "C": "it",
+    "D": "No change; 'they' refers to the company's leadership and regulatory affairs team"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The pharmaceutical company' is singular, confirmed by 'its Phase III clinical trial' in the first sentence. The plural 'they' in the second sentence creates a number mismatch. Choice C replaces 'they' with 'it,' restoring consistency. Choice A would make the regulators the recipients of their own approval, reversing the logic. Choice B introduces 'those executives,' a noun absent from the passage. Choice D incorrectly treats implied staff as the grammatical antecedent; the stated antecedent is the singular company."
+}

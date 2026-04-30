@@ -1,0 +1,16 @@
+{
+  "id": "q_1449",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "By the time the rescue team reached the stranded climbers, two of the four had developed hypothermia serious enough to require immediate medical evacuation the other two were treated on site and were able to descend under their own power with the team's assistance.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "By the time the rescue team reached the stranded climbers, two of the four had developed hypothermia serious enough to require immediate medical evacuation; the other two were treated on site and were able to descend under their own power with the team's assistance.",
+    "B": "By the time the rescue team reached the stranded climbers, two of the four had developed hypothermia serious enough to require immediate medical evacuation, the other two were treated on site and were able to descend under their own power.",
+    "C": "By the time the rescue team reached the stranded climbers, two of the four had developed hypothermia serious enough to require medical evacuation: the other two were treated on site and descended under their own power.",
+    "D": "By the time the rescue team reached the stranded climbers two of the four had developed hypothermia serious enough to require immediate medical evacuation; the other two were treated on site and were able to descend."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'By the time the rescue team reached the stranded climbers, two of the four had developed hypothermia serious enough to require immediate medical evacuation' and 'the other two were treated on site and were able to descend under their own power with the team's assistance' are both complete independent clauses. Choice A uses a semicolon to correctly separate them—the two clauses contrast the fates of the four climbers, which the semicolon effectively highlights. Choice B creates a comma splice. Choice C uses a colon—less appropriate here because the second clause does not explain or define the first; it describes a contrasting outcome. Choice D removes the introductory comma and places the semicolon correctly."
+}

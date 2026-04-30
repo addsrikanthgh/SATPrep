@@ -1,0 +1,16 @@
+{
+  "id": "q_1267",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Measles, once nearly eradicated in the United States through widespread vaccination campaigns, have made a dramatic resurgence in communities with low immunization rates. Public health officials attribute the rise to vaccine hesitancy fueled by misinformation.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Measles, once nearly eradicated in the United States through widespread vaccination campaigns, has made a dramatic resurgence in communities with low immunization rates.",
+    "B": "Measles, once nearly eradicated in the United States through widespread vaccination campaigns, had made a dramatic resurgence in communities with low immunization rates.",
+    "C": "Measles, once nearly eradicated in the United States through widespread vaccination campaigns, have made dramatic resurgences in communities with low immunization rates.",
+    "D": "No change; 'have made' correctly treats 'Measles' as a plural noun because it ends in 's'"
+  },
+  "correct_answer": "A",
+  "explanation": "Measles is a singular disease name that ends in 's' but takes a singular verb, similar to 'mumps,' 'rabies,' and 'diabetes.' These are singular nouns whose plural appearance is misleading. The correct verb is 'has made.' Choice A uses 'has made.' Choice B uses 'had made,' changing the tense to past perfect without justification. Choice C keeps 'have made' and pluralizes 'resurgence' to 'resurgences,' compounding the error. Choice D incorrectly argues that '-s' endings make nouns plural; many disease names ending in 's' are grammatically singular."
+}

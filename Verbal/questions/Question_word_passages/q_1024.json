@@ -1,0 +1,16 @@
+{
+  "id": "q_1024",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A transportation policy researcher analyzed annual greenhouse gas emissions by sector in a metropolitan region. The data showed: Transportation, 18.4 million metric tons (34.2% of total); Electricity Generation, 16.1 million metric tons (29.9%); Industry, 9.7 million metric tons (18.0%); Buildings, 6.8 million metric tons (12.6%); Agriculture, 2.9 million metric tons (5.4%); total regional emissions of 53.9 million metric tons. A policy brief argued that targeting transportation alone would be insufficient to meet the region's goal of reducing total emissions by 40%, and that reaching this goal would require coordinated reductions across at least two major sectors.",
+  "question": "Which choice most effectively uses data from the study to support the argument in the policy brief?",
+  "choices": {
+    "A": "Transportation accounts for 34.2% of total emissions, making it the single largest contributor to the region's greenhouse gas output.",
+    "B": "Eliminating all transportation emissions (34.2% of the total) would still leave 65.8% of the region's emissions intact—well above the 60% that would remain after a 40% reduction—meaning the 40% target cannot be achieved through transportation cuts alone, even if transportation emissions were reduced to zero.",
+    "C": "Electricity generation and transportation together account for 64.1% of the region's total emissions, making them the two most significant sectors for any meaningful policy intervention.",
+    "D": "Agriculture contributes only 5.4% of total emissions, confirming that policies targeting small sectors have minimal impact on achieving the 40% reduction goal."
+  },
+  "correct_answer": "B",
+  "explanation": "The policy brief argues that transportation alone cannot achieve the 40% reduction goal. Choice B proves this claim mathematically: even eliminating 100% of transportation emissions (34.2%) would not reach 40%, since a 40% reduction requires cutting 21.56 million metric tons, but transportation only accounts for 18.4 million metric tons—directly demonstrating that transportation alone is insufficient. Choice A merely identifies transportation as the largest sector without connecting this to the sufficiency argument. Choice C establishes that combining two sectors would be large enough, which addresses the second part of the argument (multiple sectors needed) but does not prove why transportation alone falls short. Choice D discusses agriculture's minimal impact, which is tangentially relevant but does not address whether transportation alone can achieve the 40% target."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1253",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The faculty senate, together with the provost's office, are developing a new policy on generative AI use in academic coursework. A draft policy is expected to be circulated for campus feedback within the next sixty days.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The faculty senate, together with the provost's office, is developing a new policy on generative AI use in academic coursework.",
+    "B": "The faculty senate, together with the provost's office, has developed a new policy on generative AI use in academic coursework.",
+    "C": "The faculty senate and the provost's office are developing a new policy on generative AI use in academic coursework.",
+    "D": "No change; 'are developing' correctly agrees with the compound subject formed by 'the faculty senate' and 'the provost's office'"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The faculty senate,' singular. The phrase 'together with the provost's office' is a parenthetical addition, not a true compound subject. Parenthetical additions joined by 'together with,' 'along with,' or 'as well as' do not change the number of the subject. The singular verb 'is developing' is required. Choice A correctly uses 'is developing.' Choice B uses 'has developed,' a singular present perfect verb—wrong in tense. Choice C changes 'together with' to 'and,' creating a genuine compound subject that would require a plural verb—this is a structural change, not a simple correction of the original sentence's error. Choice D incorrectly treats 'together with' as forming a compound subject."
+}

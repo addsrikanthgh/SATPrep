@@ -1,0 +1,16 @@
+{
+  "id": "q_1555",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A public transit authority analyzed average daily ridership (in thousands) on its bus and rail lines across four time periods: morning peak, midday, evening peak, and late night.\n\n| Time Period | Bus Ridership (thousands) | Rail Ridership (thousands) |\n|---|---|---|\n| Morning Peak | 42 | 78 |\n| Midday | 31 | 45 |\n| Evening Peak | 38 | 71 |\n| Late Night | 9 | 14 |\n\nA transit planner argued that rail ridership is consistently higher than bus ridership across all time periods, with the largest absolute gap occurring during peak commuting hours.",
+  "question": "Which finding from the data most directly supports the transit planner's argument?",
+  "choices": {
+    "A": "Rail ridership exceeds bus ridership in all four time periods, and the gaps are largest during Morning Peak (36k difference) and Evening Peak (33k difference), which are both commuting hours.",
+    "B": "Bus ridership during the morning peak is 42 thousand, which is the highest bus ridership of any period.",
+    "C": "Late night ridership is low for both bus (9k) and rail (14k).",
+    "D": "Midday rail ridership (45k) is higher than all bus ridership periods except morning peak."
+  },
+  "correct_answer": "A",
+  "explanation": "The planner's argument has two parts: (1) rail consistently exceeds bus ridership across all four time periods, and (2) the largest gaps occur during peak commuting hours. Choice A supports both: it confirms rail exceeds bus in every period, and it quantifies the gaps—Morning Peak (78−42=36k) and Evening Peak (71−38=33k)—as the two largest, both occurring during commuting hours. Midday gap is 45−31=14k, and Late Night is 14−9=5k, both smaller. Choice B addresses only bus ridership without comparing it to rail. Choice C notes low ridership at one time period without addressing gaps or the overall trend. Choice D makes a comparison between one rail period and bus periods but does not address the full pattern or the gap sizes."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1230",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The admissions committee almost rejected every application that lacked official transcripts on procedural grounds. Incomplete files were returned with a checklist of missing materials and instructions for resubmission.",
+  "question": "The word 'almost' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The admissions committee rejected almost every application that lacked official transcripts on procedural grounds.",
+    "B": "Almost the admissions committee rejected every application that lacked official transcripts on procedural grounds.",
+    "C": "The admissions committee rejected every almost missing application that lacked official transcripts on procedural grounds.",
+    "D": "No change; 'almost rejected every application' means the committee came close to a blanket rejection, which is a reasonable meaning in context"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that nearly every incomplete application was rejected—'almost' should modify 'every application.' As written, 'almost rejected every application' means the committee nearly (but didn't) reject all of them, implying most were not rejected. The second sentence ('Incomplete files were returned') implies that rejections did occur. Choice A places 'almost' before 'every application,' conveying that nearly all incomplete applications were rejected. Choice B places 'almost' before 'the admissions committee,' implying the committee barely existed. Choice C creates 'every almost missing application,' a nonsensical phrase. Choice D defends the current placement but contradicts the evidence in the second sentence."
+}

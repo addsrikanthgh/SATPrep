@@ -1,0 +1,16 @@
+{
+  "id": "q_1295",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The fleet of autonomous delivery vehicles operated by the logistics company have completed more than two million successful deliveries since the pilot program launched in 2021. Company officials say the fleet will expand to fifty cities by the end of the year.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The fleet of autonomous delivery vehicles operated by the logistics company has completed more than two million successful deliveries since the pilot program launched in 2021.",
+    "B": "The fleet of autonomous delivery vehicles operated by the logistics company have completed two million successful deliveries since the pilot program launched.",
+    "C": "The fleets of autonomous delivery vehicles operated by the logistics company has completed more than two million successful deliveries.",
+    "D": "No change; 'have completed' correctly agrees with 'vehicles,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The fleet,' a singular collective noun. The prepositional phrase 'of autonomous delivery vehicles operated by the logistics company' modifies 'fleet' but does not change its number. When treated as a single entity, 'fleet' takes a singular verb. The singular verb 'has completed' is required. Choice A uses 'has completed.' Choice B preserves 'have completed.' Choice C pluralizes 'fleet' to 'fleets' and uses the singular 'has completed'—internally inconsistent. Choice D incorrectly applies proximity agreement to 'vehicles.'"
+}

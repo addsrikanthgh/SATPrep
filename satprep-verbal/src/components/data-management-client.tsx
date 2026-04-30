@@ -2,6 +2,7 @@
 
 import { useEffect, useRef, useState } from "react";
 import { useStudent } from "@/lib/student-context";
+import { PassagePreviewSection } from "@/components/passage-preview-section";
 
 type Status = { type: "success" | "error"; message: string } | null;
 type ImportError = { file: string; error: string };
@@ -450,6 +451,9 @@ export function DataManagementClient() {
           <p className="mt-1 text-sm text-blue-500">Stats unavailable.</p>
         )}
       </section>
+
+      {/* Passage Question Preview */}
+      <PassagePreviewSection adminPassword={adminPassword} />
 
       {student ? (
         <div className="rounded-xl border border-slate-200 bg-white p-4 shadow-sm">

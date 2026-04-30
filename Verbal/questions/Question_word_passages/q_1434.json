@@ -1,0 +1,16 @@
+{
+  "id": "q_1434",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The chef developed the restaurant's menu over a period of eighteen months, each dish was tested dozens of times before it was deemed ready to serve. The kitchen team contributed ideas throughout the process.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The chef developed the restaurant's menu over a period of eighteen months; each dish was tested dozens of times before it was deemed ready to serve.",
+    "B": "The chef developed the restaurant's menu over a period of eighteen months each dish was tested dozens of times before it was deemed ready to serve.",
+    "C": "The chef developed the restaurant's menu: over a period of eighteen months, each dish was tested dozens of times before it was deemed ready to serve.",
+    "D": "No change; the comma between the two clauses is correct because they describe the same development process."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The chef developed the restaurant's menu over a period of eighteen months' and 'each dish was tested dozens of times before it was deemed ready to serve' are both complete independent clauses. Choice A correctly uses a semicolon to separate them. Choice B creates a fused sentence. Choice C places the colon after 'menu,' but the phrase 'over a period of eighteen months' is part of the first clause and should not be separated from it by a colon. Choice D incorrectly defends the comma splice."
+}

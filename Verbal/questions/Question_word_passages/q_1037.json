@@ -1,0 +1,16 @@
+{
+  "id": "q_1037",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A sports scientist investigated the effect of pre-exercise caffeine consumption on 400-meter sprint performance in trained athletes. Each participant completed trials at different caffeine doses separated by one week. Mean sprint times were: placebo (0 mg), 52.8 seconds; 100 mg caffeine, 51.9 seconds (0.9-second improvement over placebo); 200 mg, 50.6 seconds (2.2-second improvement); 300 mg, 50.1 seconds (2.7-second improvement); 400 mg, 50.3 seconds (2.5-second improvement). The scientist concluded that caffeine improves sprint performance but that doses above 200 mg produce only marginal additional benefits.",
+  "question": "Which choice most effectively uses data from the study to support the scientist's conclusion?",
+  "choices": {
+    "A": "All caffeine doses produced faster sprint times than the placebo (52.8 seconds), confirming that caffeine enhances sprint performance at every dose tested.",
+    "B": "The 200 mg dose improved sprint time by 2.2 seconds over the placebo, while the 300 mg dose added only 0.5 additional seconds of improvement, and the 400 mg dose actually performed slightly worse than 300 mg (2.5 seconds vs. 2.7 seconds of improvement), indicating steeply diminishing—and eventually reversing—returns above 200 mg.",
+    "C": "The 300 mg dose produced the greatest total improvement over placebo (2.7 seconds), suggesting that athletes should use at least 300 mg of caffeine to maximize sprint performance.",
+    "D": "Sprint times at 400 mg (50.3 seconds) were slightly slower than at 300 mg (50.1 seconds), suggesting that very high caffeine doses may slightly impair performance."
+  },
+  "correct_answer": "B",
+  "explanation": "The scientist's conclusion requires demonstrating (1) that caffeine improves performance, and (2) that doses above 200 mg yield only marginal additional benefits. Choice B supports both: it shows the substantial 2.2-second gain from placebo to 200 mg, then shows that 300 mg adds only 0.5 seconds more, and notes that 400 mg performs slightly worse than 300 mg—establishing both the initial improvement and the plateau with diminishing returns above 200 mg. Choice A confirms only that all doses improve performance without addressing the marginal returns above 200 mg. Choice C correctly notes 300 mg has the greatest total improvement, but this implies benefits continue increasing up to 300 mg, which contradicts the scientist's conclusion about marginal returns above 200 mg. Choice D identifies only the 400 mg plateau without establishing the threshold or the broader context needed to support the conclusion."
+}

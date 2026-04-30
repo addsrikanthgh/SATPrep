@@ -1,0 +1,16 @@
+{
+  "id": "q_1628",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The human gut contains roughly 38 trillion microorganisms—bacteria, archaea, fungi, and viruses—that collectively form what scientists call the gut microbiome. Research over the past two decades has revealed that this community of microorganisms does far more than aid digestion. It influences immune function, produces neurotransmitters that affect mood, regulates inflammation, and may play a role in conditions ranging from obesity to depression. The microbiome has been described as a 'second genome'—one that interacts continuously with the human genome to shape health in ways scientists are still working to understand.",
+  "question": "Which choice best describes the function of the phrase 'second genome' as used in the text?",
+  "choices": {
+    "A": "It introduces a technical term used by scientists to refer to the DNA within gut microorganisms.",
+    "B": "It serves as a metaphor that captures the microbiome's far-reaching influence on human health, suggesting it functions almost like a second set of genetic instructions.",
+    "C": "It argues that the microbiome is more important to health than the human genome.",
+    "D": "It describes a specific experiment in which scientists mapped the genetic sequence of gut microorganisms."
+  },
+  "correct_answer": "B",
+  "explanation": "The phrase 'second genome' appears in the final sentence in quotation marks, signaling a metaphorical usage. The sentence immediately before it explains why the metaphor fits: the microbiome influences immune function, produces neurotransmitters, regulates inflammation, and contributes to a range of health conditions—functions that parallel the wide-ranging influence of the human genome. The 'second genome' metaphor captures the idea that the microbiome's influence on health is as broad and continuous as that of the genome itself. Choice B accurately identifies this as a metaphor that communicates the microbiome's pervasive influence. Choice A misreads the phrase as a technical term for microorganism DNA—it is not; it refers to the microbiome's functional role. Choice C draws a comparison (more important than the human genome) that the text does not make. Choice D introduces a specific experiment that the text does not describe."
+}

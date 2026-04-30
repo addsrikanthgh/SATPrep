@@ -1,0 +1,16 @@
+{
+  "id": "q_1374",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The lead attorney entered the courtroom and placed her briefcase on the defense table, she then turned to greet her client who had just been escorted in by two corrections officers. The judge would not arrive for another fifteen minutes.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The lead attorney entered the courtroom, placed her briefcase on the defense table, and then turned to greet her client who had just been escorted in by two corrections officers.",
+    "B": "The lead attorney entered the courtroom and placed her briefcase on the defense table; she then turned to greet her client who had just been escorted in by two corrections officers.",
+    "C": "The lead attorney entered the courtroom and placed her briefcase on the defense table. Turning to greet her client who had just been escorted in by two corrections officers.",
+    "D": "No change; the comma appropriately separates the two actions performed by the attorney."
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence is a comma splice. After 'the defense table,' the sentence continues with 'she then turned to greet her client'—an independent clause with its own subject ('she') and predicate. Two independent clauses cannot be joined by only a comma. Choice B uses a semicolon to correctly join the two related independent clauses. Choice A restructures the sentence as a three-part compound predicate with a single subject ('The lead attorney'), which is grammatically correct. Choice C creates a participial phrase fragment ('Turning to greet her client'). Choice D incorrectly defends the comma splice."
+}

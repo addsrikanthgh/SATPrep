@@ -1,0 +1,16 @@
+{
+  "id": "q_1296",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Not only the district superintendent but also the members of the school board has acknowledged that the reading scores reported in the annual performance review are significantly below state benchmarks. A comprehensive literacy initiative is being developed in response.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Not only the district superintendent but also the members of the school board have acknowledged that the reading scores reported in the annual performance review are significantly below state benchmarks.",
+    "B": "Not only the district superintendent but also the members of the school board has acknowledged that reading scores are significantly below state benchmarks.",
+    "C": "Not only the district superintendent but also the member of the school board has acknowledged that reading scores are below state benchmarks.",
+    "D": "No change; 'has acknowledged' correctly agrees with 'the district superintendent,' the subject in a not only/but also construction"
+  },
+  "correct_answer": "A",
+  "explanation": "In 'not only...but also' constructions, the verb agrees with the subject closest to it (the nearer subject). The nearer subject is 'the members of the school board,' where 'members' is a plural noun. The plural verb 'have acknowledged' is required. Choice A uses 'have acknowledged.' Choice B preserves 'has acknowledged.' Choice C changes 'members' to 'member' (singular) and uses 'has acknowledged'—internally consistent but changes the meaning. Choice D incorrectly applies the nearer-subject rule to 'the district superintendent,' which is the farther subject."
+}

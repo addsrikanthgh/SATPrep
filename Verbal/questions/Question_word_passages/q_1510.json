@@ -1,0 +1,16 @@
+{
+  "id": "q_1510",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Sleep deprivation has well-documented effects on cognitive performance, mood, and physical health. Studies consistently show that sleeping fewer than seven hours a night increases the risk of obesity, diabetes, cardiovascular disease, and immune dysfunction. What is less widely appreciated is that even mild, chronic sleep restriction—losing an hour or two a night over weeks—produces deficits in attention and decision-making that individuals themselves often fail to notice. This unawareness of impairment may be one reason that chronic sleep restriction persists: people who feel accustomed to sleeping less may not recognize that their performance has declined.",
+  "question": "What is the primary function of the fourth sentence ('This unawareness of impairment...') in the passage?",
+  "choices": {
+    "A": "To list the health consequences of sleep deprivation described in the second sentence",
+    "B": "To explain why the cognitive impairment described in the third sentence may persist unaddressed",
+    "C": "To introduce a counterargument to the research findings described in the third sentence",
+    "D": "To define what is meant by 'chronic sleep restriction'"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence identifies an important fact: people with chronic mild sleep restriction often do not notice their own cognitive impairment. The fourth sentence explains the consequence of this unawareness—it may perpetuate the sleep restriction because people do not recognize they need to change their habits. The fourth sentence answers the implicit question 'Why does this kind of sleep loss persist despite its effects?' Choice A is incorrect—health consequences are listed in the second sentence. Choice C is incorrect—the fourth sentence extends the argument of the third rather than contradicting it. Choice D is incorrect—'chronic sleep restriction' is implicitly defined in the third sentence as losing an hour or two per night over weeks."
+}

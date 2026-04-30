@@ -1,0 +1,16 @@
+{
+  "id": "q_1594",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The spotted owl controversy of the late 1980s and 1990s forced a confrontation between environmental conservation and timber industry interests in the Pacific Northwest. The northern spotted owl was listed as a threatened species under the Endangered Species Act in 1990, primarily because old-growth forest—the owl's critical habitat—was being logged at a rapid rate. Restrictions on logging to protect the owl's habitat triggered fierce opposition from the timber industry and loggers, who argued that the restrictions would devastate logging-dependent communities. The resulting conflict was framed in the media largely as 'owls versus jobs.' Critics of this framing argued that it obscured the fact that timber industry automation had already been eliminating logging jobs for decades before spotted owl protections were enacted, and that the owls were a proxy for a deeper dispute about who should control public lands and natural resources.",
+  "question": "A student argues that the 'owls versus jobs' framing used in media coverage of the spotted owl controversy was misleading. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"The northern spotted owl was listed as a threatened species under the Endangered Species Act in 1990.\"",
+    "B": "\"[T]imber industry automation had already been eliminating logging jobs for decades before spotted owl protections were enacted.\"",
+    "C": "\"Restrictions on logging to protect the owl's habitat triggered fierce opposition from the timber industry and loggers.\"",
+    "D": "\"[T]he owls were a proxy for a deeper dispute about who should control public lands and natural resources.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student claims the 'owls versus jobs' framing was misleading. For the framing to be misleading, the evidence must show that the causal story it implies—conservation rules destroyed jobs—was not accurate. Choice B directly challenges this: logging job losses were already occurring due to automation 'for decades before spotted owl protections were enacted.' This means the framing falsely attributed job losses to the owl protections when the actual cause predated those protections. Choice A establishes the legal timeline but doesn't address whether the framing was misleading. Choice C describes industry opposition, which supports the idea that the conflict was real but doesn't challenge the accuracy of the framing. Choice D describes the deeper political dispute—a different kind of criticism of the framing (about what the real conflict was about) but less directly about the jobs-claim being false."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1558",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A criminologist analyzed the relationship between a city's annual community policing budget (in millions of dollars) and its property crime rate (crimes per 1,000 residents) over six years.\n\n| Year | Community Policing Budget ($M) | Property Crime Rate |\n|---|---|---|\n| Year 1 | 2.1 | 48 |\n| Year 2 | 2.4 | 45 |\n| Year 3 | 3.0 | 43 |\n| Year 4 | 2.7 | 44 |\n| Year 5 | 3.5 | 39 |\n| Year 6 | 4.1 | 35 |\n\nThe criminologist stated that increased investment in community policing is associated with reduced property crime rates, noting that Year 4 represents a minor deviation from the trend.",
+  "question": "A critic argued that the Year 4 deviation is significant enough to undermine the criminologist's broader claim. Which response best defends the criminologist's position against the critic's argument?",
+  "choices": {
+    "A": "Year 4 should be excluded from the analysis since it contains an error.",
+    "B": "Year 4 is not a significant deviation: the budget dropped only $0.3M (from $3.0M to $2.7M) and crime rose only 1 point (from 43 to 44). Both then continued their trends in Year 5 and Year 6, and the overall trajectory across six years strongly supports the inverse relationship.",
+    "C": "The critic is correct that Year 4 undermines the claim, but the data still shows a trend.",
+    "D": "Year 4's data is unreliable because crime rates are difficult to measure accurately."
+  },
+  "correct_answer": "B",
+  "explanation": "The criminologist's claim is an association between higher community policing budgets and lower crime rates across six years. The critic claims Year 4 is a significant enough deviation to undermine the broader claim. To defend against this, the best response shows that Year 4 is a minor, proportional deviation consistent with the overall trend. Choice B does exactly this: it contextualizes the deviation (a $0.3M drop in budget corresponding to a 1-point increase in crime), and notes that both variables resumed their trajectories immediately in Years 5 and 6. This shows that Year 4 is noise within a consistent trend, not evidence against the claim. Choice A suggests scientific misconduct (data exclusion). Choice C concedes too much ground. Choice D introduces an unsupported claim about data reliability."
+}

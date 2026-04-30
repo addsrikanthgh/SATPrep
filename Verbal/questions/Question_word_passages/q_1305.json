@@ -1,0 +1,16 @@
+{
+  "id": "q_1305",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "One of the most frequently overlooked provisions of the original agreement between the two nations require both parties to submit annual progress reports to an independent monitoring body. Compliance with this provision has been inconsistent since the agreement was signed.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "One of the most frequently overlooked provisions of the original agreement between the two nations requires both parties to submit annual progress reports to an independent monitoring body.",
+    "B": "One of the most frequently overlooked provisions of the original agreement between the two nations require both parties to submit annual progress reports.",
+    "C": "One of the most frequently overlooked provision of the original agreement between the two nations requires both parties to submit annual progress reports.",
+    "D": "No change; 'require' correctly agrees with 'the two nations' or 'provisions,' the nearest plural nouns"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'One,' an indefinite pronoun that is always singular. The prepositional phrase 'of the most frequently overlooked provisions of the original agreement between the two nations' modifies 'One' but does not change its number. The singular verb 'requires' is correct. Choice A uses 'requires.' Choice B preserves 'require.' Choice C changes 'provisions' to the singular 'provision,' making the phrase 'One of the most frequently overlooked provision' grammatically incorrect. Choice D incorrectly applies proximity agreement to either 'the two nations' or 'provisions.'"
+}

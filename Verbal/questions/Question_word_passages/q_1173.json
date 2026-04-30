@@ -1,0 +1,16 @@
+{
+  "id": "q_1173",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Considered one of the most important legal reforms of the twentieth century, Congress passed the Civil Rights Act of 1964 after years of protests, boycotts, and legislative battles. The law prohibited discrimination based on race, color, religion, sex, or national origin in employment and public accommodations.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Considered one of the most important legal reforms of the twentieth century, the Civil Rights Act of 1964 was passed by Congress after years of protests, boycotts, and legislative battles.",
+    "B": "Congress, considered one of the most important legal reforms of the twentieth century, passed the Civil Rights Act of 1964.",
+    "C": "After years of protests, boycotts, and legislative battles, Congress considered and passed the Civil Rights Act of 1964, one of the most important legal reforms.",
+    "D": "No change; 'considered' modifies the Civil Rights Act of 1964, which is the object of the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Considered one of the most important legal reforms of the twentieth century' describes the Civil Rights Act. As written, 'Congress' is the subject following the phrase, implying that Congress is considered one of the most important legal reforms—which is illogical. Choice A restructures so that 'the Civil Rights Act of 1964' is the subject. Choice B explicitly attaches the phrase to Congress, making the error worse. Choice C removes the participial phrase and replaces it with a prepositional phrase, losing the specific attribute about the act's importance. Choice D incorrectly argues that a participial phrase can modify an object."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1022",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An economist examining household savings behavior collected data on the percentage of income saved across annual income levels. Average savings rates by income tier were: under $30,000, −2.1%; $30,000–$49,999, 1.4%; $50,000–$74,999, 4.8%; $75,000–$99,999, 8.3%; $100,000–$149,999, 12.7%; and $150,000 and above, 19.5%. The economist argued that the relationship between income and savings rate is not merely positive but accelerating: each successive income tier saves at a progressively faster rate than the tier below it.",
+  "question": "Which choice most effectively uses data from the study to support the economist's argument?",
+  "choices": {
+    "A": "The savings rate increases from −2.1% for households earning under $30,000 to 19.5% for households earning $150,000 or more, confirming a positive relationship between income and savings.",
+    "B": "The incremental gains between consecutive income tiers grow larger at higher income levels: the gap between the bottom two tiers is 3.5 percentage points, while the gap between the top two tiers ($100,000–$149,999 and $150,000+) is 6.8 percentage points—nearly twice as large—demonstrating that savings rates accelerate at higher incomes.",
+    "C": "Households earning under $30,000 have a negative savings rate of −2.1%, indicating that low-income households routinely spend more than they earn.",
+    "D": "The savings rate for households earning $100,000–$149,999 is 12.7%, nearly double the 4.8% rate for households earning $50,000–$74,999, demonstrating a large jump at higher income levels."
+  },
+  "correct_answer": "B",
+  "explanation": "The economist's specific claim is 'accelerating'—each successive tier saves at a progressively faster rate, not merely more. Choice B directly tests this by comparing the incremental gap at the bottom (3.5 pp between tiers 1 and 2) to the gap at the top (6.8 pp between tiers 5 and 6), demonstrating that the gaps themselves grow, which is what 'accelerating' means. Choice A merely confirms a positive relationship, not acceleration. Choice C highlights negative savings at low income without addressing the rate of change across tiers. Choice D identifies one large jump but does not establish the progressive acceleration across all consecutive tiers."
+}

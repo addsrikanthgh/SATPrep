@@ -1,0 +1,16 @@
+{
+  "id": "q_1159",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Alarmed by the rapid spread of the invasive plant species, emergency containment measures were enacted by the state agriculture department within forty-eight hours of the initial report. Field teams were immediately deployed to the affected regions to begin manual removal and application of targeted herbicides.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Alarmed by the rapid spread of the invasive plant species, the state agriculture department enacted emergency containment measures within forty-eight hours of the initial report.",
+    "B": "Emergency containment measures, alarmed by the rapid spread of the invasive plant species, were enacted by the state agriculture department.",
+    "C": "The invasive plant species, alarmed by the rapid spread, prompted emergency containment measures from the state agriculture department.",
+    "D": "No change; 'alarmed' modifies the state agriculture department, which is named later in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Alarmed by the rapid spread of the invasive plant species' describes an entity capable of alarm. As written, the subject of the main clause is 'emergency containment measures,' which cannot be alarmed. Choice A correctly restructures the sentence so that 'the state agriculture department'—the logical entity experiencing alarm—is the subject. Choice B places the participial phrase as an appositive of 'emergency containment measures,' preserving the logical error. Choice C absurdly attributes alarm to the invasive plant species. Choice D incorrectly argues that a participial phrase can modify a noun elsewhere in the sentence."
+}

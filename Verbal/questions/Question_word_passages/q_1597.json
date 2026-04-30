@@ -1,0 +1,16 @@
+{
+  "id": "q_1597",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "The 'just world hypothesis,' described by psychologist Melvin Lerner in 1980, refers to the cognitive bias in which people believe that the world is fundamentally fair and that individuals get what they deserve. This belief serves a psychological function: it allows people to feel that the world is predictable and controllable, and that negative outcomes can be avoided through virtuous behavior. However, the hypothesis also produces a troubling consequence: when people encounter a victim of misfortune or injustice, they may unconsciously denigrate or blame the victim rather than acknowledge the randomness of suffering, because the latter would threaten their belief in a just world. Lerner found that observers who were unable to compensate a victim tended to derogate the victim more than observers who could help. Research has also shown that just-world beliefs are associated with lower levels of empathy toward disadvantaged groups and reduced support for redistributive social policies.",
+  "question": "A student argues that belief in a just world, despite its psychological benefits, can lead to harmful attitudes toward victims and disadvantaged people. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"[T]he hypothesis also produces a troubling consequence: when people encounter a victim of misfortune or injustice, they may unconsciously denigrate or blame the victim rather than acknowledge the randomness of suffering.\"",
+    "B": "\"This belief serves a psychological function: it allows people to feel that the world is predictable and controllable.\"",
+    "C": "\"Lerner found that observers who were unable to compensate a victim tended to derogate the victim more than observers who could help.\"",
+    "D": "\"[J]ust-world beliefs are associated with lower levels of empathy toward disadvantaged groups and reduced support for redistributive social policies.\""
+  },
+  "correct_answer": "A",
+  "explanation": "The student's argument is specifically about the coexistence of psychological benefits ('despite its psychological benefits') and harmful attitudes toward victims and disadvantaged people. Choice A captures both sides: it explicitly frames the victim-blaming as a 'troubling consequence' of the hypothesis—acknowledging that it is a negative by-product—and describes the mechanism (blaming the victim to protect the belief in a just world). The phrase 'despite its psychological benefits' in the student's argument implies the benefits are already understood; the evidence needed is about the harmful side. Choice A's framing ('also produces a troubling consequence') mirrors the student's 'despite' structure. Choice B describes only the benefits—the opposite of what needs to be supported. Choice C describes Lerner's finding about victim derogation—empirical support for victim-blaming but narrower than A. Choice D describes effects on empathy and social policy—also supporting evidence but less directly about 'attitudes toward victims.'"
+}

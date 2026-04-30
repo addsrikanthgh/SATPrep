@@ -1,0 +1,16 @@
+{
+  "id": "q_1222",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The school board nearly cut the entire performing arts budget at the emergency session. Following an outpouring of community opposition, the board restored most of the funding but scaled back capital improvements to the auditorium.",
+  "question": "The word 'nearly' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The school board cut nearly the entire performing arts budget at the emergency session.",
+    "B": "Nearly the school board cut the entire performing arts budget at the emergency session.",
+    "C": "The school board cut the nearly entire performing arts budget at the emergency session.",
+    "D": "No change; 'nearly cut' is acceptable because it means the board came close to making the full cut, consistent with the partial restoration"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence states the board 'restored most of the funding,' implying a cut was made—the board did cut the budget, not merely came close to cutting it. The intended meaning is that they cut almost all of the budget. 'Nearly' should modify 'the entire performing arts budget,' indicating the cut was nearly total. As written, 'nearly cut the entire budget' means the board almost (but didn't) cut it all. Choice A places 'nearly' before 'the entire,' conveying that nearly the whole budget was cut. Choice B places 'nearly' before 'the school board,' implying the board barely existed. Choice C places 'nearly' before 'entire,' which is also acceptable—'nearly the entire' and 'nearly entire' convey the same meaning—making A the clearest standard correction. Choice D incorrectly defends the current placement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1171",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Impressed by the rapid growth of its user base, the board of directors voted to increase the social media company's marketing budget by 40 percent. The chief marketing officer announced that the additional funds would be directed primarily toward international expansion.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Impressed by the rapid growth of its user base, the social media company's board of directors voted to increase the marketing budget by 40 percent.",
+    "B": "The board of directors, impressed by the rapid growth of the social media company's user base, voted to increase the marketing budget by 40 percent.",
+    "C": "The social media company's marketing budget, impressed by its rapid user base growth, was increased by the board by 40 percent.",
+    "D": "No change; 'impressed' correctly modifies the board of directors, which is the subject of the sentence"
+  },
+  "correct_answer": "D",
+  "explanation": "In this sentence, 'Impressed by the rapid growth of its user base' is a participial phrase modifying 'the board of directors,' which is the subject of the main clause immediately following the comma. This is correct participial phrase placement—the modifier directly precedes the noun it describes. The board of directors can be impressed. Choice A is also grammatically correct but unnecessarily restructures a sentence that is already correct. Choice B is also grammatically correct. Choice C makes 'the marketing budget' the subject following the participial phrase, creating a dangling modifier. Choice D correctly identifies that no change is needed."
+}

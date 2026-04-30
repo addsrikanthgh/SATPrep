@@ -1,0 +1,16 @@
+{
+  "id": "q_1182",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The scientist found a fossilized specimen of a new theropod species buried beneath twelve meters of sediment with an unusually long forelimb. The find adds to growing evidence that some predatory dinosaurs evolved enlarged forelimbs independently in multiple lineages.",
+  "question": "The phrase 'with an unusually long forelimb' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "The scientist found a fossilized specimen of a new theropod species with an unusually long forelimb buried beneath twelve meters of sediment.",
+    "B": "The scientist, with an unusually long forelimb, found a fossilized specimen of a new theropod species buried beneath twelve meters of sediment.",
+    "C": "Buried beneath twelve meters of sediment, the scientist found a fossilized specimen of a new theropod species with an unusually long forelimb.",
+    "D": "No change; 'with an unusually long forelimb' clearly modifies 'specimen' because it describes a physical feature of a dinosaur"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'with an unusually long forelimb' follows 'beneath twelve meters of sediment' and could be read as modifying 'sediment' or 'twelve meters.' The phrase should modify the theropod specimen. Choice A places 'with an unusually long forelimb' immediately after 'specimen,' making it clear that the specimen has the distinctive forelimb. Choice B places the phrase after 'the scientist,' implying the scientist has an unusually long forelimb. Choice C moves 'Buried beneath twelve meters of sediment' to the front, making it modify 'the scientist,' and keeps the misplaced forelimb phrase. Choice D incorrectly accepts end-of-sentence placement as logically clear."
+}

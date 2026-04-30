@@ -1,0 +1,16 @@
+{
+  "id": "q_1035",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An observational astronomer compared the detection capability of telescopes with five different aperture diameters under identical atmospheric conditions during a single observing session. Results were: 15 cm aperture, 312 objects detected, limiting magnitude 11.2; 20 cm aperture, 487 objects, limiting magnitude 12.4; 30 cm aperture, 891 objects, limiting magnitude 13.6; 45 cm aperture, 1,847 objects, limiting magnitude 14.9; 60 cm aperture, 3,204 objects, limiting magnitude 15.8. The astronomer concluded that larger apertures dramatically increase both the number of objects detectable and the faintest objects a telescope can resolve.",
+  "question": "Which choice most effectively uses data from the study to support the astronomer's conclusion?",
+  "choices": {
+    "A": "The 60 cm telescope detected 3,204 objects—more than ten times the 312 objects detected by the 15 cm telescope in the same observing session.",
+    "B": "As aperture increased from 15 to 60 cm, detected objects rose tenfold from 312 to 3,204, while limiting magnitude improved from 11.2 to 15.8, confirming that larger apertures dramatically enhanced both detection quantity and the ability to resolve faint objects.",
+    "C": "The 45 cm telescope detected 1,847 objects with a limiting magnitude of 14.9, substantially outperforming the 30 cm telescope's 891 detections and 13.6 limiting magnitude.",
+    "D": "Each doubling of aperture diameter from 15 to 30 cm and from 30 to 60 cm was associated with a 1.2-unit improvement in limiting magnitude, suggesting a consistent relationship between aperture size and resolving depth."
+  },
+  "correct_answer": "B",
+  "explanation": "The astronomer's conclusion has two parts: larger apertures increase (1) the number of objects detected AND (2) the limiting magnitude (ability to resolve fainter objects). Choice B is the only option that supports both parts—it cites the tenfold increase in object detection (312 to 3,204) and the improvement in limiting magnitude (11.2 to 15.8) across the full aperture range. Choice A supports only the first part—increased object count—without mentioning limiting magnitude. Choice C compares only two adjacent aperture sizes (30 and 45 cm), which does not demonstrate the dramatic scale of improvement across the full range. Choice D discusses only limiting magnitude through a specific doubling pattern, ignoring the equally important increase in objects detected."
+}

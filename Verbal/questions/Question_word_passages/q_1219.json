@@ -1,0 +1,16 @@
+{
+  "id": "q_1219",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Having conducted field research in twelve countries across three continents, the political geography of resource conflict became the defining focus of the professor's academic career. Her seminal work on water scarcity and territorial disputes has been cited in over two thousand peer-reviewed studies.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Having conducted field research in twelve countries across three continents, the professor made the political geography of resource conflict the defining focus of her academic career.",
+    "B": "The political geography of resource conflict, having conducted field research in twelve countries, became the defining focus of the professor's career.",
+    "C": "Conducting field research in twelve countries, the professor's political geography of resource conflict became her career focus.",
+    "D": "No change; 'having conducted' modifies the professor, whose career is the subject of the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Having conducted field research in twelve countries across three continents' describes the professor, who conducted the research. As written, 'the political geography of resource conflict' is the subject, implying that a field of geography conducted field research—illogical. Choice A restructures with 'the professor' as the subject. Choice B attaches the phrase to 'The political geography,' making the error explicit. Choice C uses 'Conducting' instead of 'Having conducted,' changes the tense, and makes the professor's 'political geography' the subject, which is still wrong. Choice D incorrectly argues that the professor's career being the subject's referent resolves the error."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1187",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Elected by an overwhelming majority in the first round of voting, the party's decisive victory surprised even veteran political analysts who had predicted a runoff. The new prime minister pledged to prioritize economic reform and social investment in her first hundred days.",
+  "question": "Is there a modifier error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'elected' modifies 'the party's decisive victory,' but a victory cannot be elected.",
+    "B": "Yes; 'Elected by an overwhelming majority' should be placed after 'prime minister' rather than at the beginning of the sentence.",
+    "C": "Yes; 'in the first round of voting' is misplaced and should follow 'elected' immediately.",
+    "D": "No; the participial phrase 'Elected by an overwhelming majority in the first round of voting' correctly modifies 'the party's decisive victory' since the victory resulted from the election."
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Elected by an overwhelming majority in the first round of voting' must modify a noun that can logically be elected. As written, the subject of the main clause is 'the party's decisive victory,' which cannot be elected—only a person or candidate can be elected. The sentence needs to be restructured so that the party, candidate, or prime minister is the subject. Choice A correctly identifies the dangling modifier error. Choice B incorrectly suggests moving the phrase to after 'prime minister' without recognizing that the prime minister isn't named in the first sentence. Choice C addresses a different, non-existent problem. Choice D offers a faulty logical defense."
+}

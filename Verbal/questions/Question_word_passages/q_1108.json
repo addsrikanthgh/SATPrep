@@ -1,0 +1,16 @@
+{
+  "id": "q_1108",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the museum director nor the curatorial staff members had anticipated the controversy that would follow the acquisition of the disputed colonial-era artifacts. In a joint statement, they acknowledged that the provenance research had been incomplete at the time of purchase.",
+  "question": "Which choice best describes the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "Incorrect; 'they' should be 'he or she' to agree with the singular museum director",
+    "B": "Incorrect; 'they' should be 'it' because the museum is a collective institution",
+    "C": "Correct; 'they' agrees with the nearer antecedent 'the curatorial staff members,' which is plural",
+    "D": "Correct; 'they' refers to the museum director and staff together as a plural group"
+  },
+  "correct_answer": "C",
+  "explanation": "In a neither/nor construction, the pronoun agrees with the nearer antecedent. 'The curatorial staff members' (plural) is nearer to 'they' than 'the museum director' (singular), so the plural 'they' is correct. Choice A incorrectly applies agreement to the more distant singular antecedent. Choice B introduces the museum as an unstated collective entity. Choice D incorrectly treats the neither/nor construction as producing a compound plural subject; it follows the nearer-antecedent rule."
+}

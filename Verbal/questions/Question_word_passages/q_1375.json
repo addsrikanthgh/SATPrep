@@ -1,0 +1,16 @@
+{
+  "id": "q_1375",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Upon completing the twelve-week accelerated design program, a certificate of professional achievement was awarded to each student who had maintained a grade point average above 3.5. The program director praised the cohort's exceptional dedication and technical growth.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "Upon completing the twelve-week accelerated design program, each student who had maintained a grade point average above 3.5 was awarded a certificate of professional achievement.",
+    "B": "Upon completing the twelve-week accelerated design program, certificates of professional achievement were awarded to students who had maintained a grade point average above 3.5.",
+    "C": "Each student who completed the twelve-week accelerated design program and maintained a grade point average above 3.5 was awarded a certificate of professional achievement upon completion.",
+    "D": "No change; the introductory phrase 'Upon completing' correctly modifies 'a certificate of professional achievement.'"
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence contains a dangling modifier. The introductory participial phrase 'Upon completing the twelve-week accelerated design program' implies a subject—whoever is doing the completing—but the grammatical subject of the sentence is 'a certificate of professional achievement.' A certificate cannot complete a program; the students do. The phrase dangles. To fix it, the subject of the main clause must be the entity performing the action in the introductory phrase. Choice A makes 'each student' the subject of the main clause, correctly aligning the modifier. Choice B uses 'certificates' as the subject—still not the entity doing the completing. Choice C moves the modifier inside the relative clause. Choice D incorrectly defends the dangling modifier."
+}

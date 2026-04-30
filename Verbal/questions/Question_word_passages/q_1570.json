@@ -1,0 +1,16 @@
+{
+  "id": "q_1570",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A behavioral economist surveyed adults about their retirement savings habits across four age groups, recording the percentage of respondents who reported regularly contributing to retirement savings.\n\n| Age Group | % Regularly Contributing to Retirement Savings |\n|---|---|\n| 18–29 | 34 |\n| 30–44 | 58 |\n| 45–59 | 72 |\n| 60–70 | 69 |\n\nThe economist hypothesized that retirement savings participation increases with age, but may plateau or decline among those closest to retirement.",
+  "question": "Which finding most directly supports both parts of the economist's hypothesis?",
+  "choices": {
+    "A": "Savings participation rises from 34% (18–29) to 72% (45–59) across the first three age groups, but declines slightly to 69% in the 60–70 group—supporting both the increasing trend and the potential plateau or decline near retirement age.",
+    "B": "The 60–70 age group has a lower savings rate than the 45–59 group.",
+    "C": "The 45–59 age group has the highest savings rate at 72%.",
+    "D": "The savings rate more than doubles from the youngest age group to the 30–44 group."
+  },
+  "correct_answer": "A",
+  "explanation": "The economist's hypothesis has two parts: (1) savings participation increases with age, and (2) it may plateau or decline near retirement. Choice A directly addresses both parts in a single statement: it shows the increase across the first three groups (34% → 58% → 72%) and then identifies the slight decline in the 60–70 group (to 69%), supporting the plateau/decline near retirement. This two-part analysis matches the two-part hypothesis. Choice B addresses only the second part (decline near retirement). Choice C identifies only the peak value without establishing the trend or the decline. Choice D addresses only one step of the increasing trend without mentioning the plateau or decline."
+}

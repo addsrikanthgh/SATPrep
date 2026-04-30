@@ -1,0 +1,16 @@
+{
+  "id": "q_1326",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Not only the director of operations but also the two senior quality assurance managers has been suspended pending a full investigation into the product recall. The company's legal team is reviewing all internal communications from the past six months.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Not only the director of operations but also the two senior quality assurance managers have been suspended pending a full investigation into the product recall.",
+    "B": "Not only the director of operations but also the two senior quality assurance managers has been suspended pending a full investigation.",
+    "C": "Not only the director of operations but also the senior quality assurance manager has been suspended pending a full investigation into the product recall.",
+    "D": "No change; 'has been suspended' correctly agrees with 'the director of operations,' the subject in a not only/but also construction"
+  },
+  "correct_answer": "A",
+  "explanation": "In 'not only...but also' constructions, the verb agrees with the subject closer to the verb (the nearer subject). The nearer subject is 'the two senior quality assurance managers,' where 'managers' is a plural noun. The plural verb 'have been suspended' is required. Choice A uses 'have been suspended.' Choice B preserves 'has been suspended.' Choice C changes 'two senior quality assurance managers' to 'the senior quality assurance manager' (singular) and uses 'has been suspended'—internally consistent but changes the sentence's meaning. Choice D incorrectly identifies 'the director of operations' as the governing subject; it is the farther subject."
+}

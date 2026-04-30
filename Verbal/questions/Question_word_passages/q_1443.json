@@ -1,0 +1,16 @@
+{
+  "id": "q_1443",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The linguist's analysis revealed that the dialect spoken in the isolated mountain villages retained phonological features that had disappeared from the surrounding lowland varieties centuries earlier this finding suggested that the communities had experienced minimal contact with outsiders throughout that period.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The linguist's analysis revealed that the dialect spoken in the isolated mountain villages retained phonological features that had disappeared from the surrounding lowland varieties centuries earlier; this finding suggested that the communities had experienced minimal contact with outsiders throughout that period.",
+    "B": "The linguist's analysis revealed that the dialect spoken in the isolated mountain villages retained phonological features that had disappeared from the surrounding lowland varieties centuries earlier, this finding suggested that the communities had experienced minimal contact with outsiders.",
+    "C": "The linguist's analysis revealed that the dialect retained phonological features that had disappeared centuries earlier; suggesting the communities had experienced minimal contact with outsiders.",
+    "D": "The linguist's analysis revealed a troubling finding: the dialect retained phonological features that had disappeared from surrounding areas and suggested minimal contact with outsiders."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'The linguist's analysis revealed that the dialect spoken in the isolated mountain villages retained phonological features that had disappeared from the surrounding lowland varieties centuries earlier' is a complete independent clause, and 'this finding suggested that the communities had experienced minimal contact with outsiders throughout that period' is a second complete independent clause. Choice A uses a semicolon to correctly separate them. The semicolon is apt because the second clause follows logically as an inference from the first. Choice B creates a comma splice. Choice C uses a semicolon but converts the second clause into a participial fragment. Choice D significantly rewrites the passage."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1283",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The research committee, together with the department heads from both the biochemistry and molecular biology programs, are planning to submit a joint grant proposal to the National Institutes of Health. The proposal would fund three new faculty positions and a state-of-the-art imaging facility.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The research committee, together with the department heads from both the biochemistry and molecular biology programs, is planning to submit a joint grant proposal to the National Institutes of Health.",
+    "B": "The research committee together with the department heads from both the biochemistry and molecular biology programs are planning to submit a joint grant proposal.",
+    "C": "The research committee, together with the department heads from both programs, have been planning to submit a joint grant proposal to the National Institutes of Health.",
+    "D": "No change; 'are planning' agrees with 'the department heads,' the nearest plural noun, which is the effective subject"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The research committee,' a singular collective noun. The phrase 'together with the department heads from both the biochemistry and molecular biology programs' is a parenthetical addition set off by commas; it does not alter the subject's number. The singular verb 'is planning' is required. Choice A uses 'is planning.' Choice B removes the commas around 'together with,' treating the phrase as part of the compound subject—even so, 'together with' is not a coordinating conjunction and does not create a compound subject. Choice C uses 'have been planning,' a plural present perfect. Choice D incorrectly applies proximity agreement."
+}

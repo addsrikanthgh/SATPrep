@@ -1,0 +1,16 @@
+{
+  "id": "q_1110",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Philosophers Immanuel Kant and David Hume disagreed profoundly on the origins of moral judgment. While Hume grounded ethics in sentiment and sympathy, he maintained that moral principles must be derived from pure practical reason, independent of experience or emotion.",
+  "question": "The pronoun 'he' in the second sentence is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Kant",
+    "B": "Hume",
+    "C": "the rationalist philosopher",
+    "D": "No change; 'he' clearly refers to Kant because the second clause contrasts with Hume's position"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Kant and Hume are male, so 'he' could grammatically refer to either. Although the content of the second clause—grounding morality in pure reason—is associated with Kant, a reader should not need to apply philosophical knowledge to identify a pronoun's antecedent. Formal writing requires explicit naming. Choice A names Kant. Choice B would assign Kant's rationalist position to Hume, contradicting both history and the passage's contrast. Choice C introduces 'the rationalist philosopher,' a label not used in the passage. Choice D incorrectly treats logical contrast as sufficient to resolve grammatical ambiguity."
+}

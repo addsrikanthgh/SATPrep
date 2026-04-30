@@ -1,0 +1,16 @@
+{
+  "id": "q_1274",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the clinical trial coordinator nor the principal investigators believes that the adverse event data support the hypothesis that the experimental drug causes liver damage. The data analysis team is conducting a separate, blinded review of all case files.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'believes' should be 'believe' because the compound subject joined by 'neither/nor' is plural.",
+    "B": "Yes; 'believes' should be 'believe' because 'the principal investigators' is the nearer plural subject.",
+    "C": "Yes; 'support' should be 'supports' because the subject of the relative clause is 'the adverse event data,' a singular collective noun.",
+    "D": "No; 'believes' correctly agrees with 'the clinical trial coordinator,' and 'support' correctly agrees with 'data,' both satisfying their respective subject-verb requirements."
+  },
+  "correct_answer": "B",
+  "explanation": "In neither/nor constructions, the verb agrees with the nearer subject. Here, the nearer subject is 'the principal investigators,' which is plural. Therefore, the verb 'believe' (not 'believes') is required. 'Believes' is a singular verb that disagrees with the plural nearer subject. The second verb, 'support,' agrees with 'data,' which is plural (data = plural of datum), so that verb is correct. Choice B correctly identifies the error. Choice A incorrectly states neither/nor always takes a plural verb. Choice C incorrectly claims 'data' is a singular collective noun—'data' is conventionally plural in academic/scientific usage. Choice D incorrectly applies the nearer-subject rule to 'the clinical trial coordinator,' the farther subject."
+}

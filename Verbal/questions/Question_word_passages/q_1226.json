@@ -1,0 +1,16 @@
+{
+  "id": "q_1226",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The board even passed a resolution commending the outgoing director before she had formally announced her retirement. Her announcement, made the following week, came as a surprise to no one given the board's preemptive action.",
+  "question": "The word 'even' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The board passed even a resolution commending the outgoing director before she had formally announced her retirement.",
+    "B": "The board passed a resolution commending even the outgoing director before she had formally announced her retirement.",
+    "C": "Even the board passed a resolution commending the outgoing director before she had formally announced her retirement.",
+    "D": "No change; 'even passed' is idiomatic and emphasizes the unexpectedness of the board's action"
+  },
+  "correct_answer": "D",
+  "explanation": "In this sentence, 'even' is used as an adverb to emphasize the unexpectedness of the board's action—they went so far as to pass a resolution before the director had announced her retirement. 'Even passed' is a standard English construction where 'even' modifies the entire predicate to convey that the action was surprising or extreme. This usage is grammatically correct. Choice A places 'even' before 'a resolution,' implying the resolution itself was surprising. Choice B places 'even' before 'the outgoing director,' implying she was an unlikely target of commendation. Choice C places 'even' before 'the board,' emphasizing that the board (of all bodies) took this action, which changes the emphasis. Choice D correctly identifies no change is needed."
+}

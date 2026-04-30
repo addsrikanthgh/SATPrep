@@ -1,0 +1,16 @@
+{
+  "id": "q_1250",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Not only the superintendent but also the three principals who oversee the district's middle schools has been invited to present at the national conference on adolescent literacy. Their combined expertise spans three decades of curriculum development.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Not only the superintendent but also the three principals who oversee the district's middle schools have been invited to present at the national conference.",
+    "B": "Not only the superintendent but also the three principals who oversee the district's middle schools has been invited to presents at the national conference.",
+    "C": "Not only the three principals who oversee the district's middle schools but also the superintendent have been invited to present at the national conference.",
+    "D": "No change; 'has been invited' agrees with 'the superintendent,' the subject closest to the verb in a not only/but also construction"
+  },
+  "correct_answer": "A",
+  "explanation": "In 'not only…but also' constructions, the verb agrees with the subject closer to the verb. The subject closer to the verb is 'the three principals who oversee the district's middle schools,' which is plural. Therefore, the plural verb 'have been invited' is correct. Choice A uses 'have been invited.' Choice B keeps the singular verb and introduces the error 'invited to presents.' Choice C reverses the order of subjects so that 'the superintendent' (singular) becomes the nearer subject, which would correctly take 'have been invited'—but 'have' does not agree with a singular subject, so this choice creates its own error unless 'has been' is used. Choice D incorrectly identifies the nearer subject as 'the superintendent.'"
+}

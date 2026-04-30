@@ -1,0 +1,16 @@
+{
+  "id": "q_1473",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The astronomer's most important contribution to the field was not a single dramatic discovery but rather a methodical, decades-long cataloguing effort her meticulous records of stellar positions and proper motions formed the empirical backbone of three later Nobel Prize-winning studies.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The astronomer's most important contribution to the field was not a single dramatic discovery but rather a methodical, decades-long cataloguing effort; her meticulous records of stellar positions and proper motions formed the empirical backbone of three later Nobel Prize-winning studies.",
+    "B": "The astronomer's most important contribution to the field was not a single dramatic discovery but rather a methodical, decades-long cataloguing effort, her meticulous records of stellar positions and proper motions formed the empirical backbone of three later Nobel Prize-winning studies.",
+    "C": "The astronomer's most important contribution to the field was not a single dramatic discovery but rather a methodical, decades-long cataloguing effort: her meticulous records of stellar positions and proper motions formed the empirical backbone of three later Nobel Prize-winning studies.",
+    "D": "The astronomer's most important contribution to the field was a methodical, decades-long cataloguing effort; her meticulous records of stellar positions and proper motions formed the empirical backbone of three later Nobel Prize-winning studies."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. A colon is the most precise fix here because the second clause directly explains or defines the 'cataloguing effort' named at the end of the first clause—it tells us specifically what that effort consisted of and why it mattered. When a second clause directly elaborates on a noun or phrase that ends the first clause, a colon is the preferred choice. Choice A uses a semicolon, which is grammatically correct but less precise given the definitional relationship. Choice B creates a comma splice. Choice D removes the contrast ('not a single dramatic discovery but rather'), altering the meaning."
+}

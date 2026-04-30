@@ -1,17 +1,42 @@
 {
   "id": "q_406",
   "domain": "Information and Ideas",
-  "skill": "command of evidence",
+  "skill": "command of evidence (textual)",
   "difficulty": "hard",
   "passage": "A psychology study examined the relationship between social media use and loneliness in adults aged 18–35. Participants completed daily surveys for 30 days, recording hours of passive social media consumption (scrolling without posting), active engagement (posting, messaging, commenting), and self-reported loneliness scores. Results showed that each additional hour of passive consumption per day was associated with a 0.4-point increase in loneliness scores (on a 10-point scale), while each additional hour of active engagement was associated with a 0.3-point decrease in loneliness scores. These associations held after controlling for baseline loneliness, age, and living situation.",
   "passage_note": "The table below shows mean daily social media use and loneliness scores by user type.",
   "table": {
-    "headers": ["User Type", "Passive hrs/day", "Active hrs/day", "Loneliness score (mean)"],
+    "headers": [
+      "User Type",
+      "Passive hrs/day",
+      "Active hrs/day",
+      "Loneliness score (mean)"
+    ],
     "rows": [
-      ["Mostly passive", "2.8", "0.3", "6.7"],
-      ["Balanced", "1.2", "1.1", "4.9"],
-      ["Mostly active", "0.4", "2.6", "3.8"],
-      ["Low use overall", "0.5", "0.4", "4.1"]
+      [
+        "Mostly passive",
+        "2.8",
+        "0.3",
+        "6.7"
+      ],
+      [
+        "Balanced",
+        "1.2",
+        "1.1",
+        "4.9"
+      ],
+      [
+        "Mostly active",
+        "0.4",
+        "2.6",
+        "3.8"
+      ],
+      [
+        "Low use overall",
+        "0.5",
+        "0.4",
+        "4.1"
+      ]
     ]
   },
   "question": "Which data from the table best supports the study's finding that the type of social media use matters more than total use for loneliness outcomes?",

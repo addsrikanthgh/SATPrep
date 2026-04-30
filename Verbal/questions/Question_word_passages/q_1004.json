@@ -1,0 +1,16 @@
+{
+  "id": "q_1004",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Central banks across the developed world adopted quantitative easing programs following the 2008 financial crisis. *The policy involved purchasing large quantities of government bonds and mortgage-backed securities it effectively injected liquidity into frozen credit markets.* Critics argued that the unprecedented expansion of central bank balance sheets risked long-term inflationary pressure.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "The policy involved purchasing large quantities of government bonds and mortgage-backed securities, it effectively injected liquidity into frozen credit markets.",
+    "B": "The policy involved purchasing large quantities of government bonds and mortgage-backed securities; it effectively injected liquidity into frozen credit markets.",
+    "C": "The policy, involving purchasing large quantities of government bonds and mortgage-backed securities, it effectively injected liquidity into frozen credit markets.",
+    "D": "The policy involved purchasing large quantities of government bonds and mortgage-backed securities it effectively injected liquidity into frozen credit markets."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a fused sentence—two independent clauses with no punctuation between them. Choice B inserts a semicolon, correctly separating the two independent clauses. Choice A creates a comma splice. Choice C inserts a relative clause 'involving...' but retains 'it' as a second subject, producing an incoherent sentence with no clear main predicate for 'The policy.' Choice D reproduces the original fused sentence."
+}

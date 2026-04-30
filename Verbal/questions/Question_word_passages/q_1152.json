@@ -1,0 +1,16 @@
+{
+  "id": "q_1152",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The inspector almost rejected every application because of incomplete documentation. The supervisor later reviewed the decisions and determined that many of the rejections had been made in error.",
+  "question": "The word 'almost' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The inspector rejected almost every application because of incomplete documentation.",
+    "B": "Almost the inspector rejected every application because of incomplete documentation.",
+    "C": "The inspector rejected every almost application because of incomplete documentation.",
+    "D": "No change; 'almost' modifies the entire predicate, so its placement before 'rejected' is correct"
+  },
+  "correct_answer": "A",
+  "explanation": "The word 'almost' should be placed immediately before the word or phrase it modifies. The intended meaning is that the inspector rejected nearly all of the applications. 'Almost' should therefore precede 'every application.' As written, 'almost' precedes 'rejected,' suggesting the inspector nearly rejected them but stopped short of actually rejecting—the opposite of the intended meaning. Choice A correctly places 'almost' before 'every application.' Choice B places 'almost' before 'the inspector,' making no grammatical sense. Choice C inserts it inside the noun phrase awkwardly. Choice D incorrectly justifies the misplacement."
+}

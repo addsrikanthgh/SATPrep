@@ -1,0 +1,16 @@
+{
+  "id": "q_1589",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "The 'resource curse'—also called the 'paradox of plenty'—describes the phenomenon in which countries with abundant natural resource wealth, particularly oil, tend to experience slower economic growth and worse development outcomes than resource-poor countries. Economists have proposed several mechanisms to explain this counterintuitive pattern. One explanation centers on 'Dutch Disease': when resource exports drive up the exchange rate, other export industries such as manufacturing and agriculture become uncompetitive, undermining economic diversification. A second explanation focuses on institutional deterioration: governments reliant on resource revenues have less incentive to develop effective tax systems, which weakens the social contract between state and citizens and reduces accountability. A third explanation emphasizes the role of conflict: resource wealth can fuel civil wars by providing both the motive for control of revenues and the means to fund armed groups. Economists Daron Acemoglu and James Robinson have argued that the resource curse is not inevitable but is mediated by a country's pre-existing institutional quality—nations with strong institutions before resource discovery tend to avoid the curse.",
+  "question": "A student argues that the relationship between resource wealth and poor outcomes is not an automatic or universal one. Which quotation best supports this argument?",
+  "choices": {
+    "A": "\"[C]ountries with abundant natural resource wealth...tend to experience slower economic growth and worse development outcomes than resource-poor countries.\"",
+    "B": "\"[R]esource wealth can fuel civil wars by providing both the motive for control of revenues and the means to fund armed groups.\"",
+    "C": "\"Economists Daron Acemoglu and James Robinson have argued that the resource curse is not inevitable but is mediated by a country's pre-existing institutional quality.\"",
+    "D": "\"[W]hen resource exports drive up the exchange rate, other export industries such as manufacturing and agriculture become uncompetitive.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument is that the resource curse is not automatic or universal—some countries can avoid it. Choice C directly supports this: Acemoglu and Robinson explicitly argue the curse is 'not inevitable' and that it is 'mediated by a country's pre-existing institutional quality.' The word 'not inevitable' is the clearest possible support for the claim that the relationship is not automatic or universal. Choice A describes the general pattern of the resource curse, which supports the existence of the phenomenon rather than its non-universality. Choice B describes one mechanism (conflict) through which the curse operates, also supporting the general phenomenon. Choice D describes the Dutch Disease mechanism, another pathway to the curse. Only Choice C explicitly states the non-inevitability of the curse and identifies a moderating variable (institutional quality)."
+}

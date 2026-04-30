@@ -1,0 +1,16 @@
+{
+  "id": "q_1580",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The opioid crisis in the United States has roots in both pharmaceutical industry practices and regulatory failures. In the late 1990s, Purdue Pharma aggressively marketed OxyContin, a powerful opioid painkiller, with claims that its extended-release formula significantly reduced addiction risk compared to other opioids. These claims were not adequately substantiated, and the FDA later determined that the marketing had been deceptive. Physicians, encouraged by the pharmaceutical industry's messaging, began prescribing opioids at dramatically higher rates. By 2010, enough opioid prescriptions were being written annually to medicate every American adult around the clock for a month. As prescription opioids became more tightly regulated in the early 2010s, many individuals who had become dependent on prescription drugs shifted to heroin and, later, to illicitly manufactured fentanyl, which has proved far more lethal.",
+  "question": "A student claims that misleading marketing practices played a significant role in the origins of the opioid crisis. Which quotation from the passage best supports this claim?",
+  "choices": {
+    "A": "\"By 2010, enough opioid prescriptions were being written annually to medicate every American adult around the clock for a month.\"",
+    "B": "\"Purdue Pharma aggressively marketed OxyContin...with claims that its extended-release formula significantly reduced addiction risk compared to other opioids. These claims were not adequately substantiated, and the FDA later determined that the marketing had been deceptive.\"",
+    "C": "\"[M]any individuals who had become dependent on prescription drugs shifted to heroin and, later, to illicitly manufactured fentanyl, which has proved far more lethal.\"",
+    "D": "\"Physicians, encouraged by the pharmaceutical industry's messaging, began prescribing opioids at dramatically higher rates.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student claims that misleading marketing practices played a significant role. Choice B most directly supports this: it specifically names the misleading marketing (unsubstantiated claims about addiction risk) and confirms the deception was later officially validated by the FDA. The phrase 'FDA later determined that the marketing had been deceptive' makes the misleading nature of the marketing explicit. Choice A describes high prescription volumes but doesn't address marketing practices as the cause. Choice D shows that physicians were influenced by industry messaging, which is a consequence of the marketing—relevant context but not as direct as B. Choice C describes what happened later in the crisis (shift to heroin and fentanyl) and doesn't address the origins or marketing."
+}

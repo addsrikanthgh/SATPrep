@@ -1,0 +1,16 @@
+{
+  "id": "q_1088",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Novelist Amara Osei dedicated her debut novel to her mentor, critic and essayist James Whitmore, who had guided her development as a writer for nearly a decade. In a published interview, she stated that without his encouragement during her most uncertain years, she would never have completed the manuscript.",
+  "question": "The pronoun 'she' appears twice in the second sentence. Is there an ambiguity problem?",
+  "choices": {
+    "A": "Yes; the first 'she' could refer to Osei or Whitmore's wife, who is implied but unnamed",
+    "B": "Yes; both instances of 'she' are ambiguous because Osei and Whitmore could both be subjects of the interview",
+    "C": "No; 'she' unambiguously refers to Amara Osei in both instances because Whitmore is male and uses the pronoun 'his'",
+    "D": "No; 'she' unambiguously refers to Amara Osei, but only because she is the more prominent figure in the passage"
+  },
+  "correct_answer": "C",
+  "explanation": "Pronoun ambiguity arises when a pronoun could refer to more than one plausible antecedent. In this passage, Amara Osei is female ('her debut novel,' 'her development') and James Whitmore is male ('his encouragement'). Because the two named individuals have different genders, 'she' can only refer to Osei, and 'his' can only refer to Whitmore. There is no grammatical ambiguity. Choice A invents an unnamed third party (Whitmore's wife) not present in the passage—pronouns must have antecedents that are explicitly stated, and unanticipated implied figures cannot create ambiguity. Choice B incorrectly suggests Whitmore could be the subject of 'she' despite the passage establishing him as male. Choice D correctly identifies that there is no ambiguity but provides the wrong reason—gender distinction, not relative prominence, is what resolves the reference."
+}

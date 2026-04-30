@@ -1,0 +1,16 @@
+{
+  "id": "q_1498",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Beekeeping has existed for at least nine thousand years, with evidence of honey collection found in rock paintings from Spain to South Africa. For most of this history, beekeepers used hollow logs, clay pots, or woven baskets as hives, and honey was harvested by destroying the colony. The invention of the modern removable-frame hive in the nineteenth century transformed beekeeping by allowing honey to be collected without killing the bees. This innovation made commercial-scale beekeeping economically viable and helped establish the modern agricultural role of honey bees as essential crop pollinators.",
+  "question": "What is the primary function of the third sentence ('The invention of the modern removable-frame hive...') in the passage?",
+  "choices": {
+    "A": "To describe the limitations of ancient beekeeping practices",
+    "B": "To introduce a historical turning point that resolved the problem implied in the second sentence",
+    "C": "To argue that pre-modern beekeeping was environmentally harmful",
+    "D": "To explain why honey bees are considered essential crop pollinators"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence describes the limitation of ancient beekeeping: to harvest honey, beekeepers had to destroy the colony. The third sentence introduces the invention that solved this problem—the removable-frame hive, which allowed honey collection without killing the bees. This is a classic problem-solution structure: the second sentence implies the problem and the third sentence identifies the historical turning point that resolved it. Choice A is incorrect—describing ancient limitations is the function of the second sentence, not the third. Choice C is incorrect—the passage does not characterize ancient practices as environmentally harmful. Choice D is incorrect—the pollination role of honey bees is introduced in the fourth sentence."
+}

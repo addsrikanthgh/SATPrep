@@ -1,0 +1,16 @@
+{
+  "id": "q_1193",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Working around the clock in improvised field hospitals, injuries that might have been fatal in previous wars were successfully treated by military surgeons during World War II. Advances in blood banking, penicillin use, and triage protocols contributed to unprecedented survival rates among the wounded.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Working around the clock in improvised field hospitals, military surgeons successfully treated injuries during World War II that might have been fatal in previous wars.",
+    "B": "Injuries that might have been fatal in previous wars, working around the clock, were successfully treated by surgeons.",
+    "C": "The injuries during World War II that might have been fatal, working around the clock in improvised field hospitals, were treated by surgeons.",
+    "D": "No change; 'working' modifies the surgeons, who are named in the passive construction 'treated by military surgeons'"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Working around the clock in improvised field hospitals' describes the military surgeons. As written, 'injuries' is the subject, implying the injuries worked around the clock—logically impossible. Choice A restructures the sentence with 'military surgeons' as the subject. Choice B attaches the phrase to 'Injuries,' preserving the absurdity. Choice C keeps 'The injuries' as the subject and attaches 'working around the clock' to them as a mid-sentence participial phrase, creating the same error. Choice D incorrectly argues that naming surgeons in a passive by-phrase resolves a dangling modifier."
+}

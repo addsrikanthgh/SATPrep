@@ -1,0 +1,16 @@
+{
+  "id": "q_1649",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Early research into deep-sea ecosystems assumed that life could not survive below the photic zone, the layer of ocean water where sunlight penetrates. ______ the discovery of hydrothermal vents in 1977 revealed thriving communities of organisms—tube worms, crabs, and chemosynthetic bacteria—that derived energy not from sunlight but from chemical reactions at the ocean floor.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Similarly,",
+    "B": "Therefore,",
+    "C": "However,",
+    "D": "For instance,"
+  },
+  "correct_answer": "C",
+  "explanation": "'However' is correct because the second sentence presents a contrast to the assumption stated in the first sentence. The first sentence states that scientists assumed life could not survive below the photic zone; the second sentence presents a discovery that directly contradicts this assumption. 'However' signals a contrast or reversal—exactly the relationship between these two sentences. Choice A ('Similarly') indicates similarity or additional evidence of the same point, which is the opposite of what is needed. Choice B ('Therefore') signals a logical consequence or conclusion, but the second sentence is not a consequence of the assumption—it contradicts it. Choice D ('For instance') signals an example of the preceding idea, but the hydrothermal vent discovery is not an example of the assumption—it refutes it."
+}

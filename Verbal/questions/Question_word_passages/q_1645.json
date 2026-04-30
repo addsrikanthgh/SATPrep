@@ -1,0 +1,16 @@
+{
+  "id": "q_1645",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "Dr. Elena Vasquez ______ the lead researcher on the five-year study ______ presented her team's findings at the international conference in Vienna.",
+  "question": "Which choice completes the text with the most appropriate punctuation?",
+  "choices": {
+    "A": "Vasquez, the lead researcher on the five-year study, presented",
+    "B": "Vasquez the lead researcher on the five-year study presented",
+    "C": "Vasquez: the lead researcher on the five-year study, presented",
+    "D": "Vasquez—the lead researcher on the five-year study presented"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'the lead researcher on the five-year study' is a nonrestrictive appositive—it provides additional information about Dr. Vasquez but is not essential to identifying who is being discussed (she is identified by name). Nonrestrictive appositives must be set off with commas on both sides. Choice A correctly places commas before and after the appositive phrase. Choice B omits both commas, making the appositive appear restrictive and running all the elements together without appropriate punctuation. Choice C uses a colon to introduce the appositive, which is not standard usage; colons introduce lists or explanations after complete independent clauses, not appositives mid-sentence. Choice D uses a dash only at the opening of the appositive without closing it with a matching dash or comma, leaving the structure incomplete."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1429",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The clinical trial enrolled patients over a period of three years, the final results showed a statistically significant reduction in the frequency of migraine episodes among participants who received the experimental compound compared to those who received a placebo.",
+  "question": "Which choice correctly fixes the sentence boundary error?",
+  "choices": {
+    "A": "The clinical trial enrolled patients over a period of three years; the final results showed a statistically significant reduction in the frequency of migraine episodes among participants who received the experimental compound compared to those who received a placebo.",
+    "B": "The clinical trial enrolled patients over a period of three years, and the final results showed a statistically significant reduction in the frequency of migraine episodes among participants who received the experimental compound.",
+    "C": "The clinical trial enrolled patients over a period of three years. With final results showing a statistically significant reduction in the frequency of migraine episodes among participants who received the experimental compound.",
+    "D": "No change; the comma after 'three years' correctly separates two closely related clauses about the same clinical trial."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a comma splice—two independent clauses joined by only a comma. 'The clinical trial enrolled patients over a period of three years' is a complete independent clause with its own subject and verb, and 'the final results showed a statistically significant reduction in the frequency of migraine episodes' is a second complete independent clause. Choice A uses a semicolon to correctly separate the two related clauses. Choice B adds the coordinating conjunction 'and,' also a valid fix—but Choice A is the minimal correction. Choice C converts the second clause into a fragment. Choice D incorrectly defends the comma splice."
+}

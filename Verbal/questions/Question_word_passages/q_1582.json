@@ -1,0 +1,16 @@
+{
+  "id": "q_1582",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The Dust Bowl of the 1930s was not solely a natural disaster but the product of a convergence between drought and decades of unsustainable agricultural practices. When settlers transformed the Great Plains into farmland in the late nineteenth and early twentieth centuries, they plowed up the native grasses that had held the topsoil in place for thousands of years. These grasses had evolved to survive periodic drought; once removed, the exposed soil had no root systems to anchor it. When severe drought struck in the early 1930s, powerful winds swept the loosened topsoil into enormous dust storms that buried farms, choked livestock, and forced hundreds of thousands of families from their homes. Historian Donald Worster described the Dust Bowl as 'the inevitable consequence of a culture that deliberately, self-consciously set itself the task of dominating and exploiting the land for all it was worth.' Federal conservation programs established in the aftermath, including the Soil Conservation Service, promoted practices such as contour plowing and windbreaks to prevent future soil loss.",
+  "question": "A student argues that the Dust Bowl was caused by human agricultural decisions, not natural factors alone. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"When severe drought struck in the early 1930s, powerful winds swept the loosened topsoil into enormous dust storms that buried farms, choked livestock, and forced hundreds of thousands of families from their homes.\"",
+    "B": "\"[T]hey plowed up the native grasses that had held the topsoil in place for thousands of years.\"",
+    "C": "\"The Dust Bowl of the 1930s was not solely a natural disaster but the product of a convergence between drought and decades of unsustainable agricultural practices.\"",
+    "D": "\"Federal conservation programs established in the aftermath, including the Soil Conservation Service, promoted practices such as contour plowing and windbreaks to prevent future soil loss.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's claim is that the Dust Bowl was caused by human agricultural decisions, not natural factors alone. Choice C most directly supports this by explicitly stating that the Dust Bowl was 'not solely a natural disaster' but the product of both drought and 'decades of unsustainable agricultural practices'—directly addressing the human cause component. Choice B describes a specific human action (plowing up native grasses) that contributed to the disaster, which provides strong supporting evidence, but it doesn't frame the overall cause as human-driven. Choice A describes the drought and its effects, which emphasizes natural factors. Choice D describes the aftermath response, which is relevant but doesn't address causation. Between B and C, Choice C is stronger because it explicitly makes the causal argument the student is advancing—including the 'not solely natural' framing."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1547",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A sociologist studying income inequality examined the Gini coefficient—a measure of income distribution, where 0 represents perfect equality and 1 represents maximum inequality—for six countries along with each country's investment in public education as a percentage of GDP.\n\n| Country | Gini Coefficient | Public Education Spending (% of GDP) |\n|---|---|---|\n| Country A | 0.28 | 6.8 |\n| Country B | 0.33 | 5.4 |\n| Country C | 0.41 | 4.1 |\n| Country D | 0.47 | 3.2 |\n| Country E | 0.36 | 4.9 |\n| Country F | 0.29 | 6.2 |\n\nThe sociologist hypothesized that countries with higher public education spending tend to have lower income inequality.",
+  "question": "Which statement most accurately characterizes whether the data supports the sociologist's hypothesis?",
+  "choices": {
+    "A": "The data strongly supports the hypothesis; without exception, every country with higher education spending has a lower Gini coefficient.",
+    "B": "The data mostly supports the hypothesis—the two highest-spending countries (A and F) have the two lowest Gini coefficients, and the two lowest-spending countries (C and D) have the two highest Gini coefficients—though Country E and Country B show a less perfect fit.",
+    "C": "The data does not support the hypothesis because the Gini coefficients and education spending levels vary too widely.",
+    "D": "The data supports the hypothesis only for Country A and Country D."
+  },
+  "correct_answer": "B",
+  "explanation": "The sociologist's hypothesis is that higher education spending is associated with lower inequality. A careful reading of the table shows this pattern holds strongly at the extremes: Countries A and F have the highest education spending (6.8% and 6.2%) and the lowest Gini coefficients (0.28 and 0.29); Countries C and D have the lowest spending (4.1% and 3.2%) and the highest Gini coefficients (0.41 and 0.47). However, Country E (4.9% spending, 0.36 Gini) and Country B (5.4% spending, 0.33 Gini) don't fit perfectly—Country B has higher spending than E but also a slightly lower Gini, while E sits between them. The relationship is present but imperfect. Choice B accurately captures both the supporting pattern and the imperfect fit. Choice A overstates the consistency. Choice C dismisses the clear pattern at the extremes. Choice D understates the support."
+}

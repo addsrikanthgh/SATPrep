@@ -1,0 +1,16 @@
+{
+  "id": "q_1166",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The city council decided to just increase the property tax rate by two percent this fiscal year. The mayor expressed support for the modest increase, noting that it would fund essential maintenance without placing excessive burdens on homeowners.",
+  "question": "The word 'just' in the first sentence is misplaced. Which choice correctly repositions it to convey that the increase was only two percent?",
+  "choices": {
+    "A": "The city council decided to increase the property tax rate by just two percent this fiscal year.",
+    "B": "Just the city council decided to increase the property tax rate by two percent this fiscal year.",
+    "C": "The city council just decided to increase the property tax rate by two percent this fiscal year.",
+    "D": "No change; 'just increase' means to increase only slightly, which conveys the intended meaning"
+  },
+  "correct_answer": "A",
+  "explanation": "The word 'just' should immediately precede the element it modifies. The intended meaning is that the increase was only (merely) two percent. Choice A places 'just' directly before 'two percent,' unambiguously conveying that the amount is small. As written, 'just increase' implies the council decided to merely increase (rather than do something else, like decrease or freeze) the rate—a different meaning. Choice B places 'just' before 'the city council,' implying the council was the only body to decide. Choice C places 'just' before 'decided,' implying the decision was made only recently. Choice D incorrectly accepts 'just increase' as conveying the intended amount."
+}

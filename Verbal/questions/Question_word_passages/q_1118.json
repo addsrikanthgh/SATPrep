@@ -1,0 +1,16 @@
+{
+  "id": "q_1118",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Frida Kahlo and Georgia O'Keeffe never met in person, though both are celebrated as transformative figures in twentieth-century art. Art historians have observed that she drew extensively on her own physical and emotional experience to create a deeply personal visual vocabulary that defied easy categorization.",
+  "question": "The pronoun 'she' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Kahlo",
+    "B": "O'Keeffe",
+    "C": "both artists",
+    "D": "No change; 'she' clearly refers to Frida Kahlo, who is the more widely known artist"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Kahlo and O'Keeffe are female, making 'she' ambiguous. While both artists drew on personal experience, the passage singles out one subject using the singular 'she,' indicating one specific artist is meant. Choice A names Kahlo, whose autobiographical approach—particularly her use of physical suffering—is a defining characteristic. Choice B names O'Keeffe, who is also known for personal visual language. Choice C uses 'both artists,' which would require a plural verb form and changes the sentence's structure. Choice D incorrectly substitutes fame for grammatical clarity as a standard for pronoun resolution."
+}

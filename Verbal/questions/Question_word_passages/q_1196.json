@@ -1,0 +1,16 @@
+{
+  "id": "q_1196",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The expedition team documented plant species that had never been catalogued in a remote highland valley accessible only by helicopter. The discovery prompted botanists to call for immediate environmental protections for the region.",
+  "question": "The phrase 'in a remote highland valley accessible only by helicopter' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "In a remote highland valley accessible only by helicopter, the expedition team documented plant species that had never been catalogued.",
+    "B": "The expedition team documented, in a remote highland valley accessible only by helicopter, plant species that had never been catalogued.",
+    "C": "The expedition team documented plant species, in a remote highland valley accessible only by helicopter, that had never been catalogued.",
+    "D": "No change; 'in a remote highland valley accessible only by helicopter' clearly modifies 'plant species' because those species are found in the valley"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'in a remote highland valley accessible only by helicopter' follows 'catalogued,' where it most naturally modifies 'catalogued'—implying the cataloguing (or its absence) happened in the valley, which is an odd meaning. The phrase should describe where the expedition team conducted its work. Choice A moves the phrase to the sentence opening, clearly indicating where the team worked. Choice B places the phrase mid-sentence between 'documented' and 'plant species,' which is awkward. Choice C places the phrase as a parenthetical after 'plant species,' but this disrupts the relative clause. Choice D incorrectly claims the phrase clearly modifies 'plant species.'"
+}

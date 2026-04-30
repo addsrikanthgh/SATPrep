@@ -1,0 +1,16 @@
+{
+  "id": "q_1085",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The university's faculty senate passed a resolution calling for increased transparency in administrative hiring decisions. Following the vote, they issued a formal letter to the provost requesting that all future search committee memberships be publicly disclosed.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the provost",
+    "B": "it",
+    "C": "each senator",
+    "D": "No change; 'they' correctly refers to the individual senators who voted"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent is 'The university's faculty senate,' a singular collective noun. The first sentence treats it as a singular subject ('The university's faculty senate passed'), establishing the singular frame. The second sentence then uses 'they,' a plural pronoun, creating a disagreement. Choice B correctly replaces 'they' with 'it,' maintaining agreement with the singular antecedent. Choice A would make the provost the sender of the letter to himself, which is logically incoherent. Choice C introduces 'each senator,' a new noun phrase not established in the passage, and 'each' is singular, requiring a singular verb form that would require additional changes. Choice D incorrectly argues that individual senators justify a plural pronoun; the grammatical antecedent is the senate as an institution, not its members."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1607",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "In the months following the merger, the newly combined company worked to assimilate the two distinct corporate cultures. Employees from the acquired firm, accustomed to a collaborative, flat hierarchy, found the acquiring company's more regimented structure disorienting. Management consultants advised leadership that cultural integration was as consequential as financial integration for the long-term success of the merger.",
+  "question": "As used in the passage, 'regimented' most nearly means",
+  "choices": {
+    "A": "military-grade",
+    "B": "rigidly organized and controlled",
+    "C": "newly established",
+    "D": "financially successful"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the acquiring company has a 'more regimented structure' that contrasts with the 'collaborative, flat hierarchy' of the acquired firm. 'Regimented' here means highly organized, ordered, and controlled—often with strict rules and clearly defined procedures and roles. Choice B, 'rigidly organized and controlled,' captures this meaning. The contrast with 'collaborative, flat hierarchy' helps confirm the meaning: a regimented structure implies clear hierarchical control and strict procedure, unlike the looser, more collaborative style. Choice A ('military-grade') might seem plausible given the word's military connotations, but it overstates the literal military connection; the passage uses 'regimented' figuratively. Choice C ('newly established') and Choice D ('financially successful') have no connection to organizational structure or control."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1552",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A sociologist studied neighborhood-level data in a major city, comparing the percentage of residents with a college degree to the average annual household income (in thousands of dollars).\n\n| Neighborhood | College Degree (%) | Avg. Household Income ($k) |\n|---|---|---|\n| Riverside | 18 | 42 |\n| Hillcrest | 34 | 61 |\n| Eastdale | 51 | 78 |\n| Midtown | 67 | 94 |\n| Northpark | 42 | 70 |\n| Westfield | 58 | 84 |\n\nThe sociologist claimed that educational attainment is a strong predictor of household income at the neighborhood level.",
+  "question": "Which of the following best evaluates the strength of the evidence for the sociologist's claim?",
+  "choices": {
+    "A": "The evidence is weak because Northpark (42% college, $70k income) and Westfield (58% college, $84k income) are close together, suggesting education does not consistently predict income.",
+    "B": "The evidence is strong but incomplete—while the overall pattern shows higher education associated with higher income across all six neighborhoods in consistent rank order, the data reflects only one city and cannot be generalized.",
+    "C": "The evidence fully proves the sociologist's claim because the data covers six neighborhoods.",
+    "D": "The evidence is strong: across all six neighborhoods, educational attainment and household income increase together in consistent rank order—from Riverside (18%, $42k) to Midtown (67%, $94k)—with no exceptions."
+  },
+  "correct_answer": "D",
+  "explanation": "The sociologist claims educational attainment strongly predicts household income. To evaluate this claim, the best approach is to check whether the rank order of education matches the rank order of income across all neighborhoods. It does: Riverside (18%, $42k), Hillcrest (34%, $61k), Northpark (42%, $70k), Eastdale (51%, $78k), Westfield (58%, $84k), Midtown (67%, $94k)—perfectly consistent rank ordering with no exceptions. Choice D accurately describes this. Choice A mischaracterizes the data—Northpark and Westfield are not exceptions; they fit the trend. Choice B correctly notes the pattern but introduces a limitation (one city) that is not mentioned in the passage and adds unnecessary hedging. Choice C is incorrect because six neighborhoods in one city don't 'fully prove' anything, but the question asks about the evidence for the claim within the data."
+}

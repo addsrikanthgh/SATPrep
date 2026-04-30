@@ -1,0 +1,16 @@
+{
+  "id": "q_1188",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The foundation almost donated two million dollars to the medical research initiative last year. This year, the foundation's board voted to double its contribution, citing the initiative's impressive early results.",
+  "question": "The word 'almost' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The foundation donated almost two million dollars to the medical research initiative last year.",
+    "B": "Almost the foundation donated two million dollars to the medical research initiative last year.",
+    "C": "The foundation donated two million almost dollars to the medical research initiative last year.",
+    "D": "No change; 'almost donated' means the donation came very close to being made, which is acceptable"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that the donation amount was close to two million dollars—'almost' should modify 'two million.' As written, 'almost donated' means the donation nearly happened but didn't, which contradicts the second sentence (the board voted to double 'its contribution,' implying the donation was made). Choice A places 'almost' before 'two million,' clarifying that the amount was approximately two million. Choice B places 'almost' before 'the foundation,' which creates a nonsensical meaning. Choice C produces 'two million almost dollars,' a meaningless phrase. Choice D incorrectly defends 'almost donated' and ignores the contextual contradiction."
+}

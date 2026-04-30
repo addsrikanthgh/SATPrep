@@ -1,0 +1,16 @@
+{
+  "id": "q_1270",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Not a single member of the three research teams that participated in the multi-site study have been able to replicate the original findings under controlled conditions. The lead investigator has called for an independent replication effort using a standardized protocol.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Not a single member of the three research teams that participated in the multi-site study has been able to replicate the original findings under controlled conditions.",
+    "B": "Not a single member of the three research teams that participated in the multi-site study have been able to replicate the original findings under controlled conditions.",
+    "C": "Not a single member of the three research teams that participated in the multi-site study were able to replicate the original findings under controlled conditions.",
+    "D": "No change; 'have been able' agrees with 'teams,' the nearest plural noun, which is the logical subject"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'Not a single member,' which is singular—'member' is the head noun, and 'a single' indicates one individual. The prepositional phrase 'of the three research teams that participated in the multi-site study' is a modifier. The singular verb 'has been able' is required. Choice A correctly uses 'has been able.' Choice B preserves the error with 'have been able.' Choice C uses 'were able,' a past plural form—wrong in number. Choice D incorrectly identifies 'teams' as the logical subject; the grammatical and logical subject is 'member.'"
+}

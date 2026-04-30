@@ -1,0 +1,16 @@
+{
+  "id": "q_1396",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The mayor announced plans for a major renovation of the city's main public library, the project would be funded through a combination of a voter-approved bond measure and a matching grant from the state. Construction was expected to begin the following spring.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The mayor announced plans for a major renovation of the city's main public library; the project would be funded through a combination of a voter-approved bond measure and a matching grant from the state.",
+    "B": "The mayor announced plans for a major renovation of the city's main public library, which would be funded through a combination of a voter-approved bond measure and a matching grant from the state.",
+    "C": "The mayor announced plans for a major renovation of the city's main public library and noted that the project would be funded through a combination of a voter-approved bond measure and a matching grant from the state.",
+    "D": "No change; 'the project would be funded' is a clause that may follow a comma when explaining a previously introduced noun."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice. After 'the city's main public library,' the sentence continues with 'the project would be funded through a combination of a voter-approved bond measure and a matching grant from the state'—an independent clause with its own subject ('the project') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B converts the second clause into a relative clause ('which would be funded...'), modifying 'library'—grammatically correct. Choice C adds 'and noted that'—restructuring the sentence. Choice A makes the minimal structural change. Choice D incorrectly defends the comma splice."
+}

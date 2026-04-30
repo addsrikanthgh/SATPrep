@@ -1,0 +1,16 @@
+{
+  "id": "q_1153",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Designed to withstand winds of up to 200 miles per hour, the engineers built the new coastal emergency shelter using reinforced concrete panels and a continuous steel frame. The structure also features a backup power system and water storage for up to five hundred occupants.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Designed to withstand winds of up to 200 miles per hour, the new coastal emergency shelter was built by the engineers using reinforced concrete panels and a continuous steel frame.",
+    "B": "The engineers, designed to withstand winds of up to 200 miles per hour, built the new coastal emergency shelter.",
+    "C": "The new coastal emergency shelter, the engineers designed it to withstand winds of up to 200 miles per hour.",
+    "D": "No change; the participial phrase modifies the object of the sentence, 'the new coastal emergency shelter'"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Designed to withstand winds of up to 200 miles per hour' describes the shelter, not the engineers. As written, 'the engineers' is the subject of the main clause and thus the word immediately following the participial phrase—implying the engineers were designed to withstand winds. Choice A correctly restructures the sentence so that 'the new coastal emergency shelter' is the subject. Choice B inserts the participial phrase directly after 'the engineers,' explicitly attributing the design specification to the engineers. Choice C creates a comma splice. Choice D incorrectly argues that the object of a sentence can be modified by a fronted participial phrase."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1660",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a research paper on the history of aviation. The student has gathered the following notes:\n\n• The Wright Brothers' first powered flight lasted 12 seconds and covered 120 feet at Kitty Hawk, North Carolina, on December 17, 1903.\n• Only 66 years later, on July 20, 1969, humans first landed on the Moon.\n• The commercial airline industry carried approximately 4.5 billion passengers in 2019.\n• By 2021, the Federal Aviation Administration (FAA) registered over 860,000 active aircraft in the United States alone.\n• Early aircraft were made primarily of wood and fabric; modern commercial aircraft are built largely from aluminum alloys and carbon fiber composites.",
+  "question": "The student wants to emphasize the remarkable speed of aviation's progress by comparing its early limitations to its later scale of development. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Modern commercial aircraft are constructed from aluminum alloys and carbon fiber composites, a significant improvement over the wood and fabric of early aircraft.",
+    "B": "The Wright Brothers flew 120 feet in 12 seconds in 1903; by 2019, the commercial airline industry was carrying 4.5 billion passengers a year.",
+    "C": "The Wright Brothers made their historic first flight at Kitty Hawk, North Carolina, in 1903, launching an era of aviation that would eventually lead to the Moon landing of 1969.",
+    "D": "As of 2021, the FAA registered over 860,000 active aircraft in the United States, reflecting the extraordinary growth of the aviation industry over the past century."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's goal is to contrast aviation's early limitations with its later scale to convey speed of progress. Choice B does this most effectively by juxtaposing two specific, concrete data points from opposite ends of the timeline: the 120-foot, 12-second first flight in 1903 against 4.5 billion passengers annually in 2019. The stark contrast between these numbers (a 12-second flight vs. billions of passengers) makes the speed of progress vivid and specific. Choice A contrasts materials (wood/fabric vs. composites)—a technological detail, not a scale-of-progress comparison. Choice C mentions the Moon landing as a milestone, which shows progress but doesn't use the vivid quantitative contrast available in the notes. Choice D cites current aircraft registrations, which shows scale but has no contrasting early benchmark."
+}

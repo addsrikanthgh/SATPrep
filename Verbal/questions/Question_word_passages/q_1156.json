@@ -1,0 +1,16 @@
+{
+  "id": "q_1156",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To be eligible for the federal conservation easement program, the land must have been in continuous agricultural use for at least ten years. Applicants must also demonstrate financial need and provide documentation of current farming operations.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "To be eligible for the federal conservation easement program, a landowner must demonstrate that the land has been in continuous agricultural use for at least ten years.",
+    "B": "To be eligible for the federal conservation easement program, continuous agricultural use of the land for at least ten years is required.",
+    "C": "The land, to be eligible for the federal conservation easement program, must have been in continuous agricultural use for at least ten years.",
+    "D": "No change; the infinitive phrase modifies 'the land,' which is what becomes eligible through qualifying use"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To be eligible for the federal conservation easement program' implies an agent who seeks eligibility. As written, the subject of the main clause is 'the land,' suggesting the land seeks eligibility. Eligibility is a status sought by people (landowners), not by parcels of land. Choice A restructures so that 'a landowner' is the subject of the main clause—the logical agent seeking eligibility. Choice B substitutes a gerund phrase for the subject but still implies the continuous use itself is eligible. Choice C inserts the infinitive mid-sentence awkwardly. Choice D incorrectly argues that land can seek eligibility."
+}

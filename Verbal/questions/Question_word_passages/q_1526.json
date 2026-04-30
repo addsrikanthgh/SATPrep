@@ -1,0 +1,16 @@
+{
+  "id": "q_1526",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The city of Venice, built on a lagoon in northeastern Italy, has been sinking and flooding for decades due to a combination of natural subsidence and rising sea levels. Exceptionally high tides, known as acqua alta, periodically inundate the city's streets and ground-floor spaces, threatening priceless cultural heritage sites. After decades of political delay, the MOSE system—a network of mobile flood barriers at the lagoon's inlets—was activated for the first time in 2020. Early results suggested the barriers could significantly reduce flooding, though engineers acknowledged that projected sea-level rise over the coming century will eventually exceed the system's capacity.",
+  "question": "What is the primary function of the fourth sentence ('Early results suggested...') in the passage?",
+  "choices": {
+    "A": "To argue that the MOSE system is an adequate long-term solution for Venice's flooding",
+    "B": "To provide a qualified assessment of MOSE's effectiveness, acknowledging both its near-term success and its long-term limitation",
+    "C": "To explain the political reasons for the delay in constructing the MOSE barriers",
+    "D": "To describe the cultural heritage sites threatened by flooding in Venice"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence introduces the activation of MOSE in 2020. The fourth sentence provides a nuanced assessment: the barriers showed early promise in reducing flooding, but engineers acknowledged that rising seas will eventually exceed the system's capacity. The sentence thus offers both qualified good news (the system works for now) and a sobering long-term limitation. This balanced assessment is the hallmark of a qualified claim, neither fully positive nor fully negative. Choice A is incorrect—the fourth sentence explicitly notes the system's future inadequacy. Choice C is incorrect—the political delay is mentioned in the third sentence; the fourth sentence addresses effectiveness. Choice D is incorrect—cultural heritage sites are referenced in the second sentence."
+}

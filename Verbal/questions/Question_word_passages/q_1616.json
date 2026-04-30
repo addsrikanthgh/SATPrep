@@ -1,0 +1,16 @@
+{
+  "id": "q_1616",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Scientists have long known that exercise improves mood, but the underlying mechanism was disputed. Early theories attributed the mood boost to endorphin release, but research showed that endorphins do not easily cross the blood-brain barrier. More recent studies have focused on endocannabinoids—compounds produced naturally by the body that do cross the blood-brain barrier and bind to the same receptors as cannabis. Experiments in which participants had endocannabinoid receptors blocked showed significantly reduced mood improvement after exercise, strongly supporting this newer explanation.",
+  "question": "Which choice best describes the overall structure of the text?",
+  "choices": {
+    "A": "A well-established scientific consensus is summarized, followed by an emerging challenge to that consensus.",
+    "B": "A research question is introduced, a discredited explanation is described, and evidence for a more supported explanation is presented.",
+    "C": "Two competing scientific theories are compared, and the reader is left to decide between them.",
+    "D": "A surprising experimental result is described, and its implications for human health are discussed."
+  },
+  "correct_answer": "B",
+  "explanation": "The text follows a clear three-part structure: (1) it introduces the research question (why does exercise improve mood?); (2) it describes an early explanation (endorphins) that was discredited because endorphins don't cross the blood-brain barrier; and (3) it presents the newer, better-supported explanation (endocannabinoids) along with experimental evidence. Choice B accurately captures all three movements. Choice A is incorrect because the text doesn't summarize a 'well-established consensus' that is currently being challenged—the endorphin theory was already discredited. Choice C is incorrect because the text doesn't leave the reader to decide; it presents evidence favoring endocannabinoids. Choice D is incorrect because the experimental result is not described as surprising, and the text does not discuss implications for human health."
+}

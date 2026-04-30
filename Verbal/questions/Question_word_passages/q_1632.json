@@ -1,0 +1,16 @@
+{
+  "id": "q_1632",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: Throughout history, technological unemployment—the displacement of workers by machines—has always been followed, in the long run, by the creation of more jobs than were destroyed. The mechanization of agriculture freed labor for manufacturing; automation in manufacturing freed labor for services. There is every reason to expect that artificial intelligence and robotics will follow the same pattern, ultimately creating prosperity rather than structural unemployment.\n\nText 2: The analogy between previous automation waves and the current AI revolution may be misleading. Previous technologies automated specific physical tasks, leaving cognitive work—and thus much of the labor market—untouched. AI, by contrast, can increasingly perform sophisticated cognitive tasks: legal analysis, financial advising, medical diagnosis, even creative work. If the technologies that once provided refuge from automation are themselves automated, the historical pattern of job recovery may not hold.",
+  "question": "Text 1 and Text 2 most directly disagree about which of the following?",
+  "choices": {
+    "A": "Whether previous waves of technological automation actually displaced workers",
+    "B": "Whether the historical pattern of job recovery following automation provides a reliable guide to what AI will do",
+    "C": "Whether artificial intelligence is capable of performing cognitive tasks at a professional level",
+    "D": "Whether governments should intervene to manage the effects of technological unemployment"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 argues that because previous automation waves were followed by job creation, AI will likely follow the same pattern. Text 2 directly challenges this use of historical analogy: previous automation only replaced physical tasks, while AI can replace cognitive tasks that previously provided safe harbor for displaced workers. Therefore, Text 2 argues, the historical pattern 'may not hold.' The direct disagreement is about whether that historical pattern is a reliable guide. Choice B precisely identifies this: one text says yes (history provides a reliable guide), the other says the analogy is 'misleading' for a specific structural reason. Choice A is incorrect; neither text disputes that previous automation displaced workers. Choice C—AI's capability to perform cognitive tasks—is something Text 2 asserts without Text 1 disputing it; Text 1 doesn't specifically address AI's capabilities. Choice D—government intervention—is not discussed in either text."
+}

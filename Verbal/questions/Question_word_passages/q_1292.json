@@ -1,0 +1,16 @@
+{
+  "id": "q_1292",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Conspicuously absent from the panel's final report were any acknowledgment of the dissenting opinions submitted by three members of the advisory subcommittee. Critics argued that this omission undermined the report's claim to represent a consensus view.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Conspicuously absent from the panel's final report was any acknowledgment of the dissenting opinions submitted by three members of the advisory subcommittee.",
+    "B": "Conspicuously absent from the panel's final report were any acknowledgments of the dissenting opinions submitted by three members of the advisory subcommittee.",
+    "C": "Conspicuously absent from the panel's final report were the acknowledgment of the dissenting opinions submitted by three members of the advisory subcommittee.",
+    "D": "No change; 'were' correctly agrees with 'dissenting opinions,' the nearest plural noun in an inverted sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "This is an inverted sentence in which the verb precedes the subject. The true subject is 'any acknowledgment of the dissenting opinions submitted by three members of the advisory subcommittee,' where 'acknowledgment' is the head noun—a singular noun. The singular verb 'was' is required. Choice A uses 'was.' Choice B uses 'were' and pluralizes 'acknowledgment' to 'acknowledgments'—internally consistent but changes the subject. Choice C uses 'were' with the singular 'acknowledgment'—an agreement error. Choice D incorrectly identifies 'dissenting opinions' as the subject; it is part of the prepositional phrase modifying 'acknowledgment.'"
+}

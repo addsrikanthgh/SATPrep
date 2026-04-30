@@ -1,0 +1,16 @@
+{
+  "id": "q_1400",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The professor returned the midterm exams on Thursday morning. Rather disappointed by the overall performance, which fell well below the class average from previous semesters. She announced that she would offer an optional review session before the final exam.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The professor returned the midterm exams on Thursday morning, rather disappointed by the overall performance, which fell well below the class average from previous semesters.",
+    "B": "The professor returned the midterm exams on Thursday morning; rather disappointed by the overall performance, which fell well below the class average from previous semesters.",
+    "C": "Rather disappointed by the overall performance, which fell well below the class average from previous semesters, the professor returned the midterm exams on Thursday morning.",
+    "D": "No change; 'Rather disappointed by the overall performance' begins a complete sentence that explains the professor's reaction."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Rather disappointed by the overall performance, which fell well below the class average from previous semesters' is an adjective phrase fragment—it describes the professor but has no subject or predicate and cannot stand alone. It modifies the professor in the preceding sentence and should be attached to it. Choice A attaches the phrase to the preceding independent clause with a comma. Choice B uses a semicolon before the fragment, which is incorrect. Choice C moves the phrase to the front of the sentence as an introductory modifier—also grammatically correct. Choice D incorrectly defends the fragment."
+}

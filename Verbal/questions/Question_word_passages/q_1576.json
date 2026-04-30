@@ -1,0 +1,16 @@
+{
+  "id": "q_1576",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "Before the development of germ theory in the late nineteenth century, physicians relied on miasma theory to explain the spread of disease. Miasma theory held that illness was caused by 'bad air'—the noxious vapors arising from rotting organic matter, swamps, and unsanitary conditions. While miasma theory was ultimately wrong about the mechanism of disease transmission, its public health implications were often beneficial: cities that drained marshes, removed garbage, and improved sewage infrastructure to combat 'bad air' inadvertently eliminated many of the conditions that actually harbor disease-carrying mosquitoes and bacteria. Historian Nancy Tomes has noted that the miasma framework 'provided a practical rationale for the environmental reforms that transformed nineteenth-century cities, even though the causal theory behind those reforms was incorrect.' The germ theory that replaced miasma theory was more scientifically accurate but initially slower to produce actionable public health interventions.",
+  "question": "A student argues that a flawed scientific theory can nonetheless produce genuine public health benefits. Which quotation from the passage most directly supports this argument?",
+  "choices": {
+    "A": "\"Miasma theory held that illness was caused by 'bad air'—the noxious vapors arising from rotting organic matter, swamps, and unsanitary conditions.\"",
+    "B": "\"[C]ities that drained marshes, removed garbage, and improved sewage infrastructure to combat 'bad air' inadvertently eliminated many of the conditions that actually harbor disease-carrying mosquitoes and bacteria.\"",
+    "C": "\"The germ theory that replaced miasma theory was more scientifically accurate but initially slower to produce actionable public health interventions.\"",
+    "D": "\"[M]iasma theory was ultimately wrong about the mechanism of disease transmission.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student's argument is that a flawed theory can still produce genuine public health benefits. Choice B directly supports this: cities acting on the flawed miasma theory 'inadvertently eliminated many of the conditions that actually harbor disease-carrying mosquitoes and bacteria'—a genuine public health benefit achieved through misguided but practically effective action. This shows the flawed theory yielding real health improvements. Choice A describes the theory's claims without any evidence of benefit. Choice C notes that the correct theory (germ theory) was 'initially slower to produce actionable interventions'—this is supporting context for the argument but focuses on germ theory, not directly on miasma's benefits. Choice D confirms the theory was wrong, which is the 'flawed theory' part of the claim but provides no evidence of benefit."
+}

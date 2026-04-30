@@ -1,0 +1,16 @@
+{
+  "id": "q_1615",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The committee's report was diplomatic in tone but unsparing in its assessment: the organization's financial controls were described as lax, its oversight mechanisms as perfunctory, and its culture as one that discouraged staff from raising concerns. The chairperson acknowledged the findings and pledged a comprehensive reform process.",
+  "question": "As used in the passage, 'perfunctory' most nearly means",
+  "choices": {
+    "A": "thorough and rigorous",
+    "B": "carried out with little care or effort",
+    "C": "recently introduced",
+    "D": "financially costly"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the oversight mechanisms are described as 'perfunctory'—a criticism listed alongside 'lax' financial controls. 'Perfunctory' means done merely as a matter of routine, with little care, effort, or genuine engagement. Choice B, 'carried out with little care or effort,' accurately captures this: the oversight mechanisms existed in form but were not genuinely effective or attentive. The word is consistently used to describe actions that are technically completed but without substance or true engagement. Choice A ('thorough and rigorous') is the opposite—it describes what good oversight mechanisms should be. Choice C ('recently introduced') introduces a temporal element not relevant to the word's meaning. Choice D ('financially costly') is unrelated."
+}

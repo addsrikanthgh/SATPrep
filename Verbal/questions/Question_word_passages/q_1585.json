@@ -1,0 +1,16 @@
+{
+  "id": "q_1585",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Walter Benjamin's 1935 essay 'The Work of Art in the Age of Mechanical Reproduction' argued that photographic and film reproduction stripped artworks of what he called their 'aura'—a quality he described as 'the unique phenomenon of a distance, however close it might be.' For Benjamin, the aura was inseparable from an artwork's embeddedness in a particular place, time, and ritual context. A painting in a cathedral had aura because it existed in a singular location as part of a living tradition. A photograph of the same painting, endlessly reproducible and transportable, lost this singularity. Benjamin did not simply mourn this loss, however. He argued that the decay of the aura also emancipated art from its ritual function and opened the possibility of a new, politicized art practice suited to mass culture. Film, he suggested, could serve as a vehicle for collective political awakening rather than individual contemplative experience.",
+  "question": "A student argues that Benjamin views the loss of aura as having both negative and positive consequences. Which quotation most directly supports this interpretation?",
+  "choices": {
+    "A": "\"[T]he unique phenomenon of a distance, however close it might be.\"",
+    "B": "\"A photograph of the same painting, endlessly reproducible and transportable, lost this singularity.\"",
+    "C": "\"Benjamin did not simply mourn this loss, however. He argued that the decay of the aura also emancipated art from its ritual function and opened the possibility of a new, politicized art practice suited to mass culture.\"",
+    "D": "\"Film, he suggested, could serve as a vehicle for collective political awakening rather than individual contemplative experience.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's interpretation is that Benjamin sees the loss of aura as having both negative AND positive consequences. Choice C captures this two-sidedness explicitly: it states that Benjamin 'did not simply mourn this loss' (acknowledging a negative aspect—the loss worth mourning) but also 'argued that the decay of the aura...emancipated art from its ritual function and opened the possibility of a new, politicized art practice' (the positive consequence). The word 'also' in 'also emancipated' signals the additive positive alongside the negative. Choice A defines the aura but doesn't address consequences. Choice B describes only the loss (negative side only). Choice D describes only one positive application (film as political vehicle) without acknowledging the negative side, so it doesn't support the 'both negative and positive' interpretation."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1234",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The executive team only decided to proceed with the merger after reviewing three rounds of due diligence reports. Final approval came two weeks before the regulatory deadline.",
+  "question": "The word 'only' in the first sentence creates ambiguity. Which choice most clearly conveys that the decision to proceed came only after the due diligence process was completed?",
+  "choices": {
+    "A": "The executive team decided to proceed with the merger only after reviewing three rounds of due diligence reports.",
+    "B": "Only the executive team decided to proceed with the merger after reviewing three rounds of due diligence reports.",
+    "C": "The executive team decided only to proceed with the merger after reviewing three rounds of due diligence reports.",
+    "D": "No change; 'only decided' means the decision was their sole action, clarifying the scope of their involvement"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'only decided' could mean the team did nothing but decide (without action) or that the decision was conditional on the due diligence. The intended meaning is that the timing was conditional—they proceeded only after completing three rounds of due diligence. Choice A places 'only' before 'after reviewing,' making the conditional timing unambiguous. Choice B places 'only' before 'the executive team,' implying no other group made this decision. Choice C places 'only' before 'to proceed,' implying proceeding was the team's sole option or intent. Choice D incorrectly defends 'only decided' as conveying scope of involvement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1040",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An environmental economist compiled data on five renewable energy technologies deployed at scale, comparing CO₂ reduction and implementation costs over five years. Results were: onshore wind, 1,240,000 metric tons CO₂ reduced per year, $180 million total cost, 6,889 metric tons reduced per $1 million invested; offshore wind, 980,000 metric tons, $420 million, 2,333 metric tons per $1 million; solar photovoltaic, 1,580,000 metric tons, $195 million, 8,103 metric tons per $1 million; geothermal, 340,000 metric tons, $220 million, 1,545 metric tons per $1 million; tidal energy, 120,000 metric tons, $310 million, 387 metric tons per $1 million. An advocacy group's report concluded that solar photovoltaic energy offers the best return on investment for CO₂ reduction among the technologies studied.",
+  "question": "Which choice most effectively uses data from the study to support the advocacy group's conclusion?",
+  "choices": {
+    "A": "Solar photovoltaic produced the largest total CO₂ reduction of any technology—1,580,000 metric tons per year—outperforming every other source in the dataset.",
+    "B": "Solar photovoltaic achieved the highest CO₂ reduction per million dollars invested (8,103 metric tons), outperforming the next most cost-effective option—onshore wind at 6,889 metric tons per million—and far exceeding geothermal (1,545) and tidal energy (387), establishing solar's superiority on the ROI metric across all five technologies.",
+    "C": "Solar photovoltaic reduced CO₂ by 1,580,000 metric tons per year at a cost of $195 million, providing greater CO₂ reduction at significantly lower cost than offshore wind, which achieved only 980,000 metric tons at $420 million.",
+    "D": "Tidal energy produced the lowest CO₂ reduction per million dollars invested (387 metric tons), making it the least cost-effective technology—a stark contrast to solar photovoltaic's performance."
+  },
+  "correct_answer": "B",
+  "explanation": "The advocacy group's conclusion is specifically about 'return on investment' for CO₂ reduction, which the study directly measures as CO₂ reduction per $1 million invested. Choice B directly addresses this ROI metric by citing solar photovoltaic's top ranking (8,103) and comparing it comprehensively to all other technologies—including the next-best option (onshore wind at 6,889) and the lower-ranked options—establishing solar's superiority across the field. Choice A supports that solar produces the most total CO₂ reduction, but total reduction is different from ROI; a cheaper technology producing only slightly less CO₂ could have a higher ROI. Choice C compares solar to offshore wind only on both emissions and cost, which is less comprehensive than B's comparison across the ROI metric for all five technologies. Choice D focuses on tidal energy's poor performance rather than directly establishing solar's superiority relative to all alternatives."
+}

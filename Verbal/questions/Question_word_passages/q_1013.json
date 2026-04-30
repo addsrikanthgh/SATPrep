@@ -1,0 +1,16 @@
+{
+  "id": "q_1013",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Modern encryption systems rely on the mathematical difficulty of certain computational problems. *Public-key cryptography uses a pair of mathematically linked keys one key encrypts the message and only the corresponding key can decrypt it.* This asymmetric approach eliminates the need for sender and receiver to share a secret key in advance.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Public-key cryptography uses a pair of mathematically linked keys, one key encrypts the message and only the corresponding key can decrypt it.",
+    "B": "Public-key cryptography uses a pair of mathematically linked keys; one key encrypts the message, and only the corresponding key can decrypt it.",
+    "C": "Public-key cryptography uses a pair of mathematically linked keys one key encrypts the message and only the corresponding key can decrypt it.",
+    "D": "Public-key cryptography uses a pair of mathematically linked keys, encrypting the message so that only the corresponding key can decrypt it."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a fused sentence—two independent clauses with no punctuation between them. Choice B inserts a semicolon after 'keys' to separate the main clause from the explanatory clause, and adds a comma before 'and' to join the two independent clauses within the second part, producing a correctly punctuated sentence. Choice A creates a comma splice. Choice C reproduces the original fused sentence. Choice D replaces the second clause with a participial phrase that removes the explicit subject 'one key,' obscuring which key performs the encryption versus the decryption—a distinction that is central to the technical explanation."
+}

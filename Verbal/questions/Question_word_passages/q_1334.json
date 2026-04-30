@@ -1,0 +1,16 @@
+{
+  "id": "q_1334",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The annual conference attracted researchers from forty countries, it was considered the most international gathering in the organization's history. Attendance was nearly double what organizers had anticipated.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The annual conference attracted researchers from forty countries; it was considered the most international gathering in the organization's history.",
+    "B": "The annual conference attracted researchers from forty countries, and considered the most international gathering in the organization's history.",
+    "C": "The annual conference attracted researchers from forty countries. Being considered the most international gathering in the organization's history.",
+    "D": "No change; a comma may link two independent clauses when the second explains the first."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice—two independent clauses ('The annual conference attracted researchers from forty countries' and 'it was considered the most international gathering in the organization's history') are joined by only a comma, which is insufficient. A semicolon, coordinating conjunction, or period is required. Choice A uses a semicolon to correctly join the two related independent clauses. Choice B is a comma splice with an oddly worded second clause ('and considered') that lacks a subject. Choice C creates a dangling participial fragment. Choice D incorrectly states that commas may join independent clauses without a coordinating conjunction."
+}

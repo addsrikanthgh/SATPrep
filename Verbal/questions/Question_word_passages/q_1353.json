@@ -1,0 +1,16 @@
+{
+  "id": "q_1353",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The satellite data confirmed that the ice sheet had retreated by an unprecedented amount, this was a finding that forced researchers to revise their projections for sea level rise over the coming century. The revised estimates were published in a leading climate science journal.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The satellite data confirmed that the ice sheet had retreated by an unprecedented amount, a finding that forced researchers to revise their projections for sea level rise over the coming century.",
+    "B": "The satellite data confirmed that the ice sheet had retreated by an unprecedented amount, this forced researchers to revise their projections for sea level rise.",
+    "C": "The satellite data confirmed that the ice sheet had retreated by an unprecedented amount; this was a finding that forced researchers to revise their projections.",
+    "D": "No change; 'this was a finding' is an appositive that correctly elaborates on the satellite data's confirmation."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice—'this was a finding that forced researchers to revise their projections for sea level rise over the coming century' is an independent clause joined to the preceding independent clause by only a comma. The cleanest fix is to convert the second clause into an appositive noun phrase by removing 'this was' and letting 'a finding that forced researchers...' serve as a noun phrase in apposition to the preceding fact. Choice A achieves this. Choice B maintains the comma splice (though slightly shorter). Choice C uses a semicolon, which is grammatically acceptable but less elegant than the appositive construction in A. Choice D incorrectly identifies the original 'this was a finding' as an appositive—it is a full independent clause."
+}

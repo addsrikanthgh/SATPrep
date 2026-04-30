@@ -1,0 +1,16 @@
+{
+  "id": "q_1321",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The jury has deliberated for eleven days without reaching a verdict, which legal analysts say suggest the evidence presented at trial may have been insufficient to establish guilt beyond a reasonable doubt. Jurors are expected to resume deliberations Monday morning.",
+  "question": "Is there a subject-verb agreement error in the underlined portion of the first sentence?",
+  "choices": {
+    "A": "Yes; 'suggest' should be 'suggests' because 'which' refers to the singular noun 'verdict.'",
+    "B": "Yes; 'suggest' should be 'suggests' because 'which' refers to the singular event of not reaching a verdict.",
+    "C": "Yes; 'suggest' should be 'suggests' because the relative clause has a singular subject 'which.'",
+    "D": "No; 'suggest' correctly agrees with the plural antecedent of 'which'—the jury's multiple days of deliberation."
+  },
+  "correct_answer": "C",
+  "explanation": "The relative pronoun 'which' introduces a relative clause and takes its number from its antecedent. Here, 'which' refers to the entire situation described in the preceding clause ('deliberating eleven days without reaching a verdict'), but grammatically, a relative pronoun is treated as singular when referring to an event or clause in this way. More directly: 'which' as a subject in a relative clause takes a singular verb—'suggests,' not 'suggest.' Choice C correctly identifies this. Choice A incorrectly identifies 'verdict' as the antecedent of 'which'—'which' modifies the entire preceding clause, not 'verdict.' Choice B is approximately correct but imprecise. Choice D constructs a faulty plural antecedent argument."
+}

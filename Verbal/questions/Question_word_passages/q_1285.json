@@ -1,0 +1,16 @@
+{
+  "id": "q_1285",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The staff at the community health center, in addition to volunteers from three local nonprofit organizations, have developed a comprehensive outreach program targeting uninsured families in low-income neighborhoods. Funding for the program was secured through a federal grant.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The staff at the community health center, in addition to volunteers from three local nonprofit organizations, has developed a comprehensive outreach program targeting uninsured families.",
+    "B": "The staff at the community health center, in addition to volunteers from three local nonprofit organizations, have developed comprehensive outreach programs targeting uninsured families.",
+    "C": "The staffs at the community health centers, in addition to volunteers from three local nonprofit organizations, have developed a comprehensive outreach program.",
+    "D": "No change; 'have developed' correctly agrees with 'volunteers,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The staff at the community health center.' In American English, 'staff' functioning as a collective unit typically takes a singular verb. The phrase 'in addition to volunteers from three local nonprofit organizations' is a parenthetical addition set off by commas; it does not alter the subject's number or function. The singular verb 'has developed' is required. Choice A uses 'has developed.' Choice B keeps 'have developed' and pluralizes 'program'—compounding errors. Choice C uses 'staffs' and 'centers' (unusual plural forms) with 'have developed'—making plural what should be singular. Choice D incorrectly applies proximity agreement."
+}

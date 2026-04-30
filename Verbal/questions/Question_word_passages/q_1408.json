@@ -1,0 +1,16 @@
+{
+  "id": "q_1408",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The nonprofit organization's annual gala raised more than three hundred thousand dollars for arts education programs. Exceeding the previous year's record by nearly fifty percent and allowing the organization to expand its after-school initiatives to twelve additional schools. Executive Director Maria Chen thanked the donors personally.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The nonprofit organization's annual gala raised more than three hundred thousand dollars for arts education programs, exceeding the previous year's record by nearly fifty percent and allowing the organization to expand its after-school initiatives to twelve additional schools.",
+    "B": "The nonprofit organization's annual gala raised more than three hundred thousand dollars for arts education programs; exceeding the previous year's record by nearly fifty percent and allowing expansion to twelve additional schools.",
+    "C": "The nonprofit organization's annual gala raised more than three hundred thousand dollars. This exceeded the previous year's record by fifty percent and allowed the organization to expand its after-school initiatives to twelve additional schools.",
+    "D": "No change; 'Exceeding the previous year's record' begins a complete sentence because it contains two coordinated participles."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Exceeding the previous year's record by nearly fifty percent and allowing the organization to expand its after-school initiatives to twelve additional schools' is a participial phrase fragment—it begins with a present participle ('Exceeding'), has no subject or main verb, and cannot stand alone. This phrase describes the result of the gala's fundraising success and should be attached to the preceding sentence. Choice A attaches the participial phrase with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect. Choice C converts the fragment into a full sentence with 'This' as subject. Choice D incorrectly claims two coordinated participles form a complete sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1659",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing an essay arguing that public libraries remain essential institutions in the digital age. The student has gathered the following notes:\n\n• In the U.S., 17% of adults do not use the internet, primarily due to lack of access or digital literacy skills.\n• Public libraries provide free internet access, computer use, and digital literacy training.\n• Libraries circulated 1.3 billion physical items in 2019, the most recent pre-pandemic year for which data are available.\n• A 2018 Pew Research survey found that 78% of Americans said closing their local library would have a major impact on their community.\n• Libraries increasingly offer social services including job counseling, tax preparation assistance, and mental health referrals.",
+  "question": "The student wants to argue that libraries serve populations who are specifically underserved by digital-only information access. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Public libraries circulated 1.3 billion physical items in 2019 and offer social services including job counseling and mental health referrals, demonstrating their broad community role.",
+    "B": "With 17% of American adults lacking internet access or digital literacy, public libraries—which provide free internet, computers, and digital literacy training—serve as a critical bridge for those most excluded from digital-only information access.",
+    "C": "A 2018 Pew Research survey found that 78% of Americans believe their library's closure would have a major community impact, reflecting broad public appreciation for library services.",
+    "D": "Public libraries are popular and multifunctional institutions that have adapted to offer digital services, social supports, and traditional physical lending."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's specific goal is to argue that libraries serve populations underserved by digital-only access. Choice B directly targets this argument by (1) identifying the population (17% of adults without internet access or digital literacy) and (2) naming the specific library services that serve this population (free internet, computers, digital literacy training). The phrase 'bridge for those most excluded from digital-only information access' directly states the argument the student wants to make. Choice A mentions physical lending and social services—both relevant to libraries' general role, but not specifically about those excluded from digital access. Choice C uses the Pew survey showing popularity, but popularity doesn't specifically address digital exclusion. Choice D is too vague and general to make the targeted argument about underserved populations."
+}

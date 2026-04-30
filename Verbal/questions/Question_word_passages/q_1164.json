@@ -1,0 +1,16 @@
+{
+  "id": "q_1164",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To graduate with honors from the program, a cumulative GPA of at least 3.7 must be maintained by the student throughout all four years of coursework. Departmental recommendations and faculty evaluations are also taken into account.",
+  "question": "Which choice best corrects the dangling modifier error in the first sentence?",
+  "choices": {
+    "A": "To graduate with honors from the program, the student must maintain a cumulative GPA of at least 3.7 throughout all four years of coursework.",
+    "B": "To graduate with honors from the program, a cumulative GPA of at least 3.7 is required throughout all four years.",
+    "C": "A cumulative GPA of at least 3.7 must be maintained, to graduate with honors from the program, by the student.",
+    "D": "No change; the infinitive phrase modifies 'a cumulative GPA,' which is what enables graduation with honors"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To graduate with honors from the program' implies a student who wants to graduate. As written, the subject is 'a cumulative GPA,' suggesting the GPA wants to graduate. Choice A correctly places 'the student' as the subject. Choice B uses passive voice and still implies the GPA (or an unspecified subject) is graduating. Choice C moves the infinitive to mid-sentence, creating an awkward interrupting phrase without fixing the logical issue. Choice D incorrectly argues that a GPA can serve as the logical subject of an infinitive expressing a goal."
+}

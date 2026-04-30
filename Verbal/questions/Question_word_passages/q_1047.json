@@ -1,0 +1,16 @@
+{
+  "id": "q_1047",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the lead researcher nor the graduate students assigned to the project was able to replicate the results of the original 2019 study. The failure to reproduce the findings prompted a formal review by the journal's editorial board, which ultimately issued a correction notice.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Neither the lead researcher nor the graduate students assigned to the project were able to replicate the results of the original 2019 study.",
+    "B": "Neither the lead researcher nor the graduate students assigned to the project has been able to replicate the results of the original 2019 study.",
+    "C": "Neither the lead researcher nor the graduate students assigned to the project are able to replicate the results of the original 2019 study.",
+    "D": "No correction is needed; 'neither...nor' always takes a singular verb regardless of the subject."
+  },
+  "correct_answer": "A",
+  "explanation": "When a compound subject is joined by 'neither...nor,' the verb agrees with the subject closest to it—a rule known as the proximity rule. Here, the subject closest to the verb is 'the graduate students,' which is plural. The original sentence uses 'was' (singular), which incorrectly agrees with 'the lead researcher' (the more distant subject) rather than 'the graduate students' (the nearer subject). Choice A correctly uses 'were' to agree with the plural nearest subject. Choice B uses 'has been,' which is singular and shifts the sentence into the present perfect tense without justification. Choice C uses 'are' (present tense), which changes the tense of the passage. Choice D is incorrect; 'neither...nor' takes the verb that agrees with the nearest subject, which in this case is plural."
+}

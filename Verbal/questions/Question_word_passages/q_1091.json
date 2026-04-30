@@ -1,0 +1,16 @@
+{
+  "id": "q_1091",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Cassini research team at NASA's Jet Propulsion Laboratory announced its discovery of complex organic molecules in the plumes of Saturn's moon Enceladus. Excited by the implications for astrobiology, they immediately began planning a follow-up mission to gather more targeted samples from the moon's subsurface ocean.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the scientists",
+    "B": "it",
+    "C": "those researchers",
+    "D": "No change; 'they' refers to the individual scientists who make up the research team"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The Cassini research team' is singular, as confirmed by 'its discovery' in the first sentence. The second sentence then uses 'they,' creating a number inconsistency. Choice B replaces 'they' with 'it,' maintaining singular agreement. Choice A introduces 'the scientists,' a new plural noun, and Choice C introduces 'those researchers'—neither is the established antecedent. Choice D incorrectly justifies the plural pronoun by appealing to individual members; the grammatical antecedent is the singular team."
+}

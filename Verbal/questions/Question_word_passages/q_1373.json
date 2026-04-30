@@ -1,0 +1,16 @@
+{
+  "id": "q_1373",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "After cataloguing more than twelve thousand specimens over three field seasons, the zoologists concluded that the wetland ecosystem was far more biodiverse than any previous survey had suggested. Several species previously unknown to science were identified, among them two amphibians and one freshwater crustacean whose taxonomic classification is still being debated.",
+  "question": "Which choice best describes the sentence structure of the passage?",
+  "choices": {
+    "A": "The first sentence has a dangling modifier; 'the zoologists' should be moved to follow 'After cataloguing.'",
+    "B": "The second sentence is a comma splice; a semicolon should replace the comma after 'identified.'",
+    "C": "The passage has no sentence structure errors; both sentences are grammatically complete.",
+    "D": "The second sentence is a fragment because 'among them two amphibians' has no independent subject-verb structure."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage contains no sentence structure errors. In the first sentence, the introductory participial phrase 'After cataloguing more than twelve thousand specimens over three field seasons' is correctly attached to 'the zoologists,' its logical subject. In the second sentence, 'Several species previously unknown to science were identified' is a complete independent clause. 'Among them two amphibians and one freshwater crustacean whose taxonomic classification is still being debated' is an appositive phrase that provides additional detail about the species identified—it is correctly attached to the preceding clause after a comma. The sentence is grammatically complete."
+}

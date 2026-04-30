@@ -1,0 +1,16 @@
+{
+  "id": "q_1192",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To receive full reimbursement from the insurance carrier, all required documentation must be submitted by the policyholder within thirty days of the medical procedure. Claims submitted after that deadline will be processed at a reduced reimbursement rate.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "To receive full reimbursement from the insurance carrier, the policyholder must submit all required documentation within thirty days of the medical procedure.",
+    "B": "All required documentation, to receive full reimbursement from the insurance carrier, must be submitted by the policyholder within thirty days.",
+    "C": "Full reimbursement from the insurance carrier requires all required documentation to be submitted within thirty days by the policyholder.",
+    "D": "No change; 'to receive' establishes a condition that applies equally to the policyholder and to the documentation requirements"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To receive full reimbursement from the insurance carrier' implies an agent who wants to receive reimbursement. As written, 'all required documentation' is the subject—documentation cannot receive reimbursement. Choice A restructures so 'the policyholder,' the logical agent, is the subject. Choice B attaches the infinitive phrase mid-sentence to 'All required documentation,' still leaving documentation as the implied recipient of reimbursement. Choice C eliminates the infinitive phrase entirely and changes the sentence's structure significantly. Choice D incorrectly claims the condition can apply to the documentation."
+}

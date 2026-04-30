@@ -1,0 +1,16 @@
+{
+  "id": "q_1614",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The anthropologist's account of the remote community was notable for its reflexivity: rather than presenting herself as a neutral observer who simply recorded what she found, she acknowledged throughout the text how her own assumptions, cultural background, and personal history shaped what she noticed, how she interpreted it, and which community members she was able to build relationships with. This self-awareness about the situated nature of knowledge is now considered a hallmark of rigorous ethnographic practice.",
+  "question": "As used in the passage, 'situated' most nearly means",
+  "choices": {
+    "A": "geographically located",
+    "B": "shaped by one's particular position, background, and perspective",
+    "C": "permanently fixed",
+    "D": "empirically verified"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, 'the situated nature of knowledge' refers to the idea—central to the passage—that knowledge is shaped by the researcher's 'assumptions, cultural background, and personal history.' 'Situated' here is used in an epistemological sense: knowledge is not universal or neutral but is always produced from a particular standpoint or position. Choice B, 'shaped by one's particular position, background, and perspective,' directly captures this meaning: knowledge is situated because it arises from the specific situation (position, background) of the knower. Choice A ('geographically located') is the literal spatial meaning of 'situated,' but the passage uses the word in a figurative, epistemological sense. Choice C ('permanently fixed') has no connection to the concept of positionality. Choice D ('empirically verified') describes a different epistemological concept—evidence-based knowledge rather than position-dependent knowledge."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1007",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Impressionist painters broke dramatically from the academic tradition that had dominated European art for centuries. *Claude Monet and his contemporaries rejected the smooth, polished surfaces demanded by the Paris Salon they embraced visible brushstrokes and the play of natural light.* This stylistic revolution eventually gave rise to a range of post-impressionist movements.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Claude Monet and his contemporaries rejected the smooth, polished surfaces demanded by the Paris Salon, they embraced visible brushstrokes and the play of natural light.",
+    "B": "Claude Monet and his contemporaries rejected the smooth, polished surfaces demanded by the Paris Salon; they embraced visible brushstrokes and the play of natural light.",
+    "C": "Claude Monet and his contemporaries rejected the smooth, polished surfaces demanded by the Paris Salon they embraced visible brushstrokes and the play of natural light.",
+    "D": "Claude Monet and his contemporaries rejecting the smooth, polished surfaces demanded by the Paris Salon, embraced visible brushstrokes and the play of natural light."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a fused sentence—two independent clauses joined without any punctuation. Choice B inserts a semicolon to correctly separate the two independent clauses. Choice A creates a comma splice. Choice C reproduces the original fused sentence. Choice D converts 'rejected' to the participle 'rejecting,' eliminating the finite verb and making 'embraced' the only predicate for the subject, which distorts the parallel structure: the original presents rejection and embracing as two distinct, equally weighted actions."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1150",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The explorers found the ancient map hidden in a leather satchel underneath the floorboards of the abandoned monastery with faded ink markings that traced a route through the mountains.",
+  "question": "The phrase 'with faded ink markings that traced a route through the mountains' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "The explorers found the ancient map, with faded ink markings that traced a route through the mountains, hidden in a leather satchel underneath the floorboards of the abandoned monastery.",
+    "B": "With faded ink markings that traced a route through the mountains, the explorers found the ancient map hidden in a leather satchel underneath the floorboards.",
+    "C": "The explorers, with faded ink markings that traced a route through the mountains, found the ancient map hidden in a leather satchel underneath the floorboards.",
+    "D": "No change; the phrase 'with faded ink markings' clearly modifies 'map' because maps have ink markings"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, the prepositional phrase 'with faded ink markings' is placed at the end of the sentence where it can modify 'monastery' (the nearest preceding noun), implying the monastery has ink markings. The phrase should modify 'the ancient map.' Choice A places the phrase immediately after 'the ancient map,' which it describes. Choice B places the phrase at the start of the sentence, making it modify 'the explorers'—the explorers had faded ink markings. Choice C similarly attaches the phrase to 'the explorers.' Choice D incorrectly argues that logical plausibility can substitute for proper modifier placement."
+}

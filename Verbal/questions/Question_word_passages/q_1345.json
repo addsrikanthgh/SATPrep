@@ -1,0 +1,16 @@
+{
+  "id": "q_1345",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The delegation arrived in Geneva for the climate summit; they were exhausted from fourteen hours of travel, they were nonetheless prepared to begin negotiations immediately. The first plenary session was scheduled for eight o'clock the following morning.",
+  "question": "Which choice best corrects the sentence structure error in the second clause of the first sentence?",
+  "choices": {
+    "A": "The delegation arrived in Geneva for the climate summit; though exhausted from fourteen hours of travel, they were nonetheless prepared to begin negotiations immediately.",
+    "B": "The delegation arrived in Geneva for the climate summit. They were exhausted from fourteen hours of travel, they were nonetheless prepared to begin negotiations immediately.",
+    "C": "The delegation arrived in Geneva for the climate summit; they were exhausted from fourteen hours of travel; they were nonetheless prepared to begin negotiations immediately.",
+    "D": "No change; the first sentence uses two commas to connect three related independent clauses in a series."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence contains a comma splice in its second part: 'they were exhausted from fourteen hours of travel, they were nonetheless prepared to begin negotiations immediately.' Two independent clauses are joined by only a comma. The relationship between the two ideas is concessive ('although exhausted, they were prepared'), so converting the first idea into a concessive adverbial phrase ('though exhausted from fourteen hours of travel') is the most elegant fix, attaching it as a modifier before the main clause. Choice A achieves this. Choice B maintains the comma splice in the second sentence. Choice C uses two semicolons—grammatically correct but creates a list-like structure that loses the concessive nuance. Choice D incorrectly defends using commas to join multiple independent clauses."
+}

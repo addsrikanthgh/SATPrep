@@ -1,0 +1,16 @@
+{
+  "id": "q_1278",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Both the university's provost and the board of trustees has endorsed the strategic plan to expand graduate enrollment by forty percent over the next decade. The plan calls for new doctoral programs in engineering, public health, and data science.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Both the university's provost and the board of trustees have endorsed the strategic plan to expand graduate enrollment by forty percent over the next decade.",
+    "B": "Both the university's provost and the board of trustees has endorsed the strategic plans to expand graduate enrollment over the next decade.",
+    "C": "The university's provost, as well as the board of trustees, has endorsed the strategic plan to expand graduate enrollment over the next decade.",
+    "D": "No change; 'has endorsed' correctly agrees with 'the board of trustees,' the nearest singular noun phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "When two subjects are joined by 'both...and,' they form a compound subject that always takes a plural verb. 'Both the university's provost and the board of trustees' is a plural compound subject, so the plural verb 'have endorsed' is required. Choice A uses 'have endorsed.' Choice B keeps 'has endorsed' and pluralizes 'plan' to 'plans,' compounding the error. Choice C restructures the sentence with 'as well as,' which is a parenthetical addition that does not change the subject's number; 'has endorsed' is then correct for the singular subject 'The university's provost.' Choice D incorrectly applies proximity agreement."
+}

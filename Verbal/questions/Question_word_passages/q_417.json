@@ -1,7 +1,7 @@
 {
   "id": "q_417",
   "domain": "Information and Ideas",
-  "skill": "command of evidence",
+  "skill": "command of evidence (textual)",
   "difficulty": "easy",
   "passage": "Astronomers observed a distant galaxy cluster and measured the velocities of individual galaxies within it. By applying the virial theorem—which relates the kinetic energy of the galaxies to the gravitational potential energy of the cluster—they calculated the cluster's total mass. The mass derived from galaxy velocities was approximately six times greater than the mass that could be accounted for by all visible matter (stars, gas, and dust) in the cluster. This discrepancy was first noted by astronomer Fritz Zwicky in 1933 and remains one of the primary lines of evidence for the existence of dark matter.",
   "question": "Which evidence from the passage most directly supports the claim that there is matter in the universe that cannot be detected by observing emitted or reflected light?",

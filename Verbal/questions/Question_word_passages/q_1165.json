@@ -1,0 +1,16 @@
+{
+  "id": "q_1165",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "The historian recovered letters written by abolitionist Harriet Tubman in a private collection in Maryland that had never been publicly examined. The letters shed new light on her organizational role in the Underground Railroad network during the 1850s.",
+  "question": "The phrase 'that had never been publicly examined' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "The historian recovered letters written by abolitionist Harriet Tubman, which had never been publicly examined, from a private collection in Maryland.",
+    "B": "The historian recovered letters, in a private collection in Maryland, written by abolitionist Harriet Tubman that had never been publicly examined.",
+    "C": "In a private collection in Maryland, the letters that had never been publicly examined were written by abolitionist Harriet Tubman and recovered by the historian.",
+    "D": "No change; 'that had never been publicly examined' modifies 'a private collection,' meaning the collection was unexamined"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, the relative clause 'that had never been publicly examined' follows 'in Maryland' and most naturally modifies 'a private collection in Maryland,' implying the collection (not the letters) was unexamined. The letters are what had not been examined. Choice A places the relative clause immediately after 'letters,' which it describes. Choice B inserts the location prepositionally in the middle of the sentence but keeps the relative clause at the end attached to 'Harriet Tubman,' still misplaced. Choice C reconstructs the sentence awkwardly in passive voice. Choice D incorrectly argues that the collection being unexamined is the intended meaning."
+}

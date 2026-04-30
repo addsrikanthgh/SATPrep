@@ -1,0 +1,16 @@
+{
+  "id": "q_1405",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The conservation biologists tracked the wolf pack's movements for two full years before drawing any conclusions about territorial behavior, throughout this period the researchers maintained a strict protocol of non-intervention, observing the animals from a distance using GPS collar data and drone footage.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The conservation biologists tracked the wolf pack's movements for two full years before drawing any conclusions about territorial behavior; throughout this period, the researchers maintained a strict protocol of non-intervention, observing the animals from a distance using GPS collar data and drone footage.",
+    "B": "The conservation biologists tracked the wolf pack's movements for two full years before drawing any conclusions about territorial behavior, and throughout this period the researchers maintained a strict protocol of non-intervention.",
+    "C": "Throughout the two years of tracking the wolf pack's movements, the researchers maintained a strict protocol of non-intervention, observing the animals from a distance using GPS collar data and drone footage.",
+    "D": "No change; 'throughout this period' begins a clause that follows naturally from the preceding description of the two-year study period."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'about territorial behavior,' the sentence continues with 'throughout this period the researchers maintained a strict protocol of non-intervention'—an independent clause with its own subject ('the researchers') and predicate. Two independent clauses cannot be joined by only a comma. Choice A inserts a semicolon before 'throughout.' Note that Choice A also correctly adds a comma after 'throughout this period,' treating it as an introductory prepositional phrase within the second independent clause. Choice B adds 'and,' a coordinating conjunction—also valid. Choice C restructures the sentence significantly. Choice D incorrectly defends the comma splice."
+}

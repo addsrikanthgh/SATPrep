@@ -1,0 +1,16 @@
+{
+  "id": "q_1030",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A clinical nutritionist conducted a 12-week randomized trial comparing four dietary patterns in adults with elevated baseline LDL cholesterol. Groups had comparable baseline LDL values (ranging from 147.9 to 149.1 mg/dL). Changes in LDL cholesterol after 12 weeks were: standard Western diet (control), +3.4 mg/dL; low-fat diet, −9.7 mg/dL; Mediterranean diet, −22.7 mg/dL; plant-based diet, −30.3 mg/dL. The nutritionist claimed that plant-based and Mediterranean diets are both significantly more effective at reducing LDL cholesterol than a low-fat diet, and that the plant-based diet produces the greatest overall reduction.",
+  "question": "Which choice most effectively uses data from the study to support the nutritionist's claim?",
+  "choices": {
+    "A": "The plant-based diet reduced LDL cholesterol by 30.3 mg/dL—the largest reduction of any dietary pattern in the trial.",
+    "B": "The Mediterranean diet reduced LDL by 22.7 mg/dL compared to only 9.7 mg/dL for the low-fat diet—a difference of 13.0 mg/dL—while the plant-based diet reduced LDL by 30.3 mg/dL, outperforming the low-fat diet by 20.6 mg/dL; both figures confirm that plant-based and Mediterranean diets are substantially more effective than the low-fat approach, with plant-based producing the largest reduction overall.",
+    "C": "All three intervention diets reduced LDL cholesterol compared to the control diet, which increased LDL by 3.4 mg/dL over the 12-week period.",
+    "D": "Baseline LDL cholesterol values were similar across all four groups, ranging from 147.9 to 149.1 mg/dL, suggesting the groups were well-matched before the intervention began."
+  },
+  "correct_answer": "B",
+  "explanation": "The nutritionist's claim has two parts: (1) both plant-based and Mediterranean diets are significantly more effective than low-fat, and (2) plant-based produces the greatest overall reduction. Choice B addresses both parts: it quantifies the Mediterranean diet's advantage over low-fat (13.0 mg/dL) and the plant-based diet's advantage over low-fat (20.6 mg/dL), then confirms plant-based produced the largest reduction (30.3 mg/dL). Choice A supports only the second part (plant-based is greatest) without addressing the comparison between Mediterranean and low-fat diets. Choice C establishes only that all interventions outperform the control; it says nothing about the relative effectiveness of plant-based and Mediterranean vs. low-fat. Choice D discusses baseline equivalence, which is relevant to study validity but does not support any claim about dietary effectiveness."
+}

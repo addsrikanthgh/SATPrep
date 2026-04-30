@@ -1,0 +1,16 @@
+{
+  "id": "q_1341",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Because the clinical trial's primary endpoint was not met, nor were the secondary endpoints showing a statistically significant reduction in symptom severity. The pharmaceutical company announced it would discontinue the drug's development.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "Because neither the clinical trial's primary endpoint nor the secondary endpoints showed a statistically significant reduction in symptom severity, the pharmaceutical company announced it would discontinue the drug's development.",
+    "B": "The clinical trial's primary endpoint was not met; nor were the secondary endpoints showing a statistically significant reduction in symptom severity.",
+    "C": "Because the clinical trial's primary endpoint was not met. The secondary endpoints showed no statistically significant reduction in symptom severity.",
+    "D": "No change; the first sentence is a complete sentence because 'nor were' introduces an independent clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence 'Because the clinical trial's primary endpoint was not met, nor were the secondary endpoints showing a statistically significant reduction in symptom severity' is a fragment—it begins with the subordinating conjunction 'Because,' making the first clause dependent, and then adds 'nor were the secondary endpoints showing,' which is either part of the dependent clause or a new independent clause creating a run-on. The cleanest fix restructures the sentence using 'neither...nor' to combine both failed endpoints as a compound subject in the dependent clause, then attaches the main clause. Choice A achieves this. Choice B separates the ideas but creates a grammatical awkwardness with 'nor were...showing.' Choice C breaks apart the ideas unnecessarily. Choice D incorrectly argues the fragment is a complete sentence."
+}

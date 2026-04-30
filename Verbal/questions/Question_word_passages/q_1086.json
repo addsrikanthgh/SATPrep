@@ -1,0 +1,16 @@
+{
+  "id": "q_1086",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Ecologist Dr. Thorne and botanist Dr. Vasquez published competing interpretations of the same data on forest succession in the Pacific Northwest. At a symposium the following year, she conceded that several of the anomalous soil samples had been contaminated, which undermined a key component of her earlier argument.",
+  "question": "The pronoun 'she' is ambiguous. Which choice most clearly and precisely replaces it?",
+  "choices": {
+    "A": "Dr. Thorne",
+    "B": "Dr. Vasquez",
+    "C": "the ecologist",
+    "D": "No change; 'she' clearly refers to Dr. Vasquez because she is mentioned second, making her the most recent antecedent"
+  },
+  "correct_answer": "B",
+  "explanation": "Both Dr. Thorne and Dr. Vasquez are female scientists introduced in the first sentence, so the pronoun 'she' could grammatically refer to either of them. While it is true that 'the most recent antecedent' principle would point to Dr. Vasquez, this principle is a guideline, not a guarantee of clarity—particularly when two equally viable antecedents exist in the same sentence. The explicit naming of the subject eliminates all potential ambiguity. Choice B correctly names Dr. Vasquez. Choice A would assign the concession to Dr. Thorne, which may change the intended meaning. Choice C uses 'the ecologist,' which describes Dr. Thorne (not Dr. Vasquez, who is a botanist), and would therefore misidentify the subject. Choice D incorrectly treats recency alone as sufficient to resolve ambiguity in formal written English."
+}

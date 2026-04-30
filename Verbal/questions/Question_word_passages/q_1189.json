@@ -1,0 +1,16 @@
+{
+  "id": "q_1189",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Struggling to maintain cohesion in a fractured caucus, the legislation was revised and reintroduced by the senator three times before it finally passed. The final version included compromise language that appeased both the progressive and moderate wings of the party.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Struggling to maintain cohesion in a fractured caucus, the senator revised and reintroduced the legislation three times before it finally passed.",
+    "B": "The legislation, struggling to maintain cohesion in a fractured caucus, was revised and reintroduced three times by the senator.",
+    "C": "Struggling to maintain a fractured caucus, the legislation required three revisions before the senator passed it.",
+    "D": "No change; the senator is referenced in the sentence as the agent of the passive verb 'revised'"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Struggling to maintain cohesion in a fractured caucus' describes the senator. As written, 'the legislation' is the subject, implying legislation struggles to maintain caucus cohesion—illogical. Choice A restructures with 'the senator' as the subject. Choice B makes the error explicit by placing the phrase next to 'The legislation.' Choice C changes the meaning of the participial phrase and produces a confusing sentence. Choice D incorrectly argues that reference to an agent in a passive construction resolves a dangling modifier."
+}

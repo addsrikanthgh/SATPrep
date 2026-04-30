@@ -1,0 +1,16 @@
+{
+  "id": "q_1119",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The International Trade Commission completed its investigation into alleged dumping of solar panel components by foreign manufacturers and issued a final determination last September. Based on its findings, they recommended imposing countervailing duties ranging from 18 to 44 percent on the affected products.",
+  "question": "Which choice best corrects the pronoun inconsistency in the second sentence?",
+  "choices": {
+    "A": "Based on their findings, they recommended",
+    "B": "Based on its findings, it recommended",
+    "C": "Based on its findings, the commissioners recommended",
+    "D": "No change; 'its findings' and 'they recommended' can both refer to the commission without inconsistency"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence opens with 'its findings,' treating the commission as singular, then shifts to 'they recommended,' treating it as plural within the same sentence. Choice B corrects the inconsistency by replacing 'they' with 'it,' making both pronouns agree with the singular antecedent established in the first sentence. Choice A makes both pronouns plural, which contradicts the singular antecedent. Choice C introduces 'the commissioners,' a new noun. Choice D incorrectly asserts that mixing 'its' and 'they' for the same singular antecedent is acceptable."
+}

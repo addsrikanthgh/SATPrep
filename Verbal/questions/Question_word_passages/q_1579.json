@@ -1,0 +1,16 @@
+{
+  "id": "q_1579",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Historian Jill Lepore has argued that the myth of national decline—the belief that a nation has fallen from a former greatness—is a recurring feature of American political culture rather than an objective assessment of historical conditions. Lepore traces the rhetoric of decline to the colonial-era 'jeremiad,' a sermon form that lamented moral decay in order to inspire reform. She notes that this lament 'has served, in American political life, as a call to action: to restore what has been lost, to regain what has been squandered.' Critics of Lepore's argument have suggested that she conflates cyclical rhetorical patterns with the actual content of particular decline narratives, some of which may accurately describe real deteriorations in specific domains such as infrastructure, civic trust, or economic mobility. Lepore acknowledges that some decline narratives address genuine problems but insists that the framing of decline—the appeal to a lost golden age—systematically distorts political reasoning by looking backward rather than forward.",
+  "question": "A student argues that Lepore views decline rhetoric as a tool of political mobilization rather than an accurate historical diagnosis. Which quotation best supports this interpretation?",
+  "choices": {
+    "A": "\"[T]he myth of national decline...is a recurring feature of American political culture rather than an objective assessment of historical conditions.\"",
+    "B": "\"Lepore traces the rhetoric of decline to the colonial-era 'jeremiad,' a sermon form that lamented moral decay in order to inspire reform.\"",
+    "C": "\"[T]his lament 'has served, in American political life, as a call to action: to restore what has been lost, to regain what has been squandered.'\"",
+    "D": "\"[T]he framing of decline—the appeal to a lost golden age—systematically distorts political reasoning by looking backward rather than forward.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student argues Lepore sees decline rhetoric as a tool for political mobilization, not historical diagnosis. The key terms are 'tool' and 'mobilization.' Choice C is a direct quotation from Lepore (as cited in the passage) that describes decline rhetoric as 'a call to action'—which is precisely political mobilization. The language 'to restore what has been lost, to regain what has been squandered' confirms the mobilizing function: it moves people to action rather than simply diagnosing historical conditions. Choice A establishes that decline is a 'myth' rather than objective assessment—this supports the 'not historical diagnosis' part but says nothing about the mobilization function. Choice B describes the historical origin of the rhetoric but not its function as a tool. Choice D describes the distorting effects of decline framing, which is a critique of its consequences, not evidence of its mobilizing function."
+}

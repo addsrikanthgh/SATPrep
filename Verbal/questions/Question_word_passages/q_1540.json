@@ -1,0 +1,16 @@
+{
+  "id": "q_1540",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A study examined average daily screen time (in hours) among teenagers in four countries and compared it to the percentage of teenagers in each country reporting high levels of loneliness.\n\n| Country | Avg. Daily Screen Time (hrs) | % Reporting High Loneliness |\n|---|---|---|\n| Country A | 2.1 | 14 |\n| Country B | 4.3 | 22 |\n| Country C | 6.8 | 31 |\n| Country D | 3.5 | 19 |\n\nA researcher claimed that higher screen time is associated with higher rates of reported loneliness among teenagers.",
+  "question": "Which statement about the data most directly supports the researcher's claim?",
+  "choices": {
+    "A": "Country A has the lowest screen time and the lowest loneliness percentage, while Country C has the highest screen time and the highest loneliness percentage.",
+    "B": "Country D has lower screen time than Country B and a lower loneliness rate than Country C.",
+    "C": "Countries B and D have similar loneliness rates despite having different screen times.",
+    "D": "Country C has the highest screen time of the four countries."
+  },
+  "correct_answer": "A",
+  "explanation": "The researcher claims higher screen time is associated with higher loneliness. Choice A directly supports this by identifying the two extremes in the dataset: Country A (2.1 hrs screen time, 14% loneliness) and Country C (6.8 hrs, 31% loneliness). The pattern holds at both ends—lowest screen time paired with lowest loneliness, highest screen time with highest loneliness—providing the most compelling evidence for the association. Choice B is a partial comparison that does not directly compare the most relevant variables across the full spectrum. Choice C notes a case where the relationship is imperfect, which could actually weaken the claim. Choice D notes only a single variable for Country C without linking it to loneliness."
+}

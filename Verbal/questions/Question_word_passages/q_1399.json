@@ -1,0 +1,16 @@
+{
+  "id": "q_1399",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The research hospital has been a pioneer in developing minimally invasive surgical techniques over the past three decades, many of the procedures now considered standard practice worldwide were first developed and refined there by teams led by Dr. Elaine Sato, whose contributions to the field have earned her three lifetime achievement awards.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The research hospital has been a pioneer in developing minimally invasive surgical techniques over the past three decades; many of the procedures now considered standard practice worldwide were first developed and refined there by teams led by Dr. Elaine Sato, whose contributions to the field have earned her three lifetime achievement awards.",
+    "B": "The research hospital has been a pioneer in developing minimally invasive surgical techniques over the past three decades, with many of the procedures now considered standard practice worldwide first developed and refined there by teams led by Dr. Elaine Sato.",
+    "C": "The research hospital, a pioneer in minimally invasive surgical techniques for three decades, saw many procedures now considered standard worldwide first developed there by Dr. Elaine Sato's teams.",
+    "D": "No change; 'many of the procedures' may follow a comma as a continuation of the description of the hospital's contributions."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'the past three decades,' the sentence continues with 'many of the procedures now considered standard practice worldwide were first developed and refined there'—an independent clause with its own subject ('many of the procedures') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B restructures the second clause as a prepositional phrase ('with many of the procedures...first developed...'), eliminating the independent clause. Choice C rewrites the sentence substantially. Choice D incorrectly defends the comma splice."
+}

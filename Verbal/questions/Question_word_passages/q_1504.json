@@ -1,0 +1,16 @@
+{
+  "id": "q_1504",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Octopuses are among the most intelligent invertebrates on Earth, capable of solving puzzles, opening jars, and using tools. Their intelligence, however, is distributed in an unusual way: two-thirds of an octopus's neurons are located not in its brain but in its eight arms. This means each arm can process sensory information and execute movement commands semi-independently, without constant direction from the central brain. Scientists consider the octopus a model for studying how intelligence can evolve through radically different architectures than the centralized nervous systems typical of vertebrates.",
+  "question": "What is the primary function of the third sentence ('This means each arm can process...') in the passage?",
+  "choices": {
+    "A": "To explain the practical implication of the neurological distribution described in the second sentence",
+    "B": "To introduce the concept of vertebrate nervous systems for comparison",
+    "C": "To argue that octopus arms are smarter than the octopus's central brain",
+    "D": "To contradict the first sentence's claim that octopuses are highly intelligent"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence describes where an octopus's neurons are located—mostly in the arms rather than the brain. The third sentence explains what this neurological distribution means in practice: each arm can process sensory information and execute movements semi-independently. 'This means' at the start of the third sentence explicitly signals that it is explaining the implication of the fact just stated. Choice B is incorrect—vertebrate nervous systems are mentioned in the fourth sentence. Choice C is incorrect—the third sentence describes autonomous processing, not a hierarchy of intelligence between arms and brain. Choice D is incorrect—the third sentence complements the first sentence's claim about intelligence by explaining an unusual neural architecture."
+}

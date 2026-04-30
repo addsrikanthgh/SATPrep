@@ -1,0 +1,16 @@
+{
+  "id": "q_1300",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Scattered throughout the mountainous region of northern Ecuador is dozens of archaeological sites associated with the pre-Columbian Cara culture, most of which have never been systematically excavated. International funding for the excavation effort has been difficult to secure.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Scattered throughout the mountainous region of northern Ecuador are dozens of archaeological sites associated with the pre-Columbian Cara culture.",
+    "B": "Scattered throughout the mountainous region of northern Ecuador is a dozen archaeological sites associated with the pre-Columbian Cara culture.",
+    "C": "Throughout the mountainous region of northern Ecuador is dozens of archaeological sites associated with the pre-Columbian Cara culture.",
+    "D": "No change; 'is' correctly agrees with 'the mountainous region of northern Ecuador,' the singular subject in an inverted construction"
+  },
+  "correct_answer": "A",
+  "explanation": "This is an inverted sentence beginning with a participial phrase. The true subject is 'dozens of archaeological sites,' a plural noun phrase ('dozens' is the head noun, which is plural). The plural verb 'are' is required. Choice A uses 'are.' Choice B changes 'dozens' to 'a dozen' (singular) and uses 'is'—internally consistent but changes the sentence's meaning. Choice C removes the participial phrase but keeps the singular 'is' with the plural 'dozens'—still wrong. Choice D incorrectly identifies 'the mountainous region of northern Ecuador' as the subject; it is part of a prepositional phrase in the participial modifier."
+}

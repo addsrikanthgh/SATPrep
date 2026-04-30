@@ -1,0 +1,16 @@
+{
+  "id": "q_1351",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The historian argued that the French Revolution did not begin with the storming of the Bastille in 1789, rather, it had its roots in decades of fiscal crisis, social inequality, and Enlightenment thought that predated the Revolution by at least half a century.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The historian argued that the French Revolution did not begin with the storming of the Bastille in 1789; rather, it had its roots in decades of fiscal crisis, social inequality, and Enlightenment thought that predated the Revolution by at least half a century.",
+    "B": "The historian argued that the French Revolution did not begin with the storming of the Bastille in 1789, but rather, it had its roots in decades of fiscal crisis, social inequality, and Enlightenment thought.",
+    "C": "The historian argued that the French Revolution did not begin with the storming of the Bastille in 1789, rather it had its roots in decades of fiscal crisis and Enlightenment thought.",
+    "D": "No change; 'rather' is a transitional word that may be used between two clauses separated by a comma."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice. The word 'rather' is a conjunctive adverb used here to signal contrast and correction. Like 'however' and 'therefore,' 'rather' used as a conjunctive adverb must be preceded by a semicolon (not merely a comma) when it joins two independent clauses. Choice A uses a semicolon before 'rather.' Choice B adds 'but' before 'rather'—'but rather' can work in some constructions, but here the second clause has its own subject ('it'), making it an independent clause; 'but' alone would be enough, but 'but rather,' is nonstandard. Choice C removes the comma after 'rather,' making the comma splice slightly worse. Choice D incorrectly claims a comma before 'rather' is sufficient."
+}

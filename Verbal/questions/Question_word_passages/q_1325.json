@@ -1,0 +1,16 @@
+{
+  "id": "q_1325",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The president's proposal to expand federal subsidies for renewable energy, which was outlined in a detailed policy brief released last Monday, have already drawn significant opposition from fossil fuel industry groups. Analysts predict a difficult path through Congress.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The president's proposal to expand federal subsidies for renewable energy, which was outlined in a detailed policy brief released last Monday, has already drawn significant opposition from fossil fuel industry groups.",
+    "B": "The president's proposal to expand federal subsidies for renewable energy, which was outlined in a detailed policy brief released last Monday, have already drawn significant opposition.",
+    "C": "The president's proposals to expand federal subsidies for renewable energy have already drawn significant opposition from fossil fuel industry groups.",
+    "D": "No change; 'have already drawn' correctly agrees with 'fossil fuel industry groups,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The president's proposal,' a singular noun. The relative clause 'which was outlined in a detailed policy brief released last Monday' is a modifier set off by commas. The internal verb 'was outlined' is already singular, agreeing with 'proposal.' The main verb must also be singular: 'has already drawn.' Choice A uses 'has already drawn.' Choice B preserves 'have already drawn.' Choice C pluralizes 'proposal' to 'proposals' and uses 'have'—changes the sentence's meaning. Choice D incorrectly applies proximity agreement to 'fossil fuel industry groups.'"
+}

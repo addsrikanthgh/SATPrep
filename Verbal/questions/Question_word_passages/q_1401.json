@@ -1,0 +1,16 @@
+{
+  "id": "q_1401",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The neuroscientist's study challenged the prevailing view that long-term memory consolidation requires sleep in a straightforward, linear manner, instead, her data suggested a far more complex interaction between sleep stages, emotional arousal, and the type of information being encoded.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The neuroscientist's study challenged the prevailing view that long-term memory consolidation requires sleep in a straightforward, linear manner; instead, her data suggested a far more complex interaction between sleep stages, emotional arousal, and the type of information being encoded.",
+    "B": "The neuroscientist's study challenged the prevailing view that memory consolidation requires sleep in a linear manner, instead suggesting a far more complex interaction between sleep stages, emotional arousal, and the type of information encoded.",
+    "C": "The neuroscientist's study challenged the prevailing view that memory consolidation requires sleep in a linear manner. Her data instead suggested a complex interaction between sleep stages, emotional arousal, and the information type being encoded.",
+    "D": "No change; 'instead' may follow a comma when it introduces a contrasting clause about the same subject."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. 'Instead' is a conjunctive adverb signaling contrast. Like 'however' and 'nevertheless,' when 'instead' is used to join two independent clauses, it must be preceded by a semicolon. The comma before 'instead' is insufficient. Choice A inserts a semicolon before 'instead.' Choice B converts the second clause into a participial phrase ('instead suggesting'), which is also grammatically correct but makes a more substantial change. Choice C separates the clauses into two sentences. Choice D incorrectly claims a comma before 'instead' is acceptable when it joins two independent clauses."
+}

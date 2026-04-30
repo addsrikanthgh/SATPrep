@@ -1,0 +1,16 @@
+{
+  "id": "q_1507",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The philosopher Isaiah Berlin famously distinguished between 'negative liberty'—freedom from external interference—and 'positive liberty'—the capacity to actually direct one's own life. Berlin was deeply suspicious of positive liberty, arguing that in the hands of states and ideologues, it could be weaponized to justify coercion: by claiming that an individual's 'true' self wants what the state dictates, authorities could claim to be liberating people through oppression. Critics have pointed out that Berlin's framework, developed during the Cold War, carries its own ideological freight—it implicitly privileges the liberal democratic status quo and obscures how negative liberty can itself entrench inequality.",
+  "question": "What is the primary function of the third sentence ('Critics have pointed out...') in the passage?",
+  "choices": {
+    "A": "To fully endorse Berlin's critique of positive liberty",
+    "B": "To introduce a critical perspective that challenges the ideological neutrality of Berlin's framework",
+    "C": "To explain what Berlin meant by 'negative liberty'",
+    "D": "To argue that positive liberty should be adopted as national policy"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences present Berlin's influential distinction and his critique of positive liberty as potentially dangerous. The third sentence pivots to a meta-critique: Berlin's own framework is not neutral but carries ideological assumptions that privilege the liberal democratic status quo and mask how negative liberty can entrench inequality. The critics' function in the third sentence is to turn the critical lens back on Berlin himself, challenging the supposed neutrality of his philosophical framework. Choice A is incorrect—the third sentence challenges Berlin's view. Choice C is incorrect—negative liberty is defined in the first sentence. Choice D is incorrect—the third sentence makes no policy recommendation."
+}

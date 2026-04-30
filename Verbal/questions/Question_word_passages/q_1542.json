@@ -1,0 +1,16 @@
+{
+  "id": "q_1542",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A high school compared the average final exam scores of students who participated in peer tutoring with those who did not, across four subject areas.\n\n| Subject | Tutored Students (avg. score) | Non-Tutored Students (avg. score) |\n|---|---|---|\n| Mathematics | 84 | 73 |\n| English | 79 | 74 |\n| Chemistry | 88 | 69 |\n| History | 75 | 72 |\n\nThe school's academic coordinator argued that peer tutoring has a particularly strong effect in STEM subjects compared to humanities subjects.",
+  "question": "Which comparison from the table most directly supports the coordinator's argument?",
+  "choices": {
+    "A": "Tutored students outperform non-tutored students in all four subjects.",
+    "B": "The score gap between tutored and non-tutored students is 11 points in Mathematics and 19 points in Chemistry, compared to gaps of 5 points in English and 3 points in History.",
+    "C": "Chemistry has the highest average score among tutored students at 88 points.",
+    "D": "History has the smallest gap between tutored and non-tutored students at 3 points."
+  },
+  "correct_answer": "B",
+  "explanation": "The coordinator's argument is specifically about the comparative effect size in STEM versus humanities. Choice B directly addresses this by quantifying the score gaps: STEM subjects (Mathematics: +11, Chemistry: +19) show substantially larger gaps than humanities subjects (English: +5, History: +3). This comparison demonstrates that the tutoring advantage is much more pronounced in STEM, which is precisely the coordinator's claim. Choice A only establishes that tutoring helps across all subjects—it doesn't address the differential effect size. Choice C notes only Chemistry's absolute score without comparing the effect. Choice D identifies only the smallest gap without the full comparative context."
+}

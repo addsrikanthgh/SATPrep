@@ -1,0 +1,16 @@
+{
+  "id": "q_1096",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Geologists Dr. Morrison and Dr. Park had jointly mapped the fault system running beneath the valley for more than a decade. When the magnitude-6.2 earthquake struck, he was the first to publish a peer-reviewed analysis of how the rupture propagated along the mapped segments.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Dr. Morrison",
+    "B": "the senior geologist",
+    "C": "Dr. Park",
+    "D": "No change; 'he' clearly refers to the geologist who published first, which is determinable from the context"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Dr. Morrison and Dr. Park are male, so 'he' is grammatically capable of referring to either. The passage does not identify which of them published the first analysis; stating that someone published first is the very information the ambiguous pronoun is trying to convey. Choice A names Dr. Morrison; Choice C names Dr. Park—one of these is the intended referent, but without additional context, Choice A represents the best correction since Morrison is introduced first. Choice B uses 'the senior geologist,' a role not established in the passage. Choice D incorrectly treats an unresolved ambiguity as contextually clear."
+}

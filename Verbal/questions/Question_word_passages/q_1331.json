@@ -1,0 +1,16 @@
+{
+  "id": "q_1331",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The orchestra, guided by its new music director who joined from a renowned European ensemble, have performed to consistently sold-out houses since the start of the season. Critical reviews have praised both the conductor's vision and the players' technical precision.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The orchestra, guided by its new music director who joined from a renowned European ensemble, has performed to consistently sold-out houses since the start of the season.",
+    "B": "The orchestra, guided by its new music director who joined from a renowned European ensemble, have performed to sold-out houses throughout the season.",
+    "C": "The orchestras, guided by their new music directors, have performed to consistently sold-out houses since the start of the season.",
+    "D": "No change; 'have performed' correctly agrees with the implied plural performers who make up the orchestra"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The orchestra,' a singular collective noun. When the orchestra acts as a unified performing entity, American English treats it as singular. The relative clause 'guided by its new music director who joined from a renowned European ensemble' is a modifier set off by commas and does not affect the subject's number. The singular verb 'has performed' is required. Choice A uses 'has performed.' Choice B preserves 'have performed.' Choice C pluralizes 'orchestra' and uses 'have performed'—changes meaning. Choice D incorrectly argues the verb should agree with the individual musicians implied within 'orchestra.'"
+}

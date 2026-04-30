@@ -1,0 +1,16 @@
+{
+  "id": "q_1538",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Great Pacific Garbage Patch—a vast accumulation of marine plastic debris in the North Pacific Ocean—is often depicted in popular media as a floating island of trash that you could walk across. In reality, the patch consists mostly of microplastics suspended throughout the water column rather than a concentrated surface layer visible from above. This distinction matters because it makes the problem far harder to clean up: filtering microplastics from billions of cubic meters of seawater is a fundamentally different challenge than scooping larger items off a concentrated surface. Current cleanup technologies remain inadequate to the scale of the problem, and most experts argue that prevention—reducing plastic production and improving waste management—is far more tractable than remediation.",
+  "question": "What is the primary function of the third sentence ('This distinction matters because...') in the passage?",
+  "choices": {
+    "A": "To explain why the popular media depiction of the garbage patch is appealing",
+    "B": "To explain the practical consequence of the corrected description offered in the second sentence",
+    "C": "To argue that the garbage patch is not actually an environmental problem",
+    "D": "To describe current cleanup technologies being deployed in the North Pacific"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence corrects the popular misconception: the garbage patch is not a floating island but mostly microplastics suspended throughout the water column. The third sentence explains why this correction is significant: the distributed, microscopic nature of the pollution makes cleanup far harder than removing concentrated surface debris. 'This distinction matters because' explicitly signals that the third sentence is explaining the practical consequence of the distinction drawn in the second. Choice A is incorrect—the third sentence does not discuss why the misconception is appealing. Choice C is incorrect—the third sentence emphasizes the difficulty of the problem, reinforcing its environmental significance. Choice D is incorrect—cleanup technologies are discussed in the fourth sentence."
+}

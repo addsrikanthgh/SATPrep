@@ -1,0 +1,16 @@
+{
+  "id": "q_1324",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "There remains, in many rural communities across the country, significant barriers to accessing specialized medical care, including long travel distances, a shortage of providers, and inadequate public transportation options. Federal programs have attempted to address these disparities with limited success.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "There remain, in many rural communities across the country, significant barriers to accessing specialized medical care, including long travel distances, a shortage of providers, and inadequate public transportation options.",
+    "B": "There remains, in many rural communities across the country, a significant barrier to accessing specialized medical care, including long travel distances, a shortage of providers, and inadequate public transportation.",
+    "C": "In many rural communities across the country, there remains significant barriers to accessing specialized medical care.",
+    "D": "No change; 'remains' correctly agrees with 'specialized medical care,' the nearest singular noun in an inverted construction"
+  },
+  "correct_answer": "A",
+  "explanation": "In existential 'there is/are' constructions, the verb must agree with the true subject that follows. The true subject is 'significant barriers,' a plural noun. The plural verb 'remain' is required ('there remain'). Choice A uses 'remain.' Choice B changes 'significant barriers' to 'a significant barrier' (singular) and keeps 'remains'—internally consistent but changes the sentence's meaning. Choice C retains the singular 'remains' with the plural 'barriers'—the agreement error is unchanged. Choice D incorrectly identifies 'specialized medical care' as the subject; it is part of the prepositional phrase 'to accessing specialized medical care,' which modifies 'barriers.'"
+}

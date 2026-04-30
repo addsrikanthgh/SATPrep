@@ -1,0 +1,16 @@
+{
+  "id": "q_1644",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "The company's recent earnings report revealed two concerning trends: declining profit margins in its core business ______ and slower-than-expected growth in its newer product lines.",
+  "question": "Which choice completes the text with the most appropriate punctuation?",
+  "choices": {
+    "A": "business,",
+    "B": "business;",
+    "C": "business—",
+    "D": "business"
+  },
+  "correct_answer": "D",
+  "explanation": "No additional punctuation is needed here. The sentence structure is: 'The company's recent earnings report revealed two concerning trends: [item 1] and [item 2].' Items in a two-item list joined by 'and' do not require a comma before 'and' under most standard style guides (though a comma before 'and' in a list of three or more—the Oxford comma—is often used). With only two items ('declining profit margins... and slower-than-expected growth'), no internal comma is required between them. Choice A places an unnecessary comma between the two list items joined by 'and.' Choice B (semicolon) is used between independent clauses or between items in a list when the items themselves contain commas—neither condition applies here. Choice C (dash) would interrupt the list inappropriately, suggesting item 1 is introducing item 2 rather than that both are coordinate items in the list."
+}

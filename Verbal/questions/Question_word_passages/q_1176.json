@@ -1,0 +1,16 @@
+{
+  "id": "q_1176",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The new regulation requires companies to report emissions data that they collect annually. Environmental advocacy groups praised the rule for improving transparency in corporate environmental disclosures.",
+  "question": "The word 'annually' in the first sentence creates ambiguity. Which choice most clearly conveys that the reporting must occur annually?",
+  "choices": {
+    "A": "The new regulation requires companies to annually report emissions data that they collect.",
+    "B": "The new regulation annually requires companies to report emissions data that they collect.",
+    "C": "The new regulation requires companies to report annually collected emissions data.",
+    "D": "No change; 'annually' clearly modifies 'report' because it appears at the end of the clause about reporting"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'annually' follows 'they collect,' creating ambiguity: it could mean the companies collect data annually or must report annually. Choice A places 'annually' immediately before 'report,' unambiguously specifying that the reporting frequency is annual. Choice B places 'annually' before 'requires,' implying the regulation imposes its requirements annually rather than that reporting must occur annually. Choice C places 'annually' before 'collected,' specifying collection frequency rather than reporting frequency. Choice D incorrectly claims that end-of-clause position provides unambiguous modification of 'report.'"
+}

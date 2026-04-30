@@ -1,0 +1,16 @@
+{
+  "id": "q_1297",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The collection of rare manuscripts donated to the university library by the estate of the late historian, many of which date back to the fifteenth century, need to be housed in a climate-controlled vault. Preliminary cataloging will begin once appropriate storage conditions are established.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The collection of rare manuscripts donated to the university library by the estate of the late historian, many of which date back to the fifteenth century, needs to be housed in a climate-controlled vault.",
+    "B": "The collection of rare manuscripts donated to the university library by the estate of the late historian, many of which date back to the fifteenth century, need to be housed in a climate-controlled vault.",
+    "C": "The collections of rare manuscripts donated to the university library have been housed in a climate-controlled vault for several years.",
+    "D": "No change; 'need' correctly agrees with 'manuscripts,' the plural noun nearest the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The collection,' a singular noun. The participial phrase 'donated to the university library by the estate of the late historian' and the relative clause 'many of which date back to the fifteenth century' are modifiers. They do not alter the subject's number. The singular verb 'needs to be housed' is required. Choice A uses 'needs to be housed.' Choice B preserves 'need to be housed.' Choice C changes the sentence's meaning significantly. Choice D incorrectly applies proximity agreement to 'manuscripts.'"
+}

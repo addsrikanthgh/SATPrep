@@ -1,0 +1,16 @@
+{
+  "id": "q_1246",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "What the auditors discovered during their three-week examination of the company's financial records were multiple instances of improperly classified expenses that had been concealed across dozens of subsidiary accounts. The discovery triggered a Securities and Exchange Commission inquiry.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "What the auditors discovered during their three-week examination of the company's financial records was multiple instances of improperly classified expenses.",
+    "B": "What the auditors discovered during their three-week examination of the company's financial records were a multiple instance of improperly classified expenses.",
+    "C": "What the auditors discover during their three-week examination were multiple instances of improperly classified expenses.",
+    "D": "No change; 'were' agrees with the predicate noun 'multiple instances,' which follows the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "In a sentence with the structure 'What [clause] + linking verb + predicate noun,' the verb agrees with the subject of the sentence, which is the noun clause 'What the auditors discovered.' A noun clause is singular, so the singular verb 'was' is correct—even when the predicate noun is plural. This is a classic inverted structure where students confuse the predicate noun for the subject. Choice A uses the correct singular verb 'was.' Choice B uses 'were' and changes 'multiple instances' to 'a multiple instance,' creating an ungrammatical phrase. Choice C changes the tense to present without fixing the number. Choice D incorrectly argues predicate noun agreement."
+}

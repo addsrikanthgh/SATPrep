@@ -1,0 +1,16 @@
+{
+  "id": "q_1499",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The Arctic is warming nearly four times faster than the global average, a phenomenon scientists call Arctic amplification. Several feedback mechanisms drive this accelerated warming, including the ice-albedo feedback: as white, reflective sea ice melts, darker ocean water is exposed, absorbing more solar radiation and warming further. Methane released from thawing permafrost adds another layer of amplification, since methane is a far more potent greenhouse gas than carbon dioxide over short time scales. Taken together, these mechanisms suggest that Arctic warming may reach thresholds that trigger irreversible changes in global climate systems long before global average temperatures cross widely cited policy targets.",
+  "question": "What is the primary function of the fourth sentence ('Taken together, these mechanisms suggest...') in the passage?",
+  "choices": {
+    "A": "To introduce a new feedback mechanism not discussed in the previous sentences",
+    "B": "To draw a broader conclusion about global climate risk from the mechanisms described in the second and third sentences",
+    "C": "To argue that methane is more important than carbon dioxide in driving climate change",
+    "D": "To provide a definition of 'Arctic amplification' introduced in the first sentence"
+  },
+  "correct_answer": "B",
+  "explanation": "The second and third sentences describe two specific feedback mechanisms—the ice-albedo feedback and methane from permafrost—that drive Arctic warming. The fourth sentence synthesizes these mechanisms into a broader conclusion: together, they may trigger irreversible global climate changes before policy thresholds are crossed. The phrase 'taken together' signals this synthetic, conclusion-drawing function. Choice A is incorrect—no new mechanism is introduced in the fourth sentence. Choice C is incorrect—the third sentence mentions methane's potency relative to CO2, but the fourth sentence draws a conclusion about global risk, not about ranking greenhouse gases. Choice D is incorrect—'Arctic amplification' is defined in the first sentence."
+}

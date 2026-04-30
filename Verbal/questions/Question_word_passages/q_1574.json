@@ -1,0 +1,16 @@
+{
+  "id": "q_1574",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "Throughout the twentieth century, urban planners debated whether high-rise public housing projects could effectively address urban poverty. Advocates argued that vertical density would allow cities to house large numbers of low-income residents on small parcels of land, freeing up resources for schools and parks. Critics countered that such projects would concentrate poverty and social isolation. The history of projects like Chicago's Cabrini-Green housing complex seemed to confirm critics' fears: by the 1980s, Cabrini-Green was plagued by gang violence, structural neglect, and high rates of unemployment among residents. City officials ultimately demolished most of the high-rises between 1995 and 2011. Studies conducted after demolition found that while many former residents obtained housing vouchers, only a minority relocated to low-poverty neighborhoods, and many experienced continued economic hardship.",
+  "question": "A student claims that the demolition of high-rise public housing projects did not fully resolve the economic difficulties faced by residents. Which quotation from the passage best supports this claim?",
+  "choices": {
+    "A": "\"[S]uch projects would concentrate poverty and social isolation.\"",
+    "B": "\"[B]y the 1980s, Cabrini-Green was plagued by gang violence, structural neglect, and high rates of unemployment among residents.\"",
+    "C": "\"[W]hile many former residents obtained housing vouchers, only a minority relocated to low-poverty neighborhoods, and many experienced continued economic hardship.\"",
+    "D": "\"City officials ultimately demolished most of the high-rises between 1995 and 2011.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's claim is specifically about conditions after demolition—that economic difficulties were not fully resolved. Choice C directly addresses the post-demolition period, stating that even after residents received vouchers, 'many experienced continued economic hardship'—the precise claim the student is making. Choice A is a critic's prediction made before the projects were built, not evidence about post-demolition outcomes. Choice B describes conditions inside Cabrini-Green during the 1980s, before demolition. Choice D simply notes when demolition occurred but provides no information about outcomes for residents. Only Choice C provides evidence about what happened to residents after demolition."
+}

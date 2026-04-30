@@ -1,0 +1,16 @@
+{
+  "id": "q_1448",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The prime minister's speech lasted nearly two hours and covered four major policy areas: healthcare reform, infrastructure investment, immigration, and climate policy. Each section prompted immediate reactions from lawmakers on both sides of the aisle the debates continued for days afterward.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "Each section prompted immediate reactions from lawmakers on both sides of the aisle; the debates continued for days afterward.",
+    "B": "Each section prompted immediate reactions from lawmakers on both sides of the aisle, the debates continued for days afterward.",
+    "C": "Each section prompted immediate reactions from lawmakers on both sides of the aisle: the debates continued for days afterward.",
+    "D": "No change; the fused sentence is acceptable because both clauses describe the same political event."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence in the passage is a fused sentence—two independent clauses with no punctuation between them. 'Each section prompted immediate reactions from lawmakers on both sides of the aisle' and 'the debates continued for days afterward' are both complete independent clauses. Choice A correctly uses a semicolon to separate them. Choice B creates a comma splice. Choice C uses a colon—the second clause does not directly explain or define what was in the first clause; the two clauses are sequential, making a semicolon more appropriate. Choice D incorrectly defends the fused sentence."
+}

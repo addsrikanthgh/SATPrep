@@ -1,0 +1,16 @@
+{
+  "id": "q_1010",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The Silk Road was not a single route but rather a network of overland and maritime trade paths connecting East Asia with the Mediterranean world. *Facilitating not only the exchange of luxury goods such as silk, spices, and glassware, but also the diffusion of religious beliefs, artistic techniques, and epidemic diseases across multiple continents.* Historians now recognize that the Silk Road's cultural significance far exceeded its commercial function.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Facilitating not only the exchange of luxury goods such as silk, spices, and glassware, but also the diffusion of religious beliefs, artistic techniques, and epidemic diseases across multiple continents.",
+    "B": "The network facilitated not only the exchange of luxury goods such as silk, spices, and glassware, but also the diffusion of religious beliefs, artistic techniques, and epidemic diseases across multiple continents.",
+    "C": "Not only the exchange of luxury goods such as silk, spices, and glassware, but also the diffusion of religious beliefs, artistic techniques, and epidemic diseases across multiple continents.",
+    "D": "The network, facilitating not only the exchange of luxury goods such as silk, spices, and glassware, but also the diffusion of religious beliefs, artistic techniques, and epidemic diseases across multiple continents."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined portion is a sentence fragment—an extended participial phrase with no main subject or finite verb. Choice B corrects this by supplying a subject ('The network') and a finite verb ('facilitated'), forming a complete independent clause. Choice A reproduces the original fragment. Choice C removes the participial opener but retains no finite verb, leaving a noun phrase without a predicate—still a fragment. Choice D places 'facilitating...' as an appositive modifier after 'The network' but never supplies a main predicate, leaving the sentence without a completed independent clause."
+}

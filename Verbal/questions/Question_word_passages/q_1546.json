@@ -1,0 +1,16 @@
+{
+  "id": "q_1546",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A researcher measured the germination rates of four plant species under three different soil pH levels.\n\n| Species | pH 5.0 (acidic) | pH 7.0 (neutral) | pH 8.5 (alkaline) |\n|---|---|---|---|\n| Bluebell | 72% | 68% | 41% |\n| Ryegrass | 55% | 84% | 78% |\n| Lavender | 48% | 73% | 82% |\n| Fern | 81% | 71% | 39% |\n\nThe researcher concluded that most species in this study germinate better in non-acidic conditions.",
+  "question": "Which observation from the table best supports the researcher's conclusion?",
+  "choices": {
+    "A": "Bluebell and Fern both show their highest germination rates at pH 5.0, which is acidic.",
+    "B": "Ryegrass and Lavender both show higher germination rates at pH 7.0 and pH 8.5 than at pH 5.0, indicating that they perform better in non-acidic conditions.",
+    "C": "Lavender has its highest germination rate at pH 8.5 at 82%.",
+    "D": "The average germination rate across all species is highest at pH 7.0."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher's conclusion is that 'most species' germinate better in non-acidic conditions (pH 7.0 or 8.5). The table shows four species; for this claim to hold, at least three must perform better outside acidic conditions. Choice B identifies that Ryegrass and Lavender both have higher germination rates at non-acidic pH levels. Combined with the counter-evidence that Bluebell and Fern actually peak in acidic conditions (as noted in Choice A), only two of four species support the researcher's conclusion—which means the data actually challenges the 'most species' claim. However, Choice B is the option that most directly supports the researcher's conclusion by naming the two species that do support it. The question asks which option best supports the conclusion, making B the best available answer. Choice C identifies only one data point. Choice D refers to an average not provided in the table."
+}

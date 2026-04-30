@@ -1,0 +1,16 @@
+{
+  "id": "q_1079",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The federal agency responsible for managing the nation's air traffic control system announced its latest safety initiative last Monday. Under the new protocols, they will require all regional airports to upgrade their radar equipment within eighteen months.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the airports",
+    "B": "those regulators",
+    "C": "it",
+    "D": "No change; 'they' refers to the agency's staff and officials who will enforce the requirement"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent is 'The federal agency,' a singular noun. The first sentence correctly uses 'its latest safety initiative,' establishing the agency as singular. The second sentence then shifts to the plural 'they,' creating an inconsistency. Choice C replaces 'they' with 'it,' maintaining singular agreement with 'the federal agency.' Choice A redirects the subject to the airports, reversing the logical meaning—airports comply with the requirement; the agency imposes it. Choice B introduces 'those regulators,' a noun not found in the passage. Choice D argues that implied staff and officials can substitute for the agency as antecedent; however, the grammatical antecedent is the singular agency, not its implied personnel."
+}

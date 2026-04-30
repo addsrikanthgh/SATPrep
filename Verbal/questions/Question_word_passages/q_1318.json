@@ -1,0 +1,16 @@
+{
+  "id": "q_1318",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The discovery that antibiotic-resistant bacteria can transfer resistance genes horizontally to previously susceptible strains have dramatically changed the way researchers model the spread of resistant infections in clinical settings. New containment strategies are urgently needed.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The discovery that antibiotic-resistant bacteria can transfer resistance genes horizontally to previously susceptible strains has dramatically changed the way researchers model the spread of resistant infections.",
+    "B": "The discovery that antibiotic-resistant bacteria can transfer resistance genes horizontally to previously susceptible strains have dramatically changed the way researchers model the spread.",
+    "C": "The discoveries that antibiotic-resistant bacteria can transfer resistance genes horizontally to previously susceptible strains have dramatically changed researchers' models.",
+    "D": "No change; 'have dramatically changed' agrees with 'antibiotic-resistant bacteria,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The discovery,' a singular noun. The 'that' clause 'that antibiotic-resistant bacteria can transfer resistance genes horizontally to previously susceptible strains' is a noun clause functioning as an appositive to 'discovery'—it identifies what was discovered. It does not alter 'The discovery's' singular number. The singular verb 'has dramatically changed' is required. Choice A uses 'has dramatically changed.' Choice B preserves 'have dramatically changed.' Choice C pluralizes 'discovery' to 'discoveries' and uses 'have'—changes meaning. Choice D incorrectly applies proximity agreement to 'bacteria.'"
+}

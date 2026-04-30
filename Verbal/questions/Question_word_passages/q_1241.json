@@ -1,0 +1,16 @@
+{
+  "id": "q_1241",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The committee's findings, along with a detailed set of policy recommendations, was presented to the full legislature on Tuesday. Lawmakers praised the thoroughness of the report and scheduled a follow-up hearing for the following month.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The committee's findings, along with a detailed set of policy recommendations, were presented to the full legislature on Tuesday.",
+    "B": "The committee's findings, along with a detailed set of policy recommendations, has been presented to the full legislature on Tuesday.",
+    "C": "The committee's findings and a detailed set of policy recommendations was presented to the full legislature on Tuesday.",
+    "D": "No change; 'was presented' agrees with the singular phrase 'a detailed set of policy recommendations,' the nearest noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The committee's findings,' which is plural. The phrase 'along with a detailed set of policy recommendations' is a parenthetical addition set off by commas; it does not change the number of the subject. The plural subject 'findings' requires the plural verb 'were presented.' Choice A correctly uses 'were.' Choice B uses 'has been presented,' which is singular and present perfect—wrong in both number and tense. Choice C changes 'along with' to 'and,' creating a compound subject that would legitimately require a plural verb, but the original sentence does not use 'and.' Choice D incorrectly applies proximity agreement."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1488",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The human brain contains roughly eighty-six billion neurons, each capable of forming thousands of synaptic connections. This staggering complexity makes the brain the most intricate known structure in the universe. Despite decades of research, scientists have mapped the complete neural connections of only one organism: the roundworm C. elegans, which has exactly 302 neurons. The gap between this achievement and the human brain's complexity illustrates how far neuroscience still has to go.",
+  "question": "What is the primary function of the third sentence ('Despite decades of research...') in the passage?",
+  "choices": {
+    "A": "To provide a specific example that underscores the limited current state of neuroscience research relative to the brain's complexity",
+    "B": "To argue that the roundworm C. elegans is scientifically more important than previously thought",
+    "C": "To contradict the claim in the first sentence about the number of neurons in the human brain",
+    "D": "To explain why mapping the complete neural connections of humans is impossible"
+  },
+  "correct_answer": "A",
+  "explanation": "The first two sentences establish the extraordinary complexity of the human brain. The third sentence offers a striking contrast: despite decades of work, scientists have fully mapped the neural connections of only a creature with 302 neurons—a far cry from eighty-six billion. This specific example serves to illustrate the gap between the brain's complexity and science's current capabilities, reinforcing the claim in the second sentence. Choice B is incorrect—the passage uses C. elegans as a benchmark of achievement, not as a subject of inherent scientific importance. Choice C is incorrect—the third sentence does not challenge the neuron count. Choice D is incorrect—the third sentence illustrates difficulty but does not claim mapping is impossible."
+}

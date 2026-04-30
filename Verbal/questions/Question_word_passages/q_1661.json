@@ -1,0 +1,16 @@
+{
+  "id": "q_1661",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "hard",
+  "passage": "A student is writing a policy brief recommending that school districts extend recess time for elementary students. The student has gathered the following notes:\n\n• A 2019 study found that students who had at least 75 minutes of recess per week scored significantly higher on attention and behavioral regulation assessments.\n• Finland, which consistently ranks among the top countries in international education assessments, gives students 15 minutes of outdoor break for every 45 minutes of instruction.\n• Physical activity during childhood is associated with improved executive function, including working memory and cognitive flexibility.\n• Recess time in U.S. schools has declined over the past 30 years as schools have increased instructional time in tested subjects.\n• A survey of elementary teachers found that 79% believed students were more focused and better behaved after recess.",
+  "question": "The student wants to argue that reducing recess has been counterproductive for academic goals. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "Finland provides students 15 minutes of outdoor break per 45 minutes of instruction and consistently ranks among the top countries in international education assessments.",
+    "B": "Because physical activity improves executive function and recess is associated with better attention and behavior, the decades-long trend of cutting recess in favor of more instructional time may actually undermine the academic focus it was intended to improve.",
+    "C": "Seventy-nine percent of elementary teachers report that students are more focused after recess, suggesting that teachers support increased recess time.",
+    "D": "U.S. schools have reduced recess over 30 years to increase instructional time in tested subjects, while Finland—which outperforms the U.S.—provides more break time."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's goal is to argue that reducing recess has been counterproductive for academic goals. Choice B does this most directly: it connects the research findings (physical activity improves executive function; recess improves attention and behavior) to the policy trend (cutting recess for more instructional time) and explicitly labels the consequence: the cut may 'undermine the academic focus it was intended to improve.' This directly states the counterproductive argument. Choice A uses the Finland comparison, which is suggestive but doesn't directly argue that U.S. recess cuts were counterproductive—it's an indirect implication. Choice C cites the teacher survey but frames it as teacher support rather than counterproductivity. Choice D uses both the U.S. trend and the Finland comparison but stops short of the explicit 'counterproductive' argument—it implies but does not state that cutting recess undermined academic goals."
+}

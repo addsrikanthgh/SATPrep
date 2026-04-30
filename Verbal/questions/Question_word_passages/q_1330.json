@@ -1,0 +1,16 @@
+{
+  "id": "q_1330",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "What troubles economists most about the current model of gig-economy labor—specifically, the near-total absence of employer-provided benefits such as health insurance, paid leave, and retirement contributions—are the long-term consequences for workers' financial security in old age. Policy proposals have attracted little legislative traction.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "What troubles economists most about the current model of gig-economy labor—specifically, the near-total absence of employer-provided benefits such as health insurance, paid leave, and retirement contributions—is the long-term consequences for workers' financial security in old age.",
+    "B": "What trouble economists most about the current model of gig-economy labor—specifically, the near-total absence of employer-provided benefits—are the long-term consequences for workers' financial security.",
+    "C": "What troubles economists most about the current model of gig-economy labor are the long-term consequences for workers' financial security in old age.",
+    "D": "No change; 'are' correctly agrees with 'health insurance, paid leave, and retirement contributions,' the plural items enumerated in the dash-enclosed elaboration"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is the noun clause 'What troubles economists most about the current model of gig-economy labor.' Noun clauses functioning as the subject take a singular verb. The dash-enclosed elaboration 'specifically, the near-total absence of employer-provided benefits such as health insurance, paid leave, and retirement contributions' is a parenthetical appositive that does not change the subject's number. The linking verb must be singular: 'is,' not 'are.' Choice A uses 'is.' Choice B changes the internal verb 'troubles' to 'trouble'—making the noun clause's own subject-verb agreement wrong. Choice C uses 'are' without the dash appositive. Choice D incorrectly argues the verb agrees with enumerated items in the parenthetical."
+}

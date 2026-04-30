@@ -1,0 +1,16 @@
+{
+  "id": "q_1028",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A sleep researcher assigned college students to controlled sleep schedules for two weeks and then measured performance on a standardized memory consolidation task (scored 0–100). Mean scores by sleep duration were: fewer than 6 hours per night, 58.2; 6 hours, 61.7; 7 hours, 71.4; 8 hours, 82.9; and 9 hours, 84.1. The researcher argued that memory consolidation improves substantially with sleep duration up to 8 hours, but that sleeping beyond 8 hours yields sharply diminishing returns.",
+  "question": "Which choice most effectively uses data from the study to support the researcher's argument?",
+  "choices": {
+    "A": "Memory scores increased from 58.2 for students sleeping fewer than 6 hours to 84.1 for students sleeping 9 hours, a gain of 25.9 points across the full range of sleep durations.",
+    "B": "Students sleeping 8 hours scored 82.9—an 11.5-point gain over the 7-hour group (71.4)—while students sleeping 9 hours scored only marginally higher at 84.1, adding just 1.2 points despite the additional hour of sleep, indicating that returns diminish sharply above 8 hours.",
+    "C": "Students sleeping fewer than 6 hours scored 58.2 on average, the lowest of any group, confirming that insufficient sleep impairs memory consolidation.",
+    "D": "Memory scores improved consistently from 58.2 to 84.1 across all sleep duration groups, demonstrating a linear positive relationship between sleep and memory performance."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher's argument has two parts: substantial improvement up to 8 hours AND sharply diminishing returns beyond 8 hours. Choice B directly supports both: it shows the large 11.5-point gain from 7 to 8 hours of sleep and then the tiny 1.2-point gain from 8 to 9 hours, precisely demonstrating where returns become negligible. Choice A reports the overall improvement across the full range but does not identify the threshold or the diminishing return at 9 hours. Choice C notes only that insufficient sleep is harmful, addressing neither the 8-hour peak nor the diminishing returns. Choice D mischaracterizes the data as showing a 'linear' relationship, which is contradicted by the dramatic slowdown in gains between 8 and 9 hours."
+}

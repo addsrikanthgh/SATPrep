@@ -1,0 +1,16 @@
+{
+  "id": "q_1052",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "In the summer of 1858, Charles Darwin and Alfred Russel Wallace jointly presented their theories of evolution by natural selection to the Linnean Society of London. Having corresponded privately with the geologist Charles Lyell and botanist Joseph Hooker, he had already begun drafting what would become 'On the Origin of Species.'",
+  "question": "Which choice best corrects the ambiguous pronoun reference in the second sentence?",
+  "choices": {
+    "A": "Darwin had already begun drafting what would become 'On the Origin of Species.'",
+    "B": "The former had already begun drafting what would become 'On the Origin of Species.'",
+    "C": "One of them had already begun drafting what would become 'On the Origin of Species.'",
+    "D": "No change; context makes clear that 'he' refers to Darwin, since Wallace did not write 'On the Origin of Species'"
+  },
+  "correct_answer": "A",
+  "explanation": "The pronoun 'he' is ambiguous because both Darwin and Wallace—both male and equally prominent in the preceding sentence—are potential antecedents. Formal writing requires that a pronoun refer clearly and unambiguously to a single antecedent. Choice A eliminates the ambiguity by substituting Darwin's name directly. Choice B uses 'the former,' which technically refers to Darwin as the first of two subjects; however, 'the former/latter' constructions place an unnecessary tracking burden on the reader and are generally avoided in formal academic prose. Choice C ('one of them') is vague and obscures the specific identity. Choice D argues that the historical context resolves the ambiguity, but the SAT standard requires pronouns to be unambiguous within the passage itself, not reliant on outside knowledge."
+}

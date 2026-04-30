@@ -1,0 +1,16 @@
+{
+  "id": "q_1131",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Supreme Court issued its unanimous opinion in the landmark digital privacy case on the final day of the term. In doing so, they reversed a circuit court ruling that had allowed warrantless access to location data stored by third-party telecommunications providers.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the justices",
+    "B": "it",
+    "C": "those judges",
+    "D": "No change; 'they' refers to the nine justices who constitute the Court"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The Supreme Court' is a singular collective noun, confirmed by 'its unanimous opinion.' The second sentence uses 'they,' a plural pronoun, creating a mismatch. Choice B replaces 'they' with 'it.' Choices A and C introduce new plural noun phrases. Choice D incorrectly justifies the plural by reference to the nine individual justices; collective nouns functioning as a single institution take singular pronouns in formal American English."
+}

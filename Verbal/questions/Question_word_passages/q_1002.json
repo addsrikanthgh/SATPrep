@@ -1,0 +1,16 @@
+{
+  "id": "q_1002",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The Roman Senate retained its formal structure throughout the Imperial period, though its practical authority was greatly diminished. *Emperors continued to seek senatorial approval for major legislation in reality most senators understood their votes to be largely ceremonial.* Scholars debate the extent to which this facade of republican governance served to legitimize imperial authority.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Emperors continued to seek senatorial approval for major legislation, in reality most senators understood their votes to be largely ceremonial.",
+    "B": "Emperors continued to seek senatorial approval for major legislation; in reality, most senators understood their votes to be largely ceremonial.",
+    "C": "Emperors continued to seek senatorial approval for major legislation in reality most senators understood their votes to be largely ceremonial.",
+    "D": "Emperors continued to seek senatorial approval for major legislation, but in reality, they most senators understood their votes to be largely ceremonial."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a fused (run-on) sentence—two independent clauses joined without any punctuation. Choice B inserts a semicolon after 'legislation' and a comma after the transitional phrase 'in reality,' correctly separating the two independent clauses. Choice A creates a comma splice by inserting only a comma between the clauses. Choice C reproduces the original fused sentence. Choice D introduces the pronoun 'they' directly before 'most senators,' creating a redundant and ungrammatical subject."
+}

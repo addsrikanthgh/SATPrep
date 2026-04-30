@@ -1,0 +1,16 @@
+{
+  "id": "q_1556",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A climate scientist analyzed average annual temperature anomalies (°C above pre-industrial baseline) and Arctic sea ice extent (millions of km²) over five decades.\n\n| Decade | Temp. Anomaly (°C) | Arctic Sea Ice Extent (M km²) |\n|---|---|---|\n| 1970s | +0.1 | 7.8 |\n| 1980s | +0.3 | 7.4 |\n| 1990s | +0.5 | 7.0 |\n| 2000s | +0.8 | 6.4 |\n| 2010s | +1.1 | 5.7 |\n\nThe scientist stated that rising global temperatures appear to drive a reduction in Arctic sea ice extent, and that this relationship has accelerated in recent decades.",
+  "question": "Which analysis of the data best evaluates the scientist's two-part claim—that temperatures drive ice loss AND that this relationship has accelerated?",
+  "choices": {
+    "A": "Sea ice declined from 7.8 M km² in the 1970s to 5.7 M km² in the 2010s—a total loss of 2.1 M km²—while temperature anomaly rose by 1.0°C, supporting the first part of the claim. The second part is supported by the fact that the largest single-decade temperature rise (+0.3°C in the 2000s–2010s) coincided with the largest single-decade ice loss (0.7 M km²).",
+    "B": "The data supports only the first part of the claim; there is no evidence of acceleration.",
+    "C": "The 2010s had both the highest temperature anomaly and the lowest sea ice extent, which supports the claim.",
+    "D": "The data cannot support the claim of acceleration because temperature anomaly and ice extent are two different variables."
+  },
+  "correct_answer": "A",
+  "explanation": "The scientist's claim has two components. For the first (temperatures drive ice loss): the data shows a consistent inverse relationship—as temperature anomaly rises each decade, sea ice extent falls, with no exceptions. For the second (acceleration in recent decades): comparing decade-by-decade changes reveals that the temperature rise from 1970s to 1980s was +0.2°C with an ice loss of 0.4 M km², while from 2000s to 2010s the temperature rise was +0.3°C with an ice loss of 0.7 M km²—the same decade now shows both a faster temperature increase and a larger ice loss, supporting acceleration. Choice A captures both analyses accurately. Choice B incorrectly dismisses the acceleration evidence. Choice C identifies only the endpoints and doesn't address the acceleration component. Choice D misunderstands the analysis—comparing the rate of change between two correlated variables is a standard and valid method."
+}

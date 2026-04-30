@@ -1,0 +1,16 @@
+{
+  "id": "q_1235",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Facing a severe labor shortage during World War II, women were recruited into the industrial workforce by the federal government through campaigns such as the iconic 'Rosie the Riveter' posters. The influx of women into manufacturing profoundly altered both the wartime economy and social expectations about gender roles.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Facing a severe labor shortage during World War II, the federal government recruited women into the industrial workforce through campaigns such as the iconic 'Rosie the Riveter' posters.",
+    "B": "Women, facing a severe labor shortage, were recruited into the industrial workforce by the federal government during World War II.",
+    "C": "The industrial workforce, facing a severe labor shortage, was expanded with women by the federal government's recruiting campaigns.",
+    "D": "No change; 'facing' modifies the federal government, which is named as the recruiting agent in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Facing a severe labor shortage during World War II' describes the federal government, which faced the shortage. As written, 'women' is the subject, implying women faced the labor shortage—which misrepresents the historical situation (it was the government and industries that faced the shortage). Choice A restructures with 'the federal government' as the subject. Choice B attaches the phrase to 'Women,' attributing the labor shortage to them rather than to the government or industries. Choice C makes 'The industrial workforce' the subject and changes the meaning. Choice D incorrectly argues that naming the government in the passive by-phrase resolves the dangling modifier."
+}

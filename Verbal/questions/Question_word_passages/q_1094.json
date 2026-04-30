@@ -1,0 +1,16 @@
+{
+  "id": "q_1094",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the chief financial officer nor the department heads were informed about the proposed restructuring until the day of the announcement. Afterward, they expressed frustration that their input had not been sought during the planning phase.",
+  "question": "Which choice best describes the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "Incorrect; 'they' should be 'he or she' to agree with the singular CFO",
+    "B": "Incorrect; 'they' should be 'it' because the group is a single institutional body",
+    "C": "Correct; 'they' agrees with the nearer antecedent 'the department heads,' which is plural",
+    "D": "Correct; 'they' refers to both groups combined, which together are plural"
+  },
+  "correct_answer": "C",
+  "explanation": "In a neither/nor construction, the pronoun agrees with the nearer antecedent. The two antecedents are 'the chief financial officer' (singular) and 'the department heads' (plural). Because 'the department heads' is the nearer antecedent, the plural 'they' is correct. Choice A incorrectly applies singular agreement to the more distant antecedent. Choice B misidentifies the antecedent as a collective institutional body. Choice D incorrectly states that neither/nor compounds are treated as plural—they follow the nearer-antecedent rule."
+}

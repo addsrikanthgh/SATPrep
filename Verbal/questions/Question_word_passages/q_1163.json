@@ -1,0 +1,16 @@
+{
+  "id": "q_1163",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Frustrated by years of inconclusive negotiations, the treaty was finally signed by the foreign ministers of both nations in a ceremony held in Geneva last spring. International observers called the agreement a landmark step toward regional stability.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Frustrated by years of inconclusive negotiations, the foreign ministers of both nations finally signed the treaty in a ceremony held in Geneva last spring.",
+    "B": "The treaty, frustrated by years of inconclusive negotiations, was finally signed by the foreign ministers.",
+    "C": "The foreign ministers, frustrated by years of inconclusive negotiations, the treaty was finally signed in a ceremony in Geneva.",
+    "D": "No change; 'frustrated' modifies the foreign ministers, who are mentioned in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Frustrated by years of inconclusive negotiations' describes the foreign ministers, who can experience frustration. As written, the subject is 'the treaty,' which cannot be frustrated. Choice A correctly restructures the sentence with 'the foreign ministers' as the subject immediately following the participial phrase. Choice B attaches the participial phrase directly to 'The treaty' as an appositive, preserving the logical absurdity. Choice C creates a dangling construction with a comma splice. Choice D incorrectly argues that the ministers' placement later in the sentence resolves the error."
+}

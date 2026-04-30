@@ -1,0 +1,16 @@
+{
+  "id": "q_1256",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Among the most remarkable discoveries from the recent deep-sea expedition was the fifteen previously undescribed species of bioluminescent organisms collected at depths below three thousand meters. Taxonomists expect it will take years to fully classify all of the specimens.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Among the most remarkable discoveries from the recent deep-sea expedition were the fifteen previously undescribed species of bioluminescent organisms collected at depths below three thousand meters.",
+    "B": "Among the most remarkable discoveries from the recent deep-sea expedition was the fifteen previously undescribed species, which was collected at depths below three thousand meters.",
+    "C": "Among the most remarkable of the recent deep-sea expedition's discoveries, fifteen previously undescribed species of bioluminescent organisms was collected below three thousand meters.",
+    "D": "No change; 'was' agrees with 'discoveries,' the nearest noun in an inverted sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "This sentence has inverted word order: the verb precedes the subject. The true subject is 'the fifteen previously undescribed species of bioluminescent organisms,' which is plural. Therefore, the plural verb 'were' is required. Choice A correctly uses 'were.' Choice B keeps 'was' and adds another 'was' in the relative clause, compounding the error. Choice C restructures the sentence and uses 'was collected' with the plural 'fifteen species' as subject—still a disagreement. Choice D incorrectly identifies 'discoveries' as the subject; it is actually part of the prepositional phrase 'Among the most remarkable discoveries…'"
+}

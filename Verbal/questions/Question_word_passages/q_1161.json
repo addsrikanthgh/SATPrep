@@ -1,0 +1,16 @@
+{
+  "id": "q_1161",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Born into poverty in rural Mississippi in 1901, the blues as a musical form was essentially invented by Robert Johnson through his synthesis of Delta guitar traditions with haunting lyrical themes of hardship and longing. His recordings from the 1930s remain among the most influential in American music history.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Born into poverty in rural Mississippi in 1901, Robert Johnson essentially invented the blues as a musical form through his synthesis of Delta guitar traditions with haunting lyrical themes.",
+    "B": "The blues, born into poverty in rural Mississippi in 1901, was essentially invented by Robert Johnson.",
+    "C": "Robert Johnson, who was born into poverty in rural Mississippi in 1901, and the blues as a musical form was essentially invented through his synthesis.",
+    "D": "No change; 'born' modifies Robert Johnson, who is named in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Born into poverty in rural Mississippi in 1901' describes Robert Johnson, a person who can be born. As written, the subject of the main clause is 'the blues as a musical form,' which cannot be born into poverty. Choice A correctly places Robert Johnson as the subject immediately following the participial phrase. Choice B keeps 'the blues' as subject, preserving the logical error. Choice C uses an awkward relative clause construction that disrupts the sentence's flow and creates a mismatched compound predicate. Choice D incorrectly argues that naming someone later in the sentence satisfies the participial-phrase requirement."
+}

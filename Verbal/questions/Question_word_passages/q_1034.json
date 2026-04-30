@@ -1,0 +1,16 @@
+{
+  "id": "q_1034",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "Climatologists analyzed four decades of temperature records from mid-latitude weather stations. Mean seasonal temperatures by decade were: 1981–1990, spring 10.2°C, summer 22.4°C, autumn 11.8°C, winter 0.3°C; 1991–2000, spring 10.6°C, summer 22.9°C, autumn 12.1°C, winter 0.7°C; 2001–2010, spring 11.3°C, summer 23.7°C, autumn 12.8°C, winter 1.2°C; 2011–2020, spring 12.1°C, summer 24.6°C, autumn 13.4°C, winter 1.8°C. A climate scientist argued that warming has not been uniform across seasons: winter temperatures have increased at a disproportionately high rate relative to the other three seasons.",
+  "question": "Which choice most effectively uses data from the study to support the climate scientist's argument?",
+  "choices": {
+    "A": "Mean temperatures increased in every season from the 1981–1990 decade to the 2011–2020 decade, confirming a broad warming trend across all seasons in the region.",
+    "B": "Winter temperatures rose from 0.3°C to 1.8°C over the four decades—a proportional increase of approximately 500%—far exceeding the proportional increases of spring (approximately 19%), summer (approximately 10%), and autumn (approximately 14%), even though winter's absolute increase of 1.5°C was the smallest of the four seasons.",
+    "C": "Summer temperatures showed the largest absolute increase of any season, rising from 22.4°C to 24.6°C—a gain of 2.2°C—while winter temperatures rose only 1.5°C in absolute terms.",
+    "D": "Winter temperatures increased in every successive decade: from 0.3°C in 1981–1990 to 0.7°C, 1.2°C, and 1.8°C, demonstrating a consistent upward trend over the 40-year period."
+  },
+  "correct_answer": "B",
+  "explanation": "The scientist argues that winter warming is 'disproportionately high' relative to other seasons. Disproportionate warming means a higher rate of change relative to baseline, not a larger absolute change. Choice B correctly identifies that while winter's absolute increase (1.5°C) is actually the smallest of any season, its proportional increase (~500%, from 0.3 to 1.8°C) vastly exceeds those of spring (~19%), summer (~10%), and autumn (~14%)—which is exactly what 'disproportionate' means in context. Choice A confirms general warming but says nothing about differential rates. Choice C actually appears to contradict the scientist's claim by noting summer had the largest absolute increase. Choice D establishes a consistent winter warming trend but does not compare winter's rate of change to other seasons' rates."
+}

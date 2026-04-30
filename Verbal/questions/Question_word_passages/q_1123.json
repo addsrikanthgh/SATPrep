@@ -1,0 +1,16 @@
+{
+  "id": "q_1123",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The biotechnology firm announced its plans to acquire a gene-therapy startup valued at $2.4 billion, citing the target company's proprietary delivery platform as the primary rationale. Analysts noted that they had been seeking an entry point into the rare disease market for several years.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the analysts",
+    "B": "the startup",
+    "C": "it",
+    "D": "No change; 'they' refers to the firm's leadership team who have been seeking the entry point"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The biotechnology firm' is singular, confirmed by 'its plans.' The second sentence uses 'they,' a plural pronoun, creating a disagreement. Choice C replaces 'they' with 'it.' Choice A would make analysts the subject who had been seeking a market entry, changing the intended meaning. Choice B introduces the startup as the seeker of a rare disease entry point, which makes little contextual sense. Choice D incorrectly treats implied executives as the grammatical antecedent."
+}

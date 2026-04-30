@@ -1,0 +1,16 @@
+{
+  "id": "q_1124",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the lead defense attorney nor the co-counsel had reviewed the newly disclosed surveillance footage before the morning session began. Their motion for a continuance was granted by the judge, who agreed that the late disclosure had prejudiced the defense's ability to prepare.",
+  "question": "Which choice best describes the pronoun 'Their' at the start of the second sentence?",
+  "choices": {
+    "A": "Incorrect; 'Their' should be 'His' to agree with the singular lead defense attorney",
+    "B": "Incorrect; 'Their' should be 'Its' because the legal team is a collective entity",
+    "C": "Correct; 'Their' agrees with the nearer antecedent 'the co-counsel,' but co-counsel is actually singular here",
+    "D": "Correct; 'Their' agrees with the nearer antecedent 'the co-counsel,' which refers to a pair of attorneys and is plural"
+  },
+  "correct_answer": "D",
+  "explanation": "In the legal context, 'co-counsel' here refers to multiple co-counsel attorneys, making it plural. In a neither/nor construction, the pronoun agrees with the nearer antecedent. Since 'the co-counsel' (plural, referring to multiple attorneys) is nearer to 'Their' than 'the lead defense attorney' (singular), the plural 'Their' is correct. Choice A incorrectly applies singular agreement to the more distant antecedent. Choice B introduces the legal team as an unstated collective. Choice C incorrectly asserts that co-counsel is singular in this context; the passage presents co-counsel as a pair."
+}

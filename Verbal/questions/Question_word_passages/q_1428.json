@@ -1,0 +1,16 @@
+{
+  "id": "q_1428",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The engineers tested the bridge's load capacity in both summer and winter conditions they found that thermal expansion during summer months significantly altered the stress distribution across the central span. The findings will inform the design of three similar structures currently in planning.",
+  "question": "Which choice correctly fixes the sentence boundary error?",
+  "choices": {
+    "A": "The engineers tested the bridge's load capacity in both summer and winter conditions; they found that thermal expansion during summer months significantly altered the stress distribution across the central span.",
+    "B": "The engineers tested the bridge's load capacity in both summer and winter conditions, they found that thermal expansion during summer months significantly altered the stress distribution across the central span.",
+    "C": "The engineers tested the bridge's load capacity: in both summer and winter conditions they found that thermal expansion during summer months significantly altered the stress distribution.",
+    "D": "The engineers tested the bridge's load capacity in both summer and winter conditions, thermal expansion during summer months significantly altering the stress distribution across the central span."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a fused sentence—two independent clauses with no punctuation between them. 'The engineers tested the bridge's load capacity in both summer and winter conditions' and 'they found that thermal expansion during summer months significantly altered the stress distribution across the central span' are both complete independent clauses. Choice A correctly uses a semicolon to separate them. Choice B creates a comma splice. Choice C uses a colon after 'conditions' in a way that misrepresents the logical relationship—the colon would suggest what follows is an explanation or list, but 'in both summer and winter conditions' is not a complete clause. Choice D converts the second clause into a participial phrase but changes the meaning."
+}

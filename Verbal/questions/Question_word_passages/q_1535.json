@@ -1,0 +1,16 @@
+{
+  "id": "q_1535",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The concept of 'moral luck' in philosophy challenges the intuition that people should only be praised or blamed for what is within their control. Philosophers such as Thomas Nagel and Bernard Williams argued that outcomes shaped by circumstances beyond an agent's control—whether a drunk driver happens to hit a pedestrian or not, for instance—profoundly affect our moral judgments of the agent, despite the identical recklessness involved. This observation creates a deep tension in moral philosophy: our actual practices of blame and praise are shot through with luck, yet our theories of moral responsibility require that we be held accountable only for what we could have chosen. The problem has not been resolved, but it has forced philosophers to grapple more honestly with the limits of control-based theories of responsibility.",
+  "question": "What is the primary function of the third sentence ('This observation creates a deep tension...') in the passage?",
+  "choices": {
+    "A": "To provide a concrete example of moral luck in action",
+    "B": "To articulate the philosophical tension that the examples in the second sentence reveal between actual moral practice and moral theory",
+    "C": "To argue that blame and praise should be eliminated from moral philosophy",
+    "D": "To explain Thomas Nagel and Bernard Williams's proposed solution to the problem of moral luck"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence provides examples and observations about how luck shapes moral judgment. The third sentence articulates the theoretical tension this creates: our actual blame and praise practices are permeated by luck, yet our moral theories require basing accountability only on what people control. 'This observation' links back directly to the second sentence, and the third sentence unpacks the philosophical problem it generates. Choice A is incorrect—the concrete example of the drunk driver is in the second sentence. Choice C is incorrect—the third sentence identifies a tension, not a prescription for eliminating blame or praise. Choice D is incorrect—the third sentence describes the problem, not a solution; the fourth sentence notes that the problem remains unresolved."
+}

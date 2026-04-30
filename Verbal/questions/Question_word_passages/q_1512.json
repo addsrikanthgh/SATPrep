@@ -1,0 +1,16 @@
+{
+  "id": "q_1512",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Great Barrier Reef, stretching more than two thousand kilometers along the northeastern coast of Australia, is the world's largest coral reef system and one of the most biodiverse ecosystems on the planet. Rising ocean temperatures have caused widespread coral bleaching events, in which corals expel the photosynthetic algae that give them color and provide most of their energy. Without these algae, corals turn white and, if conditions do not improve quickly, die. The reef has experienced five mass bleaching events since 1998, with the two most severe occurring in 2016 and 2017.",
+  "question": "What is the primary function of the third sentence ('Without these algae, corals turn white...') in the passage?",
+  "choices": {
+    "A": "To explain the consequence of bleaching for the corals described in the second sentence",
+    "B": "To introduce a new species that competes with corals for sunlight",
+    "C": "To describe the geographical range of the Great Barrier Reef",
+    "D": "To argue that bleaching is a natural phenomenon unrelated to climate change"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence describes the bleaching process—corals expel their symbiotic algae. The third sentence explains what happens next: without the algae, corals turn white and, if the stress does not relent, die. This is a direct continuation of the cause-and-effect chain: the second sentence describes the mechanism of bleaching, and the third explains the lethal outcome if conditions do not improve. Choice B is incorrect—no competing species is introduced. Choice C is incorrect—the reef's geographical range is described in the first sentence. Choice D is incorrect—the passage does not frame bleaching as a natural phenomenon; it links it to rising ocean temperatures."
+}

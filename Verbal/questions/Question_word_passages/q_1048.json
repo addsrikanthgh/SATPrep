@@ -1,0 +1,16 @@
+{
+  "id": "q_1048",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The architect's design for the new civic center was praised for its bold use of cantilevers, its integration of natural light, and incorporating sustainable materials throughout the structure. Critics noted that the building's curvilinear facade represented a significant departure from the city's predominantly neoclassical skyline.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The architect's design for the new civic center was praised for its bold use of cantilevers, its integration of natural light, and its incorporation of sustainable materials throughout the structure.",
+    "B": "The architect's design for the new civic center was praised for its bold use of cantilevers, its integration of natural light, and it incorporated sustainable materials throughout the structure.",
+    "C": "The architect's design for the new civic center was praised for its bold use of cantilevers, natural light integration, and incorporating sustainable materials throughout the structure.",
+    "D": "The architect's design for the new civic center was praised for boldly using cantilevers, its integration of natural light, and incorporating sustainable materials throughout the structure."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence contains a faulty parallelism error within a series introduced by 'for': the first two items use noun phrases with possessive pronouns ('its bold use,' 'its integration'), but the third switches to a participial phrase ('incorporating'). In a parallel series, all elements must follow the same grammatical form. Choice A corrects this by converting the third element to a matching noun phrase: 'its incorporation of sustainable materials.' Choice B replaces the gerund with an independent clause ('it incorporated'), which breaks the series structure entirely and produces an awkward construction. Choice C removes the possessive pronoun from the second item ('natural light integration'), creating inconsistency rather than resolving it. Choice D changes the first element to a participial phrase ('boldly using'), which still results in a non-parallel series."
+}

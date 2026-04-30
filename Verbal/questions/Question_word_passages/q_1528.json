@@ -1,0 +1,16 @@
+{
+  "id": "q_1528",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Prior to the germ theory of disease, most physicians believed illness was caused by 'miasma'—noxious air emanating from rotting organic matter. The Hungarian physician Ignaz Semmelweis demonstrated in the 1840s that puerperal fever in maternity wards could be dramatically reduced if physicians washed their hands before delivering babies. Despite this compelling evidence, Semmelweis's findings were ridiculed by the medical establishment, and he died in an asylum in 1865 before his ideas were accepted. His story has become a cautionary tale about institutional resistance to evidence that challenges established doctrine.",
+  "question": "What is the primary function of the fourth sentence ('His story has become...') in the passage?",
+  "choices": {
+    "A": "To explain the germ theory of disease that eventually replaced the miasma theory",
+    "B": "To identify the broader lesson drawn from the historical narrative about Semmelweis presented in the previous sentences",
+    "C": "To argue that Semmelweis was personally responsible for the rejection of his findings",
+    "D": "To describe the symptoms of puerperal fever"
+  },
+  "correct_answer": "B",
+  "explanation": "The first three sentences tell the story of Semmelweis—his discovery, its rejection, and his tragic death. The fourth sentence draws the broader lesson from this narrative: institutional resistance to evidence that challenges established doctrine. 'His story has become a cautionary tale' signals a transition from historical particulars to a general principle or moral. Choice A is incorrect—germ theory is not discussed in the passage. Choice C is incorrect—the third sentence makes clear that the establishment was responsible for the rejection; the fourth sentence draws a general lesson, not a personal attribution. Choice D is incorrect—puerperal fever symptoms are not described anywhere in the passage."
+}

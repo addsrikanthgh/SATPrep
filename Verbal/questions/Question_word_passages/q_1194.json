@@ -1,0 +1,16 @@
+{
+  "id": "q_1194",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The review board even rejected the most prestigious applicant's credentials after discovering a procedural violation in the submission. The chair noted that no exceptions could be made without undermining the integrity of the entire selection process.",
+  "question": "The word 'even' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The review board rejected even the most prestigious applicant's credentials after discovering a procedural violation in the submission.",
+    "B": "Even the review board rejected the most prestigious applicant's credentials after discovering a procedural violation.",
+    "C": "The review board rejected the most prestigious applicant's even credentials after discovering a procedural violation.",
+    "D": "No change; 'even rejected' is an idiomatic phrase emphasizing how strong the rejection was"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that the rejection applied to even the most prestigious applicant—'even' should modify 'the most prestigious applicant's credentials,' expressing that no applicant was exempt. As written, 'even rejected' emphasizes that rejection occurred, rather than the scope of who was rejected. Choice A places 'even' before 'the most prestigious applicant's credentials,' conveying that even highly prestigious candidates were not spared. Choice B places 'even' before 'the review board,' implying even the board (as opposed to another body) rejected the credentials. Choice C places 'even' before 'credentials,' which creates a meaningless phrase. Choice D incorrectly accepts 'even rejected' as idiomatic."
+}

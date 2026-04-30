@@ -1,0 +1,16 @@
+{
+  "id": "q_1362",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The rescue mission was delayed by forty-eight hours due to deteriorating weather conditions. A setback that proved costly for the search teams. By the time the teams reached the stranded hikers, two of the four had developed severe hypothermia.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The rescue mission was delayed by forty-eight hours due to deteriorating weather conditions, a setback that proved costly for the search teams.",
+    "B": "The rescue mission was delayed by forty-eight hours due to deteriorating weather conditions; a setback that proved costly for the search teams.",
+    "C": "The rescue mission was delayed by forty-eight hours. Due to deteriorating weather conditions, a setback proved costly for the search teams.",
+    "D": "No change; 'A setback that proved costly' is a complete sentence that provides important context."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'A setback that proved costly for the search teams' is an appositive noun phrase fragment—it has no main verb and cannot stand alone as a sentence. 'That proved costly' is a relative clause modifying 'setback,' but there is no predicate for the main noun phrase 'A setback.' This appositive must be attached to the preceding sentence. Choice A uses a comma to attach the appositive to the end of the preceding sentence. Choice B uses a semicolon, which is incorrect for attaching an appositive noun phrase. Choice C creates a new fragment with 'Due to deteriorating weather conditions.' Choice D incorrectly defends the fragment as a complete sentence."
+}

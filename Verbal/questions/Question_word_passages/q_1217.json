@@ -1,0 +1,16 @@
+{
+  "id": "q_1217",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Guided by a commitment to preserving indigenous oral traditions, the ethnographic archive was assembled by linguists from three continents over a period of twenty years. The archive now contains recordings in more than sixty languages, many of which have fewer than a hundred remaining fluent speakers.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Guided by a commitment to preserving indigenous oral traditions, linguists from three continents assembled the ethnographic archive over a period of twenty years.",
+    "B": "The ethnographic archive, guided by a commitment to preserving indigenous oral traditions, was assembled by linguists over twenty years.",
+    "C": "Linguists from three continents, guided by their commitment, preserved the ethnographic archive over twenty years.",
+    "D": "No change; 'guided' modifies the linguists, who are named in the passive construction 'assembled by linguists'"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Guided by a commitment to preserving indigenous oral traditions' describes the linguists, who are guided by this commitment. As written, 'the ethnographic archive' is the subject, implying the archive is guided by a commitment—illogical. Choice A restructures with 'linguists from three continents' as the subject. Choice B attaches the phrase to 'The ethnographic archive' as a mid-sentence modifier, preserving the error. Choice C shortens the participial phrase and changes the meaning. Choice D incorrectly argues that reference to linguists in a passive by-phrase resolves a dangling modifier."
+}

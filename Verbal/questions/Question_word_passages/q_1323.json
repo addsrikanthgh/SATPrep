@@ -1,0 +1,16 @@
+{
+  "id": "q_1323",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The committee's report, along with dozens of supporting exhibits detailing the pattern of financial mismanagement over a twelve-year period, were submitted to the state attorney general's office on Tuesday. A formal inquiry is expected to begin within ninety days.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The committee's report, along with dozens of supporting exhibits detailing the pattern of financial mismanagement over a twelve-year period, was submitted to the state attorney general's office on Tuesday.",
+    "B": "The committee's report, along with dozens of supporting exhibits detailing the pattern of financial mismanagement, were submitted to the state attorney general's office.",
+    "C": "The committee's reports, along with dozens of supporting exhibits, were submitted to the state attorney general's office on Tuesday.",
+    "D": "No change; 'were submitted' correctly agrees with 'dozens of supporting exhibits,' the nearest plural noun phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The committee's report,' a singular noun. The phrase 'along with dozens of supporting exhibits detailing the pattern of financial mismanagement over a twelve-year period' is a parenthetical addition set off by commas; 'along with' is not a coordinating conjunction and does not create a compound subject. The singular verb 'was submitted' is required. Choice A uses 'was submitted.' Choice B preserves 'were submitted.' Choice C pluralizes 'report' to 'reports' and uses 'were submitted'—changes meaning. Choice D incorrectly applies proximity agreement."
+}

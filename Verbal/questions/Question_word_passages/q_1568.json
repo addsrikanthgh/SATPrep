@@ -1,0 +1,16 @@
+{
+  "id": "q_1568",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An education researcher measured the average test score improvements of students who used four different study methods for two weeks before a standardized exam.\n\n| Study Method | Avg. Score Improvement (points) | % of Students Improving |\n|---|---|---|\n| Re-reading notes | 3.2 | 58 |\n| Highlighting | 2.8 | 54 |\n| Practice testing | 11.6 | 89 |\n| Spaced repetition | 9.4 | 83 |\n\nThe researcher concluded that active retrieval methods—practice testing and spaced repetition—are far more effective than passive review methods such as re-reading and highlighting.",
+  "question": "Which comparison most directly supports the researcher's conclusion?",
+  "choices": {
+    "A": "Practice testing produced the highest improvement at 11.6 points.",
+    "B": "Both active retrieval methods (practice testing: +11.6 pts, 89%; spaced repetition: +9.4 pts, 83%) show dramatically higher score improvements and student success rates than both passive methods (re-reading: +3.2 pts, 58%; highlighting: +2.8 pts, 54%).",
+    "C": "Spaced repetition improved scores by 9.4 points, which is more than three times greater than re-reading notes.",
+    "D": "89% of students using practice testing improved their scores."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher's conclusion is a categorical comparison: active retrieval methods as a group are 'far more effective' than passive review methods as a group. To support this, the evidence must compare both methods in each category—not just one active method or one passive method. Choice B does exactly this: it presents both active methods (practice testing and spaced repetition) alongside both passive methods (re-reading and highlighting), showing the magnitude of difference in both score improvement and percentage of students improving. This group-to-group comparison matches the researcher's group-based claim. Choice A and Choice D each address only one method. Choice C compares spaced repetition to re-reading, which is only one active vs. one passive comparison—better than A and D but less comprehensive than B."
+}

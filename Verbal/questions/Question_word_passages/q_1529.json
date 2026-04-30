@@ -1,0 +1,16 @@
+{
+  "id": "q_1529",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The psychological concept of 'confirmation bias' describes the tendency to seek out, interpret, and remember information in ways that confirm one's pre-existing beliefs while ignoring or discounting contradictory evidence. Research suggests that confirmation bias intensifies when beliefs are tied to identity—political affiliation, religious conviction, or group membership—because challenging the belief feels like an attack on the self. This explains why exposure to accurate factual corrections sometimes actually strengthens incorrect beliefs in what researchers call the 'backfire effect': corrections can trigger defensive processing that entrenches the original belief more deeply. Recent research has, however, questioned the robustness of the backfire effect, finding that it does not replicate consistently across populations and conditions.",
+  "question": "What is the primary function of the fourth sentence ('Recent research has, however, questioned...') in the passage?",
+  "choices": {
+    "A": "To fully invalidate the concept of confirmation bias described in the first sentence",
+    "B": "To introduce a qualification that complicates the explanation provided in the third sentence by questioning the reliability of the backfire effect",
+    "C": "To explain why political affiliation intensifies confirmation bias",
+    "D": "To define the term 'defensive processing'"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence introduces the backfire effect as an explanation for why corrections can entrench wrong beliefs. The fourth sentence uses 'however' to introduce a qualification: the backfire effect does not replicate consistently, casting doubt on its reliability as an explanation. The fourth sentence does not dismiss confirmation bias as a whole—it specifically narrows the fourth sentence's target to the backfire effect. This makes the overall picture more nuanced: while confirmation bias and identity-protective cognition are robust, the specific backfire mechanism is more contested. Choice A is incorrect—the fourth sentence challenges only the backfire effect, not confirmation bias broadly. Choice C is incorrect—that is covered in the second sentence. Choice D is incorrect—'defensive processing' is mentioned in the third sentence without formal definition."
+}

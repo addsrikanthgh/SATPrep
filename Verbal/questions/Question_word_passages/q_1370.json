@@ -1,0 +1,16 @@
+{
+  "id": "q_1370",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The first-generation college students in the program received intensive academic coaching throughout the year. As well as financial counseling, career mentoring, and connections to alumni networks in their fields of interest. Completion rates for participants have been significantly higher than for non-participants.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The first-generation college students in the program received intensive academic coaching throughout the year, as well as financial counseling, career mentoring, and connections to alumni networks in their fields of interest.",
+    "B": "The first-generation college students received intensive academic coaching; as well as financial counseling, career mentoring, and connections to alumni networks in their fields of interest.",
+    "C": "The first-generation college students in the program received intensive academic coaching throughout the year. In addition, they received financial counseling, career mentoring, and connections to alumni networks.",
+    "D": "No change; 'As well as financial counseling' begins a complete sentence that expands the description of support services."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'As well as financial counseling, career mentoring, and connections to alumni networks in their fields of interest' is a fragment—it begins with 'As well as,' a prepositional phrase that adds items to a list, and has no independent subject-verb structure. It should be attached to the preceding sentence as a continuation of the list of services the students received. Choice A attaches the fragment to the preceding sentence with a comma. Choice B uses a semicolon before the fragment, which is incorrect. Choice C converts the fragment into a full sentence by rephrasing—grammatically correct but makes unnecessary structural changes. Choice D incorrectly defends the fragment."
+}

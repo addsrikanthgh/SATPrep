@@ -1,0 +1,16 @@
+{
+  "id": "q_1006",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Coastal wetlands perform multiple ecological functions that are difficult and expensive to replicate artificially. *They filter agricultural runoff and municipal wastewater, this filtration prevents excess nutrients from creating algal blooms in adjacent marine environments.* Their gradual loss to coastal development has alarmed conservation biologists worldwide.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "They filter agricultural runoff and municipal wastewater; this filtration prevents excess nutrients from creating algal blooms in adjacent marine environments.",
+    "B": "They filter agricultural runoff and municipal wastewater, this filtration prevents excess nutrients from creating algal blooms in adjacent marine environments.",
+    "C": "They filter agricultural runoff and municipal wastewater this filtration prevents excess nutrients from creating algal blooms in adjacent marine environments.",
+    "D": "They filter agricultural runoff and municipal wastewater, preventing excess nutrients from creating algal blooms in adjacent marine environments."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice A inserts a semicolon, correctly separating the two independent clauses while preserving the cause-and-effect relationship between them. Choice B reproduces the original comma splice. Choice C removes the comma to create a fused sentence, which is also incorrect. Choice D converts the second clause into a participial phrase, eliminating the subject 'this filtration'; because the passage is explaining a causal mechanism, the loss of that explicit subject weakens the logical connection that the original sentence establishes."
+}

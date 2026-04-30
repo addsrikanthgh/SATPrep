@@ -1,0 +1,16 @@
+{
+  "id": "q_1500",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Galápagos finches observed by Charles Darwin have become one of the most famous examples of adaptive radiation in evolutionary biology. Each species evolved a distinct beak shape suited to the specific food sources available on its island, from seeds and insects to cactus flowers and blood. Darwin did not immediately recognize the significance of the birds; he had to be told by ornithologist John Gould that the specimens from different islands were distinct species rather than varieties. This revelation played a key role in shaping Darwin's thinking about speciation and natural selection.",
+  "question": "What is the primary function of the third sentence ('Darwin did not immediately recognize...') in the passage?",
+  "choices": {
+    "A": "To undermine Darwin's credibility as a naturalist",
+    "B": "To explain how beak shape variation develops across generations",
+    "C": "To introduce a historical detail that complicates the popular image of Darwin as having immediately recognized the finches' significance",
+    "D": "To describe the role of John Gould in developing the theory of natural selection"
+  },
+  "correct_answer": "C",
+  "explanation": "The first two sentences establish the Galápagos finches as a famous example of adaptive radiation and describe their beak diversity. The third sentence reveals that Darwin himself initially missed the significance of the birds—he had to be informed by an ornithologist that the island specimens were distinct species. This complicates the popular narrative of Darwin as a perceptive genius who immediately grasped the evolutionary implications of his observations. Choice A is incorrect—the passage does not intend to undermine Darwin; the revelation in the following sentence shapes his thinking positively. Choice B is incorrect—beak shape development is addressed in the second sentence, not the third. Choice D is incorrect—Gould's mention is incidental; the sentence focuses on Darwin's initial misunderstanding."
+}

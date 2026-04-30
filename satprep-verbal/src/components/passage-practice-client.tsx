@@ -54,6 +54,21 @@ function CheckIcon() {
   );
 }
 
+/** Splits passage text on *...* markers and renders the enclosed span as underlined. */
+function renderPassage(text: string) {
+  const parts = text.split(/(\*[^*]+\*)/g);
+  return (
+    <>
+      {parts.map((part, i) => {
+        if (part.startsWith("*") && part.endsWith("*")) {
+          return <span key={i} className="underline decoration-slate-700 underline-offset-2">{part.slice(1, -1)}</span>;
+        }
+        return <span key={i}>{part}</span>;
+      })}
+    </>
+  );
+}
+
 export function PassagePracticeClient() {
   const [questionCount, setQuestionCount] = useState(defaultCount);
   const [loading, setLoading] = useState(false);
@@ -250,7 +265,7 @@ export function PassagePracticeClient() {
             <SurfaceCard>
               {item.passage ? (
                 <article className="mb-5 rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-800 sm:p-5">
-                  {item.passage}
+                  {renderPassage(item.passage)}
                 </article>
               ) : (
                 <article className="mb-5 rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-500 sm:p-5">

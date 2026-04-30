@@ -1,0 +1,16 @@
+{
+  "id": "q_1433",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The pharmaceutical company's internal documents, obtained through a Freedom of Information request, revealed that researchers had identified potential liver toxicity risks as early as the third phase of trials, this information was not disclosed to the public until three years after the drug received regulatory approval.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The pharmaceutical company's internal documents, obtained through a Freedom of Information request, revealed that researchers had identified potential liver toxicity risks as early as the third phase of trials; this information was not disclosed to the public until three years after the drug received regulatory approval.",
+    "B": "The pharmaceutical company's internal documents, obtained through a Freedom of Information request, revealed that researchers had identified potential liver toxicity risks as early as the third phase of trials this information was not disclosed to the public until three years after the drug received regulatory approval.",
+    "C": "The pharmaceutical company's internal documents revealed that researchers had identified potential liver toxicity risks as early as the third phase of trials, this information was not disclosed until three years after approval.",
+    "D": "No change; 'this information' follows a comma because it refers back to the specific data mentioned in the preceding clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a comma splice—two independent clauses joined by only a comma. The first clause describes what the documents revealed, and the second clause 'this information was not disclosed to the public until three years after the drug received regulatory approval' is a separate independent clause with its own subject ('this information') and predicate. Choice A uses a semicolon to correctly separate the two independent clauses. The semicolon is especially effective here because it highlights the contrast between the early discovery of the risk and its delayed disclosure. Choice B creates a fused sentence. Choice C preserves the comma splice in a shortened version. Choice D incorrectly defends the comma splice."
+}

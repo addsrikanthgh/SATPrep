@@ -1,0 +1,16 @@
+{
+  "id": "q_1271",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The audience, though divided in their opinions about the film's unconventional ending, was united in praising the lead actress's extraordinary performance. Several critics called it the finest acting they had seen in more than a decade.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'was united' should be 'were united' because 'audience' is a collective noun and must take a plural verb.",
+    "B": "Yes; 'was united' should be 'were united' because the earlier use of 'their' establishes the audience as grammatically plural.",
+    "C": "Yes; 'was united' should be 'were united' to maintain consistency with the plural possessive 'their opinions.'",
+    "D": "No; 'was united' correctly treats 'the audience' as a singular collective noun acting as a unit when it shares the same opinion."
+  },
+  "correct_answer": "D",
+  "explanation": "In American English, collective nouns like 'audience' can take either singular or plural verbs depending on context. When the group acts as a unit with a shared outcome, a singular verb is appropriate. Here, the audience is 'united' in a single shared opinion about the actress—suggesting unified collective action. The singular 'was united' is correct. The use of 'their' in the preceding clause refers to the audience's individual opinions (acting as individuals), which does not force the main verb to be plural. Choice A incorrectly states collective nouns must always take plural verbs in American English. Choices B and C incorrectly argue that 'their' forces the main verb to be plural. Choice D correctly identifies no error."
+}

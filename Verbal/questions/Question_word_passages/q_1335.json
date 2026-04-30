@@ -1,0 +1,16 @@
+{
+  "id": "q_1335",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Although the restoration project was completed on schedule and under budget. The committee remained unsatisfied with the quality of materials used in the final phase. They voted to withhold approval until independent assessors conducted a review.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "Although the restoration project was completed on schedule and under budget, the committee remained unsatisfied with the quality of materials used in the final phase.",
+    "B": "The restoration project was completed on schedule and under budget, although the committee remained unsatisfied with the quality of materials used in the final phase.",
+    "C": "Although the restoration project was completed on schedule and under budget; the committee remained unsatisfied with the quality of materials used in the final phase.",
+    "D": "No change; 'although' may introduce a sentence that makes a complete thought by contrast."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a subordinate clause fragment—it begins with the subordinating conjunction 'Although,' which makes it a dependent clause that cannot stand alone. It must be attached to the main independent clause that follows. Choice A correctly attaches the dependent clause to the main clause with a comma. Choice B restructures the sentence so that the main clause comes first, followed by the 'although' clause—this is grammatically acceptable and conveys the same meaning, but Choice A more naturally preserves the contrastive emphasis of 'although.' Choice C uses a semicolon after the dependent clause, which is incorrect—semicolons join independent clauses. Choice D incorrectly claims 'although' can begin a standalone sentence."
+}

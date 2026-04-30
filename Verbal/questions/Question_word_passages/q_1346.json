@@ -1,0 +1,16 @@
+{
+  "id": "q_1346",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The marathon runner crossed the finish line in first place, she had set a new course record by nearly four minutes. The crowd erupted in celebration as her time was announced over the loudspeaker.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The marathon runner crossed the finish line in first place, setting a new course record by nearly four minutes.",
+    "B": "The marathon runner crossed the finish line in first place, she set a new course record by nearly four minutes.",
+    "C": "The marathon runner crossed the finish line in first place; she had set a new course record by nearly four minutes.",
+    "D": "No change; the comma appropriately introduces explanatory information about the runner's achievement."
+  },
+  "correct_answer": "C",
+  "explanation": "The original sentence is a comma splice—two independent clauses are joined by only a comma. Choice C uses a semicolon to correctly join the two related independent clauses. Choice A converts the second clause into a participial phrase ('setting a new course record'), which is also a grammatically correct way to fix the comma splice—the participial phrase modifies the subject of the main clause. Both A and C are correct, but C preserves the original verb tense ('had set') and the independent clause structure, while A changes both. For this passage, C best preserves the original structure while fixing only the punctuation error. Choice B preserves the comma splice with a minor tense change. Choice D incorrectly defends the comma splice."
+}

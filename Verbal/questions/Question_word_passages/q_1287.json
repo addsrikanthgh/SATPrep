@@ -1,0 +1,16 @@
+{
+  "id": "q_1287",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Every park, plaza, and public thoroughfare in the historic district are subject to the preservation commission's design review process, which can take several months for complex renovation proposals. Property owners must submit detailed architectural drawings before any exterior changes begin.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Every park, plaza, and public thoroughfare in the historic district is subject to the preservation commission's design review process.",
+    "B": "Every park, plaza, and public thoroughfare in the historic district are subject to the preservation commission's design review process.",
+    "C": "Every park, plaza, and public thoroughfare in the historic district have been subject to the preservation commission's design review process.",
+    "D": "No change; 'are subject' correctly reflects the plural compound subject 'park, plaza, and public thoroughfare'"
+  },
+  "correct_answer": "A",
+  "explanation": "When 'every' or 'each' precedes a compound subject connected by commas and 'and,' the subject is treated as singular and takes a singular verb. The word 'every' distributes across all three nouns ('every park,' 'every plaza,' 'every public thoroughfare') and signals singular consideration of each. The singular verb 'is subject' is required. Choice A uses 'is subject.' Choice B preserves 'are subject.' Choice C uses 'have been subject,' a plural present perfect. Choice D incorrectly argues that 'park, plaza, and public thoroughfare' is a compound plural subject; the presence of 'every' makes each element singular."
+}

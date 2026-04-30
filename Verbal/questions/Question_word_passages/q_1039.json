@@ -1,0 +1,16 @@
+{
+  "id": "q_1039",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A sociologist surveyed 1,500 teenagers about their daily social media use and average nightly sleep duration. Results by daily social media usage were: under 1 hour (n=210), mean sleep 8.3 hours, 74% getting at least 8 hours; 1–2 hours (n=340), 7.9 hours, 62%; 2–3 hours (n=420), 7.4 hours, 48%; 3–4 hours (n=310), 7.0 hours, 33%; more than 4 hours (n=220), 6.4 hours, 18%. The sociologist concluded that greater daily social media use is associated with reduced sleep duration among teenagers.",
+  "question": "Which choice most effectively uses data from the study to support the sociologist's conclusion?",
+  "choices": {
+    "A": "Teenagers who used social media for more than 4 hours daily averaged only 6.4 hours of sleep—below the 8–10 hours recommended for adolescents.",
+    "B": "As daily social media use increased across all five groups—from under 1 hour to more than 4 hours—mean nightly sleep declined at every step: from 8.3 to 7.9, 7.4, 7.0, and 6.4 hours, establishing a consistent dose-response pattern across the full range of usage levels.",
+    "C": "Only 18% of teenagers using social media for more than 4 hours daily got at least 8 hours of sleep, compared to 74% of those using it for under 1 hour per day.",
+    "D": "Teenagers using social media for 2–3 hours per day averaged 7.4 hours of sleep, falling below the recommended 8–10 hours for adolescents."
+  },
+  "correct_answer": "B",
+  "explanation": "The sociologist's conclusion claims an 'association' between greater social media use and reduced sleep—which requires demonstrating a consistent pattern across usage levels, not just a comparison of two extremes. Choice B establishes this by tracing the stepwise decline in mean sleep duration across all five usage groups, confirming that greater use is associated with less sleep at every step. Choice A compares only the heaviest users to a benchmark rather than to other social media usage groups, and does not demonstrate a systematic relationship. Choice C compares only the two extreme groups on the percentage metric, which is less complete than the full five-group pattern in Choice B. Choice D discusses only the 2–3 hour group's comparison to a benchmark, not to other social media usage groups, and does not establish the broader association."
+}

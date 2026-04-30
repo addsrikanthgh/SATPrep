@@ -1,0 +1,16 @@
+{
+  "id": "q_1475",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The treaty negotiations had stalled for weeks over a single unresolved issue: which party bore legal responsibility for the environmental damage caused by the jointly operated pipeline that had ruptured three years earlier and contaminated a shared river basin.",
+  "question": "Which best describes the punctuation used in the passage?",
+  "choices": {
+    "A": "The colon should be replaced with a semicolon because 'which party bore legal responsibility' is an independent clause.",
+    "B": "The colon should be replaced with a comma because the explanation that follows is part of the same sentence.",
+    "C": "The passage is correct as written; the colon correctly follows a complete independent clause and introduces the content of the 'single unresolved issue.'",
+    "D": "The colon should be removed; the sentence is clearer without it."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage is correct as written. The colon follows 'a single unresolved issue,' which comes at the end of a complete independent clause, and it introduces a direct explanation of what that issue is. This is exactly the function of a colon: to follow a complete independent clause and introduce an elaboration or explanation of something named in that clause. Choice A incorrectly identifies 'which party bore legal responsibility' as an independent clause—it is a noun clause (an embedded question functioning as a noun), not an independent clause, so a semicolon would be inappropriate. Choice B would not clearly signal that what follows explains the 'unresolved issue.' Choice D would create ambiguity and weaken the sentence."
+}

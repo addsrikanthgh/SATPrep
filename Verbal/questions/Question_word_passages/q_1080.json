@@ -1,0 +1,16 @@
+{
+  "id": "q_1080",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Immunologist Dr. Reyes presented her research on T-cell activation at the symposium, while epidemiologist Dr. Okafor delivered a keynote on vaccine-preventable disease burden in sub-Saharan Africa. Afterward, she fielded questions from the audience for nearly forty minutes.",
+  "question": "The pronoun 'she' in the final sentence is ambiguous. Which choice most clearly and precisely replaces it?",
+  "choices": {
+    "A": "the immunologist",
+    "B": "Dr. Okafor",
+    "C": "the keynote speaker",
+    "D": "No change; 'she' clearly refers to Dr. Reyes because she was mentioned first"
+  },
+  "correct_answer": "B",
+  "explanation": "The pronoun 'she' could refer to either Dr. Reyes or Dr. Okafor—both are female and both were introduced in the preceding sentence. Presenting first does not create unambiguous reference; 'she' is equally grammatically capable of referring to either woman. In formal writing, pronouns with multiple plausible antecedents must be replaced with the specific noun. The fact that Dr. Okafor delivered the keynote address makes her the more contextually logical subject of the follow-up Q&A, but logical inference is not a substitute for grammatical clarity. Choice B correctly identifies Dr. Okafor by name. Choice A substitutes 'the immunologist,' a description of Dr. Reyes, which would assign the Q&A to the wrong person. Choice C uses 'the keynote speaker,' which unambiguously refers to Dr. Okafor but is unnecessarily indirect. Choice D incorrectly claims first-mention order resolves pronominal ambiguity."
+}

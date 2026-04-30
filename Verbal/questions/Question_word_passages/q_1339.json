@@ -1,0 +1,16 @@
+{
+  "id": "q_1339",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Having spent three years studying the migration patterns of monarch butterflies, the research findings of Professor Nakamura were widely cited in subsequent studies. She presented her data at the annual entomology conference in Vienna.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "Having spent three years studying the migration patterns of monarch butterflies, Professor Nakamura published research findings that were widely cited in subsequent studies.",
+    "B": "Having spent three years studying the migration patterns of monarch butterflies, the research findings were widely cited in subsequent studies by Professor Nakamura.",
+    "C": "Professor Nakamura's research findings, having been spent three years studying monarch butterflies, were widely cited in subsequent studies.",
+    "D": "No change; the participial phrase 'Having spent three years' modifies 'Professor Nakamura,' who is identified through her research findings."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a dangling modifier. The introductory participial phrase 'Having spent three years studying the migration patterns of monarch butterflies' must logically modify the subject of the main clause—the person who spent three years studying. But the subject of the main clause is 'the research findings,' which cannot spend years studying. The modifier dangles because the logical subject (Professor Nakamura) is not the grammatical subject. Choice A places 'Professor Nakamura' as the subject, correcting the dangling modifier. Choice B places 'the research findings' as the subject after the modifier—still dangling. Choice C uses 'having been spent,' which is not idiomatic and creates a new error. Choice D incorrectly claims the modifier is fine."
+}

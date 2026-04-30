@@ -1,0 +1,16 @@
+{
+  "id": "q_1038",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An oceanographer collected species diversity data from sampling stations across five depth zones in the Pacific Ocean. Mean species counts per sample and biomass by zone were: epipelagic zone (0–200 m), 148 species, 4.2 g/m³ biomass; mesopelagic zone (200–1,000 m), 214 species, 1.8 g/m³; bathypelagic zone (1,000–4,000 m), 176 species, 0.4 g/m³; abyssopelagic zone (4,000–6,000 m), 89 species, 0.1 g/m³; hadopelagic zone (greater than 6,000 m), 31 species, 0.02 g/m³. A researcher argued that species diversity in the ocean does not decline uniformly with depth; rather, it peaks in the mesopelagic zone before falling in deeper zones.",
+  "question": "Which choice most effectively uses data from the study to support the researcher's argument?",
+  "choices": {
+    "A": "Species diversity drops sharply from the abyssopelagic zone (89 species per sample) to the hadopelagic zone (31 species per sample), demonstrating that extreme depth severely limits biodiversity.",
+    "B": "The mesopelagic zone (200–1,000 m) had the highest mean species count (214 per sample)—exceeding even the surface epipelagic zone (148)—while deeper zones showed successively fewer species: 176 (bathypelagic), 89 (abyssopelagic), and 31 (hadopelagic), establishing that diversity peaks at mid-depth rather than at the surface.",
+    "C": "Biomass decreases consistently with depth, from 4.2 g/m³ at the surface to 0.02 g/m³ in the hadopelagic zone, reflecting the decline in food availability and sunlight in deeper waters.",
+    "D": "The hadopelagic zone supports only 31 species per sample—far fewer than any other zone—confirming that the deepest ocean regions have severely limited biodiversity."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher's argument requires demonstrating (1) that diversity does not simply decline from the surface down, and (2) that it peaks specifically in the mesopelagic zone. Choice B directly establishes both: it notes that the mesopelagic zone (214 species) exceeds even the surface zone (148 species)—which contradicts a simple uniform-decline-with-depth pattern—and then shows the sequential decline in deeper zones, confirming that diversity peaks at mid-depth. Choice A describes only the abyssal-to-hadal decline, which is consistent with a uniform decline pattern and does not establish the mesopelagic peak. Choice C describes biomass rather than species diversity, making it irrelevant to the researcher's biodiversity argument. Choice D mentions only the hadopelagic zone's low count without comparing it to the mesopelagic zone or establishing that diversity peaks there."
+}

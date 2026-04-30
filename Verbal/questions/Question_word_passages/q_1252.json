@@ -1,0 +1,16 @@
+{
+  "id": "q_1252",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "There is, scattered throughout the ancient manuscript, hundreds of marginal annotations written in a hand distinct from the main text. Paleographers believe the annotations were added by a later reader, possibly a fifteenth-century monastic scholar.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "There are, scattered throughout the ancient manuscript, hundreds of marginal annotations written in a hand distinct from the main text.",
+    "B": "There is, scattered throughout the ancient manuscript, a hundred marginal annotations written in a hand distinct from the main text.",
+    "C": "Scattered throughout the ancient manuscript is hundreds of marginal annotations written in a hand distinct from the main text.",
+    "D": "No change; 'is' agrees with 'a hand distinct from the main text,' the nearest singular noun phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "In existential constructions beginning with 'There,' the verb agrees with the true subject, which follows the verb. The true subject here is 'hundreds of marginal annotations,' which is plural, requiring the plural verb 'are.' Choice A uses 'are.' Choice B uses 'is' and changes 'hundreds of marginal annotations' to 'a hundred marginal annotations,' which changes the meaning and is still grammatically questionable. Choice C moves 'Scattered…' to the front but keeps the singular verb 'is,' which still disagrees with the plural 'hundreds.' Choice D incorrectly applies proximity agreement, identifying 'a hand' as the subject."
+}

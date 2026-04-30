@@ -1,0 +1,16 @@
+{
+  "id": "q_1012",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Labor economists distinguish between structural unemployment, caused by lasting shifts in the economy's productive capacity, and cyclical unemployment, which fluctuates with business cycles. *Structural unemployment tends to persist even during periods of strong economic growth, workers displaced by technological change or industrial decline often lack the skills demanded by expanding sectors.* Addressing structural unemployment therefore requires targeted investment in retraining rather than broad macroeconomic stimulus.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Structural unemployment tends to persist even during periods of strong economic growth; workers displaced by technological change or industrial decline often lack the skills demanded by expanding sectors.",
+    "B": "Structural unemployment tends to persist even during periods of strong economic growth, workers displaced by technological change or industrial decline often lack the skills demanded by expanding sectors.",
+    "C": "Structural unemployment tends to persist even during periods of strong economic growth, and workers displaced by technological change or industrial decline often lack the skills demanded by expanding sectors.",
+    "D": "Structural unemployment tends to persist even during periods of strong economic growth workers displaced by technological change or industrial decline often lack the skills demanded by expanding sectors."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice A inserts a semicolon, correctly separating the two independent clauses; because the second clause explains why structural unemployment persists, the semicolon also accurately signals an explanatory relationship. Choice B reproduces the original error. Choice C inserts 'and,' which is grammatically acceptable but implies a merely additive relationship between the two clauses; since the second clause provides the reason for the first, the semicolon in Choice A more precisely conveys the logical connection. Choice D removes the comma to create a fused sentence."
+}

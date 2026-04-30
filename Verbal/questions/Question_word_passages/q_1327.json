@@ -1,0 +1,16 @@
+{
+  "id": "q_1327",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The number of species classified as critically endangered by the International Union for Conservation of Nature have risen by nearly twenty percent in the past decade. Conservation biologists attribute the increase to accelerating habitat loss and climate-related disruptions to ecosystems.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The number of species classified as critically endangered by the International Union for Conservation of Nature has risen by nearly twenty percent in the past decade.",
+    "B": "A number of species classified as critically endangered by the IUCN have risen by nearly twenty percent in the past decade.",
+    "C": "The number of species classified as critically endangered by the IUCN have risen by nearly twenty percent.",
+    "D": "No change; 'have risen' correctly agrees with 'species,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'the number of' is always singular—it refers to the count itself, which is a single quantity. This contrasts with 'a number of,' which means 'many' and takes a plural verb. The singular verb 'has risen' is required. Choice A uses 'has risen.' Choice B changes 'The number of' to 'A number of'—this does allow a plural verb, but 'have risen' is incorrect in the context of species count increasing because 'a number of species have risen' would be semantically odd (species don't rise). Choice C preserves 'have risen.' Choice D incorrectly applies proximity agreement to 'species.'"
+}

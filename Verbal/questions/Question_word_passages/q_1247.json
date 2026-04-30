@@ -1,0 +1,16 @@
+{
+  "id": "q_1247",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Every student, teacher, and administrator in the district are expected to complete the new data privacy training module by the end of the month. Completion records will be submitted to the district's compliance office.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Every student, teacher, and administrator in the district is expected to complete the new data privacy training module by the end of the month.",
+    "B": "Every student, teacher, and administrator in the district were expected to complete the new data privacy training module.",
+    "C": "Every student, teacher, and administrators in the district are expected to complete the new data privacy training module.",
+    "D": "No change; 'are expected' correctly agrees with the compound subject 'student, teacher, and administrator'"
+  },
+  "correct_answer": "A",
+  "explanation": "When 'every' or 'each' modifies a series of nouns connected by 'and,' the subject is treated as singular and takes a singular verb. The intended meaning is that every individual—whether student, teacher, or administrator—is individually expected to complete the training. The singular verb 'is expected' is correct. Choice A uses 'is expected.' Choice B uses 'were expected,' which is past tense plural—wrong in both number and tense. Choice C changes 'administrator' to 'administrators,' making the noun inconsistently plural while keeping the plural verb. Choice D incorrectly treats the 'every + compound' construction as a standard plural compound subject."
+}

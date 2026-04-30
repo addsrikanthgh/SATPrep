@@ -1,0 +1,16 @@
+{
+  "id": "q_1186",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The editorial board just approved two of the twelve submitted manuscripts for publication in the spring issue. The remaining ten manuscripts were returned to their authors with detailed revision suggestions.",
+  "question": "The word 'just' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The editorial board approved just two of the twelve submitted manuscripts for publication in the spring issue.",
+    "B": "Just the editorial board approved two of the twelve submitted manuscripts for publication.",
+    "C": "The editorial board approved two of just the twelve submitted manuscripts for publication.",
+    "D": "No change; 'just approved' is a common idiomatic phrase indicating that only the approval occurred"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that only two (out of twelve) manuscripts were approved—'just' should modify 'two.' As written, 'just approved' means the approval happened recently or barely occurred, not that only two manuscripts received it. The second sentence confirms the intended meaning: ten were returned, implying only two were accepted. Choice A places 'just' before 'two,' clarifying that the number was limited to two. Choice B places 'just' before 'the editorial board,' implying only the board (not some other body) approved them. Choice C places 'just' before 'the twelve,' limiting which manuscripts are referred to. Choice D incorrectly defends 'just approved' as idiomatic."
+}

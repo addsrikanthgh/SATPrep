@@ -1,0 +1,16 @@
+{
+  "id": "q_1232",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To ensure accurate calibration of the spectrometer, the reference standards must be prepared fresh by the laboratory analyst and measured within four hours of preparation. Standards that have exceeded the four-hour window must be discarded and remade.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "To ensure accurate calibration of the spectrometer, the laboratory analyst must prepare fresh reference standards and measure them within four hours of preparation.",
+    "B": "The reference standards, to ensure accurate calibration of the spectrometer, must be prepared fresh by the analyst and measured within four hours.",
+    "C": "Ensuring accurate calibration requires the reference standards to be prepared fresh and measured by the laboratory analyst within four hours.",
+    "D": "No change; 'to ensure' is a purpose clause that specifies why the standards must be prepared, not a dangling modifier"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To ensure accurate calibration of the spectrometer' implies an agent who wants to ensure calibration. As written, the subject is 'the reference standards,' which cannot ensure calibration. Choice A restructures with 'the laboratory analyst,' the logical agent, as the subject. Choice B places the infinitive phrase mid-sentence as a parenthetical but keeps 'The reference standards' as the subject, which cannot ensure calibration. Choice C eliminates the infinitive phrase and restructures, losing the analyst as the subject of the main clause. Choice D incorrectly accepts the phrase as a purpose clause immune to dangling modifier rules."
+}

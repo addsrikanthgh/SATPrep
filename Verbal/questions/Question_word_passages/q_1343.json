@@ -1,0 +1,16 @@
+{
+  "id": "q_1343",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The new transit authority's strategic plan calls for expanding the light rail network, upgrading aging infrastructure, and improving accessibility for riders with disabilities, however, funding for all three initiatives has not yet been secured. The mayor has pledged to make transit a budget priority.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The new transit authority's strategic plan calls for expanding the light rail network, upgrading aging infrastructure, and improving accessibility for riders with disabilities; however, funding for all three initiatives has not yet been secured.",
+    "B": "The new transit authority's strategic plan calls for expanding the light rail network, upgrading aging infrastructure, and improving accessibility for riders with disabilities, however funding for all three initiatives has not been secured.",
+    "C": "The new transit authority's strategic plan calls for expanding the light rail network, upgrading infrastructure, and improving accessibility for riders with disabilities—however, funding for all three initiatives has not yet been secured.",
+    "D": "No change; 'however' may be preceded by a comma when it introduces a contrast."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence uses 'however' as a conjunctive adverb to connect two independent clauses. When 'however' is used this way, it must be preceded by a semicolon (and typically followed by a comma), not a standalone comma. The original construction 'disabilities, however, funding...' is a comma splice—'however' is not a coordinating conjunction and cannot join two independent clauses with just a comma. Choice A uses a semicolon before 'however.' Choice B removes the comma after 'however,' making the construction slightly worse. Choice C uses a dash before 'however,' which is a less conventional punctuation choice and slightly changes the tone. Choice D incorrectly claims a comma before 'however' is sufficient."
+}

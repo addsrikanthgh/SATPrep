@@ -1,0 +1,16 @@
+{
+  "id": "q_1067",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The ethics committee published its preliminary findings in a confidential report distributed to senior leadership. Several weeks later, however, they reversed their earlier conclusions after reviewing additional testimony from key witnesses.",
+  "question": "Which choice best corrects the inconsistent pronoun usage in the second sentence?",
+  "choices": {
+    "A": "it reversed its earlier conclusions after reviewing additional testimony from key witnesses",
+    "B": "they reversed its earlier conclusions after reviewing additional testimony from key witnesses",
+    "C": "it reversed their earlier conclusions after reviewing additional testimony from key witnesses",
+    "D": "No change; 'they' and 'their' are acceptable when referring back to a group that was previously treated as singular"
+  },
+  "correct_answer": "A",
+  "explanation": "The ethics committee was correctly treated as a singular noun in the first sentence ('its preliminary findings'). The second sentence inconsistently shifts to 'they reversed their,' treating the same noun as plural. Consistent pronoun reference requires maintaining the singular convention established in the first sentence. Choice A corrects both pronouns: 'it reversed its.' Choice B corrects 'their' to 'its' but retains the inconsistent plural 'they.' Choice C corrects 'they' to 'it' but retains the inconsistent plural 'their.' Choice D is incorrect; once a collective noun has been established as singular (via 'its'), switching to plural pronouns in the same passage creates ambiguity and violates the principle of consistent pronoun reference."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1019",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The placebo effect demonstrates that patients can experience genuine physiological improvements from inert treatments simply because they believe the treatment will work. *In clinical trials, placebo groups often show significant symptom improvement, this complicates researchers' ability to isolate the specific effects of an experimental drug.* Double-blind protocols, in which neither patients nor clinicians know who receives the active treatment, are the standard method for controlling this effect.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "In clinical trials, placebo groups often show significant symptom improvement this complicates researchers' ability to isolate the specific effects of an experimental drug.",
+    "B": "In clinical trials, placebo groups often show significant symptom improvement; this complicates researchers' ability to isolate the specific effects of an experimental drug.",
+    "C": "In clinical trials, placebo groups often show significant symptom improvement, this complicates researchers' ability to isolate the specific effects of an experimental drug.",
+    "D": "In clinical trials, placebo groups often showing significant symptom improvement, this complicates researchers' ability to isolate the specific effects of an experimental drug."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice B inserts a semicolon to correctly separate the two independent clauses. Choice A removes the comma without substituting correct punctuation, creating a fused sentence. Choice C reproduces the original comma splice. Choice D changes 'show' to 'showing,' converting the finite verb to a participle and eliminating the main predicate of the first clause, which creates a sentence fragment."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1160",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The supervisor asked the employee to submit the expense reports that were overdue immediately. The employee replied that the delays had been caused by an error in the new accounting software.",
+  "question": "The word 'immediately' in the first sentence creates ambiguity. Which choice most clearly conveys that the submission should be immediate?",
+  "choices": {
+    "A": "The supervisor immediately asked the employee to submit the expense reports that were overdue.",
+    "B": "The supervisor asked the employee to immediately submit the expense reports that were overdue.",
+    "C": "The supervisor asked the employee to submit the immediately overdue expense reports.",
+    "D": "No change; 'immediately' at the end of the sentence clearly modifies 'submit' because it refers to the timing of the action"
+  },
+  "correct_answer": "B",
+  "explanation": "As written, 'immediately' follows 'overdue' and could modify either 'overdue' (reports that were immediately overdue) or 'submit' (submit immediately). The intended meaning is that the submission should happen right away. Choice B places 'immediately' directly before 'submit,' unambiguously modifying the act of submitting. Choice A places 'immediately' before 'asked,' implying the supervisor asked right away rather than that submission should be immediate. Choice C places 'immediately' before 'overdue,' implying the reports became overdue immediately. Choice D incorrectly accepts end-of-sentence position as unambiguous."
+}

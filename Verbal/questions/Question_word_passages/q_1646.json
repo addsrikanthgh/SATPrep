@@ -1,0 +1,16 @@
+{
+  "id": "q_1646",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "hard",
+  "passage": "Several of the paintings in the museum's collection were acquired under disputed circumstances ______ some were purchased from dealers whose provenance documentation later proved to be falsified, others were donated by collectors who may have obtained them during wartime confiscations.",
+  "question": "Which choice completes the text with the most appropriate punctuation?",
+  "choices": {
+    "A": "circumstances,",
+    "B": "circumstances.",
+    "C": "circumstances;",
+    "D": "circumstances:"
+  },
+  "correct_answer": "D",
+  "explanation": "A colon is the correct choice. The opening clause ('Several of the paintings...were acquired under disputed circumstances') is a complete independent clause that introduces what follows as an elaboration or explanation—specifically, the two examples that illustrate what 'disputed circumstances' means. A colon signals 'here is the explanation or evidence for what I just said.' Choice A (comma) is a comma splice: it joins two independent clauses ('some were purchased...' and 'others were donated...') to the main clause with only a comma, which is incorrect. Choice C (semicolon) joins independent clauses of equal weight; while 'some were purchased...' could be an independent clause, the colon better indicates that what follows is explanation rather than an equally weighted contrasting statement. Choice B (period) would work only if the next sentence were truly separate—here, the examples directly explain 'disputed circumstances' and belong together with the opening clause."
+}

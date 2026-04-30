@@ -1,0 +1,16 @@
+{
+  "id": "q_1592",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The discovery of the structure of DNA by James Watson and Francis Crick in 1953 is among the most celebrated moments in twentieth-century science. The familiar account names Watson and Crick as the discoverers, with their paper in Nature on April 25, 1953, describing the double-helix structure. Yet historians of science have extensively documented the crucial contributions of Rosalind Franklin, whose X-ray crystallography images—particularly Photo 51—provided key evidence for the helical structure. Franklin's data was shared with Watson without her knowledge or consent, through an intermediary at King's College. Watson and Crick's Nobel Prize was awarded in 1962; Franklin had died in 1958 and Nobel Prizes are not awarded posthumously. Historian Londa Schiebinger has argued that Franklin's case illustrates a broader pattern in which women scientists' contributions have been systematically minimized or appropriated by male colleagues, often under conditions that would today be considered serious ethical violations.",
+  "question": "A student argues that the conventional account of the DNA discovery obscures an ethical violation. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"Franklin's data was shared with Watson without her knowledge or consent, through an intermediary at King's College.\"",
+    "B": "\"Watson and Crick's Nobel Prize was awarded in 1962; Franklin had died in 1958 and Nobel Prizes are not awarded posthumously.\"",
+    "C": "\"Franklin's case illustrates a broader pattern in which women scientists' contributions have been systematically minimized or appropriated by male colleagues.\"",
+    "D": "\"Photo 51...provided key evidence for the helical structure.\""
+  },
+  "correct_answer": "A",
+  "explanation": "The student's claim is that an ethical violation is obscured by the conventional account. An 'ethical violation' requires a specific act that violates ethical norms. Choice A identifies this precisely: Franklin's data was shared with Watson 'without her knowledge or consent'—a research ethics violation involving the unauthorized use of another scientist's unpublished data. The passage also confirms this framing with the phrase 'would today be considered serious ethical violations.' Choice B describes Franklin's inability to receive the Nobel Prize due to her death—this is about recognition rather than an ethical violation. Choice C makes a broader sociological argument about patterns of minimization, which is the general context but not the specific ethical violation. Choice D notes the scientific significance of Photo 51 but doesn't address ethical conduct."
+}

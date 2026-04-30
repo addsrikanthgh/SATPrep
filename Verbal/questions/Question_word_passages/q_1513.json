@@ -1,0 +1,16 @@
+{
+  "id": "q_1513",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The debate over whether democratic governments should regulate social media platforms centers on two values that are difficult to reconcile. On one side, proponents of regulation argue that unchecked platforms allow the spread of misinformation, amplify extremist content, and undermine the informed public discourse that democracy requires. On the other side, critics warn that government authority to regulate speech—even online speech—creates a censorship risk that is ultimately more dangerous to democracy than the harms it is meant to address. The most constructive proposals to emerge from this debate tend to focus not on restricting content directly but on requiring platforms to disclose their algorithmic amplification mechanisms and submit to independent audits.",
+  "question": "What is the primary function of the fourth sentence ('The most constructive proposals...') in the passage?",
+  "choices": {
+    "A": "To endorse the anti-regulation position presented in the third sentence",
+    "B": "To describe a potential approach that attempts to address the tension between the two positions outlined in the second and third sentences",
+    "C": "To argue that misinformation on social media is not a serious problem",
+    "D": "To conclude that government regulation of social media is necessary and inevitable"
+  },
+  "correct_answer": "B",
+  "explanation": "The second and third sentences present two opposing sides of a difficult debate. The fourth sentence introduces a third path—proposals that focus not on restricting content (which triggers the censorship concern of the third sentence) but on requiring transparency about algorithmic amplification. This approach attempts to address the misinformation concern of the second sentence without triggering the censorship concern of the third. The fourth sentence thus moves beyond the binary outlined earlier. Choice A is incorrect—the fourth sentence does not endorse the anti-regulation position; it proposes a different kind of regulation. Choice C is incorrect—the fourth sentence does not minimize the misinformation problem. Choice D is incorrect—the fourth sentence describes transparency-based proposals, not a general endorsement of content regulation."
+}

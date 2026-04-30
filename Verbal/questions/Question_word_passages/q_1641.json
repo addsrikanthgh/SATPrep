@@ -1,0 +1,16 @@
+{
+  "id": "q_1641",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The traditional peer review system, in which submitted research papers are evaluated by anonymous experts before publication, is the cornerstone of scientific quality control. By ensuring that independent experts assess the methodology, logic, and significance of a study before it reaches the public, peer review filters out flawed research and maintains the credibility of the scientific record. Despite its imperfections, no better alternative has emerged.\n\nText 2: The problems with traditional peer review are substantial enough to warrant serious reform. Reviewers are unpaid volunteers with limited time; review quality varies enormously and is difficult to assess. The system is slow, adding months or years to publication timelines. And blinding is imperfect: reviewers can often identify authors by writing style or citations, introducing bias. Open peer review—in which reviewer identities and comments are published alongside papers—has shown promise in increasing accountability and review quality.",
+  "question": "Based on the texts, how would the author of Text 1 most likely respond to Text 2's argument for open peer review?",
+  "choices": {
+    "A": "By arguing that the problems Text 2 identifies with traditional peer review are more serious than Text 1 has acknowledged",
+    "B": "By agreeing that open peer review should replace the traditional system immediately",
+    "C": "By acknowledging that traditional peer review has flaws but contending that it remains preferable unless open peer review can be shown to be a better alternative",
+    "D": "By disputing that reviewers can ever identify authors under the current system"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 explicitly acknowledges that peer review has 'imperfections' but argues that 'no better alternative has emerged.' The author of Text 1 would therefore respond to Text 2's open peer review proposal by acknowledging the problems with traditional peer review (as Text 1 already does implicitly) but requiring evidence that open peer review is genuinely better—not just different. Choice C accurately captures this: acknowledge the flaws, but maintain that traditional peer review remains preferable absent proof of a superior alternative. Choice A has the Text 1 author conceding that the problems are more serious than acknowledged—this goes against Text 1's essentially favorable stance toward the current system. Choice B has the Text 1 author agreeing to replace the system, directly contradicting Text 1's position. Choice D disputes the blinding problem, but Text 1 doesn't address blinding specifically; this would be a specific rebuttal not supported by Text 1's argument."
+}

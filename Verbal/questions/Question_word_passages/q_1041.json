@@ -1,0 +1,16 @@
+{
+  "id": "q_1041",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Harlem Renaissance produced writers, painters, and musicians whose contributions reshaped American cultural identity. Langston Hughes and Zora Neale Hurston, in particular, drew on the rhythms of everyday Black speech and folklore, weaving it into literary works of lasting significance. Their poetry and prose gave voice to experiences that had long been ignored by mainstream publishing houses.",
+  "question": "Which choice best corrects the pronoun error in the passage?",
+  "choices": {
+    "A": "weaving them into literary works of lasting significance",
+    "B": "weaving this into literary works of lasting significance",
+    "C": "weaving each into literary works of lasting significance",
+    "D": "weaving those elements into literary works of lasting significance"
+  },
+  "correct_answer": "A",
+  "explanation": "The pronoun 'it' is singular, but its intended antecedents are the plural noun phrase 'the rhythms of everyday Black speech and folklore'—a compound construction that functions as a plural referent. The plural pronoun 'them' (Choice A) correctly agrees with this plural antecedent. Choice B replaces 'it' with 'this,' which is still singular and does not resolve the agreement error. Choice C uses 'each,' which is distributive and singular, introducing a new agreement problem. Choice D inserts a noun phrase ('those elements') that technically avoids the error but adds a word not present in the original and is unnecessarily wordy compared to the pronoun correction required."
+}

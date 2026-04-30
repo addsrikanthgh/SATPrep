@@ -1,0 +1,16 @@
+{
+  "id": "q_1588",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The concept of 'social capital,' popularized by political scientist Robert Putnam, refers to the networks of trust, reciprocity, and civic engagement that bind communities together. Putnam's influential 2000 book Bowling Alone documented a significant decline in American civic life over the previous three decades, marked by decreasing participation in formal organizations such as bowling leagues, PTAs, and civic clubs. Putnam attributed this decline primarily to generational change, arguing that the long 'civic generation' that came of age during World War II was being replaced by generations with weaker civic habits. Television, he suggested, was a secondary cause, as it privatized leisure time. Critics noted that Putnam's data understated the growth of new forms of association, including support groups, online communities, and informal social networks. However, subsequent research has suggested that online social networks differ qualitatively from in-person networks in their capacity to generate the deep trust and reciprocity that Putnam associated with strong social capital.",
+  "question": "A student argues that critics of Putnam's thesis may have overstated the significance of new forms of association as replacements for traditional civic participation. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"Putnam's influential 2000 book Bowling Alone documented a significant decline in American civic life over the previous three decades.\"",
+    "B": "\"Critics noted that Putnam's data understated the growth of new forms of association, including support groups, online communities, and informal social networks.\"",
+    "C": "\"[S]ubsequent research has suggested that online social networks differ qualitatively from in-person networks in their capacity to generate the deep trust and reciprocity that Putnam associated with strong social capital.\"",
+    "D": "\"Television, he suggested, was a secondary cause, as it privatized leisure time.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument is that critics may have overstated online and new associations as replacements for traditional civic participation. To support this, one needs evidence that these new forms are qualitatively inadequate substitutes. Choice C provides exactly this: 'subsequent research has suggested that online social networks differ qualitatively from in-person networks in their capacity to generate the deep trust and reciprocity' that Putnam considered essential. If online networks are qualitatively inferior in generating social capital, then critics who pointed to their growth as a counter to Putnam's decline narrative may have overstated their significance as replacements. Choice A describes Putnam's original finding without addressing the critics or new forms of association. Choice B describes the critics' objection—it provides the position the student is challenging, not support for challenging it. Choice D is about television as a cause of decline, unrelated to the critics' argument."
+}

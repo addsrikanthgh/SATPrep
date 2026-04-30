@@ -1,0 +1,16 @@
+{
+  "id": "q_1020",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Cryptocurrency advocates argue that decentralized digital currencies can provide financial services to individuals excluded from traditional banking systems. *Skeptics counter that extreme price volatility makes cryptocurrencies impractical as a store of value or medium of exchange many economists point to the speculative bubble dynamics that have repeatedly characterized cryptocurrency markets.* The debate reflects broader disagreements about whether blockchain technology represents a genuine financial innovation or a speculative asset class.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Skeptics counter that extreme price volatility makes cryptocurrencies impractical as a store of value or medium of exchange, many economists point to the speculative bubble dynamics that have repeatedly characterized cryptocurrency markets.",
+    "B": "Skeptics counter that extreme price volatility makes cryptocurrencies impractical as a store of value or medium of exchange; many economists point to the speculative bubble dynamics that have repeatedly characterized cryptocurrency markets.",
+    "C": "Skeptics counter that extreme price volatility makes cryptocurrencies impractical as a store of value or medium of exchange many economists point to the speculative bubble dynamics that have repeatedly characterized cryptocurrency markets.",
+    "D": "Although skeptics counter that extreme price volatility makes cryptocurrencies impractical as a store of value or medium of exchange, many economists point to the speculative bubble dynamics that have repeatedly characterized cryptocurrency markets."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a fused sentence—two independent clauses joined without any punctuation. Choice B inserts a semicolon, correctly separating the two independent clauses; the semicolon reflects that economists' evidence supports the skeptics' position, accurately conveying their relationship. Choice A creates a comma splice. Choice C reproduces the original fused sentence. Choice D introduces 'Although,' which converts the first clause into a concessive dependent clause implying that the economists' evidence somehow contradicts the skeptics' claim—a logical relationship the passage does not establish and that inverts the intended meaning."
+}

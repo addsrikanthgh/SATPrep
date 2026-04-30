@@ -1,0 +1,16 @@
+{
+  "id": "q_1377",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Before publishing the editorial, the claims about the pharmaceutical company's clinical trial data were carefully verified by the investigative team over a period of three months using independent expert testimony and original source documents. The article was ultimately retracted after additional errors were found.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "Before publishing the editorial, the investigative team carefully verified the claims about the pharmaceutical company's clinical trial data over a period of three months using independent expert testimony and original source documents.",
+    "B": "Before the editorial was published, the claims about the pharmaceutical company's clinical trial data were carefully verified by the investigative team over a period of three months.",
+    "C": "The claims about the pharmaceutical company's clinical trial data were carefully verified by the investigative team before publishing the editorial using independent expert testimony.",
+    "D": "No change; the introductory phrase correctly describes the verification process that preceded publication."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence contains a dangling modifier. The introductory phrase 'Before publishing the editorial' implies that someone is about to publish the editorial, but the grammatical subject of the main clause is 'the claims'—an inanimate noun that cannot publish anything. The investigative team is the entity doing the publishing, so they must be the subject of the main clause. Choice A correctly makes 'the investigative team' the subject. Choice B converts the introductory clause into a passive subordinate clause ('Before the editorial was published'), which avoids the dangling modifier but makes a more substantial change. Choice C moves the phrase to the middle of the sentence, which is also awkward. Choice D incorrectly defends the dangling modifier."
+}

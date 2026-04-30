@@ -1,0 +1,16 @@
+{
+  "id": "q_1212",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The committee members who had reviewed the budget proposals were asked to submit their evaluations to the chair without exception. All evaluations were to be compiled into a summary report before the full board meeting.",
+  "question": "The phrase 'without exception' in the first sentence creates ambiguity. Which choice most clearly conveys that all committee members (no exceptions) were asked to submit?",
+  "choices": {
+    "A": "Without exception, the committee members who had reviewed the budget proposals were asked to submit their evaluations to the chair.",
+    "B": "The committee members who had reviewed the budget proposals were, without exception, asked to submit their evaluations to the chair.",
+    "C": "The committee members who had reviewed the budget proposals were asked to submit without exception their evaluations to the chair.",
+    "D": "No change; 'without exception' at the end of the sentence clearly modifies the scope of who was asked to submit"
+  },
+  "correct_answer": "B",
+  "explanation": "As written, 'without exception' appears after 'to the chair' and could modify the manner of submission ('submit to the chair without exception'—meaning submissions must include all content) rather than the universality of who was asked. The intended meaning is that every committee member—without exception—was asked. Choice B places 'without exception' as a parenthetical immediately after 'were,' modifying the universal application of the request. Choice A moves 'without exception' to the front, which works but adds a slightly different rhetorical emphasis. Choice C places 'without exception' between 'submit' and 'their evaluations,' creating an awkward and ambiguous split. Choice D incorrectly accepts trailing placement."
+}

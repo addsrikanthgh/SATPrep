@@ -1,0 +1,16 @@
+{
+  "id": "q_1562",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A wildlife biologist tracked the average territory size (in square kilometers) of a predatory bird species and compared it to prey density (small mammals per km²) across five habitats.\n\n| Habitat | Prey Density (mammals/km²) | Avg. Territory Size (km²) |\n|---|---|---|\n| Wetland | 42 | 8 |\n| Grassland | 31 | 14 |\n| Scrubland | 24 | 21 |\n| Forest Edge | 18 | 29 |\n| Open Desert | 11 | 38 |\n\nThe biologist hypothesized that predatory birds establish larger territories in areas with lower prey density, as they must range more widely to find adequate food.",
+  "question": "Which statement most directly supports the biologist's hypothesis?",
+  "choices": {
+    "A": "The Open Desert habitat has the largest average territory at 38 km².",
+    "B": "The Wetland habitat has the highest prey density at 42 mammals/km².",
+    "C": "As prey density decreases from 42 (Wetland) to 11 (Open Desert), average territory size increases from 8 to 38 km²—a consistent inverse relationship across all five habitats.",
+    "D": "Forest Edge and Open Desert habitats have larger territories than Grassland."
+  },
+  "correct_answer": "C",
+  "explanation": "The biologist's hypothesis posits an inverse relationship: lower prey density corresponds to larger territory size. The best evidence for this relationship shows it holding consistently across the data, not just at one point. Choice C identifies the full pattern across all five habitats: as prey density falls from 42 to 11, territory size rises from 8 to 38—a consistent inverse relationship with no exceptions. This directly supports the hypothesis. Choice A notes only the extreme for one variable. Choice B notes only the extreme for the other variable. Choice D makes a partial comparison (Forest Edge and Open Desert vs. Grassland only) without establishing the full inverse pattern or connecting both variables."
+}

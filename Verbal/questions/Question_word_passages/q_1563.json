@@ -1,0 +1,16 @@
+{
+  "id": "q_1563",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A public health analyst examined smoking rates (%) and the annual incidence of lung cancer (cases per 100,000) in six countries.\n\n| Country | Smoking Rate (%) | Lung Cancer Incidence (per 100,000) |\n|---|---|---|\n| Country 1 | 11 | 22 |\n| Country 2 | 19 | 38 |\n| Country 3 | 28 | 51 |\n| Country 4 | 34 | 64 |\n| Country 5 | 41 | 79 |\n| Country 6 | 23 | 47 |\n\nThe analyst argued that the data strongly supports a direct relationship between national smoking rates and lung cancer incidence.",
+  "question": "A statistician reviewing the data noted that Country 6 appears slightly out of rank order relative to Countries 3 and 2. Which response most accurately describes the significance of this observation?",
+  "choices": {
+    "A": "Country 6's slight deviation (23% smoking, 47 incidence—between Country 2's 38 and Country 3's 51) is a minor inconsistency in an otherwise strongly ranked dataset. Five of the six countries follow a perfectly consistent rank order, and the deviation is small enough not to undermine the broader claim of a direct relationship.",
+    "B": "Country 6's deviation completely invalidates the analyst's claim, as any deviation from perfect rank order disproves a direct relationship.",
+    "C": "Country 6's data confirms the relationship because 47 is between 38 and 64.",
+    "D": "The statistician's observation is irrelevant because the analyst only claimed a direct relationship, not a perfect linear one."
+  },
+  "correct_answer": "A",
+  "explanation": "Country 6 has a 23% smoking rate and 47 cases per 100,000. In perfect rank order, it should fall between Country 2 (19%, 38) and Country 3 (28%, 51). While Country 6's incidence of 47 is close to but slightly higher than Country 3's 51 would predict for that rank, the deviation is minor—both values are in broadly the right range. Choice A correctly characterizes this: five of six countries follow consistent rank order, and the small deviation in Country 6 does not undermine the broader pattern of a direct relationship. Choice B overstates the significance of a minor anomaly. Choice C is vague and doesn't address whether Country 6 fits its expected position in the ranking. Choice D incorrectly dismisses the statistical observation—even a claimed non-linear direct relationship would still need to address rank ordering."
+}

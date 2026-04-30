@@ -1,0 +1,16 @@
+{
+  "id": "q_1514",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The invention of the steam engine in the eighteenth century is often taught as a single breakthrough event associated with James Watt. In reality, the steam engine was developed iteratively over nearly a century, with key contributions from Thomas Savery, Thomas Newcomen, and others before Watt's crucial improvements in the 1760s and 1770s. Watt himself acknowledged that his most important innovation—the separate condenser—was inspired by his work repairing a model of Newcomen's engine. The history of the steam engine is therefore less a story of solitary genius than of incremental improvement and collaborative knowledge-building.",
+  "question": "What is the primary function of the third sentence ('Watt himself acknowledged...') in the passage?",
+  "choices": {
+    "A": "To prove that Watt stole Newcomen's invention without credit",
+    "B": "To provide a specific example from Watt's own account that reinforces the collaborative and iterative picture of invention described in the second sentence",
+    "C": "To explain the technical mechanism by which the separate condenser improved engine efficiency",
+    "D": "To argue that Newcomen deserves more credit than Watt for inventing the steam engine"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence argues that the steam engine was developed iteratively by multiple contributors. The third sentence strengthens this argument with a specific example: Watt himself acknowledged that his key innovation came from working on a model of Newcomen's engine. By citing Watt's own acknowledgment, the passage reinforces the collaborative, iterative narrative—even the celebrated 'genius' credited the work of predecessors. Choice A is incorrect—acknowledging inspiration is not the same as theft, and the passage makes no such accusation. Choice C is incorrect—the third sentence mentions the separate condenser but does not explain how it works. Choice D is incorrect—the sentence supports the iterative narrative without making a comparative claim about who deserves more credit."
+}

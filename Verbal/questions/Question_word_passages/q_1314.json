@@ -1,0 +1,16 @@
+{
+  "id": "q_1314",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The central issue in ongoing negotiations between labor unions and the consortium of hospital networks—specifically, how overtime pay and minimum nurse-to-patient ratios are to be calculated—remain unresolved after six months of talks. A federal mediator has been called in to assist.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The central issue in ongoing negotiations between labor unions and the consortium of hospital networks—specifically, how overtime pay and minimum nurse-to-patient ratios are to be calculated—remains unresolved after six months of talks.",
+    "B": "The central issue in ongoing negotiations between labor unions and the consortium of hospital networks—specifically, how overtime pay and minimum nurse-to-patient ratios are to be calculated—remain unresolved.",
+    "C": "The central issues in ongoing negotiations between labor unions and the consortium of hospital networks remain unresolved after six months of talks.",
+    "D": "No change; 'remain' correctly agrees with 'overtime pay and minimum nurse-to-patient ratios,' the plural nouns in the dash-enclosed elaboration"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The central issue,' a singular noun. The prepositional phrase 'in ongoing negotiations between labor unions and the consortium of hospital networks' and the dash-enclosed elaboration 'specifically, how overtime pay and minimum nurse-to-patient ratios are to be calculated' are modifiers that do not alter the subject's number. The singular verb 'remains unresolved' is required. Choice A uses 'remains.' Choice B preserves 'remain.' Choice C pluralizes 'issue' to 'issues' and uses 'remain'—changes the meaning. Choice D incorrectly argues the verb agrees with nouns inside the dash-enclosed appositive."
+}

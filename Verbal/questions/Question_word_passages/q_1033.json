@@ -1,0 +1,16 @@
+{
+  "id": "q_1033",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An agricultural researcher compared corn yields (bushels per acre) across four fertilization regimens over three growing seasons. Three-season averages were: no fertilizer (control), 81.1; conventional synthetic fertilizer, 133.0; organic compost, 123.5; integrated (organic plus synthetic), 139.2. Season-by-season yields for the two key regimens were: organic compost, 118.4 (Season 1), 124.9 (Season 2), 127.2 (Season 3); conventional synthetic, 131.7 (Season 1), 134.2 (Season 2), 133.1 (Season 3). The researcher argued that organic compost produces yields meaningfully below those of synthetic fertilizer, but that the yield gap narrows across seasons as organic matter builds up in the soil.",
+  "question": "Which choice most effectively uses data from the study to support the researcher's argument?",
+  "choices": {
+    "A": "Organic compost produced a three-season average yield of 123.5 bushels per acre compared to 133.0 for conventional synthetic fertilizer—a gap of 9.5 bushels per acre.",
+    "B": "Organic compost yields were lower than synthetic yields in every season, but the gap narrowed from 13.3 bushels per acre in Season 1 (118.4 vs. 131.7) to 9.3 in Season 2 (124.9 vs. 134.2) and to 5.9 in Season 3 (127.2 vs. 133.1), demonstrating that both the yield gap exists and that it closes over time.",
+    "C": "The integrated fertilizer regimen produced the highest average yield of 139.2 bushels per acre, outperforming synthetic fertilizer alone by 6.2 bushels per acre over the three seasons.",
+    "D": "Organic compost yields increased each season—from 118.4 to 124.9 to 127.2 bushels per acre—demonstrating consistent improvement across the three growing seasons."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher's argument has two parts: (1) organic yields are meaningfully below synthetic, and (2) the yield gap narrows over time. Choice B supports both by comparing organic and synthetic yields season by season and showing that the gap decreases: 13.3 bushels (Season 1) → 9.3 bushels (Season 2) → 5.9 bushels (Season 3). Choice A compares three-season averages, confirming a gap exists but providing no evidence that the gap narrows. Choice C discusses the integrated regimen, which is irrelevant to the researcher's argument about organic vs. synthetic. Choice D shows that organic yields improve each season, but rising organic yields do not prove the gap with synthetic is narrowing—synthetic yields might also rise, maintaining or widening the gap."
+}

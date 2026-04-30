@@ -1,0 +1,16 @@
+{
+  "id": "q_1519",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The transition from hunter-gatherer societies to settled agricultural communities—known as the Neolithic Revolution—is often portrayed as a straightforward improvement in human welfare. Archaeological and bioarchaeological evidence complicates this picture: skeletal remains from early agricultural communities show higher rates of nutritional deficiency, infectious disease, and physical trauma than those of their hunter-gatherer predecessors. The paradox may be explained by the fact that agriculture produced caloric abundance but dietary narrowing, population density that enabled epidemic disease, and labor demands that exceeded those of foraging. What the Neolithic Revolution provided was not immediately better health but greater population growth, which ultimately enabled the complex societies that followed.",
+  "question": "What is the primary function of the third sentence ('The paradox may be explained...') in the passage?",
+  "choices": {
+    "A": "To restate the conventional view of the Neolithic Revolution described in the first sentence",
+    "B": "To offer a causal explanation for the counterintuitive finding described in the second sentence",
+    "C": "To argue that agricultural societies were healthier than hunter-gatherer societies",
+    "D": "To define the term 'Neolithic Revolution'"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence presents a paradox: despite the conventional view that agriculture improved human welfare, skeletal evidence shows worse health outcomes for early farmers than for hunter-gatherers. The third sentence addresses this paradox by explaining why—agriculture brought caloric abundance but narrowed diets, increased population density enabling epidemic disease, and imposed greater labor demands. 'The paradox may be explained by' at the sentence's start explicitly signals a causal-explanatory function. Choice A is incorrect—the third sentence extends and explains the counterintuitive finding, not the conventional view. Choice C is incorrect—the third sentence explains why farmers were less healthy, not that they were healthier. Choice D is incorrect—'Neolithic Revolution' is named and defined in the first sentence."
+}

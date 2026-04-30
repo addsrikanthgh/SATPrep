@@ -1,0 +1,16 @@
+{
+  "id": "q_1317",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The museum's permanent collection, which spans more than two thousand years of human artistic achievement, are displayed across twelve galleries arranged by region and historical period. A new interactive wing opened this spring to the public.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The museum's permanent collection, which spans more than two thousand years of human artistic achievement, is displayed across twelve galleries arranged by region and historical period.",
+    "B": "The museum's permanent collection, which spans more than two thousand years of human artistic achievement, are displayed in twelve galleries.",
+    "C": "The museum's permanent collections, which span more than two thousand years of human artistic achievement, is displayed across twelve galleries.",
+    "D": "No change; 'are displayed' correctly agrees with 'twelve galleries,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The museum's permanent collection,' a singular noun. The relative clause 'which spans more than two thousand years of human artistic achievement' correctly uses the singular 'spans' to agree with 'collection.' The main verb must also be singular: 'is displayed.' Choice A uses 'is displayed.' Choice B preserves 'are displayed.' Choice C pluralizes 'collection' to 'collections' and changes 'spans' to 'span,' but uses the singular 'is displayed'—internally inconsistent. Choice D incorrectly applies proximity agreement to 'twelve galleries.'"
+}

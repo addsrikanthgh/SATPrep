@@ -1,0 +1,16 @@
+{
+  "id": "q_1637",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Zoos play a vital role in wildlife conservation. Modern accredited zoos fund field conservation programs, maintain captive breeding populations of endangered species, and educate millions of visitors annually about biodiversity and the threats facing wild animals. Without zoos, several species would almost certainly be extinct today. Critics who dismiss zoos as outdated or cruel ignore the substantial conservation value they provide.\n\nText 2: Whatever good zoos do for conservation, we should not overlook the individual welfare of the animals they confine. Many zoo animals exhibit stereotypic behaviors—repetitive, seemingly purposeless movements like pacing or head-bobbing—widely recognized by animal behavior researchers as indicators of psychological distress. These behaviors are common in zoo animals and are rarely observed in wild populations. Conservation benefits at the population level do not automatically justify the costs borne by individual animals.",
+  "question": "Which of the following best describes the relationship between the two texts?",
+  "choices": {
+    "A": "Text 1 and Text 2 disagree about whether zoos contribute meaningfully to wildlife conservation.",
+    "B": "Text 1 focuses on population-level conservation benefits of zoos, while Text 2 argues that these benefits do not excuse the welfare costs imposed on individual animals.",
+    "C": "Text 2 provides evidence that contradicts the specific conservation statistics cited in Text 1.",
+    "D": "Text 1 and Text 2 agree that zoos should be abolished and replaced with wild animal sanctuaries."
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 argues on the level of species and populations: conservation funding, captive breeding, education, and preventing extinctions. Text 2 does not dispute these population-level benefits ('whatever good zoos do for conservation'), but shifts the frame to the individual animal: the stereotypic behaviors and psychological distress that individual zoo animals commonly exhibit. Text 2's final sentence makes the logical structure explicit: 'Conservation benefits at the population level do not automatically justify the costs borne by individual animals.' Choice B accurately captures this level-of-analysis distinction between the texts. Choice A is incorrect; Text 2 explicitly concedes the conservation benefits ('whatever good zoos do for conservation'). Choice C is incorrect; Text 2 doesn't cite specific statistics to contradict Text 1's figures. Choice D is incorrect; neither text calls for abolishing zoos."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1456",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The school board approved a new policy requiring all students to carry transparent backpacks, however, several parents immediately objected to the policy on privacy grounds and organized a petition demanding that the board reconsider its decision at the next public meeting.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The school board approved a new policy requiring all students to carry transparent backpacks; however, several parents immediately objected to the policy on privacy grounds and organized a petition demanding that the board reconsider its decision at the next public meeting.",
+    "B": "The school board approved a new policy requiring all students to carry transparent backpacks however, several parents immediately objected to the policy on privacy grounds and organized a petition.",
+    "C": "The school board approved a new policy requiring all students to carry transparent backpacks, however several parents immediately objected to the policy on privacy grounds and organized a petition.",
+    "D": "No change; 'however' following a comma is acceptable as a transitional word linking two clauses."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a comma splice. 'The school board approved a new policy requiring all students to carry transparent backpacks' and 'several parents immediately objected to the policy on privacy grounds and organized a petition demanding that the board reconsider its decision' are both independent clauses. 'However' is a conjunctive adverb, not a coordinating conjunction; it cannot join two independent clauses with only a comma before it. Choice A correctly places a semicolon before 'however' and a comma after it. Choice B creates a fused sentence. Choice C removes the comma after 'however' but still has only a comma before it—still a comma splice. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1151",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Having studied the migration patterns of monarch butterflies for twelve years, the data collected by Dr. Reyes revealed a significant northward shift in overwintering site selection. She attributed this change primarily to rising autumn temperatures in traditional staging areas.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Having studied the migration patterns of monarch butterflies for twelve years, Dr. Reyes found that her data revealed a significant northward shift in overwintering site selection.",
+    "B": "The data, having studied migration patterns for twelve years, revealed a significant northward shift.",
+    "C": "Dr. Reyes's twelve years of study, the data revealed a significant northward shift in overwintering site selection.",
+    "D": "No change; the participial phrase modifies 'the data,' which represents Dr. Reyes's work"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Having studied the migration patterns of monarch butterflies for twelve years' describes a person who studied. As written, the subject of the main clause is 'the data,' which cannot study. Choice A correctly places Dr. Reyes as the subject of the main clause, the logical performer of the studying. Choice B keeps 'the data' as subject and moves the participial phrase to modify it directly, which is still illogical. Choice C converts the participial phrase to an awkward noun phrase. Choice D incorrectly argues that the data can represent the studying action."
+}

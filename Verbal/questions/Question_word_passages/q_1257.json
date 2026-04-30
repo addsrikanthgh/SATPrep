@@ -1,0 +1,16 @@
+{
+  "id": "q_1257",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The economics of large-scale renewable energy deployment have shifted dramatically over the past decade as manufacturing costs for solar panels and wind turbines have plummeted. Many analysts now argue that renewables are cost-competitive with fossil fuels even without subsidies.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'have shifted' should be 'has shifted' because 'economics' is a singular discipline.",
+    "B": "Yes; 'have shifted' should be 'has shifted' because collective nouns always take singular verbs.",
+    "C": "Yes; 'have shifted' should be 'has shifted' because 'The economics of large-scale renewable energy deployment' is a noun phrase with a singular head noun.",
+    "D": "No; 'have shifted' correctly agrees with 'economics,' which takes a plural verb when referring to economic factors or conditions rather than the academic discipline."
+  },
+  "correct_answer": "D",
+  "explanation": "The word 'economics' can function as either singular (referring to the academic discipline: 'Economics is a social science') or plural (referring to the economic factors of something: 'The economics of this project are complex'). In this sentence, 'The economics of large-scale renewable energy deployment' refers to the economic conditions and factors—a plural usage. Therefore, 'have shifted' is correct. Choice A incorrectly treats 'economics' as always singular. Choice B incorrectly classifies 'economics' as a collective noun and states a false rule. Choice C incorrectly identifies 'economics' as a singular head noun in this context. Choice D correctly identifies no error."
+}

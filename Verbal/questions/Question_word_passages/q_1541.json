@@ -1,0 +1,16 @@
+{
+  "id": "q_1541",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A marine biologist studying plastic pollution in four ocean regions recorded the average concentration of microplastic particles (per cubic meter of water) at both surface and depth levels.\n\n| Ocean Region | Surface Concentration (particles/m³) | Depth Concentration (particles/m³) |\n|---|---|---|\n| North Atlantic | 520 | 180 |\n| South Pacific | 340 | 140 |\n| Indian Ocean | 290 | 210 |\n| Arctic Ocean | 180 | 310 |\n\nThe biologist stated that microplastic concentration is generally higher at the surface than at depth, with the Arctic Ocean being a notable exception.",
+  "question": "Which of the following accurately describes how the data supports or undermines the biologist's statement?",
+  "choices": {
+    "A": "The data fully supports the statement; every ocean region shows higher surface than depth concentrations.",
+    "B": "The data supports the general trend—three of the four regions have higher surface concentrations—and confirms the Arctic exception, where depth concentration (310) exceeds surface concentration (180).",
+    "C": "The data undermines the statement because the Indian Ocean shows nearly equal concentrations at surface and depth.",
+    "D": "The data supports the statement only for the North Atlantic, where the surface-to-depth difference is largest."
+  },
+  "correct_answer": "B",
+  "explanation": "The biologist's statement has two parts: (1) microplastics are generally higher at the surface than at depth, and (2) the Arctic Ocean is a notable exception. Choice B correctly captures both parts. Three of the four regions (North Atlantic, South Pacific, Indian Ocean) do show higher surface concentrations, supporting the general trend. The Arctic Ocean is the exception—its depth concentration (310) exceeds its surface concentration (180). Choice A is incorrect because it says every region shows higher surface concentrations, which is false—the Arctic shows the opposite. Choice C is incorrect—the Indian Ocean difference (290 vs. 210) is notable, not 'nearly equal,' and this does not undermine the general pattern. Choice D is incorrect because three regions, not just one, support the general trend."
+}

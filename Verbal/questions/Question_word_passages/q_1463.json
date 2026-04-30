@@ -1,0 +1,16 @@
+{
+  "id": "q_1463",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The ornithologist had spent fifteen years cataloguing migratory bird species along the Atlantic Flyway her findings challenged the long-held assumption that stopover sites south of the Mason-Dixon Line were less ecologically critical than those in the northern breeding grounds.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The ornithologist had spent fifteen years cataloguing migratory bird species along the Atlantic Flyway; her findings challenged the long-held assumption that stopover sites south of the Mason-Dixon Line were less ecologically critical than those in the northern breeding grounds.",
+    "B": "The ornithologist had spent fifteen years cataloguing migratory bird species along the Atlantic Flyway, her findings challenged the long-held assumption that stopover sites south of the Mason-Dixon Line were less ecologically critical than those in the northern breeding grounds.",
+    "C": "The ornithologist had spent fifteen years cataloguing migratory bird species along the Atlantic Flyway: her findings challenged the long-held assumption that stopover sites south of the Mason-Dixon Line were less ecologically critical.",
+    "D": "The ornithologist, having spent fifteen years cataloguing migratory bird species along the Atlantic Flyway, challenged the long-held assumption that stopover sites south of the Mason-Dixon Line were less ecologically critical than those in the northern breeding grounds."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'The ornithologist had spent fifteen years cataloguing migratory bird species along the Atlantic Flyway' and 'her findings challenged the long-held assumption...' are both complete independent clauses. Choice A correctly inserts a semicolon between them—the two clauses are causally related, making the semicolon an appropriate connector. Choice B creates a comma splice. Choice C uses a colon—the second clause is a result or implication of the fieldwork rather than a direct definition or explanation of 'Atlantic Flyway cataloguing work'; a semicolon is more precise. Choice D is a valid structural rewrite but makes a more substantial change."
+}

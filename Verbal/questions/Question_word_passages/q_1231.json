@@ -1,0 +1,16 @@
+{
+  "id": "q_1231",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Praised by critics as a landmark in documentary cinema, the film's subject—the declining fishing communities of the Outer Banks—was brought to life by director Sarah Cline with rare sensitivity and unflinching honesty. The documentary was screened at forty international festivals before its wide release.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Praised by critics as a landmark in documentary cinema, director Sarah Cline brought to life the film's subject—the declining fishing communities of the Outer Banks—with rare sensitivity and unflinching honesty.",
+    "B": "Praised by critics as a landmark in documentary cinema, the film brought the declining fishing communities of the Outer Banks to life with rare sensitivity and unflinching honesty.",
+    "C": "The film's subject, praised by critics as a landmark in documentary cinema, was the declining fishing communities of the Outer Banks.",
+    "D": "No change; 'praised' modifies the film, which is referenced through 'the film's subject'"
+  },
+  "correct_answer": "B",
+  "explanation": "The participial phrase 'Praised by critics as a landmark in documentary cinema' describes the film. As written, 'the film's subject' is the grammatical subject, implying the subject matter (fishing communities) is praised as a landmark—not quite the intended meaning. Choice B restructures with 'the film' as the subject, making the praise apply directly to the film. Choice A makes 'director Sarah Cline' the subject, implying she is praised as a landmark in cinema rather than the film itself. Choice C keeps 'The film's subject' as the subject and attaches the participial phrase to it. Choice D incorrectly argues that a possessive modifier ('the film's') can serve as the logical subject of a participial phrase."
+}

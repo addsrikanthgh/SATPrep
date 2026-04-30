@@ -1,0 +1,16 @@
+{
+  "id": "q_1005",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Machine learning systems improve their performance through exposure to training data. *Requiring thousands or even millions of labeled examples to develop reliable pattern recognition capabilities.* The quality and diversity of training data are therefore critical factors in determining a model's effectiveness.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Requiring thousands or even millions of labeled examples to develop reliable pattern recognition capabilities.",
+    "B": "These systems require thousands or even millions of labeled examples to develop reliable pattern recognition capabilities.",
+    "C": "Thousands or even millions of labeled examples required to develop reliable pattern recognition capabilities.",
+    "D": "Which requires thousands or even millions of labeled examples to develop reliable pattern recognition capabilities."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined portion is a sentence fragment—a participial phrase with no main subject or finite verb. Choice B corrects this by supplying a complete subject ('These systems') and a finite verb ('require'), forming an independent clause. Choice A reproduces the original fragment. Choice C lacks a finite verb; 'required' functions as an adjective, leaving no predicate. Choice D converts the phrase into a relative clause beginning with 'which,' which cannot stand alone as a sentence."
+}

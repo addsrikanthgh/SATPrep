@@ -1,0 +1,16 @@
+{
+  "id": "q_1532",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The aurora borealis, or northern lights, is caused by charged particles from the sun colliding with gases in Earth's upper atmosphere, producing the colorful light displays visible at high latitudes. Different gases produce different colors: oxygen at higher altitudes produces red and blue lights, while oxygen at lower altitudes produces the most common green, and nitrogen produces blue and purple hues. The intensity and frequency of auroras are linked to solar activity cycles of approximately eleven years, with more spectacular displays occurring near solar maximum. Unusually powerful geomagnetic storms can push aurora visibility as far south as the northern United States and central Europe.",
+  "question": "What is the primary function of the second sentence ('Different gases produce different colors...') in the passage?",
+  "choices": {
+    "A": "To explain the relationship between solar activity and aurora frequency",
+    "B": "To provide a more detailed explanation of the color variation in the auroral display introduced in the first sentence",
+    "C": "To describe how charged particles reach Earth from the sun",
+    "D": "To argue that auroras are more common in the Southern Hemisphere than the Northern"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence describes what causes the aurora and notes it produces 'colorful light displays.' The second sentence elaborates on this detail by explaining what determines the colors—different gases at different altitudes produce different hues. This is a specification or elaboration of the 'colorful' detail from the first sentence. Choice A is incorrect—the solar cycle connection is described in the third sentence. Choice C is incorrect—particle travel from the sun is part of the first sentence's explanation. Choice D is incorrect—the passage focuses on the aurora borealis (Northern Hemisphere); no Southern Hemisphere comparison is made."
+}

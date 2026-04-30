@@ -1,0 +1,16 @@
+{
+  "id": "q_1082",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the department chair nor the assistant professors were consulted before the administration revised the tenure review criteria. When the changes were announced, they expressed immediate and unified opposition, arguing that faculty governance had been bypassed.",
+  "question": "Which choice best describes the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "Incorrect; 'they' should be 'he or she' to agree with the singular 'department chair'",
+    "B": "Incorrect; 'they' should be 'it' because the faculty is a single institutional body",
+    "C": "Correct; the nearer antecedent in the neither/nor construction is the plural 'assistant professors,' so 'they' is correct",
+    "D": "Correct; 'they' refers to both groups taken together, which is standard for compound subjects"
+  },
+  "correct_answer": "C",
+  "explanation": "In a 'neither...nor' construction, the pronoun agrees with the nearer antecedent. The two antecedents are 'the department chair' (singular) and 'the assistant professors' (plural). Because 'the assistant professors' is the nearer antecedent—appearing immediately before the verb phrase—the plural pronoun 'they' is the correct choice. Choice A incorrectly applies agreement to the more distant singular antecedent. Choice B misidentifies the antecedent as 'the faculty,' a collective noun that does not appear in the passage. Choice D incorrectly states that 'they' refers to both groups as a compound subject; neither/nor constructions are not treated as compound subjects requiring plural agreement—they follow the nearer-antecedent rule."
+}

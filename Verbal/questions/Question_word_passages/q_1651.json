@@ -1,0 +1,16 @@
+{
+  "id": "q_1651",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "Researchers studying the effects of urban noise pollution on songbird communication found that birds in noisy urban environments sing at higher frequencies than their rural counterparts. ______ higher-frequency songs travel more effectively over the low-frequency noise produced by traffic and machinery, allowing urban birds to communicate even in acoustically challenging conditions.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "In contrast,",
+    "B": "This is because",
+    "C": "Despite this,",
+    "D": "For this reason,"
+  },
+  "correct_answer": "B",
+  "explanation": "'This is because' is correct because the second sentence provides the causal explanation for the observation stated in the first sentence. The first sentence presents a phenomenon (urban birds sing at higher frequencies); the second explains why (higher frequencies travel better over low-frequency noise). 'This is because' introduces a causal explanation. Choice D ('For this reason') signals that the second sentence is a consequence of the first, which reverses the logic—the higher frequencies are not the reason for the noise, but a response to it. Choice A ('In contrast') signals opposition or contrast, but the second sentence explains the first rather than contrasting with it. Choice C ('Despite this') signals that the second sentence continues in spite of the first, which does not fit: the birds' adaptation is consistent with, not contrary to, the conditions described."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1506",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Bamboo is one of the fastest-growing plants on Earth, with some species capable of growing up to ninety centimeters per day under ideal conditions. This remarkable growth rate makes bamboo a potentially valuable resource for sustainable construction, paper production, and carbon sequestration. Unlike trees, bamboo can be harvested every three to five years without killing the plant, since the root system remains intact and sends up new shoots. This regenerative property means bamboo can deliver repeated harvests from a single planting, unlike timber forests, which require decades to regrow after clear-cutting.",
+  "question": "What is the primary function of the third sentence ('Unlike trees, bamboo can be harvested...') in the passage?",
+  "choices": {
+    "A": "To explain a specific property of bamboo that supports the sustainability claim made in the second sentence",
+    "B": "To argue that bamboo is superior to trees in every respect",
+    "C": "To provide the scientific reason for bamboo's extraordinary growth rate",
+    "D": "To describe the carbon sequestration capacity of bamboo forests"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence makes a broad claim that bamboo's growth rate makes it potentially valuable for sustainable uses. The third sentence provides a concrete property—bamboo can be harvested repeatedly without killing the plant—that directly supports and explains the sustainability claim. The retained root system enabling repeated harvests is a key reason bamboo is more sustainable than timber trees. Choice B is incorrect—the third sentence makes no sweeping comparative claim about bamboo's overall superiority. Choice C is incorrect—the growth rate is described in the first sentence; the third sentence addresses harvest practices, not growth mechanisms. Choice D is incorrect—carbon sequestration is mentioned in the second sentence but not elaborated in the third."
+}

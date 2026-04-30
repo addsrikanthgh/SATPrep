@@ -1,0 +1,16 @@
+{
+  "id": "q_1587",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "Cognitive scientist Gary Marcus has argued that the human mind is not a perfectly designed reasoning machine but a 'kluge'—a clumsy, inelegant solution that works despite its inefficiencies. Marcus attributes this to the evolutionary history of the brain: rather than being designed from scratch, the human brain is an accumulation of layers, with newer structures built on top of ancient ones that evolved for very different purposes. The result is a system prone to systematic biases and errors. Memory, for instance, is reconstructive rather than reproductive: we do not play back stored recordings but actively rebuild memories each time we recall them, a process that introduces errors and distortions. Marcus contrasts this with the kind of memory that a computer uses, which can retrieve stored information with perfect fidelity. He argues that understanding these cognitive limitations is not cause for despair but for humility—and for designing institutions and tools that compensate for the mind's inherent limitations.",
+  "question": "A student argues that Marcus believes human memory is fundamentally different from—and less reliable than—computer memory. Which quotation best supports this argument?",
+  "choices": {
+    "A": "\"[T]he human mind is not a perfectly designed reasoning machine but a 'kluge'—a clumsy, inelegant solution that works despite its inefficiencies.\"",
+    "B": "\"[W]e do not play back stored recordings but actively rebuild memories each time we recall them, a process that introduces errors and distortions.\"",
+    "C": "\"Marcus contrasts this with the kind of memory that a computer uses, which can retrieve stored information with perfect fidelity.\"",
+    "D": "\"Memory, for instance, is reconstructive rather than reproductive.\"",
+  },
+  "correct_answer": "B",
+  "explanation": "The student's argument has two parts: human memory is (1) fundamentally different from and (2) less reliable than computer memory. Choice B establishes the mechanism of human memory's unreliability in specific terms—human memory is reconstructive and 'introduces errors and distortions'—directly supporting the 'less reliable' part. While Choice C makes an explicit contrast between human and computer memory, it focuses on computer memory's perfection rather than human memory's failings. Choice B addresses human memory directly and specifies both its distinctive mechanism (active reconstruction) and its consequence (errors and distortions), making it the most direct evidence for the claim. Choice A is about the mind's general design inefficiency, not memory specifically. Choice D is a summary of B's point without the 'errors and distortions' elaboration that establishes lower reliability."
+}

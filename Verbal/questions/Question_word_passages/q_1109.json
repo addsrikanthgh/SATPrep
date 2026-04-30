@@ -1,0 +1,16 @@
+{
+  "id": "q_1109",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Wildlife Conservation Trust published its biennial survey of large mammal populations across seventeen protected reserves in southern Africa last year. Despite overall population stability, they noted alarming declines in rhinoceros numbers in four reserves where anti-poaching patrols had been reduced.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the conservationists",
+    "B": "it",
+    "C": "those rangers",
+    "D": "No change; 'they' refers to the trust's field researchers and conservation officers"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The Wildlife Conservation Trust' is singular, established with 'its biennial survey.' The second sentence uses 'they,' a plural pronoun, creating a mismatch. Choice B replaces 'they' with 'it.' Choices A and C introduce new nouns not present in the passage. Choice D incorrectly treats implied field staff as the grammatical antecedent; the pronoun must agree with the explicitly stated singular organization."
+}

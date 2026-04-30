@@ -1,0 +1,16 @@
+{
+  "id": "q_1497",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Quantum entanglement—the phenomenon by which two particles become correlated such that measuring one instantly affects the other regardless of distance—was famously described by Albert Einstein as 'spooky action at a distance.' Einstein considered entanglement evidence that quantum mechanics was incomplete, arguing that hidden local variables must explain the correlations. In 1964, physicist John Bell devised a mathematical test, now called Bell's theorem, that could in principle determine whether hidden variables or genuine non-local correlation was responsible for entanglement. Decades of experiments testing Bell's theorem have consistently supported the non-local interpretation, suggesting that Einstein's local hidden variable theory was incorrect.",
+  "question": "What is the primary function of the third sentence ('In 1964, physicist John Bell...') in the passage?",
+  "choices": {
+    "A": "To describe Einstein's own experimental attempts to disprove quantum mechanics",
+    "B": "To introduce the theoretical tool that would later be used to test the dispute described in the second sentence",
+    "C": "To explain why quantum mechanics is considered an incomplete theory",
+    "D": "To conclude that non-local correlation is the correct explanation for entanglement"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence establishes Einstein's objection to quantum mechanics—his belief that hidden local variables explain entanglement. The third sentence introduces Bell's theorem as a mathematical test designed to determine whether hidden variables or genuine non-locality is responsible. The function of the third sentence is to introduce the theoretical instrument through which the dispute in the second sentence would eventually be resolved. It is the setup for the resolution provided in the fourth sentence. Choice A is incorrect—Bell's theorem is Bell's work, not Einstein's. Choice C is incorrect—the third sentence does not explain why quantum mechanics is incomplete; it introduces a test. Choice D is incorrect—the conclusion that non-local correlation is correct comes from the fourth sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1090",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Historian Dr. Fenwick argued in her new monograph that abolitionist Frederick Douglass had significantly influenced the rhetorical strategy of Harriet Beecher Stowe before she wrote Uncle Tom's Cabin. Dr. Fenwick points to their extensive correspondence in the early 1850s as evidence that he shaped key narrative choices in the novel.",
+  "question": "The pronoun 'he' in the final sentence is ambiguous. Which choice most clearly and precisely replaces it?",
+  "choices": {
+    "A": "Dr. Fenwick",
+    "B": "Stowe",
+    "C": "Douglass",
+    "D": "No change; 'he' unambiguously refers to Douglass because Fenwick and Stowe are female"
+  },
+  "correct_answer": "C",
+  "explanation": "The pronoun 'he' refers to a male person. Of the people mentioned, only Frederick Douglass is male; Dr. Fenwick and Harriet Beecher Stowe are both female. Therefore, 'he' can only grammatically refer to Douglass, and there is technically no ambiguity based on gender. However, Choice D, which makes this same argument, is incorrect because it claims the passage is already unambiguous and no change is needed—but on the SAT, replacing a pronoun with a specific noun is the preferred standard for clear, formal writing even when gender resolves reference. Choice C is the best answer because it replaces the pronoun with the proper noun, meeting the standard for precision in formal English. Choice A would make Fenwick (female) the subject of 'he,' which is grammatically impossible. Choice B would assign influence to Stowe, reversing the causal relationship described."
+}

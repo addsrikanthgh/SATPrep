@@ -1,0 +1,16 @@
+{
+  "id": "q_1638",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The history of Western classical music is largely a story of increasing complexity. From the relatively simple harmonies of early medieval chant, through the polyphonic innovations of the Renaissance, to the chromatic density of late Romanticism and the complete dissolution of tonality in the twentieth century, composers have consistently pushed toward greater harmonic, rhythmic, and structural complexity. This trajectory reflects music's drive toward richer expressive possibilities.\n\nText 2: The narrative of increasing complexity in Western music is not a natural law but a retrospective construction. Medieval and Renaissance composers were not 'simple' by their own standards; they were solving sophisticated problems of counterpoint and modal harmony. The framing of music history as progress toward complexity privileges later styles and can lead listeners to dismiss earlier music as undeveloped rather than differently developed.",
+  "question": "How would the author of Text 2 most likely respond to the phrase 'relatively simple harmonies of early medieval chant' in Text 1?",
+  "choices": {
+    "A": "By agreeing that medieval chant was simple but arguing that simplicity can be aesthetically valuable",
+    "B": "By arguing that describing medieval chant as 'relatively simple' reflects a retrospective framing that misrepresents the sophisticated problems it was solving",
+    "C": "By contending that medieval chant was actually more complex than late Romantic music when judged by its own modal standards",
+    "D": "By claiming that medieval chant composers were aware they were creating less complex music than future composers would produce"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 argues that framing early music as 'simple' is a 'retrospective construction' that 'privileges later styles' and causes listeners to 'dismiss earlier music as undeveloped rather than differently developed.' The specific phrase 'relatively simple harmonies of early medieval chant' in Text 1 is exactly the kind of framing Text 2 critiques: it judges medieval music by later standards rather than understanding it on its own terms. The author of Text 2 would push back by arguing that medieval chant was 'solving sophisticated problems of counterpoint and modal harmony'—it was not simple; it was differently developed. Choice B captures this response. Choice A concedes the 'simple' characterization (which Text 2 would not) and shifts to aesthetic value. Choice C makes a comparative judgment about relative complexity by modal standards—Text 2 argues for contextual evaluation, not for claiming medieval music was 'more complex.' Choice D is an implausible historical claim that neither text addresses."
+}

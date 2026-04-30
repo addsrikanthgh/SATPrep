@@ -1,0 +1,16 @@
+{
+  "id": "q_1064",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The investigation found that neither the quality assurance team nor the project director had documented his approval of the design changes that preceded the structural failure.",
+  "question": "Which choice best corrects the pronoun error in the passage?",
+  "choices": {
+    "A": "had documented their approval of the design changes that preceded the structural failure",
+    "B": "had documented its approval of the design changes that preceded the structural failure",
+    "C": "had documented one's approval of the design changes that preceded the structural failure",
+    "D": "No change; 'his' correctly agrees with 'the project director,' the grammatically nearer subject"
+  },
+  "correct_answer": "A",
+  "explanation": "In 'neither...nor' constructions, the pronoun agrees with the subject nearest to it. The nearer subject here is 'the project director' (singular); however, the pronoun 'his' introduces a gender assumption about an individual whose gender is unspecified in the passage. More importantly, the intended meaning—that neither party documented approval—requires the pronoun to cover both the team and the director collectively, for which 'their' (functioning as a gender-neutral possessive) is the most appropriate choice. Choice A uses 'their,' which serves as a gender-neutral singular possessive and is widely accepted in formal writing. Choice B uses 'its,' which is non-human and inappropriate for referring to the project director. Choice C uses 'one's,' an impersonal indefinite possessive that does not refer to the named subjects. Choice D is partially correct in citing the proximity rule, but 'his' introduces an unwarranted gender assumption not supported by the passage."
+}

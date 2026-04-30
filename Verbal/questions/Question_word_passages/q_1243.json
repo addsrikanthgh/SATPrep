@@ -1,0 +1,16 @@
+{
+  "id": "q_1243",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Each of the submitted grant applications were reviewed by at least two independent evaluators before a funding decision was made. Applications rated 'highly meritorious' were forwarded to the senior program officer for final approval.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Each of the submitted grant applications was reviewed by at least two independent evaluators before a funding decision was made.",
+    "B": "Each of the submitted grant applications have been reviewed by at least two independent evaluators.",
+    "C": "Each of the submitted grant applications are reviewed by at least two independent evaluators.",
+    "D": "No change; 'were reviewed' agrees with 'applications,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'Each,' an indefinite pronoun that is always singular. 'Of the submitted grant applications' is a prepositional phrase that modifies 'Each' but does not change the verb number. The correct verb form is 'was reviewed.' Choice A uses the singular past verb 'was reviewed.' Choice B uses 'have been reviewed,' a present perfect plural form. Choice C uses 'are reviewed,' a present plural form. Both B and C are wrong in tense and number. Choice D incorrectly applies a proximity rule; the verb must agree with 'Each,' not 'applications.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1184",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The manager told the sales team members who missed their quarterly targets to submit corrective action plans promptly. She indicated that the plans would be reviewed within two weeks and that underperformers would receive structured coaching sessions.",
+  "question": "The word 'promptly' in the first sentence creates ambiguity. Which choice most clearly conveys that the submission should be prompt?",
+  "choices": {
+    "A": "The manager told the sales team members who missed their quarterly targets to promptly submit corrective action plans.",
+    "B": "The manager promptly told the sales team members who missed their quarterly targets to submit corrective action plans.",
+    "C": "The manager told the promptly missing sales team members to submit corrective action plans.",
+    "D": "No change; 'promptly' at the end of the sentence clearly refers to submitting, which is the final action described"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'promptly' follows 'corrective action plans' and could modify 'submit corrective action plans' (submit promptly) or could be read as trailing adverb modifying 'told' or the entire clause. Choice A places 'promptly' immediately before 'submit,' unambiguously specifying the timing of submission. Choice B places 'promptly' before 'told,' implying the manager communicated promptly rather than that the plans must be submitted promptly. Choice C creates 'promptly missing sales team members,' which is incoherent. Choice D incorrectly accepts trailing-adverb position as unambiguous."
+}

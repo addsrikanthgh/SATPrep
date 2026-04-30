@@ -1,0 +1,16 @@
+{
+  "id": "q_1432",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The labor union's contract negotiations stretched into a third consecutive month without resolution the workers ultimately authorized a strike by a margin of eighty-seven percent. Management responded by hiring a federal mediator.",
+  "question": "Which choice correctly fixes the sentence boundary error?",
+  "choices": {
+    "A": "The labor union's contract negotiations stretched into a third consecutive month without resolution; the workers ultimately authorized a strike by a margin of eighty-seven percent.",
+    "B": "The labor union's contract negotiations stretched into a third consecutive month without resolution, the workers ultimately authorized a strike by a margin of eighty-seven percent.",
+    "C": "The labor union's contract negotiations stretched into a third consecutive month without resolution, so the workers authorized a strike by a margin of eighty-seven percent.",
+    "D": "The labor union's contract negotiations: stretching into a third consecutive month without resolution, the workers ultimately authorized a strike by eighty-seven percent."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a fused sentence—two independent clauses with no punctuation or conjunction between them. 'The labor union's contract negotiations stretched into a third consecutive month without resolution' and 'the workers ultimately authorized a strike by a margin of eighty-seven percent' are both complete independent clauses. Choice A correctly uses a semicolon to separate the two related independent clauses. Choice B creates a comma splice. Choice C adds 'so,' implying the lack of resolution caused the strike vote—which may be accurate, but the question asks for the correction that best fixes the boundary error with the least change; moreover, 'so' imposes a causal interpretation not present in the original. Choice D creates a grammatically incoherent construction."
+}

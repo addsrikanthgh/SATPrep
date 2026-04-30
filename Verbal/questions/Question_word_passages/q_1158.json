@@ -1,0 +1,16 @@
+{
+  "id": "q_1158",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The professor mentioned that students who fail to submit the required documentation will nearly lose all of their financial aid eligibility for the following year. The financial aid office confirmed that the deadline is firm and no extensions will be granted.",
+  "question": "The word 'nearly' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The professor mentioned that students who fail to submit the required documentation will lose nearly all of their financial aid eligibility.",
+    "B": "The professor nearly mentioned that students who fail to submit the required documentation will lose all of their financial aid eligibility.",
+    "C": "The professor mentioned that nearly students who fail to submit the required documentation will lose all of their financial aid eligibility.",
+    "D": "No change; 'nearly lose' is a common phrasing meaning to almost completely lose"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that students will lose nearly all (almost all) of their financial aid. As written, 'nearly lose' suggests that students will almost lose but not quite lose—the opposite of the warning being communicated. 'Nearly' must be placed immediately before 'all,' the quantifier it is meant to modify. Choice A correctly repositions 'nearly' before 'all of their financial aid eligibility.' Choice B places 'nearly' before 'mentioned,' implying the professor almost mentioned the fact. Choice C inserts 'nearly' before 'students,' creating a nonsensical phrase. Choice D incorrectly accepts the current placement."
+}

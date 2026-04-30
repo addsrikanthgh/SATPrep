@@ -1,0 +1,16 @@
+{
+  "id": "q_1122",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Neuroscientists Dr. Torres and Dr. Kim spent four years mapping the neural correlates of decision-making under ambiguity using high-resolution fMRI imaging. When the results were replicated in an independent cohort, he was awarded the society's Medal for Distinguished Research at the annual neuroscience conference.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Dr. Torres",
+    "B": "Dr. Kim",
+    "C": "the principal investigator",
+    "D": "No change; 'he' clearly refers to the researcher whose work was replicated, identifiable from context"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Dr. Torres and Dr. Kim are male, so 'he' could refer to either. The passage gives no indication prior to the pronoun about which researcher received the award. Choice A names Dr. Torres. Choice C uses 'the principal investigator,' a role not established in the passage that could apply to either person. Choice D incorrectly asserts that context resolves the ambiguity; the pronoun appears precisely at the point where the distinction is first being made, meaning it cannot be resolved from what precedes it."
+}

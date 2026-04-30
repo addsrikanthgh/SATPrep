@@ -1,0 +1,16 @@
+{
+  "id": "q_1584",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The bacterium Helicobacter pylori, discovered by Australian physicians Barry Marshall and Robin Warren in 1982, fundamentally changed the understanding and treatment of peptic ulcers. Before this discovery, peptic ulcers were thought to be caused primarily by stress, spicy food, and excess stomach acid. The medical consensus held that the stomach was too acidic an environment for any bacteria to survive. Marshall and Warren's discovery that H. pylori colonized the gastric lining was initially met with widespread skepticism. To prove his hypothesis, Marshall famously drank a solution containing H. pylori, developed gastritis shortly afterward, and then treated himself with antibiotics. The subsequent recognition that most peptic ulcers could be treated—and cured—with antibiotics rather than managed indefinitely with antacids was one of the most significant paradigm shifts in twentieth-century medicine. Marshall and Warren received the Nobel Prize in Physiology or Medicine in 2005.",
+  "question": "A student argues that Marshall and Warren faced significant resistance from the scientific community before their discovery was accepted. Which quotation most directly supports this argument?",
+  "choices": {
+    "A": "\"[T]he stomach was too acidic an environment for any bacteria to survive.\"",
+    "B": "\"Marshall and Warren's discovery that H. pylori colonized the gastric lining was initially met with widespread skepticism.\"",
+    "C": "\"Marshall famously drank a solution containing H. pylori, developed gastritis shortly afterward, and then treated himself with antibiotics.\"",
+    "D": "\"Marshall and Warren received the Nobel Prize in Physiology or Medicine in 2005.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student's claim is about the significant resistance the researchers faced before acceptance. Choice B directly states this: their discovery 'was initially met with widespread skepticism.' The phrase 'widespread skepticism' explicitly describes the scientific community's resistance. Choice A describes the prevailing prior belief that made their discovery seem implausible—this contextualizes why skepticism existed but doesn't directly state that resistance occurred. Choice C describes Marshall's self-experiment to prove his hypothesis—this shows the lengths to which he went to overcome skepticism, which implies resistance but doesn't directly state it. Choice D describes the ultimate recognition (Nobel Prize), which is the opposite of resistance. Choice B is the most direct statement of the resistance itself."
+}

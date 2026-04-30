@@ -1,0 +1,16 @@
+{
+  "id": "q_1601",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The marine biologist described the bioluminescent display of the deep-sea squid as 'a language of light'—pulses and patterns that appeared to coordinate group behavior in the absence of sunlight. Whether the signals constitute true communication or are merely reflexive responses to stimuli remains an open question. What is clear is that the squid's light-producing organs are exquisitely calibrated to the spectral range detectable by the eyes of potential mates and rivals.",
+  "question": "As used in the passage, 'calibrated' most nearly means",
+  "choices": {
+    "A": "randomly distributed",
+    "B": "precisely adjusted",
+    "C": "visibly decorated",
+    "D": "chemically altered"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the squid's light-producing organs are 'exquisitely calibrated to the spectral range detectable by the eyes of potential mates and rivals.' 'Calibrated' here means precisely adjusted or tuned. The word 'exquisitely' (meaning with great precision and refinement) reinforces this meaning—the organs are not just adjusted but finely tuned to a specific range. Choice B, 'precisely adjusted,' captures this. Choice A ('randomly distributed') is contradicted by 'exquisitely,' which implies precision, not randomness. Choice C ('visibly decorated') misreads 'calibrated' as a descriptor of appearance. Choice D ('chemically altered') describes a different kind of modification unrelated to adjustment or tuning."
+}

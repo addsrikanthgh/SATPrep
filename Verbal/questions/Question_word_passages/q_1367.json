@@ -1,0 +1,16 @@
+{
+  "id": "q_1367",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "To be considered for the prestigious fellowship, candidates must have completed a doctoral degree within the last five years, demonstrated exceptional scholarly productivity, and secured letters of recommendation from at least three internationally recognized experts in their field. With the application deadline falling on the first of March.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "To be considered for the prestigious fellowship, candidates must have completed a doctoral degree within the last five years, demonstrated exceptional scholarly productivity, and secured letters of recommendation from at least three internationally recognized experts in their field, with the application deadline falling on the first of March.",
+    "B": "To be considered for the prestigious fellowship, candidates must have completed a doctoral degree within the last five years, demonstrated exceptional scholarly productivity, and secured letters of recommendation from three experts; with the application deadline falling on the first of March.",
+    "C": "To be considered for the prestigious fellowship, candidates must meet three criteria: a doctoral degree completed within five years, exceptional scholarly productivity, and letters of recommendation from internationally recognized experts. The application deadline is March first.",
+    "D": "No change; 'With the application deadline falling' is a complete sentence that provides essential logistical information."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'With the application deadline falling on the first of March' is a prepositional phrase fragment—it begins with 'With' (a preposition), lacks an independent subject-verb structure, and cannot stand alone. It provides additional context about the application requirements and should be attached to the preceding sentence. Choice A attaches the prepositional phrase fragment to the preceding sentence with a comma. Choice B uses a semicolon before the fragment, which is incorrect for a prepositional phrase. Choice C rewrites the passage significantly, changing the structure entirely. Choice D incorrectly defends the fragment as a complete sentence."
+}

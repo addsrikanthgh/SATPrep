@@ -1,0 +1,16 @@
+{
+  "id": "q_1543",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An environmental scientist examined annual average concentrations of a particular air pollutant (in micrograms per cubic meter) in a city from 2015 to 2020, alongside the number of hospital admissions for respiratory illness each year.\n\n| Year | Pollutant Concentration (µg/m³) | Respiratory Admissions |\n|---|---|---|\n| 2015 | 48 | 1,240 |\n| 2016 | 45 | 1,180 |\n| 2017 | 52 | 1,310 |\n| 2018 | 39 | 1,090 |\n| 2019 | 44 | 1,150 |\n| 2020 | 31 | 980 |\n\nThe scientist claimed that years with higher pollutant concentrations correspond to years with more respiratory hospital admissions.",
+  "question": "A colleague challenged the scientist's claim, arguing that the data shows only a general downward trend in both variables rather than a true year-to-year correspondence. Which response would most effectively defend the scientist's claim against this challenge?",
+  "choices": {
+    "A": "The data shows that the year with the highest pollutant concentration (2017: 52 µg/m³) also has the most admissions (1,310), and the year with the lowest concentration (2020: 31 µg/m³) has the fewest admissions (980).",
+    "B": "The data shows that admissions fell from 2015 to 2016 and from 2017 to 2018, which demonstrates a downward trend.",
+    "C": "2017 had a higher concentration than 2016 and also had more admissions than 2016, while 2018 had a lower concentration than 2017 and fewer admissions—demonstrating that increases in concentration correspond to increases in admissions even within the data.",
+    "D": "The overall decline in both variables from 2015 to 2020 proves that the scientist's claim is correct."
+  },
+  "correct_answer": "C",
+  "explanation": "The colleague's objection is that the data might reflect only a general downward trend rather than a true correspondence. The best defense of the scientist's claim must show year-to-year tracking, not just the overall direction. Choice C does this: it shows that when concentration rose from 2016 to 2017, admissions also rose; and when concentration fell from 2017 to 2018, admissions also fell. This non-monotonic tracking (the data goes up then down) within the series is stronger evidence of correspondence than simply the overall trend. Choice A identifies the extremes but doesn't address the colleague's specific point about trend versus year-to-year correspondence. Choice B actually supports the colleague's objection by describing a trend. Choice D repeats the colleague's objection rather than refuting it."
+}

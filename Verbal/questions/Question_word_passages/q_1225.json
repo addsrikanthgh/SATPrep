@@ -1,0 +1,16 @@
+{
+  "id": "q_1225",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Pioneering the use of statistical methods in epidemiology, the link between cholera and contaminated water was established by John Snow during the 1854 Broad Street outbreak. His meticulous mapping of disease clusters fundamentally changed how public health officials understood the transmission of infectious disease.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Pioneering the use of statistical methods in epidemiology, John Snow established the link between cholera and contaminated water during the 1854 Broad Street outbreak.",
+    "B": "The link between cholera and contaminated water, pioneering statistical methods, was established by John Snow.",
+    "C": "John Snow's pioneering of statistical methods established the cholera-water link during the 1854 Broad Street outbreak.",
+    "D": "No change; 'pioneering' modifies John Snow, who is named in the sentence as the agent of establishment"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Pioneering the use of statistical methods in epidemiology' describes John Snow, who was the pioneer. As written, 'the link between cholera and contaminated water' is the subject, implying the link was pioneering statistical methods—illogical. Choice A restructures with 'John Snow' as the subject. Choice B attaches the phrase to 'The link,' preserving the error. Choice C converts the participial phrase into a noun phrase ('John Snow's pioneering of statistical methods'), which works grammatically but eliminates the participial structure and the active voice. Choice D incorrectly argues that naming Snow in the passive by-phrase resolves the error."
+}

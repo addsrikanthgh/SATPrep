@@ -1,0 +1,16 @@
+{
+  "id": "q_1242",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The number of undergraduate students who declare a major in computer science have increased significantly in each of the past five academic years. Advisers attribute the trend to expanding career opportunities in technology and artificial intelligence.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The number of undergraduate students who declare a major in computer science has increased significantly in each of the past five academic years.",
+    "B": "A number of undergraduate students who declare a major in computer science has increased significantly.",
+    "C": "The number of undergraduate students who declares a major in computer science have increased significantly.",
+    "D": "No change; 'have increased' agrees with the plural 'students,' which is the intended subject"
+  },
+  "correct_answer": "A",
+  "explanation": "The phrase 'the number of' takes a singular verb because the subject is 'the number,' a singular noun meaning a count. This is distinct from 'a number of,' which means 'many' and takes a plural verb. Here, 'The number…has increased' is correct. Choice A uses the singular 'has increased.' Choice B changes 'The number' to 'A number,' which would take a plural verb—and then incorrectly uses the singular 'has.' Choice C makes the relative clause verb ('declares') singular but keeps the main verb plural, introducing an error in the relative clause without fixing the main verb. Choice D incorrectly argues 'students' is the subject."
+}

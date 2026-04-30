@@ -1,0 +1,16 @@
+{
+  "id": "q_1650",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The city council voted to approve the downtown development project after months of public hearings and community debate. ______ construction is not expected to begin until the environmental impact assessment is completed, a process that typically takes twelve to eighteen months.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "As a result,",
+    "B": "Nevertheless,",
+    "C": "For example,",
+    "D": "In addition,"
+  },
+  "correct_answer": "B",
+  "explanation": "'Nevertheless' is correct because the second sentence presents a concession or qualification to the progress implied in the first sentence. The first sentence describes a positive step (the project was approved); the second sentence notes that construction won't start soon anyway (due to the environmental review). 'Nevertheless' signals that despite the approval, a significant delay remains. Choice A ('As a result') indicates the second sentence is a direct consequence of the first, but the delay is not a result of the approval—it would have been required regardless. Choice C ('For example') signals that the second sentence provides an example of what the first described, which is not the case. Choice D ('In addition') signals that the second sentence adds further positive information, but the environmental review delay is a qualification, not an addition."
+}

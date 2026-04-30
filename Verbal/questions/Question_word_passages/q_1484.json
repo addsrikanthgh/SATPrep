@@ -1,0 +1,16 @@
+{
+  "id": "q_1484",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Permafrost—ground that remains frozen for at least two consecutive years—covers roughly twenty-five percent of the Northern Hemisphere's land surface. Scientists have long known that it stores vast quantities of organic carbon accumulated over thousands of years. As global temperatures rise, permafrost is thawing at an accelerating rate. When it thaws, the stored carbon decomposes and releases greenhouse gases, potentially triggering a feedback loop that could further accelerate climate change.",
+  "question": "What is the primary function of the fourth sentence ('When it thaws...') in the passage?",
+  "choices": {
+    "A": "To define the term 'feedback loop' for the reader",
+    "B": "To explain the consequence of permafrost thawing introduced in the third sentence",
+    "C": "To contradict the scientific concern expressed in the second sentence",
+    "D": "To establish the geographical range of permafrost"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence establishes that permafrost is thawing. The fourth sentence explains what happens as a result of that thawing: stored carbon decomposes, releases greenhouse gases, and could trigger a feedback loop that worsens climate change. The fourth sentence answers the implicit question 'Why does permafrost thawing matter?' by explaining the consequence. Choice A is incorrect—the sentence uses the term 'feedback loop' but does not define it explicitly. Choice C is incorrect—the fourth sentence extends and reinforces the concern expressed in the second sentence about carbon storage. Choice D is incorrect—the geographical range of permafrost is established in the first sentence."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1534",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Tidal locking is a gravitational phenomenon in which the same face of a moon always points toward its parent planet. Earth's own Moon is tidally locked, which is why observers on Earth always see the same craters, mountains, and dark plains known as 'maria.' The far side of the Moon, by contrast, was entirely unknown to humanity until 1959, when the Soviet spacecraft Luna 3 photographed it for the first time. The images revealed a surface strikingly different from the near side: more heavily cratered and with far fewer maria.",
+  "question": "What is the primary function of the fourth sentence ('The images revealed...') in the passage?",
+  "choices": {
+    "A": "To explain the cause of tidal locking described in the first sentence",
+    "B": "To describe what the Luna 3 photographs actually showed, completing the narrative begun in the third sentence",
+    "C": "To argue that the Soviet space program was more advanced than the American program",
+    "D": "To explain why the near side of the Moon has fewer craters than the far side"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence describes the first photographic mission to the Moon's far side. The fourth sentence completes this narrative by reporting what the photographs showed: a surface with more craters and fewer maria than the near side. The function of the fourth sentence is to provide the outcome of the event described in the third sentence—the photographs were taken; here is what they revealed. Choice A is incorrect—tidal locking's cause is described in the first sentence. Choice C is incorrect—no comparison with the American space program is made. Choice D is incorrect—the fourth sentence describes the difference without explaining why it exists."
+}

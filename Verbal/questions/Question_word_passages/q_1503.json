@@ -1,0 +1,16 @@
+{
+  "id": "q_1503",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The discovery of the structure of DNA by Watson and Crick in 1953 is frequently described as one of the greatest scientific achievements of the twentieth century. Less often acknowledged is the essential contribution of Rosalind Franklin, whose X-ray crystallography images provided the key evidence that Watson and Crick used—without her knowledge or permission—to identify the double-helix structure. Franklin died in 1958, four years before Watson, Crick, and Wilkins received the Nobel Prize, and Nobel Prizes are not awarded posthumously. Her exclusion from the prize has become a touchstone in debates about gender discrimination in the history of science.",
+  "question": "What is the primary function of the third sentence ('Franklin died in 1958...') in the passage?",
+  "choices": {
+    "A": "To explain the scientific process by which X-ray crystallography works",
+    "B": "To provide context for why Franklin was not included in the Nobel Prize awarded to Watson, Crick, and Wilkins",
+    "C": "To argue that the Nobel Committee deliberately excluded Franklin because of gender bias",
+    "D": "To suggest that Watson and Crick's contribution was less significant than Franklin's"
+  },
+  "correct_answer": "B",
+  "explanation": "The fourth sentence refers to Franklin's 'exclusion from the prize' as a touchstone in debates about gender discrimination. The third sentence provides the factual context necessary to understand that exclusion: Franklin died before the prize was awarded, and the Nobel Prize is not given posthumously. Without this information, readers might assume the exclusion was deliberate discrimination rather than a consequence of institutional rules and her early death. Choice A is incorrect—X-ray crystallography is mentioned in the second sentence, not explained in the third. Choice C is incorrect—the third sentence provides a structural explanation (posthumous ineligibility), not an accusation of deliberate bias. Choice D is incorrect—the third sentence does not compare the relative significance of Franklin's and Watson and Crick's contributions."
+}

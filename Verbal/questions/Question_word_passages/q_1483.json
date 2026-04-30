@@ -1,0 +1,16 @@
+{
+  "id": "q_1483",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The Harlem Renaissance of the 1920s and 1930s produced some of the most influential literature, art, and music in American history. Langston Hughes, Zora Neale Hurston, Jacob Lawrence, and Duke Ellington were among the movement's luminaries, and their work challenged racial stereotypes while asserting the vitality and complexity of Black American life. Yet the Renaissance was also a movement born from, and in many ways constrained by, the Great Migration—the mass movement of Black Americans from the rural South to the urban North that began around 1910. The cultural flowering celebrated as the Harlem Renaissance was, in part, an expression of the dislocations, ambitions, and anxieties that migration produced.",
+  "question": "What is the primary function of the third sentence ('Yet the Renaissance was also a movement...') in the passage?",
+  "choices": {
+    "A": "To list the key artistic figures of the Harlem Renaissance",
+    "B": "To complicate the celebratory portrait established in the first two sentences by connecting the movement to the social upheaval of the Great Migration",
+    "C": "To argue that the Harlem Renaissance was less important than the Great Migration",
+    "D": "To explain why Langston Hughes and Duke Ellington are considered the most significant figures of the movement"
+  },
+  "correct_answer": "B",
+  "explanation": "The first two sentences present the Harlem Renaissance in celebratory terms—a culturally significant movement that produced major artists and challenged racial stereotypes. The third sentence uses 'yet' to pivot, introducing the Great Migration as the social context that gave rise to and constrained the Renaissance. This complicates the earlier portrait by rooting the cultural flowering in a specific history of displacement and ambition. Choice A is incorrect—the artistic figures are named in the second sentence. Choice C is incorrect—the third sentence does not argue the Renaissance was less important; it contextualizes it historically. Choice D is incorrect—the third sentence does not discuss individual figures at all."
+}

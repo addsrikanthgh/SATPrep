@@ -1,0 +1,16 @@
+{
+  "id": "q_1081",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The chamber orchestra performed Beethoven's Fifth Symphony to a standing-room-only audience last Saturday. Critics noted that they had achieved an unusually tight coordination between the string and brass sections, a feat rarely accomplished without a full-time conductor.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the musicians",
+    "B": "it",
+    "C": "the critics",
+    "D": "No change; 'they' appropriately refers to the individual players who make up the orchestra"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent is 'The chamber orchestra,' a singular collective noun. The first sentence treats it as a singular subject ('The chamber orchestra performed'), so the pronoun that refers back to it must also be singular. Choice B replaces 'they' with 'it,' which agrees with the singular collective noun. Choice A replaces 'they' with 'the musicians,' which pluralizes the antecedent unnecessarily and introduces a noun not present in the passage. Choice C makes the critics the subject of achieving coordination, which reverses the meaning entirely—critics observed the achievement; the orchestra accomplished it. Choice D incorrectly argues that referring to individual players justifies the plural pronoun; in formal American English, collective nouns acting as a unit take singular pronouns."
+}

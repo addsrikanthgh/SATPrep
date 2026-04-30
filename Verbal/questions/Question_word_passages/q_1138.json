@@ -1,0 +1,16 @@
+{
+  "id": "q_1138",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Economists Thomas Piketty and Lawrence Summers have long debated the structural causes of rising wealth inequality in advanced economies. While both acknowledge the role of technology and globalization, he attributes the primary mechanism to the tendency for returns on capital to exceed economic growth over long periods.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Piketty",
+    "B": "Summers",
+    "C": "the French economist",
+    "D": "No change; 'he' clearly refers to Piketty because his r > g thesis is the more well-known argument"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Piketty and Summers are male, making 'he' ambiguous. The argument described—that returns on capital (r) exceed economic growth (g) as the primary driver of inequality—is closely associated with Piketty's thesis in Capital in the Twenty-First Century. However, formal writing cannot depend on readers' knowledge of economic theory to identify a pronoun's antecedent. Choice A names Piketty explicitly. Choice C introduces 'the French economist,' a description not present in the passage. Choice D correctly identifies Piketty as the referent but incorrectly treats academic reputation as sufficient to resolve grammatical ambiguity."
+}

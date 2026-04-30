@@ -1,0 +1,16 @@
+{
+  "id": "q_1416",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The novelist's debut had sold fewer than two thousand copies in its first year. Then went on to become an international bestseller after a prominent book club selected it the following spring. Rights to the book were subsequently sold in twenty-two countries.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The novelist's debut had sold fewer than two thousand copies in its first year but then went on to become an international bestseller after a prominent book club selected it the following spring.",
+    "B": "The novelist's debut had sold fewer than two thousand copies in its first year; then went on to become an international bestseller after a prominent book club selected it the following spring.",
+    "C": "The novelist's debut had sold fewer than two thousand copies in its first year, then becoming an international bestseller after a prominent book club selected it the following spring.",
+    "D": "No change; 'Then went on to become' begins a complete sentence because it contains an infinitive phrase."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Then went on to become an international bestseller after a prominent book club selected it the following spring' is a verb phrase fragment—it has a verb ('went on to become') but no grammatical subject. 'Then' is an adverb, not a subject. This predicate continues the story of the novelist's debut introduced in the first sentence and should be attached to it. Choice A uses 'but' as a coordinating conjunction to join the two predicates under a single subject ('The novelist's debut...had sold...but then went on'). Choice B uses a semicolon before the fragment, which is incorrect. Choice C uses a participial construction that alters the meaning. Choice D incorrectly defends the fragment."
+}

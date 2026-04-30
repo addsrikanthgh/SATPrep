@@ -1,0 +1,16 @@
+{
+  "id": "q_1465",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The research team had made the most significant discovery of the expedition: a sealed chamber beneath the temple floor containing intact ceramic vessels, bronze figurines, and inscribed stone tablets that appeared to date to the early Hellenistic period.",
+  "question": "Which best describes the punctuation used in the passage?",
+  "choices": {
+    "A": "The colon should be replaced with a semicolon because 'a sealed chamber' begins an independent clause.",
+    "B": "The colon should be replaced with a comma because the list that follows is brief.",
+    "C": "The passage is correct as written; the colon correctly follows a complete independent clause and introduces a description of 'the most significant discovery.'",
+    "D": "The colon is incorrect; a period should separate these into two distinct sentences."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage is correct as written. The colon appears after 'the most significant discovery of the expedition,' a complete independent clause, and it introduces a detailed description of what that discovery was—a sealed chamber with specific contents. This is precisely the purpose of a colon: to follow a complete independent clause and introduce a direct explanation, definition, or elaboration of something named in that clause. Choice A is incorrect because 'a sealed chamber...containing intact ceramic vessels' is not an independent clause—it has no subject-verb pair at its core when read as following the colon. Choice B would weaken the sentence's formal structure. Choice D would create an incomplete sentence ('A sealed chamber beneath the temple floor...')."
+}

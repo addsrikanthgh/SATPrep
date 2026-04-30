@@ -1,0 +1,16 @@
+{
+  "id": "q_1208",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The city transit authority nearly replaced all of the aging diesel buses in its fleet with electric vehicles last year. The conversion was ultimately delayed due to supply chain disruptions that pushed the delivery date back by fourteen months.",
+  "question": "The word 'nearly' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The city transit authority replaced nearly all of the aging diesel buses in its fleet with electric vehicles last year.",
+    "B": "Nearly the city transit authority replaced all of the aging diesel buses in its fleet with electric vehicles.",
+    "C": "The city transit authority replaced all of the nearly aging diesel buses in its fleet with electric vehicles.",
+    "D": "No change; 'nearly replaced all' means the replacement of all buses was almost accomplished, which is supported by the second sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that the authority replaced nearly all (i.e., most) of the buses, not that the replacement almost happened. The second sentence says the conversion 'was ultimately delayed,' which means the replacement was not completed—it did not happen, period. However, in context, 'nearly replaced all' could mean almost all were replaced before the delay, while 'replaced nearly all' means the replacements already made covered nearly the entire fleet. Choice A places 'nearly' before 'all,' specifying the proportion of buses replaced. Choice B implies the transit authority barely existed. Choice C creates 'nearly aging,' a meaningless phrase. Choice D defends the current placement as consistent with the second sentence, but 'nearly replaced' conflicts with the delay described."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1626",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "When archaeologists excavated the ancient Minoan site of Akrotiri on the Greek island of Santorini, they found streets, multi-story buildings, indoor plumbing, and sophisticated frescoes—all preserved under volcanic ash from an eruption around 1600 BCE. The site, often called the 'Minoan Pompeii,' provides an unusually complete picture of Bronze Age urban life. Unlike Pompeii, where many bodies were found, no human remains have been discovered at Akrotiri, suggesting the inhabitants had time to evacuate before the eruption buried the city.",
+  "question": "Why does the author mention that no human remains have been found at Akrotiri?",
+  "choices": {
+    "A": "To argue that the eruption that buried Akrotiri was less destructive than the one that buried Pompeii",
+    "B": "To note a way in which Akrotiri differs from the Pompeii comparison introduced earlier in the text",
+    "C": "To suggest that the Minoan civilization had not yet developed permanent urban settlements",
+    "D": "To explain why archaeologists have had difficulty learning about the inhabitants of Akrotiri"
+  },
+  "correct_answer": "B",
+  "explanation": "The author introduces the 'Minoan Pompeii' comparison to help the reader understand Akrotiri's significance as a well-preserved urban site. The final sentence then qualifies the comparison by noting one difference: Pompeii had many bodies, while Akrotiri had none. This serves to develop the Pompeii analogy introduced earlier by specifying a notable point of divergence. Choice B accurately names this function: the detail about human remains refines and complicates the comparison that was just introduced. Choice A introduces a claim about relative destructiveness that the text does not make—the absence of bodies is attributed to evacuation, not less destruction. Choice C is incorrect and contradicts the text, which describes multi-story buildings and sophisticated infrastructure. Choice D is incorrect; the text does not suggest archaeologists have had difficulty—the absence of bodies simply explains what likely happened to the inhabitants."
+}

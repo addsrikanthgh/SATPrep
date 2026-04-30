@@ -1,0 +1,16 @@
+{
+  "id": "q_1125",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The blackpoll warbler undertakes one of the most remarkable migrations in the avian world, traveling nonstop over the Atlantic Ocean from northeastern North America to its wintering grounds in South America. Despite weighing only about twelve grams at departure, they can sustain continuous flight for up to ninety hours.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the birds",
+    "B": "those warblers",
+    "C": "it",
+    "D": "No change; 'they' refers to the blackpoll warblers as a species generally"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The blackpoll warbler' is singular, confirmed by 'its wintering grounds' in the first sentence. The second sentence uses 'they,' contradicting the singular frame. Choice C replaces 'they' with 'it,' maintaining agreement. Choices A and B introduce new plural nouns not established as antecedents. Choice D argues that generic species reference justifies a plural pronoun; however, because the passage explicitly establishes a singular antecedent, all subsequent pronouns must match that number."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1245",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The series of lectures on environmental policy, which will feature prominent scientists and policymakers, are scheduled to run on consecutive Thursdays throughout the spring semester. Registration is open to all members of the university community.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The series of lectures on environmental policy, which will feature prominent scientists and policymakers, is scheduled to run on consecutive Thursdays throughout the spring semester.",
+    "B": "The series of lectures on environmental policy, which will feature prominent scientists and policymakers, have been scheduled to run on consecutive Thursdays.",
+    "C": "The series of lectures on environmental policy, which features prominent scientists and policymakers, are scheduled to run on consecutive Thursdays.",
+    "D": "No change; 'are scheduled' agrees with 'lectures,' the plural noun closest to the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the main clause is 'The series,' a singular collective noun. The intervening prepositional phrase 'of lectures on environmental policy' and the relative clause do not change the number of the subject. 'Series' requires the singular verb 'is scheduled.' Choice A correctly uses 'is scheduled.' Choice B uses 'have been scheduled,' a present perfect plural form—wrong in number and tense. Choice C changes the relative clause verb from 'will feature' to 'features' (making it present tense) but leaves the main verb plural; this fixes nothing relevant. Choice D incorrectly applies proximity agreement."
+}

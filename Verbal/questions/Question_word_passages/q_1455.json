@@ -1,0 +1,16 @@
+{
+  "id": "q_1455",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The seismologists monitored seventeen active fault lines across the region; their instruments recorded dozens of microseismic events each day, most of which were too faint to be felt at the surface but were nonetheless valuable data points for modeling future earthquake risks.",
+  "question": "Which choice best describes the punctuation used in the passage?",
+  "choices": {
+    "A": "The semicolon should be replaced with a comma because the second clause merely adds information about the monitoring.",
+    "B": "The semicolon should be replaced with a colon because the second clause explains what the instruments recorded.",
+    "C": "The passage is correct as written; the semicolon correctly separates two closely related independent clauses.",
+    "D": "The semicolon should be replaced with a period because the two clauses describe unrelated ideas."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage is correct as written. A semicolon is the appropriate punctuation here: both 'The seismologists monitored seventeen active fault lines across the region' and 'their instruments recorded dozens of microseismic events each day, most of which were too faint to be felt at the surface but were nonetheless valuable data points' are complete independent clauses that are closely related in subject matter. The semicolon correctly links them. Choice A would create a comma splice. Choice B incorrectly suggests a colon—the second clause does not define or elaborate on a specific term introduced in the first clause. Choice D is incorrect because the ideas are clearly related—both involve the seismologists' work monitoring fault lines."
+}

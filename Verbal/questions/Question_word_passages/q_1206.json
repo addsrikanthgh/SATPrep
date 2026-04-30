@@ -1,0 +1,16 @@
+{
+  "id": "q_1206",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The department chair told the junior faculty members who had not yet submitted their syllabi to upload them to the course management system immediately. Compliance was required before students could access course materials.",
+  "question": "The word 'immediately' in the first sentence creates ambiguity. Which choice most clearly conveys that the upload must happen immediately?",
+  "choices": {
+    "A": "The department chair told the junior faculty members who had not yet submitted their syllabi to immediately upload them to the course management system.",
+    "B": "The department chair immediately told the junior faculty members who had not yet submitted their syllabi to upload them to the course management system.",
+    "C": "The department chair told the immediately missing junior faculty members to upload syllabi to the course management system.",
+    "D": "No change; 'immediately' at the end of the sentence clearly modifies 'upload' as the final action required"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'immediately' follows 'course management system' at the sentence's end. It could modify 'upload them to the course management system' (upload immediately) or the entire act of being told. Choice A places 'immediately' before 'upload,' unambiguously specifying that the upload action must be done right away. Choice B places 'immediately' before 'told,' implying the chair communicated without delay rather than that the faculty must act immediately. Choice C inserts 'immediately' before 'missing,' which creates an incoherent phrase. Choice D incorrectly accepts trailing-adverb placement as unambiguous."
+}

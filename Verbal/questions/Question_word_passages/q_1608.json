@@ -1,0 +1,16 @@
+{
+  "id": "q_1608",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The political philosopher distinguished between two senses of the word 'freedom.' In the first, 'negative freedom,' one is free to the extent that no external agent interferes with one's choices. In the second, 'positive freedom,' one is free to the extent that one has the actual capacity to pursue one's goals—an unemployed person, for example, is nominally free to start a business but lacks the resources to do so, and this lack of capacity is itself a form of unfreedom.",
+  "question": "As used in the passage, 'nominally' most nearly means",
+  "choices": {
+    "A": "in name only",
+    "B": "financially",
+    "C": "legally prohibited",
+    "D": "genuinely and fully"
+  },
+  "correct_answer": "A",
+  "explanation": "In context, an unemployed person is 'nominally free' to start a business but lacks the resources to do so. 'Nominally' here means in name or form only, without the substance to make it real. The unemployed person has the formal or legal freedom—no law prevents them—but not the actual capacity. Choice A, 'in name only,' captures this contrast between formal freedom and substantive capacity. Choice D ('genuinely and fully') is the opposite—it would mean the person has real freedom. Choice B ('financially') confuses the example (the financial constraint is the reason the freedom is only nominal, not the meaning of the word itself). Choice C ('legally prohibited') contradicts the passage—the person is not legally prevented from starting a business."
+}

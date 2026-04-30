@@ -1,0 +1,16 @@
+{
+  "id": "q_1272",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The long-term consequences of childhood lead exposure—including cognitive impairment, behavioral problems, and reduced academic achievement—affects millions of children in developing countries where environmental regulations remain weak. International health organizations are calling for accelerated remediation efforts.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The long-term consequences of childhood lead exposure—including cognitive impairment, behavioral problems, and reduced academic achievement—affect millions of children in developing countries.",
+    "B": "The long-term consequence of childhood lead exposure—including cognitive impairment, behavioral problems, and reduced academic achievement—affects millions of children.",
+    "C": "The long-term consequences of childhood lead exposure, including cognitive impairment, behavioral problems, and reduced academic achievement, has affected millions of children.",
+    "D": "No change; 'affects' correctly agrees with 'childhood lead exposure,' the singular phrase nearest the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The long-term consequences,' a plural noun. The dash-enclosed list 'including cognitive impairment, behavioral problems, and reduced academic achievement' is a parenthetical elaboration and does not change the subject's number. The plural verb 'affect' is required. Choice A uses 'affect.' Choice B changes 'consequences' to 'consequence' (singular) and keeps the singular 'affects'—internally consistent but changes the meaning of the sentence. Choice C uses 'has affected,' a singular present perfect form—wrong in number. Choice D incorrectly identifies 'childhood lead exposure' as the subject."
+}

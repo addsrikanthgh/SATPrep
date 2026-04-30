@@ -1,0 +1,16 @@
+{
+  "id": "q_1407",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The seismic data collected during the three-year monitoring period revealed a pattern of micro-tremors along the previously unmapped fault line running beneath the city's financial district, this discovery prompted the emergency management office to commission a comprehensive structural assessment of more than two hundred buildings in the affected zone.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The seismic data collected during the three-year monitoring period revealed a pattern of micro-tremors along the previously unmapped fault line running beneath the city's financial district; this discovery prompted the emergency management office to commission a comprehensive structural assessment of more than two hundred buildings in the affected zone.",
+    "B": "The seismic data collected during the three-year monitoring period revealed a pattern of micro-tremors along the unmapped fault line, prompting the emergency management office to commission a structural assessment of more than two hundred buildings.",
+    "C": "A pattern of micro-tremors was revealed along the previously unmapped fault line; prompting the emergency management office to commission a comprehensive structural assessment of more than two hundred buildings.",
+    "D": "No change; 'this discovery prompted' follows a comma because it refers to a noun phrase introduced in the preceding clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'the city's financial district,' the sentence continues with 'this discovery prompted the emergency management office to commission a comprehensive structural assessment'—an independent clause with its own subject ('this discovery') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B converts the second clause into a participial phrase ('prompting the emergency management office...'), eliminating the independent clause. Choice C introduces a new comma splice before 'prompting.' Choice D incorrectly defends the comma splice."
+}

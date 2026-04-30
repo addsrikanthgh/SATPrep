@@ -1,0 +1,16 @@
+{
+  "id": "q_1457",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The municipal water authority announced three major priorities for the upcoming fiscal year: replacing the aging distribution pipes in the downtown corridor, upgrading the filtration system at the main treatment plant, and expanding reservoir capacity to prepare for projected drought conditions over the next decade.",
+  "question": "Which best describes the punctuation used in the passage?",
+  "choices": {
+    "A": "The colon should be replaced with a semicolon because two independent clauses follow.",
+    "B": "The colon should be replaced with a comma because the list items are brief.",
+    "C": "The passage is correct as written; the colon correctly introduces a list after a complete independent clause.",
+    "D": "The colon should be removed; commas alone are sufficient to introduce a list of this kind."
+  },
+  "correct_answer": "C",
+  "explanation": "The passage is correct as written. The colon is appropriately used after 'three major priorities for the upcoming fiscal year,' which is a complete independent clause that directly introduces a list. A colon is the standard punctuation for introducing a list or explanation after a complete independent clause. The three items in the list are correctly joined using commas and the coordinating conjunction 'and' before the last element. Choice A is incorrect because what follows the colon is a list of noun phrases, not two independent clauses. Choice B would create ambiguity, as a comma would not clearly signal that a formal list follows. Choice D is incorrect—a colon is both correct and preferred when a complete clause directly introduces a list."
+}

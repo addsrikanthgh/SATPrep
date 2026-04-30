@@ -1,0 +1,16 @@
+{
+  "id": "q_1359",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The committee's primary concern was not the cost of the renovation—which had been approved in the previous budget cycle—but rather the timeline, it was considered unrealistic by several members who had managed similar projects at other institutions.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The committee's primary concern was not the cost of the renovation—which had been approved in the previous budget cycle—but rather the timeline, which several members who had managed similar projects at other institutions considered unrealistic.",
+    "B": "The committee's primary concern was not the cost of the renovation but the timeline; it was considered unrealistic by several members who had managed similar projects at other institutions.",
+    "C": "The committee's primary concern was not the cost of the renovation—which had been approved in the previous budget cycle—but rather the timeline; it was considered unrealistic by several members who had managed similar projects.",
+    "D": "No change; the comma before 'it' correctly introduces an explanatory clause that elaborates on 'the timeline.'"
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence contains a comma splice. After the em-dashes and 'the timeline,' the sentence continues with 'it was considered unrealistic by several members'—an independent clause joined to the preceding independent clause by only a comma. A semicolon is needed. Choice C uses a semicolon before 'it was considered,' correctly joining the two independent clauses while preserving the dash-enclosed appositive. Choice A converts the second clause into a relative clause ('which several members...considered unrealistic'), attaching it to 'timeline'—grammatically correct but makes a more substantial change. Choice B omits the dash-enclosed appositive and simplifies, but still fixes the comma splice. Choice D incorrectly defends the comma splice."
+}

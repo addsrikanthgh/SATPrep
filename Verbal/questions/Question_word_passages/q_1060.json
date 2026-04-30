@@ -1,0 +1,16 @@
+{
+  "id": "q_1060",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The development of mRNA vaccine technology and the emergence of global genomic surveillance networks represent two of the most significant advances in public health infrastructure in decades. Together, it has enabled a level of pandemic preparedness that would have been unimaginable twenty years ago.",
+  "question": "Which choice best corrects the pronoun and verb error in the second sentence?",
+  "choices": {
+    "A": "Together, they have enabled a level of pandemic preparedness that would have been unimaginable twenty years ago.",
+    "B": "Together, it had enabled a level of pandemic preparedness that would have been unimaginable twenty years ago.",
+    "C": "Together, each has enabled a level of pandemic preparedness that would have been unimaginable twenty years ago.",
+    "D": "No change; the compound subject refers to a single unified concept and correctly takes a singular pronoun"
+  },
+  "correct_answer": "A",
+  "explanation": "When two distinct nouns are joined by 'and' to form a compound subject, the resulting subject is grammatically plural and requires plural pronouns and verbs. 'The development of mRNA vaccine technology' and 'the emergence of global genomic surveillance networks' are two separate advances; joined by 'and,' they require the plural pronoun 'they' and the plural verb 'have.' Choice A corrects both errors. Choice B maintains the singular pronoun 'it' and shifts the verb to past perfect ('had enabled'), which changes the tense without justification. Choice C uses 'each,' a distributive pronoun suggesting the two advances independently accomplished the same outcome, contradicting the passage's emphasis on their combined effect ('Together'). Choice D incorrectly argues that a compound subject joined by 'and' can be treated as singular merely because the two elements share a common theme."
+}

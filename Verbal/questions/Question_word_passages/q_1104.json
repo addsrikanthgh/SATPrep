@@ -1,0 +1,16 @@
+{
+  "id": "q_1104",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Novelists Chimamanda Ngozi Adichie and Zadie Smith have both been celebrated for their expansive social novels and their engagement with questions of identity, belonging, and postcolonial experience. In a widely circulated 2019 interview, she discussed how her upbringing on two continents had shaped her narrative perspective.",
+  "question": "The pronoun 'she' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Adichie",
+    "B": "Smith",
+    "C": "the Nigerian novelist",
+    "D": "No change; 'she' refers to whichever author gave the interview, which is determinable from context"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Adichie and Smith are female, so 'she' could refer to either. The phrase 'upbringing on two continents' slightly suggests Adichie (Nigeria and the US), but this is an inference that formal writing cannot rely upon. Choice A names Adichie explicitly, eliminating ambiguity. Choice B would assign the interview to Smith. Choice C uses 'the Nigerian novelist,' a description that applies to Adichie but introduces a label not established in the passage. Choice D incorrectly treats contextual inference as sufficient to resolve pronoun ambiguity in formal writing."
+}

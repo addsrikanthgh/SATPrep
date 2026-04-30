@@ -1,0 +1,16 @@
+{
+  "id": "q_1097",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The school board approved its revised curriculum framework after eight months of stakeholder consultations, public hearings, and committee reviews. Following the vote, they released a detailed implementation timeline indicating that the new standards would take effect in the following academic year.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the administrators",
+    "B": "it",
+    "C": "those board members",
+    "D": "No change; 'they' correctly refers to the elected board members who voted"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The school board' is a singular collective noun established with 'its revised curriculum framework.' The second sentence shifts to the plural 'they,' creating an inconsistency. Choice B replaces 'they' with 'it,' maintaining singular agreement with the established antecedent. Choices A and C introduce new noun phrases not present in the passage. Choice D incorrectly argues that individual board members justify a plural pronoun; collective nouns operating as a unit require singular pronouns in formal writing."
+}

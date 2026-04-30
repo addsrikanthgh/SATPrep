@@ -1,0 +1,16 @@
+{
+  "id": "q_1548",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A sleep researcher tested the average response time (in milliseconds) of participants on a cognitive reaction test after different amounts of sleep the previous night.\n\n| Hours of Sleep | Average Response Time (ms) |\n|---|---|\n| 4 hours | 412 |\n| 5 hours | 368 |\n| 6 hours | 321 |\n| 7 hours | 289 |\n| 8 hours | 275 |\n| 9 hours | 278 |\n\nThe researcher concluded that reaction time improves (decreases) as sleep increases up to eight hours, with little additional benefit beyond that.",
+  "question": "Which finding from the data most directly supports the researcher's conclusion?",
+  "choices": {
+    "A": "Participants who slept 4 hours had the slowest average response time at 412 ms.",
+    "B": "Response time decreases consistently from 4 to 8 hours of sleep (412 ms to 275 ms), but the difference between 8 and 9 hours of sleep is only 3 ms—negligible compared to the 137 ms improvement seen between 4 and 8 hours.",
+    "C": "Participants who slept 9 hours had a slightly slower response time (278 ms) than those who slept 8 hours (275 ms).",
+    "D": "The largest single-hour improvement occurs between 6 and 7 hours of sleep."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher's conclusion has two components: (1) response time improves as sleep increases up to 8 hours, and (2) there is little additional benefit beyond 8 hours. Choice B addresses both components directly: it notes the consistent improvement from 4 to 8 hours (412 to 275 ms, a 137 ms improvement) and then highlights that the difference between 8 and 9 hours is negligible (only 3 ms). This two-part evidence directly matches the two-part conclusion. Choice A addresses only one end of the sleep range. Choice C notes only the 8-to-9-hour comparison without establishing the broader improvement trend. Choice D identifies a specific single-hour improvement without addressing the plateau after 8 hours."
+}

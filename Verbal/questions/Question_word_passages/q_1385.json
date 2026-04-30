@@ -1,0 +1,16 @@
+{
+  "id": "q_1385",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "While the initial clinical results were promising, the drug's approval by the FDA was delayed for more than three years. Because the manufacturer could not produce sufficient evidence of long-term safety in patients over seventy, a demographic that represented the primary target population for the medication.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "While the initial clinical results were promising, the drug's approval by the FDA was delayed for more than three years because the manufacturer could not produce sufficient evidence of long-term safety in patients over seventy, a demographic that represented the primary target population for the medication.",
+    "B": "While the initial clinical results were promising, the drug's approval by the FDA was delayed for more than three years; because the manufacturer could not produce sufficient evidence of long-term safety in patients over seventy.",
+    "C": "While the initial clinical results were promising, the FDA delayed approving the drug for over three years. The manufacturer could not produce sufficient evidence of long-term safety for patients over seventy.",
+    "D": "No change; 'Because the manufacturer could not produce' is a complete sentence that gives the reason for the delay."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence beginning with 'Because the manufacturer could not produce sufficient evidence of long-term safety in patients over seventy, a demographic that represented the primary target population for the medication' is a subordinate clause fragment. 'Because' is a subordinating conjunction that begins a dependent clause; this clause modifies the delay and cannot stand alone. It must be attached to the main clause it explains. Choice A removes the period after 'years' and attaches the 'because' clause directly to the preceding main clause. Choice B uses a semicolon before the 'because' clause—semicolons introduce independent clauses, not subordinate ones. Choice C rewrites the passage as two sentences. Choice D incorrectly defends the subordinate clause fragment."
+}

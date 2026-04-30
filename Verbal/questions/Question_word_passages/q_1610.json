@@ -1,0 +1,16 @@
+{
+  "id": "q_1610",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "Among the many paradoxes of the scientific enterprise is that the most consequential discoveries often emerge from anomalies—data points that resist incorporation into the prevailing theory. Most researchers, under pressure to produce positive results and unwilling to risk their reputations on marginal findings, discard or explain away such anomalies. It takes a particular temperament—curious, persistent, and unencumbered by investment in the current consensus—to pursue what looks like a dead end.",
+  "question": "As used in the passage, 'unencumbered' most nearly means",
+  "choices": {
+    "A": "uninterested",
+    "B": "not weighed down or restricted",
+    "C": "uneducated",
+    "D": "publicly celebrated"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the researcher who pursues anomalies must be 'unencumbered by investment in the current consensus.' 'Unencumbered' means not burdened, hindered, or restricted by something. In this case, the 'encumbrance' is a personal stake in the prevailing theory—if a researcher is heavily invested in the current consensus, they will be motivated to dismiss anomalies rather than pursue them. Being 'unencumbered' by this investment means being free from that constraining psychological burden. Choice B, 'not weighed down or restricted,' captures this precisely. Choice A ('uninterested') implies apathy rather than freedom from constraint. Choice C ('uneducated') confuses lack of investment in consensus with lack of knowledge. Choice D ('publicly celebrated') has no connection to the passage."
+}

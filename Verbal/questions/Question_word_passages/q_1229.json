@@ -1,0 +1,16 @@
+{
+  "id": "q_1229",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Specializing in the constitutional history of the post-Reconstruction era, the transformation of civil rights law after the Civil War was the subject of Professor Langston's most influential monograph. The book is now required reading in graduate programs in both history and law.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Specializing in the constitutional history of the post-Reconstruction era, Professor Langston made the transformation of civil rights law after the Civil War the subject of his most influential monograph.",
+    "B": "The transformation of civil rights law, specializing in post-Reconstruction constitutional history, was the subject of Professor Langston's most influential monograph.",
+    "C": "Professor Langston's specialization in post-Reconstruction constitutional history transformed civil rights law after the Civil War.",
+    "D": "No change; 'specializing' describes Professor Langston's academic focus, which is the central topic of the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Specializing in the constitutional history of the post-Reconstruction era' describes Professor Langston, who specializes in this area. As written, 'the transformation of civil rights law' is the subject, implying that a historical transformation is an academic specialist—illogical. Choice A restructures with 'Professor Langston' as the subject. Choice B attaches the phrase to 'The transformation of civil rights law,' preserving the error. Choice C converts the participial phrase into a noun phrase subject, changes the meaning (implying Langston's specialization caused a transformation), and loses the monograph focus. Choice D incorrectly argues that contextual relevance resolves the grammatical problem."
+}

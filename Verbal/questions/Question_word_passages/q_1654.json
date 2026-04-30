@@ -1,0 +1,16 @@
+{
+  "id": "q_1654",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "Clinical trials for the new antibiotic showed it was effective against drug-resistant bacteria in laboratory settings and in animal models. ______ when researchers moved to Phase II human trials, the drug's efficacy dropped significantly, and several participants experienced unexpected adverse reactions that had not appeared in the preclinical studies.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Furthermore,",
+    "B": "In other words,",
+    "C": "As expected,",
+    "D": "However,"
+  },
+  "correct_answer": "D",
+  "explanation": "'However' is correct because the second sentence describes a reversal of the positive results described in the first sentence. The first sentence reports success (effective in lab and animal models); the second reports failure and complications in human trials. 'However' signals a contrast or reversal—the expected continuation was not borne out. Choice A ('Furthermore') signals additional supporting information, but the human trial results undermine, rather than add to, the positive preclinical results. Choice B ('In other words') signals a restatement, but the human trial problems are not a restatement of the lab success—they contradict it. Choice C ('As expected') signals that the human trial results were anticipated, but they clearly were not (they 'had not appeared in the preclinical studies')."
+}

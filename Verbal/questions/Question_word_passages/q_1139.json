@@ -1,0 +1,16 @@
+{
+  "id": "q_1139",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Federal Reserve released its quarterly Beige Book summary of economic conditions across the twelve Federal Reserve Districts last Wednesday. In the accompanying statement, they indicated that regional economic activity had expanded at a modest pace, with continued strength in consumer spending and a cooling in labor market tightness.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the governors",
+    "B": "it",
+    "C": "Federal Reserve officials",
+    "D": "No change; 'they' refers to the Federal Reserve's regional bank presidents who contributed to the report"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The Federal Reserve' is singular, confirmed by 'its quarterly Beige Book summary.' The second sentence uses 'they,' a plural pronoun, creating a mismatch. Choice B replaces 'they' with 'it.' Choices A and C introduce new noun phrases not established as antecedents. Choice D incorrectly treats implied regional bank presidents as the grammatical antecedent; the stated antecedent is the singular Federal Reserve."
+}

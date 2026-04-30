@@ -1,0 +1,16 @@
+{
+  "id": "q_1319",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Each recommendation submitted by the ad hoc committee on student wellness, which included proposals for extended mental health services, reduced course loads, and expanded peer mentoring programs, were discussed at length during the three-hour faculty meeting. No vote was taken.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Each recommendation submitted by the ad hoc committee on student wellness, which included proposals for extended mental health services, reduced course loads, and expanded peer mentoring programs, was discussed at length during the three-hour faculty meeting.",
+    "B": "Each recommendation submitted by the ad hoc committee on student wellness were discussed at length during the three-hour faculty meeting.",
+    "C": "The recommendations submitted by the ad hoc committee on student wellness, which included proposals for extended mental health services and expanded peer mentoring programs, were discussed during the meeting.",
+    "D": "No change; 'were discussed' correctly agrees with 'proposals,' the plural noun nearest the main verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'Each recommendation,' a singular construction. 'Each' is always singular, and 'recommendation' is its head noun. The relative clause 'which included proposals for extended mental health services, reduced course loads, and expanded peer mentoring programs' is a parenthetical modifier and does not change the subject's number. The singular verb 'was discussed' is required. Choice A uses 'was discussed.' Choice B preserves 'were discussed' and removes the relative clause—still wrong. Choice C changes the subject to the plural 'The recommendations' and uses 'were discussed'—internally consistent but changes the sentence's structure. Choice D incorrectly identifies 'proposals' as the governing subject."
+}

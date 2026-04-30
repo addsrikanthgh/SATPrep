@@ -1,0 +1,16 @@
+{
+  "id": "q_1420",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The project manager updated the timeline after consulting with all three subcontractors. Pushing the anticipated completion date back by six weeks due to supply chain delays affecting the delivery of the custom-manufactured steel components required for the final phase of construction.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The project manager updated the timeline after consulting with all three subcontractors, pushing the anticipated completion date back by six weeks due to supply chain delays affecting the delivery of the custom-manufactured steel components required for the final phase of construction.",
+    "B": "The project manager updated the timeline after consulting with all three subcontractors; pushing the anticipated completion date back by six weeks due to supply chain delays affecting the delivery of custom steel components.",
+    "C": "After consulting with all three subcontractors, the project manager updated the timeline, pushing the anticipated completion date back by six weeks due to supply chain delays affecting the delivery of custom steel components.",
+    "D": "No change; 'Pushing the anticipated completion date back' is a complete sentence because it specifies the outcome of the timeline update."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Pushing the anticipated completion date back by six weeks due to supply chain delays affecting the delivery of the custom-manufactured steel components required for the final phase of construction' is a participial phrase fragment. It begins with 'Pushing,' a present participle, and has no subject or main verb. It describes the result of the timeline update and should be attached to the preceding sentence. Choice A attaches the participial phrase with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect. Choice C restructures the sentence by moving the consultation to the front as an introductory phrase—also grammatically correct. Choice D incorrectly defends the fragment."
+}

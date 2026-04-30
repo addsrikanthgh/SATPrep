@@ -1,0 +1,16 @@
+{
+  "id": "q_1044",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Discovered in a remote region of Patagonia, the paleontologist announced that the fossil represented a previously unknown species of sauropod dinosaur. The specimen, estimated to be approximately 98 million years old, measured nearly 40 meters from head to tail—potentially making it the largest land animal ever to have lived on Earth.",
+  "question": "Which choice best corrects the modifier error in the first sentence?",
+  "choices": {
+    "A": "The paleontologist, discovered in a remote region of Patagonia, announced that the fossil represented a previously unknown species of sauropod dinosaur.",
+    "B": "The paleontologist announced that the fossil, discovered in a remote region of Patagonia, represented a previously unknown species of sauropod dinosaur.",
+    "C": "Discovered in a remote region of Patagonia, the fossil that the paleontologist announced represented a previously unknown species of sauropod dinosaur.",
+    "D": "The paleontologist announced the fossil, discovered in a remote region of Patagonia, representing a previously unknown species of sauropod dinosaur."
+  },
+  "correct_answer": "B",
+  "explanation": "The original sentence contains a dangling modifier: 'Discovered in a remote region of Patagonia' is an introductory participial phrase that must modify the subject immediately following the comma. In the original, that subject is 'the paleontologist,' implying the paleontologist was discovered in Patagonia rather than the fossil. Choice B corrects this by repositioning the participial phrase as an embedded modifier directly after 'the fossil,' its intended referent. Choice A reproduces the original error, still describing the paleontologist as discovered. Choice C restructures the sentence awkwardly, creating a relative clause construction that is grammatically strained. Choice D omits the verb 'represented,' leaving the participial 'representing' without a main clause, which creates a sentence fragment."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1202",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The documentary crew barely captured footage of the rare snow leopard on camera during the four-week expedition. The few seconds of film they did obtain were widely shared and became the centerpiece of the finished documentary.",
+  "question": "The word 'barely' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The documentary crew captured barely any footage of the rare snow leopard on camera during the four-week expedition.",
+    "B": "Barely the documentary crew captured footage of the rare snow leopard on camera during the four-week expedition.",
+    "C": "The documentary crew captured footage of the barely rare snow leopard on camera during the four-week expedition.",
+    "D": "No change; 'barely captured' means they came very close to not capturing any footage, which is consistent with the second sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning, supported by the second sentence (they got only 'a few seconds of film'), is that they obtained very little footage—the amount was minimal. 'Barely' should modify 'any footage,' not the verb 'captured.' As written, 'barely captured' means the capturing action nearly didn't happen, which focuses on the act rather than the quantity obtained. Choice A conveys that barely any footage was obtained, consistent with the context. Choice B places 'barely' before the subject, implying the crew barely existed. Choice C places 'barely' before 'rare,' which is meaningless. Choice D incorrectly defends the current usage as consistent with context."
+}

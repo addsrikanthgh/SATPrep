@@ -1,0 +1,16 @@
+{
+  "id": "q_1227",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Trained as an architect but drawn irresistibly to documentary filmmaking, the built environment became the recurring visual language of the director's most celebrated films. Her documentaries on urban renewal and public housing are studied in both architecture schools and film programs.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Trained as an architect but drawn irresistibly to documentary filmmaking, the director made the built environment the recurring visual language of her most celebrated films.",
+    "B": "The built environment, trained as an architect and drawn to documentary filmmaking, became the recurring visual language of the director's films.",
+    "C": "Drawn to documentary filmmaking, the director's built environment became the recurring visual language of her most celebrated films.",
+    "D": "No change; 'trained' and 'drawn' describe the background that shaped the director's aesthetic focus on the built environment"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrases 'Trained as an architect but drawn irresistibly to documentary filmmaking' describe the director, who was trained and drawn in these directions. As written, 'the built environment' is the subject, implying it was trained as an architect—illogical. Choice A restructures with 'the director' as the subject. Choice B attaches both phrases to 'The built environment,' preserving the illogical attribution. Choice C keeps 'the director's built environment' as the subject after a shortened participial phrase, which is still wrong—'the director's built environment' is not the entity that was drawn to filmmaking. Choice D incorrectly argues that contextual sense resolves the grammatical error."
+}

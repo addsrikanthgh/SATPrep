@@ -1,0 +1,16 @@
+{
+  "id": "q_1087",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The international nonprofit organization launched its decade-long campaign to improve water access in rural communities across East Africa in 2015. By 2024, they had installed more than four thousand water purification systems in villages that previously relied on contaminated sources.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the villages",
+    "B": "it",
+    "C": "those workers",
+    "D": "No change; 'they' refers to the organization's field teams and volunteers"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent is 'The international nonprofit organization,' a singular noun. The first sentence correctly uses 'its decade-long campaign,' establishing the organization as singular. The second sentence then shifts to 'they,' a plural pronoun, creating an agreement error. Choice B replaces 'they' with 'it,' maintaining consistency with the singular antecedent. Choice A would make the villages the subject of installing purification systems, reversing the logical meaning. Choice C introduces 'those workers,' a noun not found in the passage. Choice D incorrectly argues that implied field teams can serve as the antecedent; the grammatical antecedent is the singular 'organization,' not its implied employees or volunteers."
+}

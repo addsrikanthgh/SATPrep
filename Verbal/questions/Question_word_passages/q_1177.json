@@ -1,0 +1,16 @@
+{
+  "id": "q_1177",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Fascinated by the mathematical structure underlying harmonic progressions, jazz theory became the central focus of Wynton Marsalis's educational outreach programs at Lincoln Center. Through these programs, he sought to show young musicians that jazz was as rigorous and intellectually demanding as any European classical tradition.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Fascinated by the mathematical structure underlying harmonic progressions, Wynton Marsalis made jazz theory the central focus of his educational outreach programs at Lincoln Center.",
+    "B": "Jazz theory, fascinated by the mathematical structure underlying harmonic progressions, became the central focus of Marsalis's programs.",
+    "C": "Wynton Marsalis's programs at Lincoln Center were fascinated by jazz theory and the mathematical structure underlying harmonic progressions.",
+    "D": "No change; 'fascinated' modifies Wynton Marsalis, who is named later in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Fascinated by the mathematical structure underlying harmonic progressions' describes Wynton Marsalis. As written, 'jazz theory' is the subject, implying jazz theory is fascinated—which is illogical. Choice A restructures the sentence with Marsalis as the subject immediately after the participial phrase. Choice B attaches the phrase directly to 'Jazz theory,' making the error explicit. Choice C removes the participial phrase and creates a passive, awkward restatement that loses the original meaning. Choice D incorrectly argues that naming Marsalis later in the sentence satisfies the requirement."
+}

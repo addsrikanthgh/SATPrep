@@ -1,0 +1,16 @@
+{
+  "id": "q_1414",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The investigative journalist spent two years building her sources within the pharmaceutical industry, her persistence ultimately paid off when a senior compliance officer agreed to speak on the record about systemic safety violations that had been concealed from regulators for nearly a decade.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The investigative journalist spent two years building her sources within the pharmaceutical industry; her persistence ultimately paid off when a senior compliance officer agreed to speak on the record about systemic safety violations that had been concealed from regulators for nearly a decade.",
+    "B": "The investigative journalist spent two years building her sources within the pharmaceutical industry, and her persistence ultimately paid off when a senior compliance officer agreed to speak on the record about systemic safety violations.",
+    "C": "After spending two years building her sources within the pharmaceutical industry, the investigative journalist's persistence paid off when a senior compliance officer agreed to speak on the record.",
+    "D": "No change; the comma after 'pharmaceutical industry' correctly introduces a clause that describes the outcome of the journalist's effort."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'the pharmaceutical industry,' the sentence continues with 'her persistence ultimately paid off when a senior compliance officer agreed to speak on the record'—an independent clause with its own subject ('her persistence') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two related independent clauses. Choice B adds 'and,' a coordinating conjunction—also valid. Choice C converts the first clause into an introductory participial phrase, though 'the investigative journalist's persistence paid off' slightly changes the emphasis. Choice A makes the minimal structural change. Choice D incorrectly defends the comma splice."
+}

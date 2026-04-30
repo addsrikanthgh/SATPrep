@@ -1,0 +1,16 @@
+{
+  "id": "q_1382",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The glacier had retreated more than three miles over the previous two decades. A dramatic acceleration compared to the average rate of retreat recorded in the first half of the twentieth century, when the glacier moved back only about a quarter mile per decade. Scientists attributed the change to rising regional temperatures.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The glacier had retreated more than three miles over the previous two decades—a dramatic acceleration compared to the average rate of retreat recorded in the first half of the twentieth century, when the glacier moved back only about a quarter mile per decade.",
+    "B": "The glacier had retreated more than three miles over the previous two decades; a dramatic acceleration compared to the average rate of retreat recorded in the first half of the twentieth century.",
+    "C": "The glacier had retreated more than three miles over the previous two decades, which was dramatic compared to the first half of the twentieth century when the glacier moved back about a quarter mile per decade.",
+    "D": "No change; 'A dramatic acceleration' is a complete sentence because the relative clause 'when the glacier moved back' gives it an implicit subject."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'A dramatic acceleration compared to the average rate of retreat recorded in the first half of the twentieth century, when the glacier moved back only about a quarter mile per decade' is an appositive noun phrase fragment. It has no main verb—'A dramatic acceleration' is the head noun, followed by a participial phrase ('compared to...') and a relative clause ('when the glacier moved back'), but there is no predicate. This appositive identifies and elaborates on the glacier's three-mile retreat described in the first sentence. A dash effectively attaches it. Choice A uses a dash. Choice B uses a semicolon before the fragment, which is incorrect. Choice C converts the fragment into a relative clause modifying the retreat. Choice D incorrectly defends the fragment."
+}

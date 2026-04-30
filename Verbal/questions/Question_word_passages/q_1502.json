@@ -1,0 +1,16 @@
+{
+  "id": "q_1502",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Sahara Desert, now the world's largest hot desert at roughly nine million square kilometers, was not always a barren wasteland. Roughly six thousand to eleven thousand years ago, during a period geologists call the African Humid Period, the Sahara was a green landscape dotted with lakes, rivers, grasslands, and human settlements. Rock art found across the region depicts hippos, giraffes, cattle, and crocodiles—animals that require water and vegetation to survive. This evidence suggests that the Sahara's transformation from savanna to desert was driven by subtle shifts in Earth's orbital parameters that altered the intensity of monsoon rainfall over North Africa.",
+  "question": "What is the primary function of the third sentence ('Rock art found across the region...') in the passage?",
+  "choices": {
+    "A": "To introduce artistic traditions of ancient Saharan civilizations",
+    "B": "To provide evidence supporting the claim in the second sentence that the Sahara was once a green, inhabited landscape",
+    "C": "To explain the orbital shifts described in the fourth sentence",
+    "D": "To argue that hippos and giraffes still live in the Sahara today"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence makes the claim that the Sahara was once a green, habitable landscape with lakes, rivers, and human settlements. The third sentence provides supporting evidence: rock art depicting water-dependent animals (hippos, giraffes, cattle, crocodiles) that could not survive in a desert environment. This visual archaeological evidence corroborates the claim that the region once supported abundant water and vegetation. Choice A is incorrect—while the sentence mentions art, its function is evidentiary, not artistic. Choice C is incorrect—orbital shifts are explained in the fourth sentence, not the third. Choice D is incorrect—the animals are listed to indicate past conditions, not present populations."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1309",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "News of the company's unexpected merger with its largest competitor have spread rapidly through financial markets, causing a significant spike in trading volume for both firms. Analysts are divided on whether the deal will create long-term value for shareholders.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "News of the company's unexpected merger with its largest competitor has spread rapidly through financial markets, causing a significant spike in trading volume for both firms.",
+    "B": "News of the company's unexpected merger with its largest competitor have spread rapidly through financial markets.",
+    "C": "News of the company's unexpected mergers with its largest competitor has spread rapidly through financial markets.",
+    "D": "No change; 'have spread' correctly agrees with 'financial markets,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "Like 'measles,' 'physics,' and 'mathematics,' the word 'news' ends in 's' but is grammatically singular. It always takes a singular verb. The singular verb 'has spread' is required. Choice A uses 'has spread.' Choice B preserves the error with 'have spread.' Choice C uses 'has spread' but changes 'merger' to 'mergers,' altering the meaning (the sentence refers to a single merger). Choice D incorrectly applies proximity agreement to 'financial markets.'"
+}

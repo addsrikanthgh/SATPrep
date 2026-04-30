@@ -1,0 +1,16 @@
+{
+  "id": "q_1472",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The city council voted seven to two in favor of the rezoning proposal, three council members who had initially opposed the measure changed their votes after the developer agreed to include twenty percent affordable housing units in the project.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The city council voted seven to two in favor of the rezoning proposal; three council members who had initially opposed the measure changed their votes after the developer agreed to include twenty percent affordable housing units in the project.",
+    "B": "The city council voted seven to two in favor of the rezoning proposal three council members who had initially opposed the measure changed their votes after the developer agreed to include twenty percent affordable housing units.",
+    "C": "The city council voted seven to two in favor of the rezoning proposal, and three council members who had initially opposed the measure changed their votes after the developer agreed to include twenty percent affordable housing units.",
+    "D": "No change; the comma after 'proposal' is correct because the second clause explains why the vote was seven to two."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a comma splice—two independent clauses joined by only a comma. 'The city council voted seven to two in favor of the rezoning proposal' and 'three council members who had initially opposed the measure changed their votes after the developer agreed to include twenty percent affordable housing units in the project' are both complete independent clauses. Choice A correctly uses a semicolon. Choice B creates a fused sentence. Choice C adds the coordinating conjunction 'and' after the comma—this is also a valid fix, but A requires the minimal change. Choice D incorrectly defends the comma splice."
+}

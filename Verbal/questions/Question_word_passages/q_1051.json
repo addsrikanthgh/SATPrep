@@ -1,0 +1,16 @@
+{
+  "id": "q_1051",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "Vibrio cholerae, the bacterium responsible for cholera, can persist in aquatic environments for weeks without a host. Once they enter the human digestive system, however, they produce a toxin that disrupts fluid absorption in the intestines, leading to the severe dehydration characteristic of the disease.",
+  "question": "Which choice best corrects the pronoun error in the underlined portion of the passage?",
+  "choices": {
+    "A": "Once it enters the human digestive system, however, it produces",
+    "B": "Once these enter the human digestive system, however, they produce",
+    "C": "Once those enter the human digestive system, however, they produce",
+    "D": "No change; plural pronouns are appropriate when discussing a pathogen's effects on multiple hosts"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent of 'they' in the second sentence is 'Vibrio cholerae, the bacterium'—a singular noun explicitly identified as a single organism. A singular antecedent requires a singular pronoun. Choice A correctly uses 'it' for both pronoun references, agreeing with the singular 'bacterium.' Choice B replaces only the first 'they' with 'these' (plural demonstrative), which still fails to match the singular antecedent. Choice C similarly uses 'those' (plural demonstrative) for the first pronoun while keeping the second as plural, not resolving the disagreement. Choice D incorrectly conflates the idea of a pathogen infecting multiple hosts with the grammatical number of the noun 'bacterium,' which is singular regardless of how many hosts it may infect."
+}

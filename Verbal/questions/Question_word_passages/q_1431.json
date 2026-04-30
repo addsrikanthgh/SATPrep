@@ -1,0 +1,16 @@
+{
+  "id": "q_1431",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Astronomers have long debated the origins of fast radio bursts, these millisecond-duration signals arrive from billions of light-years away and carry more energy than the sun releases in an entire day. The leading hypothesis now links them to magnetars—rapidly rotating neutron stars with extraordinarily powerful magnetic fields.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "Astronomers have long debated the origins of fast radio bursts; these millisecond-duration signals arrive from billions of light-years away and carry more energy than the sun releases in an entire day.",
+    "B": "Astronomers have long debated the origins of fast radio bursts these millisecond-duration signals arrive from billions of light-years away and carry more energy than the sun releases in an entire day.",
+    "C": "Astronomers have long debated the origins of fast radio bursts: these millisecond-duration signals arrive from billions of light-years away and carry more energy than the sun releases in an entire day.",
+    "D": "No change; the comma after 'fast radio bursts' correctly introduces a clause that explains what they are."
+  },
+  "correct_answer": "C",
+  "explanation": "The original sentence is a comma splice—two independent clauses joined by only a comma. 'Astronomers have long debated the origins of fast radio bursts' is a complete independent clause, and 'these millisecond-duration signals arrive from billions of light-years away and carry more energy than the sun releases in an entire day' is a second independent clause that explains what fast radio bursts are. A colon is appropriate here because the second clause directly defines and elaborates on the subject introduced in the first clause. Choice C correctly uses a colon. Choice A uses a semicolon—also grammatically valid, though the colon better signals the explanatory relationship. Choice B creates a fused sentence. Choice D incorrectly defends the comma splice."
+}

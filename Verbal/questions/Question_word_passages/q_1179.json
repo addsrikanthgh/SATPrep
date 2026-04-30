@@ -1,0 +1,16 @@
+{
+  "id": "q_1179",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Peering through the telescope for the first time, the rings of Saturn filled the young astronomer with wonder that she had rarely felt since childhood. She spent the rest of the night sketching what she saw, convinced she would dedicate her career to planetary science.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Peering through the telescope for the first time, the young astronomer was filled with wonder at the rings of Saturn that she had rarely felt since childhood.",
+    "B": "The rings of Saturn, peering through the telescope for the first time, filled the young astronomer with wonder.",
+    "C": "Peering through the telescope, the young astronomer and the rings of Saturn created a sense of wonder she had rarely felt.",
+    "D": "No change; 'peering' modifies the young astronomer, who is mentioned in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Peering through the telescope for the first time' describes the young astronomer—she is the one peering. As written, 'the rings of Saturn' is the subject of the main clause, implying the rings are peering through the telescope, which is impossible. Choice A restructures the sentence with 'the young astronomer' as the subject, immediately following the participial phrase. Choice B makes the error worse by placing the phrase next to 'the rings of Saturn.' Choice C creates an awkward compound subject that changes the meaning. Choice D incorrectly argues that mentioning the astronomer elsewhere in the sentence satisfies the participial requirement."
+}

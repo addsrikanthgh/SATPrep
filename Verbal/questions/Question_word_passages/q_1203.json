@@ -1,0 +1,16 @@
+{
+  "id": "q_1203",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Built during the height of the Cold War and designed to withstand a nuclear blast, government officials used the underground bunker beneath the old Treasury building as a meeting site for the National Security Council during three different administrations. The facility has since been decommissioned and converted into a public museum.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Built during the height of the Cold War and designed to withstand a nuclear blast, the underground bunker beneath the old Treasury building was used by government officials as a National Security Council meeting site during three different administrations.",
+    "B": "Government officials, built during the height of the Cold War and designed to withstand a nuclear blast, used the underground bunker as an NSC meeting site.",
+    "C": "The National Security Council, built during the Cold War, used the underground bunker during three administrations.",
+    "D": "No change; 'built' and 'designed' modify the bunker, which is named later in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrases 'Built during the height of the Cold War and designed to withstand a nuclear blast' describe the bunker. As written, 'government officials' is the subject, implying officials were built during the Cold War and designed to withstand nuclear blasts—illogical. Choice A restructures with 'the underground bunker' as the subject. Choice B makes the error explicitly absurd by placing the participial phrases next to 'Government officials.' Choice C removes both participial phrases, losing their descriptive content. Choice D incorrectly argues that naming the bunker later in the sentence resolves the dangling modifier."
+}

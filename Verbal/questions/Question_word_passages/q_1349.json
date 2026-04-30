@@ -1,0 +1,16 @@
+{
+  "id": "q_1349",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The treaty was signed in 1648 at the conclusion of the Thirty Years' War, it established a system of sovereign states and is widely regarded by historians as the foundation of modern international relations. Scholars continue to debate its precise legal and political implications.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "Signed in 1648 at the conclusion of the Thirty Years' War, the treaty established a system of sovereign states and is widely regarded by historians as the foundation of modern international relations.",
+    "B": "The treaty was signed in 1648 at the conclusion of the Thirty Years' War; it established a system of sovereign states and is widely regarded by historians as the foundation of modern international relations.",
+    "C": "The treaty was signed in 1648 at the conclusion of the Thirty Years' War, establishing a system of sovereign states, and is widely regarded by historians as the foundation of modern international relations.",
+    "D": "No change; the comma between 'War' and 'it' correctly links the time of signing to what the treaty established."
+  },
+  "correct_answer": "B",
+  "explanation": "The original sentence is a comma splice—two independent clauses ('The treaty was signed in 1648 at the conclusion of the Thirty Years' War' and 'it established a system of sovereign states and is widely regarded by historians as the foundation of modern international relations') are joined by only a comma. Choice B uses a semicolon to correctly join the two related independent clauses. Choice A restructures the sentence by converting the first clause into a participial phrase ('Signed in 1648'), which is grammatically correct but changes the structure more significantly. Choice C creates a grammatically awkward parallel structure with 'establishing...and is.' Choice D incorrectly defends the comma splice."
+}

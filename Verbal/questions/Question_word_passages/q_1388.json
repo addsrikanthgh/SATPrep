@@ -1,0 +1,16 @@
+{
+  "id": "q_1388",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The director's fourth film received universal praise from critics, it was awarded the Palme d'Or at Cannes and subsequently named one of the decade's ten best films by more than a dozen major publications. Box office receipts were also unexpectedly strong.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The director's fourth film received universal praise from critics; it was awarded the Palme d'Or at Cannes and subsequently named one of the decade's ten best films by more than a dozen major publications.",
+    "B": "The director's fourth film received universal praise from critics, and it was awarded the Palme d'Or at Cannes and subsequently named one of the decade's ten best films.",
+    "C": "Awarded the Palme d'Or at Cannes, the director's fourth film received universal praise from critics and was named one of the decade's ten best films by more than a dozen major publications.",
+    "D": "No change; 'it was awarded the Palme d'Or' follows a comma because it elaborates on the film's praise."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses ('The director's fourth film received universal praise from critics' and 'it was awarded the Palme d'Or at Cannes and subsequently named one of the decade's ten best films by more than a dozen major publications') are joined by only a comma. Choice A uses a semicolon to correctly join the two related independent clauses. Choice B adds the coordinating conjunction 'and,' also a valid fix. Choice C restructures the sentence by leading with a participial phrase. Choice A makes the minimal punctuation change. Choice D incorrectly defends the comma splice by claiming elaboration justifies a comma."
+}

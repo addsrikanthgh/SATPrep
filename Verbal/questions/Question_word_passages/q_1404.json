@@ -1,0 +1,16 @@
+{
+  "id": "q_1404",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The Senate subcommittee released its findings after an eighteen-month investigation, the report documented more than forty instances of improper expense reimbursements and recommended that several agency officials be referred to the inspector general for further review.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The Senate subcommittee released its findings after an eighteen-month investigation; the report documented more than forty instances of improper expense reimbursements and recommended that several agency officials be referred to the inspector general for further review.",
+    "B": "The Senate subcommittee released its findings after an eighteen-month investigation, and the report documented more than forty instances of improper expense reimbursements and recommended that officials be referred to the inspector general.",
+    "C": "After an eighteen-month investigation, the Senate subcommittee released findings documenting more than forty instances of improper expense reimbursements and recommending referral of several officials to the inspector general.",
+    "D": "No change; the comma between 'investigation' and 'the report' introduces an explanatory clause that elaborates on the findings."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'an eighteen-month investigation,' the sentence continues with 'the report documented more than forty instances of improper expense reimbursements'—an independent clause with its own subject ('the report') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two related independent clauses. Choice B adds 'and,' a coordinating conjunction, which is also valid for joining independent clauses with a comma. Choice C restructures the sentence as a single participial construction. Choice A makes the minimal structural change. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1461",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The pharmaceutical company's patent for the blockbuster cholesterol drug expired last year as a result, four generic manufacturers have already released cheaper versions that are now covered under most major insurance plans.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The pharmaceutical company's patent for the blockbuster cholesterol drug expired last year; as a result, four generic manufacturers have already released cheaper versions that are now covered under most major insurance plans.",
+    "B": "The pharmaceutical company's patent for the blockbuster cholesterol drug expired last year, as a result, four generic manufacturers have already released cheaper versions that are now covered under most major insurance plans.",
+    "C": "The pharmaceutical company's patent for the blockbuster cholesterol drug expired last year as a result four generic manufacturers have already released cheaper versions that are now covered under most major insurance plans.",
+    "D": "No change; 'as a result' is a transitional phrase that can follow a comma between two independent clauses."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'The pharmaceutical company's patent for the blockbuster cholesterol drug expired last year' and 'as a result, four generic manufacturers have already released cheaper versions' are both independent clauses. 'As a result' is a conjunctive adverb that signals a cause-and-effect relationship; like other conjunctive adverbs, it cannot join two independent clauses with only a comma. Choice A correctly uses a semicolon before 'as a result' and a comma after it. Choice B creates a comma splice. Choice C removes punctuation entirely, worsening the error. Choice D incorrectly defends the missing punctuation."
+}

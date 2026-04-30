@@ -1,0 +1,16 @@
+{
+  "id": "q_1254",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the proposed regulation nor the alternative compliance frameworks put forward by the industry coalition addresses the core issue of third-party data sharing that consumer advocates have identified as the primary risk. Regulators say a revised draft will be released next quarter.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'addresses' should be 'address' because the compound subject joined by 'neither/nor' requires a plural verb.",
+    "B": "Yes; 'addresses' should be 'address' because 'the alternative compliance frameworks' is the nearer plural subject, requiring a plural verb.",
+    "C": "Yes; 'addresses' should be 'address' because 'put forward by the industry coalition' makes 'frameworks' the effective subject.",
+    "D": "No; 'addresses' correctly agrees with 'the proposed regulation,' the nearer singular subject in the neither/nor construction."
+  },
+  "correct_answer": "B",
+  "explanation": "In neither/nor constructions, the verb agrees with the subject nearer to it. The nearer subject is 'the alternative compliance frameworks put forward by the industry coalition,' which is plural. Therefore, the plural verb 'address' is required—'addresses' (singular) is incorrect. Choice B correctly identifies that the nearer plural subject requires a plural verb. Choice A incorrectly states that neither/nor always requires a plural verb; the number depends on the nearer subject. Choice C incorrectly claims 'put forward by the industry coalition' changes which noun is the subject. Choice D incorrectly identifies the nearer subject as 'the proposed regulation,' which is the farther subject."
+}

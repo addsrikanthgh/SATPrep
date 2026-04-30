@@ -1,0 +1,16 @@
+{
+  "id": "q_1522",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The process of photosynthesis converts light energy into chemical energy stored in glucose molecules. This process is fundamental to virtually all life on Earth, either directly, for organisms that photosynthesize, or indirectly, for animals that eat plants or plant-eating organisms. The overall equation is elegantly simple: six molecules of carbon dioxide and six molecules of water, powered by light energy, yield one glucose molecule and six molecules of oxygen. The oxygen released as a byproduct of photosynthesis is the source of the oxygen-rich atmosphere that makes Earth habitable for complex animal life.",
+  "question": "What is the primary function of the third sentence ('The overall equation is elegantly simple...') in the passage?",
+  "choices": {
+    "A": "To explain the ecological importance of photosynthesis to animal life",
+    "B": "To provide the chemical summary of the process described in the first sentence in concrete, quantified terms",
+    "C": "To argue that photosynthesis is too simple to be scientifically interesting",
+    "D": "To introduce the concept of oxygen as a byproduct of the reaction"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence defines photosynthesis in general terms—conversion of light to chemical energy. The third sentence provides the specific chemical equation: CO2 + H2O + light → glucose + O2, rendered in molecular counts. This quantifies and makes concrete the abstract description in the first sentence. Choice A is incorrect—the ecological importance is the focus of the second sentence. Choice C is incorrect—'elegantly simple' is a term of appreciation, not a dismissal of scientific interest. Choice D is incorrect—while oxygen is mentioned in the third sentence, the fourth sentence is where its significance as a byproduct is explained; the third sentence's function is to provide the chemical equation."
+}

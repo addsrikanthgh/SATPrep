@@ -1,0 +1,16 @@
+{
+  "id": "q_1137",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The parent-teacher organization voted to approve its annual fundraising plan, which included a fall carnival, an online auction, and a spring gala. At the next meeting, they allocated the projected revenue across three school priorities: library resources, playground equipment, and arts programming.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the parents",
+    "B": "it",
+    "C": "those members",
+    "D": "No change; 'they' correctly refers to the parents and teachers who are members of the organization"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The parent-teacher organization' is singular, confirmed by 'its annual fundraising plan.' The second sentence uses 'they,' a plural pronoun, creating a mismatch. Choice B replaces 'they' with 'it.' Choices A and C introduce new noun phrases not established as antecedents. Choice D incorrectly treats individual members as the grammatical antecedent; the stated antecedent is the singular organization."
+}

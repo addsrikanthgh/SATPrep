@@ -1,0 +1,16 @@
+{
+  "id": "q_1200",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To gain tenure at most research universities, peer-reviewed publications in top-tier journals, a strong record of external grant funding, and demonstrated teaching effectiveness are required of candidates. The specific weight assigned to each criterion varies significantly by institution and discipline.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "To gain tenure at most research universities, candidates must demonstrate peer-reviewed publications in top-tier journals, a strong record of external grant funding, and teaching effectiveness.",
+    "B": "Peer-reviewed publications, a strong record of external grant funding, and teaching effectiveness, to gain tenure at most research universities, are required of candidates.",
+    "C": "To gain tenure, peer-reviewed publications, grant funding, and teaching effectiveness are the requirements for candidates at most research universities.",
+    "D": "No change; 'to gain' establishes a condition that is fulfilled by meeting the listed requirements"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To gain tenure at most research universities' implies an agent who wants to gain tenure. As written, the subject is a list of qualifications—'peer-reviewed publications…grant funding…and teaching effectiveness'—which cannot gain tenure. Choice A restructures so 'candidates,' the logical agents, are the subject. Choice B moves the infinitive phrase mid-sentence as a parenthetical but still doesn't make candidates the explicit subject of the main clause. Choice C eliminates the infinitive phrase and restructures awkwardly. Choice D incorrectly argues that the infinitive establishes a condition rather than requiring a logical grammatical subject."
+}

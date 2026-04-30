@@ -1,0 +1,16 @@
+{
+  "id": "q_1446",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The renovation project ran fourteen months over schedule, costs exceeded the original budget by more than forty percent. The contractor blamed the delays on unforeseen structural issues in the building's foundation.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The renovation project ran fourteen months over schedule; costs exceeded the original budget by more than forty percent.",
+    "B": "The renovation project ran fourteen months over schedule costs exceeded the original budget by more than forty percent.",
+    "C": "The renovation project ran fourteen months over schedule: costs exceeded the original budget by more than forty percent.",
+    "D": "No change; the comma after 'schedule' is correct because the two clauses describe related aspects of the same failed project."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The renovation project ran fourteen months over schedule' and 'costs exceeded the original budget by more than forty percent' are both complete independent clauses. Choice A uses a semicolon to correctly join the two related clauses. Choice B creates a fused sentence. Choice C uses a colon—the second clause does relate to the first, but a colon is best when the second clause directly explains or defines something in the first; here the two clauses are parallel consequences of the same problem, making a semicolon more appropriate. Choice D incorrectly defends the comma splice."
+}

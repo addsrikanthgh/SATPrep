@@ -1,0 +1,16 @@
+{
+  "id": "q_1564",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A school district evaluated four reading intervention programs by measuring students' average reading level gains (in grade-level equivalents) over one academic year, as well as the cost per student for each program.\n\n| Program | Cost per Student ($) | Avg. Reading Level Gain |\n|---|---|---|\n| Program A | 120 | 0.8 grade levels |\n| Program B | 340 | 1.1 grade levels |\n| Program C | 210 | 1.4 grade levels |\n| Program D | 480 | 1.2 grade levels |\n\nThe district superintendent argued that Program C offers the best value for money—the highest gains at a moderate cost.",
+  "question": "Which comparison from the data most directly supports the superintendent's argument?",
+  "choices": {
+    "A": "Program C achieves the highest reading gain (1.4 grade levels) at a cost ($210) lower than both Program B ($340) and Program D ($480), which achieve lower gains of 1.1 and 1.2 grade levels respectively.",
+    "B": "Program D is the most expensive program at $480 per student.",
+    "C": "Program A has the lowest cost at $120 per student.",
+    "D": "Program B and Program D have similar reading gains despite very different costs."
+  },
+  "correct_answer": "A",
+  "explanation": "The superintendent's argument is that Program C is the best value: highest gains at moderate cost. The strongest support must show both that Program C achieves the highest gains AND that its cost is lower than programs with comparable or lower gains. Choice A does both: it confirms Program C has the highest gain (1.4) and shows that Programs B and D—which cost more ($340 and $480)—actually achieve lower gains (1.1 and 1.2). Program A costs less ($120) but achieves far lower gains (0.8). This makes Program C the clear best-value option: highest gains, and better cost efficiency than the two more expensive programs. Choice B identifies only Program D's cost. Choice C identifies only Program A's cost. Choice D makes a useful observation about B and D but doesn't show Program C's superior position."
+}

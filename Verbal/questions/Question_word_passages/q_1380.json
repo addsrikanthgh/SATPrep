@@ -1,0 +1,16 @@
+{
+  "id": "q_1380",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The historian's most recent monograph on the Reconstruction era has received wide critical acclaim. Especially for its innovative use of county courthouse records and freedmen's bureau documents that had previously been overlooked by scholars. The book is being considered for several national awards.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The historian's most recent monograph on the Reconstruction era has received wide critical acclaim, especially for its innovative use of county courthouse records and freedmen's bureau documents that had previously been overlooked by scholars.",
+    "B": "The historian's most recent monograph on the Reconstruction era has received wide critical acclaim; especially for its innovative use of county courthouse records and freedmen's bureau documents that had previously been overlooked.",
+    "C": "The historian's most recent monograph on the Reconstruction era has received acclaim. It is especially praised for its innovative use of courthouse records and freedmen's bureau documents previously overlooked by scholars.",
+    "D": "No change; 'Especially for its innovative use' is a complete sentence that qualifies the nature of the acclaim."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Especially for its innovative use of county courthouse records and freedmen's bureau documents that had previously been overlooked by scholars' is a fragment. It begins with the adverb 'Especially,' followed by a prepositional phrase—there is no subject or verb to form an independent clause. This phrase qualifies the 'wide critical acclaim' mentioned in the preceding sentence and should be attached to it with a comma. Choice A attaches the fragment to the preceding sentence. Choice B uses a semicolon before the fragment, which is incorrect. Choice C converts the fragment into a full sentence with a new subject ('It'). Choice D incorrectly defends the fragment."
+}

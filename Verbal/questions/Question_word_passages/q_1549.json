@@ -1,0 +1,16 @@
+{
+  "id": "q_1549",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An economist compared the unemployment rates (%) and the annual minimum wage (in dollars per hour) across five states in a single year.\n\n| State | Minimum Wage ($/hr) | Unemployment Rate (%) |\n|---|---|---|\n| State A | $7.25 | 5.8 |\n| State B | $10.00 | 4.9 |\n| State C | $12.00 | 4.3 |\n| State D | $15.00 | 3.8 |\n| State E | $13.50 | 4.1 |\n\nA student claimed that higher minimum wages are associated with higher unemployment rates in these states.",
+  "question": "Which observation about the data would most effectively undermine the student's claim?",
+  "choices": {
+    "A": "State D has the highest minimum wage at $15.00 per hour.",
+    "B": "The state with the lowest minimum wage (State A, $7.25) has the highest unemployment rate (5.8%), and the state with the highest minimum wage (State D, $15.00) has the lowest unemployment rate (3.8%), which is the opposite of what the student claims.",
+    "C": "State C and State E have similar unemployment rates despite having different minimum wages.",
+    "D": "The unemployment rate decreases from State A to State D as the minimum wage increases."
+  },
+  "correct_answer": "B",
+  "explanation": "The student claims higher minimum wages are associated with higher unemployment rates. To undermine this claim, the best evidence would show the opposite relationship. Choice B does exactly that: the lowest-wage state (State A, $7.25) actually has the highest unemployment rate (5.8%), and the highest-wage state (State D, $15.00) has the lowest unemployment rate (3.8%). This directly contradicts the student's claim by showing an inverse relationship at the extremes. Choice A simply identifies State D's wage without connecting it to unemployment. Choice C notes an inconsistency among two states but does not address the direction of the overall relationship. Choice D also describes the inverse relationship but less precisely than Choice B, which explicitly identifies both the extremes and names the direction."
+}

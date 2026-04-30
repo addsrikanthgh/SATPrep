@@ -1,0 +1,16 @@
+{
+  "id": "q_1115",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The gray wolf maintains its territorial boundaries through a combination of scent marking, howling, and direct confrontation with rival packs. Researchers have observed that once a pack establishes its range, they rarely expand into new territory unless food resources collapse below a critical threshold.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "those wolves",
+    "B": "the animals",
+    "C": "it",
+    "D": "No change; 'they' refers to the gray wolves that make up the pack"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent is 'a pack,' a singular collective noun confirmed by 'its range' in the same sentence. The plural 'they' then contradicts the singular frame. Choice C replaces 'they' with 'it,' maintaining agreement with the singular antecedent 'a pack.' Choices A and B introduce new plural noun phrases not established as antecedents. Choice D incorrectly appeals to individual wolves to justify a plural pronoun; the grammatical antecedent is the singular 'pack.'"
+}

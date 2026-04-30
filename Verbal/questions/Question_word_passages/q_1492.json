@@ -1,0 +1,16 @@
+{
+  "id": "q_1492",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The Amazon River discharges more fresh water into the ocean than any other river on Earth, accounting for roughly twenty percent of all river discharge globally. Its basin spans nine countries and contains more than ten percent of all species on Earth. The river's sheer volume of discharge significantly reduces the salinity of the Atlantic Ocean for hundreds of miles offshore. This vast freshwater plume has been detected by satellite instruments measuring ocean salinity from space.",
+  "question": "What is the primary function of the third sentence ('The river's sheer volume of discharge...') in the passage?",
+  "choices": {
+    "A": "To introduce a new topic about ocean salinity unrelated to the Amazon River",
+    "B": "To illustrate a concrete environmental consequence of the extraordinary discharge volume described in the first sentence",
+    "C": "To explain why the Amazon River is located in South America",
+    "D": "To contradict the claim in the second sentence about the river's basin size"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence establishes the Amazon's extraordinary freshwater discharge—twenty percent of all river discharge globally. The third sentence demonstrates a tangible consequence of that volume: the river lowers the salinity of the Atlantic Ocean for hundreds of miles. This is an elaboration of the first sentence's claim, giving the reader a concrete, observable effect that conveys the scale of what 'twenty percent of global river discharge' actually means in practice. Choice A is incorrect—the third sentence is directly about the Amazon's effect on the ocean, not a separate topic. Choice C is incorrect—the sentence says nothing about the river's geographic origins. Choice D is incorrect—the third sentence does not address the basin size mentioned in the second sentence."
+}

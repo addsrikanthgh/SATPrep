@@ -1,0 +1,16 @@
+{
+  "id": "q_1141",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The green sea turtle navigates thousands of miles across open ocean to return to the exact beach where it was born to nest. Despite this extraordinary feat, they face severe threats from plastic pollution, coastal development, and bycatch in commercial fishing operations.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the turtles",
+    "B": "those reptiles",
+    "C": "it",
+    "D": "No change; 'they' refers to green sea turtles as a species generally"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The green sea turtle' is singular, confirmed by 'it was born' in the first sentence. The second sentence uses 'they,' contradicting the singular frame. Choice C replaces 'they' with 'it.' Choices A and B introduce new plural nouns. Choice D argues for generic species reference; however, the passage explicitly used the singular pronoun 'it' in the first sentence, establishing a singular reference frame that must be maintained."
+}

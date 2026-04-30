@@ -1,0 +1,16 @@
+{
+  "id": "q_1357",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "After conducting an exhaustive review of ten thousand patient records spanning twenty years, the conclusions of the research team were that early dietary intervention significantly reduces the risk of type 2 diabetes in high-risk adolescent populations. The findings were submitted for peer review immediately.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "After conducting an exhaustive review of ten thousand patient records spanning twenty years, the research team concluded that early dietary intervention significantly reduces the risk of type 2 diabetes in high-risk adolescent populations.",
+    "B": "After conducting an exhaustive review of ten thousand patient records spanning twenty years, the conclusions of the research team were announced publicly.",
+    "C": "The research team, after conducting an exhaustive review of ten thousand patient records spanning twenty years, reached the conclusion that early dietary intervention significantly reduces the risk of type 2 diabetes.",
+    "D": "No change; the participial phrase 'After conducting' modifies the research team, which is identified through its conclusions."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a dangling modifier. The introductory adverbial phrase 'After conducting an exhaustive review of ten thousand patient records spanning twenty years' implies a human subject who conducted the review. But the grammatical subject of the main clause is 'the conclusions,' which cannot conduct a review. Choice A places 'the research team' as the subject of the main clause, correctly resolving the dangling modifier. Choice B shortens the sentence but still uses 'the conclusions of the research team' as the subject after the dangling modifier—the error is not fixed. Choice C uses an appositive construction to insert 'the research team' as the subject—grammatically correct, though the structure is slightly different. Choice D incorrectly defends the dangling modifier."
+}

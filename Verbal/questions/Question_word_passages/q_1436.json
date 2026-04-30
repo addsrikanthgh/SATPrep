@@ -1,0 +1,16 @@
+{
+  "id": "q_1436",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The record-breaking heat wave that struck the Pacific Northwest in the summer of 2021 killed hundreds of people and triggered widespread power outages, it also accelerated the deaths of an estimated one billion marine organisms along the region's coastline.",
+  "question": "Which choice correctly fixes the sentence boundary error?",
+  "choices": {
+    "A": "The record-breaking heat wave that struck the Pacific Northwest in the summer of 2021 killed hundreds of people and triggered widespread power outages; it also accelerated the deaths of an estimated one billion marine organisms along the region's coastline.",
+    "B": "The record-breaking heat wave that struck the Pacific Northwest in the summer of 2021 killed hundreds of people and triggered widespread power outages it also accelerated the deaths of an estimated one billion marine organisms along the region's coastline.",
+    "C": "The record-breaking heat wave that struck the Pacific Northwest in the summer of 2021, killing hundreds of people, triggering power outages, and also accelerated the deaths of one billion marine organisms.",
+    "D": "No change; 'it also' following a comma is acceptable because it continues to describe the effects of the same heat wave."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a comma splice—two independent clauses joined by only a comma. 'The record-breaking heat wave...killed hundreds of people and triggered widespread power outages' is a complete independent clause, and 'it also accelerated the deaths of an estimated one billion marine organisms along the region's coastline' is a second complete independent clause with its own subject ('it') and predicate. Choice A correctly uses a semicolon to separate the two related clauses. Choice B removes the comma, creating a fused sentence. Choice C converts part of the sentence into participial phrases but creates an ungrammatical structure ('triggering power outages, and also accelerated'). Choice D incorrectly defends the comma splice."
+}

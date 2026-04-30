@@ -1,0 +1,16 @@
+{
+  "id": "q_1130",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the chief editor nor the contributing authors had been notified that the manuscript would undergo an additional round of external review. When the delay was announced, their contracts had to be amended to reflect the new publication timeline.",
+  "question": "Which choice best describes the pronoun 'their' in the second sentence?",
+  "choices": {
+    "A": "Incorrect; 'their' should be 'her' to agree with the singular chief editor",
+    "B": "Incorrect; 'their' should be 'its' because the publishing house is the institutional party to the contracts",
+    "C": "Correct; 'their' agrees with the nearer antecedent 'the contributing authors,' which is plural",
+    "D": "Correct; 'their' refers to all parties named in the neither/nor construction, which is plural"
+  },
+  "correct_answer": "C",
+  "explanation": "In a neither/nor construction, the pronoun agrees with the nearer antecedent. 'The contributing authors' (plural) is nearer to 'their' than 'the chief editor' (singular), so the plural 'their' is correct. Choice A incorrectly applies agreement to the more distant singular antecedent. Choice B introduces the publishing house as an unstated party, which is not the grammatical antecedent. Choice D incorrectly describes neither/nor as producing a compound plural; the nearer-antecedent rule governs."
+}

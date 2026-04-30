@@ -1,0 +1,16 @@
+{
+  "id": "q_1195",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Known for his uncompromising editorial standards and fiercely independent journalism, the Pulitzer Prize for Public Service was awarded to the editor twice in a single decade. His newspaper broke some of the most significant investigative stories of the era.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Known for his uncompromising editorial standards and fiercely independent journalism, the editor was awarded the Pulitzer Prize for Public Service twice in a single decade.",
+    "B": "The Pulitzer Prize for Public Service, known for his uncompromising editorial standards and fiercely independent journalism, was awarded to the editor twice.",
+    "C": "The editor's uncompromising editorial standards and fiercely independent journalism were known to win the Pulitzer Prize for Public Service twice.",
+    "D": "No change; 'known' modifies the editor, who is named later in the sentence as the recipient"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Known for his uncompromising editorial standards and fiercely independent journalism' describes the editor. As written, 'the Pulitzer Prize for Public Service' is the subject, implying the prize is known for editorial standards—illogical. Choice A restructures so 'the editor' is the subject. Choice B attaches the phrase to 'The Pulitzer Prize,' making the error explicit and nonsensical. Choice C eliminates the participial phrase and restructures the sentence awkwardly, losing the intended meaning. Choice D incorrectly argues that naming the editor later as a recipient resolves the dangling modifier."
+}

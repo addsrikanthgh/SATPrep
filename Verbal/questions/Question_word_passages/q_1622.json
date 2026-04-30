@@ -1,0 +1,16 @@
+{
+  "id": "q_1622",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The mountain gorilla was once thought to be facing inevitable extinction. By the 1980s, fewer than 250 individuals remained in the wild. Decades of coordinated conservation efforts—anti-poaching patrols, community engagement programs, and strict tourism regulations—have produced a remarkable result: the population has grown to over 1,000 individuals, and mountain gorillas are now the only great ape whose population is increasing. Their case is frequently cited as evidence that targeted conservation efforts can reverse severe population decline.",
+  "question": "What is the primary purpose of this text?",
+  "choices": {
+    "A": "To compare the conservation status of mountain gorillas with that of other great ape species",
+    "B": "To illustrate that determined conservation efforts can successfully reverse a species' decline toward extinction",
+    "C": "To argue that tourism regulations are the most important factor in gorilla population recovery",
+    "D": "To describe the threats that continue to endanger mountain gorillas despite recent population gains"
+  },
+  "correct_answer": "B",
+  "explanation": "The text traces the mountain gorilla's trajectory from near-extinction (fewer than 250 individuals in the 1980s) to recovery (over 1,000 individuals today), attributing the turnaround to specific conservation efforts. The final sentence explicitly states the broader lesson: 'targeted conservation efforts can reverse severe population decline.' This directly identifies the text's purpose. Choice B captures both the specific case and the general conclusion it is used to support. Choice A introduces a comparison with other great apes that the text mentions only briefly ('the only great ape whose population is increasing') without making comparison the primary focus. Choice C singles out tourism regulations as most important, but the text lists three approaches equally. Choice D is incorrect; the text does not describe ongoing threats—it focuses on the recovery."
+}

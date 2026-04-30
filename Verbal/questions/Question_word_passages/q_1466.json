@@ -1,0 +1,16 @@
+{
+  "id": "q_1466",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The legislative session ended without a vote on the budget bill, consequently, the state will operate under a continuing resolution that maintains spending at prior-year levels until lawmakers can reach an agreement in January.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The legislative session ended without a vote on the budget bill; consequently, the state will operate under a continuing resolution that maintains spending at prior-year levels until lawmakers can reach an agreement in January.",
+    "B": "The legislative session ended without a vote on the budget bill consequently, the state will operate under a continuing resolution that maintains spending at prior-year levels until lawmakers can reach an agreement.",
+    "C": "The legislative session ended without a vote on the budget bill, and consequently the state will operate under a continuing resolution until lawmakers can reach an agreement in January.",
+    "D": "No change; 'consequently' is a coordinating conjunction that can follow a comma."
+  },
+  "correct_answer": "A",
+  "explanation": "'Consequently' is a conjunctive adverb, not a coordinating conjunction. It cannot join two independent clauses when preceded by only a comma—that creates a comma splice. 'The legislative session ended without a vote on the budget bill' and 'the state will operate under a continuing resolution that maintains spending at prior-year levels until lawmakers can reach an agreement in January' are both complete independent clauses. Choice A correctly places a semicolon before 'consequently' and a comma after it. Choice B creates a fused sentence. Choice C adds 'and' after the comma, which is a valid fix. Choice D is incorrect—'consequently' is a conjunctive adverb, not a coordinating conjunction."
+}

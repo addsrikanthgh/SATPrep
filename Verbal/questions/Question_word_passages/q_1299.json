@@ -1,0 +1,16 @@
+{
+  "id": "q_1299",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The panel of independent reviewers, assembled specifically to evaluate the contested election results from three precincts, has submitted their preliminary findings to the state election board. A formal hearing is scheduled for the following week.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'has submitted' should be 'have submitted' because a panel of reviewers acts as individuals, not a unit.",
+    "B": "Yes; 'has submitted' should be 'have submitted' because 'reviewers' is a plural noun.",
+    "C": "Yes; 'has submitted' should be 'have submitted' to agree with the plural pronoun 'their' used later in the clause.",
+    "D": "No; 'has submitted' correctly treats 'The panel' as a singular collective noun acting as a unit."
+  },
+  "correct_answer": "D",
+  "explanation": "The subject is 'The panel of independent reviewers.' In American English, collective nouns like 'panel' typically take singular verbs when the group acts as a unit performing a single action. Submitting one report is a unified group action, so the singular 'has submitted' is appropriate. The use of the plural pronoun 'their' in the same sentence is a separate stylistic choice that does not force the main verb to be plural. Choice D correctly identifies no error. Choice A incorrectly applies the British English rule that collective nouns always take plural verbs. Choice B incorrectly applies proximity agreement. Choice C incorrectly argues 'their' governs the main verb's number."
+}

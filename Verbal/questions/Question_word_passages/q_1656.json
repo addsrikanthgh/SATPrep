@@ -1,0 +1,16 @@
+{
+  "id": "q_1656",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing a report about the economic impacts of the 2008 financial crisis. The student has gathered the following notes:\n\n• U.S. unemployment rose from 5% in 2007 to 10% in October 2009.\n• Approximately 3.8 million foreclosure filings were recorded in the U.S. in 2010 alone.\n• U.S. GDP contracted by 4.3% from peak to trough during the recession.\n• Median household wealth fell by 39% between 2007 and 2010.\n• The federal government passed the $700 billion Troubled Asset Relief Program (TARP) in 2008 to stabilize the financial sector.",
+  "question": "The student wants to emphasize the severity of the crisis's impact on ordinary American households. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "The 2008 financial crisis led to a $700 billion federal bailout program and a 4.3% contraction in GDP.",
+    "B": "The 2008 financial crisis devastated American households: unemployment doubled from 5% to 10%, median household wealth fell by 39%, and foreclosure filings reached 3.8 million in 2010 alone.",
+    "C": "The federal government responded to the 2008 financial crisis by passing TARP, a $700 billion program designed to stabilize the financial sector.",
+    "D": "The U.S. GDP contracted by 4.3% during the 2008 recession, which economists consider one of the most significant economic downturns of the post-war era."
+  },
+  "correct_answer": "B",
+  "explanation": "The student's goal is to emphasize the impact on ordinary American households. Choice B directly accomplishes this by combining three data points that most directly affect individuals and families: rising unemployment (workers), falling household wealth (families' financial position), and foreclosures (homes). These three statistics all speak to the personal, household-level impact of the crisis. Choice A mentions TARP and GDP—both macro-level metrics that describe governmental and economic system-level impacts, not household impacts. Choice C focuses entirely on the government's response (TARP), which says nothing about the impact on households. Choice D cites only GDP contraction, a macro-level metric, and adds an editorial claim ('one of the most significant economic downturns') not supported by the notes."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1111",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The longshoremen's union ratified its new three-year contract after weeks of tense negotiations with the port authority. Under the new agreement, they secured a 14 percent wage increase and enhanced health coverage for part-time workers.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the workers",
+    "B": "it",
+    "C": "union members",
+    "D": "No change; 'they' refers to the union members who voted to ratify"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The longshoremen's union' is singular, confirmed by 'its new three-year contract.' The second sentence uses 'they,' creating a number mismatch. Choice B replaces 'they' with 'it,' restoring singular agreement. Choices A and C introduce new plural noun phrases not established as antecedents. Choice D incorrectly appeals to individual members to justify the plural pronoun; the grammatical antecedent is the singular union, not its membership."
+}

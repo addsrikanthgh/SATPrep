@@ -1,0 +1,16 @@
+{
+  "id": "q_1530",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The passenger pigeon was once the most abundant bird in North America, with flocks numbering in the billions darkening the sky for hours as they flew overhead. By 1914, the species was extinct—every last individual gone within a span of roughly fifty years. The primary drivers of the extinction were commercial hunting at an industrial scale and the wholesale destruction of the eastern deciduous forest that the birds depended on for food and nesting. Martha, the last known passenger pigeon, died in captivity at the Cincinnati Zoo on September 1, 1914.",
+  "question": "What is the primary function of the fourth sentence ('Martha, the last known passenger pigeon...') in the passage?",
+  "choices": {
+    "A": "To explain the industrial hunting practices that led to the passenger pigeon's extinction",
+    "B": "To provide a concrete, individualized detail that gives the abstract extinction described in the second sentence a specific human and historical dimension",
+    "C": "To argue that the Cincinnati Zoo was responsible for the pigeon's extinction",
+    "D": "To introduce the scientific name of the passenger pigeon"
+  },
+  "correct_answer": "B",
+  "explanation": "The second and third sentences describe the extinction in general terms—scale, timeline, causes. The fourth sentence gives the extinction a face and a date: Martha, the last individual, died on September 1, 1914. By naming the bird and giving her a specific date, the sentence transforms an abstract biological fact into something individual and emotionally resonant, grounding the enormous loss of 'billions of birds' in the death of one specific creature. Choice A is incorrect—the hunting practices are described in the third sentence. Choice C is incorrect—the zoo is mentioned as the site of Martha's death, not as a cause of extinction. Choice D is incorrect—no scientific name is provided."
+}

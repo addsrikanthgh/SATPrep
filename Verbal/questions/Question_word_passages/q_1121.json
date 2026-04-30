@@ -1,0 +1,16 @@
+{
+  "id": "q_1121",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The joint oversight committee formed by the city and county governments completed its review of emergency response protocols following the flooding disaster. In a press conference, they called for a unified incident command structure and the establishment of a shared communications network.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the officials",
+    "B": "it",
+    "C": "committee members",
+    "D": "No change; 'they' refers to the committee members who participated in the review"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The joint oversight committee' is singular, confirmed by 'its review.' The second sentence uses 'they,' a plural pronoun, creating a mismatch. Choice B replaces 'they' with 'it.' Choices A and C introduce new noun phrases not established as antecedents. Choice D incorrectly uses individual members to justify the plural pronoun; the grammatical antecedent is the singular committee."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1596",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The introduction of invasive species—organisms transported beyond their native ranges, often by human activity—has caused significant ecological disruption worldwide. The brown tree snake, accidentally introduced to Guam following World War II in cargo from the Admiralty Islands, devastated the island's native bird fauna: nine of Guam's twelve native forest bird species were driven to extinction, and two others survived only in captive breeding programs. The snake also caused widespread power outages by climbing electrical infrastructure, resulting in tens of millions of dollars in economic damages. Ecologists consider invasive species one of the leading drivers of global biodiversity loss, second only to habitat destruction. However, researchers have found that not all introduced species become invasive; most introduced species fail to establish self-sustaining populations, and only a small fraction become ecologically disruptive.",
+  "question": "A student claims that the ecological damage caused by invasive species is illustrated by the brown tree snake's impact on Guam. Which quotation most directly supports this claim?",
+  "choices": {
+    "A": "\"Ecologists consider invasive species one of the leading drivers of global biodiversity loss, second only to habitat destruction.\"",
+    "B": "\"[N]ine of Guam's twelve native forest bird species were driven to extinction, and two others survived only in captive breeding programs.\"",
+    "C": "\"[N]ot all introduced species become invasive; most introduced species fail to establish self-sustaining populations.\"",
+    "D": "\"The brown tree snake...was accidentally introduced to Guam following World War II in cargo from the Admiralty Islands.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student's claim is specifically about ecological damage caused by the brown tree snake in Guam. The most direct evidence would show the actual ecological harm in Guam caused by the snake. Choice B provides this: nine of twelve native forest bird species were driven to extinction, and two more survived only in captive breeding. This directly illustrates ecological damage (extinctions) caused by the snake in Guam. Choice A establishes the general global importance of invasive species but doesn't provide Guam-specific evidence. Choice C actually qualifies the invasive species problem by noting most introduced species are not disruptive—this partially contradicts the student's framing. Choice D explains how the snake arrived in Guam but says nothing about the ecological damage it caused."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1210",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The investigative journalist published an exposé about the officials who had accepted bribes that received widespread attention. The article led to a formal investigation and the resignation of three senior administrators.",
+  "question": "The relative clause 'that received widespread attention' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "The investigative journalist published an exposé that received widespread attention about the officials who had accepted bribes.",
+    "B": "The investigative journalist published an exposé about the officials who had accepted bribes, and it received widespread attention.",
+    "C": "The investigative journalist published a widely attended exposé about the officials who had accepted bribes.",
+    "D": "No change; 'that received widespread attention' modifies 'bribes,' meaning the bribery scheme attracted notice"
+  },
+  "correct_answer": "B",
+  "explanation": "As written, 'that received widespread attention' follows 'bribes' and could modify 'bribes' (the bribes received attention) rather than 'exposé' (the article received attention). The intended referent is the exposé. Choice B restructures by separating the ideas into two independent clauses with 'and it received widespread attention,' where 'it' clearly refers to the exposé. Choice A places 'that received widespread attention' immediately after 'exposé,' which is grammatically closer but produces awkward phrasing with 'about the officials' following. Choice C replaces the relative clause with an adjective ('widely attended'), slightly changing the meaning. Choice D incorrectly defends modification of 'bribes.'"
+}

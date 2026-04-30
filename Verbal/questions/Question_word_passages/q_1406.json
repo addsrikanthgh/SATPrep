@@ -1,0 +1,16 @@
+{
+  "id": "q_1406",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The documentary crew spent three weeks in the remote highland villages of northern Ethiopia. Interviewing elders who still remembered the famine of the early 1980s and who had worked to preserve oral histories of their communities for younger generations. The resulting film was short-listed for several awards.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The documentary crew spent three weeks in the remote highland villages of northern Ethiopia, interviewing elders who still remembered the famine of the early 1980s and who had worked to preserve oral histories of their communities for younger generations.",
+    "B": "The documentary crew spent three weeks in the remote highland villages of northern Ethiopia; interviewing elders who still remembered the famine of the early 1980s and who had worked to preserve oral histories.",
+    "C": "The documentary crew spent three weeks in the remote highland villages of northern Ethiopia. There they interviewed elders who remembered the famine of the early 1980s and had worked to preserve oral histories.",
+    "D": "No change; 'Interviewing elders who still remembered' is a complete sentence because it contains two relative clauses."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Interviewing elders who still remembered the famine of the early 1980s and who had worked to preserve oral histories of their communities for younger generations' is a participial phrase fragment. Beginning with the present participle 'Interviewing,' it has no subject or main verb. It explains what the crew did during their three weeks and should be attached to the preceding sentence as a participial phrase. Choice A attaches it with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect. Choice C converts the fragment into a full sentence by adding 'There they.' Choice D incorrectly claims the relative clauses make the fragment a complete sentence."
+}

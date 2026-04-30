@@ -1,0 +1,16 @@
+{
+  "id": "q_1517",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Hannah Arendt's concept of the 'banality of evil,' introduced in her 1963 account of the Eichmann trial, challenged the popular image of Nazi perpetrators as sadistic monsters. Arendt argued that Adolf Eichmann was not a fanatic but a bureaucrat—a man who organized mass murder through routine paperwork while remaining incapable of independent moral judgment. The phrase 'banality of evil' was widely misunderstood as a claim that Eichmann was ordinary in all respects, leading many to accuse Arendt of trivializing the Holocaust. Arendt, however, was making a far more unsettling point: that the capacity for evil does not require hatred or ideology but only a failure to think.",
+  "question": "What is the primary function of the fourth sentence ('Arendt, however, was making...') in the passage?",
+  "choices": {
+    "A": "To agree with the critics who accused Arendt of trivializing the Holocaust",
+    "B": "To clarify Arendt's actual argument by distinguishing it from the common misreading described in the third sentence",
+    "C": "To provide biographical information about Hannah Arendt",
+    "D": "To explain why Eichmann was convicted at his trial"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence describes the popular misreading of Arendt: people took 'banality of evil' to mean Eichmann was ordinarily harmless, and accused Arendt of trivializing the Holocaust. The fourth sentence uses 'however' to pivot and correct this misreading—Arendt's actual claim was more unsettling: that evil requires not hatred but only the failure to engage in moral thinking. The fourth sentence performs a corrective clarification against the misunderstanding described in the third. Choice A is incorrect—the fourth sentence defends Arendt against the critics. Choice C is incorrect—no biographical details about Arendt are provided. Choice D is incorrect—the trial's outcome is not discussed."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1417",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The water treatment facility upgraded its filtration system at a cost of fourteen million dollars, moreover, it installed new monitoring equipment capable of detecting contaminants at concentrations below one part per billion, significantly exceeding regulatory requirements.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The water treatment facility upgraded its filtration system at a cost of fourteen million dollars; moreover, it installed new monitoring equipment capable of detecting contaminants at concentrations below one part per billion, significantly exceeding regulatory requirements.",
+    "B": "The water treatment facility upgraded its filtration system at a cost of fourteen million dollars, and moreover, it installed new monitoring equipment capable of detecting contaminants at concentrations below one part per billion.",
+    "C": "The water treatment facility upgraded its filtration system at a cost of fourteen million dollars, also installing new monitoring equipment capable of detecting contaminants at concentrations below one part per billion.",
+    "D": "No change; 'moreover' may follow a comma when it introduces a clause that continues to describe the same facility's upgrades."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. 'Moreover' is a conjunctive adverb that signals an addition between two independent clauses. Like 'however,' 'therefore,' and 'consequently,' when 'moreover' joins two independent clauses, it must be preceded by a semicolon, not a comma. The original comma before 'moreover' is insufficient. Choice A inserts a semicolon before 'moreover.' Choice B adds 'and' before 'moreover'—'and moreover' is somewhat redundant and stylistically weak, though it technically fixes the splice. Choice C converts the second clause into a participial phrase. Choice D incorrectly defends the comma splice."
+}

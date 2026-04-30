@@ -1,0 +1,16 @@
+{
+  "id": "q_1055",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The natural language processing model was trained on billions of text samples drawn from academic journals, news archives, and legal databases. When asked to summarize a complex regulatory document, they produced a concise and largely accurate abstract within seconds, impressing the legal team that had commissioned the test.",
+  "question": "Which choice best corrects the pronoun error in the second sentence?",
+  "choices": {
+    "A": "it produced a concise and largely accurate abstract within seconds",
+    "B": "these produced a concise and largely accurate abstract within seconds",
+    "C": "which produced a concise and largely accurate abstract within seconds",
+    "D": "No change; 'they' is an acceptable pronoun for a software system with multiple components"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent of 'they' is 'The natural language processing model'—a singular noun. The plural pronoun 'they' does not agree with this singular antecedent. Choice A correctly substitutes the singular pronoun 'it.' Choice B ('these') is a plural demonstrative pronoun that also fails to match the singular noun. Choice C introduces the relative pronoun 'which,' which would create a dependent relative clause rather than a main clause, leaving the sentence grammatically incomplete. Choice D is incorrect; even though a software model may consist of multiple components, the grammatical subject is the singular noun 'model,' which requires a singular pronoun regardless of its internal complexity."
+}

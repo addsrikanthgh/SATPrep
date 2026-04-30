@@ -1,0 +1,16 @@
+{
+  "id": "q_1561",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "An exercise physiologist recorded the average VO₂ max scores (mL/kg/min—a measure of aerobic capacity) of athletes in four training programs at the start and end of a twelve-week trial.\n\n| Program | VO₂ Max: Week 0 | VO₂ Max: Week 12 | Gain |\n|---|---|---|---|\n| Standard Endurance | 44.2 | 49.8 | 5.6 |\n| High-Intensity Interval | 43.9 | 51.4 | 7.5 |\n| Strength-Only | 44.1 | 45.3 | 1.2 |\n| Combined Training | 44.0 | 52.1 | 8.1 |\n\nThe physiologist claimed that programs incorporating cardiovascular elements produce substantially greater aerobic gains than strength-only training, and that combined training produces the greatest gains overall.",
+  "question": "Which analysis best evaluates the physiologist's two-part claim?",
+  "choices": {
+    "A": "Combined Training had the highest week-12 VO₂ max at 52.1, which supports the claim.",
+    "B": "The three programs with cardiovascular components (Standard Endurance: +5.6, High-Intensity Interval: +7.5, Combined Training: +8.1) all show substantially greater gains than Strength-Only (+1.2), supporting the first part. Combined Training's gain of +8.1 exceeds all others, supporting the second part.",
+    "C": "High-Intensity Interval improved more than Standard Endurance, which means interval training is the best approach for aerobic gains.",
+    "D": "Standard Endurance had the lowest gain among cardiovascular programs, so the physiologist's first claim is only partially supported."
+  },
+  "correct_answer": "B",
+  "explanation": "The physiologist makes two claims: (1) cardiovascular programs produce substantially greater gains than strength-only training, and (2) combined training produces the greatest gains overall. Choice B evaluates both claims directly. For the first claim: the three cardiovascular programs show gains of 5.6, 7.5, and 8.1—all far larger than the Strength-Only gain of 1.2—supporting 'substantially greater.' For the second claim: Combined Training's +8.1 exceeds High-Intensity Interval (+7.5) and Standard Endurance (+5.6), confirming it produces the greatest gains. Choice A addresses only the absolute week-12 score, not the gain. Choice C draws a narrower conclusion about interval training that isn't the physiologist's claim. Choice D misreads the first claim—the physiologist doesn't say every cardiovascular program beats every other; only that cardiovascular programs as a group outperform strength-only training."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1099",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Arctic Research Consortium published its annual report on sea-ice extent last March, documenting a record low in winter maximum coverage. Based on the data, they projected that summer sea-ice extent could fall below one million square kilometers by mid-century.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the scientists",
+    "B": "it",
+    "C": "the researchers",
+    "D": "No change; 'they' refers to the consortium's member scientists"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The Arctic Research Consortium' is singular, as confirmed by 'its annual report.' The second sentence incorrectly uses 'they.' Choice B replaces it with 'it,' maintaining singular agreement. Choices A and C introduce new nouns not established as antecedents. Choice D argues that implied member scientists can serve as the grammatical antecedent; however, the stated antecedent is the singular organization, and pronouns must agree with explicitly named antecedents."
+}

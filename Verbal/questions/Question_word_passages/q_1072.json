@@ -1,0 +1,16 @@
+{
+  "id": "q_1072",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The defense attorney argued that the prosecution's star witness had changed his account three times before trial. The judge instructed the jury to weigh this inconsistency carefully, but she reminded them that inconsistency alone does not invalidate testimony.",
+  "question": "The pronoun 'she' in the second sentence is ambiguous. Which choice most clearly and precisely replaces it?",
+  "choices": {
+    "A": "the attorney",
+    "B": "the judge",
+    "C": "the witness",
+    "D": "No change; context makes clear that only the judge has authority to instruct the jury"
+  },
+  "correct_answer": "B",
+  "explanation": "The pronoun 'she' could theoretically refer to either 'the defense attorney' or 'the judge,' both of which are female and appear earlier in the passage. Even if context suggests the judge is the most likely referent—only a judge has authority to instruct a jury—formal writing requires that pronouns refer unambiguously to a single, clearly identified antecedent. Choice B replaces 'she' with 'the judge,' eliminating ambiguity. Choice A incorrectly identifies the antecedent as 'the attorney.' Choice C introduces 'the witness,' who has no role in issuing courtroom instructions. Choice D incorrectly argues that contextual logic is sufficient to excuse a grammatical ambiguity; standard English requires clarity at the level of the sentence itself."
+}

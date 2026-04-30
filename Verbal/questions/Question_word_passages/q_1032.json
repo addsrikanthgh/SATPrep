@@ -1,0 +1,16 @@
+{
+  "id": "q_1032",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "Researchers analyzed BMI data from 2,400 adults grouped by self-reported weekly exercise frequency. Results by exercise frequency: 0 sessions per week (n=480), mean BMI 31.4, obesity rate (BMI ≥ 30) 42.3%; 1–2 sessions per week (n=560), mean BMI 29.1, obesity rate 31.7%; 3–4 sessions per week (n=620), mean BMI 26.8, obesity rate 18.2%; 5–6 sessions per week (n=490), mean BMI 24.9, obesity rate 9.4%; 7 or more sessions per week (n=250), mean BMI 23.7, obesity rate 6.0%. A journalist covering the study wrote that the researchers found a clear dose-response relationship between exercise frequency and BMI.",
+  "question": "Which choice most effectively uses data from the study to support the journalist's characterization?",
+  "choices": {
+    "A": "Participants who exercised seven or more times per week had the lowest mean BMI (23.7) of any group in the study.",
+    "B": "Participants who did not exercise had the highest mean BMI (31.4) and obesity rate (42.3%), compared to those who exercised seven or more times per week, who had the lowest mean BMI (23.7) and obesity rate (6.0%).",
+    "C": "Mean BMI declined with each successive exercise frequency category—from 31.4 (no exercise) to 29.1, 26.8, 24.9, and 23.7—and the obesity rate followed the same monotonic decrease across all five groups, from 42.3% to 6.0%, establishing a consistent dose-response pattern across the full range of exercise frequencies.",
+    "D": "The obesity rate dropped by 10.6 percentage points between the sedentary group (42.3%) and the 1–2 session group (31.7%), the largest single-step reduction in the dataset."
+  },
+  "correct_answer": "C",
+  "explanation": "A 'dose-response relationship' means that each incremental increase in dose (here, exercise frequency) produces a corresponding change in the outcome (BMI and obesity rate). Choice C is the only option that establishes this pattern across all five frequency categories for both metrics—showing a monotonic decline at every step. Choice A identifies only the lowest BMI group without tracing the stepwise pattern. Choice B compares only the two extreme groups, which demonstrates an overall difference but not the dose-response pattern across all intermediate categories. Choice D focuses only on the single largest step reduction (0 to 1–2 sessions), which does not establish a consistent pattern across all five categories."
+}

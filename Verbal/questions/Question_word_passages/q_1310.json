@@ -1,0 +1,16 @@
+{
+  "id": "q_1310",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Half of the sediment cores extracted from the seafloor off the coast of Antarctica contain measurable concentrations of microplastic particles, suggesting contamination has penetrated even the most remote marine environments. The remaining cores show trace amounts that exceed pre-industrial baselines.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'contain' should be 'contains' because 'Half' is a singular indefinite pronoun.",
+    "B": "Yes; 'contain' should be 'contains' because 'Half of the sediment cores' refers to one group acting as a unit.",
+    "C": "Yes; 'contain' should be 'contains' because 'the seafloor' is a singular noun governing the subject.",
+    "D": "No; 'contain' correctly agrees with 'sediment cores,' the countable plural noun in the 'of' phrase."
+  },
+  "correct_answer": "D",
+  "explanation": "With fractional expressions like 'half of,' the verb agrees with the noun in the 'of' phrase. The object of 'of' is 'sediment cores,' a countable plural noun. Therefore, the plural verb 'contain' is correct. Choice D correctly identifies no error. Choice A incorrectly categorizes 'Half' as a singular indefinite pronoun; fractional expressions follow the agreement rule based on the object of 'of.' Choice B incorrectly argues that 'Half of the sediment cores' acts as a singular unit—fractional expressions with countable plurals require plural verbs. Choice C incorrectly identifies 'the seafloor' as the governing noun; it is part of a prepositional phrase modifying 'cores.'"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1116",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Anthropologists Dr. Moss and Dr. Park co-directed a decade-long fieldwork project documenting burial practices among isolated communities in the highlands of Papua New Guinea. In a landmark monograph, she argued that the mortuary rituals reflected an elaborate system of cosmological beliefs about the relationship between the living and the ancestral dead.",
+  "question": "The pronoun 'she' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Dr. Moss",
+    "B": "Dr. Park",
+    "C": "the lead anthropologist",
+    "D": "No change; 'she' clearly refers to the first-named researcher, who is typically the principal author"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Dr. Moss and Dr. Park are female, so 'she' could refer to either. The passage provides no information distinguishing their roles or theoretical positions before using the pronoun. Choice A names Dr. Moss; Choice B names Dr. Park. Choice C introduces 'the lead anthropologist,' a role not established in the passage. Choice D incorrectly assumes that being named first implies authorship of the monograph argument—this is an external convention not stated in the passage and insufficient to resolve grammatical ambiguity."
+}

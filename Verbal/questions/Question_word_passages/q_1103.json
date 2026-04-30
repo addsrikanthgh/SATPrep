@@ -1,0 +1,16 @@
+{
+  "id": "q_1103",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The Environmental Protection Agency released its comprehensive review of water quality standards in inland waterways last fall. Under the proposed rule, they would require municipal water systems serving more than ten thousand residents to upgrade treatment facilities within five years.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the municipalities",
+    "B": "it",
+    "C": "federal regulators",
+    "D": "No change; 'they' refers to the EPA's staff and enforcement officers"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The Environmental Protection Agency' is singular, confirmed by 'its comprehensive review.' The second sentence uses 'they,' a plural pronoun, creating a disagreement. Choice B replaces 'they' with 'it.' Choice A would make municipalities the entities imposing the requirement on themselves, reversing the logic. Choice C introduces 'federal regulators,' a new noun not established in the passage. Choice D incorrectly treats implied EPA staff as the grammatical antecedent; the stated antecedent is the singular agency."
+}

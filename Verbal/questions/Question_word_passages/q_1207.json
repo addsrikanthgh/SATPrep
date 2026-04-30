@@ -1,0 +1,16 @@
+{
+  "id": "q_1207",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Commissioned by Pope Julius II and completed over four years of grueling physical labor, the Sistine Chapel ceiling remains one of the most celebrated achievements in Western art history. Michelangelo reportedly worked while lying on his back on a custom scaffold he designed himself.",
+  "question": "Is there a modifier error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'Commissioned by Pope Julius II and completed over four years of grueling physical labor' dangles because 'the Sistine Chapel ceiling' cannot be commissioned.",
+    "B": "Yes; 'over four years of grueling physical labor' is misplaced and should follow 'Michelangelo.'",
+    "C": "Yes; the two participial phrases should each modify different nouns and cannot both modify 'the Sistine Chapel ceiling.'",
+    "D": "No; 'Commissioned by Pope Julius II and completed over four years of grueling physical labor' correctly modifies 'the Sistine Chapel ceiling,' which is the subject of the main clause."
+  },
+  "correct_answer": "D",
+  "explanation": "Both participial phrases—'Commissioned by Pope Julius II' and 'completed over four years of grueling physical labor'—logically describe the Sistine Chapel ceiling: it was commissioned and it was completed. The subject 'the Sistine Chapel ceiling' immediately follows the participial phrases, satisfying the grammatical requirement. In passive participial constructions like 'commissioned by,' the implicit agent (Michelangelo) is understood. Choice A incorrectly claims the ceiling cannot be commissioned; it was commissioned in the passive sense. Choice B identifies a non-existent misplacement. Choice C incorrectly applies a rule that doesn't exist. Choice D correctly identifies no error."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1218",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The nursing staff told the patient who had been admitted with chest pain to avoid strenuous physical activity for at least two weeks strictly. The cardiologist planned to reevaluate the restriction at the follow-up appointment.",
+  "question": "The word 'strictly' in the first sentence creates ambiguity. Which choice most clearly conveys that the instruction is to be strictly followed?",
+  "choices": {
+    "A": "The nursing staff strictly told the patient who had been admitted with chest pain to avoid strenuous physical activity for at least two weeks.",
+    "B": "The nursing staff told the patient who had been admitted with chest pain to strictly avoid strenuous physical activity for at least two weeks.",
+    "C": "The nursing staff told the strictly admitted patient with chest pain to avoid strenuous physical activity for at least two weeks.",
+    "D": "No change; 'strictly' at the end of the sentence modifies 'avoid' as the nearest action described in the clause"
+  },
+  "correct_answer": "B",
+  "explanation": "As written, 'strictly' appears after 'two weeks,' where it could modify 'at least two weeks strictly' (exactly/strictly two weeks) or 'avoid…strictly' (strictly avoid). Choice B places 'strictly' before 'avoid,' unambiguously modifying the avoidance instruction. Choice A places 'strictly' before 'told,' implying the nursing staff communicated in a strict manner rather than that the instruction must be strictly followed. Choice C inserts 'strictly' before 'admitted,' creating 'strictly admitted patient,' an incoherent phrase. Choice D incorrectly accepts trailing placement as unambiguous."
+}

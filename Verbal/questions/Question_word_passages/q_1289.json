@@ -1,0 +1,16 @@
+{
+  "id": "q_1289",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The board's vote to restructure the company's executive compensation package, which was proposed by the compensation committee and reviewed by outside legal counsel, were finalized at last Thursday's shareholder meeting. Shareholders responded positively to the new transparency measures included in the package.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The board's vote to restructure the company's executive compensation package, which was proposed by the compensation committee and reviewed by outside legal counsel, was finalized at last Thursday's shareholder meeting.",
+    "B": "The board's vote to restructure the company's executive compensation package, which was proposed by the compensation committee, were finalized at last Thursday's shareholder meeting.",
+    "C": "The board's votes to restructure the company's executive compensation packages were finalized at last Thursday's shareholder meeting.",
+    "D": "No change; 'were finalized' agrees with 'the compensation committee and outside legal counsel,' a compound subject"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The board's vote,' a singular noun. The relative clause 'which was proposed by the compensation committee and reviewed by outside legal counsel' modifies 'package' and does not alter the subject's number. The singular verb 'was finalized' is required. Choice A uses 'was finalized.' Choice B keeps 'were finalized' after removing part of the relative clause—still wrong. Choice C pluralizes 'vote' and 'package' and uses 'were finalized'—internally consistent but changes the sentence's meaning. Choice D incorrectly argues 'the compensation committee and outside legal counsel' is the subject; they are agents in the relative clause."
+}

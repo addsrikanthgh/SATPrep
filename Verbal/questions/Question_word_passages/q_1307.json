@@ -1,0 +1,16 @@
+{
+  "id": "q_1307",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The network of community organizations fighting food insecurity in rural counties, which includes food banks, mobile pantries, and school nutrition programs, have made measurable progress in reducing hunger rates over the past decade. Federal funding has been critical to the network's success.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The network of community organizations fighting food insecurity in rural counties, which includes food banks, mobile pantries, and school nutrition programs, has made measurable progress in reducing hunger rates.",
+    "B": "The network of community organizations fighting food insecurity in rural counties, which include food banks, mobile pantries, and school nutrition programs, has made measurable progress.",
+    "C": "The network of community organizations fighting food insecurity in rural counties have made measurable progress in reducing hunger rates over the past decade.",
+    "D": "No change; 'have made' correctly agrees with 'community organizations,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The network,' a singular collective noun. The relative clause 'which includes food banks, mobile pantries, and school nutrition programs' correctly uses the singular 'includes' to agree with 'network.' The main verb must also agree with 'The network,' requiring the singular 'has made.' Choice A uses 'has made' and keeps 'includes.' Choice B changes 'includes' to 'include' in the relative clause—incorrectly making it agree with 'organizations' rather than 'network'—and uses the correct 'has made.' Choice C omits the relative clause but keeps 'have made.' Choice D incorrectly applies proximity agreement."
+}

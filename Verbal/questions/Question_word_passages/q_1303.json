@@ -1,0 +1,16 @@
+{
+  "id": "q_1303",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The staff at the regional office, as well as corporate representatives from the international headquarters, is scheduled to attend the quarterly review meeting. Attendance is mandatory for all senior staff members.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'is scheduled' should be 'are scheduled' because 'as well as' creates a compound plural subject.",
+    "B": "Yes; 'is scheduled' should be 'are scheduled' because 'representatives' is the nearest noun and is plural.",
+    "C": "Yes; 'is scheduled' should be 'are scheduled' because both the staff and the corporate representatives are attending.",
+    "D": "No; 'is scheduled' correctly agrees with the singular subject 'The staff at the regional office,' since 'as well as corporate representatives' is a parenthetical addition, not part of the subject."
+  },
+  "correct_answer": "D",
+  "explanation": "The phrase 'as well as corporate representatives from the international headquarters' is a parenthetical addition set off by commas and introduced by 'as well as,' which is not a coordinating conjunction. It does not create a compound subject. The true subject remains 'The staff at the regional office,' which is a singular collective noun acting as a unit. The singular verb 'is scheduled' is correct. Choice D correctly identifies no error. Choice A incorrectly claims 'as well as' creates a compound subject. Choice B incorrectly applies proximity agreement. Choice C makes a logical argument about attendance but ignores grammatical structure."
+}

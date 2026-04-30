@@ -1,0 +1,16 @@
+{
+  "id": "q_1290",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the recent amendments to the building code nor the original structural specifications from 1964 were reviewed by the independent safety inspector prior to construction. As a result, the city may face significant liability if structural deficiencies are later discovered.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'were reviewed' should be 'was reviewed' because 'the original structural specifications from 1964' is the nearer singular subject.",
+    "B": "Yes; 'were reviewed' should be 'was reviewed' because the entire neither/nor compound should always take a singular verb.",
+    "C": "Yes; 'were reviewed' should be 'was reviewed' because 'neither' signals singular consideration of each item.",
+    "D": "No; 'were reviewed' correctly agrees with 'the original structural specifications from 1964,' the nearer plural subject in the neither/nor construction."
+  },
+  "correct_answer": "D",
+  "explanation": "In neither/nor constructions, the verb agrees with the subject that is nearer to the verb. The nearer subject is 'the original structural specifications from 1964,' where 'specifications' is a plural noun. The plural verb 'were reviewed' correctly agrees with the nearer plural subject. Choice D correctly identifies no error. Choice A incorrectly identifies 'the original structural specifications from 1964' as singular—'specifications' is plural. Choice B incorrectly claims neither/nor always takes a singular verb; it follows the nearer-subject rule. Choice C misapplies a 'neither signals singular' rule that does not exist."
+}

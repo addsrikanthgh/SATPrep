@@ -1,0 +1,16 @@
+{
+  "id": "q_1525",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The development of CRISPR-Cas9 gene editing technology has opened the possibility of eliminating heritable genetic diseases from human populations entirely. In 2018, a Chinese scientist named He Jiankui announced that he had used CRISPR to edit the embryos of twin girls to make them resistant to HIV infection—the first reported use of heritable gene editing in humans. The announcement provoked immediate and nearly universal condemnation from the scientific community, not only because of the technical risks to the children but because He had acted without adequate regulatory oversight, informed consent processes, or scientific peer review. He was subsequently convicted of illegal medical practice in China and sentenced to three years in prison.",
+  "question": "What is the primary function of the third sentence ('The announcement provoked immediate...') in the passage?",
+  "choices": {
+    "A": "To explain the scientific benefits of CRISPR-Cas9 technology",
+    "B": "To describe the scientific and ethical grounds for the community's condemnation of He Jiankui's actions",
+    "C": "To argue that CRISPR technology should be banned from all clinical applications",
+    "D": "To introduce the HIV resistance function of the gene edit He Jiankui performed"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence reports He Jiankui's announcement. The third sentence describes the scientific community's response—'immediate and nearly universal condemnation'—and enumerates the reasons: technical risks, absence of regulatory oversight, inadequate consent, and lack of peer review. The function of the third sentence is to detail the grounds on which He's work was condemned, explaining both the scientific and ethical dimensions of the community's reaction. Choice A is incorrect—the benefits of CRISPR are mentioned in the first sentence. Choice C is incorrect—the condemnation is targeted at He's specific conduct, not at CRISPR generally. Choice D is incorrect—the HIV resistance edit is mentioned in the second sentence."
+}

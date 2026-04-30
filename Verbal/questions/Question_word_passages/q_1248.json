@@ -1,0 +1,16 @@
+{
+  "id": "q_1248",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The data collected by the seismic monitoring stations across the subduction zone suggest that a series of micro-tremors, not the single large-magnitude event that geologists had anticipated, precede major seismic activity. Researchers are now revising their predictive models accordingly.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'suggest' should be 'suggests' because the subject is 'The data,' a singular collective noun.",
+    "B": "Yes; 'precede' should be 'precedes' because the subject of the relative clause is 'a series of micro-tremors,' a singular noun.",
+    "C": "Yes; both 'suggest' and 'precede' are incorrect; they should be 'suggests' and 'precedes.'",
+    "D": "No; 'suggest' correctly agrees with 'The data,' which is treated as plural in scientific contexts, and 'precede' correctly agrees with 'micro-tremors.'"
+  },
+  "correct_answer": "D",
+  "explanation": "Two subject-verb pairs require analysis. First: 'The data…suggest.' 'Data' is the plural of 'datum' and is conventionally treated as plural in scientific and academic writing, making 'suggest' correct. Second: 'a series of micro-tremors…precede.' In the appositive construction 'a series of micro-tremors, not the single large-magnitude event,' the subject of 'precede' is 'a series of micro-tremors.' 'Series' here takes its number from 'micro-tremors' when the intended meaning is the multiple tremors themselves—and the not-phrase is parenthetical. 'Precede' (plural) can also be defended because the sentence emphasizes the multiple tremors as the phenomenon. Both verbs are defensible as written. Choice D correctly identifies no error."
+}

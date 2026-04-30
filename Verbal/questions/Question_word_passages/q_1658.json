@@ -1,0 +1,16 @@
+{
+  "id": "q_1658",
+  "domain": "Expression of Ideas",
+  "skill": "rhetorical synthesis",
+  "difficulty": "medium",
+  "passage": "A student is writing an article about the history of the polio vaccine for a school newspaper. The student has gathered the following notes:\n\n• Jonas Salk developed the first effective polio vaccine, which was declared safe and effective on April 12, 1955.\n• Before the vaccine, polio paralyzed or killed thousands of Americans each year; in 1952, the worst year on record, 57,628 cases were reported in the U.S.\n• Albert Sabin later developed an oral polio vaccine, which was easier to administer and became the preferred vaccine globally.\n• The U.S. was certified polio-free in 1979.\n• The Global Polio Eradication Initiative was launched in 1988; wild poliovirus now circulates in only two countries.",
+  "question": "The student wants to open the article by conveying the scale of the problem that the polio vaccine solved. Which choice most effectively uses relevant information from the notes to accomplish this goal?",
+  "choices": {
+    "A": "In 1988, the Global Polio Eradication Initiative was launched; wild poliovirus now circulates in only two countries worldwide.",
+    "B": "Jonas Salk and Albert Sabin both contributed to the fight against polio, developing vaccines that transformed global public health.",
+    "C": "Before the polio vaccine, the disease paralyzed or killed thousands of Americans annually—in 1952 alone, nearly 58,000 cases were reported in the United States.",
+    "D": "The polio vaccine, declared safe and effective in 1955, was the result of years of research by Jonas Salk and remains one of the most celebrated achievements in medical history."
+  },
+  "correct_answer": "C",
+  "explanation": "The student's goal is to convey the scale of the problem that the vaccine solved. To do this, the opening needs to describe the disease's impact before the vaccine existed. Choice C does this by stating that polio paralyzed or killed thousands annually and citing the dramatic peak year statistic: nearly 58,000 cases in 1952. This establishes the magnitude of the problem. Choice A describes current/recent eradication progress—it conveys the solution's success, not the scale of the original problem. Choice B mentions both scientists' contributions but does not describe the disease's scale or impact. Choice D focuses on the vaccine and its developer—it describes the solution, not the problem it solved, and the 1955 declaration is an achievement, not an illustration of the disease's scale."
+}

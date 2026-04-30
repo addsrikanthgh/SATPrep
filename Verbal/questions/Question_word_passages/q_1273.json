@@ -1,0 +1,16 @@
+{
+  "id": "q_1273",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The team of structural engineers tasked with assessing the earthquake damage to the century-old bridge have submitted a preliminary report indicating that the structure must be closed for emergency repairs. City officials plan to announce an alternative transit route by tomorrow morning.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The team of structural engineers tasked with assessing the earthquake damage to the century-old bridge has submitted a preliminary report indicating that the structure must be closed for emergency repairs.",
+    "B": "The team of structural engineers tasked with assessing the earthquake damage to the century-old bridge have submitted preliminary reports indicating that the structure must be closed.",
+    "C": "The teams of structural engineers tasked with assessing the earthquake damage to the century-old bridge has submitted a preliminary report.",
+    "D": "No change; 'have submitted' agrees with 'engineers,' the nearest plural noun, which is the logical actor"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The team,' a singular collective noun. The participial phrase 'tasked with assessing the earthquake damage to the century-old bridge' is a modifier of 'team.' When a team acts as a single unit in submitting one report, the singular verb 'has submitted' is appropriate. Choice A uses 'has submitted.' Choice B keeps 'have submitted' and pluralizes 'report,' changing the meaning. Choice C pluralizes 'team' to 'teams' but uses the singular 'has submitted'—internally inconsistent. Choice D incorrectly applies proximity agreement."
+}

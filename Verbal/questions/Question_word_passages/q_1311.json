@@ -1,0 +1,16 @@
+{
+  "id": "q_1311",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The board of directors, despite months of internal disagreement over the proposed acquisition strategy, have finally reached a unanimous decision to proceed with the purchase of the competitor's software division. Details of the deal are expected to be announced next week.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The board of directors, despite months of internal disagreement over the proposed acquisition strategy, has finally reached a unanimous decision to proceed with the purchase of the competitor's software division.",
+    "B": "The board of directors, despite months of internal disagreement over the proposed acquisition strategy, have finally reached unanimous decisions to proceed.",
+    "C": "The boards of directors, despite months of internal disagreement over the proposed acquisition strategy, have finally reached a unanimous decision.",
+    "D": "No change; 'have finally reached' correctly agrees with 'directors,' the nearest plural noun in the subject phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The board of directors,' a singular collective noun in American English. When the board acts as a unified entity to reach a single, unanimous decision, the singular verb 'has finally reached' is appropriate. The prepositional phrase 'despite months of internal disagreement over the proposed acquisition strategy' is an adverbial modifier set off by commas and does not alter the subject's number. Choice A uses 'has finally reached.' Choice B preserves 'have' and pluralizes 'decision.' Choice C pluralizes 'board' to 'boards' and uses 'have'—changes the meaning. Choice D incorrectly applies proximity agreement."
+}

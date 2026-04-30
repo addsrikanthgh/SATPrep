@@ -1,0 +1,16 @@
+{
+  "id": "q_1474",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The hospital implemented a new electronic records system in January, nurses and physicians reported that the system initially slowed their workflow but that they expected the transition period to last no more than a month.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The hospital implemented a new electronic records system in January; nurses and physicians reported that the system initially slowed their workflow but that they expected the transition period to last no more than a month.",
+    "B": "The hospital implemented a new electronic records system in January nurses and physicians reported that the system initially slowed their workflow but that they expected the transition period to last no more than a month.",
+    "C": "The hospital implemented a new electronic records system in January: nurses and physicians reported that the system initially slowed their workflow but that they expected the transition period to last no more than a month.",
+    "D": "No change; the comma after 'January' is correct because the second clause provides staff reaction to the event described in the first."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a comma splice—two independent clauses joined by only a comma. 'The hospital implemented a new electronic records system in January' and 'nurses and physicians reported that the system initially slowed their workflow but that they expected the transition period to last no more than a month' are both complete independent clauses. Choice A correctly uses a semicolon. Choice B creates a fused sentence. Choice C uses a colon—the second clause describes staff reaction to the system rather than directly defining or explaining the 'electronic records system' mentioned in the first clause; a semicolon is more appropriate. Choice D incorrectly defends the comma splice."
+}

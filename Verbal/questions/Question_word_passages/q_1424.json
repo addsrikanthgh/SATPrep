@@ -1,0 +1,16 @@
+{
+  "id": "q_1424",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The public health campaign encouraged residents to get vaccinated before the start of flu season, it provided free vaccination clinics at seven community centers, four public libraries, and two senior living facilities throughout the month of October. Participation rates were higher than in any previous year.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The public health campaign encouraged residents to get vaccinated before the start of flu season; it provided free vaccination clinics at seven community centers, four public libraries, and two senior living facilities throughout the month of October.",
+    "B": "The public health campaign encouraged residents to get vaccinated before the start of flu season and provided free vaccination clinics at seven community centers, four public libraries, and two senior living facilities throughout the month of October.",
+    "C": "Encouraging residents to get vaccinated before flu season, the public health campaign provided free vaccination clinics at seven community centers, four public libraries, and two senior living facilities throughout October.",
+    "D": "No change; the comma before 'it provided' correctly introduces a clause that explains how the campaign achieved its goal."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice. After 'before the start of flu season,' the sentence continues with 'it provided free vaccination clinics at seven community centers, four public libraries, and two senior living facilities throughout the month of October'—an independent clause with its own subject ('it') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B merges the two clauses into a compound predicate under a single subject, removing the pronoun 'it'—also grammatically correct. Choice C converts the first clause into a participial phrase. Choice D incorrectly defends the comma splice."
+}

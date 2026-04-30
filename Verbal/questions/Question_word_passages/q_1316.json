@@ -1,0 +1,16 @@
+{
+  "id": "q_1316",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Either the regulatory agency or the congressional oversight committees is likely to launch a formal investigation into the reported data security breaches affecting millions of consumers. Industry lobbyists are hoping for a negotiated settlement rather than federal litigation.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Either the regulatory agency or the congressional oversight committees are likely to launch a formal investigation into the reported data security breaches affecting millions of consumers.",
+    "B": "Either the regulatory agency or the congressional oversight committees is likely to launch formal investigations into reported data security breaches.",
+    "C": "Either the regulatory agencies or the congressional oversight committee is likely to launch a formal investigation into the reported data security breaches.",
+    "D": "No change; 'is likely' correctly agrees with 'the regulatory agency,' the nearer singular subject in an either/or construction"
+  },
+  "correct_answer": "A",
+  "explanation": "In either/or constructions, the verb agrees with the subject nearer to the verb. The nearer subject is 'the congressional oversight committees,' where 'committees' is plural. The plural verb 'are likely' is required. Choice A uses 'are likely.' Choice B preserves 'is likely.' Choice C changes both subjects—'agencies' (plural) and 'committee' (singular)—and uses 'is likely,' which would be correct only if 'committee' is the nearer singular subject. But this changes both subjects, making it a substantive rewrite. Choice D incorrectly identifies 'the regulatory agency' as the nearer subject; 'committees' is nearer to the verb."
+}

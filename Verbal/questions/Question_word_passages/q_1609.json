@@ -1,0 +1,16 @@
+{
+  "id": "q_1609",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The documentary photographer spent years embedded with a nomadic herding community in the high steppes, gradually earning the trust of families who had initially been guarded around outsiders. Her resulting photographs were praised for capturing the community's life with unusual intimacy—not as exotic subjects but as complex individuals navigating the pressures of a changing world. Critics noted that her images eschewed the sensationalism typical of earlier ethnographic photography.",
+  "question": "As used in the passage, 'eschewed' most nearly means",
+  "choices": {
+    "A": "embraced",
+    "B": "deliberately avoided",
+    "C": "accidentally included",
+    "D": "subtly introduced"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the photographer's images 'eschewed the sensationalism typical of earlier ethnographic photography.' 'Eschewed' means deliberately avoided or abstained from something. The praise for capturing subjects as 'complex individuals' rather than 'exotic subjects' supports this: the photographer made a conscious artistic choice to avoid sensationalism. Choice B, 'deliberately avoided,' captures this: the choice was intentional, not accidental. Choice A ('embraced') is the opposite of 'eschewed.' Choice C ('accidentally included') is both directionally wrong and adds the idea of accident, which contradicts 'deliberately.' Choice D ('subtly introduced') suggests the opposite—including sensationalism in a concealed way—rather than avoiding it."
+}

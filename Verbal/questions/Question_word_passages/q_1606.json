@@ -1,0 +1,16 @@
+{
+  "id": "q_1606",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The historian argued that the treaty, while celebrated at the time as a diplomatic triumph, was ultimately pyrrhic: it secured a temporary peace but at the cost of territorial concessions so severe that they generated the resentments that would ignite a larger conflict a generation later. In diplomatic history, such arrangements are cautionary examples of how short-term success can be purchased at the expense of long-term stability.",
+  "question": "As used in the passage, 'pyrrhic' most nearly means",
+  "choices": {
+    "A": "incomplete and poorly negotiated",
+    "B": "achieved at too great a cost to be truly beneficial",
+    "C": "widely celebrated but historically forgotten",
+    "D": "legally invalid due to procedural errors"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the treaty is called 'pyrrhic': it achieved peace but at the cost of concessions that caused greater harm later. 'Pyrrhic' derives from the ancient Greek king Pyrrhus, who won battles at such devastating cost that the victories were ultimately self-defeating. Choice B, 'achieved at too great a cost to be truly beneficial,' captures this precisely: the treaty's success in ending the immediate conflict was undermined by the resentments it created, making it not a true victory. Choice A ('incomplete and poorly negotiated') implies failure of process, not excessive cost. Choice C ('celebrated but forgotten') addresses reception over time, not the cost-benefit problem. Choice D ('legally invalid') introduces a procedural issue not mentioned in the passage."
+}

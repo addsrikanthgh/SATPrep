@@ -1,0 +1,16 @@
+{
+  "id": "q_1590",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "Mary Shelley's Frankenstein, published in 1818, is often analyzed as a novel about the dangers of unchecked scientific ambition. Victor Frankenstein, driven by a desire to 'penetrate the secrets of nature,' creates a living being but immediately recoils from his creation in horror and abandons it. The creature, denied affection and community, becomes destructive—but not before demonstrating intelligence, sensitivity, and a longing for connection. Critics have debated whether the novel's central moral is a warning about science itself or about the irresponsibility of creators who refuse to take responsibility for their creations. Literary scholar Anne Mellor argued that Shelley was not opposed to science per se but condemned what she called 'masculine science'—the attempt to dominate and control nature—as distinct from a more cooperative, observational engagement with the natural world. Others have read the novel as a commentary on social rejection: the creature becomes monstrous not because of how it was made but because of how it was treated.",
+  "question": "A student argues that the creature's destructive behavior in Frankenstein is presented in the novel as a consequence of social rejection rather than inherent monstrousness. Which quotation best supports this argument?",
+  "choices": {
+    "A": "\"Victor Frankenstein, driven by a desire to 'penetrate the secrets of nature,' creates a living being but immediately recoils from his creation in horror and abandons it.\"",
+    "B": "\"The creature, denied affection and community, becomes destructive—but not before demonstrating intelligence, sensitivity, and a longing for connection.\"",
+    "C": "\"Mellor argued that Shelley...condemned what she called 'masculine science'—the attempt to dominate and control nature.\"",
+    "D": "\"[T]he creature becomes monstrous not because of how it was made but because of how it was treated.\""
+  },
+  "correct_answer": "D",
+  "explanation": "The student's argument is that destructive behavior results from social rejection, not inherent monstrousness. Choice D is the most direct support: it explicitly states that the creature becomes monstrous 'not because of how it was made but because of how it was treated'—a precise articulation of the social rejection thesis. The contrast ('not because of X but because of Y') directly mirrors the student's argument. Choice B also supports this interpretation by showing that the creature demonstrates 'intelligence, sensitivity, and a longing for connection' before becoming destructive—implying the destruction is a response to deprivation. However, Choice D is more direct because it explicitly frames the cause as treatment (social rejection) rather than nature. Choice A describes Victor's abandonment but doesn't explicitly connect it to the creature's destructiveness. Choice C is about Mellor's reading of science, not about the creature's behavior."
+}

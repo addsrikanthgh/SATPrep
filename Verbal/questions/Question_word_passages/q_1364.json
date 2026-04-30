@@ -1,0 +1,16 @@
+{
+  "id": "q_1364",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The university's provost announced that the new interdisciplinary research center would open in the fall semester. Bringing together faculty from the schools of medicine, public health, and social work to address chronic disease prevention in underserved communities. The center has already attracted three major grant applications.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The university's provost announced that the new interdisciplinary research center would open in the fall semester, bringing together faculty from the schools of medicine, public health, and social work to address chronic disease prevention in underserved communities.",
+    "B": "The university's provost announced that the new interdisciplinary research center would open in the fall semester; bringing together faculty from medicine, public health, and social work to address chronic disease prevention.",
+    "C": "The university's provost announced that the new interdisciplinary research center would open in the fall semester. Faculty from the schools of medicine, public health, and social work will address chronic disease prevention.",
+    "D": "No change; 'Bringing together faculty' is a complete sentence that explains the purpose of the center."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Bringing together faculty from the schools of medicine, public health, and social work to address chronic disease prevention in underserved communities' is a participial phrase fragment—it lacks a subject and cannot stand alone as a sentence. The participial phrase modifies 'the new interdisciplinary research center' in the preceding sentence and should be attached to it with a comma. Choice A attaches the participial phrase to the preceding independent clause. Choice B uses a semicolon before the participial phrase, which is incorrect. Choice C converts the fragment into a full sentence by rephrasing, which is grammatically correct but changes the structure significantly. Choice D incorrectly defends the fragment."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1175",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Determined to finish the symphony before his deteriorating hearing made composition impossible, the manuscript was completed by Beethoven in a remarkable burst of creative output spanning only a few months. Scholars note that the Ninth Symphony bears evidence of this urgent, concentrated effort in its dense contrapuntal textures.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Determined to finish the symphony before his deteriorating hearing made composition impossible, Beethoven completed the manuscript in a remarkable burst of creative output spanning only a few months.",
+    "B": "The manuscript, determined to finish the symphony before his deteriorating hearing made composition impossible, was completed by Beethoven.",
+    "C": "Before his deteriorating hearing made composition impossible, the manuscript was completed in a remarkable burst of creative output by Beethoven.",
+    "D": "No change; 'determined' modifies Beethoven, who is named in the sentence as the agent of completion"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Determined to finish the symphony' describes Beethoven, who has the determination. As written, 'the manuscript' is the subject, implying the manuscript was determined—which is illogical. Choice A restructures the sentence with Beethoven as the subject immediately following the participial phrase. Choice B attaches the phrase directly to 'the manuscript,' making the absurdity explicit. Choice C removes the participial phrase and replaces it with a prepositional phrase that conveys a different meaning and still doesn't name Beethoven as the agent of determination. Choice D incorrectly argues that naming Beethoven later in the sentence resolves the error."
+}

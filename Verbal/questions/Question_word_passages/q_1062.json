@@ -1,0 +1,16 @@
+{
+  "id": "q_1062",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Plato and Aristotle held fundamentally different views on the nature of knowledge. While he insisted that true knowledge could only be attained through reason and the contemplation of abstract Forms, Aristotle grounded his epistemology in empirical observation and sensory experience.",
+  "question": "Which choice best corrects the ambiguous pronoun reference in the second sentence?",
+  "choices": {
+    "A": "While Plato insisted that true knowledge could only be attained through reason and the contemplation of abstract Forms",
+    "B": "While the former insisted that true knowledge could only be attained through reason and the contemplation of abstract Forms",
+    "C": "While one philosopher insisted that true knowledge could only be attained through reason and the contemplation of abstract Forms",
+    "D": "No change; the contrast with 'Aristotle' in the same sentence makes clear that 'he' refers to Plato"
+  },
+  "correct_answer": "A",
+  "explanation": "The pronoun 'he' is potentially ambiguous because both Plato and Aristotle—both male—have been introduced in the preceding sentence. Although the sentence's structure (contrasting 'he' with 'Aristotle') implies the referent is Plato, formal writing requires pronouns to be unambiguous within the text itself, not dependent on readers inferring identity from syntactic contrast. Choice A eliminates the ambiguity by naming Plato directly. Choice B uses 'the former,' which technically refers to Plato as the first of two named subjects; however, this construction places an unnecessary tracking burden on the reader and is generally avoided in formal academic prose. Choice C introduces 'one philosopher,' which is vague and omits the specific identification that gives the sentence its intellectual content. Choice D is incorrect because SAT conventions require pronouns to be unambiguous, not merely inferable from sentence structure."
+}

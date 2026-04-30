@@ -1,0 +1,16 @@
+{
+  "id": "q_1402",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "After analyzing the data from the three-year pilot program, the results were presented to the school board by the district's curriculum coordinator. The board voted seven to two to expand the program to all middle schools in the district beginning in the fall.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "After analyzing the data from the three-year pilot program, the district's curriculum coordinator presented the results to the school board.",
+    "B": "After analyzing the data from the three-year pilot program, the results were shared with the school board by the curriculum coordinator in a detailed presentation.",
+    "C": "The district's curriculum coordinator analyzed the data from the three-year pilot program before presenting the results to the school board.",
+    "D": "No change; 'the results were presented' is an acceptable passive construction that correctly follows the introductory phrase."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence contains a dangling modifier. The introductory phrase 'After analyzing the data from the three-year pilot program' implies that some entity analyzed the data, but the grammatical subject of the main clause is 'the results.' Results cannot analyze data; the curriculum coordinator did. Choice A correctly makes 'the district's curriculum coordinator' the subject of the main clause. Choice B still uses 'the results' as the subject in a passive construction—the modifier still dangles. Choice C restructures the sentence by moving the temporal phrase inside a subordinate clause. Choice D incorrectly defends the dangling modifier by appealing to passive voice."
+}

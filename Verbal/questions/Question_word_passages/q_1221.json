@@ -1,0 +1,16 @@
+{
+  "id": "q_1221",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Diagnosed with a degenerative condition that would gradually rob him of his sight, painting became even more precious to the aging artist, who worked feverishly to complete as many canvases as possible before total blindness set in. His final decade produced some of his most powerful and emotionally raw work.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Diagnosed with a degenerative condition that would gradually rob him of his sight, the aging artist found painting even more precious and worked feverishly to complete as many canvases as possible before total blindness set in.",
+    "B": "Painting, diagnosed with a degenerative condition, became more precious to the aging artist.",
+    "C": "Diagnosed with a degenerative condition, painting was completed by the aging artist feverishly before blindness set in.",
+    "D": "No change; 'diagnosed' modifies the aging artist, who is named in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Diagnosed with a degenerative condition that would gradually rob him of his sight' describes the aging artist, who received the diagnosis. As written, 'painting' is the subject, implying painting was diagnosed with a condition—illogical. Choice A restructures with 'the aging artist' as the subject. Choice B places the participial phrase next to 'Painting,' making the error explicit. Choice C keeps 'painting' as a passive subject and still places the participial phrase so that it modifies the wrong noun. Choice D incorrectly argues that naming the artist later in the sentence resolves a dangling modifier."
+}

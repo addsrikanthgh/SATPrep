@@ -1,0 +1,16 @@
+{
+  "id": "q_1354",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "When the power outage struck at 11 p.m. The entire city block went dark for nearly six hours. Emergency services were dispatched within minutes to assist residents in high-rise buildings.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "When the power outage struck at 11 p.m., the entire city block went dark for nearly six hours.",
+    "B": "When the power outage struck at 11 p.m.; the entire city block went dark for nearly six hours.",
+    "C": "The power outage struck at 11 p.m., when the entire city block went dark for nearly six hours.",
+    "D": "No change; a period after a time expression like '11 p.m.' is standard punctuation."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence 'When the power outage struck at 11 p.m.' is a subordinate clause fragment—it begins with the subordinating conjunction 'When,' making it a dependent clause that cannot stand alone. It must be attached to the independent clause that follows. Choice A correctly joins the dependent clause to the main clause with a comma. Choice B uses a semicolon, which is incorrect—a semicolon joins independent clauses, and a 'when' clause is dependent. Choice C restructures the sentence so that the independent clause comes first, followed by a relative clause 'when the entire city block went dark'—grammatically correct but slightly changes the temporal emphasis. Choice D incorrectly argues the period after 'p.m.' justifies the fragment."
+}

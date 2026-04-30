@@ -1,0 +1,16 @@
+{
+  "id": "q_1183",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Hoping to revitalize the downtown commercial district, a series of tax incentives was approved by the city council for businesses that relocated to the designated zone within two years. The program was expected to attract at least forty new businesses within its first operating cycle.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Hoping to revitalize the downtown commercial district, the city council approved a series of tax incentives for businesses that relocated to the designated zone within two years.",
+    "B": "A series of tax incentives, hoping to revitalize the downtown commercial district, was approved by the city council.",
+    "C": "The downtown commercial district, hoping to be revitalized, prompted the approval of tax incentives.",
+    "D": "No change; 'hoping' modifies the city council, which is named in the passive construction"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Hoping to revitalize the downtown commercial district' describes the city council, which does the hoping. As written, 'a series of tax incentives' is the subject, implying the incentives are doing the hoping—logically impossible. Choice A restructures with 'the city council' as the subject. Choice B places the phrase next to 'a series of tax incentives' as an appositive, preserving the error. Choice C attributes the hoping to the commercial district, which is also illogical. Choice D incorrectly argues that naming the council in the passive construction resolves the error."
+}

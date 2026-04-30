@@ -1,0 +1,16 @@
+{
+  "id": "q_1515",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Behavioral economists have documented a phenomenon known as 'loss aversion': people feel the pain of losing something roughly twice as intensely as they feel the pleasure of gaining an equivalent thing. This asymmetry has far-reaching implications for decision-making, from investment behavior to health choices to political attitudes. Experiments have shown, for example, that people are more likely to take a vaccine if it is framed as preventing a loss of health than if it is framed as achieving a gain in health—even when the objective outcome is identical. Critics of loss aversion theory argue that the effect may be smaller and less universal than originally claimed, particularly in high-stakes real-world settings where deliberate reasoning plays a larger role.",
+  "question": "What is the primary function of the third sentence ('Experiments have shown, for example...') in the passage?",
+  "choices": {
+    "A": "To provide a concrete applied example that illustrates the broad claim made in the second sentence",
+    "B": "To refute the definition of loss aversion provided in the first sentence",
+    "C": "To introduce the critics' view of loss aversion theory",
+    "D": "To describe how vaccines are developed and tested"
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence makes a broad claim: loss aversion has 'far-reaching implications' across investment, health, and politics. The third sentence uses 'for example' to instantiate this claim concretely, showing how framing a health intervention as preventing a loss versus achieving a gain affects vaccine acceptance—even with identical outcomes. This is the classic function of an example sentence: to make a general claim tangible. Choice B is incorrect—the third sentence supports rather than refutes the first sentence's definition. Choice C is incorrect—the critics are introduced in the fourth sentence. Choice D is incorrect—vaccines appear only as an illustrative scenario; the sentence is not about vaccine development."
+}

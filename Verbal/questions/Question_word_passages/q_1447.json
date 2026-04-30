@@ -1,0 +1,16 @@
+{
+  "id": "q_1447",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The behavioral economist's most provocative claim was that people rarely make purely rational decisions, instead, the vast majority of choices are shaped by cognitive biases, emotional states, and the way options are framed rather than by an objective calculation of costs and benefits.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The behavioral economist's most provocative claim was that people rarely make purely rational decisions; instead, the vast majority of choices are shaped by cognitive biases, emotional states, and the way options are framed rather than by an objective calculation of costs and benefits.",
+    "B": "The behavioral economist's most provocative claim was that people rarely make purely rational decisions instead, the vast majority of choices are shaped by cognitive biases, emotional states, and the way options are framed.",
+    "C": "The behavioral economist's most provocative claim was that people rarely make purely rational decisions, instead the vast majority of choices are shaped by cognitive biases, emotional states, and the way options are framed.",
+    "D": "No change; 'instead' following a comma is acceptable because it introduces a contrasting clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a comma splice. 'The behavioral economist's most provocative claim was that people rarely make purely rational decisions' is a complete independent clause, and 'instead, the vast majority of choices are shaped by cognitive biases, emotional states, and the way options are framed' is a second complete independent clause. 'Instead' here is a conjunctive adverb signaling contrast. When a conjunctive adverb joins two independent clauses, a semicolon is required before it. Choice A correctly places a semicolon before 'instead.' Choice B creates a fused sentence. Choice C retains only a comma before 'instead' (with no comma after, which makes it slightly different from the original) but still creates a comma splice. Choice D incorrectly defends the comma splice."
+}

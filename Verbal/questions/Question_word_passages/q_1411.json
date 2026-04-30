@@ -1,0 +1,16 @@
+{
+  "id": "q_1411",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The parliament's lower chamber passed the spending bill by a margin of twelve votes, however, the upper chamber immediately referred it to a select committee for further review, citing concerns about the long-term fiscal impact on the national debt.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The parliament's lower chamber passed the spending bill by a margin of twelve votes; however, the upper chamber immediately referred it to a select committee for further review, citing concerns about the long-term fiscal impact on the national debt.",
+    "B": "The parliament's lower chamber passed the spending bill by a margin of twelve votes, but the upper chamber immediately referred it to a select committee for further review, citing concerns about the long-term fiscal impact.",
+    "C": "The parliament's lower chamber passed the spending bill by twelve votes, however the upper chamber referred it to a select committee, citing fiscal concerns about the national debt.",
+    "D": "No change; 'however' may follow a comma when it introduces a contrasting clause that continues the same legislative narrative."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. 'However' is a conjunctive adverb that signals contrast between two independent clauses. Like 'nevertheless,' 'therefore,' and 'consequently,' when 'however' joins two independent clauses, it must be preceded by a semicolon, not a comma. The original comma before 'however' is insufficient. Choice A inserts a semicolon before 'however.' Choice B replaces 'however' with the coordinating conjunction 'but'—also valid, since 'but' can join two independent clauses with a comma. Choice C removes the comma after 'however' (which must be retained) while preserving the comma splice before it. Choice D incorrectly defends the comma splice."
+}

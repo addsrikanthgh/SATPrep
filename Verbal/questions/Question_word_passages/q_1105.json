@@ -1,0 +1,16 @@
+{
+  "id": "q_1105",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The civil engineering consortium completed its structural assessment of the aging highway bridge and submitted recommendations to the state transportation department. Within three months, they had received approval to proceed with a full design-build contract for the replacement structure.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the engineers",
+    "B": "the transportation department",
+    "C": "it",
+    "D": "No change; 'they' refers to the consortium's engineers and project managers"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The civil engineering consortium' is singular, established with 'its structural assessment.' The second sentence uses the plural 'they,' creating a number mismatch. Choice C replaces 'they' with 'it.' Choice A introduces 'the engineers,' a new noun. Choice B would make the transportation department the approver of its own action, which contradicts the passage. Choice D incorrectly treats implied staff as the grammatical antecedent; the stated antecedent is the singular consortium."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1620",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "The artist Kara Walker is best known for her large-scale silhouette installations that depict scenes from the antebellum American South. Using the Victorian parlor art form of silhouette cutting—traditionally associated with polite, decorative imagery—Walker fills her installations with depictions of enslavement, sexual violence, and racial terror. The deliberate contrast between the delicate, black-paper-cut aesthetic and the brutality of the depicted content is central to her artistic strategy, creating a visual tension that forces viewers to confront histories they might otherwise aestheticize or ignore.",
+  "question": "What is the primary purpose of this text?",
+  "choices": {
+    "A": "To argue that Kara Walker's work is more effective than other contemporary art at addressing race in America",
+    "B": "To explain how Walker employs a formal contrast between her chosen medium and her subject matter to achieve a specific artistic effect",
+    "C": "To describe the historical origins of silhouette art and how Walker has updated the tradition",
+    "D": "To criticize depictions of racial violence in contemporary art as unnecessarily provocative"
+  },
+  "correct_answer": "B",
+  "explanation": "The text explains Walker's artistic strategy: she uses the silhouette form (polite, decorative) to depict brutal content (enslavement, violence), creating a tension that forces viewers to confront suppressed histories. The primary purpose is to explain how this formal contrast (medium vs. subject) produces the desired artistic effect. Choice B accurately names this: the text explains the contrast between medium and subject matter and identifies its intended effect on viewers. Choice A introduces a comparative claim (more effective than other artists) that the text never makes. Choice C is incorrect; the text briefly mentions silhouette's Victorian origins but the focus is on Walker's strategy, not the history of the form. Choice D attributes a negative judgment to the text that is not present—the text describes Walker's strategy approvingly."
+}

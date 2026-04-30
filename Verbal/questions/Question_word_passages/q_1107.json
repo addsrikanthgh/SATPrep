@@ -1,0 +1,16 @@
+{
+  "id": "q_1107",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The state appellate court issued its unanimous opinion upholding the lower court's ruling on the contested property boundaries in the disputed coastal zone. In its written decision, they cited three prior precedents establishing the state's authority over tidal wetlands.",
+  "question": "Which choice best corrects the pronoun inconsistency in the second sentence?",
+  "choices": {
+    "A": "In their written decision, they cited",
+    "B": "In its written decision, it cited",
+    "C": "In its written decision, the justices cited",
+    "D": "No change; 'In its written decision' and 'they cited' can refer to different aspects of the court's action"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence opens with 'In its written decision,' correctly treating the appellate court as singular, then immediately shifts to 'they cited,' treating it as plural. The correction must make the pronoun consistent. Choice B replaces 'they' with 'it,' keeping both pronouns singular and in agreement with the collective antecedent 'The state appellate court.' Choice A makes both pronouns plural, which is inconsistent with the singular antecedent established in the first sentence. Choice C introduces 'the justices,' a new noun phrase. Choice D incorrectly argues that the two pronouns can refer to different aspects of the same antecedent."
+}

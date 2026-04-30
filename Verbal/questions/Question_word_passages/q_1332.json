@@ -1,0 +1,16 @@
+{
+  "id": "q_1332",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The majority of the Amazon rainforest's biodiversity, including thousands of plant species that have yet to be formally described by taxonomists, reside in a thin layer of organic material covering the forest floor. Conservationists warn that this layer is highly vulnerable to logging and agriculture.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The majority of the Amazon rainforest's biodiversity, including thousands of plant species that have yet to be formally described by taxonomists, resides in a thin layer of organic material covering the forest floor.",
+    "B": "The majority of the Amazon rainforest's biodiversity, including thousands of plant species that have yet to be formally described by taxonomists, reside in a thin layer of organic material.",
+    "C": "The majorities of the Amazon rainforest's biodiversity reside in a thin layer of organic material covering the forest floor.",
+    "D": "No change; 'reside' correctly agrees with 'thousands of plant species,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The majority of the Amazon rainforest's biodiversity.' With 'majority of,' the verb typically agrees with the object of 'of.' Here, the object is 'biodiversity,' a noncount (mass) noun, which is singular. Therefore, the singular verb 'resides' is required. Choice A uses 'resides.' Choice B preserves 'reside.' Choice C uses the unusual 'majorities' and 'reside'—an oddly pluralized form that changes the meaning. Choice D incorrectly applies proximity agreement to 'thousands of plant species,' which is part of the participial modifier 'including thousands of plant species that have yet to be formally described by taxonomists.'"
+}

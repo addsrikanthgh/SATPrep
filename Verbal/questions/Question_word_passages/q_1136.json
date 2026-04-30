@@ -1,0 +1,16 @@
+{
+  "id": "q_1136",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Archaeologists Dr. Reed and Dr. Vasquez co-directed an excavation at a Bronze Age settlement site in the Aegean that yielded an unprecedented assemblage of Linear A inscribed tablets. Following the discovery, she issued a joint press release stating that the tablets could fundamentally alter understanding of Minoan administrative practices.",
+  "question": "The pronoun 'she' is incorrect. Which choice most clearly and precisely replaces it?",
+  "choices": {
+    "A": "Dr. Reed",
+    "B": "they",
+    "C": "Dr. Vasquez",
+    "D": "No change; 'she' refers to Dr. Reed, who is mentioned first and is presumably the co-director who drafted the press release"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage states that the press release was issued jointly by both co-directors. Using 'she' implies only one person issued it, which contradicts the word 'joint.' The correct pronoun for a plural antecedent (Dr. Reed and Dr. Vasquez together) is 'they.' Choice A would assign the joint action to Dr. Reed alone. Choice C would assign it to Dr. Vasquez alone. Choice D incorrectly treats first mention as a basis for singling out one co-director from an explicitly joint action."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1533",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The history of the polio vaccine illustrates the complex relationship between scientific achievement and public trust. Jonas Salk's inactivated polio vaccine, introduced in 1955, was one of the most anticipated and celebrated medical breakthroughs of the twentieth century—after the announcement of its efficacy, church bells rang across America. A manufacturing error at Cutter Laboratories that year, however, resulted in the distribution of incompletely inactivated vaccine, causing paralysis in more than two hundred children and several deaths. The 'Cutter incident' led to major reforms in vaccine regulation and manufacturing oversight, transforming how the federal government monitored the safety of biological products.",
+  "question": "What is the primary function of the third sentence ('A manufacturing error at Cutter Laboratories...') in the passage?",
+  "choices": {
+    "A": "To celebrate the success of the polio vaccine's introduction",
+    "B": "To introduce a crisis that undermined public confidence and complicated the triumphant narrative of the second sentence",
+    "C": "To explain Jonas Salk's role in developing the inactivated vaccine",
+    "D": "To argue that the Salk vaccine was scientifically flawed from the outset"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence describes the Salk vaccine's introduction as a celebrated triumph—church bells rang across America. The third sentence uses 'however' to introduce a serious crisis: a manufacturing error caused paralysis and deaths in children. This dramatically complicates the triumphant narrative by showing that the moment of greatest public confidence was immediately followed by a catastrophic safety failure. The passage's first sentence ('complex relationship between scientific achievement and public trust') is reinforced by this complication. Choice A is incorrect—the third sentence describes a disaster, not a celebration. Choice C is incorrect—Salk's development role is not discussed in the third sentence. Choice D is incorrect—the error was in manufacturing, not in Salk's original scientific design."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1559",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A pharmacologist tested the effectiveness of four doses of an experimental pain reliever, measuring the average pain reduction score (on a 0–100 scale) and the percentage of participants reporting adverse side effects.\n\n| Dose (mg) | Avg. Pain Reduction | % Reporting Side Effects |\n|---|---|---|\n| 50 mg | 28 | 4 |\n| 100 mg | 47 | 9 |\n| 200 mg | 68 | 18 |\n| 400 mg | 74 | 41 |\n\nA physician reviewing the study argued that the 200 mg dose offers the best balance of effectiveness and tolerability.",
+  "question": "Which comparison from the data most directly supports the physician's argument?",
+  "choices": {
+    "A": "The 400 mg dose achieves the highest pain reduction at 74 points.",
+    "B": "The 200 mg dose achieves a high pain reduction score (68) while keeping side effects at 18%—compared to the 400 mg dose, which improves pain reduction only modestly (by 6 points) but nearly doubles the side effect rate (to 41%).",
+    "C": "Side effects more than double between the 100 mg and 400 mg doses.",
+    "D": "The 50 mg dose has the lowest side effect rate at 4%."
+  },
+  "correct_answer": "B",
+  "explanation": "The physician's argument is that 200 mg offers the best 'balance' of effectiveness and tolerability—not simply the most effective dose or the most tolerable. Choice B makes this trade-off comparison explicit: going from 200 mg to 400 mg gains only 6 additional points of pain reduction (68 to 74) but causes the side effect rate to jump from 18% to 41%—a disproportionate cost for a small benefit. This marginal analysis—small gain, large cost—directly supports the 'best balance' argument. Choice A supports choosing the 400 mg dose (highest reduction) without considering side effects. Choice C describes side effect growth broadly without isolating the 200 mg trade-off. Choice D supports the 50 mg dose's tolerability, not the 200 mg balance."
+}

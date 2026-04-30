@@ -1,0 +1,16 @@
+{
+  "id": "q_1418",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The new bicycle lanes installed along the three-mile riverfront corridor have been widely praised by residents and cycling advocates alike. Although some business owners along the route initially objected, citing concerns about reduced vehicle parking and the disruption caused during the eight-week construction period.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The new bicycle lanes installed along the three-mile riverfront corridor have been widely praised by residents and cycling advocates alike, although some business owners along the route initially objected, citing concerns about reduced vehicle parking and the disruption caused during the eight-week construction period.",
+    "B": "The new bicycle lanes installed along the three-mile riverfront corridor have been widely praised by residents and cycling advocates alike; although some business owners along the route initially objected, citing concerns about reduced vehicle parking.",
+    "C": "Although some business owners initially objected, citing concerns about parking and construction disruption, the new bicycle lanes along the riverfront corridor have been widely praised by residents and cycling advocates.",
+    "D": "No change; 'Although some business owners objected' is a complete sentence because it contains a main clause after the subordinating conjunction."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Although some business owners along the route initially objected, citing concerns about reduced vehicle parking and the disruption caused during the eight-week construction period' is a subordinate clause fragment. 'Although' is a subordinating conjunction that begins a dependent clause—it cannot stand alone as a sentence. This clause provides a contrast to the praise described in the first sentence and should be attached to it. Choice A attaches it to the preceding sentence with a comma. Choice B uses a semicolon before the subordinate clause, which is incorrect. Choice C moves the clause to the front of the sentence as an introductory subordinate clause—also grammatically correct. Choice D incorrectly claims the clause after 'although' makes the fragment a complete sentence."
+}

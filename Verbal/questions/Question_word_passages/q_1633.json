@@ -1,0 +1,16 @@
+{
+  "id": "q_1633",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Organic farming, which avoids synthetic pesticides and fertilizers, is widely associated with environmental benefit. However, organic farming typically produces lower crop yields per acre than conventional farming. If we want to feed a growing global population, we may need to produce more food on less land—a goal better served by high-yield conventional or precision agriculture. Expanding organic farming at the expense of yield could actually increase the total land under cultivation, reducing the wilderness areas that provide critical habitat.\n\nText 2: The comparison of organic and conventional yields per acre misses the larger picture. Conventional agriculture depends on energy-intensive synthetic inputs derived from fossil fuels, contributes to soil degradation, and generates significant nitrogen runoff that creates aquatic 'dead zones.' Organic farming, by contrast, builds soil health over time and reduces chemical pollution. A narrow focus on short-term yield ignores the long-term sustainability of the food system.",
+  "question": "Based on the texts, both authors would most likely agree with which of the following statements?",
+  "choices": {
+    "A": "Organic farming is preferable to conventional farming for feeding a growing global population.",
+    "B": "The productivity of farmland, measured in some way, is relevant to evaluating farming methods.",
+    "C": "Conventional farming is environmentally destructive and should be phased out.",
+    "D": "Government subsidies for organic farming should be increased."
+  },
+  "correct_answer": "B",
+  "explanation": "Both authors engage directly with farmland productivity, though they measure and weigh it differently. Text 1 focuses on yield per acre as a critical metric, arguing that low yield threatens wilderness preservation. Text 2 argues that yield per acre is too narrow a metric and that long-term soil health and pollution should be considered—but in doing so, it implicitly accepts that productivity (broadly understood) matters. Both texts would agree that the productivity of farmland—in some form—is relevant to the evaluation. Choice B captures this shared premise. Choice A is directly rejected by Text 1. Choice C is Text 2's implied position but would not be agreed to by Text 1's author, who advocates for conventional or precision agriculture. Choice D is not addressed by either text."
+}

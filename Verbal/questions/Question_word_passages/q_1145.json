@@ -1,0 +1,16 @@
+{
+  "id": "q_1145",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "A newly discovered species of deep-sea fish, the researchers named it Bathynomus yucatanensis after the region where it was found. The creature, measuring nearly forty-five centimeters, was recovered from a depth of over one thousand meters during a submersible expedition.",
+  "question": "Which choice best corrects the modifier error in the first sentence?",
+  "choices": {
+    "A": "A newly discovered species of deep-sea fish, Bathynomus yucatanensis was named by the researchers after the region where it was found.",
+    "B": "The researchers, a newly discovered species of deep-sea fish, named it Bathynomus yucatanensis.",
+    "C": "Named after the region where it was found, the researchers discovered Bathynomus yucatanensis.",
+    "D": "No change; the introductory phrase clearly modifies 'it,' which refers to the fish"
+  },
+  "correct_answer": "A",
+  "explanation": "The opening participial phrase 'A newly discovered species of deep-sea fish' is a noun phrase that should immediately precede and modify the noun it describes. As written, it is followed by 'the researchers,' implying the researchers are the newly discovered species. Choice A correctly restructures the sentence so that the species name (Bathynomus yucatanensis) immediately follows the descriptive phrase. Choice B places the researchers inside the appositive, making the error worse. Choice C creates a new dangling modifier error. Choice D incorrectly claims the pronoun 'it' can serve as the subject of a fronted noun phrase."
+}

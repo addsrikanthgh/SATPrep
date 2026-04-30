@@ -1,0 +1,16 @@
+{
+  "id": "q_1190",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The city planners studied proposals for the transit expansion that would most effectively reduce highway congestion carefully. After six months of analysis, they recommended a combination of expanded bus rapid transit and two new light-rail corridors.",
+  "question": "The word 'carefully' in the first sentence creates ambiguity. Which choice most clearly conveys that the study was careful?",
+  "choices": {
+    "A": "The city planners carefully studied proposals for the transit expansion that would most effectively reduce highway congestion.",
+    "B": "The city planners studied carefully proposals for the transit expansion that would most effectively reduce highway congestion.",
+    "C": "The city planners studied proposals carefully for the transit expansion that would most effectively reduce highway congestion.",
+    "D": "No change; 'carefully' at the end of the sentence modifies 'studied' because it is an adverb and adverbs can modify verbs regardless of position"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'carefully' follows 'highway congestion' and could be read as modifying 'reduce highway congestion carefully' (the proposals' aim is to carefully reduce congestion) or 'studied…carefully' (the study was careful). Choice A places 'carefully' immediately before 'studied,' unambiguously modifying the verb and clarifying that the planners conducted a careful study. Choice B produces awkward word order ('studied carefully proposals') that is grammatically unusual. Choice C places 'carefully' between 'proposals' and 'for the transit expansion,' creating ambiguity about what was careful. Choice D incorrectly argues that adverbial end-of-sentence position is always unambiguous."
+}

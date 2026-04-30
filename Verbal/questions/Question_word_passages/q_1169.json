@@ -1,0 +1,16 @@
+{
+  "id": "q_1169",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Recovering from a serious knee injury sustained during the previous season, the team's coaches decided to limit the star player's playing time in preseason games. Team physicians monitored her progress weekly and cleared her for full participation before the regular season opener.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Recovering from a serious knee injury sustained during the previous season, the star player had her playing time limited by the team's coaches in preseason games.",
+    "B": "The team's coaches, recovering from a serious knee injury, decided to limit the star player's playing time.",
+    "C": "Recovering from a serious knee injury sustained during the previous season, the preseason games featured limited playing time for the star player.",
+    "D": "No change; 'recovering' modifies the star player, who is referred to in the possessive 'the star player's'"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Recovering from a serious knee injury' describes the star player, who is the one injured. As written, 'the team's coaches' is the subject, implying the coaches are recovering from the injury. Choice A correctly restructures the sentence with 'the star player' as the subject of the main clause, immediately following the participial phrase. Choice B explicitly attaches the phrase to the coaches, making the error more obvious. Choice C makes 'the preseason games' the subject, which cannot recover from an injury. Choice D incorrectly argues that a possessive form ('the star player's') can serve as the logical subject of a participial phrase."
+}

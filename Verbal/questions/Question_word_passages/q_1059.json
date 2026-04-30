@@ -1,0 +1,16 @@
+{
+  "id": "q_1059",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "A citizens' advisory committee was established to review proposed changes to the city's zoning ordinances. After meeting with developers, neighborhood associations, and environmental groups over a period of six months, they submitted a 200-page report recommending a mixed-use development framework.",
+  "question": "Which choice best corrects the pronoun error in the second sentence?",
+  "choices": {
+    "A": "it submitted a 200-page report recommending a mixed-use development framework",
+    "B": "each submitted a 200-page report recommending a mixed-use development framework",
+    "C": "those submitted a 200-page report recommending a mixed-use development framework",
+    "D": "No change; 'they' is appropriate because a committee consists of multiple individuals"
+  },
+  "correct_answer": "A",
+  "explanation": "In formal American English, collective nouns such as 'committee' are treated as singular entities and take singular pronouns. 'A citizens' advisory committee' refers to one body, so the correct pronoun is 'it.' Choice A makes this correction. Choice B uses 'each,' a distributive word that implies separate, individual actions by each committee member, which changes the intended meaning—the committee acted collectively, not as individuals. Choice C ('those') is a plural demonstrative pronoun that fails to agree with the singular collective noun. Choice D is incorrect; while a committee does consist of individuals, the collective noun 'committee' functions as a single grammatical unit in formal American English and requires a singular pronoun."
+}

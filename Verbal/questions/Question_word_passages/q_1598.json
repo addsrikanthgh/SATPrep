@@ -1,0 +1,16 @@
+{
+  "id": "q_1598",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The architect's proposal for the new civic center was ambitious to the point of being audacious: she planned to suspend the main hall entirely from cables anchored in two massive pylons, eliminating all interior columns. Critics questioned whether the design was structurally sound, but the architect insisted that the engineering had been vetted by three independent firms. The city council, impressed by her tenacity in defending the design against months of skepticism, ultimately approved the project.",
+  "question": "As used in the passage, 'vetted' most nearly means",
+  "choices": {
+    "A": "rejected",
+    "B": "rigorously examined",
+    "C": "publicly displayed",
+    "D": "casually reviewed"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the architect claims the engineering had been 'vetted by three independent firms' in response to questions about structural soundness. 'Vetted' here means subjected to thorough scrutiny or evaluation. Choice B, 'rigorously examined,' captures this meaning: the firms independently reviewed the engineering for soundness. Choice A ('rejected') is incorrect—if it had been rejected, the architect would not be using it to defend the design. Choice C ('publicly displayed') doesn't convey evaluation or scrutiny. Choice D ('casually reviewed') is the opposite of the meaning implied; having three independent firms review a design implies thoroughness, not casualness."
+}

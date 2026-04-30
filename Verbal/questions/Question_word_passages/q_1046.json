@@ -1,0 +1,16 @@
+{
+  "id": "q_1046",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The proliferation of digital platforms and the resulting fragmentation of audiences has fundamentally altered the economics of journalism. Where once a handful of major newspapers commanded massive readerships, today's media landscape consists of thousands of outlets competing for fractured attention. Advertising revenue, once reliable, has migrated largely to technology companies.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The proliferation of digital platforms and the resulting fragmentation of audiences have fundamentally altered the economics of journalism.",
+    "B": "The proliferation of digital platforms and the resulting fragmentation of audiences is fundamentally altering the economics of journalism.",
+    "C": "The proliferations of digital platforms and the resulting fragmentation of audiences has fundamentally altered the economics of journalism.",
+    "D": "No correction is needed; the subject and verb are already in agreement."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence has a compound subject joined by 'and': 'The proliferation of digital platforms' AND 'the resulting fragmentation of audiences.' A compound subject connected by 'and' is grammatically plural and requires a plural verb. The original uses 'has' (singular), which does not agree with the compound plural subject. Choice A correctly replaces 'has' with 'have,' matching the plural compound subject. Choice B changes the verb to 'is altering,' which is still singular and shifts tense unnecessarily. Choice C changes 'proliferation' to 'proliferations,' which is not standard usage and does not correct the agreement error. Choice D incorrectly identifies the original as correct."
+}

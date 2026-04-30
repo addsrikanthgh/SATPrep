@@ -1,0 +1,16 @@
+{
+  "id": "q_1201",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Analyzing satellite imagery and ground-based sensor readings, the scope of the forest fire was determined to be far larger than the initial emergency dispatch report had indicated by the incident management team. Resources from three neighboring counties were requested immediately.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Analyzing satellite imagery and ground-based sensor readings, the incident management team determined that the scope of the forest fire was far larger than the initial emergency dispatch report had indicated.",
+    "B": "The scope of the forest fire, analyzing satellite imagery and ground-based sensor readings, was determined to be far larger by the incident management team.",
+    "C": "The incident management team's analysis of satellite imagery and ground-based sensor readings was far larger in scope than initially indicated.",
+    "D": "No change; 'analyzing' modifies the incident management team, which is named at the end of the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Analyzing satellite imagery and ground-based sensor readings' describes the incident management team, which performed the analysis. As written, 'the scope of the forest fire' is the subject, implying the scope is doing the analyzing—illogical. Choice A restructures so 'the incident management team' is the subject immediately following the participial phrase. Choice B attaches the phrase to 'The scope,' keeping the error. Choice C eliminates the participial phrase and changes the sentence's meaning. Choice D incorrectly argues that naming the team at the end of the sentence resolves the dangling modifier."
+}

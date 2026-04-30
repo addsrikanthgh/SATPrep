@@ -1,0 +1,16 @@
+{
+  "id": "q_1397",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The candidate's poll numbers had been declining steadily for six weeks, nevertheless, her campaign's internal modeling still projected a narrow path to victory in three key swing states, provided turnout in the major metropolitan areas exceeded sixty-two percent of registered voters.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The candidate's poll numbers had been declining steadily for six weeks; nevertheless, her campaign's internal modeling still projected a narrow path to victory in three key swing states, provided turnout in the major metropolitan areas exceeded sixty-two percent of registered voters.",
+    "B": "The candidate's poll numbers had been declining steadily for six weeks, nevertheless her campaign projected a narrow path to victory in three swing states, provided turnout exceeded sixty-two percent.",
+    "C": "The candidate's poll numbers declined steadily for six weeks; her campaign's internal modeling projected a path to victory, provided turnout exceeded sixty-two percent in major metropolitan areas.",
+    "D": "No change; 'nevertheless' may follow a comma when it introduces a contrasting clause about the same subject."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. 'Nevertheless' is a conjunctive adverb signaling contrast between two independent clauses. Like 'however,' 'therefore,' and 'consequently,' 'nevertheless' when joining two independent clauses must be preceded by a semicolon, not a comma. The original comma before 'nevertheless' is insufficient. Choice A inserts a semicolon before 'nevertheless.' Choice B removes the comma after 'nevertheless'—which must be retained since it's a conjunctive adverb in the middle of a sentence—while keeping the comma splice before it. Choice C simplifies both clauses. Choice D incorrectly claims a comma before 'nevertheless' is acceptable when it joins two independent clauses."
+}

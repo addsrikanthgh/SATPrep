@@ -1,0 +1,16 @@
+{
+  "id": "q_1444",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Three students in the biology seminar submitted papers arguing that the conclusions in the assigned article were overstated, two of the three cited the same methodological flaw in the original study's sampling design. The professor noted the overlap in her written feedback.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "Three students in the biology seminar submitted papers arguing that the conclusions in the assigned article were overstated; two of the three cited the same methodological flaw in the original study's sampling design.",
+    "B": "Three students in the biology seminar submitted papers arguing that the conclusions in the assigned article were overstated two of the three cited the same methodological flaw in the original study's sampling design.",
+    "C": "Three students in the biology seminar submitted papers arguing that the conclusions in the assigned article were overstated, with two of the three citing the same methodological flaw in the original study's sampling design.",
+    "D": "No change; the comma after 'overstated' introduces additional information about the students' papers."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'Three students in the biology seminar submitted papers arguing that the conclusions in the assigned article were overstated' is a complete independent clause, and 'two of the three cited the same methodological flaw in the original study's sampling design' is a second complete independent clause with its own subject ('two of the three') and predicate. Choice A correctly uses a semicolon. Choice B creates a fused sentence. Choice C converts the second clause into a prepositional phrase ('with two of the three citing...'), which is also grammatically correct. Choice A makes the minimal structural change. Choice D incorrectly defends the comma splice."
+}

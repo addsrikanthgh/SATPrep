@@ -1,0 +1,16 @@
+{
+  "id": "q_1652",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "medium",
+  "passage": "The documentary's first act details the environmental destruction caused by industrial fishing practices: the destruction of coral reefs, the collapse of several regional fish populations, and the mass by-catch of non-target species. ______ the film turns its attention to a network of marine sanctuaries in the Pacific, where fish populations have rebounded dramatically since commercial fishing was banned.",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "Subsequently,",
+    "B": "In other words,",
+    "C": "Therefore,",
+    "D": "Similarly,"
+  },
+  "correct_answer": "A",
+  "explanation": "'Subsequently' is correct because the second sentence describes what happens next in the documentary's structure—after the first act, the film moves to a different topic. 'Subsequently' signals a temporal sequence (what comes after). The first act covers destruction; then the film turns to recovery stories. Choice A precisely signals this 'then/next' relationship. Choice B ('In other words') signals a restatement or clarification of what was just said, but the marine sanctuaries content is not a restatement of the industrial fishing destruction. Choice C ('Therefore') signals a logical consequence: the recovery of fish populations is not presented as a logical consequence of the industrial destruction—it is a contrasting example. Choice D ('Similarly') signals that the sanctuary section is parallel to or like the destruction section, but the film is contrasting destruction with recovery, not showing similar phenomena."
+}

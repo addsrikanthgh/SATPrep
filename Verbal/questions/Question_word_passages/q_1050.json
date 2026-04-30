@@ -1,0 +1,16 @@
+{
+  "id": "q_1050",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "During the nineteenth century, naturalists collected specimens from around the world, catalogued them systematically, and they were shipped to European museums where they became the foundation of comparative anatomy. This practice, though invaluable to science, often stripped indigenous communities of their material heritage without acknowledgment or compensation.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "During the nineteenth century, naturalists collected specimens from around the world, catalogued them systematically, and shipped them to European museums where they became the foundation of comparative anatomy.",
+    "B": "During the nineteenth century, naturalists collected specimens from around the world, catalogued them systematically, and the specimens were shipped to European museums where they became the foundation of comparative anatomy.",
+    "C": "During the nineteenth century, naturalists collected specimens from around the world, cataloguing them systematically, and they were shipped to European museums where they became the foundation of comparative anatomy.",
+    "D": "During the nineteenth century, naturalists collected specimens from around the world and catalogued them systematically; they were shipped to European museums where they became the foundation of comparative anatomy."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence contains a faulty parallelism error in a series of predicates sharing the subject 'naturalists': the first two predicates are simple past-tense verbs ('collected,' 'catalogued'), but the third switches to a passive clause with a new subject ('they were shipped'). For parallel structure, all three predicates must share the same grammatical form and subject. Choice A corrects this by replacing 'they were shipped' with the parallel active verb 'shipped,' making all three predicates consistent: 'collected,' 'catalogued,' and 'shipped.' Choice B introduces an explicit new subject ('the specimens') in the third clause, which breaks the parallel predicate structure. Choice C changes 'catalogued' to a participial phrase ('cataloguing'), creating an inconsistency with the remaining finite verbs. Choice D splits the series with a semicolon, which separates the clauses but does not resolve the structural inconsistency."
+}

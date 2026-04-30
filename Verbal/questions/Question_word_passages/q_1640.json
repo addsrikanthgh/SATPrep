@@ -1,0 +1,16 @@
+{
+  "id": "q_1640",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The psychologist Carol Dweck distinguishes between a 'fixed mindset'—the belief that abilities are innate and unchangeable—and a 'growth mindset'—the belief that abilities can be developed through effort and learning. Research by Dweck and colleagues found that students with a growth mindset showed greater academic resilience, interpreted setbacks as learning opportunities, and achieved more than students with a fixed mindset. Praising children for their effort rather than their intelligence has been shown to promote growth mindset development.\n\nText 2: The growth mindset has become one of education's most widely adopted frameworks, but its evidence base has proven difficult to replicate at scale. Large independent replication studies have found smaller effect sizes than the original research, and some have found no significant effect. Critics suggest the original studies may have been affected by methodological issues common in psychology's 'replication crisis.' Classroom implementation has also proven inconsistent: teacher training and fidelity to the original protocol vary widely.",
+  "question": "Text 1 and Text 2 most directly disagree about which of the following?",
+  "choices": {
+    "A": "Whether effort-based praise is a more effective teaching strategy than intelligence-based praise",
+    "B": "Whether the psychological distinction between fixed and growth mindsets is a meaningful conceptual framework",
+    "C": "Whether the growth mindset research provides a reliable and replicable basis for educational interventions",
+    "D": "Whether academic resilience is an important outcome for schools to foster"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 presents growth mindset research as well-supported: students with growth mindsets achieve more, and specific practices (effort praise) have been 'shown to' promote development. The evidence is presented as established. Text 2 directly challenges this evidentiary foundation: large replication studies found smaller or null effects, and the original research may be affected by the replication crisis. The core disagreement is about the research's reliability and replicability as a basis for educational intervention. Choice C identifies this precisely. Choice A (effort praise vs. intelligence praise) is something Text 1 presents evidence for, but Text 2 doesn't directly contradict this specific claim—Text 2 questions the broader evidence base and implementation. Choice B (the conceptual framework itself) is not directly disputed by Text 2, which questions the empirical evidence rather than the conceptual distinction. Choice D (academic resilience as important) is not disputed by either text."
+}

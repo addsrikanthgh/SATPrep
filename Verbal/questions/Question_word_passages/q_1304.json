@@ -1,0 +1,16 @@
+{
+  "id": "q_1304",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Physics, as applied to quantum chromodynamics—the branch of particle physics that describes the strong force binding quarks into protons and neutrons—present some of the most mathematically challenging problems in all of science. Even with modern computing resources, certain calculations remain intractable.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Physics, as applied to quantum chromodynamics—the branch of particle physics that describes the strong force binding quarks into protons and neutrons—presents some of the most mathematically challenging problems in all of science.",
+    "B": "Physics, as applied to quantum chromodynamics—the branch of particle physics that describes the strong force binding quarks into protons and neutrons—present the most mathematically challenging problems.",
+    "C": "Physics as applied to quantum chromodynamics presents some of the most mathematically challenging problems in all of science.",
+    "D": "No change; 'present' correctly treats 'Physics' as plural because it refers to multiple physical phenomena"
+  },
+  "correct_answer": "A",
+  "explanation": "In this sentence, 'Physics' refers to the academic discipline—a singular field of study. Like 'mathematics,' 'economics,' and 'statistics' (when referring to the field), 'physics' takes a singular verb. The dash-enclosed appositive 'the branch of particle physics that describes the strong force binding quarks into protons and neutrons' provides additional context about quantum chromodynamics and does not change the subject's number. The singular verb 'presents' is required. Choice A uses 'presents.' Choice B preserves 'present.' Choice C removes the dash appositive and the prepositional phrase but is otherwise correct—however, it omits 'the' before 'most' and changes the intended scope. Choice D incorrectly argues 'Physics' refers to multiple phenomena."
+}

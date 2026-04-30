@@ -1,0 +1,16 @@
+{
+  "id": "q_1394",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The shipping company adopted a new route optimization algorithm in the third quarter. Reducing average delivery times by eleven percent and cutting fuel costs by nearly eight percent across all domestic routes. The savings allowed the company to lower prices for customers.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The shipping company adopted a new route optimization algorithm in the third quarter, reducing average delivery times by eleven percent and cutting fuel costs by nearly eight percent across all domestic routes.",
+    "B": "The shipping company adopted a new route optimization algorithm in the third quarter; reducing average delivery times by eleven percent and cutting fuel costs by nearly eight percent.",
+    "C": "The shipping company adopted a new route optimization algorithm in the third quarter. This reduced delivery times by eleven percent and cut fuel costs by nearly eight percent across all domestic routes.",
+    "D": "No change; 'Reducing average delivery times' is a complete sentence because it contains two coordinated verbs."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Reducing average delivery times by eleven percent and cutting fuel costs by nearly eight percent across all domestic routes' is a participial phrase fragment—it begins with a present participle ('Reducing') and has no subject or main verb. It describes the result of the algorithm adoption and modifies the subject of the preceding sentence. Choice A attaches the participial phrase to the preceding independent clause with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect for a non-independent clause. Choice C converts the participial phrase into a complete sentence by adding 'This' as a subject. Choice D incorrectly claims two coordinated participles form a complete sentence."
+}

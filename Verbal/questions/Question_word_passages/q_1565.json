@@ -1,0 +1,16 @@
+{
+  "id": "q_1565",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A psychologist studied the effect of group size on individual creative output, measuring the average number of novel ideas generated per person during a one-hour brainstorming session.\n\n| Group Size | Avg. Ideas per Person |\n|---|---|\n| Solo | 8.4 |\n| Pairs (2) | 7.1 |\n| Small Group (4) | 5.8 |\n| Medium Group (6) | 4.9 |\n| Large Group (8) | 4.2 |\n\nThe psychologist concluded that creative output per person consistently decreases as group size increases, a phenomenon they called 'collaborative dilution.'",
+  "question": "A participant in the study challenged the conclusion, arguing that collaborative work provides benefits not captured by individual idea counts—such as idea refinement and building on others' ideas. Which response best evaluates this challenge in relation to the data?",
+  "choices": {
+    "A": "The participant's challenge is irrelevant because the data clearly shows that solo work produces more ideas per person.",
+    "B": "The participant's challenge is valid on its own terms but does not contradict the data: the data shows a consistent decrease in individual idea count per person as group size grows, and the psychologist's conclusion is specifically limited to that measured variable. The challenge raises considerations outside the study's scope.",
+    "C": "The participant's challenge undermines the data, and the psychologist should revise their conclusion.",
+    "D": "The psychologist's conclusion is incorrect because individual idea counts are not a valid measure of creativity."
+  },
+  "correct_answer": "B",
+  "explanation": "The psychologist's conclusion is specifically about per-person idea generation counts, which the data fully supports: 8.4 (solo) → 7.1 (pairs) → 5.8 (small) → 4.9 (medium) → 4.2 (large), a perfectly consistent decline. The participant's challenge raises a legitimate point about other dimensions of collaborative work (refinement, building on ideas), but those are not what the study measured. Choice B correctly distinguishes between the study's specific measured variable and the broader potential benefits of collaboration—acknowledging the validity of both perspectives. This is the most nuanced and accurate response. Choice A dismisses the challenge without engaging with its validity. Choice C incorrectly concludes the challenge undermines the data. Choice D attacks the entire premise of the measurement, which goes beyond what the challenge actually claims."
+}

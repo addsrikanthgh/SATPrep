@@ -1,0 +1,16 @@
+{
+  "id": "q_1369",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The new zoning regulations require property developers to include a minimum of fifteen percent affordable housing units in any residential project exceeding twenty units, this requirement was negotiated over two years of contentious public hearings and represents a compromise between developer interests and housing advocacy groups.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The new zoning regulations require property developers to include a minimum of fifteen percent affordable housing units in any residential project exceeding twenty units—a requirement negotiated over two years of contentious public hearings that represents a compromise between developer interests and housing advocacy groups.",
+    "B": "The new zoning regulations require property developers to include a minimum of fifteen percent affordable housing units in any residential project exceeding twenty units; this requirement was negotiated over two years of contentious public hearings and represents a compromise.",
+    "C": "The new zoning regulations require a minimum of fifteen percent affordable housing in residential projects, this requirement was negotiated over two years and represents a compromise between developer interests and housing groups.",
+    "D": "No change; 'this requirement' begins a clause that may follow a comma when it clarifies a preceding rule."
+  },
+  "correct_answer": "B",
+  "explanation": "The sentence is a comma splice—two independent clauses joined by only a comma. The second independent clause beginning with 'this requirement' needs a semicolon, period, or coordinating conjunction. Choice B uses a semicolon to correctly join the two independent clauses. Choice A converts the second clause into an appositive noun phrase ('a requirement negotiated over two years...'), which is grammatically elegant but makes more significant structural changes. Choice C preserves the comma splice in a shortened version. Choice D incorrectly claims a comma before 'this requirement' is sufficient when it begins an independent clause."
+}

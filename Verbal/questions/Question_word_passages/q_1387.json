@@ -1,0 +1,16 @@
+{
+  "id": "q_1387",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Archaeologists discovered the remains of a previously unknown settlement dating to approximately 800 BCE. Located beneath layers of sediment deposited during successive floods over the past three millennia and accessible only through careful stratigraphic excavation techniques developed in the past two decades.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "Archaeologists discovered the remains of a previously unknown settlement dating to approximately 800 BCE, located beneath layers of sediment deposited during successive floods over the past three millennia and accessible only through careful stratigraphic excavation techniques developed in the past two decades.",
+    "B": "Archaeologists discovered the remains of a previously unknown settlement dating to approximately 800 BCE; located beneath layers of sediment deposited during successive floods over three millennia.",
+    "C": "The remains of a previously unknown settlement, located beneath layers of sediment deposited during successive floods over the past three millennia, were discovered by archaeologists. The site dated to approximately 800 BCE.",
+    "D": "No change; 'Located beneath layers of sediment' is an independent participial sentence that correctly describes the location of the settlement."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Located beneath layers of sediment deposited during successive floods over the past three millennia and accessible only through careful stratigraphic excavation techniques developed in the past two decades' is a participial phrase fragment. Beginning with the past participle 'Located,' it has no subject or main verb and cannot stand alone. It modifies 'the settlement' in the preceding sentence and must be attached to it. Choice A attaches the participial phrase to the preceding clause with a comma. Choice B uses a semicolon before the fragment and omits part of the phrase—both incorrect. Choice C restructures the passage into two full sentences. Choice D incorrectly defends the fragment as an independent sentence."
+}

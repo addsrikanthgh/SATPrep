@@ -1,0 +1,16 @@
+{
+  "id": "q_1260",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The question of how to allocate resources equitably among the competing municipal departments—parks, public health, transportation, and emergency services—remain one of the most contentious issues before the city council each budget cycle. Councilmembers rarely reach consensus on the first vote.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The question of how to allocate resources equitably among the competing municipal departments—parks, public health, transportation, and emergency services—remains one of the most contentious issues before the city council each budget cycle.",
+    "B": "The question of how to allocate resources equitably among the competing municipal departments—parks, public health, transportation, and emergency services—remain among the most contentious issues.",
+    "C": "The questions of how to allocate resources equitably among the competing municipal departments remain one of the most contentious issues before the city council.",
+    "D": "No change; 'remain' correctly agrees with 'departments,' the plural noun nearest the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The question,' a singular noun. The prepositional phrase 'of how to allocate…' and the dash-enclosed list 'parks, public health, transportation, and emergency services' are all modifiers of 'The question.' The singular verb 'remains' is required. Choice A uses 'remains.' Choice B keeps 'remain' and changes 'one of the most contentious issues' to 'among the most contentious issues'—still using a plural verb for a singular subject. Choice C pluralizes 'question' to 'questions' and keeps 'remain,' which would be internally consistent, but this changes the sentence's meaning. Choice D incorrectly applies proximity agreement."
+}

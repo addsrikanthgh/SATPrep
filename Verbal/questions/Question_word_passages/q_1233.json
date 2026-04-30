@@ -1,0 +1,16 @@
+{
+  "id": "q_1233",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Having mastered both the cello and the piano before the age of ten, multiple major conservatories recruited the prodigy before she had even completed middle school. She ultimately enrolled at the Curtis Institute at the age of thirteen.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Having mastered both the cello and the piano before the age of ten, the prodigy was recruited by multiple major conservatories before she had even completed middle school.",
+    "B": "Multiple major conservatories, having mastered both the cello and the piano, recruited the prodigy before she completed middle school.",
+    "C": "The prodigy, who had mastered both the cello and the piano before the age of ten, multiple major conservatories recruited before she had completed middle school.",
+    "D": "No change; 'having mastered' modifies the prodigy, who is named as the object of the main clause"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Having mastered both the cello and the piano before the age of ten' describes the prodigy. As written, 'multiple major conservatories' is the subject, implying conservatories mastered the cello and piano—illogical. Choice A restructures with 'the prodigy' as the subject. Choice B attaches the phrase to 'Multiple major conservatories,' making the error explicit and absurd. Choice C creates an awkward sentence with an inverted object-verb-subject structure. Choice D incorrectly argues that naming the prodigy as the object satisfies the participial requirement."
+}

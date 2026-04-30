@@ -1,0 +1,16 @@
+{
+  "id": "q_1383",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "After spending months analyzing the population data, the conclusion reached by the research team was that poverty rates had declined in urban centers while simultaneously increasing in rural counties, a pattern that had not been observed in any prior decennial census report.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "After spending months analyzing the population data, the research team concluded that poverty rates had declined in urban centers while simultaneously increasing in rural counties, a pattern that had not been observed in any prior decennial census report.",
+    "B": "After spending months analyzing the population data, the conclusion was that poverty rates had declined in urban centers while increasing in rural counties—a pattern not seen in any prior decennial census.",
+    "C": "The research team, after spending months analyzing the population data, reached the conclusion that poverty rates had declined in urban centers while simultaneously increasing in rural counties.",
+    "D": "No change; 'the conclusion reached by the research team' is an acceptable passive construction that correctly follows the introductory phrase."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a dangling modifier. The introductory participial phrase 'After spending months analyzing the population data' implies that someone spent months analyzing data, but the grammatical subject of the main clause is 'the conclusion.' A conclusion cannot spend months analyzing data; the research team did. The phrase dangles because the true actor (the research team) is buried in a prepositional phrase rather than serving as the grammatical subject. Choice A corrects this by making 'the research team' the subject of the main clause. Choice B still uses 'the conclusion' as the subject. Choice C restructures the sentence to move the participial phrase inside but fixes the dangling issue. Choice D incorrectly defends the dangling modifier."
+}

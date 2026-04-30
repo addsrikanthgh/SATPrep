@@ -1,0 +1,16 @@
+{
+  "id": "q_1393",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The soprano gave a transcendent performance of the aria, the audience rose to its feet before she had even finished the final note and the applause lasted nearly five minutes. Critics who had attended the premiere described the performance as the finest they had heard in a decade.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The soprano gave a transcendent performance of the aria; the audience rose to its feet before she had even finished the final note, and the applause lasted nearly five minutes.",
+    "B": "The soprano gave a transcendent performance of the aria, and the audience rose to its feet before she had finished the final note; the applause lasted nearly five minutes.",
+    "C": "The soprano gave a transcendent performance of the aria, causing the audience to rise to its feet before she had finished the final note; the applause lasted nearly five minutes.",
+    "D": "No change; the comma after 'the aria' correctly introduces the audience's reaction to the performance."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice. 'The soprano gave a transcendent performance of the aria' is one independent clause, and 'the audience rose to its feet before she had even finished the final note and the applause lasted nearly five minutes' is a second independent clause with its own subject ('the audience') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to separate the two main independent clauses. Choice B adds 'and' after the comma (valid for joining two independent clauses) but then uses a semicolon to separate 'the applause lasted'—a reasonable restructuring. Choice C uses a participial phrase. Choice D incorrectly defends the comma splice."
+}

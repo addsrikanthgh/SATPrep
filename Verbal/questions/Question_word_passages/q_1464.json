@@ -1,0 +1,16 @@
+{
+  "id": "q_1464",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The architecture firm won the competition for the new city library, their design featured a roof garden, floor-to-ceiling windows, and a central atrium flooded with natural light. Construction is expected to begin next spring.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The architecture firm won the competition for the new city library; their design featured a roof garden, floor-to-ceiling windows, and a central atrium flooded with natural light.",
+    "B": "The architecture firm won the competition for the new city library their design featured a roof garden, floor-to-ceiling windows, and a central atrium flooded with natural light.",
+    "C": "The architecture firm won the competition for the new city library: their design featured a roof garden, floor-to-ceiling windows, and a central atrium flooded with natural light.",
+    "D": "No change; 'their design' is not a second independent clause but a continuation of the first."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The architecture firm won the competition for the new city library' is a complete independent clause, and 'their design featured a roof garden, floor-to-ceiling windows, and a central atrium flooded with natural light' is a second complete independent clause. Choice A correctly uses a semicolon to join them. Choice B creates a fused sentence. Choice C uses a colon—possible here because the winning design could be seen as explaining or defining what set the firm apart, but 'their design featured' begins an independent clause describing the design, which is slightly different from a list or direct definition; a semicolon is more precise. Choice D is incorrect—'their design featured' is indeed a full independent clause."
+}

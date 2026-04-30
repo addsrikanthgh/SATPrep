@@ -1,0 +1,16 @@
+{
+  "id": "q_1071",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The surgical team had prepared for the procedure for weeks, reviewing the imaging studies and consulting with specialists in three different fields. When they finally entered the operating room, each member took their assigned position and waited for the attending surgeon to begin.",
+  "question": "Which choice best corrects the underlined pronoun 'their' in the second sentence?",
+  "choices": {
+    "A": "his or her assigned position",
+    "B": "its assigned position",
+    "C": "the assigned position",
+    "D": "No change; 'their' correctly refers to 'each member' because the sentence emphasizes individuals within the team"
+  },
+  "correct_answer": "D",
+  "explanation": "The pronoun 'their' must agree with its antecedent 'each member.' Although 'each' is traditionally singular in formal grammar, 'their' is widely accepted in contemporary standard English as a singular gender-neutral pronoun agreeing with indefinite antecedents like 'each member.' On the SAT, this usage is treated as correct. Choice A is overly formal and awkward. Choice B uses the neuter singular 'its,' which is unnatural for referring to a person. Choice C eliminates the pronoun entirely and changes the meaning subtly by removing the possessive relationship. Choice D correctly identifies that no change is needed."
+}

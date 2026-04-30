@@ -1,0 +1,16 @@
+{
+  "id": "q_1391",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The board of trustees voted unanimously to approve the proposed merger with the larger academic medical center, with the final agreement subject to regulatory review by the state health department and expected to be completed within the next eighteen months, at which point the combined institution will become the largest nonprofit healthcare provider in the region.",
+  "question": "Which choice best describes the sentence structure of the passage?",
+  "choices": {
+    "A": "The sentence contains a dangling modifier; 'with the final agreement' should follow 'trustees.'",
+    "B": "The sentence contains a comma splice after 'academic medical center.'",
+    "C": "The sentence has no structural errors; it is a single complex sentence with multiple modifying phrases.",
+    "D": "The phrase beginning with 'at which point' is a fragment that must be attached to the preceding clause with a semicolon."
+  },
+  "correct_answer": "C",
+  "explanation": "The sentence has no structural errors. 'The board of trustees voted unanimously to approve the proposed merger' is the main independent clause with a complete subject and predicate. The phrase 'with the final agreement subject to regulatory review by the state health department and expected to be completed within the next eighteen months' is a prepositional phrase modifying the approval. The relative clause 'at which point the combined institution will become the largest nonprofit healthcare provider in the region' is introduced by the relative pronoun 'which,' referring to the eighteen-month timeframe—it is correctly attached with a comma. The sentence is complex but grammatically complete throughout."
+}

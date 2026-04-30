@@ -1,0 +1,16 @@
+{
+  "id": "q_1621",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "hard",
+  "passage": "A widely cited study from the 1990s suggested that eating chocolate was associated with lower rates of heart disease. The study was funded by a chocolate manufacturers' association. Subsequent independent research found that while dark chocolate with high cocoa content does appear to have modest cardiovascular benefits, milk chocolate—the most commonly consumed form—does not. The original study had not distinguished between chocolate types. The episode illustrates a broader problem in nutritional research: industry-funded studies tend to produce results favorable to the funder's products at rates well above chance.",
+  "question": "Which choice best describes the function of the final sentence in the text?",
+  "choices": {
+    "A": "It introduces a new claim that contradicts the findings of the independent research.",
+    "B": "It uses the specific case of the chocolate study to draw a broader conclusion about a systemic problem in nutritional research.",
+    "C": "It explains the scientific mechanism by which industry funding produces biased results.",
+    "D": "It argues that all nutritional research should be government-funded rather than industry-funded."
+  },
+  "correct_answer": "B",
+  "explanation": "The final sentence reads: 'The episode illustrates a broader problem in nutritional research: industry-funded studies tend to produce results favorable to the funder's products at rates well above chance.' The phrase 'The episode illustrates' signals that the sentence is using the specific chocolate study example to support a larger generalization about nutritional research funding. This is a move from particular to general—from one case to a systemic pattern. Choice B accurately describes this function: the specific case is used to exemplify a broader problem. Choice A is incorrect because the final sentence does not contradict the independent research; it draws a conclusion consistent with the whole account. Choice C is incorrect because the sentence names the pattern (favorable results) without explaining the mechanism. Choice D goes beyond the text—the sentence describes a problem but does not advocate for a specific funding solution."
+}

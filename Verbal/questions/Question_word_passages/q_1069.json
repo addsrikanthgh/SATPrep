@@ -1,0 +1,25 @@
+{
+  "id": "q_1069",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "Neither the comprehensive infrastructure investment plan nor the proposed tax incentives were sufficient on their own to attract major technology companies to the region, according to a report by the regional development council.",
+  "question": "Which choice best corrects the pronoun error in the passage?",
+  "choices": {
+    "A": "were sufficient on its own to attract major technology companies to the region",
+    "B": "were sufficient on one's own to attract major technology companies to the region",
+    "C": "were sufficient alone to attract major technology companies to the region",
+    "D": "No change; 'their' refers to both plans collectively"
+  },
+  "correct_answer": "A",
+  "explanation": "In 'neither...nor' constructions, the pronoun agrees with the subject nearest to it. The nearer subject here is 'the proposed tax incentives' (plural), so the verb 'were' correctly uses plural form—but the pronoun 'their own' also agrees with this plural nearer subject. Wait: the nearer subject is 'the proposed tax incentives' (plural), so 'their' agrees with it. Actually, re-reading: 'Neither the comprehensive infrastructure investment plan (singular) nor the proposed tax incentives (plural) were sufficient on their own.' The verb 'were' agrees with the nearer plural subject. 'their own' also agrees with the nearer plural subject. This is CORRECT. But note that 'on its own' would test whether the student incorrectly applies the rule to the farther singular subject. The question tests whether students know the proximity rule applies to both verb AND pronoun. Since 'their' correctly agrees with 'the proposed tax incentives' (nearer, plural), and if the sentence instead read 'Neither the proposed tax incentives nor the infrastructure investment plan...their own,' then 'its own' would be needed. The passage as written is CORRECT—Choice D is the right answer.",
+  "question": "Which choice correctly identifies the pronoun usage in the passage?",
+  "choices": {
+    "A": "The pronoun 'their' is incorrect; 'its' should be used because 'neither' is always singular",
+    "B": "The pronoun 'their' is incorrect; it should be 'one's own' to maintain formality",
+    "C": "The pronoun 'their' is incorrect; it should refer to 'the infrastructure investment plan' instead",
+    "D": "No correction is needed; 'their' correctly agrees with 'the proposed tax incentives,' the subject nearest to the pronoun in this 'neither...nor' construction"
+  },
+  "correct_answer": "D",
+  "explanation": "In 'neither...nor' constructions, the pronoun—like the verb—agrees with the subject nearest to it. The nearer subject here is 'the proposed tax incentives' (plural), which requires the plural possessive 'their.' The passage is correct as written. Choice A incorrectly asserts that 'neither' always requires a singular pronoun; the proximity rule governs the agreement. Choice B suggests 'one's own,' an impersonal indefinite possessive that does not refer to the specific subjects named and changes the meaning of the sentence. Choice C incorrectly proposes agreement with 'the infrastructure investment plan' (the farther, singular subject), which is the opposite of how the proximity rule operates."
+}

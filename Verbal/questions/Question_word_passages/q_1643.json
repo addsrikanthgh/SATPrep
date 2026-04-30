@@ -1,0 +1,16 @@
+{
+  "id": "q_1643",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The expedition team had prepared for every scenario ______ or so they believed. When the storm arrived three days ahead of schedule, their carefully laid plans quickly unraveled.",
+  "question": "Which choice completes the text with the most appropriate punctuation?",
+  "choices": {
+    "A": "scenario,",
+    "B": "scenario.",
+    "C": "scenario;",
+    "D": "scenario—"
+  },
+  "correct_answer": "D",
+  "explanation": "A dash is the correct choice because the phrase 'or so they believed' is a sharp, parenthetical interruption that dramatically qualifies the preceding statement. The dash creates a rhetorical pause that emphasizes the irony: they believed they were prepared, but the subsequent sentences reveal they were wrong. Choice B (period) would work if 'or so they believed' were a complete sentence on its own, but here the phrase requires attachment to the main clause for it to make sense. Choice A (comma) could technically work as a weak interruption, but it would not convey the same sharp, emphatic contrast that the context calls for. Choice C (semicolon) joins independent clauses of equal weight and is not used to introduce a brief parenthetical qualifier like this."
+}

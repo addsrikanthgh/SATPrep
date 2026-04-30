@@ -1,0 +1,16 @@
+{
+  "id": "q_1029",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A digital marketing analyst collected data on five advertising channels for an e-commerce company, measuring conversion rates and cost per conversion. Results were: email marketing to existing customers, 8.3% conversion rate, $4.20 cost per conversion; social media, 2.1% conversion rate, $18.60 cost per conversion; search ads, 5.4% conversion rate, $11.30 cost per conversion; display ads, 0.7% conversion rate, $34.80 cost per conversion; influencer posts, 3.8% conversion rate, $22.40 cost per conversion. The analyst recommended that the company prioritize email marketing as the most cost-effective channel for driving purchases.",
+  "question": "Which choice most effectively uses data from the study to support the analyst's recommendation?",
+  "choices": {
+    "A": "Email marketing had the highest click-through rate and conversion rate of any channel in the dataset.",
+    "B": "Email marketing had both the highest conversion rate (8.3%) and the lowest cost per conversion ($4.20), outperforming every other channel on both effectiveness and cost-efficiency—the two measures directly relevant to the analyst's recommendation.",
+    "C": "Display advertising had the highest cost per conversion ($34.80) and the lowest conversion rate (0.7%), making it the least efficient channel in the dataset.",
+    "D": "Social media reached a far larger audience than email but achieved only a 2.1% conversion rate, illustrating that broad reach does not guarantee cost-effectiveness."
+  },
+  "correct_answer": "B",
+  "explanation": "The analyst's recommendation centers on 'cost-effectiveness,' which requires both a high conversion rate and a low cost per conversion. Choice B directly supports this by citing email marketing's highest conversion rate (8.3%) and lowest cost per conversion ($4.20) simultaneously, addressing both relevant dimensions of cost-effectiveness. Choice A mentions click-through rates, which are not included in the passage data, making it unsupported. Choice C focuses on the worst-performing channel rather than establishing email's superiority. Choice D compares social media reach to email conversions—a comparison that does not directly support the recommendation about cost-effectiveness, since it omits cost per conversion data for both channels."
+}

@@ -1,7 +1,7 @@
 {
   "id": "q_402",
   "domain": "Information and Ideas",
-  "skill": "command of evidence",
+  "skill": "command of evidence (textual)",
   "difficulty": "medium",
   "passage": "Researchers studying urban heat islands measured surface temperatures across 40 cities of varying sizes in the continental United States during July. They found that cities with more than 500,000 residents had an average surface temperature 4.7°F higher than surrounding rural areas, while cities with fewer than 100,000 residents showed an average difference of only 1.9°F. The researchers also found that cities with urban tree canopy coverage exceeding 25% of their area showed heat island effects roughly 30% smaller than cities of similar size with less than 10% canopy coverage.",
   "question": "A city planner argues that expanding tree canopy is more effective at reducing urban heat than managing city population size. Which data from the passage best supports this argument?",

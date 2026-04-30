@@ -1,0 +1,16 @@
+{
+  "id": "q_1117",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The hospital's board of directors approved its new policy on physician credentialing after a comprehensive review of patient outcomes data and accreditation requirements. Following the vote, they issued mandatory implementation guidelines to all department chiefs within the health system.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the department chiefs",
+    "B": "it",
+    "C": "those administrators",
+    "D": "No change; 'they' refers to the board members as a group of individuals"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent 'The hospital's board of directors' is singular, confirmed by 'its new policy.' The second sentence uses the plural 'they,' creating a number mismatch. Choice B replaces 'they' with 'it.' Choice A would make the department chiefs the issuers of guidelines to themselves, reversing the logic. Choice C introduces a new noun phrase. Choice D incorrectly justifies the plural by reference to individual board members; the grammatical antecedent is the singular board."
+}

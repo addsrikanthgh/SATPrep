@@ -1,0 +1,16 @@
+{
+  "id": "q_1486",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The woolly mammoth, which went extinct approximately four thousand years ago, is one of the best-preserved large mammals in the fossil record. Specimens found frozen in Siberian permafrost have yielded intact hair, skin, and soft tissue, providing scientists with an extraordinary window into Pleistocene biology. Several biotechnology companies are now working to resurrect the mammoth by editing the genome of its closest living relative, the Asian elephant. The goal, proponents say, is not to clone a mammoth but to engineer a cold-adapted elephant capable of surviving in the Arctic tundra.",
+  "question": "What is the primary function of the fourth sentence ('The goal, proponents say...') in the passage?",
+  "choices": {
+    "A": "To criticize the biotechnology companies mentioned in the third sentence",
+    "B": "To clarify the actual scientific objective of the de-extinction efforts described in the third sentence",
+    "C": "To explain why the woolly mammoth went extinct four thousand years ago",
+    "D": "To introduce a counterargument to the project of genome editing"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence introduces the biotechnology effort to resurrect the mammoth through genome editing. The fourth sentence immediately clarifies what that effort actually aims to achieve, correcting a likely misconception: the goal is not a clone but a cold-adapted elephant. This is a clarifying or qualifying function—it refines the reader's understanding of the project introduced in the previous sentence. Choice A is incorrect—the fourth sentence reports the proponents' own stated goal, not a criticism. Choice C is incorrect—the extinction of the mammoth is mentioned in the first sentence; the fourth sentence does not address its cause. Choice D is incorrect—the fourth sentence explains the project's goal, not opposes it."
+}

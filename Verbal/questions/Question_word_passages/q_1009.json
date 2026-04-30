@@ -1,0 +1,16 @@
+{
+  "id": "q_1009",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The theory of plate tectonics, developed in the mid-twentieth century, fundamentally transformed the earth sciences. *Tectonic plates move only a few centimeters per year, over geological time this gradual motion reshapes continents and generates mountain ranges.* The cumulative effects of plate movement account for the current distribution of Earth's landmasses.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Tectonic plates move only a few centimeters per year; over geological time, this gradual motion reshapes continents and generates mountain ranges.",
+    "B": "Tectonic plates move only a few centimeters per year, over geological time this gradual motion reshapes continents and generates mountain ranges.",
+    "C": "Tectonic plates moving only a few centimeters per year, over geological time this gradual motion reshapes continents and generates mountain ranges.",
+    "D": "Tectonic plates move only a few centimeters per year, yet over geological time this gradual motion reshapes continents and generates mountain ranges."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. Choice A inserts a semicolon after 'year' and adds a comma after the introductory phrase 'over geological time,' correctly repairing both boundary issues. Choice B reproduces the original error. Choice C converts 'move' to the participle 'moving,' removing the finite verb and leaving the sentence without a main clause. Choice D inserts 'yet,' which implies a contrast between the plates' slow movement and the reshaping of continents; because the reshaping is a direct result of that motion rather than a surprising exception to it, 'yet' distorts the causal relationship."
+}

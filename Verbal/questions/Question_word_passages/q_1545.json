@@ -1,0 +1,16 @@
+{
+  "id": "q_1545",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "A political scientist analyzed voter turnout rates (%) in a national election across five income quintiles and compared them to the percentage of voters in each quintile who reported feeling 'politically efficacious'—believing their vote makes a difference.\n\n| Income Quintile | Voter Turnout (%) | % Feeling Efficacious |\n|---|---|---|\n| Lowest | 38 | 29 |\n| Second | 48 | 37 |\n| Middle | 59 | 52 |\n| Fourth | 68 | 63 |\n| Highest | 78 | 71 |\n\nThe political scientist argued that the turnout gap between income groups is explained largely by differences in political efficacy.",
+  "question": "Which observation about the data most directly challenges the political scientist's argument?",
+  "choices": {
+    "A": "The highest income quintile has both the highest turnout (78%) and the highest efficacy rate (71%).",
+    "B": "Turnout consistently exceeds efficacy percentage across all five quintiles—for example, 38% turnout vs. 29% efficacy in the lowest quintile—suggesting that some voters turn out despite not feeling efficacious, indicating that factors beyond efficacy drive turnout.",
+    "C": "The lowest income quintile has the lowest turnout at 38%.",
+    "D": "The gap in turnout between the lowest and highest quintiles is 40 percentage points."
+  },
+  "correct_answer": "B",
+  "explanation": "The political scientist argues that efficacy differences 'largely explain' the turnout gap. A challenge to this claim must show that efficacy is not sufficient to explain turnout. Choice B identifies a consistent pattern: in every quintile, the turnout rate exceeds the efficacy percentage (e.g., 38% > 29%, 48% > 37%, and so on). This means that in every group, more people vote than feel efficacious, suggesting that efficacy is not a prerequisite for voting—and therefore that other factors (perhaps social norms, civic duty, or mobilization) must also explain turnout. If efficacy fully explained turnout, we would expect the numbers to track more closely. Choice A supports rather than challenges the argument. Choices C and D note individual data points that are consistent with the political scientist's argument."
+}

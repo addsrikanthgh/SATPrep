@@ -1,0 +1,16 @@
+{
+  "id": "q_1647",
+  "domain": "Standard English Conventions",
+  "skill": "punctuation",
+  "difficulty": "medium",
+  "passage": "The novel's protagonist struggles throughout the narrative with a question she cannot resolve ______ whether the life she has built is the one she actually wanted or simply the one that circumstances made most available.",
+  "question": "Which choice completes the text with the most appropriate punctuation?",
+  "choices": {
+    "A": "resolve,",
+    "B": "resolve:",
+    "C": "resolve—",
+    "D": "resolve;"
+  },
+  "correct_answer": "B",
+  "explanation": "A colon is the correct punctuation here. The phrase 'a question she cannot resolve' introduces what that question is—the colon directly presents the content of the question. This is a standard use of the colon: to introduce a noun phrase, list, or clause that specifies or explains what has just been referred to. Choice A (comma) is not wrong in every context, but it is weaker and less precise than the colon, which signals more clearly that the following content is the direct elaboration of 'a question.' Choice C (dash) is also acceptable and creates a dramatic pause, but the colon is the more standard and precise choice for directly presenting the content of a named noun ('a question'). Choice D (semicolon) is incorrect here; semicolons join independent clauses, and 'whether the life she has built...' is a dependent clause."
+}

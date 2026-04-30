@@ -1,0 +1,16 @@
+{
+  "id": "q_1553",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A sports scientist analyzed the average performance of athletes in three events—100m sprint, long jump, and shot put—before and after a six-week high-altitude training camp.\n\n| Event | Pre-Camp Average | Post-Camp Average | Improvement |\n|---|---|---|---|\n| 100m sprint | 10.82 s | 10.61 s | 0.21 s |\n| Long jump | 7.14 m | 7.38 m | 0.24 m |\n| Shot put | 17.2 m | 17.5 m | 0.3 m |\n\nThe scientist concluded that high-altitude training produced measurable improvements across all three events.",
+  "question": "Which evidence from the table most directly supports the scientist's conclusion?",
+  "choices": {
+    "A": "The shot put showed the largest raw improvement at 0.3 meters.",
+    "B": "The long jump improved by 0.24 meters after the training camp.",
+    "C": "All three events show a measurable improvement after the training camp: 100m sprint decreased by 0.21 seconds, long jump increased by 0.24 meters, and shot put increased by 0.3 meters.",
+    "D": "The 100m sprint time decreased from 10.82 to 10.61 seconds."
+  },
+  "correct_answer": "C",
+  "explanation": "The scientist's conclusion specifically states that improvements occurred 'across all three events.' To support a claim about all three events, the evidence must reference all three events. Choice C is the only option that does so—it notes the direction and magnitude of improvement in all three: sprint (−0.21 s), long jump (+0.24 m), and shot put (+0.3 m). Choices A, B, and D each address only one event, which provides partial support for the conclusion but cannot by itself support a claim about all three events. On the SAT, questions about supporting evidence for a claim require matching the scope of the claim; since the claim is about all three events, the evidence must cover all three."
+}

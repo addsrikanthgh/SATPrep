@@ -1,0 +1,16 @@
+{
+  "id": "q_1185",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Awarded the Fields Medal at the age of thirty-one, the mathematical community recognized Maryam Mirzakhani as the first woman ever to receive the prize. Her work on the dynamics and geometry of Riemann surfaces broke new ground in multiple branches of pure mathematics.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Awarded the Fields Medal at the age of thirty-one, Maryam Mirzakhani became the first woman recognized by the mathematical community ever to receive the prize.",
+    "B": "The mathematical community, awarded the Fields Medal at the age of thirty-one, recognized Maryam Mirzakhani as the first woman to receive it.",
+    "C": "Maryam Mirzakhani was awarded the Fields Medal at the age of thirty-one, making her the first woman the mathematical community recognized as having received the prize.",
+    "D": "No change; 'awarded' modifies Maryam Mirzakhani, who is named later as the one recognized"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Awarded the Fields Medal at the age of thirty-one' describes Mirzakhani, who received the award. As written, 'the mathematical community' is the subject, implying the community was awarded the medal. Choice A restructures so 'Maryam Mirzakhani' is the subject following the participial phrase. Choice B makes the community the one receiving the award, which is incorrect. Choice C restructures as a separate main clause, losing the participial connection and creating awkward phrasing. Choice D incorrectly argues that naming Mirzakhani as the object later in the sentence resolves the dangling modifier."
+}

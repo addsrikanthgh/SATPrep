@@ -1,0 +1,16 @@
+{
+  "id": "q_1605",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "The journalist spent three years cultivating sources inside the pharmaceutical company, developing relationships with current and former employees who were willing, at considerable personal risk, to share internal documents. When the exposé was finally published, the company attempted to impugn the reporter's credibility by claiming that her sources had personal grievances that distorted their accounts of internal practices.",
+  "question": "As used in the passage, 'impugn' most nearly means",
+  "choices": {
+    "A": "strengthen",
+    "B": "attack or call into question",
+    "C": "publicly ignore",
+    "D": "legally protect"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the company attempted to 'impugn the reporter's credibility'—to undermine or challenge her reliability. 'Impugn' means to call something into doubt or attack its validity. Choice B, 'attack or call into question,' captures this: the company was trying to damage the reporter's standing by suggesting her sources were unreliable. Choice A ('strengthen') is the opposite of what 'impugn' means. Choice C ('publicly ignore') describes a different strategy—dismissing rather than attacking. Choice D ('legally protect') introduces a legal dimension not present in the context; the company was attacking credibility, not seeking protection."
+}

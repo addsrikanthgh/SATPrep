@@ -1,0 +1,16 @@
+{
+  "id": "q_1042",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The committee reviewing the grant applications announced that they would release its final decisions by the end of the fiscal quarter. Each of the twelve proposals under consideration had been evaluated by three independent reviewers, whose scores were then averaged to produce a composite rating. Proposals receiving a composite rating below 7.0 were automatically eliminated from further consideration.",
+  "question": "Which choice best corrects the pronoun error in the underlined portion of the passage?",
+  "choices": {
+    "A": "announced that it would release its final decisions",
+    "B": "announced that they would release their final decisions",
+    "C": "announced that it would release their final decisions",
+    "D": "announced that one would release its final decisions"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage contains a pronoun inconsistency: 'they' (plural) and 'its' (singular) are used together to refer to the same antecedent, 'the committee.' In American English, collective nouns like 'committee' are treated as singular, but the passage already establishes 'they' as the pronoun for this antecedent. The pronoun and possessive must agree with each other and with the antecedent. Choice B corrects the error by making both pronouns plural ('they' and 'their'), achieving internal consistency. Choice A uses singular pronouns throughout ('it' and 'its'), which is grammatically acceptable for a collective noun, but the existing context of the sentence uses 'they,' making B the correction that matches the established pronoun reference. Choice C mixes 'it' (singular) with 'their' (plural), creating a new inconsistency. Choice D introduces 'one,' an indefinite pronoun that does not logically refer back to 'the committee.'"
+}

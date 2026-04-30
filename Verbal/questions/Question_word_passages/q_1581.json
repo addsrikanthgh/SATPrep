@@ -1,0 +1,16 @@
+{
+  "id": "q_1581",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "The concept of 'adaptive expertise,' developed by educational psychologists Giyoo Hatano and Kayoko Inagaki, distinguishes between two types of expert performance. 'Routine expertise' refers to the ability to solve familiar problems quickly and efficiently through well-practiced procedures. 'Adaptive expertise' refers to the ability to flexibly modify one's knowledge when confronting novel or unusual problems. Hatano and Inagaki argued that routine expertise is a prerequisite for adaptive expertise—one must have deep domain knowledge before one can innovate within a domain—but that it is possible to develop routine expertise without ever developing the adaptive kind. They observed that educational environments that emphasize speed and procedural correctness over conceptual understanding tend to produce routine experts, while environments that encourage students to explain their reasoning and explore multiple solution paths tend to develop adaptive capacity. The distinction has influenced instructional design, particularly in mathematics and medical education.",
+  "question": "A student argues that the type of learning environment plays a crucial role in determining which form of expertise students develop. Which quotation best supports this argument?",
+  "choices": {
+    "A": "\"'Routine expertise' refers to the ability to solve familiar problems quickly and efficiently through well-practiced procedures.\"",
+    "B": "\"Hatano and Inagaki argued that routine expertise is a prerequisite for adaptive expertise.\"",
+    "C": "\"[E]ducational environments that emphasize speed and procedural correctness over conceptual understanding tend to produce routine experts, while environments that encourage students to explain their reasoning and explore multiple solution paths tend to develop adaptive capacity.\"",
+    "D": "\"[I]t is possible to develop routine expertise without ever developing the adaptive kind.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument is about the role of the learning environment in shaping which type of expertise is developed. Choice C is the most direct evidence: it explicitly contrasts two different types of educational environments (one emphasizing speed and procedure, the other encouraging reasoning and exploration) and connects each type to a specific outcome (routine experts vs. adaptive capacity). This is a direct cause-and-effect relationship between environment type and expertise type. Choice A defines routine expertise but says nothing about what produces it. Choice B establishes a prerequisite relationship between the two expertise types but doesn't mention learning environments. Choice D establishes that one can have routine expertise without adaptive expertise, which is relevant context but doesn't address what the learning environment contributes."
+}

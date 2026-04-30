@@ -1,0 +1,16 @@
+{
+  "id": "q_1061",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "Charlotte Brontë drew heavily on his personal experiences as a governess when writing 'Jane Eyre,' published in 1847 under the pseudonym Currer Bell. The novel's semi-autobiographical elements include vivid depictions of the social isolation experienced by educated women in Victorian England.",
+  "question": "Which choice best corrects the pronoun error in the first sentence?",
+  "choices": {
+    "A": "Charlotte Brontë drew heavily on her personal experiences as a governess",
+    "B": "Charlotte Brontë drew heavily on their personal experiences as a governess",
+    "C": "Charlotte Brontë drew heavily on one's personal experiences as a governess",
+    "D": "No change; the pseudonym Currer Bell, which is masculine, justifies the use of 'his'"
+  },
+  "correct_answer": "A",
+  "explanation": "'His' is a masculine possessive pronoun, but its antecedent, Charlotte Brontë, is a woman. The correct possessive pronoun is 'her.' Choice A makes this correction. Choice B uses 'their,' a plural pronoun that does not agree with the singular antecedent Charlotte Brontë. Choice C uses 'one's,' an indefinite possessive that refers to no specific individual rather than to Brontë. Choice D is incorrect; a pseudonym does not alter the grammatical gender of the actual person being described. The sentence refers to Charlotte Brontë the author, not to the pen name Currer Bell, so the pronoun must agree with Brontë's actual gender."
+}

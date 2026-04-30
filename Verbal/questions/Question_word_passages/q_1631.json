@@ -1,0 +1,16 @@
+{
+  "id": "q_1631",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The reintroduction of wolves to Yellowstone National Park in 1995 is frequently cited as a conservation success story. Wolves controlled elk populations that had overgrazed riverbanks, allowing vegetation to recover. This led to reduced erosion, healthier streams, and even a shift in the courses of some rivers—a phenomenon ecologists call a 'trophic cascade.' The Yellowstone case demonstrates the outsized ecological role that apex predators can play in maintaining ecosystem health.\n\nText 2: The 'trophic cascade' narrative surrounding Yellowstone wolves has been embraced with enthusiasm by conservationists, but the science is more complicated. Several studies have found that the vegetation recovery often attributed to wolf predation was also influenced by climate fluctuations, beaver activity, and changes in elk distribution patterns unrelated to wolf presence. The story of wolves 'changing rivers' is compelling, but it may overstate the wolves' specific contribution.",
+  "question": "How would the author of Text 2 most likely respond to the phrase 'demonstrates the outsized ecological role that apex predators can play' in Text 1?",
+  "choices": {
+    "A": "By arguing that wolves played no role in the vegetation recovery and that all changes were caused by climate fluctuations",
+    "B": "By suggesting that the Yellowstone data demonstrates the opposite—that wolves had a smaller role than other apex predators in comparable ecosystems",
+    "C": "By cautioning that the evidence is more complex and that the wolves' specific contribution may have been overstated relative to other contributing factors",
+    "D": "By agreeing that wolves played an outsized role but arguing that the changes were ultimately harmful to the ecosystem"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 2 does not deny that wolves had an effect; it argues that the narrative 'overstates the wolves' specific contribution' because other factors—climate, beavers, elk distribution—also contributed. The author of Text 2 would respond to Text 1's phrase 'outsized ecological role' by questioning whether the data truly isolates wolves as the primary cause, given these confounding factors. Choice C accurately captures this: the author would caution that the evidence is more complex and the wolves' contribution may be overstated. Choice A overstates Text 2's position—it says some of the recovery is attributable to other factors, not that wolves played no role. Choice B introduces a comparison with other apex predators in other ecosystems, which Text 2 does not make. Choice D concedes the wolf's 'outsized role' while arguing it was harmful—neither part of this is Text 2's position."
+}

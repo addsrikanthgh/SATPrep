@@ -1,0 +1,16 @@
+{
+  "id": "q_1036",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "hard",
+  "passage": "Economists analyzed employment data from 12 cities that implemented minimum wage increases between 8% and 12% from 2018 to 2022, comparing each city's employment growth in the following year to the national average. Deviations from the national employment baseline by wage increase level were: 8% increase (3 cities), city employment +1.8% vs. national +1.7%, deviation +0.1 percentage points; 9% increase (2 cities), +2.1% vs. +2.0%, deviation +0.1 pp; 10% increase (4 cities), +1.4% vs. +1.5%, deviation −0.1 pp; 11% increase (2 cities), +1.6% vs. +1.7%, deviation −0.1 pp; 12% increase (1 city), +0.9% vs. +1.4%, deviation −0.5 pp. A policy analyst argued that minimum wage increases of up to 11% appear to have negligible effects on employment, but that a 12% increase may signal the beginning of meaningful employment suppression.",
+  "question": "Which choice most effectively uses data from the study to support the analyst's argument?",
+  "choices": {
+    "A": "Cities that raised the minimum wage by 8–11% experienced employment growth ranging from +1.4% to +2.1%, all of which were near their respective national baselines for the same year.",
+    "B": "Cities with 8–11% wage increases deviated from the national employment baseline by only +0.1 or −0.1 percentage points, while the single city with a 12% increase deviated by −0.5 percentage points—five times larger than any deviation observed at lower increase levels, suggesting a qualitatively different effect at that threshold.",
+    "C": "The city with the 12% wage increase saw the lowest employment growth (+0.9%) of any group in the dataset, compared to an average of +1.75% across all 8–11% wage increase groups.",
+    "D": "Employment growth in cities with 10–11% increases was slightly below the national baseline by 0.1 percentage points, suggesting a small but consistent negative employment effect even at moderate wage increase levels."
+  },
+  "correct_answer": "B",
+  "explanation": "The analyst's argument has two parts: (1) 8–11% increases have negligible effects, and (2) a 12% increase signals meaningful employment suppression. Choice B supports both parts by showing that all 8–11% deviations were only ±0.1 pp from the national baseline (establishing negligible impact) and then contrasting this with the −0.5 pp deviation at 12%—explicitly noting this is five times larger—which supports the claim of a qualitatively different, meaningful effect at that level. Choice A supports the first part (8–11% near baseline) but does not address the 12% data. Choice C compares absolute employment growth rates rather than deviations from the national baseline, which is less precise for isolating the policy effect. Choice D only discusses 10–11% increases and incorrectly characterizes the −0.1 pp deviation as a 'consistent negative effect,' contradicting the analyst's characterization of 8–11% increases as having negligible effects."
+}

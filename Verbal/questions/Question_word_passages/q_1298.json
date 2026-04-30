@@ -1,0 +1,16 @@
+{
+  "id": "q_1298",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Sixty percent of the nation's arable land, a substantial portion of which are located in the drought-prone interior regions, lie fallow during drought years due to insufficient irrigation infrastructure. Agricultural economists warn that this pattern will worsen as climate change intensifies.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Sixty percent of the nation's arable land, a substantial portion of which is located in the drought-prone interior regions, lies fallow during drought years due to insufficient irrigation infrastructure.",
+    "B": "Sixty percent of the nation's arable land, a substantial portion of which are located in the drought-prone interior regions, lies fallow during drought years.",
+    "C": "Sixty percent of the nation's arable land, a substantial portion of which is located in the drought-prone interior regions, lie fallow during drought years.",
+    "D": "No change; 'are located' and 'lie' both correctly agree with their respective subjects in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "There are two agreement issues. First, 'Sixty percent of the nation's arable land': 'land' is a noncount (mass) noun, so a singular verb ('lies') is required for the main verb. Second, 'a substantial portion of which': 'portion' is singular, and the relative pronoun 'which' refers to the singular 'land.' The verb in the relative clause should be singular: 'is located,' not 'are located.' Choice A fixes both errors: 'is located' (singular relative clause verb) and 'lies' (singular main verb). Choice B corrects only the main verb but keeps the plural 'are located.' Choice C corrects 'are located' to 'is located' but retains the plural 'lie.' Choice D incorrectly claims there are no errors."
+}

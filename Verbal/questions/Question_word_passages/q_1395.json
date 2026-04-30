@@ -1,0 +1,16 @@
+{
+  "id": "q_1395",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "In preparing the annual report on climate adaptation strategies for coastal cities, the most pressing vulnerability identified by the consulting team was the lack of adequate stormwater infrastructure in low-lying neighborhoods that had experienced repeated flooding in five of the past seven years.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "In preparing the annual report on climate adaptation strategies for coastal cities, the consulting team identified the most pressing vulnerability: the lack of adequate stormwater infrastructure in low-lying neighborhoods that had experienced repeated flooding in five of the past seven years.",
+    "B": "When preparing the annual report on climate adaptation strategies for coastal cities, the most pressing vulnerability was the lack of adequate stormwater infrastructure in low-lying neighborhoods that had experienced repeated flooding.",
+    "C": "The consulting team identified the most pressing vulnerability in its annual report on climate adaptation strategies: inadequate stormwater infrastructure in low-lying neighborhoods that had flooded repeatedly.",
+    "D": "No change; 'the most pressing vulnerability' is an acceptable passive subject that follows the introductory phrase."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence contains a dangling modifier. The introductory phrase 'In preparing the annual report on climate adaptation strategies for coastal cities' implies that some entity is preparing the report, but the grammatical subject of the main clause is 'the most pressing vulnerability.' A vulnerability cannot prepare an annual report; the consulting team does. Choice A corrects this by making 'the consulting team' the subject of the main clause. Choice B changes 'In preparing' to 'When preparing' but still uses 'the most pressing vulnerability' as the subject—the modifier still dangles. Choice C restructures the sentence entirely with a different organization. Choice D incorrectly defends the dangling modifier."
+}

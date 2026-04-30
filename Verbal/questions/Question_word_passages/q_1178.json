@@ -1,0 +1,16 @@
+{
+  "id": "q_1178",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To qualify for the national merit scholarship, a student must only score in the top one percent of all PSAT test-takers in their state. Cutoff scores vary by state to account for differences in the size and academic profile of each state's testing population.",
+  "question": "The word 'only' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "To qualify for the national merit scholarship, a student must score only in the top one percent of all PSAT test-takers in their state.",
+    "B": "To qualify for the national merit scholarship, only a student must score in the top one percent of all PSAT test-takers in their state.",
+    "C": "Only to qualify for the national merit scholarship, a student must score in the top one percent of all PSAT test-takers in their state.",
+    "D": "No change; 'must only score' means the student needs to do nothing other than score highly, which is the intended meaning"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that scoring in the top one percent is the sole requirement—'only' modifies 'in the top one percent.' As written, 'must only score' implies that scoring is the only action required (as opposed to also submitting essays, etc.)—a different and potentially misleading meaning. Choice A places 'only' immediately before 'in the top one percent,' conveying that the threshold—not the action—is the limiting element. Choice B places 'only' before 'a student,' implying students are the only ones who must score. Choice C places 'only' before 'to qualify,' creating a logical absurdity. Choice D incorrectly defends the current placement."
+}

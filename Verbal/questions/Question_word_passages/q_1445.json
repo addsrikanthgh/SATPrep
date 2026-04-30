@@ -1,0 +1,16 @@
+{
+  "id": "q_1445",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The economic impact report outlined three major challenges facing the region's manufacturing sector the first was the rising cost of raw materials, the second was the difficulty of recruiting skilled workers, and the third was increasing competition from overseas producers offering lower prices.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The economic impact report outlined three major challenges facing the region's manufacturing sector; the first was the rising cost of raw materials, the second was the difficulty of recruiting skilled workers, and the third was increasing competition from overseas producers offering lower prices.",
+    "B": "The economic impact report outlined three major challenges facing the region's manufacturing sector: the first was the rising cost of raw materials, the second was the difficulty of recruiting skilled workers, and the third was increasing competition from overseas producers offering lower prices.",
+    "C": "The economic impact report outlined three major challenges facing the region's manufacturing sector, the first was the rising cost of raw materials, the second was the difficulty of recruiting skilled workers, and the third was increasing competition from overseas producers.",
+    "D": "The economic impact report outlined three major challenges facing the region's manufacturing sector. The first was the rising cost of raw materials, the second was difficulty recruiting skilled workers, and the third was competition from overseas producers."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage is a fused sentence—two portions joined without any punctuation. The first portion ('The economic impact report outlined three major challenges facing the region's manufacturing sector') introduces a list of three challenges, and the second portion enumerates them. A colon is the most precise choice because it introduces a list or explanation directly following a complete clause. Choice B uses a colon. Choice A uses a semicolon—grammatically correct but less precise than a colon when the second portion enumerates items mentioned in the first. Choice C creates a comma splice. Choice D uses a period and then begins a new sentence listing the items—the new sentence 'The first was...the second was...and the third was' is itself a run-on joining three independent clauses with only commas."
+}

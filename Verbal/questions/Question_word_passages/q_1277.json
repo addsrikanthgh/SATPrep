@@ -1,0 +1,16 @@
+{
+  "id": "q_1277",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "Acoustics, when applied to the design of performance spaces like concert halls and recording studios, involve complex tradeoffs between reverberation time, sound diffusion, and noise isolation. Even minor architectural decisions can significantly alter the acoustic profile of a venue.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Acoustics, when applied to the design of performance spaces like concert halls and recording studios, involves complex tradeoffs between reverberation time, sound diffusion, and noise isolation.",
+    "B": "Acoustics, when applied to the design of performance spaces like concert halls and recording studios, have involved complex tradeoffs.",
+    "C": "Acoustic, when applied to the design of performance spaces like concert halls and recording studios, involves complex tradeoffs.",
+    "D": "No change; 'involve' correctly treats 'Acoustics' as plural because it refers to multiple acoustic factors"
+  },
+  "correct_answer": "A",
+  "explanation": "In this sentence, 'Acoustics' refers to the applied science or field of study—a singular academic/technical discipline. Like 'mathematics,' 'physics,' and 'economics,' when these words refer to the discipline, they take singular verbs. The singular verb 'involves' is correct. Choice A uses 'involves.' Choice B uses 'have involved,' a plural present perfect—wrong in number. Choice C changes 'Acoustics' to 'Acoustic,' a nonstandard form as a standalone noun. Choice D incorrectly argues 'Acoustics' refers to plural factors; in the context of applied design, it refers to the discipline."
+}

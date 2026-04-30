@@ -1,0 +1,16 @@
+{
+  "id": "q_1237",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Widely considered the father of modern rocketry, the theoretical foundations of liquid-fueled rocket propulsion were laid by Robert Goddard decades before the space race began. His 1926 launch of the first liquid-fueled rocket in Auburn, Massachusetts, proved the concept was viable.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Widely considered the father of modern rocketry, Robert Goddard laid the theoretical foundations of liquid-fueled rocket propulsion decades before the space race began.",
+    "B": "The theoretical foundations of liquid-fueled rocket propulsion, widely considered the father of modern rocketry, were laid by Robert Goddard.",
+    "C": "Robert Goddard, who is widely considered the father of modern rocketry, laid the theoretical foundations of liquid-fueled rocket propulsion decades before the space race.",
+    "D": "No change; 'widely considered' modifies Robert Goddard, who is named as the agent of 'were laid' in the passive construction"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Widely considered the father of modern rocketry' describes Robert Goddard. As written, 'the theoretical foundations of liquid-fueled rocket propulsion' is the subject, implying the foundations are considered the father of rocketry—illogical. Choice A restructures with 'Robert Goddard' as the subject, which is the most concise and direct correction. Choice B attaches the phrase to 'The theoretical foundations,' preserving the error. Choice C is grammatically correct and uses a relative clause instead of the participial construction, making it a valid alternative—but Choice A is the more direct participial correction. Choice D incorrectly argues that passive agent reference resolves a dangling modifier."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1419",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The regional airline announced that it would resume service to four previously discontinued routes beginning in the spring, this announcement was welcomed by civic leaders in the affected communities, who had been lobbying the airline for more than two years to restore the connections they considered essential to economic development.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The regional airline announced that it would resume service to four previously discontinued routes beginning in the spring; this announcement was welcomed by civic leaders in the affected communities, who had been lobbying the airline for more than two years to restore the connections they considered essential to economic development.",
+    "B": "The regional airline announced that it would resume service to four previously discontinued routes beginning in the spring—an announcement welcomed by civic leaders who had been lobbying for more than two years to restore connections they considered essential to economic development.",
+    "C": "The regional airline announced the resumption of service to four routes beginning in the spring. Civic leaders in the affected communities, who had lobbied for more than two years, welcomed the announcement.",
+    "D": "No change; 'this announcement' follows a comma because it refers back to the airline's action described before the comma."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'beginning in the spring,' the sentence continues with 'this announcement was welcomed by civic leaders in the affected communities'—an independent clause with its own subject ('this announcement') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B converts the second clause into an appositive noun phrase ('an announcement welcomed by civic leaders'), eliminating the second independent clause—a more substantial restructuring. Choice C separates the clauses into two sentences. Choice D incorrectly defends the comma splice by claiming reference to a prior noun permits a comma."
+}

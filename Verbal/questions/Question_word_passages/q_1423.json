@@ -1,0 +1,16 @@
+{
+  "id": "q_1423",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The labor arbitrator's ruling required the company to reinstate all forty-seven workers who had been terminated during the strike, the ruling also mandated that the company provide back pay covering the full twenty-two-month period of their absence and restore their seniority and benefits as if there had been no interruption in employment.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The labor arbitrator's ruling required the company to reinstate all forty-seven workers who had been terminated during the strike; the ruling also mandated that the company provide back pay covering the full twenty-two-month period of their absence and restore their seniority and benefits as if there had been no interruption in employment.",
+    "B": "The labor arbitrator's ruling required the company to reinstate all forty-seven workers who had been terminated during the strike and also mandated back pay covering the full twenty-two-month period of their absence and restoration of seniority and benefits.",
+    "C": "The labor arbitrator ruled that all forty-seven workers terminated during the strike must be reinstated, with back pay for twenty-two months and full restoration of seniority and benefits.",
+    "D": "No change; 'the ruling also mandated' follows a comma because it continues describing the same ruling as the first clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'during the strike,' the sentence continues with 'the ruling also mandated that the company provide back pay covering the full twenty-two-month period'—an independent clause with its own subject ('the ruling') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B combines the two clauses into a single clause with a compound predicate ('required...and also mandated'), which is also grammatically correct. Choice C rewrites the sentence substantially. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1366",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The forensic accountant discovered three discrepancies in the financial records, each one pointed to a pattern of systematic underreporting of revenue over at least five years. The discrepancies were consistent with what investigators had suspected from the outset.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The forensic accountant discovered three discrepancies in the financial records; each one pointed to a pattern of systematic underreporting of revenue over at least five years.",
+    "B": "The forensic accountant discovered three discrepancies in the financial records, each pointing to a pattern of systematic underreporting of revenue over at least five years.",
+    "C": "The forensic accountant discovered three discrepancies in the financial records each one pointing to a pattern of systematic underreporting of revenue.",
+    "D": "No change; the comma appropriately introduces a clause that explains the significance of the discrepancies."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice—two independent clauses ('The forensic accountant discovered three discrepancies in the financial records' and 'each one pointed to a pattern of systematic underreporting of revenue over at least five years') are joined by only a comma. Choice A uses a semicolon to correctly join the two related independent clauses. Choice B converts the second clause into a participial phrase ('each pointing to a pattern...'), which is also grammatically correct. Both A and B are valid; A makes the minimal structural change (semicolon), while B restructures the second clause. Choice C removes the comma but has no connecting punctuation, creating a run-on sentence. Choice D incorrectly defends the comma splice."
+}

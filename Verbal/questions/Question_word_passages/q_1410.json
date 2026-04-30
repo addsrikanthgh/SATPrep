@@ -1,0 +1,16 @@
+{
+  "id": "q_1410",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The school district launched a new professional development program for teachers in January. Which included monthly workshops on differentiated instruction, a coaching model pairing veteran teachers with newer staff, and access to an online resource library updated quarterly. Participation rates in the first semester exceeded projections.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The school district launched a new professional development program for teachers in January, which included monthly workshops on differentiated instruction, a coaching model pairing veteran teachers with newer staff, and access to an online resource library updated quarterly.",
+    "B": "The school district launched a new professional development program for teachers in January; which included monthly workshops on differentiated instruction, a coaching model pairing veteran teachers with newer staff, and access to an online resource library.",
+    "C": "The school district launched a new professional development program for teachers in January. It included monthly workshops on differentiated instruction, a coaching model pairing veterans with newer staff, and access to an online resource library.",
+    "D": "No change; 'Which included monthly workshops' begins a complete sentence that describes the program's components."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Which included monthly workshops on differentiated instruction, a coaching model pairing veteran teachers with newer staff, and access to an online resource library updated quarterly' is a relative clause fragment. 'Which' is a relative pronoun that introduces a dependent relative clause. Relative clauses cannot stand alone as sentences. 'Which' refers to 'the new professional development program' in the preceding sentence and must be attached to it. Choice A attaches the relative clause to the preceding sentence with a comma. Choice B uses a semicolon before 'which'—incorrect for a relative clause. Choice C converts the fragment into a full sentence with 'It.' Choice D incorrectly defends the fragment."
+}

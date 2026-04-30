@@ -1,0 +1,16 @@
+{
+  "id": "q_1527",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "For much of the twentieth century, the standard model of star formation held that stars form in isolation when a cloud of interstellar gas and dust collapses under its own gravity. Observations from the 1990s onward revealed that most stars actually form in dense clusters containing hundreds or thousands of stars simultaneously, embedded in giant molecular clouds. This finding has significant implications for planetary formation: the intense radiation and stellar winds from massive neighboring stars can disrupt protoplanetary disks before they coalesce into planets, reducing the chance of Earth-like planet formation in crowded stellar nurseries. The history of our own solar system therefore appears to reflect a relatively favorable formation environment, shielded from the most disruptive influences of neighboring stellar activity.",
+  "question": "What is the primary function of the third sentence ('This finding has significant implications...') in the passage?",
+  "choices": {
+    "A": "To describe how interstellar gas and dust collapse to form a star",
+    "B": "To explain a consequence of clustered star formation that affects the likelihood of planet formation",
+    "C": "To introduce a counterargument to the revised model of star formation described in the second sentence",
+    "D": "To summarize the conditions under which our solar system formed"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence establishes that most stars form in dense clusters. The third sentence explains what this means for planetary formation: radiation and stellar winds from neighboring massive stars can disrupt protoplanetary disks, reducing the chances of planet formation in such environments. 'This finding' at the start of the third sentence explicitly refers back to the cluster formation described in the second sentence, and 'has significant implications' signals the shift to explaining the downstream consequences of that finding. Choice A is incorrect—that is the original model described in the first sentence. Choice C is incorrect—the third sentence extends, not challenges, the revised model. Choice D is incorrect—the solar system's formation environment is discussed in the fourth sentence."
+}

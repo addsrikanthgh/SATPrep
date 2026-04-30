@@ -1,0 +1,16 @@
+{
+  "id": "q_1106",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Astronomers Dr. Leung and Dr. Obi spent three years analyzing spectroscopic data from a nearby star system for evidence of atmospheric biosignatures. After their paper passed peer review, he was invited to present the findings at the International Astronomical Union general assembly in Vienna.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Dr. Leung",
+    "B": "Dr. Obi",
+    "C": "the lead researcher",
+    "D": "No change; 'he' unambiguously refers to the first-named author, who presents the paper by convention"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Dr. Leung and Dr. Obi are male, so 'he' could refer to either. Academic convention about first authors presenting papers is not part of the passage and cannot be assumed by a reader. Choice A names Dr. Leung; Choice B names Dr. Obi. Choice C introduces 'the lead researcher,' a role not established in the passage and potentially applicable to either. Choice D incorrectly imports an external convention to justify a grammatical ambiguity; formal writing requires that pronoun reference be clear within the text itself."
+}

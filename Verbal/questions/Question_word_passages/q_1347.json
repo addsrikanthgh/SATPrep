@@ -1,0 +1,16 @@
+{
+  "id": "q_1347",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "To qualify for the competitive scholarship, applicants must demonstrate financial need, academic excellence, and community leadership. With at least two of these criteria met at an exceptional level. The selection committee reviews all applications holistically.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "To qualify for the competitive scholarship, applicants must demonstrate financial need, academic excellence, and community leadership, with at least two of these criteria met at an exceptional level.",
+    "B": "To qualify for the competitive scholarship, applicants must demonstrate financial need, academic excellence, and community leadership; with at least two of these criteria met at an exceptional level.",
+    "C": "To qualify for the competitive scholarship, applicants must demonstrate financial need, academic excellence, and community leadership—two of these criteria at an exceptional level.",
+    "D": "No change; 'With at least two of these criteria met' is a complete sentence that adds an important qualification."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'With at least two of these criteria met at an exceptional level' is a prepositional phrase fragment—it begins with 'With' (a preposition), has no independent subject-verb structure, and cannot stand alone. It modifies the conditions for qualification and must be attached to the preceding sentence. Choice A attaches the fragment to the preceding sentence with a comma, making it a prepositional phrase modifier. Choice B uses a semicolon before the fragment, which is incorrect—semicolons join independent clauses. Choice C uses a dash and rephrases the fragment, which changes the meaning. Choice D incorrectly defends the fragment as a complete sentence."
+}

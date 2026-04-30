@@ -1,0 +1,16 @@
+{
+  "id": "q_1425",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The archaeologist spent six months excavating the site near the river delta she documented every artifact with photographs and written descriptions before removing anything from the ground. Her meticulous methodology was later praised in the peer review of her findings.",
+  "question": "Which choice best corrects the underlined portion of the passage to fix the sentence boundary error?",
+  "choices": {
+    "A": "The archaeologist spent six months excavating the site near the river delta; she documented every artifact with photographs and written descriptions before removing anything from the ground.",
+    "B": "The archaeologist spent six months excavating the site near the river delta, she documented every artifact with photographs and written descriptions before removing anything from the ground.",
+    "C": "The archaeologist spent six months excavating the site near the river delta: she documented every artifact with photographs and written descriptions before removing anything from the ground.",
+    "D": "The archaeologist spent six months excavating the site near the river delta, and she documented every artifact with photographs and written descriptions, before removing anything from the ground."
+  },
+  "correct_answer": "A",
+  "explanation": "The original passage presents a fused sentence (run-on)—two independent clauses with no punctuation between them. 'The archaeologist spent six months excavating the site near the river delta' and 'she documented every artifact with photographs and written descriptions before removing anything from the ground' are both complete independent clauses. Choice A correctly uses a semicolon to separate the two related independent clauses. Choice B creates a comma splice by inserting only a comma. Choice C uses a colon, which is typically used when the second clause explains or illustrates the first—not appropriate here. Choice D awkwardly inserts a comma before 'and' in the second clause, distorting the meaning."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1378",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The software update was pushed to all devices automatically during the overnight maintenance window. Without requiring any action from the end users, who would see only a brief notification upon their next login. Most users did not even notice the update had occurred.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The software update was pushed to all devices automatically during the overnight maintenance window, without requiring any action from the end users, who would see only a brief notification upon their next login.",
+    "B": "The software update was pushed to all devices automatically during the overnight maintenance window; without requiring any action from the end users, who would see only a brief notification.",
+    "C": "Without requiring any action, the software update was pushed to all devices automatically during the overnight maintenance window. Users would see only a brief notification.",
+    "D": "No change; 'Without requiring any action' begins a complete sentence that specifies how the update was delivered."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Without requiring any action from the end users, who would see only a brief notification upon their next login' is a prepositional phrase fragment. It begins with 'Without,' a preposition, and has no independent subject-verb structure—it cannot stand alone as a sentence. This phrase modifies the update process described in the first sentence and should be attached to it. Choice A attaches the fragment with a comma after the main clause. Choice B uses a semicolon before the fragment, which is incorrect for a prepositional phrase. Choice C moves the phrase to the front of the sentence and makes structural changes. Choice D incorrectly defends the fragment."
+}

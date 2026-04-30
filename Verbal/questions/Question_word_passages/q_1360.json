@@ -1,0 +1,16 @@
+{
+  "id": "q_1360",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The bridge, originally built in 1923 and widened in 1968, underwent its most extensive renovation in the summer of 2019. The third major structural improvement in its nearly century-long history. Traffic was rerouted to alternate crossings for four months during the project.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The bridge, originally built in 1923 and widened in 1968, underwent its most extensive renovation in the summer of 2019—the third major structural improvement in its nearly century-long history.",
+    "B": "The bridge, originally built in 1923 and widened in 1968, underwent its most extensive renovation in the summer of 2019; the third major structural improvement in its nearly century-long history.",
+    "C": "The bridge, originally built in 1923 and widened in 1968, underwent its most extensive renovation in the summer of 2019, being the third major structural improvement in its nearly century-long history.",
+    "D": "No change; the second sentence is an appositive that correctly identifies the renovation as the third major improvement."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'The third major structural improvement in its nearly century-long history' is a noun phrase fragment—it has no verb and cannot stand alone as a sentence. It is an appositive identifying the renovation described in the previous sentence and must be attached to it. Dashes are an excellent way to attach appositives that provide additional information at the end of a sentence. Choice A uses a dash to attach the appositive. Choice B uses a semicolon, which is incorrect—semicolons join independent clauses, not noun phrase appositives. Choice C uses 'being the third major structural improvement,' which is a participial phrase that is grammatically acceptable but slightly awkward. Choice D incorrectly identifies the standalone fragment as an acceptable appositive sentence."
+}

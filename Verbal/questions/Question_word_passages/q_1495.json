@@ -1,0 +1,16 @@
+{
+  "id": "q_1495",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "In the 1980s, the concept of 'broken windows' policing gained wide acceptance in American law enforcement, based on the theory that tolerating minor disorder—graffiti, loitering, fare evasion—invites more serious crime. The theory was tested at scale in New York City under Mayor Rudolph Giuliani, and crime rates did fall dramatically during his tenure. Critics, however, argued that the decline in crime coincided with a national trend driven by demographic and economic shifts entirely unrelated to policing tactics. Subsequent studies using more rigorous controls found mixed results, suggesting that broken windows policing may have contributed to crime reduction in some contexts but is far from a reliable universal remedy.",
+  "question": "What is the primary function of the third sentence ('Critics, however, argued...') in the passage?",
+  "choices": {
+    "A": "To support the broken windows theory by acknowledging its nationwide success",
+    "B": "To introduce an alternative explanation for the crime decline that challenges the theory's claimed success in New York",
+    "C": "To explain the demographic and economic factors that caused crime to fall in the 1980s",
+    "D": "To argue that Mayor Giuliani's policies were illegal"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence presents evidence that appears to validate broken windows policing: crime fell in New York during Giuliani's tenure. The third sentence undermines this apparent validation by introducing a competing explanation—a national crime decline driven by factors unrelated to policing. 'However' explicitly signals the shift to a counterargument. The function of the third sentence is to complicate the apparent success story by offering an alternative causal explanation. Choice A is incorrect—the third sentence challenges the theory's credit for the crime decline. Choice C is incorrect—the third sentence notes that such factors existed but does not explain them in detail. Choice D is incorrect—no claim about legality appears in the passage."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1459",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The conference proceedings documented a troubling pattern among the submitted abstracts: nearly forty percent of the experimental studies lacked a pre-registered hypothesis, and fewer than a third reported effect sizes alongside their p-values, a deficiency that compromises the reproducibility of the findings.",
+  "question": "Which best describes the punctuation used in the passage?",
+  "choices": {
+    "A": "The colon should be replaced with a semicolon because 'nearly forty percent of the experimental studies...' is an independent clause.",
+    "B": "The passage is correct as written; the colon correctly follows a complete independent clause and introduces an explanation of 'troubling pattern.'",
+    "C": "The colon should be replaced with a comma because the passage is one continuous sentence.",
+    "D": "The colon is incorrect; a dash should be used here to signal a dramatic shift."
+  },
+  "correct_answer": "B",
+  "explanation": "The passage is correct as written. The colon is appropriately placed after 'a troubling pattern among the submitted abstracts,' which is a complete independent clause. The colon introduces two independent clauses that together define and explain what the 'troubling pattern' is—exactly the use case a colon is meant to serve. Choice A suggests a semicolon, but because the second part defines the 'troubling pattern,' the colon is more precise. Choice C would create a comma splice. Choice D incorrectly prescribes a dash; while dashes can be used for dramatic emphasis, the colon is the correct and preferred choice for formal academic writing when introducing an explanation."
+}

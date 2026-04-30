@@ -1,0 +1,16 @@
+{
+  "id": "q_1286",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Either the newly installed water filtration system or the aging network of distribution pipes are responsible for the elevated lead levels detected in samples collected from homes in the northwest quadrant of the city. Investigators plan to test both systems in parallel.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Either the newly installed water filtration system or the aging network of distribution pipes is responsible for the elevated lead levels detected in samples collected from homes in the northwest quadrant.",
+    "B": "Either the newly installed water filtration system or the aging network of distribution pipes are responsible for the elevated lead levels.",
+    "C": "Either the newly installed water filtration systems or the aging network of distribution pipes is responsible for the elevated lead levels.",
+    "D": "No change; 'are responsible' correctly agrees with 'distribution pipes,' the nearest plural noun in an either/or construction"
+  },
+  "correct_answer": "A",
+  "explanation": "In either/or constructions, the verb agrees with the subject that is nearer to the verb. The nearer subject here is 'the aging network of distribution pipes.' Despite 'pipes' being plural, the head noun of this phrase is 'network,' which is singular. Therefore, the singular verb 'is responsible' is required. Choice A uses 'is responsible.' Choice B preserves 'are responsible.' Choice C pluralizes 'system' to 'systems' but uses 'is'—internally consistent for a now-plural nearer subject change, but the original subject is singular. Choice D incorrectly applies the nearer-subject rule to 'pipes' rather than to the head noun 'network.'"
+}

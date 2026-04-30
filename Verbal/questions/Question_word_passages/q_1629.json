@@ -1,0 +1,16 @@
+{
+  "id": "q_1629",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The standard economic model treats individuals as rational actors who make decisions by calculating the costs and benefits of available options and choosing the one that maximizes their utility. While this model is a powerful simplification, it captures the essential logic of most human economic behavior: people respond to incentives, and markets aggregate these responses into prices and quantities that allocate resources efficiently.\n\nText 2: Decades of behavioral economics research have demonstrated that human decision-making systematically departs from the rational-actor model. People exhibit loss aversion, preferring to avoid losses over acquiring equivalent gains. They are susceptible to framing effects, making different choices depending on how options are presented. And they use cognitive shortcuts—heuristics—that often lead to predictable errors rather than optimal decisions.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the claim in Text 1 that the rational-actor model 'captures the essential logic of most human economic behavior'?",
+  "choices": {
+    "A": "By agreeing that the rational-actor model is useful for understanding markets, even if individuals are not always rational",
+    "B": "By arguing that 'most' is too strong a claim, given that research shows human decision-making systematically and predictably departs from rational behavior in multiple documented ways",
+    "C": "By suggesting that loss aversion and framing effects are rare exceptions that do not undermine the model's overall validity",
+    "D": "By contending that the rational-actor model should be abandoned entirely in favor of pure psychological approaches"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2 makes a strong empirical claim: 'human decision-making systematically departs from the rational-actor model' in multiple documented ways (loss aversion, framing effects, heuristic errors). The word 'systematically' is key—these are not rare exceptions but predictable, consistent patterns. The author of Text 2 would therefore push back on Text 1's claim that the rational-actor model captures 'the essential logic of most human economic behavior,' arguing that the departures are too systematic and pervasive to be dismissed. Choice B accurately captures this response. Choice A has the Text 2 author agreeing with Text 1 on the market-level point—Text 2 does not make this concession. Choice C directly contradicts Text 2, which describes the departures as 'systematic' and 'predictable,' not rare. Choice D overstates Text 2's position; it documents failures but does not call for abandoning economic models entirely."
+}

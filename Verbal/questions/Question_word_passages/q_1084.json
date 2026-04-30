@@ -1,0 +1,16 @@
+{
+  "id": "q_1084",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Napoleon Bonaparte and his chief of staff, Marshal Berthier, collaborated closely throughout the campaigns of 1805 and 1806. However, during the Russian campaign of 1812, he struggled to adapt his operational methods to the unfamiliar terrain and the enemy's deliberate strategy of avoiding a decisive engagement.",
+  "question": "The pronoun 'he' in the second sentence is ambiguous. Which choice most clearly and precisely replaces it?",
+  "choices": {
+    "A": "Napoleon",
+    "B": "Berthier",
+    "C": "the general",
+    "D": "No change; 'he' unambiguously refers to Napoleon, who is the better-known historical figure"
+  },
+  "correct_answer": "A",
+  "explanation": "The pronoun 'he' has two grammatically viable antecedents: 'Napoleon Bonaparte' and 'Marshal Berthier,' both of whom are male and were introduced in the previous sentence. Although historical knowledge suggests Napoleon is the more significant figure in the passage, formal writing requires that pronoun reference be unambiguous at the sentence level—historical fame does not resolve grammatical ambiguity. Choice A correctly names Napoleon explicitly. Choice B would assign the difficulty to Berthier, which may be historically defensible in some contexts but changes the intended meaning. Choice C uses 'the general,' a description that could refer to either man (both held command roles). Choice D incorrectly asserts that relative historical prominence eliminates pronoun ambiguity; only explicit naming or sentence restructuring resolves the ambiguity."
+}

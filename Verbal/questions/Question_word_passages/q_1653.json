@@ -1,0 +1,16 @@
+{
+  "id": "q_1653",
+  "domain": "Expression of Ideas",
+  "skill": "transitions",
+  "difficulty": "hard",
+  "passage": "The philosopher Hannah Arendt argued that the most dangerous perpetrators of evil in the modern world are not sadists or ideological fanatics but ordinary people who fail to think critically about the systems they serve. ______ Arendt's account of Adolf Eichmann—a bureaucratic administrator who coordinated deportations to death camps while insisting he was 'just following orders'—was intended as evidence of what she called 'the banality of evil.'",
+  "question": "Which choice completes the text with the most logical transition?",
+  "choices": {
+    "A": "However,",
+    "B": "In contrast,",
+    "C": "To illustrate this point,",
+    "D": "As a result,"
+  },
+  "correct_answer": "C",
+  "explanation": "'To illustrate this point' is correct because the second sentence provides a specific example—Eichmann—that demonstrates the claim made in the first sentence. The first sentence is an abstract claim (ordinary, thoughtless people are the most dangerous perpetrators); the second sentence presents the paradigmatic historical case used to support it. 'To illustrate this point' signals that the second sentence is an example of or evidence for the first. Choice A ('However') signals contrast, but Eichmann's case does not contrast with the claim—it exemplifies it. Choice B ('In contrast') similarly signals opposition. Choice D ('As a result') signals consequence: Arendt's use of Eichmann is not a consequence of her claim but rather the evidential basis or illustration of it."
+}

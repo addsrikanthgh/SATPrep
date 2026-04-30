@@ -1,0 +1,16 @@
+{
+  "id": "q_1078",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Neither the lead vocalist nor the session musicians were fully satisfied with the final mix of the album. The producer noted that they had each expressed specific concerns about the balance between the bass frequencies and the vocal track during the final listening session.",
+  "question": "Which choice best describes the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "Incorrect; 'they' should be 'he or she' to agree with the singular 'lead vocalist'",
+    "B": "Incorrect; 'they' should be 'it' because the band is a singular collective entity",
+    "C": "Correct; with neither/nor, the pronoun agrees with the nearer antecedent, the plural 'session musicians'",
+    "D": "Correct; 'they' refers to the producer and the musicians collectively"
+  },
+  "correct_answer": "C",
+  "explanation": "In a 'neither...nor' construction, the pronoun agrees with the nearer antecedent. The two antecedents are 'the lead vocalist' (singular) and 'the session musicians' (plural). Because 'the session musicians' is the nearer antecedent, the plural pronoun 'they' is correct. Choice A incorrectly applies agreement to the more distant singular antecedent. Choice B incorrectly treats the musicians and vocalist as a single collective 'band,' a noun that does not appear in the passage. Choice D introduces 'the producer' as part of the antecedent, but the producer is the observer reporting the concerns, not one of the parties who expressed them."
+}

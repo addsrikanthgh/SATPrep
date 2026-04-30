@@ -1,0 +1,16 @@
+{
+  "id": "q_1280",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "There is, in most large urban hospitals, specialized units dedicated to treating patients with complex conditions requiring coordinated care from multiple specialties. These units typically employ social workers, case managers, and patient navigators in addition to clinical staff.",
+  "question": "Is there a subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Yes; 'There is' should be 'There are' because the true subject 'specialized units' is plural.",
+    "B": "Yes; 'There is' should be 'There are' because 'large urban hospitals' is plural.",
+    "C": "Yes; 'There is' should be 'There are' because the sentence contains multiple coordinated nouns after the verb.",
+    "D": "No; 'There is' correctly agrees with the nearest subject phrase 'most large urban hospitals.'"
+  },
+  "correct_answer": "A",
+  "explanation": "In existential 'there is/are' constructions, the verb must agree with the true subject, which follows the verb. The true subject here is 'specialized units,' a plural noun. Therefore, 'There are' is required, not 'There is.' Choice A correctly identifies this error. Choice B incorrectly identifies 'large urban hospitals' as the subject—it is part of the prepositional phrase 'in most large urban hospitals,' which modifies the location. Choice C vaguely claims 'multiple coordinated nouns' requires a plural verb—this is imprecise reasoning. Choice D incorrectly applies proximity agreement to 'hospitals.'"
+}

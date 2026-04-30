@@ -1,0 +1,16 @@
+{
+  "id": "q_1031",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A materials engineer tested fiberglass insulation panels at five thicknesses during a standardized 24-hour heat loss trial. Average heat loss rates were: 2 cm panels, 84.3 W/m²; 4 cm panels, 51.7 W/m²; 6 cm panels, 34.2 W/m²; 8 cm panels, 22.6 W/m²; 10 cm panels, 15.9 W/m². The engineer concluded that increasing panel thickness consistently reduces heat loss, with each additional 2 cm providing a meaningful reduction.",
+  "question": "Which choice most effectively uses data from the study to support the engineer's conclusion?",
+  "choices": {
+    "A": "A 10 cm panel loses heat at only 15.9 W/m², compared to 84.3 W/m² for a 2 cm panel—a reduction of more than 80% across the full thickness range.",
+    "B": "Heat loss decreased at every 2 cm thickness increment: from 84.3 to 51.7 W/m² (2 to 4 cm), from 51.7 to 34.2 W/m² (4 to 6 cm), from 34.2 to 22.6 W/m² (6 to 8 cm), and from 22.6 to 15.9 W/m² (8 to 10 cm), demonstrating a consistent reduction at every step.",
+    "C": "Heat loss drops by 32.6 W/m² between the 2 cm and 4 cm panels, the largest single reduction observed in the dataset.",
+    "D": "At 6 cm, the heat loss rate of 34.2 W/m² is roughly 40% of the rate at 2 cm, suggesting that moderate thickness achieves substantial insulation."
+  },
+  "correct_answer": "B",
+  "explanation": "The engineer's conclusion requires demonstrating that the reduction is 'consistent'—occurring at every thickness increment—and that 'each additional 2 cm' provides a meaningful reduction. Choice B supports this precisely by listing all four 2 cm increments and showing a reduction at every step, directly establishing the consistency the conclusion claims. Choice A compares only the extreme ends (2 cm vs. 10 cm), confirming an overall reduction but not demonstrating that each individual increment contributes. Choice C focuses only on the largest single reduction (2 to 4 cm) and does not establish the pattern across all thicknesses. Choice D discusses only the 6 cm panel's performance relative to 2 cm, providing no evidence about the other three increments."
+}

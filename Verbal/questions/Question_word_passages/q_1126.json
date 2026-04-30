@@ -1,0 +1,16 @@
+{
+  "id": "q_1126",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Toni Morrison and Maya Angelou, two of the most celebrated American writers of the twentieth century, were both known for blending memoir, history, and lyrical prose in ways that redefined their respective genres. She delivered a widely broadcast commencement address at a major university in 1993 that was later cited as one of the great speeches of the decade.",
+  "question": "The pronoun 'She' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Morrison",
+    "B": "Angelou",
+    "C": "the author",
+    "D": "No change; 'She' refers to Maya Angelou because she was also the inaugural poet and is associated with public speeches"
+  },
+  "correct_answer": "B",
+  "explanation": "Both Morrison and Angelou are female, making 'She' grammatically ambiguous. While Maya Angelou's public oratory career—including her reading at President Clinton's 1993 inauguration—makes her the likely referent, formal writing cannot depend on external biographical knowledge to resolve a pronoun. Choice B names Angelou explicitly. Choice C introduces 'the author,' a description applicable to both women. Choice D correctly identifies Angelou but argues that background knowledge is sufficient to resolve pronoun reference; formal standard English requires explicit naming when two plausible antecedents exist."
+}

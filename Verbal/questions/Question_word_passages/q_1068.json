@@ -1,0 +1,16 @@
+{
+  "id": "q_1068",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "In Fyodor Dostoevsky's 'Crime and Punishment,' Raskolnikov confesses his crime to Sonya rather than to the examining magistrate Porfiry, because he feared that his relentless psychological probing would eventually lead to a formal arrest.",
+  "question": "Which choice best corrects the ambiguous pronoun reference in the passage?",
+  "choices": {
+    "A": "Raskolnikov feared that Porfiry's relentless psychological probing would eventually lead to a formal arrest",
+    "B": "he feared that Raskolnikov's relentless psychological probing would eventually lead to a formal arrest",
+    "C": "Porfiry feared that his relentless psychological probing would eventually lead to a formal arrest",
+    "D": "No change; 'he' refers to Raskolnikov and 'his' to Porfiry, as made clear by the narrative logic"
+  },
+  "correct_answer": "A",
+  "explanation": "The second clause contains two pronouns—'he' and 'his'—with two potential male antecedents: Raskolnikov and Porfiry. It is unclear whether Raskolnikov feared Porfiry's psychological probing or his own. Choice A resolves both ambiguities by explicitly naming Raskolnikov as the one who fears and Porfiry as the source of the probing. Choice B specifies 'Raskolnikov's probing' but leaves 'he' ambiguous and reverses the more logical reading of the scene. Choice C makes Porfiry the fearful subject, which changes the meaning of the passage and is inconsistent with the novel's plot. Choice D argues that narrative logic resolves the ambiguity, but the SAT standard requires pronouns to be unambiguous within the text itself, without reliance on outside knowledge of the work."
+}

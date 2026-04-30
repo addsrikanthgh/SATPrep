@@ -1,0 +1,16 @@
+{
+  "id": "q_1557",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A market researcher surveyed consumers about their willingness to pay a premium (defined as more than 20% above standard price) for products labeled with various sustainability certifications.\n\n| Certification Label | % Willing to Pay Premium |\n|---|---|\n| Organic | 54 |\n| Fair Trade | 48 |\n| Carbon Neutral | 41 |\n| Rainforest Alliance | 38 |\n| No Label | 12 |\n\nThe researcher concluded that sustainability certifications, regardless of type, significantly increase consumer willingness to pay a premium compared to unlabeled products.",
+  "question": "Which finding most directly supports the researcher's conclusion?",
+  "choices": {
+    "A": "The Organic label has the highest premium willingness at 54%.",
+    "B": "Every sustainability certification—Organic (54%), Fair Trade (48%), Carbon Neutral (41%), and Rainforest Alliance (38%)—has a substantially higher premium willingness than the unlabeled baseline of 12%.",
+    "C": "Fair Trade and Carbon Neutral labels have similar premium willingness rates.",
+    "D": "The Rainforest Alliance label has the lowest premium willingness among the certified options at 38%."
+  },
+  "correct_answer": "B",
+  "explanation": "The researcher concludes that sustainability certifications, 'regardless of type,' increase willingness to pay a premium 'significantly' compared to unlabeled products. This claim is about all certification types and their comparison to the no-label baseline. Choice B directly addresses both parts: it confirms that every certification—all four types—shows substantially higher premium willingness than the 12% baseline, with gaps ranging from 26 to 42 percentage points. This supports the 'regardless of type' and 'significantly' aspects of the conclusion. Choice A addresses only one label. Choice C notes a similarity between two labels without comparing them to the baseline. Choice D identifies the lowest-performing certification without comparing it to the unlabeled baseline or addressing the full scope of the claim."
+}

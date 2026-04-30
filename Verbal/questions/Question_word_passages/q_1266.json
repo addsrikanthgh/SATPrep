@@ -1,0 +1,16 @@
+{
+  "id": "q_1266",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The ethics of using patient data to train machine learning diagnostic tools, without explicit individual consent, remain highly contested in both the biomedical research community and in hospital legal departments. Several major health systems have paused AI development initiatives pending regulatory guidance.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The ethics of using patient data to train machine learning diagnostic tools, without explicit individual consent, remains highly contested in both the biomedical research community and in hospital legal departments.",
+    "B": "The ethics of using patient data to train machine learning diagnostic tools, without explicit individual consent, have remained highly contested.",
+    "C": "The ethic of using patient data to train machine learning diagnostic tools remains highly contested in the biomedical research community.",
+    "D": "No change; 'remain' correctly agrees with 'tools,' the nearest plural noun, in a sentence about a contested practice"
+  },
+  "correct_answer": "A",
+  "explanation": "The word 'ethics' here refers to the ethical debate or question—a singular concept rather than a set of moral principles. When 'ethics' is used to mean 'the ethical dimension or question of something,' it takes a singular verb ('the ethics of this situation remains unclear'). The singular verb 'remains' is correct. Choice A uses 'remains.' Choice B uses 'have remained,' a plural present perfect—wrong in number. Choice C changes 'ethics' to 'ethic,' a nonstandard singular form in this context. Choice D incorrectly applies proximity agreement, claiming 'tools' is the subject."
+}

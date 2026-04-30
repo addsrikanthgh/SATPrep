@@ -1,0 +1,16 @@
+{
+  "id": "q_1340",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The legislative session ended last Tuesday, the governor immediately called a special session to address the emergency funding shortfall. No additional legislation was considered during the special session.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The legislative session ended last Tuesday; the governor immediately called a special session to address the emergency funding shortfall.",
+    "B": "The legislative session ended last Tuesday, but the governor immediately called a special session to address the emergency funding shortfall.",
+    "C": "The legislative session ended last Tuesday, the governor immediately called a special session to address the emergency funding shortfall, no additional legislation was considered.",
+    "D": "No change; the comma appropriately links two sequential events."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence is a comma splice—two independent clauses are joined by only a comma. A semicolon, period, or coordinating conjunction is needed. Choice A uses a semicolon to correctly join the two related independent clauses showing temporal sequence. Choice B uses 'but,' a coordinating conjunction, which is grammatically correct but introduces an adversative contrast ('but') that doesn't precisely capture the relationship—the governor calling a special session immediately after the legislative session ends is more sequential than adversarial. However, Choice A is the clearest and most neutral correction. Choice C creates a run-on with multiple comma splices. Choice D incorrectly defends the comma splice."
+}

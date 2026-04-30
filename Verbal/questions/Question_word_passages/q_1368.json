@@ -1,0 +1,16 @@
+{
+  "id": "q_1368",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The ancient temple, nestled in a dense forest at the edge of the city, was rediscovered by archaeologists in 1994. Having been lost to history for more than six hundred years. The site is now a protected cultural heritage landmark.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The ancient temple, nestled in a dense forest at the edge of the city, was rediscovered by archaeologists in 1994, having been lost to history for more than six hundred years.",
+    "B": "The ancient temple, nestled in a dense forest at the edge of the city, was rediscovered by archaeologists in 1994; having been lost to history for more than six hundred years.",
+    "C": "Having been lost to history for more than six hundred years, the ancient temple nestled in a dense forest was rediscovered by archaeologists in 1994.",
+    "D": "No change; 'Having been lost to history' is a complete sentence because it describes the historical condition of the temple."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Having been lost to history for more than six hundred years' is a participial phrase fragment—it lacks a subject and cannot stand alone as a sentence. It should be attached to the sentence it modifies (the one about the temple being rediscovered). Choice A attaches the participial phrase to the preceding independent clause with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect—semicolons join independent clauses. Choice C moves the participial phrase to the front of the sentence as an introductory modifier, which is also grammatically correct. Both A and C are valid; A makes the minimal structural change. Choice D incorrectly defends the fragment."
+}

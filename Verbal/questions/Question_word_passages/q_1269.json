@@ -1,0 +1,16 @@
+{
+  "id": "q_1269",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The pair of chromosomes that carry the genes associated with hereditary breast and ovarian cancer syndrome, known clinically as BRCA1 and BRCA2, have been the subject of intense genetic research for three decades. Identifying mutations in these chromosomes allows physicians to assess individual cancer risk.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The pair of chromosomes that carry the genes associated with hereditary breast and ovarian cancer syndrome, known clinically as BRCA1 and BRCA2, has been the subject of intense genetic research for three decades.",
+    "B": "The pair of chromosomes that carry the genes associated with hereditary breast and ovarian cancer syndrome have been the subjects of intense genetic research for three decades.",
+    "C": "The pairs of chromosomes that carry the genes associated with hereditary breast and ovarian cancer syndrome has been the subject of intense genetic research for three decades.",
+    "D": "No change; 'have been' correctly agrees with 'chromosomes,' the plural noun nearest the verb"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The pair,' a singular collective noun. The prepositional phrase 'of chromosomes that carry the genes associated with hereditary breast and ovarian cancer syndrome' and the appositive 'known clinically as BRCA1 and BRCA2' do not change the subject. The singular verb 'has been' is required. Choice A uses 'has been.' Choice B keeps 'have been' and changes 'subject' to 'subjects,' compounding the error. Choice C pluralizes 'pair' to 'pairs' but uses the singular 'has been'—internally inconsistent. Choice D incorrectly applies proximity agreement."
+}

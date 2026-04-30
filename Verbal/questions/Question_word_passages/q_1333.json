@@ -1,0 +1,16 @@
+{
+  "id": "q_1333",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The scientist completed her analysis of the rock samples. And then submitted the findings to her team for peer review. Several colleagues requested revisions before publication.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The scientist completed her analysis of the rock samples and then submitted the findings to her team for peer review.",
+    "B": "The scientist completed her analysis of the rock samples; and then submitted the findings to her team for peer review.",
+    "C": "The scientist completed her analysis of the rock samples, and then submitted the findings to her team for peer review, several colleagues requested revisions.",
+    "D": "No change; the second sentence is intentional for stylistic emphasis."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'And then submitted the findings to her team for peer review' is a sentence fragment—it begins with a coordinating conjunction and has no grammatical subject. It cannot stand alone as a sentence. The fragment should be attached to the preceding independent clause. Choice A joins the two ideas into one complete sentence with a coordinating conjunction 'and.' Choice B uses a semicolon before 'and,' which is nonstandard—semicolons are used between independent clauses, not between a clause and a fragment. Choice C creates a comma splice by joining two independent clauses with just a comma. Choice D incorrectly defends the fragment as stylistic."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1599",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "medium",
+  "passage": "In her memoir, the scientist recounted how her early passion for entomology was nurtured by her grandmother, who kept meticulous field journals documenting the insect life of their rural property over forty years. The journals were not merely lists of species names but rich descriptions of behavior, habitat, and seasonal variation, constituting what the scientist called 'a private natural history' of one small piece of land.",
+  "question": "As used in the passage, 'constituting' most nearly means",
+  "choices": {
+    "A": "replacing",
+    "B": "forming",
+    "C": "containing",
+    "D": "requiring"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, the journals' rich contents were 'constituting what the scientist called a private natural history'—meaning the contents added up to or amounted to a private natural history. 'Constituting' here means forming or making up something. Choice B, 'forming,' accurately captures this: the descriptions collectively formed a private natural history. Choice A ('replacing') implies substitution rather than composition. Choice C ('containing') is close but suggests something held inside a container rather than elements that collectively make up something. Choice D ('requiring') introduces a prerequisite relationship that the sentence does not support."
+}

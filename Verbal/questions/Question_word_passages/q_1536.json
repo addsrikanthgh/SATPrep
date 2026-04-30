@@ -1,0 +1,16 @@
+{
+  "id": "q_1536",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The practice of double-blind clinical trials—in which neither patients nor researchers know who is receiving a treatment versus a placebo—is the gold standard for evaluating medical interventions. This design controls for both the placebo effect, in which patients improve simply because they believe they are receiving treatment, and for researcher bias, in which scientists may unconsciously interpret ambiguous data in ways that support their hypotheses. Without blinding, studies routinely overestimate treatment effects, a problem that has led to the widespread adoption of pre-registration of study hypotheses and outcomes. Nevertheless, blinding is not possible in all types of medical research, such as surgical trials or studies comparing two active treatments with distinct physical characteristics.",
+  "question": "What is the primary function of the second sentence ('This design controls for both...') in the passage?",
+  "choices": {
+    "A": "To explain why double-blind trials are more expensive than other types of studies",
+    "B": "To explain the specific methodological problems that the double-blind design described in the first sentence is intended to solve",
+    "C": "To argue that the placebo effect is not a real phenomenon",
+    "D": "To describe the limitations of double-blind trials introduced in the fourth sentence"
+  },
+  "correct_answer": "B",
+  "explanation": "The first sentence identifies the double-blind trial as the 'gold standard' for evaluating medical interventions. The second sentence explains why—it controls for two specific sources of bias: the placebo effect and researcher bias. 'This design controls for' explicitly links the second sentence to the design described in the first, and the sentence's function is to enumerate the problems the design is meant to solve, justifying the claim that it is a 'gold standard.' Choice A is incorrect—cost is not mentioned. Choice C is incorrect—the sentence acknowledges the placebo effect as real. Choice D is incorrect—limitations are discussed in the fourth sentence; the second sentence explains strengths."
+}

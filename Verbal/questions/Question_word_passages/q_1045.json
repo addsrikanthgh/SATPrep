@@ -1,0 +1,16 @@
+{
+  "id": "q_1045",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To qualify for the fellowship, a complete application including three letters of recommendation, a research proposal, and official transcripts must be submitted by the candidate before the January 15 deadline. Late submissions will not be considered under any circumstances.",
+  "question": "Which choice best corrects the modifier error in the first sentence?",
+  "choices": {
+    "A": "To qualify for the fellowship, the candidate must submit a complete application—including three letters of recommendation, a research proposal, and official transcripts—before the January 15 deadline.",
+    "B": "A complete application including three letters of recommendation, a research proposal, and official transcripts, to qualify for the fellowship, must be submitted by the candidate before the January 15 deadline.",
+    "C": "To qualify for the fellowship, submitting a complete application including three letters of recommendation, a research proposal, and official transcripts before the January 15 deadline is required.",
+    "D": "To qualify for the fellowship, the deadline of January 15 requires a complete application including three letters of recommendation, a research proposal, and official transcripts from the candidate."
+  },
+  "correct_answer": "A",
+  "explanation": "The original sentence contains a dangling modifier: the infinitive phrase 'To qualify for the fellowship' implies a subject who is doing the qualifying, but the subject of the main clause is 'a complete application'—an inanimate object that cannot qualify for a fellowship. Choice A correctly places 'the candidate' as the subject of the main clause immediately after the introductory infinitive phrase, so the modifier logically attaches to the person performing the qualifying. Choice B moves the infinitive phrase to the middle of the sentence but still leaves 'application' as the subject of 'must be submitted,' creating awkward syntax without resolving the modifier problem. Choice C replaces the infinitive phrase's implied subject with a gerund phrase as the main subject, which still results in an impersonal, awkward construction that obscures agency. Choice D makes 'the deadline' the subject, which is also not the entity doing the qualifying."
+}

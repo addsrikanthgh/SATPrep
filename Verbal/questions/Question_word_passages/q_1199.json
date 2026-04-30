@@ -1,0 +1,16 @@
+{
+  "id": "q_1199",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Noticing that the patient's blood pressure had spiked dramatically within minutes of receiving the injection, the adverse reaction was immediately flagged by the attending physician, who ordered the infusion halted and called for emergency consultation. The patient was stabilized within the hour.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Noticing that the patient's blood pressure had spiked dramatically within minutes of receiving the injection, the attending physician immediately flagged the adverse reaction, ordered the infusion halted, and called for emergency consultation.",
+    "B": "The adverse reaction, noticing that the patient's blood pressure had spiked dramatically, was immediately flagged by the attending physician.",
+    "C": "The patient's blood pressure, noticing the spike, was flagged as an adverse reaction by the attending physician.",
+    "D": "No change; 'noticing' modifies the attending physician, who is named later in the sentence as the agent"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Noticing that the patient's blood pressure had spiked dramatically' describes the attending physician, who is the one observing. As written, 'the adverse reaction' is the subject, implying the adverse reaction notices a blood pressure spike—illogical. Choice A restructures with 'the attending physician' as the subject. Choice B attaches the participial phrase to 'The adverse reaction,' making the error explicit. Choice C creates a further absurdity by having blood pressure notice its own spike. Choice D incorrectly argues that naming the physician later as a passive agent resolves the dangling modifier."
+}

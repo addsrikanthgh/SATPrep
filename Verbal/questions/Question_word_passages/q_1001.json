@@ -1,0 +1,16 @@
+{
+  "id": "q_1001",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "Marine biologists have long studied how sharks navigate open oceans without visible landmarks. *Sharks can detect subtle variations in Earth's magnetic field, this ability allows them to travel thousands of miles with remarkable precision.* Researchers suspect that specialized receptor cells near the shark's snout may be responsible for this magnetosensory capacity.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "Sharks can detect subtle variations in Earth's magnetic field, this ability allows them to travel thousands of miles with remarkable precision.",
+    "B": "Sharks can detect subtle variations in Earth's magnetic field; this ability allows them to travel thousands of miles with remarkable precision.",
+    "C": "Sharks detecting subtle variations in Earth's magnetic field, this ability allows them to travel thousands of miles with remarkable precision.",
+    "D": "Sharks can detect subtle variations in Earth's magnetic field, allowing this ability to travel thousands of miles with remarkable precision."
+  },
+  "correct_answer": "B",
+  "explanation": "The underlined sentence is a comma splice—two independent clauses joined only by a comma. A semicolon, as in Choice B, correctly joins two closely related independent clauses. Choice A reproduces the original error. Choice C converts the main verb to a participle ('detecting'), eliminating the finite verb and creating a fragment that also retains the comma splice. Choice D creates an illogical construction in which 'allowing this ability' suggests the ability itself is doing the traveling, distorting the meaning."
+}

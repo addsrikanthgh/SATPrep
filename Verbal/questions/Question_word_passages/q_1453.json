@@ -1,0 +1,16 @@
+{
+  "id": "q_1453",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "The study tracked five hundred volunteers over a decade it is one of the longest longitudinal studies ever conducted on the relationship between dietary patterns and cognitive decline in adults over fifty.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The study tracked five hundred volunteers over a decade; it is one of the longest longitudinal studies ever conducted on the relationship between dietary patterns and cognitive decline in adults over fifty.",
+    "B": "The study tracked five hundred volunteers over a decade, it is one of the longest longitudinal studies ever conducted on the relationship between dietary patterns and cognitive decline in adults over fifty.",
+    "C": "The study tracked five hundred volunteers over a decade: it is one of the longest longitudinal studies ever conducted on the relationship between dietary patterns and cognitive decline in adults over fifty.",
+    "D": "The study tracked five hundred volunteers over a decade, making it one of the longest longitudinal studies ever conducted on the relationship between dietary patterns and cognitive decline in adults over fifty."
+  },
+  "correct_answer": "D",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. However, the most natural and concise fix is not simply inserting a semicolon or colon but rather converting the second independent clause into a participial phrase. Choice D uses 'making it one of the longest longitudinal studies,' which transforms the second clause into a participial phrase naturally attached to the first—this is grammatically precise and stylistically cleaner. Choice A uses a semicolon—grammatically correct. Choice B creates a comma splice. Choice C uses a colon—the second clause provides additional context about the study's significance rather than directly defining a term from the first clause, so a semicolon or participial phrase is more appropriate. Choice D is the most elegant correction."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1265",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The orchestra's performance of all nine Beethoven symphonies, which will take place over three consecutive weekends, have attracted unprecedented ticket demand from classical music enthusiasts across the region. More than ninety percent of seats were sold within the first hour of ticket release.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The orchestra's performance of all nine Beethoven symphonies, which will take place over three consecutive weekends, has attracted unprecedented ticket demand.",
+    "B": "The orchestra's performance of all nine Beethoven symphonies, which will take place over three consecutive weekends, have attracted unprecedented ticket demands.",
+    "C": "The orchestra's performances of all nine Beethoven symphonies, which will take place over three consecutive weekends, has attracted unprecedented ticket demand.",
+    "D": "No change; 'have attracted' correctly agrees with 'symphonies,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The orchestra's performance,' a singular noun. The relative clause 'which will take place over three consecutive weekends' modifies the performance but does not change its number. The singular verb 'has attracted' is required. Choice A correctly uses 'has attracted.' Choice B keeps 'have attracted' and adds an unnecessary 's' to 'demand.' Choice C pluralizes 'performance' to 'performances' and keeps 'has attracted'—a singular verb inconsistent with a plural subject; this correction introduces a new error. Choice D incorrectly identifies 'symphonies' as the subject."
+}

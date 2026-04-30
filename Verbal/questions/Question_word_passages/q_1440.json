@@ -1,0 +1,16 @@
+{
+  "id": "q_1440",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The transit authority announced that fares would increase by fifteen percent beginning in September riders who purchased monthly passes before August 31 would be able to use them at the old rate through the end of the calendar year.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The transit authority announced that fares would increase by fifteen percent beginning in September; riders who purchased monthly passes before August 31 would be able to use them at the old rate through the end of the calendar year.",
+    "B": "The transit authority announced that fares would increase by fifteen percent beginning in September, riders who purchased monthly passes before August 31 would be able to use them at the old rate through the end of the calendar year.",
+    "C": "The transit authority announced that fares would increase by fifteen percent beginning in September. With riders who purchased monthly passes before August 31 able to use them at the old rate through the end of the calendar year.",
+    "D": "The transit authority announced that fares would increase by fifteen percent, beginning in September; riders who purchased monthly passes before August 31 would be able to use them at the old rate through the calendar year."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a fused sentence—two independent clauses with no punctuation between them. 'The transit authority announced that fares would increase by fifteen percent beginning in September' and 'riders who purchased monthly passes before August 31 would be able to use them at the old rate through the end of the calendar year' are both complete independent clauses. Choice A correctly uses a semicolon to separate them. Choice B creates a comma splice. Choice C converts the second clause into a fragment by adding 'With.' Choice D inserts an unnecessary comma mid-clause and places the semicolon awkwardly."
+}

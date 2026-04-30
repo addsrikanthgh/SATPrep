@@ -1,7 +1,7 @@
 {
   "id": "q_885",
   "domain": "Information and Ideas",
-  "skill": "central ideas and details",
+  "skill": "central idea",
   "difficulty": "hard",
   "passage": "The term 'white noise' is commonly used to describe any undifferentiated background sound, but in signal processing it has a precise technical meaning: a random signal with equal intensity at all frequencies within a given bandwidth. By analogy with white light, which contains all visible frequencies in equal measure, white noise contains all audible frequencies in equal measure. In practice, the sounds people use for sleep or focus—fans, air conditioners, and 'white noise machines'—are rarely true white noise. They are often technically 'pink noise,' in which lower frequencies are more intense, or 'brown noise,' in which the intensity decreases more steeply at higher frequencies. Many people find these colored noises more pleasant and effective than true white noise, which sounds harsh due to its equal emphasis on higher frequencies.",
   "question": "Which choice best states the main idea of the passage?",

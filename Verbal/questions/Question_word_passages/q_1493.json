@@ -1,0 +1,16 @@
+{
+  "id": "q_1493",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Economic historians have long debated why the Industrial Revolution began in Britain rather than in other equally advanced economies of the eighteenth century, such as France, China, or the Netherlands. One influential explanation emphasizes the unique combination of coal deposits located near navigable waterways in northern England, which sharply reduced the cost of energy for early industry. Others point to Britain's unusually strong intellectual property rights, which gave inventors financial incentives to share their innovations. Still others argue that the key factor was not resources or institutions but rather the particular wage structure of British labor, which made machines economically attractive before they were attractive elsewhere.",
+  "question": "What is the primary function of the fourth sentence ('Still others argue...') in the passage?",
+  "choices": {
+    "A": "To conclude that wages were the definitive cause of Britain's early industrialization",
+    "B": "To add a third explanatory hypothesis to the ongoing scholarly debate described in the first sentence",
+    "C": "To contradict the second sentence's claim about coal deposits",
+    "D": "To explain why France and China failed to industrialize in the eighteenth century"
+  },
+  "correct_answer": "B",
+  "explanation": "The passage is organized around multiple competing explanations for a historical puzzle introduced in the first sentence. The second sentence offers one hypothesis (coal and geography), the third offers another (intellectual property rights), and the fourth introduces a third explanation (wage structure). The function of the fourth sentence is to add a third explanatory hypothesis to the ongoing debate—the 'still others argue' construction explicitly signals that this is one more voice in a multi-sided scholarly conversation. Choice A is incorrect—the fourth sentence presents one of several arguments; it does not declare a winner. Choice C is incorrect—the fourth sentence does not refute the coal hypothesis. Choice D is incorrect—France and China are mentioned only to frame the initial question; the fourth sentence does not address them."
+}

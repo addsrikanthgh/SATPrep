@@ -1,0 +1,16 @@
+{
+  "id": "q_1216",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To prepare adequately for the oral qualifying exam, months of intensive review of primary and secondary sources, regular consultation with a faculty mentor, and at least three practice sessions with a peer committee are needed by doctoral candidates. Candidates who fail the exam may retake it once after a six-month remediation period.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "To prepare adequately for the oral qualifying exam, doctoral candidates need months of intensive review of primary and secondary sources, regular consultation with a faculty mentor, and at least three practice sessions with a peer committee.",
+    "B": "Months of intensive review, consultation, and practice sessions, to prepare adequately for the oral qualifying exam, are needed by doctoral candidates.",
+    "C": "Doctoral candidates' preparation for the oral qualifying exam requires months of review, consultation, and practice sessions adequately.",
+    "D": "No change; the infinitive phrase describes the purpose of the requirements, and 'doctoral candidates' is clearly implied as the agent"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To prepare adequately for the oral qualifying exam' implies an agent who must prepare. As written, the subject is a list of activities—months of review, consultation, practice sessions—which cannot prepare for an exam. Choice A restructures so 'doctoral candidates,' the logical agents, are the subject. Choice B moves the infinitive phrase mid-sentence as a parenthetical but still leaves the list of activities as the grammatical subject. Choice C removes the infinitive phrase entirely and inserts 'adequately' in a trailing position, changing the meaning. Choice D incorrectly argues that implying the agent is sufficient."
+}

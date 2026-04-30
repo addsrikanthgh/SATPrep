@@ -1,0 +1,16 @@
+{
+  "id": "q_1205",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Steeped in the traditions of the antebellum South and published to immediate critical acclaim, readers found that Faulkner's The Sound and the Fury defied conventional narrative chronology in ways that challenged and ultimately transformed American literary fiction. The novel's fragmented structure influenced generations of writers.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Steeped in the traditions of the antebellum South and published to immediate critical acclaim, Faulkner's The Sound and the Fury defied conventional narrative chronology in ways that challenged and ultimately transformed American literary fiction.",
+    "B": "Readers, steeped in the traditions of the antebellum South, found that Faulkner's The Sound and the Fury defied conventional narrative chronology.",
+    "C": "Faulkner's novel, published to immediate critical acclaim, was found by readers to be steeped in southern tradition.",
+    "D": "No change; 'steeped' modifies The Sound and the Fury, which is named later in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrases 'Steeped in the traditions of the antebellum South and published to immediate critical acclaim' describe the novel The Sound and the Fury. As written, 'readers' is the subject, implying readers were steeped in antebellum tradition and published to critical acclaim—illogical. Choice A restructures so the novel is the subject. Choice B attaches 'steeped in the traditions of the antebellum South' to 'Readers,' making it apply to them—an unintended meaning. Choice C changes the sentence's meaning significantly and eliminates one of the original participial phrases. Choice D incorrectly argues that naming the novel as an object later in the sentence resolves the error."
+}

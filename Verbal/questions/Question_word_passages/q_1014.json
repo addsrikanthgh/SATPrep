@@ -1,0 +1,16 @@
+{
+  "id": "q_1014",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "hard",
+  "passage": "Scientists estimate that permafrost—permanently frozen subsoil found across much of the Arctic—stores approximately 1.5 trillion tons of organic carbon. *As permafrost thaws, this carbon is metabolized by soil microbes and released as carbon dioxide and methane, these greenhouse gases then accelerate the very warming that caused the thaw.* This feedback mechanism is considered one of the most consequential climate tipping points.",
+  "question": "Which choice most effectively corrects the underlined sentence?",
+  "choices": {
+    "A": "As permafrost thaws, this carbon is metabolized by soil microbes and released as carbon dioxide and methane; these greenhouse gases then accelerate the very warming that caused the thaw.",
+    "B": "As permafrost thaws, this carbon is metabolized by soil microbes and released as carbon dioxide and methane, these greenhouse gases then accelerate the very warming that caused the thaw.",
+    "C": "As permafrost thaws, this carbon is metabolized by soil microbes and released as carbon dioxide and methane, and these greenhouse gases then accelerate the very warming that caused the thaw.",
+    "D": "As permafrost thaws, this carbon is metabolized by soil microbes and released as carbon dioxide and methane, accelerating the very warming that caused the thaw."
+  },
+  "correct_answer": "A",
+  "explanation": "The underlined sentence contains a comma splice—two independent clauses joined only by a comma after 'methane.' Choice A inserts a semicolon to correctly separate the two independent clauses. Choice B reproduces the original comma splice. Choice C inserts 'and,' which is grammatically acceptable, but implies a simple additive relationship; since the second clause describes a causal consequence of the first—the released gases drive further warming—the semicolon in Choice A more precisely signals that consequence. Choice D converts the second clause into a participial phrase, eliminating the explicit subject 'these greenhouse gases' and thereby weakening the causal explanation that the passage requires."
+}

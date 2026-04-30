@@ -1,0 +1,16 @@
+{
+  "id": "q_1302",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "What the oversight committee found most troubling during its investigation were the absence of any formal documentation process for expenditures exceeding ten thousand dollars. The committee has recommended immediate reforms to the agency's financial management procedures.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "What the oversight committee found most troubling during its investigation was the absence of any formal documentation process for expenditures exceeding ten thousand dollars.",
+    "B": "What the oversight committee found most troubling during its investigation were the absences of any formal documentation process.",
+    "C": "What the oversight committee found most troubling during its investigation were the absent formal documentation processes.",
+    "D": "No change; 'were' correctly agrees with 'expenditures,' the nearest plural noun in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is the noun clause 'What the oversight committee found most troubling during its investigation.' Noun clauses functioning as subjects take singular verbs, regardless of the predicate nominative that follows. The singular verb 'was' is required. Choice A uses 'was.' Choice B keeps 'were' and pluralizes 'absence' to 'absences'—compounding the error. Choice C uses 'were' with 'absent formal documentation processes'—restructuring does not help since the noun clause subject still requires a singular linking verb. Choice D incorrectly argues that 'expenditures' is the subject through proximity."
+}

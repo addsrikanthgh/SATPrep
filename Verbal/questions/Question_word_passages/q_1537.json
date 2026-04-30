@@ -1,0 +1,16 @@
+{
+  "id": "q_1537",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The 'overview effect' is a term coined by author Frank White to describe the cognitive and emotional shift reported by astronauts upon seeing Earth from space. Astronauts describe a sudden, overwhelming awareness of Earth's fragility and beauty—its thin blue atmosphere, its absence of visible political borders, its isolation in the vast darkness of space. This perceptual shift frequently produces lasting changes in values and priorities, including a heightened sense of environmental responsibility and cross-national empathy. Researchers studying the overview effect have proposed that it could be replicated in some form through immersive virtual reality experiences, potentially democratizing an experience previously available only to the very few.",
+  "question": "What is the primary function of the fourth sentence ('Researchers studying the overview effect...') in the passage?",
+  "choices": {
+    "A": "To argue that virtual reality is a better tool for inducing the overview effect than actual spaceflight",
+    "B": "To introduce a potential application of the overview effect that could extend its transformative impact beyond astronauts",
+    "C": "To provide a critique of the overview effect as described by Frank White",
+    "D": "To explain the neuroscientific mechanism behind the overview effect"
+  },
+  "correct_answer": "B",
+  "explanation": "The first three sentences describe the overview effect—what it is, what astronauts experience, and its lasting impact on values. The fourth sentence introduces a potential practical application: replicating the effect through virtual reality, which could make it accessible to far more people than the handful of astronauts who have experienced spaceflight. The function is to move from describing the phenomenon to exploring how its benefits might be democratized and extended. Choice A is incorrect—the sentence does not claim VR is 'better' than spaceflight; it suggests VR could replicate the effect in some form. Choice C is incorrect—the fourth sentence does not challenge White's concept. Choice D is incorrect—no neuroscientific mechanism is described in the passage."
+}

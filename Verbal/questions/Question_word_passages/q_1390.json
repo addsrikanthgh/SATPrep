@@ -1,0 +1,16 @@
+{
+  "id": "q_1390",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The treaty, signed in 1648 after thirty years of devastating religious wars across much of Europe, established the principle of state sovereignty, it also set boundaries that would broadly define the political geography of Europe for the next century and a half.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The treaty, signed in 1648 after thirty years of devastating religious wars across much of Europe, established the principle of state sovereignty; it also set boundaries that would broadly define the political geography of Europe for the next century and a half.",
+    "B": "The treaty, signed in 1648 after thirty years of devastating religious wars across much of Europe, established the principle of state sovereignty and also set boundaries that would broadly define the political geography of Europe for the next century and a half.",
+    "C": "Signed in 1648, the treaty established state sovereignty and set boundaries that would define European political geography for the next century and a half.",
+    "D": "No change; the comma between 'sovereignty' and 'it also set' is acceptable because the clauses are closely related."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After 'state sovereignty,' the sentence continues with 'it also set boundaries that would broadly define the political geography of Europe for the next century and a half'—an independent clause with its own subject ('it') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B restructures the sentence as a single clause by adding 'and' and removing the pronoun 'it,' creating a compound predicate. Choice C simplifies the sentence significantly. Choice A makes the minimal punctuation change. Choice D incorrectly defends the comma splice by claiming closeness of relation permits a comma."
+}

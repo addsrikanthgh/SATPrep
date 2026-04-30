@@ -1,0 +1,16 @@
+{
+  "id": "q_1268",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The implications of the landmark ruling by the appellate court, which overturned the lower court's decision on First Amendment grounds, has not yet been fully analyzed by constitutional scholars. Commentators predict it will be years before the full scope of the ruling is understood.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The implications of the landmark ruling by the appellate court, which overturned the lower court's decision on First Amendment grounds, have not yet been fully analyzed by constitutional scholars.",
+    "B": "The implications of the landmark ruling by the appellate court, which overturned the lower court's decision on First Amendment grounds, has not yet been analyzed.",
+    "C": "The implication of the landmark ruling by the appellate court, which overturned the lower court's decision, has not yet been fully analyzed by constitutional scholars.",
+    "D": "No change; 'has not yet been' agrees with 'the landmark ruling,' the nearest singular noun phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject of the sentence is 'The implications,' a plural noun. The relative clause 'which overturned the lower court's decision on First Amendment grounds' modifies 'ruling,' not the subject. The plural verb 'have not yet been fully analyzed' is required. Choice A uses 'have not yet been.' Choice B keeps 'has not yet been,' preserving the agreement error. Choice C changes 'implications' to 'implication' (singular) and uses the singular 'has'—internally consistent but changes the sentence's meaning. Choice D incorrectly identifies 'the landmark ruling' as the subject through proximity."
+}

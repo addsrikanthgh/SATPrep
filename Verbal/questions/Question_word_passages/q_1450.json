@@ -1,0 +1,16 @@
+{
+  "id": "q_1450",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The painter worked on the mural for three months, she used a combination of tempera and acrylic paints to achieve the layered, translucent effect she wanted. The finished mural covers the entire south wall of the community center.",
+  "question": "Which choice correctly fixes the sentence boundary error in the first sentence?",
+  "choices": {
+    "A": "The painter worked on the mural for three months; she used a combination of tempera and acrylic paints to achieve the layered, translucent effect she wanted.",
+    "B": "The painter worked on the mural for three months she used a combination of tempera and acrylic paints to achieve the layered, translucent effect she wanted.",
+    "C": "The painter worked on the mural for three months, using a combination of tempera and acrylic paints to achieve the layered, translucent effect she wanted.",
+    "D": "No change; the comma after 'months' is correct because the second clause describes how the painter worked."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice—two independent clauses joined by only a comma. 'The painter worked on the mural for three months' and 'she used a combination of tempera and acrylic paints to achieve the layered, translucent effect she wanted' are both complete independent clauses. Choice A uses a semicolon to correctly join them. Choice B creates a fused sentence. Choice C converts the second clause into a participial phrase ('using a combination of...'), which is also grammatically correct. Choice A makes the minimal structural change. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1294",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The senator's record on environmental legislation, frequently cited by advocacy groups as evidence of her commitment to climate action, do not fully reflect the compromises she made during budget negotiations with opposition leadership. Political analysts caution against oversimplified assessments of any legislator's record.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The senator's record on environmental legislation, frequently cited by advocacy groups as evidence of her commitment to climate action, does not fully reflect the compromises she made during budget negotiations.",
+    "B": "The senator's record on environmental legislation, frequently cited by advocacy groups as evidence of her commitment to climate action, do not fully reflect the compromises.",
+    "C": "The senator's records on environmental legislation, frequently cited by advocacy groups, do not fully reflect the compromises she made during budget negotiations.",
+    "D": "No change; 'do not' correctly agrees with 'advocacy groups,' the nearest plural noun"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The senator's record,' a singular noun. The participial phrase 'frequently cited by advocacy groups as evidence of her commitment to climate action' is a modifier set off by commas and does not alter the subject's number. The singular verb 'does not fully reflect' is required. Choice A uses 'does not fully reflect.' Choice B preserves 'do not fully reflect.' Choice C pluralizes 'record' to 'records' and uses 'do not'—internally consistent but changes the meaning. Choice D incorrectly applies proximity agreement to 'advocacy groups.'"
+}

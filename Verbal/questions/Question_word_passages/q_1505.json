@@ -1,0 +1,16 @@
+{
+  "id": "q_1505",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The concept of 'food deserts'—low-income neighborhoods with limited access to affordable, nutritious food—has shaped public health policy for decades, guiding billions of dollars in grocery store subsidies and urban agriculture initiatives. Yet a series of rigorous studies published in the 2010s found that simply adding grocery stores to food deserts did not significantly improve residents' diets. Residents often continued purchasing food at familiar convenience stores and fast-food restaurants even when supermarkets were available. These findings prompted researchers to conclude that lack of access may be less determinative than cultural familiarity, time constraints, and the economics of cooking from scratch.",
+  "question": "What is the primary function of the third sentence ('Residents often continued purchasing food...') in the passage?",
+  "choices": {
+    "A": "To refute the studies mentioned in the second sentence",
+    "B": "To provide a behavioral explanation for why adding grocery stores alone did not improve diets",
+    "C": "To argue that convenience stores and fast-food restaurants are healthier than supermarkets",
+    "D": "To explain the economic rationale behind grocery store subsidies described in the first sentence"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence reports a puzzling finding: adding grocery stores to food deserts did not improve residents' diets. The third sentence explains the behavioral mechanism behind this finding—residents continued buying food from familiar stores even when supermarkets became available. This explains why the policy intervention failed: access was not the binding constraint; behavior, habit, and familiarity were. Choice A is incorrect—the third sentence supports and extends the finding of the second sentence. Choice C is incorrect—the third sentence draws no comparison about healthfulness between store types. Choice D is incorrect—the third sentence explains why a policy failed, not why it was initially created."
+}

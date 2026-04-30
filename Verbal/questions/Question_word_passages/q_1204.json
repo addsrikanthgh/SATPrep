@@ -1,0 +1,16 @@
+{
+  "id": "q_1204",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The ornithologist who studies long-distance migratory birds told her graduate students to consult the field guide she had written regularly. The guide includes updated range maps reflecting climate-driven shifts in breeding and wintering territories.",
+  "question": "The word 'regularly' in the first sentence creates ambiguity. Which choice most clearly conveys that the students should consult the guide regularly?",
+  "choices": {
+    "A": "The ornithologist who studies long-distance migratory birds told her graduate students to regularly consult the field guide she had written.",
+    "B": "The ornithologist who regularly studies long-distance migratory birds told her graduate students to consult the field guide she had written.",
+    "C": "The ornithologist who studies long-distance migratory birds regularly told her graduate students to consult the field guide she had written.",
+    "D": "No change; 'regularly' at the end of the clause clearly modifies 'consult the field guide' because consulting is the nearest action"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'regularly' follows 'written' and creates ambiguity: it could modify 'written' (she writes regularly) or 'consult' (consult regularly). The second sentence, which discusses updating the guide, provides contextual support for the intended meaning—students should consult it regularly. Choice A places 'regularly' immediately before 'consult,' unambiguously modifying the frequency of consultation. Choice B places 'regularly' before 'studies,' specifying how often the ornithologist conducts research. Choice C places 'regularly' after 'migratory birds,' creating yet another reading: the ornithologist regularly told students. Choice D incorrectly accepts trailing-adverb position as unambiguous."
+}

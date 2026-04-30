@@ -1,0 +1,16 @@
+{
+  "id": "q_1624",
+  "domain": "Craft and Structure",
+  "skill": "text structure and purpose",
+  "difficulty": "medium",
+  "passage": "Petra, the ancient city carved into rose-red sandstone cliffs in what is now southern Jordan, was the capital of the Nabataean Kingdom from roughly the fourth century BCE until Roman annexation in 106 CE. The Nabataeans were sophisticated hydraulic engineers who constructed an elaborate system of dams, cisterns, and channels to capture and store the scarce rainfall of the desert region. This water infrastructure made it possible to sustain a city of perhaps 30,000 people in an environment that would otherwise have been uninhabitable at that scale.",
+  "question": "What is the primary purpose of this text?",
+  "choices": {
+    "A": "To compare Petra's engineering achievements with those of other ancient civilizations",
+    "B": "To explain how the Nabataeans' water management systems made Petra viable as a large urban center in a desert environment",
+    "C": "To argue that Petra's eventual decline was caused by Roman interference with its water infrastructure",
+    "D": "To describe the architectural features that make Petra a popular tourist destination"
+  },
+  "correct_answer": "B",
+  "explanation": "The text introduces Petra and the Nabataean Kingdom, then focuses on the hydraulic engineering that made large-scale urban habitation possible in a desert environment. The final sentence explicitly states the purpose of the water infrastructure: it made it possible to sustain 30,000 people in an otherwise uninhabitable environment. Choice B accurately captures this: the text explains how water management enabled Petra to exist at urban scale in a desert. Choice A is incorrect; no comparison with other civilizations is made. Choice C introduces Petra's decline and Roman causation, which the text does not address—it only mentions Roman annexation as a historical endpoint. Choice D refers to tourism, which is not mentioned in the text at all."
+}

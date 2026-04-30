@@ -1,0 +1,16 @@
+{
+  "id": "q_1149",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "To receive credit for the independent study, a faculty sponsor must approve the student's research proposal before the semester begins. The proposal must include a clear statement of objectives, a bibliography of at least fifteen sources, and a timeline for completion.",
+  "question": "Which choice best corrects the dangling modifier error in the first sentence?",
+  "choices": {
+    "A": "To receive credit for the independent study, the student must have a faculty sponsor approve the research proposal before the semester begins.",
+    "B": "To receive credit for the independent study, the research proposal must be approved by a faculty sponsor before the semester begins.",
+    "C": "A faculty sponsor must approve the student's research proposal to receive credit for the independent study before the semester begins.",
+    "D": "No change; the infinitive phrase 'to receive credit' modifies the overall requirement established in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To receive credit for the independent study' implies an agent who wants to receive credit. As written, the subject of the main clause is 'a faculty sponsor,' implying it is the faculty sponsor who wants to receive credit—which contradicts the intended meaning. Choice A restructures so that 'the student,' the actual credit-seeker, is the logical subject of the phrase. Choice B uses the passive voice and still implies that the research proposal receives credit. Choice C moves the infinitive phrase to modify 'approve,' changing the meaning entirely. Choice D incorrectly argues that an infinitive phrase can float without a clear logical subject."
+}

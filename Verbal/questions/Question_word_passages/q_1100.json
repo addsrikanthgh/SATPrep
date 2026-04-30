@@ -1,0 +1,16 @@
+{
+  "id": "q_1100",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Economists Dr. Hartley and Dr. Singh both presented forecasts for long-term inflation trends at the Federal Reserve symposium. Their models diverged significantly on the role of wage growth, but she argued most forcefully that supply-chain normalization would be the dominant deflationary force.",
+  "question": "The pronoun 'she' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Dr. Hartley",
+    "B": "Dr. Singh",
+    "C": "the senior economist",
+    "D": "No change; 'she' clearly refers to the economist whose argument is described, identifiable from context"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Dr. Hartley and Dr. Singh are female, so 'she' could refer to either. The passage does not identify which economist made the supply-chain argument before using the pronoun; the pronoun is meant to convey that identity. Choice A names Dr. Hartley; Choice B names Dr. Singh—the correct answer depends on the intended referent. Choice C introduces 'the senior economist,' a role not established in the passage. Choice D incorrectly claims that context resolves what is, in fact, genuine grammatical ambiguity."
+}

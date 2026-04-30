@@ -1,0 +1,16 @@
+{
+  "id": "q_1458",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The documentary crew spent six weeks in the Amazon Basin filming local wildlife, they recorded over two hundred hours of footage, including rare sightings of the giant river otter and the harpy eagle.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The documentary crew spent six weeks in the Amazon Basin filming local wildlife; they recorded over two hundred hours of footage, including rare sightings of the giant river otter and the harpy eagle.",
+    "B": "The documentary crew spent six weeks in the Amazon Basin filming local wildlife they recorded over two hundred hours of footage, including rare sightings of the giant river otter and the harpy eagle.",
+    "C": "The documentary crew spent six weeks in the Amazon Basin filming local wildlife: they recorded over two hundred hours of footage, including rare sightings of the giant river otter and the harpy eagle.",
+    "D": "No change; the comma after 'wildlife' is acceptable because the second clause adds detail about what was accomplished."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a comma splice—two independent clauses joined by only a comma. 'The documentary crew spent six weeks in the Amazon Basin filming local wildlife' and 'they recorded over two hundred hours of footage, including rare sightings of the giant river otter and the harpy eagle' are both complete independent clauses. Choice A correctly uses a semicolon to join them. Choice B creates a fused sentence. Choice C uses a colon—the second clause describes a result of the six-week trip rather than directly defining or explaining a term in the first clause; a semicolon is more appropriate. Choice D incorrectly defends the comma splice."
+}

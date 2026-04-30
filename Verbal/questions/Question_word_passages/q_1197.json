@@ -1,0 +1,16 @@
+{
+  "id": "q_1197",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Motivated by evidence that early intervention dramatically improves long-term outcomes, universal preschool enrollment was proposed by the state health department as part of a comprehensive childhood development initiative. The proposal drew widespread support from pediatricians, educators, and parent advocacy organizations.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Motivated by evidence that early intervention dramatically improves long-term outcomes, the state health department proposed universal preschool enrollment as part of a comprehensive childhood development initiative.",
+    "B": "Universal preschool enrollment, motivated by evidence that early intervention dramatically improves outcomes, was proposed by the state health department.",
+    "C": "Motivated by dramatic evidence, the state health department proposed universal preschool enrollment for early intervention.",
+    "D": "No change; 'motivated' modifies the state health department, which is named in the passive construction"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Motivated by evidence that early intervention dramatically improves long-term outcomes' describes the state health department. As written, 'universal preschool enrollment' is the subject, implying the enrollment is motivated by evidence—illogical. Choice A restructures with 'the state health department' as the subject. Choice B attaches the phrase to 'Universal preschool enrollment' as a mid-sentence modifier, preserving the logical error. Choice C shortens the participial phrase and changes its meaning. Choice D incorrectly argues that naming the department in a passive by-phrase resolves a dangling modifier."
+}

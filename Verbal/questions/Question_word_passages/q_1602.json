@@ -1,0 +1,16 @@
+{
+  "id": "q_1602",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "The new governor's fiscal plan was hailed by supporters as prudent and by opponents as timid. Both characterizations contained a grain of truth: the governor had declined to pursue the sweeping tax reforms that her party's base demanded, opting instead for incremental adjustments that were unlikely to provoke a legislative standoff. Her advisers defended the approach as sagacious given the fragile legislative majority she commanded.",
+  "question": "As used in the passage, 'sagacious' most nearly means",
+  "choices": {
+    "A": "reckless",
+    "B": "cowardly",
+    "C": "shrewdly wise",
+    "D": "morally upright"
+  },
+  "correct_answer": "C",
+  "explanation": "In context, the governor's advisers called her cautious approach 'sagacious given the fragile legislative majority she commanded.' 'Sagacious' is a formal word meaning having or showing keen judgment and wisdom. The advisers are defending the cautious strategy as the wise, strategically smart choice given the political constraints. Choice C, 'shrewdly wise,' captures this: the governor made a smart calculation about what was achievable. Choice A ('reckless') is the opposite of the careful approach described. Choice B ('cowardly') is the critics' view, not the advisers' defense. Choice D ('morally upright') refers to ethical virtue rather than strategic wisdom; the advisers are defending tactical judgment, not moral character."
+}

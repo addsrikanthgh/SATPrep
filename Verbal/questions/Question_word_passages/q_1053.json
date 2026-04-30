@@ -1,0 +1,16 @@
+{
+  "id": "q_1053",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The first law of thermodynamics, also known as the law of conservation of energy, establishes that energy in a closed system cannot be created or destroyed. They can, however, be converted from one form to another—such as when the chemical energy stored in fuel is transformed into heat and mechanical energy during combustion.",
+  "question": "Which choice best corrects the pronoun error at the beginning of the second sentence?",
+  "choices": {
+    "A": "It can, however, be converted from one form to another",
+    "B": "These can, however, be converted from one form to another",
+    "C": "Those can, however, be converted from one form to another",
+    "D": "No change; 'They' refers to the multiple forms of energy mentioned implicitly throughout the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent of 'They' in the second sentence is 'energy'—a singular, uncountable noun introduced at the end of the first sentence. A singular antecedent requires a singular pronoun. Choice A correctly uses 'It' to match the singular noun 'energy.' Choice B ('These') and Choice C ('Those') are plural demonstrative pronouns that fail to agree with the singular antecedent. Choice D argues that 'They' refers to implied multiple forms of energy; however, 'the multiple forms of energy' is not an explicit antecedent stated in the passage—the actual antecedent is the singular noun 'energy,' which requires a singular pronoun."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1077",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The technology startup announced its plan to expand into three new markets by the end of the fiscal year. Analysts noted that they had already secured partnerships with distributors in two of those regions, suggesting that the timeline was feasible.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the analysts",
+    "B": "it",
+    "C": "those executives",
+    "D": "No change; 'they' refers to the company's leadership team, which is implied by the passage"
+  },
+  "correct_answer": "B",
+  "explanation": "The antecedent established in the first sentence is 'The technology startup,' a singular noun. The first sentence correctly uses 'its plan,' treating the startup as singular. However, the second sentence then uses 'they,' which conflicts with the singular antecedent. Choice B correctly replaces 'they' with 'it,' maintaining consistency with the singular 'startup.' Choice A would make analysts the subject of securing partnerships, changing the meaning entirely. Choice C introduces 'those executives,' a noun not present in the passage. Choice D incorrectly suggests that an implied 'leadership team' can serve as the antecedent; pronouns must agree with explicitly stated antecedents, and the stated antecedent is the singular 'startup.'"
+}

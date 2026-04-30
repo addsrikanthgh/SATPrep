@@ -1,7 +1,7 @@
 {
   "id": "q_401",
   "domain": "Information and Ideas",
-  "skill": "command of evidence",
+  "skill": "command of evidence (textual)",
   "difficulty": "easy",
   "passage": "A nutritional study tracked 1,200 adults over five years, recording their daily fruit and vegetable intake and monitoring cardiovascular health markers. Participants were grouped by average daily servings: fewer than 2 servings, 2–4 servings, and 5 or more servings. The study found that the group consuming 5 or more servings had 28% lower rates of hypertension and 22% lower rates of elevated LDL cholesterol compared to the group consuming fewer than 2 servings. The middle group showed intermediate results. Researchers controlled for age, BMI, and physical activity levels across all groups.",
   "question": "Which finding from the study most directly supports the conclusion that higher fruit and vegetable consumption is associated with better cardiovascular outcomes?",

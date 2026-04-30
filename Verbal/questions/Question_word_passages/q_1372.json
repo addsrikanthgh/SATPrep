@@ -1,0 +1,16 @@
+{
+  "id": "q_1372",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The pediatrician emphasized the importance of establishing consistent bedtime routines for young children. Noting that children who go to bed at the same time each night tend to fall asleep faster, sleep longer, and wake up more rested than children without consistent schedules. Parents in the group took detailed notes.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The pediatrician emphasized the importance of establishing consistent bedtime routines for young children, noting that children who go to bed at the same time each night tend to fall asleep faster, sleep longer, and wake up more rested than children without consistent schedules.",
+    "B": "The pediatrician emphasized the importance of establishing consistent bedtime routines; noting that children who go to bed at the same time each night tend to fall asleep faster, sleep longer, and wake up more rested.",
+    "C": "The pediatrician emphasized bedtime routines. She noted that children with consistent schedules tend to fall asleep faster, sleep longer, and wake up more rested.",
+    "D": "No change; 'Noting that children' begins a complete sentence because it contains a dependent clause."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Noting that children who go to bed at the same time each night tend to fall asleep faster, sleep longer, and wake up more rested than children without consistent schedules' is a participial phrase fragment. 'Noting' is a present participle, and without a subject and main verb, this phrase cannot stand alone. It modifies 'the pediatrician' in the preceding sentence and should be attached with a comma. Choice A correctly attaches the participial phrase to the preceding independent clause. Choice B uses a semicolon before the participial phrase, which is incorrect. Choice C rewrites the sentence with a new subject ('She'). Choice D incorrectly defends the fragment."
+}

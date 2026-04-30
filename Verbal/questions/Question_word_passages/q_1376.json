@@ -1,0 +1,16 @@
+{
+  "id": "q_1376",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The regional transportation authority approved the construction of three new light-rail stations, the first of these will open in the eastern district, which has been underserved by public transit for decades. The other two stations are expected to open within five years.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "The regional transportation authority approved the construction of three new light-rail stations; the first of these will open in the eastern district, which has been underserved by public transit for decades.",
+    "B": "The regional transportation authority approved the construction of three new light-rail stations—the first of which will open in the eastern district, which has been underserved by public transit for decades.",
+    "C": "The regional transportation authority approved the construction of three new light-rail stations, and the first of these will open in the eastern district, which has been underserved by public transit for decades.",
+    "D": "No change; the comma before 'the first of these' introduces a relative clause that specifies the first station's location."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence is a comma splice. After 'three new light-rail stations,' the sentence continues with 'the first of these will open in the eastern district'—an independent clause with its own subject ('the first of these') and predicate. Two independent clauses cannot be joined by only a comma. Choice A uses a semicolon to correctly join the two independent clauses. Choice B uses a dash to introduce an appositive ('the first of which'), which restructures the second clause as a relative clause modifying 'stations.' Choice C adds the coordinating conjunction 'and'—also grammatically correct. Choice A makes the minimal structural correction. Choice D incorrectly defends the comma splice."
+}

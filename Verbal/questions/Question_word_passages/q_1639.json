@@ -1,0 +1,16 @@
+{
+  "id": "q_1639",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: Universal basic income (UBI)—a regular cash payment to every citizen regardless of employment status—is sometimes criticized on the grounds that recipients would stop working. Evidence from pilot programs in Finland, Kenya, and Manitoba suggests this concern is largely unfounded: participants in UBI trials worked similar hours to control groups, with some actually increasing their labor market participation due to reduced financial anxiety and the ability to pursue better job matches.\n\nText 2: Small-scale UBI pilot programs offer limited insight into how a national UBI would function. Pilots are temporary, not permanent—participants know the payments will end, which shapes their behavior. Pilots are also local: they do not model the macroeconomic effects of a national program, including potential labor market changes driven by widespread income guarantees and the tax increases needed to fund them.",
+  "question": "Based on the texts, how would the author of Text 2 most likely respond to the evidence from pilot programs cited in Text 1?",
+  "choices": {
+    "A": "By arguing that the pilots prove UBI would cause people to stop working, contradicting Text 1's interpretation",
+    "B": "By acknowledging the pilot results but contending that the conditions under which pilots operate make them unreliable predictors of how a permanent national program would work",
+    "C": "By agreeing that the pilot evidence is conclusive and that a national UBI should be immediately implemented",
+    "D": "By claiming that the Finland, Kenya, and Manitoba pilots were methodologically flawed and their data should be discarded"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 2's argument is specifically about the limits of pilot program evidence for drawing conclusions about national UBI. Two key limitations are identified: pilots are temporary (participants know payments end, which changes behavior) and local (they don't model national macroeconomic effects or the tax implications). Text 2 does not dispute that pilots produced certain results; it questions whether those results are generalizable to a national, permanent program. Choice B accurately captures this: Text 2 would acknowledge the pilot results but argue they are unreliable predictors for the very specific reasons the text identifies. Choice A misrepresents Text 2—it does not argue pilots show people stop working. Choice C has Text 2 agreeing with Text 1's conclusion, which is the opposite of Text 2's position. Choice D makes a specific methodological flaw claim that Text 2 does not make—it questions generalizability, not data quality."
+}

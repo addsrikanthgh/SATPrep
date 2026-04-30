@@ -1,0 +1,16 @@
+{
+  "id": "q_1470",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The startup launched its mobile application ahead of schedule, the app quickly accumulated over fifty thousand downloads in its first week and garnered strong reviews across both major app store platforms.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The startup launched its mobile application ahead of schedule; the app quickly accumulated over fifty thousand downloads in its first week and garnered strong reviews across both major app store platforms.",
+    "B": "The startup launched its mobile application ahead of schedule the app quickly accumulated over fifty thousand downloads in its first week and garnered strong reviews across both major app store platforms.",
+    "C": "The startup launched its mobile application ahead of schedule: the app quickly accumulated over fifty thousand downloads in its first week and garnered strong reviews across both major app store platforms.",
+    "D": "No change; the comma after 'schedule' is acceptable because the second clause continues the same narrative."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a comma splice—two independent clauses joined by only a comma. 'The startup launched its mobile application ahead of schedule' and 'the app quickly accumulated over fifty thousand downloads in its first week and garnered strong reviews across both major app store platforms' are both complete independent clauses. Choice A correctly uses a semicolon. Choice B creates a fused sentence. Choice C uses a colon—the second clause describes a result rather than directly defining or explaining a term in the first clause; a semicolon is more appropriate. Choice D incorrectly defends the comma splice."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1577",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "hard",
+  "passage": "The debate over whether wolves should be reintroduced into ecosystems from which they have been extirpated involves ecological, economic, and cultural dimensions. Ecologists who support reintroduction point to evidence that wolves act as 'keystone predators'—species whose presence has cascading effects disproportionate to their numbers. The reintroduction of wolves to Yellowstone National Park in 1995 led to a reduction in elk overgrazing, which allowed riverside vegetation to recover. This vegetation recovery stabilized stream banks, altered stream channels, and even reduced soil erosion—effects so wide-ranging that ecologists described them as a 'trophic cascade.' However, ranchers in surrounding areas documented significant livestock losses attributable to wolf predation, and some indigenous communities expressed concern that federal reintroduction decisions bypassed their sovereign rights over wildlife management on tribal lands.",
+  "question": "A student argues that wolf reintroduction can have ecological benefits that extend beyond the wolves' direct interactions with prey species. Which quotation best supports this argument?",
+  "choices": {
+    "A": "\"Ecologists who support reintroduction point to evidence that wolves act as 'keystone predators'—species whose presence has cascading effects disproportionate to their numbers.\"",
+    "B": "\"The reintroduction of wolves to Yellowstone National Park in 1995 led to a reduction in elk overgrazing, which allowed riverside vegetation to recover.\"",
+    "C": "\"[V]egetation recovery stabilized stream banks, altered stream channels, and even reduced soil erosion—effects so wide-ranging that ecologists described them as a 'trophic cascade.'\"",
+    "D": "\"[R]anchers in surrounding areas documented significant livestock losses attributable to wolf predation.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's argument is specifically about ecological benefits that extend beyond wolves' direct prey interactions. The wolf-elk interaction is the direct prey relationship; the student wants evidence of effects further down the chain. Choice C provides exactly this: vegetation recovery leading to stabilized stream banks, altered channels, and reduced soil erosion. None of these effects involve wolves directly—they are downstream consequences of the vegetation recovery that followed reduced elk overgrazing. The term 'trophic cascade' itself signifies effects extending far beyond the predator-prey relationship. Choice A introduces the concept of cascading effects but doesn't provide specific evidence of such effects. Choice B describes the wolves' effect on elk (a direct prey interaction) and then vegetation recovery—this is one step out from the direct interaction, but Choice C goes further by describing the geomorphic and hydrological effects. Choice D describes economic costs, not ecological benefits."
+}

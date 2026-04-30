@@ -1,0 +1,16 @@
+{
+  "id": "q_1220",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The data security officer found encryption vulnerabilities in the server infrastructure that posed an immediate risk to client records during a routine audit. She immediately escalated her findings to the chief information security officer and recommended an emergency patch deployment.",
+  "question": "The phrase 'during a routine audit' is misplaced. Which choice most clearly corrects this?",
+  "choices": {
+    "A": "During a routine audit, the data security officer found encryption vulnerabilities in the server infrastructure that posed an immediate risk to client records.",
+    "B": "The data security officer found encryption vulnerabilities that posed an immediate risk to client records in the server infrastructure during a routine audit.",
+    "C": "The data security officer found, during a routine audit, encryption vulnerabilities in the server infrastructure that posed an immediate risk to client records.",
+    "D": "No change; 'during a routine audit' modifies 'found' because audits are the context for discovery"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'during a routine audit' follows 'client records' and is separated from 'found' by two prepositional phrases, making it ambiguous whether the audit is when the vulnerabilities were found or when they pose a risk. The phrase should modify the act of finding. Choice A places 'during a routine audit' at the beginning of the sentence, making it clear that the discovery occurred during the audit. Choice B moves the phrase closer to 'found' but places it after both prepositional phrases, which is still awkward. Choice C uses a mid-sentence parenthetical, which is grammatically acceptable but less clear than Choice A. Choice D incorrectly defends trailing placement."
+}

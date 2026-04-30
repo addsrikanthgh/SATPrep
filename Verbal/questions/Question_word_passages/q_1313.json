@@ -1,0 +1,16 @@
+{
+  "id": "q_1313",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The proportion of students who report feeling academically unprepared for college-level coursework have increased significantly since the pandemic disrupted in-person instruction for more than two years. Remedial programs at many universities have been expanded in response.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The proportion of students who report feeling academically unprepared for college-level coursework has increased significantly since the pandemic disrupted in-person instruction.",
+    "B": "The proportion of students who report feeling academically unprepared for college-level coursework have significantly increased.",
+    "C": "The proportions of students who report feeling academically unprepared for college-level coursework has increased significantly.",
+    "D": "No change; 'have increased' correctly agrees with 'students,' the nearest plural noun in the subject phrase"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The proportion,' a singular noun. With 'proportion of,' the head noun 'proportion' governs the verb—unlike fractional expressions such as 'half of' or 'sixty percent of,' where the object of 'of' governs agreement. 'The proportion' is singular, so the verb must be 'has increased.' Choice A uses 'has increased.' Choice B preserves 'have increased.' Choice C pluralizes 'proportion' to 'proportions' and uses the singular 'has increased'—internally inconsistent. Choice D incorrectly applies proximity agreement to 'students.'"
+}

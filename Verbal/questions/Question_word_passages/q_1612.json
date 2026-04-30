@@ -1,0 +1,16 @@
+{
+  "id": "q_1612",
+  "domain": "Craft and Structure",
+  "skill": "vocabulary in context",
+  "difficulty": "hard",
+  "passage": "Proponents of degrowth economics argue that the pursuit of perpetual GDP growth is incompatible with ecological sustainability. Rather than seeking to decouple growth from resource use—a strategy they regard as chimerical—degrowth advocates call for a planned reduction in production and consumption in wealthy nations. They argue that human wellbeing can be maintained or even improved through a reorientation of economies toward care work, leisure, and community, rather than material accumulation.",
+  "question": "As used in the passage, 'chimerical' most nearly means",
+  "choices": {
+    "A": "scientifically proven",
+    "B": "wildly unrealistic or illusory",
+    "C": "environmentally harmful",
+    "D": "politically controversial"
+  },
+  "correct_answer": "B",
+  "explanation": "In context, degrowth advocates regard the strategy of decoupling growth from resource use as 'chimerical.' A chimera is a mythological creature composed of incompatible parts—by extension, 'chimerical' means unrealistically idealistic or illusory, something that sounds appealing but is impossible in practice. Choice B, 'wildly unrealistic or illusory,' captures this: the advocates view decoupling as an appealing but impossible fantasy, which is why they reject it in favor of degrowth. Choice A ('scientifically proven') is the opposite—chimerical implies something unproven or impossible. Choice C ('environmentally harmful') is unrelated to the word's meaning; the passage is about feasibility, not environmental harm of the strategy itself. Choice D ('politically controversial') is a different kind of objection unrelated to the word."
+}

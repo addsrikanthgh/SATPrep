@@ -1,0 +1,16 @@
+{
+  "id": "q_1389",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Having reviewed the architectural plans for the proposed mixed-use development, a number of design inconsistencies were flagged by the city's planning commission, particularly in the sections addressing setback requirements and stormwater management infrastructure. The developer was asked to resubmit within sixty days.",
+  "question": "Which choice best corrects the sentence structure error in the first sentence?",
+  "choices": {
+    "A": "Having reviewed the architectural plans for the proposed mixed-use development, the city's planning commission flagged a number of design inconsistencies, particularly in the sections addressing setback requirements and stormwater management infrastructure.",
+    "B": "Having reviewed the architectural plans for the proposed mixed-use development, a number of design inconsistencies were found, particularly in the sections addressing setback requirements and stormwater management.",
+    "C": "After the city's planning commission reviewed the architectural plans for the proposed mixed-use development, a number of design inconsistencies were flagged, particularly in the sections addressing setback requirements.",
+    "D": "No change; 'a number of design inconsistencies' is an acceptable passive subject that follows the commission's review."
+  },
+  "correct_answer": "A",
+  "explanation": "The first sentence contains a dangling modifier. The introductory participial phrase 'Having reviewed the architectural plans for the proposed mixed-use development' implies that some entity reviewed the plans, but the grammatical subject of the main clause is 'a number of design inconsistencies.' Design inconsistencies cannot review architectural plans; the planning commission did. The modifier dangles. Choice A correctly makes 'the city's planning commission' the subject of the main clause. Choice B still uses 'a number of design inconsistencies' as the subject—still dangling. Choice C converts the participial phrase into a full subordinate clause ('After the city's planning commission reviewed...'), which fixes the dangling issue but changes the structure more substantially. Choice D incorrectly defends the dangling modifier."
+}

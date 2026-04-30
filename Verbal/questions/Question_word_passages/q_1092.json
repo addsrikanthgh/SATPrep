@@ -1,0 +1,16 @@
+{
+  "id": "q_1092",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Physicists Dr. Chen and Dr. Alvarez independently derived the same anomalous result while analyzing data from the Large Hadron Collider. When their papers were published simultaneously, he was widely credited with providing the more mathematically rigorous proof.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Dr. Chen",
+    "B": "Dr. Alvarez",
+    "C": "the physicist",
+    "D": "No change; 'he' unambiguously refers to the physicist whose proof was more rigorous, which is clear from context"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Dr. Chen and Dr. Alvarez are male, so 'he' could refer to either. Context does not resolve the ambiguity—it merely states that one of them provided the more rigorous proof without identifying which one. Choice A names Dr. Chen explicitly; Choice B would name Dr. Alvarez and change the intended meaning. Choice C uses 'the physicist,' a description that applies to both men and thus does not resolve the ambiguity. Choice D incorrectly asserts that context makes the reference clear."
+}

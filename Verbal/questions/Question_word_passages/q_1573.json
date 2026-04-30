@@ -1,0 +1,16 @@
+{
+  "id": "q_1573",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "The decline of coral reefs worldwide has prompted debate about whether ocean warming or ocean acidification poses the greater immediate threat. Rising sea temperatures cause coral bleaching, a stress response in which corals expel their symbiotic algae, leaving them white and vulnerable to disease. Acidification, driven by the ocean's absorption of atmospheric carbon dioxide, weakens coral skeletons by reducing the availability of calcium carbonate. While both processes are damaging, recent monitoring data suggests that mass bleaching events, which have occurred with increasing frequency since the 1980s, have destroyed more reef area in the past four decades than acidification alone. Scientists note, however, that the two stressors interact synergistically: corals weakened by acidification are less able to recover from bleaching events.",
+  "question": "A student claims that ocean warming currently poses a more immediate and widespread threat to coral reefs than ocean acidification. Which quotation from the passage best supports this claim?",
+  "choices": {
+    "A": "\"Acidification, driven by the ocean's absorption of atmospheric carbon dioxide, weakens coral skeletons by reducing the availability of calcium carbonate.\"",
+    "B": "\"[M]ass bleaching events, which have occurred with increasing frequency since the 1980s, have destroyed more reef area in the past four decades than acidification alone.\"",
+    "C": "\"[C]orals weakened by acidification are less able to recover from bleaching events.\"",
+    "D": "\"Rising sea temperatures cause coral bleaching, a stress response in which corals expel their symbiotic algae, leaving them white and vulnerable to disease.\""
+  },
+  "correct_answer": "B",
+  "explanation": "The student's claim is that ocean warming is currently the more immediate and widespread threat. Choice B directly supports this by providing specific evidence of scale: mass bleaching events (caused by warming) have 'destroyed more reef area in the past four decades than acidification alone.' The word 'more' makes an explicit comparative claim favoring warming as the larger threat. Choice A describes acidification's mechanism, which doesn't support the warming-as-greater-threat claim. Choice C is about the interaction between stressors and actually highlights acidification's role. Choice D explains the bleaching mechanism but makes no comparative claim about which stressor is more damaging overall."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1462",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The cycling team trained at altitude for six weeks before the national championship, the additional red blood cell production gained from high-altitude training gave several riders a measurable performance edge during the race.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The cycling team trained at altitude for six weeks before the national championship; the additional red blood cell production gained from high-altitude training gave several riders a measurable performance edge during the race.",
+    "B": "The cycling team trained at altitude for six weeks before the national championship the additional red blood cell production gained from high-altitude training gave several riders a measurable performance edge.",
+    "C": "The cycling team trained at altitude for six weeks before the national championship: the additional red blood cell production gained from high-altitude training gave several riders a measurable performance edge during the race.",
+    "D": "No change; the comma is correct because the second clause provides information directly related to the team's training."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage is a comma splice—two independent clauses joined by only a comma. 'The cycling team trained at altitude for six weeks before the national championship' and 'the additional red blood cell production gained from high-altitude training gave several riders a measurable performance edge during the race' are both complete independent clauses. Choice A correctly uses a semicolon to join them. Choice B creates a fused sentence. Choice C uses a colon—possible but less precise because the second clause describes a result of the training rather than directly defining or explaining a term in the first clause. Choice D incorrectly defends the comma splice."
+}

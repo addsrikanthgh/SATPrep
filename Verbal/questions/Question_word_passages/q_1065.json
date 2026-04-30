@@ -1,0 +1,16 @@
+{
+  "id": "q_1065",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The archaeologist Harriet Boyd Hawes led the excavation of the Bronze Age town of Gournia in Crete between 1901 and 1904. Despite working in a field dominated by male scholars, his discoveries transformed the understanding of Minoan urban life and established her reputation as a pioneering figure in Mediterranean archaeology.",
+  "question": "Which choice best corrects the pronoun error in the second sentence?",
+  "choices": {
+    "A": "her discoveries transformed the understanding of Minoan urban life and established her reputation",
+    "B": "their discoveries transformed the understanding of Minoan urban life and established their reputation",
+    "C": "his discoveries transformed the understanding of Minoan urban life and established his reputation",
+    "D": "No change; the shift from 'his' to 'her' is intentional, contrasting her work against that of male scholars"
+  },
+  "correct_answer": "A",
+  "explanation": "The antecedent of both pronouns in the second sentence is Harriet Boyd Hawes—a woman. The possessive 'his' is a masculine pronoun that does not agree with this female antecedent. The sentence then correctly uses 'her' for the same person, creating an internal inconsistency. Choice A resolves this by using 'her' for both pronouns, agreeing consistently with the female antecedent. Choice B uses 'their' (plural), which does not agree with the singular antecedent. Choice C uses 'his' for both pronouns, maintaining the error throughout. Choice D incorrectly claims the shift from 'his' to 'her' is intentional; the inconsistency is an error, not a deliberate stylistic or rhetorical contrast."
+}

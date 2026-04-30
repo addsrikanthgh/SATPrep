@@ -1,0 +1,16 @@
+{
+  "id": "q_1381",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "To qualify for the experimental treatment protocol, patients needed to have failed at least two prior standard therapies, have no history of certain autoimmune conditions, and consent in writing to the monitoring requirements of the study, once enrolled, they were evaluated every six weeks by a multidisciplinary clinical team.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "To qualify for the experimental treatment protocol, patients needed to have failed at least two prior standard therapies, have no history of certain autoimmune conditions, and consent in writing to the monitoring requirements of the study; once enrolled, they were evaluated every six weeks by a multidisciplinary clinical team.",
+    "B": "To qualify for the experimental treatment protocol, patients needed to meet three criteria. Once enrolled, they were evaluated every six weeks by a multidisciplinary clinical team.",
+    "C": "To qualify for the experimental treatment protocol, patients needed to have failed at least two prior standard therapies, have no history of certain autoimmune conditions, and consent in writing to monitoring requirements, once enrolled they were evaluated every six weeks.",
+    "D": "No change; 'once enrolled' begins a clause that follows naturally from the qualifying criteria listed before the comma."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. After the three-part list of qualification requirements (ending with 'the monitoring requirements of the study'), the sentence continues with 'once enrolled, they were evaluated every six weeks by a multidisciplinary clinical team'—an independent clause with its own subject ('they') and predicate. This independent clause is joined to the preceding independent clause by only a comma. A semicolon is needed. Choice A inserts a semicolon after 'study' to correctly separate the two independent clauses. Choice B significantly simplifies both clauses. Choice C preserves the comma splice with a slight rewording. Choice D incorrectly defends the comma splice."
+}

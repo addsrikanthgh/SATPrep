@@ -1,0 +1,16 @@
+{
+  "id": "q_1379",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "The urban forestry initiative planted over four thousand trees across the city in a single calendar year, furthermore, the program trained more than two hundred community volunteers in basic arboricultural techniques, enabling residents to maintain and monitor new plantings in their own neighborhoods.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The urban forestry initiative planted over four thousand trees across the city in a single calendar year; furthermore, the program trained more than two hundred community volunteers in basic arboricultural techniques, enabling residents to maintain and monitor new plantings in their own neighborhoods.",
+    "B": "The urban forestry initiative planted over four thousand trees across the city in a single calendar year, and furthermore, the program trained more than two hundred community volunteers in basic arboricultural techniques.",
+    "C": "The urban forestry initiative planted over four thousand trees across the city, furthermore training more than two hundred community volunteers in basic arboricultural techniques to maintain new plantings.",
+    "D": "No change; 'furthermore' may follow a comma when it introduces a clause that continues the same subject."
+  },
+  "correct_answer": "A",
+  "explanation": "The sentence is a comma splice. 'Furthermore' is a conjunctive adverb that signals an addition between two independent clauses. Like 'however,' 'therefore,' and 'moreover,' when 'furthermore' is used to connect two independent clauses, it must be preceded by a semicolon, not a comma. The original comma before 'furthermore' creates a comma splice. Choice A uses a semicolon before 'furthermore.' Choice B adds 'and' before 'furthermore,' but the two conjunctions together ('and furthermore') are redundant and slightly awkward. Choice C converts the second clause into a participial phrase. Choice D incorrectly claims a comma before 'furthermore' is sufficient."
+}

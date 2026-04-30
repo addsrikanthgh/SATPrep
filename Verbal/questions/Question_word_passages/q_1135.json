@@ -1,0 +1,16 @@
+{
+  "id": "q_1135",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The bottlenose dolphin is renowned for its intelligence, social complexity, and capacity for problem-solving across a wide range of experimental tasks. Marine biologists have documented that in the wild, they form stable coalitions of males, cooperate in cooperative hunting strategies, and use signature whistles to address one another individually.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the dolphins",
+    "B": "those animals",
+    "C": "it",
+    "D": "No change; 'they' refers to bottlenose dolphins as a species"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The bottlenose dolphin' is singular, confirmed by 'its intelligence' and 'its capacity' in the first sentence. The second sentence uses 'they,' a plural pronoun, contradicting the established singular frame. Choice C replaces 'they' with 'it.' Choices A and B introduce new plural noun phrases. Choice D argues that generic species reference justifies the plural; however, the passage established the antecedent in singular form, and all subsequent pronouns must maintain that number for consistency."
+}

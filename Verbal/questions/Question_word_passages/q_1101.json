@@ -1,0 +1,16 @@
+{
+  "id": "q_1101",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "medium",
+  "passage": "The honeybee is one of the most ecologically important pollinators in the Northern Hemisphere, responsible for fertilizing roughly one-third of all food crops consumed by humans. Despite its critical role, they have experienced dramatic population declines over the past two decades due to pesticide exposure, habitat loss, and disease.",
+  "question": "Which choice best corrects the pronoun 'they' in the second sentence?",
+  "choices": {
+    "A": "the bees",
+    "B": "those insects",
+    "C": "it",
+    "D": "No change; 'they' refers to honeybees as a species generally"
+  },
+  "correct_answer": "C",
+  "explanation": "The antecedent 'The honeybee' is established as singular in the first sentence, confirmed by 'its critical role' in the second. The plural 'they' then contradicts the singular frame. Choice C replaces 'they' with 'it,' restoring consistency. Choices A and B introduce new plural nouns. Choice D argues that generic species reference justifies the plural; however, when a singular form is explicitly used as the antecedent, the pronoun must match that form throughout the passage."
+}

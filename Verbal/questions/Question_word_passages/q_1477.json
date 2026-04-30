@@ -1,0 +1,16 @@
+{
+  "id": "q_1477",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "Urban heat islands form when cities replace natural land cover with dense concentrations of pavement, buildings, and other surfaces that absorb and retain heat. These areas can be significantly warmer than surrounding rural landscapes, especially at night. Researchers have documented temperature differences of up to ten degrees Fahrenheit between city centers and nearby open land. This disparity has real consequences for residents: higher energy costs, increased heat-related illness, and degraded air quality.",
+  "question": "What is the primary function of the third sentence ('Researchers have documented temperature differences...') in the passage?",
+  "choices": {
+    "A": "To introduce a new argument that contradicts the claims made in the first two sentences",
+    "B": "To provide specific quantitative evidence that supports the general claim made in the second sentence",
+    "C": "To explain the cause of the phenomenon described in the first sentence",
+    "D": "To shift the focus of the passage from scientific research to public health consequences"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence introduces a general claim—that urban areas are 'significantly warmer' than rural landscapes. The third sentence provides the quantitative support for that claim by specifying that temperature differences can be 'up to ten degrees Fahrenheit.' This is a classic evidence-to-claim relationship: the first sentences establish the phenomenon, the third sentence backs it up with a concrete measurement. Choice A is incorrect because the third sentence supports rather than contradicts the second. Choice C is incorrect because the third sentence addresses the extent of the disparity, not its cause. Choice D is incorrect because the shift to public health consequences happens in the fourth sentence, not the third."
+}

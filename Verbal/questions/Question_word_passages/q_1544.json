@@ -1,0 +1,16 @@
+{
+  "id": "q_1544",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A nutritionist compared the average daily caloric intake and average body mass index (BMI) of adults across five dietary patterns.\n\n| Dietary Pattern | Avg. Daily Calories | Avg. BMI |\n|---|---|---|\n| Omnivore | 2,410 | 27.4 |\n| Vegetarian | 2,190 | 25.1 |\n| Vegan | 2,020 | 23.6 |\n| Mediterranean | 2,280 | 25.8 |\n| Pescatarian | 2,150 | 24.7 |\n\nThe nutritionist concluded that plant-based and seafood-inclusive diets are associated with both lower caloric intake and lower BMI compared to omnivore diets.",
+  "question": "Which finding from the data most directly supports the nutritionist's conclusion?",
+  "choices": {
+    "A": "Vegan and vegetarian diets both have lower caloric intakes and lower BMIs than the omnivore diet, and pescatarian and Mediterranean diets also have lower caloric intakes and BMIs than the omnivore diet.",
+    "B": "The vegan diet has the lowest caloric intake at 2,020 calories per day.",
+    "C": "The omnivore diet has the highest average caloric intake at 2,410 calories per day.",
+    "D": "The Mediterranean diet has a higher BMI than the pescatarian diet despite similar caloric intakes."
+  },
+  "correct_answer": "A",
+  "explanation": "The nutritionist's conclusion has two parts: plant-based and seafood-inclusive diets are associated with (1) lower caloric intake and (2) lower BMI compared to the omnivore diet. Choice A directly supports both parts for all four non-omnivore dietary patterns listed—vegan, vegetarian, pescatarian, and Mediterranean all have lower caloric intake and lower BMI than the omnivore baseline of 2,410 calories and 27.4 BMI. Choice B addresses only caloric intake for one diet. Choice C addresses only caloric intake for the omnivore diet without comparing BMI or other diets. Choice D notes a discrepancy among non-omnivore diets, which doesn't directly support the comparison to omnivore diets."
+}

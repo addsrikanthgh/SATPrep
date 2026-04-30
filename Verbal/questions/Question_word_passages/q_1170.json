@@ -1,0 +1,16 @@
+{
+  "id": "q_1170",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To apply for the emergency housing voucher program, documentation of income, current housing status, and household size must be submitted by the applicant. Applications that are incomplete will not be considered.",
+  "question": "Which choice best corrects the dangling modifier error in the first sentence?",
+  "choices": {
+    "A": "To apply for the emergency housing voucher program, the applicant must submit documentation of income, current housing status, and household size.",
+    "B": "To apply for the emergency housing voucher program, documentation of income, current housing status, and household size is required.",
+    "C": "Documentation of income, current housing status, and household size must, to apply for the emergency housing voucher program, be submitted.",
+    "D": "No change; the infinitive phrase establishes a requirement, and 'the applicant' is clearly implied as the agent who must apply"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To apply for the emergency housing voucher program' implies an agent who wants to apply. As written, the subject of the main clause is 'documentation,' which cannot apply for a program. Choice A correctly restructures so 'the applicant,' the logical agent, is the subject. Choice B uses the passive voice construction 'is required' but still leaves an unspecified agent implied, without explicitly naming 'the applicant' as the one who applies. Choice C moves the infinitive to mid-sentence awkwardly. Choice D incorrectly treats an implied agent as sufficient for a formally correct sentence; the agent must be explicit."
+}

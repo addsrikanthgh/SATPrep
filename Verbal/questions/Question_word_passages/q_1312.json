@@ -1,0 +1,16 @@
+{
+  "id": "q_1312",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "Scattered across the floor of the laboratory, in no discernible order, was dozens of petri dishes containing cultures at various stages of bacterial growth. The lead researcher had apparently been working through the night on an urgent analysis.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "Scattered across the floor of the laboratory, in no discernible order, were dozens of petri dishes containing cultures at various stages of bacterial growth.",
+    "B": "Scattered across the floor of the laboratory, in no discernible order, was a dozen petri dishes containing cultures at various stages of bacterial growth.",
+    "C": "Scattered across the floor of the laboratory in no discernible order was dozens of petri dishes containing cultures.",
+    "D": "No change; 'was' correctly agrees with the singular phrase 'the floor of the laboratory'"
+  },
+  "correct_answer": "A",
+  "explanation": "This is an inverted sentence beginning with a participial phrase. The true subject is 'dozens of petri dishes,' a plural noun phrase ('dozens' is plural). The plural verb 'were' is required. Choice A uses 'were.' Choice B changes 'dozens' to 'a dozen' (singular) and uses 'was'—internally consistent but changes the subject from many dozens to one dozen. Choice C removes the internal comma but keeps 'was' with the plural 'dozens'—still wrong. Choice D incorrectly identifies 'the floor of the laboratory' as the subject; it is part of the participial phrase 'Scattered across the floor of the laboratory.'"
+}

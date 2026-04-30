@@ -1,0 +1,16 @@
+{
+  "id": "q_1214",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The laboratory technician almost tested all of the water samples collected at the five monitoring sites before the equipment failure. The remaining samples had to be retested once the instrument was repaired and recalibrated.",
+  "question": "The word 'almost' in the first sentence is misplaced. Which choice correctly repositions it?",
+  "choices": {
+    "A": "The laboratory technician tested almost all of the water samples collected at the five monitoring sites before the equipment failure.",
+    "B": "Almost the laboratory technician tested all of the water samples collected at the five monitoring sites before the equipment failure.",
+    "C": "The laboratory technician tested all of the water almost samples collected at the five monitoring sites before the equipment failure.",
+    "D": "No change; 'almost tested all' means the testing of all samples nearly occurred, accurately describing a partial completion"
+  },
+  "correct_answer": "A",
+  "explanation": "The intended meaning is that the technician tested most (but not all) of the samples—'almost' should modify 'all,' specifying the proportion completed. The second sentence confirms that some samples still needed to be retested, meaning the testing was genuinely incomplete. 'Almost tested all' means the act of testing all samples was nearly accomplished, implying all testing nearly happened but didn't. 'Tested almost all' means most samples were tested, which fits the context. Choice A correctly places 'almost' before 'all.' Choice B places 'almost' before 'the laboratory technician,' implying the technician barely existed. Choice C creates 'water almost samples,' a meaningless phrase. Choice D incorrectly defends 'almost tested all.'"
+}

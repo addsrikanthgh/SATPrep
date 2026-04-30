@@ -1,0 +1,16 @@
+{
+  "id": "q_1058",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "The Berlin Philharmonic, widely regarded as one of the world's premier orchestras, recently completed a world tour spanning four continents. Their performances of Beethoven's late symphonies, in particular, were praised by critics as among the finest heard in a concert hall in the past decade.",
+  "question": "Which choice best corrects the pronoun error in the second sentence?",
+  "choices": {
+    "A": "Its performances of Beethoven's late symphonies",
+    "B": "They're performances of Beethoven's late symphonies",
+    "C": "Those performances of Beethoven's late symphonies",
+    "D": "No change; orchestras and performing ensembles are conventionally referred to with plural pronouns"
+  },
+  "correct_answer": "A",
+  "explanation": "In formal American English, collective nouns and institutional proper nouns—including named orchestras—are treated as singular and take singular pronouns. 'The Berlin Philharmonic' is a single institutional entity; the correct possessive pronoun is 'its.' Choice A correctly applies this convention. Choice B ('They're') incorrectly uses the contraction for 'they are' rather than a possessive pronoun, producing a grammatically nonsensical phrase ('They are performances'). Choice C ('Those performances') uses a demonstrative adjective instead of a pronoun and creates a more distant, less fluid connection to the antecedent. Choice D is incorrect; while informal usage may treat performing ensembles as plural, formal academic and journalistic writing maintains the singular convention for collective nouns in American English."
+}

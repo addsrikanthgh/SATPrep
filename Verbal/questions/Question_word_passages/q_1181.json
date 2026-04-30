@@ -1,0 +1,16 @@
+{
+  "id": "q_1181",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Raised in a bilingual household where both Mandarin and English were spoken daily, linguistic flexibility became second nature for the novelist Min Jin Lee, who later drew on this experience to write fiction exploring Korean diaspora identity. Her novel Pachinko spans four generations of a Korean family in Japan.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Raised in a bilingual household where both Mandarin and English were spoken daily, the novelist Min Jin Lee developed linguistic flexibility as second nature, later drawing on this experience to write fiction exploring Korean diaspora identity.",
+    "B": "Linguistic flexibility, raised in a bilingual household where both Mandarin and English were spoken daily, became second nature for Min Jin Lee.",
+    "C": "Min Jin Lee's linguistic flexibility became second nature, having been raised in a bilingual household where both Mandarin and English were spoken daily.",
+    "D": "No change; 'raised' modifies Min Jin Lee, who is named in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The participial phrase 'Raised in a bilingual household' describes Min Jin Lee, who was raised. As written, 'linguistic flexibility' is the subject following the participial phrase, implying that linguistic flexibility was raised in a bilingual household—which is illogical. Choice A restructures the sentence with Min Jin Lee as the subject. Choice B attaches the phrase directly to 'Linguistic flexibility,' making the error explicit. Choice C uses a dangling absolute phrase ('having been raised') whose logical subject is still not the grammatical subject. Choice D incorrectly argues that naming Lee later in the sentence satisfies the participial requirement."
+}

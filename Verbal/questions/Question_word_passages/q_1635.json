@@ -1,0 +1,16 @@
+{
+  "id": "q_1635",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "medium",
+  "passage": "Text 1: The decline of handwriting instruction in schools reflects a misguided prioritization of keyboard skills. Research shows that writing by hand improves memory encoding, encourages deeper processing of material, and develops fine motor skills. Students who take notes by hand retain information better than those who type. Removing handwriting from the curriculum may produce students who are faster at transcription but worse at comprehension and retention.\n\nText 2: The nostalgia for handwriting instruction overlooks the realities of modern communication. Virtually all professional writing, academic submission, and collaborative work now takes place on keyboards. Training students extensively in a skill they will rarely use professionally, at the expense of fluency in digital tools, misallocates instructional time. The cognitive benefits attributed to handwriting can be replicated through other deliberately effortful learning strategies.",
+  "question": "Based on the texts, how would the author of Text 1 most likely respond to the claim in Text 2 that 'cognitive benefits attributed to handwriting can be replicated through other deliberately effortful learning strategies'?",
+  "choices": {
+    "A": "By agreeing that other effortful strategies exist but arguing that handwriting is the most practical to implement in school settings",
+    "B": "By arguing that the research on handwriting specifically demonstrates unique benefits not matched by other strategies, and that Text 2's claim is unsupported",
+    "C": "By conceding the point but arguing that handwriting should still be taught for cultural and artistic reasons",
+    "D": "By questioning whether digital tools are truly as important professionally as Text 2 claims"
+  },
+  "correct_answer": "B",
+  "explanation": "Text 1 bases its argument on research: 'Research shows that writing by hand improves memory encoding, encourages deeper processing....' The author of Text 1 would likely respond to Text 2's claim that the benefits 'can be replicated' by pointing back to this specific research on handwriting and questioning whether Text 2's claim is backed by equivalent evidence. The Text 1 author's position rests on handwriting having specific, documented benefits—the implication is that these are not merely generic effects of 'effortful learning' but properties of the act of handwriting itself. Choice B captures this: the Text 1 author would argue the benefits are specific to handwriting and that Text 2's claim is unsubstantiated. Choice A concedes Text 2's point too readily and shifts to a practical argument Text 1 doesn't make. Choice C introduces cultural and artistic reasons not mentioned in Text 1. Choice D shifts the argument to questioning professional importance of digital tools, which is a different rebuttal than Text 1's research-based argument."
+}

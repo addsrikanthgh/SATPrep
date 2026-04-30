@@ -1,0 +1,16 @@
+{
+  "id": "q_1198",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The audit team found discrepancies in the financial records that they had not initially noticed when reviewing the first quarter reports only. A deeper examination of subsequent quarters revealed a systematic pattern of misclassified expenses.",
+  "question": "The word 'only' in the first sentence creates ambiguity. Which choice most clearly conveys that the team reviewed only the first quarter reports?",
+  "choices": {
+    "A": "The audit team found discrepancies in the financial records that they had not initially noticed when reviewing only the first quarter reports.",
+    "B": "Only the audit team found discrepancies in the financial records that they had not initially noticed when reviewing the first quarter reports.",
+    "C": "The audit team found discrepancies in the financial records that only they had not initially noticed when reviewing the first quarter reports.",
+    "D": "No change; 'only' at the end of the clause limits the scope of the review to the first quarter reports"
+  },
+  "correct_answer": "A",
+  "explanation": "As written, 'only' follows 'first quarter reports' and seems to modify the reports (or an entire trailing phrase), creating ambiguity. The intended meaning is that the scope of the initial review was limited to the first quarter reports. Choice A places 'only' immediately before 'the first quarter reports,' unambiguously modifying what was reviewed. Choice B places 'only' before 'the audit team,' implying the audit team alone (and no other party) found the discrepancies. Choice C places 'only' before 'they,' implying that only the audit team failed to notice the discrepancies. Choice D incorrectly accepts end-of-clause placement as clear."
+}

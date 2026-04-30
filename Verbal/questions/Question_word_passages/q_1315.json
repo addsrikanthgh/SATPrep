@@ -1,0 +1,16 @@
+{
+  "id": "q_1315",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The faculty senate, which is composed of elected representatives from each academic department and serves as the primary shared governance body of the university, are expected to vote on the revised promotion and tenure guidelines at next month's meeting.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The faculty senate, which is composed of elected representatives from each academic department and serves as the primary shared governance body of the university, is expected to vote on the revised promotion and tenure guidelines at next month's meeting.",
+    "B": "The faculty senate, which are composed of elected representatives from each academic department, are expected to vote on the revised guidelines.",
+    "C": "The faculty senates, which are composed of elected representatives from each academic department, are expected to vote on the revised promotion and tenure guidelines.",
+    "D": "No change; 'are expected' correctly agrees with 'elected representatives,' the nearest plural noun in the sentence"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The faculty senate,' a singular collective noun. The relative clause 'which is composed of elected representatives from each academic department and serves as the primary shared governance body of the university' is a parenthetical modifier—note that the internal verbs 'is composed' and 'serves' are already singular, agreeing with 'senate.' The main verb must also be singular: 'is expected to vote.' Choice A uses 'is expected.' Choice B changes 'is composed' to 'are composed' in the relative clause and keeps 'are expected' in the main clause—both wrong. Choice C pluralizes 'senate.' Choice D incorrectly applies proximity agreement."
+}

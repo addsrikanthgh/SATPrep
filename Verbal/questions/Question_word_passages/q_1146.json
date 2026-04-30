@@ -1,0 +1,16 @@
+{
+  "id": "q_1146",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "The senator only voted for the bill because her primary challenger had made it a central campaign issue. Had the challenger not entered the race, the bill would almost certainly have died in committee.",
+  "question": "The word 'only' in the first sentence is misplaced. Which choice correctly repositions it to convey the intended meaning?",
+  "choices": {
+    "A": "The senator voted only for the bill because her primary challenger had made it a central campaign issue.",
+    "B": "Only the senator voted for the bill because her primary challenger had made it a central campaign issue.",
+    "C": "The senator voted for the bill only because her primary challenger had made it a central campaign issue.",
+    "D": "No change; 'only' placed before 'voted' is correct because it modifies the entire action of voting"
+  },
+  "correct_answer": "C",
+  "explanation": "The word 'only' should be placed immediately before the element it modifies. The intended meaning is that the senator's sole reason for voting for the bill was her challenger's campaign focus—'only' should modify 'because her primary challenger had made it a central campaign issue.' Choice C correctly places 'only' immediately before the 'because' clause it modifies. Choice A places 'only' before 'for the bill,' suggesting she voted for it but not against it. Choice B places 'only' before 'the senator,' implying she was the sole voter. Choice D incorrectly justifies a misplaced modifier."
+}

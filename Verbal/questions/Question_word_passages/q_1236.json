@@ -1,0 +1,16 @@
+{
+  "id": "q_1236",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "hard",
+  "passage": "To successfully complete the multi-year restoration project, the deteriorating frescoes in the chapel must be documented and stabilized by conservators using specialized equipment before any cleaning begins. All treatments must be reversible to meet international conservation standards.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "To successfully complete the multi-year restoration project, conservators must document and stabilize the deteriorating frescoes in the chapel using specialized equipment before any cleaning begins.",
+    "B": "The deteriorating frescoes, to successfully complete the multi-year restoration project, must be documented and stabilized by conservators before cleaning begins.",
+    "C": "Successfully completing the multi-year restoration project requires the deteriorating frescoes to be documented and stabilized before any cleaning begins.",
+    "D": "No change; 'to successfully complete' indicates the purpose of the work and applies to everyone involved in the project, including the implied conservators"
+  },
+  "correct_answer": "A",
+  "explanation": "The infinitive phrase 'To successfully complete the multi-year restoration project' implies agents who will do the completing—in context, the conservators. As written, 'the deteriorating frescoes' is the subject, implying frescoes will complete the project—illogical. Choice A restructures with 'conservators' as the subject. Choice B places the infinitive mid-sentence as a parenthetical but still leaves 'The deteriorating frescoes' as the subject. Choice C converts the infinitive into a gerund phrase that serves as the subject, which is grammatically correct but removes the direct agent focus. Choice D incorrectly argues that implying the conservators is sufficient."
+}

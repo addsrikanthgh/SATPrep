@@ -1,0 +1,16 @@
+{
+  "id": "q_1478",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "medium",
+  "passage": "The coelacanth, long believed to have gone extinct with the dinosaurs sixty-six million years ago, was discovered alive off the coast of South Africa in 1938. A local museum curator recognized the fish from a fisherman's catch and alerted scientists worldwide. Its rediscovery stunned the scientific community and prompted a wave of expeditions to study a creature that had survived virtually unchanged for four hundred million years.",
+  "question": "What is the primary function of the second sentence ('A local museum curator...') in the passage?",
+  "choices": {
+    "A": "To question the reliability of the initial discovery",
+    "B": "To provide context for why scientists had overlooked the coelacanth for so long",
+    "C": "To explain how the discovery described in the first sentence was identified and communicated",
+    "D": "To contrast the curator's knowledge with the ignorance of the fisherman"
+  },
+  "correct_answer": "C",
+  "explanation": "The first sentence establishes the discovery of the living coelacanth in 1938. The second sentence explains the specific mechanism through which that discovery was made and shared: a museum curator recognized the fish and alerted the scientific community. It answers the implicit question 'How did this discovery come to light?' Choice A is incorrect—nothing in the second sentence undermines the validity of the discovery. Choice B is incorrect—the second sentence does not address why the fish was previously overlooked. Choice D is incorrect—the second sentence draws no contrast between the curator and the fisherman; the fisherman is simply the source of the catch."
+}

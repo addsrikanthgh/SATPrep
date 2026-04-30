@@ -1,0 +1,16 @@
+{
+  "id": "q_1636",
+  "domain": "Craft and Structure",
+  "skill": "cross-text connections",
+  "difficulty": "hard",
+  "passage": "Text 1: The 'broken windows' theory of policing, developed by James Q. Wilson and George Kelling in the 1980s, holds that visible signs of disorder—graffiti, broken windows, public intoxication—signal that a community does not monitor or enforce norms, inviting more serious crime. Addressing minor disorder therefore prevents escalation to serious crime. New York City's dramatic crime decline in the 1990s was frequently attributed to policing strategies inspired by this theory.\n\nText 2: The causal link between broken-windows policing and New York City's crime decline remains contested. Crime fell in cities across the United States in the 1990s, including cities that did not adopt broken-windows strategies—suggesting that broader factors such as the decline of the crack epidemic, demographic shifts, and improved economic conditions played at least as large a role. Attributing the New York decline primarily to policing strategy may be a case of confusing correlation with causation.",
+  "question": "Text 1 and Text 2 most directly disagree about which of the following?",
+  "choices": {
+    "A": "Whether New York City experienced a significant crime decline in the 1990s",
+    "B": "Whether broken-windows theory is a valid intellectual framework regardless of the New York case",
+    "C": "Whether broken-windows policing was the primary cause of the 1990s New York crime decline",
+    "D": "Whether the crack epidemic contributed to rising crime rates in the 1980s"
+  },
+  "correct_answer": "C",
+  "explanation": "Text 1 says New York's crime decline 'was frequently attributed to policing strategies inspired by' broken-windows theory—presenting this attribution approvingly. Text 2 directly contests this attribution, arguing that crime fell broadly (including in cities without broken-windows policing) and that attributing New York's decline 'primarily to policing strategy may be a case of confusing correlation with causation.' The direct disagreement is about whether broken-windows policing caused the New York decline. Choice C precisely identifies this. Choice A is incorrect; neither text disputes that New York had a significant crime decline in the 1990s—both accept this fact. Choice B addresses the theoretical validity of broken-windows framework independent of the New York case; Text 2 questions the causal attribution in New York, not the theory in the abstract. Choice D is about the crack epidemic's role in rising crime, which neither text directly disputes."
+}

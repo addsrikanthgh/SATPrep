@@ -1,0 +1,16 @@
+{
+  "id": "q_1291",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "medium",
+  "passage": "The chorus of complaints from residents living near the proposed industrial facility—including noise, air quality, and traffic concerns—have prompted the city council to order an independent environmental impact assessment. The assessment is expected to take six months.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The chorus of complaints from residents living near the proposed industrial facility—including noise, air quality, and traffic concerns—has prompted the city council to order an independent environmental impact assessment.",
+    "B": "The chorus of complaints from residents living near the proposed industrial facility—including noise, air quality, and traffic concerns—have prompted the city council to order an environmental impact assessment.",
+    "C": "The choruses of complaints from residents living near the proposed industrial facility have prompted the city council to order an independent environmental impact assessment.",
+    "D": "No change; 'have prompted' correctly agrees with 'noise, air quality, and traffic concerns,' the plural enumerated items in the dash-enclosed list"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The chorus of complaints,' a singular noun phrase. 'Chorus' is the head noun, and 'of complaints from residents living near the proposed industrial facility' is a prepositional modifier. The dash-enclosed list 'including noise, air quality, and traffic concerns' is a parenthetical elaboration. None of these modifiers change the subject's singular number. The singular verb 'has prompted' is required. Choice A uses 'has prompted.' Choice B preserves 'have prompted.' Choice C pluralizes 'chorus' to 'choruses' and uses 'have prompted'—internally consistent but changes the meaning. Choice D incorrectly argues the verb agrees with items in the parenthetical list."
+}

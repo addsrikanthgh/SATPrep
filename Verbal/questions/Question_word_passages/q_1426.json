@@ -1,0 +1,16 @@
+{
+  "id": "q_1426",
+  "domain": "Standard English Conventions",
+  "skill": "sentence boundaries",
+  "difficulty": "medium",
+  "passage": "The city's new composting program has reduced household waste by nearly thirty percent residents can drop off organic material at one of twelve collection sites located throughout all five boroughs. Participation has grown steadily each month since the program launched.",
+  "question": "Which choice correctly fixes the sentence boundary error in the passage?",
+  "choices": {
+    "A": "The city's new composting program has reduced household waste by nearly thirty percent. Residents can drop off organic material at one of twelve collection sites located throughout all five boroughs.",
+    "B": "The city's new composting program has reduced household waste by nearly thirty percent, residents can drop off organic material at one of twelve collection sites located throughout all five boroughs.",
+    "C": "The city's new composting program has reduced household waste by nearly thirty percent; and residents can drop off organic material at one of twelve collection sites.",
+    "D": "The city's new composting program, which has reduced household waste by nearly thirty percent, residents can drop off organic material at one of twelve collection sites located throughout all five boroughs."
+  },
+  "correct_answer": "A",
+  "explanation": "The passage contains a fused sentence—two independent clauses run together without any punctuation between them. 'The city's new composting program has reduced household waste by nearly thirty percent' is a complete independent clause, and 'residents can drop off organic material at one of twelve collection sites' is another. Choice A correctly separates the two independent clauses with a period, creating two complete sentences. Choice B creates a comma splice. Choice C places a semicolon before 'and,' which is redundant and awkward—either a semicolon alone or a comma with 'and' would suffice. Choice D inserts a relative clause that creates an ungrammatical structure."
+}

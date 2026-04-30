@@ -1,0 +1,16 @@
+{
+  "id": "q_1422",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The oceanographer studied the formation of deep-sea thermal vents for twenty years. Discovering in the process that some of the most biologically diverse ecosystems on Earth exist in complete darkness, sustained entirely by chemosynthetic bacteria rather than by sunlight-driven photosynthesis. Her findings reshaped understanding of life's potential distribution in the universe.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The oceanographer studied the formation of deep-sea thermal vents for twenty years, discovering in the process that some of the most biologically diverse ecosystems on Earth exist in complete darkness, sustained entirely by chemosynthetic bacteria rather than by sunlight-driven photosynthesis.",
+    "B": "The oceanographer studied the formation of deep-sea thermal vents for twenty years; discovering in the process that some of the most biologically diverse ecosystems exist in complete darkness, sustained by chemosynthetic bacteria.",
+    "C": "The oceanographer's twenty-year study of deep-sea thermal vents revealed that some of the most biologically diverse ecosystems on Earth exist in complete darkness, sustained by chemosynthetic bacteria rather than photosynthesis.",
+    "D": "No change; 'Discovering in the process' begins a complete sentence because it specifies an outcome of the twenty-year study."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Discovering in the process that some of the most biologically diverse ecosystems on Earth exist in complete darkness, sustained entirely by chemosynthetic bacteria rather than by sunlight-driven photosynthesis' is a participial phrase fragment. It begins with 'Discovering,' a present participle, and has no subject or main verb. It describes what the oceanographer found during her study and should be attached to the preceding sentence. Choice A attaches it with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect. Choice C rewrites the sentence with a new structure. Choice D incorrectly defends the fragment."
+}

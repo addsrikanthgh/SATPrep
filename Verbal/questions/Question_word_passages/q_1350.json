@@ -1,0 +1,16 @@
+{
+  "id": "q_1350",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The study found that students who took breaks every fifty minutes performed significantly better on comprehension tests. Outperforming their peers who studied continuously without interruption by an average of fifteen percentage points. Researchers recommended structured breaks as part of optimal study protocols.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The study found that students who took breaks every fifty minutes performed significantly better on comprehension tests, outperforming their peers who studied continuously without interruption by an average of fifteen percentage points.",
+    "B": "The study found that students who took breaks every fifty minutes performed significantly better on comprehension tests; outperforming their peers who studied continuously without interruption.",
+    "C": "The study found that students who took breaks every fifty minutes performed significantly better on comprehension tests than their peers, outperforming them by fifteen percentage points.",
+    "D": "No change; 'Outperforming their peers' is an acceptable sentence that elaborates on the degree of the advantage."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Outperforming their peers who studied continuously without interruption by an average of fifteen percentage points' is a participial phrase fragment—it lacks a subject and cannot stand alone as a sentence. The participial phrase modifies the students described in the first sentence and must be attached to that sentence. Choice A attaches the participial phrase to the preceding independent clause with a comma. Choice B uses a semicolon before the participial phrase, which is incorrect—semicolons join independent clauses. Choice C restructures the sentence by converting it into a comparative construction, which changes the original phrasing while being grammatically correct. Choice D incorrectly defends the fragment."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1578",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (textual)",
+  "difficulty": "medium",
+  "passage": "Classical conditioning, first described by Ivan Pavlov through his experiments with dogs, demonstrated that a neutral stimulus could acquire the ability to trigger a physiological response if it was repeatedly paired with a stimulus that naturally produced that response. Pavlov found that dogs would salivate not only when presented with food but also when they heard a bell that had been sounded just before feeding. Researchers later extended Pavlov's work to humans, showing that emotional responses—including fear, anxiety, and pleasure—could be conditioned in similar ways. The clinical implications were substantial: if fears could be learned through conditioning, they could potentially be unlearned through a process called extinction, in which the conditioned stimulus was repeatedly presented without the unconditioned stimulus until the learned response faded. Today, exposure therapy for phobias and post-traumatic stress disorder is grounded in these conditioning principles.",
+  "question": "A student claims that the principles of classical conditioning have direct applications in treating psychological disorders. Which quotation from the passage best supports this claim?",
+  "choices": {
+    "A": "\"Pavlov found that dogs would salivate not only when presented with food but also when they heard a bell that had been sounded just before feeding.\"",
+    "B": "\"[E]motional responses—including fear, anxiety, and pleasure—could be conditioned in similar ways.\"",
+    "C": "\"Today, exposure therapy for phobias and post-traumatic stress disorder is grounded in these conditioning principles.\"",
+    "D": "\"[F]ears could be learned through conditioning, they could potentially be unlearned through a process called extinction.\""
+  },
+  "correct_answer": "C",
+  "explanation": "The student's claim is specifically about direct applications in treating psychological disorders. Choice C makes the most direct connection: it states that exposure therapy for phobias and PTSD—two recognized psychological disorders—is 'grounded in these conditioning principles.' This is a concrete, specific application to clinical treatment of psychological disorders. Choice A describes Pavlov's original experiment with dogs, which is the foundational research but not a clinical application to disorders. Choice B establishes that emotional responses can be conditioned in humans, which is important context but doesn't describe a specific therapeutic application. Choice D describes the extinction mechanism—important background—but doesn't name specific psychological disorders or treatment settings."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1320",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (subject-verb agreement)",
+  "difficulty": "hard",
+  "passage": "The question of how to allocate limited federal funding between preventive healthcare initiatives and acute treatment infrastructure represent one of the most contested debates in contemporary health policy circles. Economists on both sides cite compelling evidence for their preferred approach.",
+  "question": "Which choice best corrects the subject-verb agreement error in the first sentence?",
+  "choices": {
+    "A": "The question of how to allocate limited federal funding between preventive healthcare initiatives and acute treatment infrastructure represents one of the most contested debates in contemporary health policy circles.",
+    "B": "The question of how to allocate limited federal funding between preventive healthcare initiatives and acute treatment infrastructure represent the most contested debate in contemporary health policy.",
+    "C": "The questions of how to allocate limited federal funding between preventive healthcare initiatives and acute treatment infrastructure represent the most contested debates.",
+    "D": "No change; 'represent' correctly agrees with 'preventive healthcare initiatives and acute treatment infrastructure,' a compound plural subject"
+  },
+  "correct_answer": "A",
+  "explanation": "The subject is 'The question,' a singular noun. The prepositional phrase 'of how to allocate limited federal funding between preventive healthcare initiatives and acute treatment infrastructure' modifies 'question' and does not change its number. The singular verb 'represents' is required. Choice A uses 'represents.' Choice B preserves 'represent.' Choice C pluralizes 'question' to 'questions' and uses 'represent'—internally consistent but changes the meaning. Choice D incorrectly identifies 'preventive healthcare initiatives and acute treatment infrastructure' as the compound subject; they are objects within the prepositional phrase."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "q_1489",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Historians have traditionally dated the fall of the Roman Empire to 476 CE, when the last Western emperor, Romulus Augustulus, was deposed by the Germanic chieftain Odoacer. This date is a useful shorthand, but it conceals more than it reveals. In the Eastern Mediterranean, the Roman Empire—which historians now call the Byzantine Empire—continued to function as a major political, military, and cultural power for nearly another thousand years, until 1453. Even in the West, 'decline' was a slow and contested process in which Roman institutions, language, and law persisted and transformed rather than simply disappeared.",
+  "question": "What is the primary function of the second sentence ('This date is a useful shorthand...') in the passage?",
+  "choices": {
+    "A": "To provide additional historical evidence for the traditional date of 476 CE",
+    "B": "To concede the usefulness of the conventional date while signaling that the passage will complicate it",
+    "C": "To argue that 476 CE is an entirely fictional date invented by later historians",
+    "D": "To introduce the Byzantine Empire as an alternative model of Roman governance"
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence performs a classic scholarly move: it acknowledges the validity of the conventional date ('useful shorthand') while immediately undermining its completeness ('conceals more than it reveals'). The structure of the sentence—concession followed by qualification—signals that the passage will go on to challenge or enrich the standard account. This prepares the reader for the evidence in the third and fourth sentences about Byzantine continuity and gradual decline in the West. Choice A is incorrect—the sentence qualifies the conventional date, not reinforces it. Choice C is too extreme—the sentence calls 476 CE 'useful,' not fictional. Choice D is incorrect—the Byzantine Empire is introduced in the third sentence, not the second."
+}

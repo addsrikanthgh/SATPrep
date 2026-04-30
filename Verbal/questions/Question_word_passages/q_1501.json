@@ -1,0 +1,16 @@
+{
+  "id": "q_1501",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Gentrification—the process by which higher-income residents move into lower-income urban neighborhoods, raising property values and displacing longtime residents—is one of the most contested topics in urban planning. Advocates argue that gentrification brings investment, reduces crime, and improves the physical condition of deteriorated neighborhoods. Critics respond that these apparent benefits come at the cost of displacing the very communities that gave a neighborhood its cultural identity and social fabric. A growing body of research suggests that displacement is often less severe than critics fear but that the cultural and psychological costs of neighborhood change fall disproportionately on lower-income residents of color.",
+  "question": "What is the primary function of the fourth sentence ('A growing body of research...') in the passage?",
+  "choices": {
+    "A": "To fully vindicate the advocates' position presented in the second sentence",
+    "B": "To offer a research-based perspective that partially validates each side while pointing to a more nuanced conclusion about who bears the costs",
+    "C": "To dismiss the critics' concerns as exaggerated and unsupported by data",
+    "D": "To argue that gentrification should be halted by city governments"
+  },
+  "correct_answer": "B",
+  "explanation": "The second and third sentences present two opposing positions in the debate over gentrification. The fourth sentence does not fully endorse either side: it suggests that displacement may be less severe than critics fear (partially validating advocates) but also notes that cultural and psychological costs fall disproportionately on lower-income residents of color (partially validating critics). The sentence uses research to navigate the binary debate toward a more nuanced position. Choice A is incorrect—the fourth sentence does not fully vindicate advocates; it also affirms real costs. Choice C is incorrect—the fourth sentence acknowledges that costs are real, just differently distributed than critics claim. Choice D is incorrect—the fourth sentence makes no policy recommendation."
+}

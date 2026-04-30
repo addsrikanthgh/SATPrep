@@ -1,0 +1,16 @@
+{
+  "id": "q_1132",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Thomas Edison and Nikola Tesla were the two most prominent engineers of the early electrical era, and their rivalry shaped the development of power transmission technology in the United States. Despite his many contributions to alternating-current theory, he never achieved the commercial success or public recognition that his counterpart secured during their lifetimes.",
+  "question": "The pronoun 'he' is used twice in the second sentence. Both instances are ambiguous. Which choice most clearly rewrites the beginning of the second sentence?",
+  "choices": {
+    "A": "Despite Edison's many contributions to alternating-current theory, he",
+    "B": "Despite Tesla's many contributions to alternating-current theory, Tesla",
+    "C": "Despite his many contributions to alternating-current theory, Edison",
+    "D": "No change; 'he' refers to Tesla because the passage describes his lack of commercial success, which is historically accurate"
+  },
+  "correct_answer": "B",
+  "explanation": "Both Edison and Tesla are male, so both instances of 'he' in the second sentence are grammatically ambiguous. Tesla is historically known as the contributor to alternating-current theory who lacked Edison's commercial success, but formal writing cannot require readers to apply historical knowledge to resolve pronoun ambiguity. Choice B replaces both 'his' and the first 'he' with 'Tesla's' and 'Tesla,' fully eliminating ambiguity while preserving the intended meaning. Choice A removes only the first ambiguity but leaves the second 'he' unresolved. Choice C replaces the second 'he' but attributes AC contributions to Edison, reversing the historical attribution. Choice D correctly identifies Tesla as the intended referent but incorrectly treats historical accuracy as sufficient to resolve grammatical ambiguity."
+}

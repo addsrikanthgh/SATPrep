@@ -1,0 +1,16 @@
+{
+  "id": "q_1392",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "medium",
+  "passage": "The city council debated the proposal for over three hours. Since the zoning change would affect dozens of established businesses and thousands of residents in two adjacent neighborhoods that had not been consulted during the initial planning phase. No vote was taken that evening.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "The city council debated the proposal for over three hours since the zoning change would affect dozens of established businesses and thousands of residents in two adjacent neighborhoods that had not been consulted during the initial planning phase.",
+    "B": "The city council debated the proposal for over three hours; since the zoning change would affect dozens of established businesses and thousands of residents in two adjacent neighborhoods.",
+    "C": "The city council debated the proposal for over three hours, as the zoning change would affect dozens of established businesses and thousands of residents in adjacent neighborhoods not consulted during planning.",
+    "D": "No change; 'Since the zoning change would affect' is a complete sentence that explains why the debate lasted so long."
+  },
+  "correct_answer": "A",
+  "explanation": "The second sentence 'Since the zoning change would affect dozens of established businesses and thousands of residents in two adjacent neighborhoods that had not been consulted during the initial planning phase' is a subordinate clause fragment. 'Since' is a subordinating conjunction that begins a dependent clause explaining why the council debated for so long. Dependent clauses cannot stand alone as sentences. This clause should be attached to the main clause it modifies. Choice A removes the period after 'hours' and attaches the 'since' clause directly, making it a complex sentence. Choice B uses a semicolon before the subordinate clause, which is incorrect. Choice C replaces 'since' with 'as,' also grammatically valid. Choice D incorrectly defends the fragment."
+}

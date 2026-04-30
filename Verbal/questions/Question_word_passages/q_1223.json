@@ -1,0 +1,16 @@
+{
+  "id": "q_1223",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (modifier placement)",
+  "difficulty": "medium",
+  "passage": "Hailed as a revolutionary breakthrough in materials science, researchers at MIT developed a polymer membrane capable of filtering microplastics at concentrations previously impossible to detect at the nanoscale. The discovery opens potential applications in water purification, biomedical filtration, and industrial processing.",
+  "question": "Which choice best corrects the dangling modifier in the first sentence?",
+  "choices": {
+    "A": "Hailed as a revolutionary breakthrough in materials science, researchers at MIT developed a polymer membrane capable of filtering microplastics at concentrations previously impossible to detect at the nanoscale.",
+    "B": "Hailed as a revolutionary breakthrough in materials science, the polymer membrane developed by MIT researchers is capable of filtering microplastics at concentrations previously impossible to detect at the nanoscale.",
+    "C": "Researchers at MIT, hailed as a revolutionary breakthrough, developed a polymer membrane capable of nanoscale microplastic filtration.",
+    "D": "No change; 'hailed' modifies the researchers who developed the breakthrough"
+  },
+  "correct_answer": "B",
+  "explanation": "The participial phrase 'Hailed as a revolutionary breakthrough in materials science' should describe the polymer membrane, which is the breakthrough. As written, 'researchers at MIT' is the subject following the phrase—implying the researchers are hailed as the breakthrough, rather than their invention. Choice B restructures so 'the polymer membrane' is the subject. Choice A keeps the original error unchanged. Choice C attaches 'hailed as a revolutionary breakthrough' to 'Researchers at MIT' as an appositive, preserving the logical error (the researchers, not the membrane, would be the breakthrough). Choice D incorrectly accepts the current phrasing by claiming 'hailed' refers to the researchers."
+}

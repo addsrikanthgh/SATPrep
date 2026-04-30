@@ -1,0 +1,16 @@
+{
+  "id": "q_1511",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "The opioid crisis in the United States has its roots, in part, in the aggressive marketing of OxyContin by Purdue Pharma beginning in the mid-1990s. Purdue's sales force promoted the drug as having lower addiction potential than older opioids, a claim later found to be misleading and unsupported by clinical evidence. State attorneys general eventually brought lawsuits against Purdue, and in 2019 the company filed for bankruptcy amid a wave of litigation totaling hundreds of billions of dollars in claimed damages. Yet the legal accountability of individual executives at Purdue has remained limited, prompting critics to argue that the financial penalties imposed on a bankrupt company constitute an inadequate remedy for a public health catastrophe.",
+  "question": "What is the primary function of the fourth sentence ('Yet the legal accountability...') in the passage?",
+  "choices": {
+    "A": "To summarize the main cause of the opioid crisis described in the first sentence",
+    "B": "To introduce a lingering grievance that qualifies the sense of resolution implied by the third sentence",
+    "C": "To argue that the bankruptcy of Purdue Pharma was unjustified",
+    "D": "To explain the mechanism by which OxyContin was marketed to physicians"
+  },
+  "correct_answer": "B",
+  "explanation": "The third sentence describes Purdue's bankruptcy and the massive litigation, which might suggest a form of justice or accountability. The fourth sentence uses 'yet' to qualify this apparent resolution: the bankruptcy means financial penalties fall on the company, not individual executives—a distinction critics view as inadequate. The fourth sentence introduces a note of unresolved tension after the apparent closure of the third sentence, complicating the narrative. Choice A is incorrect—the cause of the crisis is addressed in the first two sentences. Choice C is incorrect—the fourth sentence does not challenge the legitimacy of the bankruptcy. Choice D is incorrect—the marketing mechanism is described in the second sentence."
+}

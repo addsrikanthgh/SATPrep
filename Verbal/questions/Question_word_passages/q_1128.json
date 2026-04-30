@@ -1,0 +1,16 @@
+{
+  "id": "q_1128",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (pronoun-antecedent agreement)",
+  "difficulty": "hard",
+  "passage": "Sociologists Dr. Bell and Dr. Chang had co-authored a widely cited study on the relationship between housing instability and educational attainment in urban school districts. In a subsequent paper responding to critics, he revised the causal model to account for confounding variables related to neighborhood disinvestment.",
+  "question": "The pronoun 'he' is ambiguous. Which choice most clearly replaces it?",
+  "choices": {
+    "A": "Dr. Bell",
+    "B": "Dr. Chang",
+    "C": "the lead sociologist",
+    "D": "No change; 'he' refers to the responding author, who is identifiable as the senior researcher"
+  },
+  "correct_answer": "A",
+  "explanation": "Both Dr. Bell and Dr. Chang are male, so 'he' could refer to either. The passage provides no basis for distinguishing which researcher wrote the subsequent paper or revised the model before the pronoun is used. Choice A names Dr. Bell; Choice B names Dr. Chang. Choice C uses 'the lead sociologist,' a role not established in the passage. Choice D incorrectly asserts that seniority is implied by the passage and sufficient to resolve the pronoun—it is not."
+}

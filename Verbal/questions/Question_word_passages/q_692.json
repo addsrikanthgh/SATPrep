@@ -1,7 +1,7 @@
 {
   "id": "q_692",
   "domain": "Information and Ideas",
-  "skill": "central ideas and details",
+  "skill": "central idea",
   "difficulty": "easy",
   "passage": "Origami, the Japanese art of paper folding, has influenced fields far removed from traditional craft. Engineers and scientists have applied origami principles to design solar panels that can be compactly folded for launch and then deployed in space, stents that can be inserted into blood vessels in a collapsed form and expanded once in place, and portable shelters that fold flat for easy transport. The underlying mathematics of origami—including crease patterns, fold angles, and the geometry of flat-foldability—has become a formal area of computational study. Researchers at institutions including MIT and NASA have developed algorithms that translate desired three-dimensional shapes into the fold instructions needed to produce them from a flat sheet.",
   "question": "According to the passage, which of the following is an application of origami principles in engineering or medicine?",

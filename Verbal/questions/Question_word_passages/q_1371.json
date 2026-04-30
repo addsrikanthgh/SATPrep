@@ -1,0 +1,16 @@
+{
+  "id": "q_1371",
+  "domain": "Standard English Conventions",
+  "skill": "grammar and usage (sentence structure)",
+  "difficulty": "hard",
+  "passage": "Designed in 1887 by the engineer Gustave Eiffel and his team, the iconic tower was intended to serve as the entrance arch for the 1889 World's Fair and was always meant to be dismantled after the exposition. However, its radio transmission capabilities made it invaluable to the French military, the structure thus remained standing and has since become one of the most visited monuments in the world.",
+  "question": "Which choice best corrects the sentence structure error in the passage?",
+  "choices": {
+    "A": "Designed in 1887 by Gustave Eiffel, the tower was intended as the entrance arch for the 1889 World's Fair and was meant to be dismantled afterward; however, its radio transmission capabilities made it invaluable, and the structure has since become one of the most visited monuments in the world.",
+    "B": "Designed in 1887 by the engineer Gustave Eiffel, the iconic tower was intended to serve as the entrance arch for the 1889 World's Fair and was always meant to be dismantled after the exposition. However, its radio transmission capabilities made it invaluable to the French military; the structure thus remained standing and has since become one of the most visited monuments in the world.",
+    "C": "Designed in 1887 by the engineer Gustave Eiffel, the tower was meant to be dismantled, however its radio transmission capabilities made it invaluable to the French military, thus it has since become one of the most visited monuments in the world.",
+    "D": "No change; 'the structure thus remained standing' may follow a comma as a continuation of the explanation."
+  },
+  "correct_answer": "B",
+  "explanation": "The second sentence contains a comma splice. After the word 'military,' the conjunction-like adverb 'thus' introduces a second independent clause ('the structure thus remained standing and has since become one of the most visited monuments in the world'). Because 'thus' is a conjunctive adverb and not a coordinating conjunction, a semicolon is required before it when it joins two independent clauses. Choice B corrects the comma splice by inserting a semicolon before 'the structure.' Choice A significantly rewrites the passage. Choice C creates two additional comma splices. Choice D incorrectly defends the comma splice."
+}

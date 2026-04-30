@@ -1,0 +1,16 @@
+{
+  "id": "q_1523",
+  "domain": "Craft and Structure",
+  "skill": "function of a sentence",
+  "difficulty": "hard",
+  "passage": "Supply-side economics—the theory that cutting taxes on high earners and corporations stimulates investment, growth, and ultimately higher tax revenues—gained its most prominent policy expression in the Reagan administration's tax cuts of 1981. Proponents argued that the benefits would 'trickle down' to workers and lower-income households through increased business activity and job creation. Critics countered that the empirical record showed that the primary beneficiaries of supply-side tax cuts were the wealthy themselves, while the promised trickle-down effects on wage growth and inequality proved elusive. The persistence of supply-side policy despite contested evidence illustrates how economic theory can become entrenched through ideological commitment rather than empirical validation.",
+  "question": "What is the primary function of the fourth sentence ('The persistence of supply-side policy...') in the passage?",
+  "choices": {
+    "A": "To support the proponents' view that supply-side economics successfully stimulated growth",
+    "B": "To draw a broader conclusion about the relationship between economic theory and political ideology based on the debate described in the previous sentences",
+    "C": "To describe the specific tax cuts introduced in the Reagan administration",
+    "D": "To introduce a new school of economic thought as an alternative to supply-side theory"
+  },
+  "correct_answer": "B",
+  "explanation": "The first three sentences describe supply-side economics, its proponents' claims, and critics' empirical objections. The fourth sentence steps back from the specific debate and draws a broader lesson: that supply-side policy persisted despite contested evidence, which illustrates how economic theories can become entrenched through ideology rather than empirical validation. This is a generalizing conclusion that uses the specific example as a case study for a broader point about the relationship between economic theory and political commitment. Choice A is incorrect—the fourth sentence does not validate the proponents' view. Choice C is incorrect—the Reagan tax cuts are mentioned in the first sentence. Choice D is incorrect—no alternative school of thought is introduced."
+}
