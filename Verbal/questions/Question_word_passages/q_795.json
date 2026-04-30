@@ -3,7 +3,7 @@
   "domain": "Expression of Ideas",
   "skill": "rhetorical synthesis",
   "difficulty": "easy",
-  "passage": "While researching a topic, a student has taken the following notes:\n- The International Space Station (ISS) orbits Earth at an altitude of approximately 400 kilometers.\n- It travels at about 28,000 kilometers per hour, completing one orbit every 90 minutes.\n- The ISS has been continuously inhabited since November 2000.\n- It serves as a research laboratory for experiments in biology, physics, and materials science that benefit from microgravity conditions.\n- The station is a joint project involving space agencies from the United States, Russia, Europe, Japan, and Canada.\n\nThe student wants to introduce the ISS and explain its scientific purpose. Which choice most effectively uses the notes to accomplish this goal?",
+  "passage": "While researching a topic, a student has taken the following notes:\n- The International Space Station (ISS) orbits Earth at an altitude of approximately 400 kilometers.\n- It travels at about 28,000 kilometers per hour, completing one orbit every 90 minutes.\n- The ISS has been continuously inhabited since November 2000.\n- It serves as a research laboratory for experiments in biology, physics, and materials science that benefit from microgravity conditions.\n- The station is a joint project involving space agencies from the United States, Russia, Europe, Japan, and Canada.",
   "choices": {
     "A": "The International Space Station, a multinational research outpost orbiting Earth at 400 kilometers, has been continuously inhabited since 2000 and serves as a laboratory for experiments in biology, physics, and materials science that require microgravity conditions.",
     "B": "The ISS orbits Earth at approximately 400 kilometers, traveling at 28,000 kilometers per hour and completing one orbit every 90 minutes.",
@@ -11,5 +11,6 @@
     "D": "The ISS has been continuously inhabited since November 2000."
   },
   "correct_answer": "A",
-  "explanation": "The goal is to introduce the ISS and explain its scientific purpose. A names the station and identifies it as a multinational research outpost, notes its orbit, mentions continuous habitation as context, and explains its scientific purpose (biology, physics, materials science in microgravity). B gives orbital statistics only—no scientific purpose. C lists partner agencies—relevant context but no scientific purpose. D states only the occupation start date."
+  "explanation": "The goal is to introduce the ISS and explain its scientific purpose. A names the station and identifies it as a multinational research outpost, notes its orbit, mentions continuous habitation as context, and explains its scientific purpose (biology, physics, materials science in microgravity). B gives orbital statistics only—no scientific purpose. C lists partner agencies—relevant context but no scientific purpose. D states only the occupation start date.",
+  "question": "The student wants to introduce the ISS and explain its scientific purpose. Which choice most effectively uses the notes to accomplish this goal?"
 }

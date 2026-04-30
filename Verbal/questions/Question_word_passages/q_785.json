@@ -3,7 +3,7 @@
   "domain": "Expression of Ideas",
   "skill": "rhetorical synthesis",
   "difficulty": "easy",
-  "passage": "While researching a topic, a student has taken the following notes:\n- Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored in glucose.\n- The process takes place in chloroplasts, which contain the pigment chlorophyll.\n- Chlorophyll absorbs red and blue wavelengths of light and reflects green, which is why plants appear green.\n- Photosynthesis requires carbon dioxide, water, and light, and releases oxygen as a byproduct.\n- Approximately half of the oxygen in Earth's atmosphere is produced by photosynthesis in ocean phytoplankton.\n\nThe student wants to explain what photosynthesis is and identify its main inputs and outputs. Which choice most effectively uses the notes to accomplish this goal?",
+  "passage": "While researching a topic, a student has taken the following notes:\n- Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy stored in glucose.\n- The process takes place in chloroplasts, which contain the pigment chlorophyll.\n- Chlorophyll absorbs red and blue wavelengths of light and reflects green, which is why plants appear green.\n- Photosynthesis requires carbon dioxide, water, and light, and releases oxygen as a byproduct.\n- Approximately half of the oxygen in Earth's atmosphere is produced by photosynthesis in ocean phytoplankton.",
   "choices": {
     "A": "Photosynthesis is the process by which plants, algae, and some bacteria convert light energy into chemical energy; it requires carbon dioxide, water, and light, and releases oxygen as a byproduct.",
     "B": "Chlorophyll absorbs red and blue wavelengths of light and reflects green, which is why plants appear green.",
@@ -11,5 +11,6 @@
     "D": "Photosynthesis takes place in chloroplasts, which contain the pigment chlorophyll."
   },
   "correct_answer": "A",
-  "explanation": "The goal is to explain what photosynthesis is and identify its inputs and outputs. A defines the process (converting light energy to chemical energy) and lists both inputs (CO₂, water, light) and outputs (oxygen). It directly addresses the stated goal. B is a detail about chlorophyll's light absorption—interesting but not a definition or input/output summary. C is a single statistic about phytoplankton's contribution—a supporting detail, not a definition or input/output explanation. D mentions where photosynthesis occurs but gives no inputs or outputs."
+  "explanation": "The goal is to explain what photosynthesis is and identify its inputs and outputs. A defines the process (converting light energy to chemical energy) and lists both inputs (CO₂, water, light) and outputs (oxygen). It directly addresses the stated goal. B is a detail about chlorophyll's light absorption—interesting but not a definition or input/output summary. C is a single statistic about phytoplankton's contribution—a supporting detail, not a definition or input/output explanation. D mentions where photosynthesis occurs but gives no inputs or outputs.",
+  "question": "The student wants to explain what photosynthesis is and identify its main inputs and outputs. Which choice most effectively uses the notes to accomplish this goal?"
 }

@@ -48,6 +48,34 @@ function byQSequence(fileA: string, fileB: string) {
   return fileA.localeCompare(fileB);
 }
 
+/**
+ * Some generated passage files embed the question prompt at the end of the
+ * `passage` field instead of providing a separate `question` field.
+ * Split on the last double-newline so the schema can validate normally.
+ */
+function splitEmbeddedQuestion(raw: unknown): unknown {
+  if (
+    typeof raw !== "object" ||
+    raw === null ||
+    !("passage" in raw) ||
+    typeof (raw as Record<string, unknown>).passage !== "string" ||
+    "question" in raw
+  ) {
+    return raw;
+  }
+
+  const passage = (raw as Record<string, unknown>).passage as string;
+  const lastBreak = passage.lastIndexOf("\n\n");
+  if (lastBreak === -1) return raw;
+
+  const passageBody = passage.slice(0, lastBreak).trim();
+  const questionText = passage.slice(lastBreak + 2).trim();
+
+  if (!questionText) return raw;
+
+  return { ...(raw as Record<string, unknown>), passage: passageBody, question: questionText };
+}
+
 export async function POST(request: Request) {
   if (!ADMIN_IMPORT_PASSCODE) {
     return NextResponse.json(
@@ -111,7 +139,12 @@ export async function POST(request: Request) {
       }
 
       const json = JSON.parse(raw) as unknown;
-      const parsedFile = qPassageFileSchema.safeParse(json);
+
+      // Some files embed the question prompt at the end of the passage with no
+      // separate "question" field. Detect and split before schema validation.
+      const normalized_json = splitEmbeddedQuestion(json);
+
+      const parsedFile = qPassageFileSchema.safeParse(normalized_json);
 
       if (!parsedFile.success) {
         failed += 1;
