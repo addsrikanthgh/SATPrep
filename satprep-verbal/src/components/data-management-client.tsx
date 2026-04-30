@@ -5,7 +5,12 @@ import { useStudent } from "@/lib/student-context";
 
 type Status = { type: "success" | "error"; message: string } | null;
 type ImportError = { file: string; error: string };
-type Stats = { passageCount: number; blankCount: number } | null;
+type Stats = {
+  passageCount: number;
+  blankCount: number;
+  byDomain: { label: string; count: number }[];
+  bySkill: { label: string; count: number }[];
+} | null;
 
 export function DataManagementClient() {
   const { student, adminPassword, adminUnlocked } = useStudent();
@@ -45,11 +50,14 @@ export function DataManagementClient() {
         headers: { "x-admin-passcode": adminPassword },
       });
       if (response.ok) {
-        const data = (await response.json()) as { passageCount: number; blankCount: number };
+        const data = (await response.json()) as { passageCount: number; blankCount: number; byDomain: { label: string; count: number }[]; bySkill: { label: string; count: number }[] };
         setStats(data);
+      } else {
+        const errText = await response.text().catch(() => response.status.toString());
+        console.error("[fetchStats] non-ok response:", response.status, errText);
       }
-    } catch {
-      // silently fail — stats are informational
+    } catch (err) {
+      console.error("[fetchStats] threw:", err);
     } finally {
       setStatsLoading(false);
     }
@@ -392,16 +400,52 @@ export function DataManagementClient() {
         {statsLoading ? (
           <p className="mt-1 text-sm text-blue-600">Loading stats…</p>
         ) : stats ? (
-          <div className="mt-2 flex gap-6">
-            <div>
-              <p className="text-2xl font-bold text-blue-800">{stats.passageCount.toLocaleString()}</p>
-              <p className="text-xs text-blue-600">Passages</p>
+          <>
+            <div className="mt-2 flex gap-6">
+              <div>
+                <p className="text-2xl font-bold text-blue-800">{stats.passageCount.toLocaleString()}</p>
+                <p className="text-xs text-blue-600">Passages</p>
+              </div>
+              <div>
+                <p className="text-2xl font-bold text-blue-800">{stats.blankCount.toLocaleString()}</p>
+                <p className="text-xs text-blue-600">Blank Questions</p>
+              </div>
             </div>
-            <div>
-              <p className="text-2xl font-bold text-blue-800">{stats.blankCount.toLocaleString()}</p>
-              <p className="text-xs text-blue-600">Blank Questions</p>
-            </div>
-          </div>
+
+            {stats.byDomain.length > 0 || stats.bySkill.length > 0 ? (
+              <div className="mt-4 grid gap-4 sm:grid-cols-2">
+                {/* By Domain */}
+                {stats.byDomain.length > 0 ? (
+                  <div>
+                    <p className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-blue-700">By Domain</p>
+                    <div className="overflow-hidden rounded-lg border border-blue-200 bg-white">
+                      {stats.byDomain.map((row) => (
+                        <div key={row.label} className="flex items-center justify-between border-b border-blue-100 px-3 py-1.5 last:border-0">
+                          <span className="text-xs text-slate-700">{row.label}</span>
+                          <span className="text-xs font-semibold text-blue-700">{row.count.toLocaleString()}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ) : null}
+
+                {/* By Skill */}
+                {stats.bySkill.length > 0 ? (
+                  <div>
+                    <p className="mb-1.5 text-xs font-semibold uppercase tracking-wide text-blue-700">By Skill</p>
+                    <div className="overflow-hidden rounded-lg border border-blue-200 bg-white">
+                      {stats.bySkill.map((row) => (
+                        <div key={row.label} className="flex items-center justify-between border-b border-blue-100 px-3 py-1.5 last:border-0">
+                          <span className="text-xs capitalize text-slate-700">{row.label}</span>
+                          <span className="text-xs font-semibold text-blue-700">{row.count.toLocaleString()}</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                ) : null}
+              </div>
+            ) : null}
+          </>
         ) : (
           <p className="mt-1 text-sm text-blue-500">Stats unavailable.</p>
         )}

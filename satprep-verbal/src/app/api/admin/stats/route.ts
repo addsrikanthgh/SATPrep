@@ -28,10 +28,21 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({ error: "Invalid admin passcode." }, { status: 401 });
   }
 
-  const [passageCount, blankCount] = await Promise.all([
+  const [passageCount, blankCount, byDomain, bySkill] = await Promise.all([
     prisma.passageSet.count(),
     prisma.blankSentenceQuestion.count(),
+    prisma.passageSet.groupBy({ by: ["domain"], _count: { id: true } }),
+    prisma.passageSet.groupBy({ by: ["skill"],  _count: { id: true } }),
   ]);
 
-  return NextResponse.json({ passageCount, blankCount });
+  return NextResponse.json({
+    passageCount,
+    blankCount,
+    byDomain: byDomain
+      .map((r) => ({ label: r.domain, count: r._count.id }))
+      .sort((a, b) => b.count - a.count),
+    bySkill: bySkill
+      .map((r) => ({ label: r.skill, count: r._count.id }))
+      .sort((a, b) => b.count - a.count),
+  });
 }
