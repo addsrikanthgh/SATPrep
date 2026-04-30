@@ -641,6 +641,9 @@ export function ProgressClient() {
                 </div>
 
                 <div className="rounded-lg border border-slate-200 bg-slate-50 p-3">
+                  <div className="mb-2">
+                    <span className="rounded-full border border-slate-200 bg-slate-100 px-2.5 py-0.5 font-mono text-xs text-slate-500">{activeReview.passageSetId}</span>
+                  </div>
                   <h4 className="text-sm font-semibold text-slate-900">{activeReview.title}</h4>
                   <p className="mt-2 whitespace-pre-wrap text-sm leading-6 text-slate-800">{activeReview.passage}</p>
                 </div>

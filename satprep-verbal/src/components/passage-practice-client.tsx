@@ -263,6 +263,9 @@ export function PassagePracticeClient() {
 
           {session && item ? (
             <SurfaceCard>
+              <div className="mb-2">
+                <span className="rounded-full border border-slate-200 bg-slate-100 px-2.5 py-0.5 font-mono text-xs text-slate-500">{item.passageSetId}</span>
+              </div>
               {item.passage ? (
                 <article className="mb-5 rounded-xl border border-slate-200 bg-slate-50 p-4 text-sm leading-6 text-slate-800 sm:p-5">
                   {renderPassage(item.passage)}
