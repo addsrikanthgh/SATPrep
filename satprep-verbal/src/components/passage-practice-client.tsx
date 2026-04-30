@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { SurfaceCard } from "@/components/ui/surface-card";
 
 type PassageQuizSession = {
@@ -37,6 +37,11 @@ type Feedback = {
 const defaultCount = 10;
 const questionCountOptions = [5, 10, 15, 20, 25];
 
+type FilterOptions = {
+  domains: string[];
+  skillsByDomain: Record<string, string[]>;
+};
+
 function ArrowRightIcon() {
   return (
     <svg viewBox="0 0 24 24" fill="none" className="h-4 w-4" aria-hidden="true">
@@ -71,6 +76,9 @@ function renderPassage(text: string) {
 
 export function PassagePracticeClient() {
   const [questionCount, setQuestionCount] = useState(defaultCount);
+  const [filterDomain, setFilterDomain] = useState<string>("");
+  const [filterSkill, setFilterSkill] = useState<string>("");
+  const [filterOptions, setFilterOptions] = useState<FilterOptions | null>(null);
   const [loading, setLoading] = useState(false);
   const [session, setSession] = useState<PassageQuizSession | null>(null);
   const [item, setItem] = useState<PassageItem | null>(null);
@@ -78,6 +86,15 @@ export function PassagePracticeClient() {
   const [done, setDone] = useState(false);
   const [error, setError] = useState<string>("");
   const [selectedChoice, setSelectedChoice] = useState<"A" | "B" | "C" | "D" | null>(null);
+
+  useEffect(() => {
+    fetch("/api/quiz/passages/filters")
+      .then((r) => r.json())
+      .then((data) => setFilterOptions(data as FilterOptions))
+      .catch(() => {});
+  }, []);
+
+  const availableSkills = filterDomain && filterOptions ? (filterOptions.skillsByDomain[filterDomain] ?? []) : [];
 
   async function startQuiz() {
     setLoading(true);
@@ -90,7 +107,11 @@ export function PassagePracticeClient() {
       const startResponse = await fetch("/api/quiz/passages/start", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ questionCount }),
+        body: JSON.stringify({
+          questionCount,
+          filterDomain: filterDomain || null,
+          filterSkill: filterSkill || null,
+        }),
       });
 
       if (!startResponse.ok) {
@@ -189,6 +210,8 @@ export function PassagePracticeClient() {
     setDone(false);
     setError("");
     setSelectedChoice(null);
+    setFilterDomain("");
+    setFilterSkill("");
   }
 
   return (
@@ -199,10 +222,41 @@ export function PassagePracticeClient() {
             <SurfaceCard>
               <h2 className="text-xl font-semibold tracking-tight text-slate-900">Start Passage Quiz</h2>
               <p className="mt-2 text-sm text-slate-600">
-                Mixed passages across all domains and skills. Each passage can be read only once per student.
+                Choose a domain and skill to focus on, or leave blank for a mixed quiz across all categories.
               </p>
 
-              <label className="mt-6 block text-sm text-slate-700">
+              <div className="mt-6 grid gap-4 sm:grid-cols-2">
+                <label className="block text-sm text-slate-700">
+                  <span className="mb-2 block font-medium">Domain</span>
+                  <select
+                    value={filterDomain}
+                    onChange={(e) => { setFilterDomain(e.target.value); setFilterSkill(""); }}
+                    className="h-11 w-full rounded-lg border border-slate-200 bg-white px-3 text-sm text-slate-900 outline-none transition-all duration-150 focus:border-blue-500 focus:ring-4 focus:ring-blue-100"
+                  >
+                    <option value="">All domains (random)</option>
+                    {(filterOptions?.domains ?? []).map((d) => (
+                      <option key={d} value={d}>{d}</option>
+                    ))}
+                  </select>
+                </label>
+
+                <label className="block text-sm text-slate-700">
+                  <span className="mb-2 block font-medium">Skill</span>
+                  <select
+                    value={filterSkill}
+                    onChange={(e) => setFilterSkill(e.target.value)}
+                    disabled={!filterDomain}
+                    className="h-11 w-full rounded-lg border border-slate-200 bg-white px-3 text-sm text-slate-900 outline-none transition-all duration-150 focus:border-blue-500 focus:ring-4 focus:ring-blue-100 disabled:opacity-50"
+                  >
+                    <option value="">All skills</option>
+                    {availableSkills.map((s) => (
+                      <option key={s} value={s}>{s}</option>
+                    ))}
+                  </select>
+                </label>
+              </div>
+
+              <label className="mt-4 block text-sm text-slate-700">
                 <span className="mb-2 block font-medium">Question count</span>
                 <select
                   value={questionCount}
@@ -227,7 +281,13 @@ export function PassagePracticeClient() {
                 {!loading ? <ArrowRightIcon /> : null}
               </button>
 
-              <p className="mt-4 flex items-center gap-1.5 text-xs font-medium text-emerald-700">
+              {filterDomain || filterSkill ? (
+                <p className="mt-4 flex items-center gap-1.5 text-xs font-medium text-blue-700">
+                  <CheckIcon />
+                  Filtered: {[filterDomain, filterSkill].filter(Boolean).join(" › ")}
+                </p>
+              ) : null}
+              <p className="mt-2 flex items-center gap-1.5 text-xs font-medium text-emerald-700">
                 <CheckIcon />
                 Read-once policy and progress tracking are applied automatically.
               </p>

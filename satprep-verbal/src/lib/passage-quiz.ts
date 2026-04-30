@@ -4,10 +4,12 @@ type NextPassageOptions = {
   prisma: PrismaClient;
   studentId: string;
   passageQuizSessionId: number;
+  filterDomain?: string | null;
+  filterSkill?: string | null;
 };
 
 export async function getNextPassageQuestionForSession(options: NextPassageOptions) {
-  const { prisma, studentId, passageQuizSessionId } = options;
+  const { prisma, studentId, passageQuizSessionId, filterDomain, filterSkill } = options;
 
   const [answeredRows, readStates] = await Promise.all([
     prisma.passageQuizAnswer.findMany({
@@ -28,6 +30,8 @@ export async function getNextPassageQuestionForSession(options: NextPassageOptio
       id: {
         notIn: [...answeredIds],
       },
+      ...(filterDomain ? { domain: filterDomain } : {}),
+      ...(filterSkill ? { skill: filterSkill } : {}),
     },
     include: {
       questions: {

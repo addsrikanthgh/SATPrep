@@ -30,6 +30,8 @@ export async function GET(request: NextRequest) {
     prisma,
     studentId,
     passageQuizSessionId: sessionId,
+    filterDomain: quizSession.filterDomain,
+    filterSkill: quizSession.filterSkill,
   });
 
   if (!next) {
