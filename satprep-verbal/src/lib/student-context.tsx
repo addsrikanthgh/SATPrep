@@ -2,6 +2,7 @@
 
 import { createContext, useContext, useState, ReactNode } from "react";
 import { useSession, signIn, signOut } from "next-auth/react";
+import { usePathname } from "next/navigation";
 
 type Student = {
   id: string;
@@ -49,6 +50,7 @@ export function useStudent() {
 
 export function StudentProvider({ children }: { children: ReactNode }) {
   const { data: session, status } = useSession();
+  const pathname = usePathname();
 
   const [adminPassword, setAdminPassword] = useState("");
   const [adminUnlocked, setAdminUnlocked] = useState(false);
@@ -94,7 +96,7 @@ export function StudentProvider({ children }: { children: ReactNode }) {
     return null;
   }
 
-  if (status === "unauthenticated" || !session?.user) {
+  if ((status === "unauthenticated" || !session?.user) && pathname !== "/") {
     return (
       <div className="fixed inset-0 z-50 flex items-center justify-center bg-slate-100">
         <div className="w-full max-w-sm rounded-xl border border-slate-200 bg-white p-8 shadow-lg">
@@ -129,6 +131,10 @@ export function StudentProvider({ children }: { children: ReactNode }) {
         </div>
       </div>
     );
+  }
+
+  if (!session?.user) {
+    return <>{children}</>;
   }
 
   const student: Student = {

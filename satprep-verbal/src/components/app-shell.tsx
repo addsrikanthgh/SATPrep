@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useMemo, useState, type ReactNode } from "react";
+import { signOut } from "next-auth/react";
 import { AppMenu } from "@/components/app-menu";
 
 type AppShellProps = {
@@ -102,8 +103,17 @@ export function AppShell({
             })}
           </nav>
 
-          <div className="ml-auto flex h-9 w-9 items-center justify-center rounded-full bg-slate-900 text-xs font-semibold text-white">
-            {initials}
+          <div className="ml-auto flex items-center gap-2">
+            <div className="flex h-9 w-9 items-center justify-center rounded-full bg-slate-900 text-xs font-semibold text-white">
+              {initials}
+            </div>
+            <button
+              type="button"
+              onClick={() => void signOut({ callbackUrl: "/" })}
+              className="hidden rounded-lg border border-slate-200 px-3 py-1.5 text-xs font-medium text-slate-600 transition hover:bg-slate-100 md:block"
+            >
+              Sign Out
+            </button>
           </div>
         </div>
       </header>

@@ -1,15 +1,11 @@
-import { StudyClient } from "@/components/study-client";
-import { AppShell } from "@/components/app-shell";
+import { auth } from "@/auth";
+import { redirect } from "next/navigation";
+import { LandingPage } from "@/components/landing-page";
 
-export default function Home() {
-  return (
-    <AppShell
-      eyebrow="SAT Prep"
-      title="Study Dashboard"
-      subtitle="Pick a quiz mode, practice your vocabulary, and keep your SAT verbal progress moving every day."
-      maxWidthClassName="max-w-6xl"
-    >
-      <StudyClient />
-    </AppShell>
-  );
+export default async function Home() {
+  const session = await auth();
+  if (session?.user) {
+    redirect("/practice/meaning");
+  }
+  return <LandingPage />;
 }

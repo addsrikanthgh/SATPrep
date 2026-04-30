@@ -3,6 +3,7 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState, type ReactNode } from "react";
+import { signOut } from "next-auth/react";
 import { useStudent } from "@/lib/student-context";
 
 type MenuItem = {
@@ -243,6 +244,19 @@ export function AppMenu({ onNavigate }: AppMenuProps) {
           </div>
         ))}
       </nav>
+
+      <div className="mt-4 border-t border-slate-200 pt-4">
+        <button
+          type="button"
+          onClick={() => void signOut({ callbackUrl: "/" })}
+          className="flex w-full items-center gap-2 rounded-lg px-3 py-2 text-sm font-medium text-slate-500 transition hover:bg-slate-100 hover:text-slate-700"
+        >
+          <svg viewBox="0 0 24 24" fill="none" className="h-4 w-4 shrink-0" aria-hidden="true">
+            <path d="M16 17l5-5-5-5M21 12H9M13 7V5a2 2 0 00-2-2H5a2 2 0 00-2 2v14a2 2 0 002 2h6a2 2 0 002-2v-2" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+          Sign Out
+        </button>
+      </div>
     </div>
   );
 }
