@@ -30,28 +30,12 @@ type ApiResponse = {
   rows: PassageRow[];
 };
 
+type FilterOptions = {
+  domains: string[];
+  skillsByDomain: Record<string, string[]>;
+};
+
 const CHOICES = ["A", "B", "C", "D"] as const;
-const DOMAINS = [
-  "Information and Ideas",
-  "Craft and Structure",
-  "Expression of Ideas",
-  "Standard English Conventions",
-];
-const SKILLS = [
-  "central idea",
-  "inference",
-  "command of evidence (textual)",
-  "command of evidence (quantitative)",
-  "vocabulary in context",
-  "function of a sentence",
-  "text structure and purpose",
-  "cross-text connections",
-  "transitions",
-  "rhetorical synthesis",
-  "sentence boundaries",
-  "punctuation",
-  "grammar and usage",
-];
 
 function renderPassage(text: string) {
   const parts = text.split(/(\*[^*]+\*)/g);
@@ -98,6 +82,7 @@ export function PassagePreviewSection({ adminPassword }: Props) {
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<ApiResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
+  const [filterOptions, setFilterOptions] = useState<FilterOptions | null>(null);
 
   const [selectedPassage, setSelectedPassage] = useState<PassageRow | null>(null);
   const [selectedQuestion, setSelectedQuestion] = useState<PassageQuestion | null>(null);
@@ -113,6 +98,35 @@ export function PassagePreviewSection({ adminPassword }: Props) {
       if (debounceRef.current) clearTimeout(debounceRef.current);
     };
   }, [search]);
+
+  useEffect(() => {
+    let cancelled = false;
+
+    async function fetchFilterOptions() {
+      try {
+        const res = await fetch("/api/admin/passages/filters", {
+          headers: { "x-admin-passcode": adminPassword },
+        });
+
+        if (!res.ok) {
+          return;
+        }
+
+        const data = (await res.json()) as FilterOptions;
+        if (!cancelled) {
+          setFilterOptions(data);
+        }
+      } catch {
+        // Ignore filter option failures and leave selects empty rather than blocking preview.
+      }
+    }
+
+    void fetchFilterOptions();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [adminPassword]);
 
   const fetchPassages = useCallback(async () => {
     setLoading(true);
@@ -150,6 +164,17 @@ export function PassagePreviewSection({ adminPassword }: Props) {
     setPage(1);
   }, [domain, skill, difficulty, debouncedSearch]);
 
+  const availableDomains = filterOptions?.domains ?? [];
+  const availableSkills = domain
+    ? (filterOptions?.skillsByDomain[domain] ?? [])
+    : Array.from(new Set(Object.values(filterOptions?.skillsByDomain ?? {}).flat())).sort();
+
+  useEffect(() => {
+    if (skill && !availableSkills.includes(skill)) {
+      setSkill("");
+    }
+  }, [availableSkills, skill]);
+
   function selectPassage(row: PassageRow) {
     setSelectedPassage(row);
     setSelectedQuestion(row.questions[0] ?? null);
@@ -185,7 +210,7 @@ export function PassagePreviewSection({ adminPassword }: Props) {
           className="rounded-md border border-slate-300 px-3 py-2 text-sm text-slate-700 outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500"
         >
           <option value="">All domains</option>
-          {DOMAINS.map((d) => (
+          {availableDomains.map((d) => (
             <option key={d} value={d}>{d}</option>
           ))}
         </select>
@@ -195,7 +220,7 @@ export function PassagePreviewSection({ adminPassword }: Props) {
           className="rounded-md border border-slate-300 px-3 py-2 text-sm capitalize text-slate-700 outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500"
         >
           <option value="">All skills</option>
-          {SKILLS.map((s) => (
+          {availableSkills.map((s) => (
             <option key={s} value={s} className="capitalize">{s}</option>
           ))}
         </select>
