@@ -4,6 +4,7 @@ import { createHash, timingSafeEqual } from "node:crypto";
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { auth } from "@/auth";
+import { Prisma } from "@prisma/client";
 import { passageVisualSchema, qPassageFileSchema } from "@/lib/passage-schema";
 import { normalizeQPassageFile, upsertPassageSet } from "@/lib/passage-service";
 import { prisma } from "@/lib/prisma";
@@ -136,8 +137,8 @@ export async function POST(request: Request) {
 
         await prisma.passageVisual.upsert({
           where: { visualId: v.visual_id },
-          update: { type: v.type, data: v.data, spec: v.spec },
-          create: { visualId: v.visual_id, type: v.type, data: v.data, spec: v.spec },
+          update: { type: v.type, data: v.data as Prisma.InputJsonValue, spec: v.spec as Prisma.InputJsonValue },
+          create: { visualId: v.visual_id, type: v.type, data: v.data as Prisma.InputJsonValue, spec: v.spec as Prisma.InputJsonValue },
         });
 
         if (existed) {

@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 import { createHash } from "node:crypto";
-import { PrismaClient } from "@prisma/client";
+import { PrismaClient, Prisma } from "@prisma/client";
 import { passageSetSchema, passageVisualSchema, qPassageFileSchema } from "../src/lib/passage-schema";
 import { normalizeQPassageFile, upsertPassageSet } from "../src/lib/passage-service";
 
@@ -163,14 +163,14 @@ async function seedPassageVisuals(projectRoot: string) {
       where: { visualId: visual.visual_id },
       update: {
         type: visual.type,
-        data: visual.data,
-        spec: visual.spec,
+        data: visual.data as Prisma.InputJsonValue,
+        spec: visual.spec as Prisma.InputJsonValue,
       },
       create: {
         visualId: visual.visual_id,
         type: visual.type,
-        data: visual.data,
-        spec: visual.spec,
+        data: visual.data as Prisma.InputJsonValue,
+        spec: visual.spec as Prisma.InputJsonValue,
       },
     });
 
