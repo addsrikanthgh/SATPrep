@@ -129,6 +129,7 @@ model PassageQuestion {
   questionId    String
   questionType  String
   questionText  String
+  visualId      String?
   choiceA       String
   choiceB       String
   choiceC       String
@@ -138,8 +139,20 @@ model PassageQuestion {
   createdAt     DateTime   @default(now())
   updatedAt     DateTime   @updatedAt
   passageSet    PassageSet @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
+  visual        PassageVisual? @relation(fields: [visualId], references: [visualId], onDelete: SetNull)
 
   @@unique([passageSetId, questionId])
+  @@index([visualId])
+}
+
+model PassageVisual {
+  visualId   String           @id
+  type       String
+  data       Json
+  spec       Json
+  createdAt  DateTime         @default(now())
+  updatedAt  DateTime         @updatedAt
+  questions  PassageQuestion[]
 }
 
 model PassageImportLog {

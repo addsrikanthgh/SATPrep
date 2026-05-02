@@ -1,0 +1,20 @@
+{
+  "visual_id": "qb_1664",
+  "type": "chart",
+  "data": {
+    "values": [
+      {"group": "Students who reviewed notes", "score": 74},
+      {"group": "Students who did not review notes", "score": 68},
+      {"group": "Students who attended tutoring", "score": 79},
+      {"group": "Students with no tutoring", "score": 71}
+    ]
+  },
+  "spec": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "mark": "bar",
+    "encoding": {
+      "x": {"field": "group", "type": "nominal", "title": "Student Group", "sort": null},
+      "y": {"field": "score", "type": "quantitative", "title": "Average Assessment Score", "scale": {"domain": [60, 85]}}
+    }
+  }
+}

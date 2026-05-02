@@ -2,6 +2,8 @@
 
 import { useState, useEffect } from "react";
 import { SurfaceCard } from "@/components/ui/surface-card";
+import { PassageVisual } from "@/components/passage-visual";
+import type { PassageVisual as PassageVisualType } from "@/components/passage-visual";
 
 type PassageQuizSession = {
   id: number;
@@ -20,6 +22,7 @@ type PassageItem = {
   difficulty: string;
   questionId: string;
   questionType: string;
+  visualId: string | null;
   question: string;
   choices: Record<"A" | "B" | "C" | "D", string>;
   passage: string | null;
@@ -85,6 +88,8 @@ export function PassagePracticeClient() {
   const [feedback, setFeedback] = useState<Feedback | null>(null);
   const [done, setDone] = useState(false);
   const [error, setError] = useState<string>("");
+  const [visualError, setVisualError] = useState<string>("");
+  const [visual, setVisual] = useState<PassageVisualType | null>(null);
   const [selectedChoice, setSelectedChoice] = useState<"A" | "B" | "C" | "D" | null>(null);
 
   useEffect(() => {
@@ -102,6 +107,8 @@ export function PassagePracticeClient() {
     setDone(false);
     setFeedback(null);
     setSelectedChoice(null);
+    setVisual(null);
+    setVisualError("");
 
     try {
       const startResponse = await fetch("/api/quiz/passages/start", {
@@ -156,12 +163,55 @@ export function PassagePracticeClient() {
     if (payload.done) {
       setDone(true);
       setItem(null);
+      setVisual(null);
+      setVisualError("");
     } else {
       setItem(payload.item ?? null);
     }
 
     setLoading(false);
   }
+
+  useEffect(() => {
+    let cancelled = false;
+
+    async function fetchVisual() {
+      if (!item?.visualId) {
+        setVisual(null);
+        setVisualError("");
+        return;
+      }
+
+      try {
+        setVisualError("");
+        const response = await fetch(`/api/quiz/passages/visuals/${encodeURIComponent(item.visualId)}`);
+        const payload = (await response.json()) as PassageVisualType | { error?: string };
+
+        if (!response.ok) {
+          if (!cancelled) {
+            setVisual(null);
+            setVisualError((payload as { error?: string }).error ?? "Unable to load visual.");
+          }
+          return;
+        }
+
+        if (!cancelled) {
+          setVisual(payload as PassageVisualType);
+        }
+      } catch {
+        if (!cancelled) {
+          setVisual(null);
+          setVisualError("Unable to load visual.");
+        }
+      }
+    }
+
+    void fetchVisual();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [item?.visualId]);
 
   async function submitAnswer(answer: "A" | "B" | "C" | "D") {
     if (!session || !item || feedback) {
@@ -335,6 +385,13 @@ export function PassagePracticeClient() {
                   Passage hidden (already read once).
                 </article>
               )}
+
+              {visual ? <PassageVisual visual={visual} /> : null}
+              {visualError ? (
+                <div className="mb-5 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
+                  {visualError}
+                </div>
+              ) : null}
 
               <h3 className="text-base font-semibold text-slate-900">{item.question}</h3>
 

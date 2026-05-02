@@ -1,0 +1,17 @@
+{
+  "visual_id": "qb_1663",
+  "type": "table",
+  "data": {
+    "columns": ["Reading Program", "Students Sampled", "Met Growth Benchmark (%)"],
+    "rows": [
+      ["Program A", 120, 62],
+      ["Program B", 118, 69],
+      ["Program C", 124, 64],
+      ["Program D", 119, 58]
+    ]
+  },
+  "spec": {
+    "title": "Spring Reading Benchmark Results",
+    "note": "Percentages indicate students meeting district growth benchmark."
+  }
+}

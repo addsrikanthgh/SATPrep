@@ -68,6 +68,7 @@ export async function GET(request: NextRequest) {
             questionId: true,
             questionType: true,
             questionText: true,
+            visualId: true,
             choiceA: true,
             choiceB: true,
             choiceC: true,

@@ -2,7 +2,7 @@ import fs from "node:fs/promises";
 import path from "node:path";
 import { createHash } from "node:crypto";
 import { PrismaClient } from "@prisma/client";
-import { passageSetSchema, qPassageFileSchema } from "../src/lib/passage-schema";
+import { passageSetSchema, passageVisualSchema, qPassageFileSchema } from "../src/lib/passage-schema";
 import { normalizeQPassageFile, upsertPassageSet } from "../src/lib/passage-service";
 
 type WordRecord = {
@@ -131,7 +131,61 @@ async function seedWordsAndBlanks(projectRoot: string) {
   return { words: wordRows.length, blanks: uniqueBlankRows.length };
 }
 
-async function seedPassages(projectRoot: string) {
+async function seedPassageVisuals(projectRoot: string) {
+  const visualsDir = path.join(projectRoot, "..", "Verbal", "questions", "Question_word_passages_visuals");
+  let entries: string[] = [];
+
+  try {
+    entries = await fs.readdir(visualsDir);
+  } catch {
+    return { visualsImported: 0, visualsUpdated: 0, visualIds: new Set<string>() };
+  }
+
+  const jsonFiles = entries
+    .filter((fileName) => /^qb_\d+\.json$/i.test(fileName))
+    .sort();
+  let visualsImported = 0;
+  let visualsUpdated = 0;
+  const visualIds = new Set<string>();
+
+  for (const fileName of jsonFiles) {
+    const fullPath = path.join(visualsDir, fileName);
+    const raw = await fs.readFile(fullPath, "utf8");
+    const parsed = JSON.parse(raw) as unknown;
+    const visual = passageVisualSchema.parse(parsed);
+
+    const existed = await prisma.passageVisual.findUnique({
+      where: { visualId: visual.visual_id },
+      select: { visualId: true },
+    });
+
+    await prisma.passageVisual.upsert({
+      where: { visualId: visual.visual_id },
+      update: {
+        type: visual.type,
+        data: visual.data,
+        spec: visual.spec,
+      },
+      create: {
+        visualId: visual.visual_id,
+        type: visual.type,
+        data: visual.data,
+        spec: visual.spec,
+      },
+    });
+
+    visualIds.add(visual.visual_id);
+    if (existed) {
+      visualsUpdated += 1;
+    } else {
+      visualsImported += 1;
+    }
+  }
+
+  return { visualsImported, visualsUpdated, visualIds };
+}
+
+async function seedPassages(projectRoot: string, visualIds: Set<string>) {
   const passagesDir = path.join(projectRoot, "..", "Verbal", "questions", "Question_word_passages");
   const files = await fs.readdir(passagesDir);
   const jsonFiles = files
@@ -149,6 +203,14 @@ async function seedPassages(projectRoot: string) {
 
     const asQ = qPassageFileSchema.safeParse(parsed);
     const normalized = asQ.success ? normalizeQPassageFile(asQ.data) : passageSetSchema.parse(parsed);
+
+    const missingVisualIds = normalized.questions
+      .map((question) => question.visualId)
+      .filter((id): id is string => !!id && !visualIds.has(id));
+
+    if (missingVisualIds.length > 0) {
+      throw new Error(`Missing visual(s) for ${fileName}: ${missingVisualIds.join(", ")}`);
+    }
 
     const log = await prisma.passageImportLog.findUnique({ where: { filename: fileName } });
     if (log?.checksum === checksum) {
@@ -187,9 +249,15 @@ async function main() {
   const projectRoot = process.cwd();
 
   const wordSummary = await seedWordsAndBlanks(projectRoot);
-  const passageSummary = await seedPassages(projectRoot);
+  const visualSummary = await seedPassageVisuals(projectRoot);
+  const passageSummary = await seedPassages(projectRoot, visualSummary.visualIds);
 
-  console.log({ ...wordSummary, ...passageSummary });
+  console.log({
+    ...wordSummary,
+    visualsImported: visualSummary.visualsImported,
+    visualsUpdated: visualSummary.visualsUpdated,
+    ...passageSummary,
+  });
 }
 
 main()

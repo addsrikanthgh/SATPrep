@@ -10,6 +10,7 @@ const choicesSchema = z.object({
 const passageQuestionSchema = z.object({
   questionId: z.string().min(1),
   questionType: z.string().min(1),
+  visualId: z.string().min(1).nullable().optional(),
   question: z.string().min(1),
   choices: choicesSchema,
   correctAnswer: z.enum(["A", "B", "C", "D"]),
@@ -33,11 +34,19 @@ export const qPassageFileSchema = z.object({
   domain: z.string().min(1),
   skill: z.string().min(1),
   difficulty: z.string().min(1),
+  visual_id: z.string().min(1).nullable().optional(),
   passage: z.string().min(1),
   question: z.string().min(1),
   choices: choicesSchema,
   correct_answer: z.enum(["A", "B", "C", "D"]),
   explanation: z.string().min(1),
+});
+
+export const passageVisualSchema = z.object({
+  visual_id: z.string().regex(/^qb_\d+$/i),
+  type: z.enum(["table", "chart"]),
+  data: z.record(z.string(), z.unknown()),
+  spec: z.record(z.string(), z.unknown()),
 });
 
 export const uploadPayloadSchema = z.union([
@@ -47,3 +56,4 @@ export const uploadPayloadSchema = z.union([
 
 export type PassageSetInput = z.infer<typeof passageSetSchema>;
 export type QPassageFileInput = z.infer<typeof qPassageFileSchema>;
+export type PassageVisualInput = z.infer<typeof passageVisualSchema>;

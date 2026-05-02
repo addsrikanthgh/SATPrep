@@ -38,6 +38,7 @@ export async function upsertPassageSet(prisma: PrismaClient, input: PassageSetIn
         questionId: question.questionId,
         questionType: question.questionType,
         questionText: question.question,
+        visualId: question.visualId ?? null,
         choiceA: question.choices.A,
         choiceB: question.choices.B,
         choiceC: question.choices.C,
@@ -73,6 +74,7 @@ export function normalizeQPassageFile(input: QPassageFileInput): PassageSetInput
       {
         questionId: `${input.id}_q1`,
         questionType: input.skill,
+        visualId: input.visual_id ?? null,
         question: input.question,
         choices: input.choices,
         correctAnswer: input.correct_answer,

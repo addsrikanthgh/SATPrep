@@ -1,11 +1,14 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { PassageVisual } from "@/components/passage-visual";
+import type { PassageVisual as PassageVisualType } from "@/components/passage-visual";
 
 type PassageQuestion = {
   questionId: string;
   questionType: string;
   questionText: string;
+  visualId: string | null;
   choiceA: string;
   choiceB: string;
   choiceC: string;
@@ -87,6 +90,8 @@ export function PassagePreviewSection({ adminPassword }: Props) {
   const [selectedPassage, setSelectedPassage] = useState<PassageRow | null>(null);
   const [selectedQuestion, setSelectedQuestion] = useState<PassageQuestion | null>(null);
   const [revealedAnswer, setRevealedAnswer] = useState<string | null>(null);
+  const [visual, setVisual] = useState<PassageVisualType | null>(null);
+  const [visualError, setVisualError] = useState<string | null>(null);
 
   const debounceRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
@@ -128,13 +133,19 @@ export function PassagePreviewSection({ adminPassword }: Props) {
     };
   }, [adminPassword]);
 
+  const availableDomains = filterOptions?.domains ?? [];
+  const availableSkills = domain
+    ? (filterOptions?.skillsByDomain[domain] ?? [])
+    : Array.from(new Set(Object.values(filterOptions?.skillsByDomain ?? {}).flat())).sort();
+  const effectiveSkill = skill && availableSkills.includes(skill) ? skill : "";
+
   const fetchPassages = useCallback(async () => {
     setLoading(true);
     setError(null);
     try {
       const params = new URLSearchParams({ page: String(page) });
       if (domain) params.set("domain", domain);
-      if (skill) params.set("skill", skill);
+      if (effectiveSkill) params.set("skill", effectiveSkill);
       if (difficulty) params.set("difficulty", difficulty);
       if (debouncedSearch) params.set("search", debouncedSearch);
 
@@ -153,37 +164,69 @@ export function PassagePreviewSection({ adminPassword }: Props) {
     } finally {
       setLoading(false);
     }
-  }, [adminPassword, domain, skill, difficulty, debouncedSearch, page]);
+  }, [adminPassword, domain, effectiveSkill, difficulty, debouncedSearch, page]);
 
   useEffect(() => {
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     void fetchPassages();
   }, [fetchPassages]);
 
-  // Reset page when filters change
   useEffect(() => {
-    setPage(1);
-  }, [domain, skill, difficulty, debouncedSearch]);
+    let cancelled = false;
 
-  const availableDomains = filterOptions?.domains ?? [];
-  const availableSkills = domain
-    ? (filterOptions?.skillsByDomain[domain] ?? [])
-    : Array.from(new Set(Object.values(filterOptions?.skillsByDomain ?? {}).flat())).sort();
+    async function fetchVisual() {
+      if (!selectedQuestion?.visualId) {
+        setVisual(null);
+        setVisualError(null);
+        return;
+      }
 
-  useEffect(() => {
-    if (skill && !availableSkills.includes(skill)) {
-      setSkill("");
+      try {
+        setVisualError(null);
+        const res = await fetch(`/api/admin/passages/visuals/${encodeURIComponent(selectedQuestion.visualId)}`, {
+          headers: { "x-admin-passcode": adminPassword },
+        });
+
+        const payload = (await res.json()) as PassageVisualType | { error?: string };
+        if (!res.ok) {
+          if (!cancelled) {
+            setVisual(null);
+            setVisualError((payload as { error?: string }).error ?? "Unable to load visual.");
+          }
+          return;
+        }
+
+        if (!cancelled) {
+          setVisual(payload as PassageVisualType);
+        }
+      } catch {
+        if (!cancelled) {
+          setVisual(null);
+          setVisualError("Unable to load visual.");
+        }
+      }
     }
-  }, [availableSkills, skill]);
+
+    void fetchVisual();
+
+    return () => {
+      cancelled = true;
+    };
+  }, [adminPassword, selectedQuestion?.visualId]);
 
   function selectPassage(row: PassageRow) {
     setSelectedPassage(row);
     setSelectedQuestion(row.questions[0] ?? null);
     setRevealedAnswer(null);
+    setVisual(null);
+    setVisualError(null);
   }
 
   function selectQuestion(q: PassageQuestion) {
     setSelectedQuestion(q);
     setRevealedAnswer(null);
+    setVisual(null);
+    setVisualError(null);
   }
 
   const totalPages = result ? Math.ceil(result.total / result.pageSize) : 1;
@@ -201,12 +244,19 @@ export function PassagePreviewSection({ adminPassword }: Props) {
           type="search"
           placeholder="Search by ID or text…"
           value={search}
-          onChange={(e) => setSearch(e.target.value)}
+          onChange={(e) => {
+            setSearch(e.target.value);
+            setPage(1);
+          }}
           className="col-span-1 rounded-md border border-slate-300 px-3 py-2 text-sm text-slate-900 outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500 lg:col-span-2"
         />
         <select
           value={domain}
-          onChange={(e) => setDomain(e.target.value)}
+          onChange={(e) => {
+            setDomain(e.target.value);
+            setSkill("");
+            setPage(1);
+          }}
           className="rounded-md border border-slate-300 px-3 py-2 text-sm text-slate-700 outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500"
         >
           <option value="">All domains</option>
@@ -215,8 +265,11 @@ export function PassagePreviewSection({ adminPassword }: Props) {
           ))}
         </select>
         <select
-          value={skill}
-          onChange={(e) => setSkill(e.target.value)}
+          value={effectiveSkill}
+          onChange={(e) => {
+            setSkill(e.target.value);
+            setPage(1);
+          }}
           className="rounded-md border border-slate-300 px-3 py-2 text-sm capitalize text-slate-700 outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500"
         >
           <option value="">All skills</option>
@@ -226,7 +279,10 @@ export function PassagePreviewSection({ adminPassword }: Props) {
         </select>
         <select
           value={difficulty}
-          onChange={(e) => setDifficulty(e.target.value)}
+          onChange={(e) => {
+            setDifficulty(e.target.value);
+            setPage(1);
+          }}
           className="rounded-md border border-slate-300 px-3 py-2 text-sm text-slate-700 outline-none focus:border-violet-500 focus:ring-1 focus:ring-violet-500"
         >
           <option value="">All difficulties</option>
@@ -349,6 +405,17 @@ export function PassagePreviewSection({ adminPassword }: Props) {
             {/* Question preview */}
             {selectedQuestion ? (
               <div>
+                {visual ? <PassageVisual visual={visual} /> : null}
+                {!visual && selectedQuestion.visualId ? (
+                  <div className="mb-3 rounded-xl border border-slate-200 bg-slate-50 px-4 py-2 text-xs text-slate-400 italic">
+                    Loading visual ({selectedQuestion.visualId})…
+                  </div>
+                ) : null}
+                {visualError ? (
+                  <div className="mb-3 rounded-xl border border-amber-200 bg-amber-50 px-4 py-3 text-sm text-amber-800">
+                    {visualError}
+                  </div>
+                ) : null}
                 <h3 className="text-sm font-semibold text-slate-900">{selectedQuestion.questionText}</h3>
 
                 <div className="mt-3 grid gap-2">

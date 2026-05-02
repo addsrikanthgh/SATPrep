@@ -35,6 +35,18 @@ export async function getNextPassageQuestionForSession(options: NextPassageOptio
     },
     include: {
       questions: {
+        select: {
+          questionId: true,
+          questionType: true,
+          questionText: true,
+          choiceA: true,
+          choiceB: true,
+          choiceC: true,
+          choiceD: true,
+          correctAnswer: true,
+          explanation: true,
+          visualId: true,
+        },
         orderBy: { questionId: "asc" },
         take: 1,
       },

@@ -1,0 +1,17 @@
+{
+  "id": "q_1663",
+  "visual_id": "qb_1663",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A district literacy coordinator is selecting one reading program to expand next year. The coordinator wants to prioritize the program that produced the strongest benchmark performance while also relying on a similarly sized student sample.",
+  "question": "Which choice best identifies the program most supported by the table for expansion under the coordinator's criteria?",
+  "choices": {
+    "A": "Program A, because it sampled at least 120 students and had the second-highest benchmark rate.",
+    "B": "Program B, because it has the highest benchmark rate and a sample size comparable to the other programs.",
+    "C": "Program C, because it sampled the most students regardless of benchmark performance.",
+    "D": "Program D, because its lower benchmark rate suggests more room for future growth."
+  },
+  "correct_answer": "B",
+  "explanation": "Program B has the highest percentage of students meeting the growth benchmark (69%), and its sample size (118) is in the same range as the others. That most directly matches the coordinator's stated criteria."
+}

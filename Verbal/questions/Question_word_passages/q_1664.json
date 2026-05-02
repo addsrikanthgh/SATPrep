@@ -1,0 +1,17 @@
+{
+  "id": "q_1664",
+  "visual_id": "qb_1664",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "An academic support team proposes expanding tutoring and structured note-review sessions. Team members claim that students using these supports score higher, on average, than students who do not use them.",
+  "question": "Which choice is best supported by the chart?",
+  "choices": {
+    "A": "Students who attended tutoring scored higher than students with no tutoring, and students who reviewed notes scored higher than those who did not.",
+    "B": "Only tutoring appears related to higher scores; note review appears unrelated.",
+    "C": "Students who did not review notes scored higher than those who did, but tutoring still helped.",
+    "D": "The highest-scoring group was students with no tutoring, indicating tutoring was ineffective."
+  },
+  "correct_answer": "A",
+  "explanation": "The chart shows 79 vs 71 for tutoring/no tutoring and 74 vs 68 for review/no review. In both comparisons, the support condition is associated with a higher average score, supporting choice A."
+}

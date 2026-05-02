@@ -355,6 +355,8 @@ export function DataManagementClient() {
         updated?: number;
         skipped?: number;
         failed?: number;
+        visualsImported?: number;
+        visualsUpdated?: number;
         error?: string;
         errors?: ImportError[];
       };
@@ -369,7 +371,7 @@ export function DataManagementClient() {
 
       setPassagesImportStatus({
         type: "success",
-        message: `Passage import complete. Imported: ${payload.imported ?? 0}, Updated: ${payload.updated ?? 0}, Skipped: ${payload.skipped ?? 0}, Failed: ${payload.failed ?? 0}.`,
+        message: `Passage import complete. Visuals: ${(payload.visualsImported ?? 0) + (payload.visualsUpdated ?? 0)} (${payload.visualsImported ?? 0} new, ${payload.visualsUpdated ?? 0} updated). Passages: ${payload.imported ?? 0} new, ${payload.updated ?? 0} updated, ${payload.skipped ?? 0} skipped, ${payload.failed ?? 0} failed.`,
       });
       if (payload.errors && payload.errors.length > 0) {
         setPassageImportErrors(payload.errors);

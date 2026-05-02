@@ -1,0 +1,21 @@
+{
+  "visual_id": "qb_1662",
+  "type": "chart",
+  "data": {
+    "values": [
+      {"month": "January", "attendance_rate": 78},
+      {"month": "February", "attendance_rate": 81},
+      {"month": "March", "attendance_rate": 84},
+      {"month": "April", "attendance_rate": 88},
+      {"month": "May", "attendance_rate": 87}
+    ]
+  },
+  "spec": {
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "mark": {"type": "line", "point": true},
+    "encoding": {
+      "x": {"field": "month", "type": "ordinal", "title": "Month"},
+      "y": {"field": "attendance_rate", "type": "quantitative", "title": "Attendance Rate (%)", "scale": {"domain": [70, 95]}}
+    }
+  }
+}

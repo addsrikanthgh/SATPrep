@@ -1,0 +1,17 @@
+{
+  "id": "q_1662",
+  "visual_id": "qb_1662",
+  "domain": "Information and Ideas",
+  "skill": "command of evidence (quantitative)",
+  "difficulty": "medium",
+  "passage": "A school principal argues that a new attendance outreach plan was effective in the spring semester. In support of this claim, the principal points to monthly attendance data collected from January through May and notes that one month was slightly lower than the month before.",
+  "question": "Based on the chart, which statement best supports the principal's claim?",
+  "choices": {
+    "A": "Attendance increased in every month shown, so the outreach plan had no setbacks.",
+    "B": "Attendance rose substantially overall from January to May, even though it dipped slightly from April to May.",
+    "C": "Attendance remained below 80% in most months, suggesting the plan did not affect attendance.",
+    "D": "Attendance peaked in March and then declined for two consecutive months."
+  },
+  "correct_answer": "B",
+  "explanation": "The chart shows attendance rising from 78% in January to 87% in May, with a small decline only from April (88%) to May (87%). This pattern supports the claim of overall improvement while acknowledging a minor dip, which is exactly what choice B states."
+}

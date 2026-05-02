@@ -53,6 +53,7 @@ export async function GET(request: NextRequest) {
       difficulty: next.passageSet.difficulty,
       questionId: next.question.questionId,
       questionType: next.question.questionType,
+      visualId: next.question.visualId,
       question: next.question.questionText,
       choices: {
         A: next.question.choiceA,

@@ -1,0 +1,25 @@
+{
+  "schema_name": "passage_visual",
+  "version": 1,
+  "required_fields": [
+    "visual_id",
+    "type",
+    "data",
+    "spec"
+  ],
+  "rules": {
+    "visual_id_format": "qb_####",
+    "type_values": [
+      "table",
+      "chart"
+    ],
+    "table": {
+      "data": "Use structured tabular data such as columns/rows or values.",
+      "spec": "May contain presentation metadata and remains an object."
+    },
+    "chart": {
+      "data": "Provide chart dataset in data.values or other Vega-Lite compatible data payload.",
+      "spec": "Provide a Vega-Lite v5 spec object."
+    }
+  }
+}

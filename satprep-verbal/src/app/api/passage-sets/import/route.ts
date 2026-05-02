@@ -4,7 +4,7 @@ import { createHash, timingSafeEqual } from "node:crypto";
 import { NextResponse } from "next/server";
 import { z } from "zod";
 import { auth } from "@/auth";
-import { qPassageFileSchema } from "@/lib/passage-schema";
+import { passageVisualSchema, qPassageFileSchema } from "@/lib/passage-schema";
 import { normalizeQPassageFile, upsertPassageSet } from "@/lib/passage-service";
 import { prisma } from "@/lib/prisma";
 
@@ -108,6 +108,50 @@ export async function POST(request: Request) {
 
   const projectRoot = process.cwd();
   const passagesDir = path.join(projectRoot, "..", "Verbal", "questions", "Question_word_passages");
+  const visualsDir = path.join(projectRoot, "..", "Verbal", "questions", "Question_word_passages_visuals");
+
+  // ── 1. Pre-import visuals so foreign-key references in passage files resolve ──
+  let visualsImported = 0;
+  let visualsUpdated = 0;
+  const knownVisualIds = new Set<string>();
+
+  try {
+    const visualFiles = (await fs.readdir(visualsDir))
+      .filter((f) => /^qb_\d+\.json$/i.test(f))
+      .sort();
+
+    for (const vFile of visualFiles) {
+      try {
+        const raw = await fs.readFile(path.join(visualsDir, vFile), "utf8");
+        const parsed = passageVisualSchema.safeParse(JSON.parse(raw));
+        if (!parsed.success) continue;
+
+        const v = parsed.data;
+        knownVisualIds.add(v.visual_id);
+
+        const existed = await prisma.passageVisual.findUnique({
+          where: { visualId: v.visual_id },
+          select: { visualId: true },
+        });
+
+        await prisma.passageVisual.upsert({
+          where: { visualId: v.visual_id },
+          update: { type: v.type, data: v.data, spec: v.spec },
+          create: { visualId: v.visual_id, type: v.type, data: v.data, spec: v.spec },
+        });
+
+        if (existed) {
+          visualsUpdated += 1;
+        } else {
+          visualsImported += 1;
+        }
+      } catch {
+        // Skip unreadable/invalid visual files — passage import continues.
+      }
+    }
+  } catch {
+    // Visuals directory missing or unreadable — proceed without visuals.
+  }
 
   let files: string[] = [];
   try {
@@ -193,6 +237,8 @@ export async function POST(request: Request) {
     success: true,
     sourceFolder: passagesDir,
     totalFiles: files.length,
+    visualsImported,
+    visualsUpdated,
     imported,
     updated,
     skipped,
