@@ -107,7 +107,8 @@ export function PassageVisual({ visual }: Props) {
           data: visual.data,
         };
 
-        const result = await embed(container!, specWithData, {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const result = await embed(container!, specWithData as any, {
           actions: false,
           renderer: "svg",
         });
