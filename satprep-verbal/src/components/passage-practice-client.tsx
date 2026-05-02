@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import { SurfaceCard } from "@/components/ui/surface-card";
 import { PassageVisual } from "@/components/passage-visual";
-import type { PassageVisual as PassageVisualType } from "@/components/passage-visual";
+import type { PassageVisualData as PassageVisualType } from "@/components/passage-visual";
 
 type PassageQuizSession = {
   id: number;

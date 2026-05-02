@@ -2,7 +2,7 @@
 
 import { useCallback, useEffect, useRef, useState } from "react";
 import { PassageVisual } from "@/components/passage-visual";
-import type { PassageVisual as PassageVisualType } from "@/components/passage-visual";
+import type { PassageVisualData as PassageVisualType } from "@/components/passage-visual";
 
 type PassageQuestion = {
   questionId: string;

@@ -2,7 +2,7 @@
 
 import { useEffect, useMemo, useRef, useState } from "react";
 
-type PassageVisual = {
+export type PassageVisualData = {
   visualId: string;
   type: "table" | "chart";
   data: unknown;
@@ -15,7 +15,7 @@ type TableShape = {
 };
 
 type Props = {
-  visual: PassageVisual;
+  visual: PassageVisualData;
 };
 
 function normalizeTableData(data: unknown): TableShape | null {
@@ -180,4 +180,4 @@ export function PassageVisual({ visual }: Props) {
   );
 }
 
-export type { PassageVisual };
+
