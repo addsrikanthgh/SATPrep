@@ -20,20 +20,22 @@ model User {
   id            String          @id @default(cuid())
   name          String?
   email         String?         @unique
-  emailVerified DateTime?
+  emailVerified DateTime?       @map("email_verified")
   image         String?
-  createdAt     DateTime        @default(now())
-  updatedAt     DateTime        @updatedAt
+  createdAt     DateTime        @default(now()) @map("created_at")
+  updatedAt     DateTime        @updatedAt @map("updated_at")
   accounts      Account[]
   sessions      Session[]
+
+  @@map("user")
 }
 
 model Account {
   id                String  @id @default(cuid())
-  userId            String
+  userId            String  @map("user_id")
   type              String
   provider          String
-  providerAccountId String
+  providerAccountId String  @map("provider_account_id")
   refresh_token     String? @db.Text
   access_token      String? @db.Text
   expires_at        Int?
@@ -44,14 +46,17 @@ model Account {
   user              User    @relation(fields: [userId], references: [id], onDelete: Cascade)
 
   @@unique([provider, providerAccountId])
+  @@map("account")
 }
 
 model Session {
   id           String   @id @default(cuid())
-  sessionToken String   @unique
-  userId       String
+  sessionToken String   @unique @map("session_token")
+  userId       String   @map("user_id")
   expires      DateTime
   user         User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("session")
 }
 
 model VerificationToken {
@@ -60,6 +65,7 @@ model VerificationToken {
   expires    DateTime
 
   @@unique([identifier, token])
+  @@map("verification_token")
 }
 
 // ── App models ───────────────────────────────────────────────────────────────
@@ -67,27 +73,29 @@ model VerificationToken {
 model Word {
   id             Int                 @id @default(autoincrement())
   word           String              @unique
-  partOfSpeech   String
+  partOfSpeech   String              @map("part_of_speech")
   synonym        String
   sentence_1     String              @map("sentence")
   sentence_2     String?
   sentence_3     String?
   sentence_4     String?
   sentence_5     String?
-  alphabetLetter String
-  alphabetOrder  Int
-  createdAt      DateTime            @default(now())
-  updatedAt      DateTime            @updatedAt
+  alphabetLetter String              @map("alphabet_letter")
+  alphabetOrder  Int                 @map("alphabet_order")
+  createdAt      DateTime            @default(now()) @map("created_at")
+  updatedAt      DateTime            @updatedAt @map("updated_at")
   blankQuestions BlankSentenceQuestion[]
   progress       StudentProgress[]
   quizAnswers    QuizAnswer[]
+
+  @@map("word")
 }
 
 model BlankSentenceQuestion {
   id              Int      @id @default(autoincrement())
-  wordId          Int
+  wordId          Int      @map("word_id")
   sentence        String
-  blankSentence   String
+  blankSentence   String   @map("blank_sentence")
   sentence_2      String?
   blankSentence_2 String?
   sentence_3      String?
@@ -96,11 +104,12 @@ model BlankSentenceQuestion {
   blankSentence_4 String?
   sentence_5      String?
   blankSentence_5 String?
-  createdAt       DateTime @default(now())
-  updatedAt       DateTime @updatedAt
+  createdAt       DateTime @default(now()) @map("created_at")
+  updatedAt       DateTime @updatedAt @map("updated_at")
   word            Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
 
   @@unique([wordId])
+  @@map("blank_sentence_question")
 }
 
 model PassageSet {
@@ -110,163 +119,175 @@ model PassageSet {
   skill       String           @default("Unknown")
   difficulty  String           @default("medium")
   sequence    Int?
-  sourceWords String
+  sourceWords String           @map("source_words")
   passage     String
   version     Int              @default(1)
-  createdAt   DateTime         @default(now())
-  updatedAt   DateTime         @updatedAt
+  createdAt   DateTime         @default(now()) @map("created_at")
+  updatedAt   DateTime         @updatedAt @map("updated_at")
   questions   PassageQuestion[]
   quizAnswers PassageQuizAnswer[]
   readStates  PassageReadState[]
 
   @@index([sequence])
   @@index([domain, skill])
+  @@map("passage_set")
 }
 
 model PassageQuestion {
-  id            Int        @id @default(autoincrement())
-  passageSetId  String
-  questionId    String
-  questionType  String
-  questionText  String
-  visualId      String?
-  choiceA       String
-  choiceB       String
-  choiceC       String
-  choiceD       String
-  correctAnswer String
+  id            Int            @id @default(autoincrement())
+  passageSetId  String         @map("passage_set_id")
+  questionId    String         @map("question_id")
+  questionType  String         @map("question_type")
+  questionText  String         @map("question_text")
+  visualId      String?        @map("visual_id")
+  choiceA       String         @map("choice_a")
+  choiceB       String         @map("choice_b")
+  choiceC       String         @map("choice_c")
+  choiceD       String         @map("choice_d")
+  correctAnswer String         @map("correct_answer")
   explanation   String
-  createdAt     DateTime   @default(now())
-  updatedAt     DateTime   @updatedAt
+  createdAt     DateTime       @default(now()) @map("created_at")
+  updatedAt     DateTime       @updatedAt @map("updated_at")
   passageSet    PassageSet @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
   visual        PassageVisual? @relation(fields: [visualId], references: [visualId], onDelete: SetNull)
 
   @@unique([passageSetId, questionId])
   @@index([visualId])
+  @@map("passage_question")
 }
 
 model PassageVisual {
-  visualId   String           @id
+  visualId   String           @id @map("visual_id")
   type       String
   data       Json
   spec       Json
-  createdAt  DateTime         @default(now())
-  updatedAt  DateTime         @updatedAt
+  createdAt  DateTime         @default(now()) @map("created_at")
+  updatedAt  DateTime         @updatedAt @map("updated_at")
   questions  PassageQuestion[]
+
+  @@map("passage_visual")
 }
 
 model PassageImportLog {
   id        Int      @id @default(autoincrement())
   filename  String   @unique
-  passageId String
+  passageId String   @map("passage_id")
   checksum  String
-  importedAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  importedAt DateTime @default(now()) @map("imported_at")
+  updatedAt DateTime @updatedAt @map("updated_at")
 
   @@index([passageId])
+  @@map("passage_import_log")
 }
 
 model PassageReadState {
   id           Int       @id @default(autoincrement())
-  studentId    String
-  passageSetId String
-  firstReadAt  DateTime  @default(now())
+  studentId    String    @map("student_id")
+  passageSetId String    @map("passage_set_id")
+  firstReadAt  DateTime  @default(now()) @map("first_read_at")
 
   passageSet   PassageSet @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
 
   @@unique([studentId, passageSetId])
   @@index([studentId])
+  @@map("passage_read_state")
 }
 
 model PassageQuizSession {
   id            Int                @id @default(autoincrement())
-  studentId     String             @default("local-default-student")
-  quizNumber    Int
-  quizName      String
-  questionCount Int
-  answeredCount Int                @default(0)
-  correctCount  Int                @default(0)
+  studentId     String             @default("local-default-student") @map("student_id")
+  quizNumber    Int                @map("quiz_number")
+  quizName      String             @map("quiz_name")
+  questionCount Int                @map("question_count")
+  answeredCount Int                @default(0) @map("answered_count")
+  correctCount  Int                @default(0) @map("correct_count")
   status        String             @default("in_progress")
-  filterDomain  String?
-  filterSkill   String?
-  createdAt     DateTime           @default(now())
-  updatedAt     DateTime           @updatedAt
+  filterDomain  String?            @map("filter_domain")
+  filterSkill   String?            @map("filter_skill")
+  createdAt     DateTime           @default(now()) @map("created_at")
+  updatedAt     DateTime           @updatedAt @map("updated_at")
   answers       PassageQuizAnswer[]
 
   @@index([studentId, quizNumber])
+  @@map("passage_quiz_session")
 }
 
 model PassageQuizAnswer {
   id                   Int                @id @default(autoincrement())
-  passageQuizSessionId Int
-  passageSetId         String
-  questionId           String
+  passageQuizSessionId Int                @map("passage_quiz_session_id")
+  passageSetId         String             @map("passage_set_id")
+  questionId           String             @map("question_id")
   domain               String
   skill                String
-  selectedAnswer       String
-  correctAnswer        String
-  isCorrect            Boolean
-  createdAt            DateTime           @default(now())
+  selectedAnswer       String             @map("selected_answer")
+  correctAnswer        String             @map("correct_answer")
+  isCorrect            Boolean            @map("is_correct")
+  createdAt            DateTime           @default(now()) @map("created_at")
   session              PassageQuizSession @relation(fields: [passageQuizSessionId], references: [id], onDelete: Cascade)
   passageSet           PassageSet         @relation(fields: [passageSetId], references: [id], onDelete: Cascade)
 
   @@unique([passageQuizSessionId, passageSetId])
   @@index([passageSetId])
   @@index([domain, skill])
+  @@map("passage_quiz_answer")
 }
 
 model StudentPassageProgress {
   id           Int      @id @default(autoincrement())
-  studentId    String
+  studentId    String   @map("student_id")
   domain       String
   skill        String
-  attemptCount Int      @default(0)
-  correctCount Int      @default(0)
-  updatedAt    DateTime @updatedAt
+  attemptCount Int      @default(0) @map("attempt_count")
+  correctCount Int      @default(0) @map("correct_count")
+  updatedAt    DateTime @updatedAt @map("updated_at")
 
   @@unique([studentId, domain, skill])
   @@index([studentId])
+  @@map("student_passage_progress")
 }
 
 model StudentProgress {
-  id          Int      @id @default(autoincrement())
-  studentId   String   @default("local-default-student")
-  wordId      Int
-  seenCount   Int      @default(0)
-  correctCount Int     @default(0)
-  lastResult  Boolean?
-  updatedAt   DateTime @updatedAt
-  word        Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
+  id           Int      @id @default(autoincrement())
+  studentId    String   @default("local-default-student") @map("student_id")
+  wordId       Int      @map("word_id")
+  seenCount    Int      @default(0) @map("seen_count")
+  correctCount Int      @default(0) @map("correct_count")
+  lastResult   Boolean? @map("last_result")
+  updatedAt    DateTime @updatedAt @map("updated_at")
+  word         Word     @relation(fields: [wordId], references: [id], onDelete: Cascade)
 
   @@unique([studentId, wordId])
+  @@map("student_progress")
 }
 
 model QuizSession {
-  id            Int         @id @default(autoincrement())
-  studentId     String      @default("local-default-student")
-  quizType      String
-  quizNumber    Int
-  quizName      String
-  alphabetLetter String
-  questionCount Int
-  answeredCount Int         @default(0)
-  correctCount  Int         @default(0)
+  id             Int         @id @default(autoincrement())
+  studentId      String      @default("local-default-student") @map("student_id")
+  quizType       String      @map("quiz_type")
+  quizNumber     Int         @map("quiz_number")
+  quizName       String      @map("quiz_name")
+  alphabetLetter String      @map("alphabet_letter")
+  questionCount  Int         @map("question_count")
+  answeredCount  Int         @default(0) @map("answered_count")
+  correctCount   Int         @default(0) @map("correct_count")
   status        String      @default("in_progress")
-  createdAt     DateTime    @default(now())
-  updatedAt     DateTime    @updatedAt
+  createdAt      DateTime    @default(now()) @map("created_at")
+  updatedAt      DateTime    @updatedAt @map("updated_at")
   answers       QuizAnswer[]
 
   @@index([studentId, quizType, quizNumber])
+  @@map("quiz_session")
 }
 
 model QuizAnswer {
   id            Int         @id @default(autoincrement())
-  quizSessionId Int
-  wordId        Int
-  isCorrect     Boolean
-  createdAt     DateTime    @default(now())
+  quizSessionId Int         @map("quiz_session_id")
+  wordId        Int         @map("word_id")
+  isCorrect     Boolean     @map("is_correct")
+  createdAt     DateTime    @default(now()) @map("created_at")
   quizSession   QuizSession @relation(fields: [quizSessionId], references: [id], onDelete: Cascade)
   word          Word        @relation(fields: [wordId], references: [id], onDelete: Cascade)
 
   @@unique([quizSessionId, wordId])
+  @@map("quiz_answer")
 }
