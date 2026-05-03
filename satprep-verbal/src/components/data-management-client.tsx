@@ -22,17 +22,20 @@ export function DataManagementClient() {
   const [wordsImportStatus, setWordsImportStatus] = useState<Status>(null);
   const [blanksImportStatus, setBlanksImportStatus] = useState<Status>(null);
   const [passagesImportStatus, setPassagesImportStatus] = useState<Status>(null);
+  const [cspImportStatus, setCspImportStatus] = useState<Status>(null);
   const [passcodeStatus, setPasscodeStatus] = useState<Status>(null);
   const [importPasscode, setImportPasscode] = useState("");
   const [passcodeVerified, setPasscodeVerified] = useState(false);
   const [stats, setStats] = useState<Stats>(null);
   const [statsLoading, setStatsLoading] = useState(false);
   const [passageImportErrors, setPassageImportErrors] = useState<ImportError[]>([]);
+  const [cspImportErrors, setCspImportErrors] = useState<ImportError[]>([]);
   const [clearing, setClearing] = useState(false);
   const [restoring, setRestoring] = useState(false);
   const [importingWords, setImportingWords] = useState(false);
   const [importingBlanks, setImportingBlanks] = useState(false);
   const [importingPassages, setImportingPassages] = useState(false);
+  const [importingCsp, setImportingCsp] = useState(false);
   const [verifyingPasscode, setVerifyingPasscode] = useState(false);
   const [showClearConfirm, setShowClearConfirm] = useState(false);
   const fileInputRef = useRef<HTMLInputElement>(null);
@@ -384,6 +387,49 @@ export function DataManagementClient() {
     }
   }
 
+  async function handleImportCspFromFolder() {
+    setCspImportStatus(null);
+    setCspImportErrors([]);
+    setImportingCsp(true);
+
+    try {
+      const response = await fetch("/api/csp/import", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ adminPasscode: importPasscode }),
+      });
+
+      const payload = (await response.json()) as {
+        success?: boolean;
+        inserted?: number;
+        updated?: number;
+        failed?: number;
+        error?: string;
+        errors?: ImportError[];
+      };
+
+      if (!response.ok || !payload.success) {
+        setCspImportStatus({
+          type: "error",
+          message: payload.error || "Failed to import AP CSP questions from folder.",
+        });
+        return;
+      }
+
+      setCspImportStatus({
+        type: "success",
+        message: `AP CSP import complete. ${payload.inserted ?? 0} new, ${payload.updated ?? 0} updated, ${payload.failed ?? 0} failed.`,
+      });
+      if (payload.errors && payload.errors.length > 0) {
+        setCspImportErrors(payload.errors);
+      }
+    } catch {
+      setCspImportStatus({ type: "error", message: "An error occurred while importing AP CSP questions." });
+    } finally {
+      setImportingCsp(false);
+    }
+  }
+
   if (!adminUnlocked) {
     return (
       <div className="flex flex-col items-center justify-center gap-3 py-20 text-center">
@@ -614,6 +660,61 @@ export function DataManagementClient() {
                     <tr>
                       <td colSpan={2} className="px-3 py-1.5 text-center text-red-500">
                         …and {passageImportErrors.length - 20} more
+                      </td>
+                    </tr>
+                  ) : null}
+                </tbody>
+              </table>
+            </div>
+          </div>
+        ) : null}
+      </section>
+
+      <section className="rounded-xl border border-amber-300 bg-white p-5 shadow-sm">
+        <h2 className="text-base font-semibold text-slate-900">Admin: Import AP CSP Questions (ap_csp/)</h2>
+        <p className="mt-1 text-sm text-slate-500">
+          Import all AP CSP question files from the <span className="font-mono text-xs">ap_csp/</span> folder
+          incrementally. Each JSON file must contain a <span className="font-mono text-xs">unit</span> string
+          and a <span className="font-mono text-xs">questions</span> array. Existing questions are updated;
+          new questions are inserted.
+        </p>
+        <button
+          type="button"
+          onClick={handleImportCspFromFolder}
+          disabled={importingCsp || !passcodeVerified}
+          className="mt-4 rounded-md border border-amber-300 bg-amber-50 px-4 py-2 text-sm font-medium text-amber-900 hover:bg-amber-100 disabled:opacity-60"
+        >
+          {importingCsp ? "Importing…" : "Import AP CSP Folder"}
+        </button>
+        {cspImportStatus ? (
+          <p className={`mt-2 text-sm ${cspImportStatus.type === "success" ? "text-emerald-700" : "text-red-600"}`}>
+            {cspImportStatus.message}
+          </p>
+        ) : null}
+        {cspImportErrors.length > 0 ? (
+          <div className="mt-3">
+            <p className="text-sm font-medium text-red-700">
+              Failed questions ({cspImportErrors.length}){cspImportErrors.length > 20 ? " — showing first 20" : ""}:
+            </p>
+            <div className="mt-1 max-h-64 overflow-y-auto rounded-md border border-red-200 bg-red-50">
+              <table className="w-full text-xs">
+                <thead>
+                  <tr className="border-b border-red-200 bg-red-100">
+                    <th className="px-3 py-2 text-left font-semibold text-red-800">File</th>
+                    <th className="px-3 py-2 text-left font-semibold text-red-800">Reason</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  {cspImportErrors.slice(0, 20).map((err, i) => (
+                    <tr key={i} className="border-b border-red-100 last:border-0">
+                      <td className="px-3 py-1.5 font-mono text-red-700">{err.file}</td>
+                      <td className="px-3 py-1.5 text-red-600">{err.error}</td>
+                    </tr>
+                  ))}
+                  {cspImportErrors.length > 20 ? (
+                    <tr>
+                      <td colSpan={2} className="px-3 py-1.5 text-center text-red-500">
+                        …and {cspImportErrors.length - 20} more
                       </td>
                     </tr>
                   ) : null}

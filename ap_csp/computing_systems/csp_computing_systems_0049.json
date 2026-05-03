@@ -1,0 +1,16 @@
+{
+  "unit": "computing_systems",
+  "question": {
+    "id": "csp_computing_systems_0049",
+    "stem": "A service suffers traffic flood from many distributed sources What is the main benefit?",
+    "choices": [
+      "Guaranteed zero latency",
+      "No need for protocols",
+      "Scalability and resilience via traffic distribution",
+      "No need for security controls"
+    ],
+    "answer": 2,
+    "explanation": "Load balancing spreads work and improves system robustness. A common wrong choice is \"Guaranteed zero latency\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

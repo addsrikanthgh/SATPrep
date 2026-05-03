@@ -1,0 +1,16 @@
+{
+  "unit": "algorithms_and_programming",
+  "question": {
+    "id": "csp_algorithms_and_programming_0014",
+    "stem": "Consider the AP CSP pseudocode:\n\nvalues <- [3, 6, 1, 9]\nmaxVal <- values[1]\nFOR EACH v IN values\n{\n  IF(v > maxVal)\n  {\n    maxVal <- v\n  }\n}\n\nWhich statement is correct about this code?",
+    "choices": [
+      "It is invalid because AP CSP does not allow loops",
+      "It follows AP CSP pseudocode conventions and can be reasoned about by tracing state changes",
+      "It is invalid because procedures cannot RETURN values",
+      "It automatically sorts all input lists"
+    ],
+    "answer": 1,
+    "explanation": "The snippet uses AP CSP constructs such as FOR EACH, REPEAT UNTIL, IF/ELSE, and PROCEDURE/RETURN where appropriate. A common wrong choice is \"It is invalid because AP CSP does not allow loops\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "easy"
+  }
+}

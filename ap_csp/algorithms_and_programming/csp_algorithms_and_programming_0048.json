@@ -1,0 +1,16 @@
+{
+  "unit": "algorithms_and_programming",
+  "question": {
+    "id": "csp_algorithms_and_programming_0048",
+    "stem": "Which change most improves algorithm correctness confidence?",
+    "choices": [
+      "Only test typical inputs",
+      "Remove conditional checks",
+      "Add boundary and edge-case tests",
+      "Use longer variable names only"
+    ],
+    "answer": 2,
+    "explanation": "Edge-case testing reveals logic defects hidden by average cases. A common wrong choice is \"Only test typical inputs\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

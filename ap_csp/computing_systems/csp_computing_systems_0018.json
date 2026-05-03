@@ -1,0 +1,16 @@
+{
+  "unit": "computing_systems",
+  "question": {
+    "id": "csp_computing_systems_0018",
+    "stem": "A data center introduces multi-region failover Which service is likely malfunctioning?",
+    "choices": [
+      "DNS",
+      "GPU driver",
+      "Spreadsheet parser",
+      "USB controller"
+    ],
+    "answer": 0,
+    "explanation": "Domain-to-IP translation failure indicates DNS issues. A common wrong choice is \"GPU driver\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

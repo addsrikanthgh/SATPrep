@@ -1,0 +1,16 @@
+{
+  "unit": "creative_development",
+  "question": {
+    "id": "csp_creative_development_0047",
+    "stem": "A local transit youth program is improving a route alert mockup and must divide work among members with different strengths. Which plan best supports efficient development?",
+    "choices": [
+      "Assign modules by expertise and define integration checkpoints",
+      "Have everyone edit every file simultaneously",
+      "Delay integration until final day",
+      "Avoid role assignments"
+    ],
+    "answer": 0,
+    "explanation": "Role-based decomposition with integration milestones improves team productivity. A common wrong choice is \"Have everyone edit every file simultaneously\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

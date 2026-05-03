@@ -1,0 +1,16 @@
+{
+  "unit": "impact_of_computing",
+  "question": {
+    "id": "csp_impact_of_computing_0012",
+    "stem": "A social platform introduces personalized ranking for news feeds Which policy best supports privacy by design?",
+    "choices": [
+      "Collect everything indefinitely",
+      "Disable consent notices",
+      "Data minimization with clear purpose and retention limits",
+      "Share raw logs broadly"
+    ],
+    "answer": 2,
+    "explanation": "Privacy by design emphasizes collecting only necessary data with bounded retention. A common wrong choice is \"Collect everything indefinitely\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "easy"
+  }
+}

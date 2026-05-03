@@ -23,6 +23,7 @@ type TopNavItem = {
 const topNavItems: TopNavItem[] = [
   { href: "/", label: "Home" },
   { href: "/practice/meaning", label: "Verbal" },
+  { href: "/practice/ap-csp", label: "AP CSP" },
   { href: "/practice/passages", label: "Practice" },
   { href: "/practice/progress", label: "Progress" },
   { href: "/practice/data-management", label: "Data" },

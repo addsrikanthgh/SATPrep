@@ -1,0 +1,16 @@
+{
+  "unit": "impact_of_computing",
+  "question": {
+    "id": "csp_impact_of_computing_0043",
+    "stem": "A health insurer expands wearable-data based pricing models What is a major trade-off to evaluate?",
+    "choices": [
+      "Security benefit versus user burden and access barriers",
+      "Font choice versus battery color",
+      "Cable length versus icon shape",
+      "Spreadsheet tab order versus logo style"
+    ],
+    "answer": 0,
+    "explanation": "Security controls can improve protection while also affecting accessibility and usability. A common wrong choice is \"Font choice versus battery color\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

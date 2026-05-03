@@ -1,0 +1,16 @@
+{
+  "unit": "impact_of_computing",
+  "question": {
+    "id": "csp_impact_of_computing_0011",
+    "stem": "A city agency deploys an automated eligibility classifier Which concern is most central to responsible deployment?",
+    "choices": [
+      "Screen resolution selection",
+      "Fairness and disparate impact evaluation",
+      "Packet size optimization only",
+      "File naming consistency only"
+    ],
+    "answer": 1,
+    "explanation": "Automated decision systems require fairness checks across affected groups. A common wrong choice is \"Screen resolution selection\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "easy"
+  }
+}

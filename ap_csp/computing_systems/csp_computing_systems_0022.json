@@ -1,0 +1,16 @@
+{
+  "unit": "computing_systems",
+  "question": {
+    "id": "csp_computing_systems_0022",
+    "stem": "A telehealth provider sees buffering despite high throughput What most directly explains poor interactive performance?",
+    "choices": [
+      "Low monitor brightness",
+      "High latency",
+      "Large local storage",
+      "Integer overflow"
+    ],
+    "answer": 1,
+    "explanation": "Interactive systems are highly sensitive to delay, not only throughput. A common wrong choice is \"Low monitor brightness\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

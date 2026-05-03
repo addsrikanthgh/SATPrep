@@ -1,0 +1,16 @@
+{
+  "unit": "data",
+  "question": {
+    "id": "csp_data_0016",
+    "stem": "A city health department publishes weekly trend dashboards and needs exact restoration of original files later. Which method is most appropriate?",
+    "choices": [
+      "Lossy compression",
+      "No encoding",
+      "Random sampling",
+      "Lossless compression"
+    ],
+    "answer": 3,
+    "explanation": "Lossless methods preserve complete information for exact reconstruction. A common wrong choice is \"Lossy compression\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

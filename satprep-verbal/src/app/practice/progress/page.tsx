@@ -1,15 +1,15 @@
 import { AppShell } from "@/components/app-shell";
-import { ProgressClient } from "@/components/progress-client";
+import { PerformanceClient } from "@/components/performance-client";
 
 export default function ProgressPage() {
   return (
     <AppShell
-      eyebrow="SAT Verbal Performance"
-      title="Quiz Scores and Progress"
-      subtitle="Review recent quizzes, score trends, and weak-word performance in one dashboard."
+      eyebrow="Performance"
+      title="Verbal and AP CSP Performance"
+      subtitle="Switch between Verbal and AP CSP dashboards to review sessions, accuracy, and weak areas."
       maxWidthClassName="max-w-6xl"
     >
-      <ProgressClient />
+      <PerformanceClient />
     </AppShell>
   );
 }

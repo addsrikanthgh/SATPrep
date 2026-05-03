@@ -1,0 +1,16 @@
+{
+  "unit": "data",
+  "question": {
+    "id": "csp_data_0034",
+    "stem": "A university research group shares anonymized participant data and two systems interpret the same numeric code differently. What is the best prevention?",
+    "choices": [
+      "Increase file size limits",
+      "Sort records before export",
+      "Convert all fields to free text",
+      "Use a shared data dictionary and schema validation"
+    ],
+    "answer": 3,
+    "explanation": "Shared semantics and validation prevent representation mismatches. A common wrong choice is \"Increase file size limits\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

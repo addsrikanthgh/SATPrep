@@ -1,0 +1,16 @@
+{
+  "unit": "creative_development",
+  "question": {
+    "id": "csp_creative_development_0021",
+    "stem": "A student team is building a campus event reminder app and two teammates changed the same feature in incompatible ways. Which collaboration practice most directly reduces this risk?",
+    "choices": [
+      "Use shared version control with clear commit messages",
+      "Let each teammate keep private copies only",
+      "Avoid documenting changes",
+      "Merge files only on presentation day"
+    ],
+    "answer": 0,
+    "explanation": "Version control and clear history support coordinated collaboration. A common wrong choice is \"Let each teammate keep private copies only\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

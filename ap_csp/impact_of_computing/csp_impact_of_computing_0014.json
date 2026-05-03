@@ -1,0 +1,16 @@
+{
+  "unit": "impact_of_computing",
+  "question": {
+    "id": "csp_impact_of_computing_0014",
+    "stem": "A school district adopts remote proctoring tools Which action most improves accountability?",
+    "choices": [
+      "Provide appeal and human review pathways for contested decisions",
+      "Hide model outputs from all stakeholders",
+      "Remove audit logs",
+      "Prevent users from reporting errors"
+    ],
+    "answer": 0,
+    "explanation": "Appeals and review processes are key governance mechanisms for high-impact decisions. A common wrong choice is \"Hide model outputs from all stakeholders\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "easy"
+  }
+}

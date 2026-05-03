@@ -1,0 +1,16 @@
+{
+  "unit": "algorithms_and_programming",
+  "question": {
+    "id": "csp_algorithms_and_programming_0047",
+    "stem": "An algorithm meant to process every list element starts at index 2. What issue is most likely?",
+    "choices": [
+      "The list becomes sorted",
+      "The first element is skipped",
+      "The loop runs forever automatically",
+      "The data type changes to string"
+    ],
+    "answer": 1,
+    "explanation": "Starting at the wrong index can omit intended elements. A common wrong choice is \"The list becomes sorted\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

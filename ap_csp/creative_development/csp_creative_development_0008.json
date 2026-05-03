@@ -1,0 +1,16 @@
+{
+  "unit": "creative_development",
+  "question": {
+    "id": "csp_creative_development_0008",
+    "stem": "A museum education team is creating an interactive exhibit planner and finds a bug that only appears with empty input. What is the best next testing action?",
+    "choices": [
+      "Test only average cases",
+      "Add boundary test cases including empty and minimum inputs",
+      "Remove validation checks",
+      "Assume users will not submit empty input"
+    ],
+    "answer": 1,
+    "explanation": "Boundary-focused testing catches edge-case failures early. A common wrong choice is \"Test only average cases\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "easy"
+  }
+}

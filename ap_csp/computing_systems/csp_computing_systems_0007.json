@@ -1,0 +1,16 @@
+{
+  "unit": "computing_systems",
+  "question": {
+    "id": "csp_computing_systems_0007",
+    "stem": "A mobile app retries network requests after timeout What most directly explains poor interactive performance?",
+    "choices": [
+      "High latency",
+      "Low monitor brightness",
+      "Large local storage",
+      "Integer overflow"
+    ],
+    "answer": 0,
+    "explanation": "Interactive systems are highly sensitive to delay, not only throughput. A common wrong choice is \"Low monitor brightness\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "easy"
+  }
+}

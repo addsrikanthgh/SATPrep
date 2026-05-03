@@ -1,0 +1,16 @@
+{
+  "unit": "creative_development",
+  "question": {
+    "id": "csp_creative_development_0025",
+    "stem": "A school media team is updating a content scheduler and wants to compare two interface designs objectively. Which approach is strongest?",
+    "choices": [
+      "Define measurable criteria and run user tests on both designs",
+      "Choose the design with more colors",
+      "Pick whichever design was coded first",
+      "Use only developer opinions"
+    ],
+    "answer": 0,
+    "explanation": "Measured evaluation supports evidence-based design decisions. A common wrong choice is \"Choose the design with more colors\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unit": "impact_of_computing",
+  "question": {
+    "id": "csp_impact_of_computing_0016",
+    "stem": "A bank enables multi-factor authentication for customer accounts Which concern is most central to responsible deployment?",
+    "choices": [
+      "Screen resolution selection",
+      "Packet size optimization only",
+      "Fairness and disparate impact evaluation",
+      "File naming consistency only"
+    ],
+    "answer": 2,
+    "explanation": "Automated decision systems require fairness checks across affected groups. A common wrong choice is \"Screen resolution selection\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

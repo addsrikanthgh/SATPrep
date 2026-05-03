@@ -1,0 +1,16 @@
+{
+  "unit": "algorithms_and_programming",
+  "question": {
+    "id": "csp_algorithms_and_programming_0013",
+    "stem": "Consider the AP CSP pseudocode:\n\nPROCEDURE score(a, b)\n{\n  IF(a > b)\n  {\n    RETURN a - b\n  }\n  ELSE\n  {\n    RETURN b - a\n  }\n}\n\nWhich statement is correct about this code?",
+    "choices": [
+      "It follows AP CSP pseudocode conventions and can be reasoned about by tracing state changes",
+      "It is invalid because AP CSP does not allow loops",
+      "It is invalid because procedures cannot RETURN values",
+      "It automatically sorts all input lists"
+    ],
+    "answer": 0,
+    "explanation": "The snippet uses AP CSP constructs such as FOR EACH, REPEAT UNTIL, IF/ELSE, and PROCEDURE/RETURN where appropriate. A common wrong choice is \"It is invalid because AP CSP does not allow loops\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "easy"
+  }
+}

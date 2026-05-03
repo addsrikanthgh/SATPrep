@@ -1,0 +1,16 @@
+{
+  "unit": "data",
+  "question": {
+    "id": "csp_data_0027",
+    "stem": "A finance app rounds currency values for reports and notices decimal totals differ slightly across systems. Which cause is most likely?",
+    "choices": [
+      "All decimal values are stored exactly in binary",
+      "Metadata fields change arithmetic rules",
+      "Compression always changes numeric totals",
+      "Binary floating-point representation can approximate some decimals"
+    ],
+    "answer": 3,
+    "explanation": "Some decimal fractions cannot be represented exactly in binary floating-point. A common wrong choice is \"All decimal values are stored exactly in binary\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

@@ -26,6 +26,7 @@ model User {
   updatedAt     DateTime        @updatedAt @map("updated_at")
   accounts      Account[]
   sessions      Session[]
+  cspQuizSessions CspQuizSession[]
 
   @@map("user")
 }
@@ -290,4 +291,54 @@ model QuizAnswer {
 
   @@unique([quizSessionId, wordId])
   @@map("quiz_answer")
+}
+
+model CspQuestion {
+  id                 String               @id
+  unit               String
+  stem               String
+  choices            Json
+  correctAnswerIndex Int                  @map("correct_answer_index")
+  explanation        String
+  difficulty         String?
+  createdAt          DateTime             @default(now()) @map("created_at")
+  updatedAt          DateTime             @updatedAt @map("updated_at")
+  attempts           CspQuestionAttempt[]
+
+  @@index([unit])
+  @@map("csp_question")
+}
+
+model CspQuizSession {
+  id                Int                  @id @default(autoincrement())
+  userId            String               @map("user_id")
+  startedAt         DateTime             @default(now()) @map("started_at")
+  completedAt       DateTime?            @map("completed_at")
+  score             Int                  @default(0)
+  totalQuestions    Int                  @map("total_questions")
+  unitFilter        String?              @map("unit_filter")
+  immediateFeedback Boolean              @default(true) @map("immediate_feedback")
+  timeLimitSeconds  Int?                 @map("time_limit_seconds")
+  createdAt         DateTime             @default(now()) @map("created_at")
+  updatedAt         DateTime             @updatedAt @map("updated_at")
+  user              User                 @relation(fields: [userId], references: [id], onDelete: Cascade)
+  attempts          CspQuestionAttempt[]
+
+  @@index([userId, startedAt])
+  @@map("csp_quiz_session")
+}
+
+model CspQuestionAttempt {
+  id             Int            @id @default(autoincrement())
+  sessionId      Int            @map("session_id")
+  questionId     String         @map("question_id")
+  selectedAnswer Int            @map("selected_answer")
+  isCorrect      Boolean        @map("is_correct")
+  answeredAt     DateTime       @default(now()) @map("answered_at")
+  session        CspQuizSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  question       CspQuestion    @relation(fields: [questionId], references: [id], onDelete: Cascade)
+
+  @@unique([sessionId, questionId])
+  @@index([questionId])
+  @@map("csp_question_attempt")
 }

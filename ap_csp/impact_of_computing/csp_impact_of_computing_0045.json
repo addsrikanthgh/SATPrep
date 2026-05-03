@@ -1,0 +1,16 @@
+{
+  "unit": "impact_of_computing",
+  "question": {
+    "id": "csp_impact_of_computing_0045",
+    "stem": "A startup logs fine-grained user behavior for product analytics Which outcome reflects digital divide concerns?",
+    "choices": [
+      "Faster processors in data centers",
+      "Higher camera frame rates",
+      "Communities with limited connectivity cannot access essential online services",
+      "More emojis in chat interfaces"
+    ],
+    "answer": 2,
+    "explanation": "Digital divide refers to unequal access to devices, connectivity, and digital opportunities. A common wrong choice is \"Faster processors in data centers\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unit": "data",
+  "question": {
+    "id": "csp_data_0043",
+    "stem": "A hospital analytics team merges records from multiple systems and wants to lower re-identification risk before release. Which step helps most?",
+    "choices": [
+      "Publish full raw records unchanged",
+      "Remove direct identifiers and aggregate where possible",
+      "Add more precise timestamps",
+      "Keep all fields indefinitely"
+    ],
+    "answer": 1,
+    "explanation": "Minimizing identifying detail reduces privacy exposure in shared datasets. A common wrong choice is \"Publish full raw records unchanged\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unit": "algorithms_and_programming",
+  "question": {
+    "id": "csp_algorithms_and_programming_0034",
+    "stem": "A procedure is used in many parts of an app. Why is this abstraction useful?",
+    "choices": [
+      "It guarantees constant runtime",
+      "It removes need for testing",
+      "It prevents all input errors",
+      "It reduces duplicate logic and centralizes updates"
+    ],
+    "answer": 3,
+    "explanation": "Reusable procedures improve maintainability and consistency. A common wrong choice is \"It guarantees constant runtime\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

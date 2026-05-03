@@ -1,0 +1,16 @@
+{
+  "unit": "creative_development",
+  "question": {
+    "id": "csp_creative_development_0042",
+    "stem": "A robotics club is iterating on a scoring dashboard and must divide work among members with different strengths. Which plan best supports efficient development?",
+    "choices": [
+      "Have everyone edit every file simultaneously",
+      "Delay integration until final day",
+      "Avoid role assignments",
+      "Assign modules by expertise and define integration checkpoints"
+    ],
+    "answer": 3,
+    "explanation": "Role-based decomposition with integration milestones improves team productivity. A common wrong choice is \"Have everyone edit every file simultaneously\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "unit": "creative_development",
+  "question": {
+    "id": "csp_creative_development_0049",
+    "stem": "A city hackathon team is developing a permit-status viewer and receives conflicting feedback from users. Which process best supports iterative improvement?",
+    "choices": [
+      "Freeze features after first prototype",
+      "Ignore user feedback until final release",
+      "Run small tests, collect feedback, revise, and retest",
+      "Only test once at the end"
+    ],
+    "answer": 2,
+    "explanation": "Iterative cycles with testing and revision are central to creative development. A common wrong choice is \"Freeze features after first prototype\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

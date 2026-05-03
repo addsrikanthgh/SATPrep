@@ -1,0 +1,16 @@
+{
+  "unit": "computing_systems",
+  "question": {
+    "id": "csp_computing_systems_0016",
+    "stem": "A team compares HTTP and HTTPS for account logins Which concept best explains continued operation?",
+    "choices": [
+      "Single-threaded execution",
+      "Character encoding normalization",
+      "Fault tolerance through redundant paths",
+      "Lossy compression"
+    ],
+    "answer": 2,
+    "explanation": "Redundancy in distributed networks allows operation despite component failures. A common wrong choice is \"Single-threaded execution\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

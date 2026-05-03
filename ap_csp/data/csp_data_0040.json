@@ -1,0 +1,16 @@
+{
+  "unit": "data",
+  "question": {
+    "id": "csp_data_0040",
+    "stem": "A civic open-data portal standardizes category codes across agencies and stakeholders ask whether a chart supports a policy claim. What should analysts do first?",
+    "choices": [
+      "Choose the chart with the highest values",
+      "Ignore missing data patterns",
+      "Examine sampling method and possible bias in the dataset",
+      "Assume correlation proves causation"
+    ],
+    "answer": 2,
+    "explanation": "Data interpretation quality depends on collection method and bias considerations. A common wrong choice is \"Choose the chart with the highest values\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

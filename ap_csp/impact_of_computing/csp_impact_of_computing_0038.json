@@ -1,0 +1,16 @@
+{
+  "unit": "impact_of_computing",
+  "question": {
+    "id": "csp_impact_of_computing_0038",
+    "stem": "A rural broadband initiative prioritizes low-income regions What is a major trade-off to evaluate?",
+    "choices": [
+      "Font choice versus battery color",
+      "Cable length versus icon shape",
+      "Security benefit versus user burden and access barriers",
+      "Spreadsheet tab order versus logo style"
+    ],
+    "answer": 2,
+    "explanation": "Security controls can improve protection while also affecting accessibility and usability. A common wrong choice is \"Font choice versus battery color\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "medium"
+  }
+}

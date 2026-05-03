@@ -70,6 +70,10 @@ const sections: MenuSection[] = [
     ],
   },
   {
+    title: "AP CSP Prep",
+    items: [{ href: "/practice/ap-csp", label: "AP CSP Quiz", icon: <BookIcon /> }],
+  },
+  {
     title: "Progress",
     items: [{ href: "/practice/progress", label: "Performance", icon: <ChartIcon /> }],
   },

@@ -1,0 +1,16 @@
+{
+  "unit": "computing_systems",
+  "question": {
+    "id": "csp_computing_systems_0045",
+    "stem": "A district deploys edge caching for common media files What user-facing result is most likely?",
+    "choices": [
+      "Automatic encryption of all files",
+      "Fewer IP addresses available",
+      "Lower startup delay for popular content",
+      "No packet switching"
+    ],
+    "answer": 2,
+    "explanation": "Edge caching shortens delivery paths for frequent requests. A common wrong choice is \"Automatic encryption of all files\" because it sounds plausible but does not address the core condition. Takeaway: identify the exact requirement before selecting an approach.",
+    "difficulty": "hard"
+  }
+}

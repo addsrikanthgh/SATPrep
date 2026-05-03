@@ -12,7 +12,8 @@
     "db:migrate:dev": "prisma migrate dev",
     "db:migrate:deploy": "prisma migrate deploy",
     "db:push": "prisma db push",
-    "db:seed": "tsx scripts/seed.ts"
+    "db:seed": "tsx scripts/seed.ts",
+    "csp:import": "tsx scripts/import-ap-csp.ts"
   },
   "dependencies": {
     "@auth/prisma-adapter": "^2.11.2",
