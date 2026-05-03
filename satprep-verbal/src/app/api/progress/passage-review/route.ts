@@ -13,9 +13,18 @@ export async function GET(request: NextRequest) {
   const correctFilter = url.searchParams.get("correct");
   const domainFilter = url.searchParams.get("domain");
   const skillFilter = url.searchParams.get("skill");
+  const passageQuizSessionIdParam = url.searchParams.get("passageQuizSessionId");
+  const passageQuizSessionId = passageQuizSessionIdParam ? Number.parseInt(passageQuizSessionIdParam, 10) : null;
 
   const answers = await prisma.passageQuizAnswer.findMany({
-    where: { session: { studentId } },
+    where: {
+      session: {
+        studentId,
+        ...(Number.isFinite(passageQuizSessionId) && (passageQuizSessionId ?? 0) > 0
+          ? { id: passageQuizSessionId as number }
+          : {}),
+      },
+    },
     select: {
       passageSetId: true,
       questionId: true,

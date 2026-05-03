@@ -9,18 +9,15 @@ export async function DELETE() {
   }
   const studentId = session.user.id;
 
-  // Delete in dependency order: QuizAnswer -> QuizSession -> StudentProgress
-  const sessions = await prisma.quizSession.findMany({
-    where: { studentId },
-    select: { id: true },
-  });
-
-  const sessionIds = sessions.map((s) => s.id);
-
+  // Clear word and passage quiz metadata/progress for the current student.
   await prisma.$transaction([
-    prisma.quizAnswer.deleteMany({ where: { quizSessionId: { in: sessionIds } } }),
+    prisma.quizAnswer.deleteMany({ where: { quizSession: { studentId } } }),
     prisma.quizSession.deleteMany({ where: { studentId } }),
     prisma.studentProgress.deleteMany({ where: { studentId } }),
+    prisma.passageQuizAnswer.deleteMany({ where: { session: { studentId } } }),
+    prisma.passageQuizSession.deleteMany({ where: { studentId } }),
+    prisma.studentPassageProgress.deleteMany({ where: { studentId } }),
+    prisma.passageReadState.deleteMany({ where: { studentId } }),
   ]);
 
   return NextResponse.json({ success: true });

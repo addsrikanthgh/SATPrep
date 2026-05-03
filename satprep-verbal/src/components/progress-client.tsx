@@ -16,6 +16,20 @@ type QuizSessionRow = {
   createdAt: string;
 };
 
+type RecentSessionRow = {
+  id: number;
+  source: "word" | "passage";
+  quizType: string;
+  quizNumber: number;
+  quizName: string;
+  alphabetLetter: string;
+  questionCount: number;
+  answeredCount: number;
+  correctCount: number;
+  status: string;
+  createdAt: string;
+};
+
 type ProgressPayload = {
   summary: {
     totalSessions: number;
@@ -222,12 +236,43 @@ export function ProgressClient() {
   }, [student?.id, adminUnlocked, viewingStudentId, adminPassword]);
 
   const sessions = data?.sessions ?? [];
+  const passageSessions = passageData?.sessions ?? [];
+  const recentSessions: RecentSessionRow[] = [
+    ...sessions.map((session) => ({
+      id: session.id,
+      source: "word" as const,
+      quizType: session.quizType,
+      quizNumber: session.quizNumber,
+      quizName: session.quizName,
+      alphabetLetter: session.alphabetLetter,
+      questionCount: session.questionCount,
+      answeredCount: session.answeredCount,
+      correctCount: session.correctCount,
+      status: session.status,
+      createdAt: session.createdAt,
+    })),
+    ...passageSessions.map((session) => ({
+      id: session.id,
+      source: "passage" as const,
+      quizType: "passage",
+      quizNumber: session.quizNumber,
+      quizName: session.quizName,
+      alphabetLetter: "-",
+      questionCount: session.questionCount,
+      answeredCount: session.answeredCount,
+      correctCount: session.correctCount,
+      status: session.status,
+      createdAt: session.createdAt,
+    })),
+  ]
+    .sort((a, b) => new Date(b.createdAt).getTime() - new Date(a.createdAt).getTime())
+    .slice(0, 100);
   const activeReview = reviewPassages[reviewIndex] ?? null;
   const viewingStudent = adminUnlocked && viewingStudentId
     ? adminStudents.find((s) => s.id === viewingStudentId)
     : null;
 
-  async function openPassageReview(options: { domain?: string; skill?: string; title: string }) {
+  async function openPassageReview(options: { domain?: string; skill?: string; passageQuizSessionId?: number; title: string }) {
     setReviewLoading(true);
     setReviewError("");
     setReviewOpen(true);
@@ -239,6 +284,7 @@ export function ProgressClient() {
       const params = new URLSearchParams();
       if (options.domain) params.set("domain", options.domain);
       if (options.skill) params.set("skill", options.skill);
+      if (options.passageQuizSessionId) params.set("passageQuizSessionId", String(options.passageQuizSessionId));
 
       let url: string;
       const headers: HeadersInit = {};
@@ -491,13 +537,13 @@ export function ProgressClient() {
     recentQuizSessions: (
       <section className="rounded-xl border border-slate-300 bg-white p-4 shadow-sm">
         <h2 className="text-lg font-semibold text-slate-900">Recent Quiz Sessions</h2>
-        <p className="mt-1 text-sm text-slate-600">Latest 100 quizzes matching the selected filters.</p>
+        <p className="mt-1 text-sm text-slate-600">Latest 100 quizzes including meaning, blank, and passage sessions.</p>
 
-        {!loading && sessions.length === 0 ? (
+        {!loading && !passageLoading && recentSessions.length === 0 ? (
           <p className="mt-4 text-sm text-slate-600">No quiz sessions yet. Start a quiz to build your progress history.</p>
         ) : null}
 
-        {!loading && sessions.length > 0 ? (
+        {!loading && !passageLoading && recentSessions.length > 0 ? (
           <div className="mt-4 overflow-x-auto">
             <table className="min-w-full border-collapse text-sm">
               <thead>
@@ -509,16 +555,22 @@ export function ProgressClient() {
                   <th className="px-2 py-2">Accuracy</th>
                   <th className="px-2 py-2">Status</th>
                   <th className="px-2 py-2">Date</th>
+                  <th className="px-2 py-2">Review</th>
                 </tr>
               </thead>
               <tbody>
-                {sessions.map((session) => {
+                {recentSessions.map((session) => {
                   const accuracy = session.answeredCount > 0 ? session.correctCount / session.answeredCount : 0;
-                  const typeLabel = session.quizType === "blank" ? "Blank" : "Meaning";
+                  const typeLabel =
+                    session.quizType === "blank"
+                      ? "Blank"
+                      : session.quizType === "passage"
+                        ? "Passage"
+                        : "Meaning";
                   const startedAt = new Date(session.createdAt).toLocaleString();
 
                   return (
-                    <tr key={session.id} className="border-b border-slate-100 align-top text-slate-800">
+                    <tr key={`${session.source}-${session.id}`} className="border-b border-slate-100 align-top text-slate-800">
                       <td className="px-2 py-2">
                         <p className="font-semibold text-slate-900">#{session.quizNumber} {session.quizName}</p>
                       </td>
@@ -530,6 +582,24 @@ export function ProgressClient() {
                       <td className="px-2 py-2">{toPercent(accuracy)}</td>
                       <td className="px-2 py-2">{session.status.replaceAll("_", " ")}</td>
                       <td className="px-2 py-2">{startedAt}</td>
+                      <td className="px-2 py-2">
+                        {session.source === "passage" ? (
+                          <button
+                            type="button"
+                            onClick={() =>
+                              openPassageReview({
+                                passageQuizSessionId: session.id,
+                                title: `Review Passage Quiz #${session.quizNumber}`,
+                              })
+                            }
+                            className="rounded-md border border-blue-200 bg-blue-50 px-2.5 py-1 text-xs font-semibold text-blue-700 hover:bg-blue-100"
+                          >
+                            Review
+                          </button>
+                        ) : (
+                          <span className="text-xs text-slate-400">—</span>
+                        )}
+                      </td>
                     </tr>
                   );
                 })}

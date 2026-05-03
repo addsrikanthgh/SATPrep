@@ -32,6 +32,7 @@ export async function GET(request: NextRequest) {
     passageQuizSessionId: sessionId,
     filterDomain: quizSession.filterDomain,
     filterSkill: quizSession.filterSkill,
+    dsatStyle: quizSession.quizName.includes("-DSAT-"),
   });
 
   if (!next) {

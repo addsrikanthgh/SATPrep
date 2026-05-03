@@ -8,6 +8,7 @@ const startSchema = z.object({
   questionCount: z.number().int().positive().max(100).default(10).optional(),
   filterDomain: z.string().optional().nullable(),
   filterSkill: z.string().optional().nullable(),
+  dsatStyle: z.boolean().optional().default(false),
 });
 
 export async function POST(request: Request) {
@@ -23,14 +24,17 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: parsed.error.flatten() }, { status: 400 });
   }
 
-  const questionCount = parsed.data.questionCount ?? 10;
-  const filterDomain = parsed.data.filterDomain ?? null;
-  const filterSkill = parsed.data.filterSkill ?? null;
+  const dsatStyle = parsed.data.dsatStyle ?? false;
+  const questionCount = dsatStyle ? 27 : (parsed.data.questionCount ?? 10);
+  const filterDomain = dsatStyle ? null : (parsed.data.filterDomain ?? null);
+  const filterSkill = dsatStyle ? null : (parsed.data.filterSkill ?? null);
 
   const domainTag = filterDomain ? filterDomain.slice(0, 6).toUpperCase().replace(/\s+/g, "") : "MIXED";
   const skillTag = filterSkill ? `-${filterSkill.slice(0, 8).toUpperCase().replace(/\s+/g, "")}` : "";
   const quizNumber = await getPassageQuizNumber(prisma, studentId);
-  const quizName = `P-Q${quizNumber}-${domainTag}${skillTag}-${questionCount}`;
+  const quizName = dsatStyle
+    ? `P-Q${quizNumber}-DSAT-${questionCount}`
+    : `P-Q${quizNumber}-${domainTag}${skillTag}-${questionCount}`;
 
   const created = await prisma.passageQuizSession.create({
     data: {
